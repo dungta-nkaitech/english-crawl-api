@@ -1,6 +1,8 @@
 import { Injectable } from '@nestjs/common';
 import axios from 'axios';
 import * as cheerio from 'cheerio';
+import * as fs from 'fs';
+import * as path from 'path';
 
 type TranscriptItem = {
   order: number;
@@ -56,7 +58,7 @@ export class BBCService {
         const loaded = cheerio.load(line);
         const strong = loaded('strong').text().trim();
 
-        let textOnly = loaded.root().text().trim();
+        const textOnly = loaded.root().text().trim();
 
         if (strong) {
           currentSpeaker = strong;
@@ -106,6 +108,50 @@ export class BBCService {
       transcript,
       vocabItems,
     };
+  }
+
+  async crawlAllEpisodes(): Promise<IEpisodeDetail[]> {
+    const BASE_URL = 'https://www.bbc.co.uk';
+    const LISTING_URL = `${BASE_URL}/learningenglish/english/features/6-minute-english`;
+
+    const { data }: { data: string } = await axios.get(LISTING_URL);
+    const $ = cheerio.load(data);
+
+    const links = new Set<string>();
+
+    $('div.text h2 > a').each((_, el) => {
+      const href = $(el).attr('href');
+      if (
+        href?.startsWith('/learningenglish/english/features/6-minute-english')
+      ) {
+        links.add(BASE_URL + href);
+      }
+    });
+
+    const result: IEpisodeDetail[] = [];
+    for (const url of links) {
+      const detail = await this.crawlEpisodeDetail(url);
+      result.push(detail);
+      await this.downloadAudio(detail.audioUrl);
+    }
+
+    return result;
+  }
+
+  private async downloadAudio(url: string | null): Promise<void> {
+    if (!url) return;
+    const filename = url.split('/').pop();
+    const dir = path.join(process.cwd(), 'public', 'audios');
+    const filePath = path.join(dir, filename!);
+
+    if (!fs.existsSync(dir)) {
+      fs.mkdirSync(dir, { recursive: true });
+    }
+
+    if (fs.existsSync(filePath)) return;
+
+    const res = await axios.get(url, { responseType: 'arraybuffer' });
+    fs.writeFileSync(filePath, res.data);
   }
 }
 

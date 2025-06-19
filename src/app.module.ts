@@ -4,9 +4,12 @@ import { ConfigModule, ConfigService } from '@nestjs/config';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { CrawlerModule } from './crawler/crawler.module';
+import { BbcController } from './crawler/bbc.controller';
+import { BbcModule } from './crawler/bbc.module';
 
 @Module({
   imports: [
+    BbcModule,
     CrawlerModule,
     ConfigModule.forRoot({ isGlobal: true }),
     TypeOrmModule.forRootAsync({
