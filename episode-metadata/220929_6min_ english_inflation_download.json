@@ -1,0 +1,15 @@
+{
+  "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2022/ep-220929",
+  "title": "Why are prices going up?",
+  "description": "Learn vocabulary to talk about inflation",
+  "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p0d09kt9.jpg",
+  "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/220929_6min_ english_inflation_download.mp3",
+  "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/220929_6min_english_inflation.pdf",
+  "vocabItems": [
+    {
+      "word": "inflation",
+      "definition": "increase in prices of things over time"
+    }
+  ],
+  "quiz": null
+}

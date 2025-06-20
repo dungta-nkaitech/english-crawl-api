@@ -1,0 +1,15 @@
+{
+  "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170928",
+  "title": "What can't computers do?",
+  "description": "Are you afraid of machines that copy human intelligent behaviour?",
+  "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p05hhg8m.jpg",
+  "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/170928_6min_english_computers_download.mp3",
+  "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/170928_6min_english_computers.pdf",
+  "vocabItems": [
+    {
+      "word": "artificial intelligence or AI",
+      "definition": "the ability of machines to copy human intelligent behaviour."
+    }
+  ],
+  "quiz": null
+}

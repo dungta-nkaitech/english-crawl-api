@@ -1,0 +1,15 @@
+{
+  "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-210506",
+  "title": "Mermaids",
+  "description": "Sirens, mermaids, mami wata... we talk about different representations of these intriguing water creatures.",
+  "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p098hrq8.jpg",
+  "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210506_6min_english_mermaids_download.mp3",
+  "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210506_6min_english_mermaids.pdf",
+  "vocabItems": [
+    {
+      "word": "amphibious",
+      "definition": "describes a creature that lives both on land and in water"
+    }
+  ],
+  "quiz": null
+}

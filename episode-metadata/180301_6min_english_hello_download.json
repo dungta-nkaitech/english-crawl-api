@@ -1,0 +1,15 @@
+{
+  "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180301",
+  "title": "Hello, hello",
+  "description": "The history of the humble ‘hello’",
+  "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p05zr4w0.jpg",
+  "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/180301_6min_english_hello_download.mp3",
+  "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/180301_6min_english_hello.pdf",
+  "vocabItems": [
+    {
+      "word": "minefield",
+      "definition": "subject full of hidden problems"
+    }
+  ],
+  "quiz": null
+}

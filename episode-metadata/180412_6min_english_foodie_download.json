@@ -1,0 +1,15 @@
+{
+  "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180412",
+  "title": "Are you a foodie?",
+  "description": "How much do you know about the food you eat?",
+  "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p06428cf.jpg",
+  "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/180412_6min_english_foodie_download.mp3",
+  "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/180412_6min_english_foodie.pdf",
+  "vocabItems": [
+    {
+      "word": "foodie",
+      "definition": "someone who is very interested in all aspects of food"
+    }
+  ],
+  "quiz": null
+}

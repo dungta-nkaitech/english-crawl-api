@@ -13,6 +13,7 @@ type TranscriptItem = {
 @Injectable()
 export class BBCService {
   async crawlEpisodeDetail(url: string): Promise<IEpisodeDetail> {
+    const episodeUrl = url;
     const { data }: { data: string } = await axios.get(url);
     const $ = cheerio.load(data);
 
@@ -37,16 +38,26 @@ export class BBCService {
     const transcript: TranscriptItem[] = [];
     let order = 1;
 
-    // Xác định phần tử <p><strong style="font-size: 1.17em;">TRANSCRIPT</strong></p>
-    const transcriptStart = $('p strong[style*="font-size: 1.17em"]')
+    // 1. Tìm đoạn chứa TRANSCRIPT
+    const transcriptStart = $('*')
       .filter((_, el) => {
-        return $(el).text().trim().toUpperCase() === 'TRANSCRIPT';
+        const text = $(el).text().trim().toUpperCase();
+        return text === 'TRANSCRIPT';
       })
-      .closest('p')
       .first();
 
-    // Bỏ qua thêm 1 đoạn "Note: This is not a word-for-word transcript."
-    const transcriptParagraphs = transcriptStart.nextAll('p').slice(1);
+    // 2. Tìm phần tử tiếp theo chứa "Note: This is not a word-for-word transcript."
+    const afterNote = transcriptStart
+      .nextAll()
+      .filter((_, el) => {
+        const text = $(el).text().trim();
+        return text.includes('Note: This is not a word-for-word transcript.');
+      })
+      .first();
+
+    const transcriptParagraphs = (
+      afterNote.length ? afterNote : transcriptStart
+    ).nextAll('p');
 
     let currentSpeaker: string | null = null;
 
@@ -79,38 +90,139 @@ export class BBCService {
 
     // 6. Lấy vocabulary nếu có
     const vocabItems: {
-      word: string;
-      definition: string;
+      word: string | null;
+      definition: string | null;
     }[] = [];
 
-    $('h2').each((_, el) => {
+    $('h3').each((_, el) => {
       const heading = $(el).text().toLowerCase();
       if (heading.includes('vocabulary')) {
-        const vocabList = $(el).next('ul').find('li');
-        vocabList.each((_, li) => {
-          const text = $(li).text().trim();
-          const match = text.match(/^(.+?)\s+–\s+(.*)$/); // dạng: từ – định nghĩa
-          if (match) {
-            vocabItems.push({
-              word: match[1].trim(),
-              definition: match[2].trim(),
-            });
+        const vocabParagraph = $(el).next('p').html() || '';
+        const segments = vocabParagraph.split(/<br\s*\/?>/i);
+
+        let currentWord = '';
+        let currentDef = '';
+
+        segments.forEach((segment) => {
+          const $segment = cheerio.load(segment.trim());
+          const text = $segment
+            .text()
+            .replace(/\u00a0/g, ' ')
+            .trim();
+
+          if (segment.includes('<strong>')) {
+            if (currentWord && currentDef) {
+              vocabItems.push({ word: currentWord, definition: currentDef });
+            }
+            currentWord = text;
+            currentDef = '';
+          } else if (text) {
+            currentDef += (currentDef ? ' ' : '') + text;
           }
         });
+
+        // Đẩy từ cuối cùng nếu còn
+        if (currentWord && currentDef) {
+          vocabItems.push({ word: currentWord, definition: currentDef });
+        }
       }
     });
 
+    // 7. Lấy thumbnail image url
+    const thumbnailUrl = $('img.image-popout-video')?.attr('src') ?? '';
+
+    // 7. Lấy quiz embed
+    const quizLink = $('a[href*="riddles/"]').attr('href'); // tìm link chứa riddles/
+    let riddleEmbedUrl: string | null = null;
+
+    if (quizLink) {
+      const match = quizLink.match(/riddles\/(\d+)/);
+      if (match) {
+        const riddleId = match[1];
+        riddleEmbedUrl = `https://www.riddle.com/view/${riddleId}?type=widget`;
+      }
+    }
+
     return {
+      episodeUrl,
       title,
       description,
+      thumbnailUrl,
       audioUrl,
       pdfUrl,
       transcript,
       vocabItems,
+      quiz: riddleEmbedUrl,
     };
   }
 
   async crawlAllEpisodes(): Promise<IEpisodeDetail[]> {
+    const BASE_URL = 'https://www.bbc.co.uk';
+    const LISTING_URL = `${BASE_URL}/learningenglish/english/features/6-minute-english`;
+
+    const { data }: { data: string } = await axios.get(LISTING_URL);
+    const $ = cheerio.load(data);
+
+    const links = new Set<string>();
+
+    $('div.text h2 > a').each((_, el) => {
+      const href = $(el).attr('href');
+      if (
+        href?.startsWith('/learningenglish/english/features/6-minute-english')
+      ) {
+        links.add(BASE_URL + href);
+      }
+    });
+
+    const result: IEpisodeDetail[] = [];
+
+    for (const url of links) {
+      const detail = await this.crawlEpisodeDetail(url);
+      if (detail.audioUrl) {
+        result.push(detail);
+
+        const { transcript, ...metadata } = detail;
+
+        this.saveTranscriptToFile(detail.audioUrl, transcript);
+        this.saveMetaEpisodeToFile(detail.audioUrl, metadata);
+      }
+    }
+    return result;
+  }
+
+  private saveMetaEpisodeToFile(audioUrl: string | null, metadata: any) {
+    if (!audioUrl) return;
+
+    const dir = path.join(process.cwd(), 'public', 'episode-metadata');
+    if (!fs.existsSync(dir)) {
+      fs.mkdirSync(dir, { recursive: true });
+    }
+
+    const filename = path.basename(audioUrl).replace('.mp3', '.json'); // chuyển name.mp3 -> name.json
+    const filePath = path.join(dir, filename);
+
+    fs.writeFileSync(filePath, JSON.stringify(metadata, null, 2), 'utf-8');
+  }
+
+  private saveTranscriptToFile(
+    audioUrl: string | null,
+    transcript: TranscriptItem[],
+  ) {
+    if (!audioUrl) return;
+
+    const dir = path.join(process.cwd(), 'public', 'origin-transcripts');
+    if (!fs.existsSync(dir)) {
+      fs.mkdirSync(dir, { recursive: true });
+    }
+
+    const filename = path.basename(audioUrl).replace('.mp3', '.json'); // chuyển name.mp3 -> name.json
+    const filePath = path.join(dir, filename);
+    console.log('transcript', transcript[0] ?? 'null');
+
+    fs.writeFileSync(filePath, JSON.stringify(transcript, null, 2), 'utf-8');
+  }
+
+  async downloadAllAudios(): Promise<IEpisodeDetail[]> {
     const BASE_URL = 'https://www.bbc.co.uk';
     const LISTING_URL = `${BASE_URL}/learningenglish/english/features/6-minute-english`;
 
@@ -156,8 +268,10 @@ export class BBCService {
 }
 
 export interface IEpisodeDetail {
+  episodeUrl: string;
   title: string;
   description: string;
+  thumbnailUrl: string;
   audioUrl: string | null;
   pdfUrl: string | null;
   transcript: {
@@ -166,7 +280,8 @@ export interface IEpisodeDetail {
     text: string;
   }[];
   vocabItems: {
-    word: string;
-    definition: string;
+    word: string | null;
+    definition: string | null;
   }[];
+  quiz: string | null;
 }

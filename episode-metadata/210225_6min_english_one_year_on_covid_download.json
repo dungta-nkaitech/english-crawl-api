@@ -1,0 +1,15 @@
+{
+  "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-210225",
+  "title": "Covid: One year on",
+  "description": "Hear about Covid-19 and how our knowledge has changed",
+  "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p095py59.jpg",
+  "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210225_6min_english_one_year_on_covid_download.mp3",
+  "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210225_6min_english_one_year_on_covid.pdf",
+  "vocabItems": [
+    {
+      "word": "pandemic",
+      "definition": "disease that affects many people around the world"
+    }
+  ],
+  "quiz": null
+}

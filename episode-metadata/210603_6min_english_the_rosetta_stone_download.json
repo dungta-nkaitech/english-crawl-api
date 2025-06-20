@@ -1,0 +1,15 @@
+{
+  "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-210603",
+  "title": "The Rosetta Stone",
+  "description": "We talk about the famous piece of rock that was key to translating the writing system created in ancient Egypt.",
+  "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p09kc2hd.jpg",
+  "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210603_6min_english_the_rosetta_stone_download.mp3",
+  "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210603_6min_english_the_rosetta_stone.pdf",
+  "vocabItems": [
+    {
+      "word": "hieroglyphs",
+      "definition": "pictures or symbol that represents words and sounds and were used in ancient Egypt"
+    }
+  ],
+  "quiz": null
+}

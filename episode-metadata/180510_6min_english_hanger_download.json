@@ -1,0 +1,15 @@
+{
+  "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180510",
+  "title": "Hangry: are you angry when you're hungry?",
+  "description": "hungry + angry = hangry",
+  "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p066mkd5.jpg",
+  "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/180510_6min_english_hanger_download.mp3",
+  "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/180510_6min_english_hangry.pdf",
+  "vocabItems": [
+    {
+      "word": "hangry",
+      "definition": "angry because of hunger"
+    }
+  ],
+  "quiz": null
+}

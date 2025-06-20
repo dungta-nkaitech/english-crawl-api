@@ -1,0 +1,15 @@
+{
+  "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-210218",
+  "title": "Singing in tune",
+  "description": "Hear about singing and why it’s good to do it",
+  "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p094v1pc.jpg",
+  "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210218_6min_english_singing_in_tune_download.mp3",
+  "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210218_6min_english_singing_in_tune.pdf",
+  "vocabItems": [
+    {
+      "word": "tone-deaf",
+      "definition": "unable to sing tunes accurately or recognise different notes"
+    }
+  ],
+  "quiz": null
+}

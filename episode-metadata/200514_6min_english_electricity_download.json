@@ -1,0 +1,15 @@
+{
+  "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-200514",
+  "title": "Shocking facts about electricity",
+  "description": "How do electric systems differ across the world?",
+  "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p08chjfn.jpg",
+  "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/200514_6min_english_electricity_download.mp3",
+  "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/200514_6min_english_electricity.pdf",
+  "vocabItems": [
+    {
+      "word": "frequency",
+      "definition": "how often something repeats; electrical current frequency is the number of times a wave repeats a positive-to-negative cycle"
+    }
+  ],
+  "quiz": null
+}

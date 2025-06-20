@@ -1,0 +1,15 @@
+{
+  "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-210826",
+  "title": "Making sense of the census",
+  "description": "What's behind counting people in a country?",
+  "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p09sny78.jpg",
+  "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210826_6min_english_census_intro_download.mp3",
+  "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210826_6min_english_census.pdf",
+  "vocabItems": [
+    {
+      "word": "census",
+      "definition": "system of officially counting and classifying every person of a nation’s population"
+    }
+  ],
+  "quiz": null
+}

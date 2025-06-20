@@ -1,0 +1,15 @@
+{
+  "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180802",
+  "title": "How intelligent is the octopus?",
+  "description": "Learn more about this fascinating animal",
+  "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p06gd6cx.jpg",
+  "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/180802_6min_english_octopus_download.mp3",
+  "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/180802_6min_english_octopus.pdf",
+  "vocabItems": [
+    {
+      "word": "cephalopod",
+      "definition": "the group of animals to which the octopus belongs"
+    }
+  ],
+  "quiz": null
+}

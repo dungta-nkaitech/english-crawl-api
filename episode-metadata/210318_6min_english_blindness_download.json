@@ -1,0 +1,15 @@
+{
+  "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-210318",
+  "title": "Digital help for blind people",
+  "description": "Hear about digital technology which helps blind people improve their lives",
+  "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p095hrjx.jpg",
+  "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210318_6min_english_blindness_download.mp3",
+  "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210318_6min_english_blindness.pdf",
+  "vocabItems": [
+    {
+      "word": "assistive technology",
+      "definition": "equipment and technology that help individuals with disabilities to perform functions that might otherwise be difficult or impossible"
+    }
+  ],
+  "quiz": null
+}

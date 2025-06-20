@@ -1,0 +1,15 @@
+{
+  "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-190627",
+  "title": "The business of eSports",
+  "description": "Game on for eSports!",
+  "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p07fb368.jpg",
+  "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/190627_6_minute_english_esports_download.mp3",
+  "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/190627_6min_english_esports.pdf",
+  "vocabItems": [
+    {
+      "word": "eSports",
+      "definition": "the business of competitive video gaming"
+    }
+  ],
+  "quiz": null
+}

@@ -1,0 +1,15 @@
+{
+  "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-210823",
+  "title": "The fear of numbers",
+  "description": "How much maths do you need to know to get by?",
+  "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p09sxcw0.jpg",
+  "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210823_6min_english_maths_download.mp3",
+  "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210823_6min_english_maths.pdf",
+  "vocabItems": [
+    {
+      "word": "a numbers person",
+      "definition": "someone who understands numbers and is good at using them and interpreting data"
+    }
+  ],
+  "quiz": null
+}

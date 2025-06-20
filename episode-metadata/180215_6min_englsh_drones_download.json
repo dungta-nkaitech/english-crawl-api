@@ -1,0 +1,23 @@
+{
+  "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-180215",
+  "title": "The rise of drones",
+  "description": "Are drones taking off?",
+  "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p05ynvfp.jpg",
+  "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/180215_6min_englsh_drones_download.mp3",
+  "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/180215_6min_english_drones.pdf",
+  "vocabItems": [
+    {
+      "word": "carefully watching someone or something, usually to try and stop something illegal",
+      "definition": "aerial footage"
+    },
+    {
+      "word": "film recording made from the sky",
+      "definition": "game changer"
+    },
+    {
+      "word": "the sky's the limit",
+      "definition": "there's no limit to something"
+    }
+  ],
+  "quiz": null
+}

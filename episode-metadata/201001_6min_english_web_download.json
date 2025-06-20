@@ -1,0 +1,15 @@
+{
+  "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-201001",
+  "title": "How can we make the web a better place?",
+  "description": "Learn about Web Science, a new academic subject about the internet",
+  "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p08t1kxy.jpg",
+  "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/201001_6min_english_web_download.mp3",
+  "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/201001_6min_english_web.pdf",
+  "vocabItems": [
+    {
+      "word": "interdisciplinary",
+      "definition": "involving two or more academic subjects or areas of knowledge"
+    }
+  ],
+  "quiz": null
+}

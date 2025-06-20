@@ -1,0 +1,15 @@
+{
+  "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-210114",
+  "title": "For the love of foreign languages",
+  "description": "Is learning languages good for head, heart and soul?",
+  "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p093c2hh.jpg",
+  "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210114_6min_english_polyglots_download.mp3",
+  "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210114_6min_english_polyglots.pdf",
+  "vocabItems": [
+    {
+      "word": "polyglot",
+      "definition": "someone who speaks many languages"
+    }
+  ],
+  "quiz": null
+}
