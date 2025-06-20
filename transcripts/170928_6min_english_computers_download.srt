@@ -1,0 +1,336 @@
+1
+00:00:00,000 --> 00:00:03,120
+This is a download from BBC Learning English.
+
+2
+00:00:03,120 --> 00:00:05,679
+To find out more, visit our website.
+
+3
+00:00:05,679 --> 00:00:11,519
+6 Minute English from BBCLearningEnglish.com
+
+4
+00:00:12,480 --> 00:00:18,080
+Welcome to 6 Minute English, where we bring you an intelligent topic and six related items of vocabulary.
+
+5
+00:00:18,080 --> 00:00:25,120
+I'm Neil and I'm Tim and today we are talking about AI or artificial intelligence.
+
+6
+00:00:25,120 --> 00:00:30,960
+Artificial intelligence is the ability of machines to copy human intelligent behaviour.
+
+7
+00:00:30,960 --> 00:00:36,240
+For example, an intelligent machine can learn from its own mistakes and make decisions based
+
+8
+00:00:36,240 --> 00:00:38,000
+on what's happened in the past.
+
+9
+00:00:38,000 --> 00:00:42,960
+There's a lot of talk about AI these days, Neil, but it's still just science fiction, isn't it?
+
+10
+00:00:43,520 --> 00:00:46,079
+That's not true. AI is everywhere.
+
+11
+00:00:46,079 --> 00:00:50,719
+Machine thinking is in our homes, offices, schools and hospitals.
+
+12
+00:00:50,719 --> 00:00:54,000
+Computer algorithms are helping us drive our cars.
+
+13
+00:00:54,000 --> 00:00:57,200
+They're diagnosing what's wrong with us in hospitals.
+
+14
+00:00:57,200 --> 00:00:59,039
+They're marking student essays.
+
+15
+00:00:59,039 --> 00:01:01,520
+They're telling us what to read on our smartphones.
+
+16
+00:01:01,520 --> 00:01:04,640
+Well, that really does sound like science fiction.
+
+17
+00:01:04,640 --> 00:01:06,719
+But it's happening already, you say, Neil.
+
+18
+00:01:06,719 --> 00:01:08,560
+It's definitely happening, Tim.
+
+19
+00:01:08,560 --> 00:01:14,480
+And an algorithm, by the way, is a set of steps a computer follows in order to solve a problem.
+
+20
+00:01:14,480 --> 00:01:18,240
+So can you tell me what was the name of the computer
+
+21
+00:01:18,479 --> 00:01:24,479
+which famously beat world chess champion Gary Kasparov using algorithms in 1997?
+
+22
+00:01:24,479 --> 00:01:29,839
+Was it A, how? B, alpha 60 or C, deep blue?
+
+23
+00:01:29,839 --> 00:01:33,839
+I'll say deep blue, although I'm just guessing.
+
+24
+00:01:33,839 --> 00:01:35,759
+Was it an educated guess, Tim?
+
+25
+00:01:35,759 --> 00:01:37,280
+I know a bit about chess.
+
+26
+00:01:37,280 --> 00:01:42,879
+An educated guess is based on knowledge and experience and is therefore likely to be correct.
+
+27
+00:01:42,879 --> 00:01:46,959
+Well, we'll find out later on how educated your guess was in this case, Tim.
+
+28
+00:01:46,959 --> 00:01:51,039
+Indeed. But getting back to AI and what machines can do.
+
+29
+00:01:51,679 --> 00:01:55,519
+Are they any good at solving real-life problems?
+
+30
+00:01:55,519 --> 00:01:58,479
+Computers think in zeros and ones, don't they?
+
+31
+00:01:58,479 --> 00:02:02,319
+That sounds like a pretty limited language when it comes to life experience.
+
+32
+00:02:02,319 --> 00:02:06,079
+You would be surprised at what those zeros and ones can do, Tim.
+
+33
+00:02:06,079 --> 00:02:09,919
+Although you're right that AI does have its limitations at the moment.
+
+34
+00:02:09,919 --> 00:02:14,879
+And if something has its limitations, there's a limit on what it can do or how good it can be.
+
+35
+00:02:14,960 --> 00:02:19,680
+Okay. Well, now it might be a good time to listen to Zubin Bachramani,
+
+36
+00:02:19,680 --> 00:02:23,439
+professor of information engineering at the University of Cambridge,
+
+37
+00:02:23,439 --> 00:02:28,159
+and Deputy Director of the Leverhulmer Center for the Future of Intelligence.
+
+38
+00:02:28,799 --> 00:02:32,560
+He's talking about what limitations AI has at the moment.
+
+39
+00:02:34,479 --> 00:02:39,599
+I think it's very interesting how many of the things that we take for granted,
+
+40
+00:02:39,599 --> 00:02:43,680
+we humans take for granted as being sort of things we don't even think about, like,
+
+41
+00:02:43,680 --> 00:02:50,080
+how do we walk, how do we reach, how do we recognize our mother, all these things.
+
+42
+00:02:50,080 --> 00:02:53,840
+When you start to think about how to implement them on a computer,
+
+43
+00:02:53,840 --> 00:03:01,280
+you realize that it's those things that are incredibly difficult to get computers to do,
+
+44
+00:03:01,280 --> 00:03:05,680
+and that's where the current cutting edge of research is.
+
+45
+00:03:07,439 --> 00:03:11,360
+If we take something for granted, we don't realize how important something is.
+
+46
+00:03:11,360 --> 00:03:13,920
+You sometimes take me for granted, I think Neil.
+
+47
+00:03:14,640 --> 00:03:18,160
+No, I never take you for granted, Tim, you're far too important for that.
+
+48
+00:03:18,880 --> 00:03:24,560
+Good to hear. So things we take for granted are doing everyday tasks,
+
+49
+00:03:24,560 --> 00:03:28,240
+like walking, picking something up, or recognizing somebody.
+
+50
+00:03:28,960 --> 00:03:32,880
+We implement or perform these things without thinking,
+
+51
+00:03:33,360 --> 00:03:38,000
+whereas it's cutting edge research to try and program a machine to do them.
+
+52
+00:03:38,000 --> 00:03:40,879
+Cutting edge means very new and advanced.
+
+53
+00:03:40,879 --> 00:03:45,520
+It's interesting, isn't it, that over 10 years ago, a computer beat a chess grandmaster,
+
+54
+00:03:45,520 --> 00:03:50,080
+but the same computer would find it incredibly difficult to pick up a chess piece.
+
+55
+00:03:50,080 --> 00:03:55,840
+I know, it's very strange, but now you've reminded me that we need the answer to today's question,
+
+56
+00:03:55,840 --> 00:04:03,759
+which was, what was the name of the computer which famously beat world chess champion Gary Kasparov in 1997?
+
+57
+00:04:03,840 --> 00:04:07,679
+Now you said deep blue Tim, and that was the right answer.
+
+58
+00:04:07,679 --> 00:04:12,159
+You see, my educated guess was based on knowledge and experience.
+
+59
+00:04:12,159 --> 00:04:14,560
+Oh, maybe you were just lucky.
+
+60
+00:04:15,280 --> 00:04:21,519
+So the IBM Supercomputer deep blue played against US World Chess champion Gary Kasparov in two
+
+61
+00:04:21,519 --> 00:04:27,360
+chess matches. The first match was played in Philadelphia in 1996 and was won by Kasparov.
+
+62
+00:04:27,360 --> 00:04:32,080
+The second was played in New York City in 1997 and won by deep blue.
+
+63
+00:04:32,080 --> 00:04:38,639
+The 1997 match was the first defeat of a reigning world chess champion by a computer under tournament
+
+64
+00:04:38,639 --> 00:04:46,400
+conditions. Let's go through the words we learned today. First up was artificial intelligence or AI,
+
+65
+00:04:46,400 --> 00:04:50,400
+the ability of machines to copy human intelligent behavior.
+
+66
+00:04:50,400 --> 00:04:53,439
+There are AI programs that can write poetry.
+
+67
+00:04:53,439 --> 00:04:56,080
+Do you have any examples you can recite?
+
+68
+00:04:56,159 --> 00:04:57,519
+Afraid I don't.
+
+69
+00:04:57,519 --> 00:05:02,560
+Number two, an algorithm is a set of steps a computer follows in order to solve a problem.
+
+70
+00:05:02,560 --> 00:05:07,680
+For example, Google changes its search algorithm hundreds of times every year.
+
+71
+00:05:07,680 --> 00:05:14,240
+The adjective is algorithmic. For example, Google has made many algorithmic changes.
+
+72
+00:05:14,240 --> 00:05:19,839
+Number three, if something has limitations, there's a limit on what it can do or how good it can be.
+
+73
+00:05:20,639 --> 00:05:25,279
+Our show has certain limitations. For example, it's only six minutes long.
+
+74
+00:05:25,279 --> 00:05:32,079
+That's right, there's only time to present six vocabulary items, short but sweet and very intelligent too.
+
+75
+00:05:32,639 --> 00:05:37,759
+Okay, the next item is take something for granted, which is when we don't realise how important
+
+76
+00:05:37,759 --> 00:05:45,439
+something is. We take our smartphones for granted these days, but before 1995, hardly anyone owned one.
+
+77
+00:05:45,439 --> 00:05:50,000
+Number five, to implement means to perform a task or take action.
+
+78
+00:05:50,000 --> 00:05:52,639
+Neil implemented some changes to the show.
+
+79
+00:05:52,639 --> 00:05:56,240
+The final item is cutting edge, new and advanced.
+
+80
+00:05:56,240 --> 00:05:58,079
+This software is cutting edge.
+
+81
+00:05:58,079 --> 00:06:01,120
+The software uses cutting edge technology.
+
+82
+00:06:01,120 --> 00:06:05,120
+Okay, that's all we have time for in today's cutting edge show,
+
+83
+00:06:05,120 --> 00:06:09,439
+but please check out our Instagram, Twitter, Facebook and YouTube pages.
+
+84
+00:06:09,439 --> 00:06:10,639
+Bye bye, goodbye.
+

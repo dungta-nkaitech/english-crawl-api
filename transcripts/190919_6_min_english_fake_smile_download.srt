@@ -1,0 +1,552 @@
+1
+00:00:00,000 --> 00:00:03,120
+This is a download from BBC Learning English.
+
+2
+00:00:03,120 --> 00:00:05,679
+To find out more, visit our website.
+
+3
+00:00:05,679 --> 00:00:08,240
+6 Minute English
+
+4
+00:00:08,240 --> 00:00:10,640
+From BBC Learning English
+
+5
+00:00:13,519 --> 00:00:15,919
+Hello, this is 6 Minute English, I'm Neil.
+
+6
+00:00:15,919 --> 00:00:16,920
+And I'm Sam.
+
+7
+00:00:16,920 --> 00:00:18,559
+It's good to see you again, Sam.
+
+8
+00:00:18,559 --> 00:00:19,440
+Really?
+
+9
+00:00:19,440 --> 00:00:20,480
+Yeah, of course.
+
+10
+00:00:20,480 --> 00:00:23,039
+Can't you tell by the way I'm smiling?
+
+11
+00:00:23,039 --> 00:00:27,039
+Well, I find it difficult to tell if someone is really smiling
+
+12
+00:00:27,039 --> 00:00:28,719
+or if it's a fake smile.
+
+13
+00:00:28,799 --> 00:00:31,359
+Well, that's a coincidence because this programme
+
+14
+00:00:31,359 --> 00:00:35,119
+is all about how computers may be able to tell real smiles
+
+15
+00:00:35,119 --> 00:00:38,239
+from fake smiles better than humans can.
+
+16
+00:00:38,239 --> 00:00:40,799
+Before we get into that, though, a question.
+
+17
+00:00:40,799 --> 00:00:44,799
+The expressions that we can make with our face are controlled by muscles.
+
+18
+00:00:44,799 --> 00:00:47,359
+How many muscles do we have in our face?
+
+19
+00:00:47,359 --> 00:00:52,239
+Is it a 26, b 43 or c 62?
+
+20
+00:00:52,239 --> 00:00:53,599
+What do you think, Sam?
+
+21
+00:00:53,599 --> 00:00:56,480
+No idea, but a lot, I'd guess.
+
+22
+00:00:56,480 --> 00:00:58,480
+So I'm going with 62.
+
+23
+00:00:58,559 --> 00:01:00,879
+OK, well, we'll see if you'll be smiling
+
+24
+00:01:00,879 --> 00:01:03,039
+or crying later in the programme.
+
+25
+00:01:03,039 --> 00:01:06,319
+Hassan Ugael is a professor of visual computing
+
+26
+00:01:06,319 --> 00:01:07,920
+at the University of Bradford.
+
+27
+00:01:07,920 --> 00:01:09,920
+He's been working on getting computers
+
+28
+00:01:09,920 --> 00:01:12,479
+to be able to recognise human emotions
+
+29
+00:01:12,479 --> 00:01:14,399
+from the expressions on our face.
+
+30
+00:01:15,120 --> 00:01:19,120
+Here he is speaking on the BBC Inside Science Radio programme.
+
+31
+00:01:19,120 --> 00:01:21,920
+How successful does he say they have been?
+
+32
+00:01:21,920 --> 00:01:24,640
+We've been working quite a lot on the human emotions
+
+33
+00:01:24,640 --> 00:01:28,239
+or the ideas how the facial muscle movement
+
+34
+00:01:28,319 --> 00:01:30,319
+which is reflected on the face,
+
+35
+00:01:30,319 --> 00:01:33,039
+through obviously computer, through video frames,
+
+36
+00:01:33,039 --> 00:01:35,280
+and trying to understand how these muscle movements
+
+37
+00:01:35,280 --> 00:01:38,000
+actually relate to facial expressions
+
+38
+00:01:38,000 --> 00:01:39,599
+and then from facial expressions,
+
+39
+00:01:39,599 --> 00:01:43,199
+trying to understand the emotions or to infer the emotions.
+
+40
+00:01:43,199 --> 00:01:45,359
+And we have been quite successful in doing that.
+
+41
+00:01:45,359 --> 00:01:48,879
+We have software that can actually look at somebody's face
+
+42
+00:01:48,879 --> 00:01:53,439
+in real time and then identify the series of emotions
+
+43
+00:01:53,439 --> 00:01:56,479
+that persons express in real time as well.
+
+44
+00:01:56,560 --> 00:01:59,520
+So, have they been successful in getting computers
+
+45
+00:01:59,520 --> 00:02:01,359
+to identify emotions?
+
+46
+00:02:01,359 --> 00:02:04,159
+Yes, he says they've been quite successful.
+
+47
+00:02:04,159 --> 00:02:06,159
+And what's interesting is that he says
+
+48
+00:02:06,159 --> 00:02:09,920
+that the computers can do it in real time.
+
+49
+00:02:09,920 --> 00:02:12,480
+This means that there's no delay.
+
+50
+00:02:12,480 --> 00:02:15,039
+They don't have to stop and analyse the data
+
+51
+00:02:15,039 --> 00:02:16,400
+or crunch the numbers.
+
+52
+00:02:16,400 --> 00:02:19,360
+They can do it as the person is talking.
+
+53
+00:02:19,360 --> 00:02:23,040
+The system uses video to analyse a person's expressions
+
+54
+00:02:23,040 --> 00:02:25,439
+and can then infer the emotions.
+
+55
+00:02:25,520 --> 00:02:28,400
+To infer something means to get an understanding of something
+
+56
+00:02:28,400 --> 00:02:31,039
+without actually being told directly.
+
+57
+00:02:31,039 --> 00:02:32,879
+So, you look at available information
+
+58
+00:02:32,879 --> 00:02:34,879
+and use your understanding and knowledge
+
+59
+00:02:34,879 --> 00:02:36,560
+to work out the meaning.
+
+60
+00:02:36,560 --> 00:02:39,039
+It's a bit like being a detective, isn't it?
+
+61
+00:02:39,039 --> 00:02:42,079
+You look at the clues and infer what happened
+
+62
+00:02:42,079 --> 00:02:44,240
+even if you don't have all the details.
+
+63
+00:02:44,240 --> 00:02:46,400
+Yes, and in this case, the computer looks
+
+64
+00:02:46,400 --> 00:02:48,560
+at how the movement of muscles in the face
+
+65
+00:02:48,560 --> 00:02:51,599
+or facial muscles show different emotions.
+
+66
+00:02:51,599 --> 00:02:53,599
+Here's Professor Ugeh again.
+
+67
+00:02:53,599 --> 00:02:56,319
+We've been working quite a lot on the human emotions
+
+68
+00:02:56,319 --> 00:02:59,919
+or the idea is how the facial muscle movement
+
+69
+00:02:59,919 --> 00:03:02,000
+which is reflected on the face
+
+70
+00:03:02,000 --> 00:03:04,719
+through obviously computer through video frames
+
+71
+00:03:04,719 --> 00:03:06,879
+and trying to understand how these muscle movements
+
+72
+00:03:06,879 --> 00:03:09,599
+actually relate to facial expressions
+
+73
+00:03:09,599 --> 00:03:11,199
+and then from facial expressions
+
+74
+00:03:11,199 --> 00:03:12,799
+trying to understand the emotions
+
+75
+00:03:12,799 --> 00:03:14,879
+or to infer the emotions.
+
+76
+00:03:14,879 --> 00:03:16,959
+And we have been quite successful in doing that.
+
+77
+00:03:16,959 --> 00:03:20,479
+We have software that can actually look at somebody's face
+
+78
+00:03:20,479 --> 00:03:25,039
+in real time and then identify the series of emotions
+
+79
+00:03:25,039 --> 00:03:27,919
+that person is expressing in real time as well.
+
+80
+00:03:27,919 --> 00:03:32,959
+So, how do the computers know what is a real or a fake smile?
+
+81
+00:03:32,959 --> 00:03:34,799
+The computers have to learn that first.
+
+82
+00:03:35,759 --> 00:03:39,599
+Here's Professor Ugeh again talking about how they do that.
+
+83
+00:03:39,599 --> 00:03:41,839
+We have a data set of real smiles
+
+84
+00:03:41,839 --> 00:03:43,839
+and we have a data set of fake smiles.
+
+85
+00:03:43,839 --> 00:03:46,159
+These real smiles are indeed smiles in a lab.
+
+86
+00:03:46,159 --> 00:03:48,000
+So, you put somebody on the chair
+
+87
+00:03:48,080 --> 00:03:50,560
+and then show some funny movies
+
+88
+00:03:50,560 --> 00:03:53,280
+and we expect the smiles are genuine smiles.
+
+89
+00:03:53,280 --> 00:03:56,240
+And similarly, we ask them to pretend they're smile
+
+90
+00:03:56,240 --> 00:03:58,159
+so these are what we call fake smiles.
+
+91
+00:03:58,159 --> 00:04:01,439
+So, what we do is we throw these into the machine
+
+92
+00:04:01,439 --> 00:04:03,199
+and then the machine figures out
+
+93
+00:04:03,199 --> 00:04:05,680
+what are the characteristics of a real smile
+
+94
+00:04:05,680 --> 00:04:07,920
+and what are the characteristics of a fake smile.
+
+95
+00:04:08,639 --> 00:04:11,759
+So, how do they get the data that the computers use
+
+96
+00:04:11,759 --> 00:04:14,400
+to see if your smile is fake or genuine,
+
+97
+00:04:14,400 --> 00:04:16,160
+which is another word which means real?
+
+98
+00:04:16,800 --> 00:04:19,520
+They induce real smiles in the lab
+
+99
+00:04:19,520 --> 00:04:21,520
+by showing people funny films.
+
+100
+00:04:22,080 --> 00:04:25,360
+This means that they make the smiles come naturally.
+
+101
+00:04:25,360 --> 00:04:29,520
+They assume that the smiles while watching the funny films are genuine.
+
+102
+00:04:29,520 --> 00:04:32,000
+And then they ask the people to pretend to smile
+
+103
+00:04:32,000 --> 00:04:36,000
+and the computer programme now has a database of real and fake smiles
+
+104
+00:04:36,000 --> 00:04:38,000
+and is able to figure out which is which.
+
+105
+00:04:38,640 --> 00:04:42,080
+Figure out means to calculate and come to an answer.
+
+106
+00:04:42,080 --> 00:04:45,600
+Yes and apparently the system gets it right 90% of the time
+
+107
+00:04:45,680 --> 00:04:47,840
+which is much higher than we humans can.
+
+108
+00:04:48,560 --> 00:04:51,600
+Right, well, before we remind ourselves of our vocabulary,
+
+109
+00:04:51,600 --> 00:04:53,600
+let's get the answer to the question.
+
+110
+00:04:53,600 --> 00:04:56,320
+How many muscles do we have in our face?
+
+111
+00:04:56,320 --> 00:05:00,800
+Is it A, 26, B, 43 or C, 62?
+
+112
+00:05:00,800 --> 00:05:02,240
+Sam, are you going to be smiling?
+
+113
+00:05:02,240 --> 00:05:03,040
+What did you say?
+
+114
+00:05:03,040 --> 00:05:04,960
+Aha, so I thought 62.
+
+115
+00:05:04,960 --> 00:05:06,320
+Am I smiling, Neil?
+
+116
+00:05:06,320 --> 00:05:11,760
+Sadly, you are not using different muscles for that sort of sad look.
+
+117
+00:05:12,879 --> 00:05:14,640
+Actually, the answer is 43.
+
+118
+00:05:14,719 --> 00:05:17,199
+Congratulations to anyone who got that right.
+
+119
+00:05:17,199 --> 00:05:18,639
+Now our vocabulary.
+
+120
+00:05:18,639 --> 00:05:22,560
+Yes, so facial is the adjective relating to face.
+
+121
+00:05:22,560 --> 00:05:24,399
+Then we had infer.
+
+122
+00:05:24,399 --> 00:05:29,039
+This verb means to understand something even when you don't have all the information
+
+123
+00:05:29,039 --> 00:05:32,560
+and you come to this understanding based on your experience and knowledge
+
+124
+00:05:32,560 --> 00:05:35,039
+or in the case of a computer, the programming.
+
+125
+00:05:35,680 --> 00:05:39,919
+And these computers work in real time which means that there's no delay
+
+126
+00:05:40,560 --> 00:05:43,360
+and they can tell a fake smile from a genuine one,
+
+127
+00:05:43,439 --> 00:05:46,080
+which means a real one, as the person is speaking.
+
+128
+00:05:46,560 --> 00:05:49,120
+They made people smile or, as the professor said,
+
+129
+00:05:49,120 --> 00:05:52,400
+they induced smiles by showing funny films.
+
+130
+00:05:52,400 --> 00:05:58,560
+And the computer is able to figure out or calculate whether the smile is fake or genuine.
+
+131
+00:05:58,560 --> 00:05:59,840
+Okay, thank you, Sam.
+
+132
+00:05:59,840 --> 00:06:01,600
+That's all from six minute English today.
+
+133
+00:06:01,600 --> 00:06:03,520
+We look forward to your company next time.
+
+134
+00:06:03,520 --> 00:06:07,280
+And if you can't wait, you can find lots more from BBC Learning English online
+
+135
+00:06:07,280 --> 00:06:09,199
+on social media and on our app.
+
+136
+00:06:09,199 --> 00:06:10,000
+Goodbye.
+
+137
+00:06:10,000 --> 00:06:10,800
+Bye-bye.
+
+138
+00:06:13,360 --> 00:06:15,600
+From BBC Learning English.
+

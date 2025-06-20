@@ -1,0 +1,432 @@
+1
+00:00:00,000 --> 00:00:03,120
+This is a download from BBC Learning English.
+
+2
+00:00:03,120 --> 00:00:05,679
+To find out more, visit our website.
+
+3
+00:00:05,679 --> 00:00:14,160
+6Nate English from BBCLearningEnglish.com
+
+4
+00:00:14,160 --> 00:00:17,519
+Hello, this is 6 Minute English from BBC Learning English.
+
+5
+00:00:17,519 --> 00:00:18,320
+I'm Neil.
+
+6
+00:00:18,320 --> 00:00:19,359
+And I'm Sam.
+
+7
+00:00:19,359 --> 00:00:21,359
+What do shopping with a credit card,
+
+8
+00:00:21,359 --> 00:00:26,000
+finding love through internet dating and waiting for the traffic lights to change,
+
+9
+00:00:26,000 --> 00:00:27,039
+have in common?
+
+10
+00:00:27,039 --> 00:00:29,679
+Hmm. They all involve computers.
+
+11
+00:00:29,759 --> 00:00:33,679
+Good guess, Sam, but how exactly do those computers work?
+
+12
+00:00:33,679 --> 00:00:37,280
+The answer is that they all use algorithms,
+
+13
+00:00:37,280 --> 00:00:41,359
+sets of mathematical instructions which find solutions to problems.
+
+14
+00:00:41,359 --> 00:00:43,600
+Although they are often hidden,
+
+15
+00:00:43,600 --> 00:00:45,679
+algorithms are all around us.
+
+16
+00:00:45,679 --> 00:00:48,719
+From mobile phone maps to home delivery pizza,
+
+17
+00:00:48,719 --> 00:00:51,200
+they play a big part of modern life.
+
+18
+00:00:51,200 --> 00:00:53,439
+And they're the topic of this programme.
+
+19
+00:00:53,439 --> 00:00:57,120
+A simple way to think of algorithms is as recipes.
+
+20
+00:00:57,439 --> 00:01:00,399
+To make pancakes, you mix flour, eggs and milk,
+
+21
+00:01:00,399 --> 00:01:03,359
+then melt butter in a frying pan, and so on.
+
+22
+00:01:03,359 --> 00:01:05,840
+Computers do this in a more complicated way
+
+23
+00:01:05,840 --> 00:01:09,759
+by repeating mathematical equations over and over again.
+
+24
+00:01:09,759 --> 00:01:14,319
+Equations are mathematical sentences showing how two things are equal.
+
+25
+00:01:14,319 --> 00:01:16,000
+They're similar to algorithms,
+
+26
+00:01:16,000 --> 00:01:18,799
+and the most famous scientific equation of all,
+
+27
+00:01:18,799 --> 00:01:22,000
+Einstein's e equals mc squared,
+
+28
+00:01:22,000 --> 00:01:25,200
+can be thought of as a three-part algorithm.
+
+29
+00:01:25,280 --> 00:01:28,240
+But before my brain gets squashed by all this maths,
+
+30
+00:01:28,240 --> 00:01:30,640
+I have a quiz question for you, Sam.
+
+31
+00:01:30,640 --> 00:01:34,879
+As you know, Einstein's famous equation is e equals mc squared.
+
+32
+00:01:34,879 --> 00:01:37,280
+But what does the e stand for?
+
+33
+00:01:37,280 --> 00:01:42,480
+Is it a electricity, b energy, or c, everything?
+
+34
+00:01:42,480 --> 00:01:44,560
+I'm tempted to say e is for everything,
+
+35
+00:01:44,560 --> 00:01:46,800
+but I reckon I know the answer.
+
+36
+00:01:46,800 --> 00:01:49,040
+B e stands for energy.
+
+37
+00:01:49,040 --> 00:01:52,719
+Okay, Sam, we'll find out if you're right later in the programme.
+
+38
+00:01:52,799 --> 00:01:56,879
+With all this talk of computers, you might think algorithms are a new idea.
+
+39
+00:01:56,879 --> 00:02:00,159
+In fact, they've been around since Babylonian times,
+
+40
+00:02:00,159 --> 00:02:02,159
+around 4,000 years ago.
+
+41
+00:02:02,159 --> 00:02:04,640
+And their use today can be controversial.
+
+42
+00:02:04,640 --> 00:02:07,519
+Some algorithms used in internet search engines
+
+43
+00:02:07,519 --> 00:02:10,000
+have been accused of racial prejudice.
+
+44
+00:02:10,000 --> 00:02:13,360
+Ramesh Sunivasan is Professor of Information Studies
+
+45
+00:02:13,360 --> 00:02:15,599
+at the University of California.
+
+46
+00:02:15,599 --> 00:02:19,360
+Here's what he said when asked what the word algorithm actually means
+
+47
+00:02:19,360 --> 00:02:22,079
+by BBC World Service programme, The Forum.
+
+48
+00:02:23,439 --> 00:02:29,360
+My understanding of the term algorithm is it's not necessarily the boogie man
+
+49
+00:02:29,360 --> 00:02:35,360
+or it's not necessarily something that is, you know, inscrutable or mysterious to all people.
+
+50
+00:02:35,360 --> 00:02:40,960
+It's the set of instructions that you write in some mathematical form
+
+51
+00:02:40,960 --> 00:02:42,560
+or in some software code.
+
+52
+00:02:42,560 --> 00:02:46,560
+So it's a repeated set of instructions that are sequenced,
+
+53
+00:02:46,560 --> 00:02:51,120
+that are used and applied to answer a question or resolve a problem.
+
+54
+00:02:51,280 --> 00:02:52,800
+It's as simple as that actually.
+
+55
+00:02:55,039 --> 00:02:57,520
+Something that algorithms have been controversial,
+
+56
+00:02:57,520 --> 00:03:01,759
+but Professor Sunivasan says they are not necessarily the bogeyman.
+
+57
+00:03:02,400 --> 00:03:08,400
+The bogeyman refers to something people call bad or evil to make other people afraid.
+
+58
+00:03:08,400 --> 00:03:13,920
+Professor Sunivasan thinks algorithms are neither evil nor inscrutable,
+
+59
+00:03:13,920 --> 00:03:18,080
+not showing emotions or thoughts and therefore very difficult to understand.
+
+60
+00:03:18,640 --> 00:03:22,480
+Still, it can be difficult to understand exactly what algorithms are,
+
+61
+00:03:22,480 --> 00:03:25,680
+especially when there are many different types of them.
+
+62
+00:03:25,680 --> 00:03:27,360
+So let's take an example.
+
+63
+00:03:27,360 --> 00:03:32,640
+It's autumn and we want to collect all the apples from our orchard and divide them into three groups.
+
+64
+00:03:32,640 --> 00:03:34,800
+Big, medium and small.
+
+65
+00:03:34,800 --> 00:03:38,880
+One method is to collect all the apples together and compare their sizes.
+
+66
+00:03:39,439 --> 00:03:41,120
+But doing this would take hours.
+
+67
+00:03:41,120 --> 00:03:45,200
+It's much easier to first collect the apples from only one tree,
+
+68
+00:03:45,199 --> 00:03:48,319
+divide those into big, medium or small,
+
+69
+00:03:48,319 --> 00:03:52,479
+and then repeat the process for the other trees, one by one.
+
+70
+00:03:52,479 --> 00:03:54,799
+That's basically what algorithms do.
+
+71
+00:03:54,799 --> 00:03:57,759
+They find the most efficient way to get things done.
+
+72
+00:03:57,759 --> 00:04:00,799
+Or in other words, get the best results in the quickest time.
+
+73
+00:04:01,599 --> 00:04:04,479
+Mathematics Professor Ian Stewart agrees.
+
+74
+00:04:04,479 --> 00:04:08,719
+Listen as he explains how the algorithm called bubble sort
+
+75
+00:04:08,719 --> 00:04:11,599
+works to BBC World Service Program the forum.
+
+76
+00:04:11,919 --> 00:04:16,959
+Think of when your computer is sorting emails by date,
+
+77
+00:04:16,959 --> 00:04:20,639
+and maybe you've got 500 emails, and it sorts them by date in a flash.
+
+78
+00:04:20,639 --> 00:04:23,839
+Now, it doesn't use bubble sort, but it does use a sorting method.
+
+79
+00:04:23,839 --> 00:04:27,680
+And if you tried to do that by hand, it would take you a very long time,
+
+80
+00:04:27,680 --> 00:04:28,959
+whatever method you used.
+
+81
+00:04:31,439 --> 00:04:35,040
+Professor Stewart describes how algorithms sort emails.
+
+82
+00:04:35,040 --> 00:04:39,519
+To sort is a verb, meaning to group together things which share similarities.
+
+83
+00:04:39,599 --> 00:04:42,159
+Just like grouping the apples by size,
+
+84
+00:04:42,159 --> 00:04:46,000
+sorting hundreds of emails by hand would take a long time.
+
+85
+00:04:46,000 --> 00:04:51,599
+But using algorithms, computers do it in a flash very quickly or suddenly.
+
+86
+00:04:51,599 --> 00:04:56,399
+That phrase in a flash reminds me of how Albert Einstein came up with his famous
+
+87
+00:04:56,399 --> 00:04:59,680
+equation E equals MC squared.
+
+88
+00:04:59,680 --> 00:05:02,799
+And that reminds me of your quiz question.
+
+89
+00:05:02,799 --> 00:05:06,639
+You asked about the E in E equals MC squared.
+
+90
+00:05:06,719 --> 00:05:09,519
+I said it stands for energy, so was I right?
+
+91
+00:05:09,519 --> 00:05:11,439
+Energy is the correct answer.
+
+92
+00:05:12,159 --> 00:05:16,560
+Energy equals M for mass multiplied by the constant C,
+
+93
+00:05:16,560 --> 00:05:18,479
+which is the speed of light squared.
+
+94
+00:05:19,279 --> 00:05:24,159
+Okay, let's recap the vocabulary from this program starting with equation,
+
+95
+00:05:24,159 --> 00:05:28,719
+a mathematical statement using symbols to show two equal things.
+
+96
+00:05:28,719 --> 00:05:33,599
+If something is called a bogeyman, it's something considered bad and to be feared.
+
+97
+00:05:33,680 --> 00:05:38,480
+Inscrutable people don't show their emotions, so they are very difficult to get to know.
+
+98
+00:05:38,480 --> 00:05:42,400
+Efficient means working quickly and effectively in an organized way.
+
+99
+00:05:42,400 --> 00:05:46,960
+The verb to sort means to group together things which share similarities.
+
+100
+00:05:46,960 --> 00:05:51,920
+And finally, if something happens in a flash, it happens quickly or suddenly.
+
+101
+00:05:51,920 --> 00:05:54,879
+That's all the time we have to discuss algorithms.
+
+102
+00:05:54,879 --> 00:05:58,720
+And if you're still not 100% sure about exactly what they are,
+
+103
+00:05:58,720 --> 00:06:01,439
+we hope at least you've learned some useful vocabulary.
+
+104
+00:06:01,439 --> 00:06:03,759
+Join us again soon for more trending topics,
+
+105
+00:06:03,759 --> 00:06:06,639
+Sensational Science and Useful Vocabulary.
+
+106
+00:06:06,639 --> 00:06:09,600
+Here at 6 Minute English from BBC Learning English.
+
+107
+00:06:09,600 --> 00:06:10,480
+Bye for now.
+
+108
+00:06:10,480 --> 00:06:11,279
+Goodbye.
+
