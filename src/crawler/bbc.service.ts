@@ -39,7 +39,7 @@ export class BBCService {
     let order = 1;
 
     // 1. Tìm đoạn chứa TRANSCRIPT
-    const transcriptStart = $('*')
+    const transcriptStart = $('p, h1, h2, h3, div, section')
       .filter((_, el) => {
         const text = $(el).text().trim().toUpperCase();
         return text === 'TRANSCRIPT';
@@ -51,7 +51,7 @@ export class BBCService {
       .nextAll()
       .filter((_, el) => {
         const text = $(el).text().trim();
-        return text.includes('Note: This is not a word-for-word transcript.');
+        return text.includes('word-for-word');
       })
       .first();
 
@@ -183,6 +183,27 @@ export class BBCService {
 
         const { transcript, ...metadata } = detail;
 
+        if (transcript.length === 0) {
+          const errorLogPath = path.join(
+            __dirname,
+            '..',
+            '..',
+            'public',
+            'crawl-transcript-errors.txt',
+          );
+          fs.appendFileSync(errorLogPath, `${url}\n`, 'utf-8');
+          console.warn(`transcript-errors: ${url}`);
+        } else {
+          const crawlLogPath = path.join(
+            __dirname,
+            '..',
+            '..',
+            'public',
+            'crawl-transcript.txt',
+          );
+          fs.appendFileSync(crawlLogPath, `${url}\n`, 'utf-8');
+        }
+
         this.saveTranscriptToFile(detail.audioUrl, transcript);
         this.saveMetaEpisodeToFile(detail.audioUrl, metadata);
       }
@@ -217,7 +238,6 @@ export class BBCService {
 
     const filename = path.basename(audioUrl).replace('.mp3', '.json'); // chuyển name.mp3 -> name.json
     const filePath = path.join(dir, filename);
-    console.log('transcript', transcript[0] ?? 'null');
 
     fs.writeFileSync(filePath, JSON.stringify(transcript, null, 2), 'utf-8');
   }

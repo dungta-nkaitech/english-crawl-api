@@ -9,7 +9,7 @@ export class CrawlerService {
     const result: IEpisodeDetail =
       await this.bbcService.crawlEpisodeDetail(url);
 
-    Logger.log(` Title: ${result.title}`);
+    Logger.log(` EpisodeUrl: ${result.episodeUrl}`);
     Logger.log(` Thumbnail: ${result.thumbnailUrl}`);
     Logger.log(` Audio: ${result.audioUrl}`);
     Logger.log(` Description: ${result.description}`);
