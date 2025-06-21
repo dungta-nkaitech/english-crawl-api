@@ -1,0 +1,257 @@
+[
+  {
+    "order": 1,
+    "speaker": "Dan",
+    "text": "Hello and welcome to 6 Minute English. I'm Dan and joining me today is Neil. Hey Neil."
+  },
+  {
+    "order": 2,
+    "speaker": "Neil",
+    "text": "Hello Dan. What’s on the agenda today?"
+  },
+  {
+    "order": 3,
+    "speaker": "Dan",
+    "text": "Well, I’ll give you a clue. It’s something that makes the world go round, but it doesn’t really exist. In fact, if we all stopped believing in it, it would have no use at all! What is it?"
+  },
+  {
+    "order": 4,
+    "speaker": "Neil",
+    "text": "I haven’t got a clue!"
+  },
+  {
+    "order": 5,
+    "speaker": "Dan",
+    "text": "Ok...how about this?"
+  },
+  {
+    "order": 6,
+    "speaker": "Neil",
+    "text": "Money!"
+  },
+  {
+    "order": 7,
+    "speaker": "currency",
+    "text": "Yep! And not just any money, we’re talking about crypto-currency."
+  },
+  {
+    "order": 8,
+    "speaker": "Currency",
+    "text": "Currency is the money that’s being used in a given country at a certain time. But what about the cryptopart?"
+  },
+  {
+    "order": 9,
+    "speaker": "cryptic",
+    "text": "Well, crypto is a prefix meaning hidden or secret – it comes from the word cryptic which means mysterious or difficult to understand. You may have heard about the most popular crypto-currency at the moment, the Bitcoin."
+  },
+  {
+    "order": 10,
+    "speaker": "Neil",
+    "text": "Well I’ve certainly heard the name, but I can’t say I know what it is."
+  },
+  {
+    "order": 11,
+    "speaker": "Dan",
+    "text": "First our quiz question. When was the Bitcoin crypto-currency first created?"
+  },
+  {
+    "order": 12,
+    "speaker": "Dan",
+    "text": "a)    2004"
+  },
+  {
+    "order": 13,
+    "speaker": "Dan",
+    "text": "b)    2009"
+  },
+  {
+    "order": 14,
+    "speaker": "Dan",
+    "text": "c)    2013"
+  },
+  {
+    "order": 15,
+    "speaker": "Neil",
+    "text": "Well, I think 2004 may have been a little early, and I think 2013 could be a little late, so the smart money’s on 2009."
+  },
+  {
+    "order": 16,
+    "speaker": "Dan",
+    "text": "We’ll see if you’re right later on in the show. So…Bitcoin, what do you know about it?"
+  },
+  {
+    "order": 17,
+    "speaker": "Neil",
+    "text": "Well, I know it’s a digital currency…so presumably you can use it online to buy things?"
+  },
+  {
+    "order": 18,
+    "speaker": "legal tender.",
+    "text": "You are right on the money, which means correct, both times. Bitcoin is just like any other currency except for two things. First, it’s not printed by governments or banks, which means that it’s not legal tender."
+  },
+  {
+    "order": 19,
+    "speaker": "Legal tender",
+    "text": "Legal tender means the official money that can be used within a country. So that means we can’t use it to pay taxes or settle debts, right?"
+  },
+  {
+    "order": 20,
+    "speaker": "fluctuates",
+    "text": "Exactly. Governments won’t recognise it as an official currency, although it acts just like one. You can use it to buy items from anyone who will accept it, and its value fluctuates."
+  },
+  {
+    "order": 21,
+    "speaker": "Fluctuates",
+    "text": "Fluctuates means changes in level or amount. And what’s the second thing?"
+  },
+  {
+    "order": 22,
+    "speaker": "Dan",
+    "text": "Ah, the second thing is that bitcoin is a digital currency, meaning that with the exception of a few tokens, it largely exists online only. You can’t carry a load of bitcoins around in your pocket!"
+  },
+  {
+    "order": 23,
+    "speaker": "Neil",
+    "text": "Well, that makes a nice…change!"
+  },
+  {
+    "order": 24,
+    "speaker": "Dan",
+    "text": "Oh dear, Neil. Was that a money pun? Terrible!"
+  },
+  {
+    "order": 25,
+    "speaker": "Neil",
+    "text": "So if it’s a digital only currency, where do new ones come from? Can’t I just say that I’ve got a million of them and make myself rich!?"
+  },
+  {
+    "order": 26,
+    "speaker": "Dan",
+    "text": "Well, no. You see, even though Bitcoin is not regulated by a bank or government, it still has a process that stops people from cheating. There are only two ways to get bitcoins. You either trade them from someone, or you go mining."
+  },
+  {
+    "order": 27,
+    "speaker": "Neil",
+    "text": "Oh wait, I've heard about this. This is when you use your computer to run calculations which verify other Bitcoin transactions. You get rewarded for this ‘work’ by earning bitcoins."
+  },
+  {
+    "order": 28,
+    "speaker": "Dan",
+    "text": "Yep! It’s money for old rope, which means it’s an easy way to earn money."
+  },
+  {
+    "order": 29,
+    "speaker": "Neil",
+    "text": "Wow! I’m going to start mining immediately!"
+  },
+  {
+    "order": 30,
+    "speaker": "Dan",
+    "text": "Well, you wouldn’t be the only one! Bitcoin’s value has recently gone up quite a lot and this has caused a lot of interest. In fact, one stock exchange in Chicago has begun trading in Bitcoin futures contracts."
+  },
+  {
+    "order": 31,
+    "speaker": "Neil",
+    "text": "A futures contract? What’s that?"
+  },
+  {
+    "order": 32,
+    "speaker": "Dan",
+    "text": "I’ll let BBC correspondent Rory Cellan-Jones explain that."
+  },
+  {
+    "order": 33,
+    "speaker": "soared",
+    "text": "A futures contract, a bet on where the currency will be a month from now, soared above 18,000 dollars. That means that investors believe Bitcoin, which started the year worth under 1000 dollars will continue to rise in value, albeit at a slower rate.  But at the big banks there’s still plenty of scepticism about the currency."
+  },
+  {
+    "order": 34,
+    "speaker": "Soared",
+    "text": "Soared in this context means increased very quickly. So, now big investors are betting on the value of Bitcoin in the future."
+  },
+  {
+    "order": 35,
+    "speaker": "scepticism",
+    "text": "Yes. But he also mentioned that the banks have a lot of scepticism. That's a doubt that something is real or true. In this case, whether Bitcoin is reliable or not."
+  },
+  {
+    "order": 36,
+    "speaker": "Neil",
+    "text": "Maybe it’s best I don’t get involved then. After all, a fool and his money are soon parted."
+  },
+  {
+    "order": 37,
+    "speaker": "Dan",
+    "text": "Well, you don’t have to be sceptical about the answer to our quiz. We know that for a fact. I asked you when the Bitcoin crypto-currency was first created."
+  },
+  {
+    "order": 38,
+    "speaker": "Dan",
+    "text": "a)    2004"
+  },
+  {
+    "order": 39,
+    "speaker": "Dan",
+    "text": "b)    2009"
+  },
+  {
+    "order": 40,
+    "speaker": "Dan",
+    "text": "c)    2013"
+  },
+  {
+    "order": 41,
+    "speaker": "Neil",
+    "text": "And I said 2009."
+  },
+  {
+    "order": 42,
+    "speaker": "Dan",
+    "text": "And you were right! Well done. Shall we go over the vocabulary again?"
+  },
+  {
+    "order": 43,
+    "speaker": "currency",
+    "text": "First we had currency. That’s the money being used in a given country at a certain time. Name three currencies and their countries, Dan."
+  },
+  {
+    "order": 44,
+    "speaker": "cryptic",
+    "text": "Ok. Baht for Thailand. Rupee for India and my favourite, Metical for Mozambique. Next we had cryptic. Something which is cryptic is mysterious or difficult to understand. For example, what do rich people need, poor people have and if you eat it, you die?"
+  },
+  {
+    "order": 45,
+    "speaker": "legal tender",
+    "text": "A cryptic riddle indeed! I’ll have to think about that. Then we had legal tender, that’s the official money that can be used within a country. The Euro is legal tender within Spain, but what was the legal tender before that?"
+  },
+  {
+    "order": 46,
+    "speaker": "fluctuates",
+    "text": "Wasn’t it the Peseta? Then we had fluctuates. If something fluctuates, it changes in amount or level. The stock market fluctuates."
+  },
+  {
+    "order": 47,
+    "speaker": "soared",
+    "text": "But my love for my family never does. Then we had soared, which means increased very quickly. It’s used with this meaning in the context of money, prices and statistics."
+  },
+  {
+    "order": 48,
+    "speaker": "scepticismScepticism",
+    "text": "Finally we had scepticism. Scepticism is doubt that something is real or true. What sort of things are people sceptical about, Neil?"
+  },
+  {
+    "order": 49,
+    "speaker": "Neil",
+    "text": "Some people think that human activity hasn’t caused climate change. They are sceptical."
+  },
+  {
+    "order": 50,
+    "speaker": "Dan",
+    "text": "And that brings us to the end of today’s 6 Minute English. Don’t forget to check out our Youtube, Facebook, Twitter and Instagram pages, and we’ll see you next time. Goodbye."
+  },
+  {
+    "order": 51,
+    "speaker": "Neil",
+    "text": "Goodbye"
+  }
+]

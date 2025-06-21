@@ -1,0 +1,192 @@
+[
+  {
+    "order": 1,
+    "speaker": "Neil",
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil."
+  },
+  {
+    "order": 2,
+    "speaker": "Georgina",
+    "text": "And I’m Georgina."
+  },
+  {
+    "order": 3,
+    "speaker": "Neil",
+    "text": "Are you good at remembering your computer passwords, Georgina?"
+  },
+  {
+    "order": 4,
+    "speaker": "Georgina",
+    "text": "Um, not really, Neil – I mostly use something easy to remember, like my mother’s maiden name or the street where I was born."
+  },
+  {
+    "order": 5,
+    "speaker": "Neil",
+    "text": "Or the name of your first pet! Yes, me too - but we should be more careful about online security, Georgina, because of a worrying trend, and the topic of this programme – online fraud."
+  },
+  {
+    "order": 6,
+    "speaker": "Georgina",
+    "text": "Online fraud involves using the internet to trick someone into giving away their money or data. It takes many forms, from deceptive emails which trick us into paying money to the wrong bank account, to the theft of credit card details."
+  },
+  {
+    "order": 7,
+    "speaker": "Neil",
+    "text": "It’s regarded by some as a highly profitable and relatively low-risk crime, so in this programme we’ll be finding out why it’s so easy for criminals, or fraudsters, to steal our money."
+  },
+  {
+    "order": 8,
+    "speaker": "Georgina",
+    "text": "And of course, we’ll be learning some related vocabulary along the way."
+  },
+  {
+    "order": 9,
+    "speaker": "Neil",
+    "text": "But first, it’s time for our quiz question. In July 2020, nine British men were arrested for defrauding the Coronavirus Job Retention Scheme – a government fund for workers who’ve lost their job to Covid-19. They set up fake companies and applied, fraudulently, for money. But how much money has been claimed in total through the coronavirus job scheme in the UK? Is it:"
+  },
+  {
+    "order": 10,
+    "speaker": "Neil",
+    "text": "a) 17 billion pounds,"
+  },
+  {
+    "order": 11,
+    "speaker": "Neil",
+    "text": "b) 27 billion pounds, or"
+  },
+  {
+    "order": 12,
+    "speaker": "Neil",
+    "text": "c) 37 billion pounds?"
+  },
+  {
+    "order": 13,
+    "speaker": "Georgina",
+    "text": "Hmm, it must be a lot, so I’ll say a) 17 billion pounds."
+  },
+  {
+    "order": 14,
+    "speaker": "Neil",
+    "text": "OK, Georgina, we’ll find out later. Now, Rachel Tobac, CEO of Social Proof Security, is an expert in cyber crime. She describes herself as an ’ethical fraudster’. Businesses wanting to combat fraud employ her to hack into their computer systems to find their weak spots."
+  },
+  {
+    "order": 15,
+    "speaker": "Georgina",
+    "text": "Here, Rachel explains to BBC World Service programme, The Inquiry, how getting people’s information is the key to online fraud:"
+  },
+  {
+    "order": 16,
+    "speaker": "mindsetintelligence",
+    "text": "The reason why we’re able to do that, from an attacker mindset, is because we use what’s called OSINT – open source intelligence. We look up everything about you. We can figure out who your assistant is, who your accountant is on LinkedIn. We know what emails you use from screen shots that you’ve put on your Instagram…"
+  },
+  {
+    "order": 17,
+    "speaker": "mindset",
+    "text": "Rachel looks at fraud from a criminal’s mindset - someone’s way of thinking and the general attitudes and opinions they have about something."
+  },
+  {
+    "order": 18,
+    "speaker": "intelligence",
+    "text": "From a fraudster’s perspective, the most valuable thing is intelligence - secret information about a government or country, or in this case a person, such as the information people unwittingly post on social media."
+  },
+  {
+    "order": 19,
+    "speaker": "intelligence",
+    "text": "Fraudsters use this intelligence to build up a picture of someone’s online activity."
+  },
+  {
+    "order": 20,
+    "speaker": "Georgina",
+    "text": "And as BBC World Service The Inquiry presenter, Charmaine Cozier, explains, there are many ways of doing this:"
+  },
+  {
+    "order": 21,
+    "speaker": "cover storiesdata breachmalwareinfiltrate",
+    "text": "Fraudsters have thousands of cover stories but the end goal is always the same – to trick people out of cash or possessions. Rachel says they have options for how to do that. Login details stolen during a data breach from one company, often using software or viruses called malware, are used to infiltrate customer accounts at another."
+  },
+  {
+    "order": 22,
+    "speaker": "cover stories",
+    "text": "To access people’s data, fraudsters use cover stories – false stories told in order to hide the truth. For example, they may pretend to be calling from your bank or credit card company."
+  },
+  {
+    "order": 23,
+    "speaker": "cover storiesdata breach",
+    "text": "If people believe these cover stories and share personal data, this can result in a data breach - an occasion when private information can be seen by people who should not be able to see it."
+  },
+  {
+    "order": 24,
+    "speaker": "Malware",
+    "text": "Malware - computer software and viruses that are designed to damage the way a computer works – can also be used to gain login details and passwords…"
+  },
+  {
+    "order": 25,
+    "speaker": "infiltrate",
+    "text": "…data which is then used to infiltrate other online accounts - secretly enter a place, group or organisation in order to spy on it or influence it."
+  },
+  {
+    "order": 26,
+    "speaker": "Neil",
+    "text": "Modern fraudsters are so devious at collecting online information that many victims only realise what’s happened after their bank accounts have been emptied."
+  },
+  {
+    "order": 27,
+    "speaker": "mindset",
+    "text": "Which I guess was the mindset behind those British fraudsters you mentioned earlier, Neil."
+  },
+  {
+    "order": 28,
+    "speaker": "Neil",
+    "text": "Ah yes, the nine men who tried to defraud the Coronavirus Jobs Retention Scheme. Remember for my quiz question I asked you how much the scheme has paid out in total so far in the UK."
+  },
+  {
+    "order": 29,
+    "speaker": "Georgina",
+    "text": "I said, a) 17 billion pounds."
+  },
+  {
+    "order": 30,
+    "speaker": "Neil",
+    "text": "Well, in fact it’s even more – the correct answer is b) 27 billion pounds. Luckily, the 495 thousand pounds which these fraudsters tried to steal was recovered."
+  },
+  {
+    "order": 31,
+    "speaker": "Georgina",
+    "text": "Even so, Neil, I think I’m going to change my passwords soon! Better safe than sorry!"
+  },
+  {
+    "order": 32,
+    "speaker": "intelligence",
+    "text": "Good idea, Georgina. In this programme, we’ve been hearing about the rise in online fraud, often committed when fraudsters gain intelligence - secret information about a person posted on the internet."
+  },
+  {
+    "order": 33,
+    "speaker": "mindsetcover story",
+    "text": "These criminals’ mindset – or mentality, is to surreptitiously find information by creating a cover story - a false story someone tells in order to hide the truth."
+  },
+  {
+    "order": 34,
+    "speaker": "data breach",
+    "text": "By posing as a clerk from your bank, for example, they might be able to access sensitive private information which they should not be able to see – an event sometimes called a data breach."
+  },
+  {
+    "order": 35,
+    "speaker": "infiltratemalware",
+    "text": "Another way fraudsters infiltrate – or gain access secretly, without permission - is with the use of malware – computer software and viruses designed to damage the way a computer works."
+  },
+  {
+    "order": 36,
+    "speaker": "Neil",
+    "text": "If you want to find out more about keeping yourself safe from online fraud, search the BBC website using the term, ‘cyber security’. And if you like topical discussion and want to learn how to use the vocabulary found in headlines, why not check out our News Review podcast? We also have a free app you can download for Android and iOS."
+  },
+  {
+    "order": 37,
+    "speaker": "Georgina",
+    "text": "And for more trending topics and real-life vocabulary, look no further than 6 Minute English, from BBC Learning English. See you next time. Bye!"
+  },
+  {
+    "order": 38,
+    "speaker": "Neil",
+    "text": "Goodbye!"
+  }
+]

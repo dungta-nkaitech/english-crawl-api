@@ -1,0 +1,187 @@
+[
+  {
+    "order": 1,
+    "speaker": "Neil",
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil."
+  },
+  {
+    "order": 2,
+    "speaker": "Sam",
+    "text": "And I’m Sam."
+  },
+  {
+    "order": 3,
+    "speaker": "Neil",
+    "text": "Do you like cooking, Sam? There’s a new recipe I’ve been trying out - it’s for ‘frosted oysters’."
+  },
+  {
+    "order": 4,
+    "speaker": "Sam",
+    "text": "Frosted oysters?! Sounds… unusual. How do you make it?"
+  },
+  {
+    "order": 5,
+    "speaker": "Neil",
+    "text": "Well, take a pound of chicken, then some cubed pork and half a crushed garlic."
+  },
+  {
+    "order": 6,
+    "speaker": "Sam",
+    "text": "Eh? I thought you said it was for ‘frosted oysters’, whatever they are."
+  },
+  {
+    "order": 7,
+    "speaker": "Neil",
+    "text": "Yes, that’s right. Now heat it up until boiling and serve with custard."
+  },
+  {
+    "order": 8,
+    "speaker": "Sam",
+    "text": "Ugh, that sounds disgusting! Who on earth told you that recipe?"
+  },
+  {
+    "order": 9,
+    "speaker": "Neil",
+    "text": "It’s not ‘who’ told me, Sam, but ‘what’. In fact, that recipe was made by computers using artificial intelligence, or AI, which is the topic of today’s programme. In real life, AI is making huge progress - from car satnavs to detecting cancer cells. But as you can see from that revolting recipe, things don’t always go according to plan."
+  },
+  {
+    "order": 10,
+    "speaker": "Sam",
+    "text": "So, just how intelligent is artificial intelligence? I mean, it definitely needs some cooking lessons!"
+  },
+  {
+    "order": 11,
+    "speaker": "Neil",
+    "text": "Right. AI is not as intelligent as we tend to think. AI programmes use artificial brain cells to roughly imitate real brain cell activity, but they’re still a long way behind human levels of intelligence. And that’s my quiz question – in terms of brain cell count, what level of intelligence is AI currently working at? Is AI as smart as:"
+  },
+  {
+    "order": 12,
+    "speaker": "Neil",
+    "text": "a)     a frog"
+  },
+  {
+    "order": 13,
+    "speaker": "Neil",
+    "text": "b)     an earthworm"
+  },
+  {
+    "order": 14,
+    "speaker": "Neil",
+    "text": "c)      a bumblebee"
+  },
+  {
+    "order": 15,
+    "speaker": "Sam",
+    "text": "Well, I don’t think anyof those are good cooks either, to be honest. I’ll say c) a bumblebee, because at least they can make honey!"
+  },
+  {
+    "order": 16,
+    "speaker": "Neil",
+    "text": "Nice guess, Sam. We’ll find out the answer later. But first let’s find out more about how AI misunderstandings like the oyster recipe can happen. Janelle Shane is the author of ‘You Look Like a Thing and I Love You’ in which she tells her amusing experiences and bizarre experiments with AI."
+  },
+  {
+    "order": 17,
+    "speaker": "Sam",
+    "text": "You Look Like a Thing and I Love You – that’s a strange title for a book, Neil."
+  },
+  {
+    "order": 18,
+    "speaker": "chat-up lines",
+    "text": "Yes. It’s another example of AI miscommunication. The book title is what a AI produced when asked to write chat-up lines – remarks men and women make to start up a conversation with someone they don’t know but find attractive."
+  },
+  {
+    "order": 19,
+    "speaker": "chat-up lines",
+    "text": "Here she is talking to the BBC World Service programme More or Less:"
+  },
+  {
+    "order": 20,
+    "speaker": "programmer trial and error",
+    "text": "‘Machine learning’ is what most programmers mean when they say ‘AI’. In the programme that we’re used to, if you want to have a computer programme solve a problem you have to have a human programmer write down exhaustive step-by-step instructions on how to do everything. But with ‘machine learning’ you just give it the goal, and then the programme figures out via trial and error how it’s going to solve that problem."
+  },
+  {
+    "order": 21,
+    "speaker": "computer programmers",
+    "text": "So even though we’re talking about machines learning for themselves, there still need to be humans involved at the start of the journey. This human teaching is done by computer programmers – people who write, or code, the computer programmes used by AI."
+  },
+  {
+    "order": 22,
+    "speaker": "algorithms",
+    "text": "Right. These programmers write algorithms – a set of rules or procedures to be followed in problem-solving exercises. So, for example, the AI that wrote that oyster recipe read thousands of other recipes before coming up with its own version."
+  },
+  {
+    "order": 23,
+    "speaker": "trial and error",
+    "text": "In other words, Artificial intelligence uses a process of trial and error – repeating the same task over and over until finding the most successful way. Only in the case of the oyster recipe, there was more ‘error’ than ‘trial’!"
+  },
+  {
+    "order": 24,
+    "speaker": "Neil",
+    "text": "Well, according to Janelle Shane, we can learn a lot about something by seeing how it goes wrong. Here she is, talking about an AI which had been told to solve maths problems:"
+  },
+  {
+    "order": 25,
+    "speaker": "minimisinga stroke of luck",
+    "text": "It seemed to be that it was getting scored on how many wrong answers it got, and it was supposed to be minimising the number of wrong answers, and just by a stroke of luck as part of its trial and error flailing around, one of the flails it did accidentally deleted the solutions list, and then it and everybody else got a perfect score."
+  },
+  {
+    "order": 26,
+    "speaker": "minimisinga stroke of luck",
+    "text": "So, AIs learn by minimising their errors – reducing them as much as possible. And sometimes, these algorithms only discover the right answer by a stroke of luck – when something unexpected happens by good luck or chance. It seems to me that they’re not so intelligent after all!"
+  },
+  {
+    "order": 27,
+    "speaker": "Neil",
+    "text": "Well, let’s settle it once and for all by answering today’s quiz question. Remember I asked you how intelligent AI was in terms of brain cell count and you said, as intelligent as…"
+  },
+  {
+    "order": 28,
+    "speaker": "Sam",
+    "text": "I said c) a bumblebee."
+  },
+  {
+    "order": 29,
+    "speaker": "Neil",
+    "text": "Well, here’s Janelle again with the answer…"
+  },
+  {
+    "order": 30,
+    "speaker": "Janelle Shane",
+    "text": "If you’re looking at rough computing power, the algorithms we’re working with are probably somewhere around the level of an earthworm."
+  },
+  {
+    "order": 31,
+    "speaker": "Sam",
+    "text": "So, the correct answer was b) as clever as an earthworm! No wonder AIs can’t cook!"
+  },
+  {
+    "order": 32,
+    "speaker": "programmersalgorithms",
+    "text": "Or take a maths test without cheating! In this programme we’ve been looking at artificial intelligence, or AI, and seeing how programmers – that’s people who write instructions for computers to follow create algorithms – sets of rules used in problem-solving."
+  },
+  {
+    "order": 33,
+    "speaker": "trial and errorminimising",
+    "text": "AI learns through trial and error – repeating the same activity again and again until discovering the best way, and minimising – reducing as much as possible, the number of errors it makes."
+  },
+  {
+    "order": 34,
+    "speaker": "a stroke of luck, chat-up lines",
+    "text": "And success can be the result of a stroke of luck, when something unexpected happens purely by chance, although so far that hasn’t helped AIs to write good chat-up lines – the flattering remarks people make to get to know someone they find attractive."
+  },
+  {
+    "order": 35,
+    "speaker": "Sam",
+    "text": "And AIs don’t know much about cooking oysters either!"
+  },
+  {
+    "order": 36,
+    "speaker": "Neil",
+    "text": "That’s all from us from this programme. Be sure to join us again for more topical discussion and vocabulary at 6  Minute English for BBC Learning English. Bye for now!"
+  },
+  {
+    "order": 37,
+    "speaker": "Sam",
+    "text": "Bye."
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "order": 1,
+    "speaker": "Sam",
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Sam."
+  },
+  {
+    "order": 2,
+    "speaker": "Rob",
+    "text": "And I’m Rob."
+  },
+  {
+    "order": 3,
+    "speaker": "Sam",
+    "text": "How good are you at finding your way from A to B, Rob? Can you read a map?"
+  },
+  {
+    "order": 4,
+    "speaker": "Rob",
+    "text": "Come on, Sam, this is the 21st century!  Everyone uses GPS and mobile phone apps to find their way around these days."
+  },
+  {
+    "order": 5,
+    "speaker": "navigate compass",
+    "text": "True, but before mobile phones were invented arriving at your destination wasn’t so easy. At sea, sailors used the stars and Sun to navigate – to work out which direction they wanted to travel. And navigating on land was almost impossible without a compass – an instrument for finding directions that uses a magnetic needle which moves to always point north."
+  },
+  {
+    "order": 6,
+    "speaker": "Rob",
+    "text": "But, as we’ll be hearing in this programme, navigation at sea is easy compared to finding your way in outer space. After all, what’s up and what’s down for astronauts who are floating in zero gravity? In space is there a true north, like here on Earth? And how is everything complicated by the fact that all the stars and planets are moving?"
+  },
+  {
+    "order": 7,
+    "speaker": "Sam",
+    "text": "Some big questions there, Rob, but first I have a question of my own. You asked how astronauts know which way is up, so who better to ask than the first person in space? But who was that? Was it:"
+  },
+  {
+    "order": 8,
+    "speaker": "Sam",
+    "text": "a)    Neil Armstrong?"
+  },
+  {
+    "order": 9,
+    "speaker": "Sam",
+    "text": "b)    Yuri Gagarin? or"
+  },
+  {
+    "order": 10,
+    "speaker": "Sam",
+    "text": "c)    Valentina Tereshkova?"
+  },
+  {
+    "order": 11,
+    "speaker": "Rob",
+    "text": "Well, Neil Armstrong was the first man on the Moon, but I don’t think he was the first person in space. So I think it’s b) Yuri Gagarin."
+  },
+  {
+    "order": 12,
+    "speaker": "Sam",
+    "text": "OK, I’ll reveal the answer later in the programme. Now let’s get back to Rob’s earlier question about whether there’s such a thing as north in space. And to answer that it’s first useful to know how north is found on Earth."
+  },
+  {
+    "order": 13,
+    "speaker": "Rob",
+    "text": "Listen as astrophysicist Ethan Siegal as he explains why a compass always points north to BBC World Service programme, CrowdScience."
+  },
+  {
+    "order": 14,
+    "speaker": "magnetic pole.arbitrarily",
+    "text": "…because Earth behaves like it has a giant bar magnet in it, and your compass needle will point north towards Earth’s magnetic pole. And we’ve arbitrarily defined north as, that’s what we’re going to say ‘up’ is, like, the North Pole – that’s as ‘up’ as you can go."
+  },
+  {
+    "order": 15,
+    "speaker": "magnetic pole",
+    "text": "Planet Earth is like a giant magnet. Because the needle of a compass is magnetised, it’s attracted to the magnetic pole – the points near the North and South Poles where the Earth’s magnetic field is concentrated."
+  },
+  {
+    "order": 16,
+    "speaker": "arbitrary",
+    "text": "This explains how we find north, but Ethan points out that the decision to call north ‘up’ and south ‘down’ is arbitrary – decided by random chance, not based on any particular reason."
+  },
+  {
+    "order": 17,
+    "speaker": "Sam",
+    "text": "When we look at a world map, we think of north as ‘up’, the USA in the northern hemisphere is above Brazil, in the southern hemisphere. But from space, Earth can just as easily be seen the other way up, with Australia, South Africa and South America at the top. Both views are equally true."
+  },
+  {
+    "order": 18,
+    "speaker": "Rob",
+    "text": "Wow, that’s a mind-blowing thought! But even though we can argue which direction is up, it’s still true that we can use a compass to navigate on Earth. However, this simply isn’t true in space. Here’s astrophysicist Ethan Siegal again to tell BBC World Service’s CrowdScience why:"
+  },
+  {
+    "order": 19,
+    "speaker": "flips light years",
+    "text": "The problem with navigating in space is that the magnetic field flips irregularly every few hundred, or few thousand light years. There’s no central object like the black hole at the centre of our galaxy – it doesn’t dominate the whole galaxy, it doesn’t make a magnetic field that you can feel out here 25, 27-thousand light years from the centre. So, magnetism is not a good guide to navigating in space."
+  },
+  {
+    "order": 20,
+    "speaker": "light year",
+    "text": "A light year sounds like a measurement of time, but in fact it measures the distance that light travels in one year – which, given that light can travel 7.5 times around the Earth in one second, is a very, very long way - around 6 trillion miles, in fact."
+  },
+  {
+    "order": 21,
+    "speaker": "flips",
+    "text": "Well, the problem is that every few hundred light years the magnetic field flips - turns over or moves into a different position. So, a compass, which depends on magnetism, is no good for navigating in space."
+  },
+  {
+    "order": 22,
+    "speaker": "Sam",
+    "text": "So how do spacecraft know where they are, and which way to go? The answer is both simple and very clever – they use specialised heat sensors to detect the position of the Sun and use that to guide their way."
+  },
+  {
+    "order": 23,
+    "speaker": "Rob",
+    "text": "So simple yet so ingenious! I’m sure it would have impressed the first person in space, whoever they were."
+  },
+  {
+    "order": 24,
+    "speaker": "Sam",
+    "text": "Ah yes, in my question I asked who the first person in space was."
+  },
+  {
+    "order": 25,
+    "speaker": "Rob",
+    "text": "And I said it was b) Yuri Gagarin. I’ve got to be right, haven’t I?"
+  },
+  {
+    "order": 26,
+    "speaker": "Sam",
+    "text": "It was right, of course! Soviet cosmonaut Yuri Gagarin became the first man in space in 1961, with Valentina Tereshkova following in his footsteps to become the first woman in space two years later."
+  },
+  {
+    "order": 27,
+    "speaker": "navigate",
+    "text": "OK, let’s recap the vocabulary from this programme on how to navigate – or find your way - in space."
+  },
+  {
+    "order": 28,
+    "speaker": "compassmagnetic pole",
+    "text": "On Earth you can use a compass – an instrument with a magnetic needle that moves to point north, that is towards to the magnetic pole – a point near the North or South Poles where Earth’s magnetic field is strongest."
+  },
+  {
+    "order": 29,
+    "speaker": "arbitrary",
+    "text": "Saying that north is ‘up’ is arbitrary – done randomly, not according to any particular reason or principle."
+  },
+  {
+    "order": 30,
+    "speaker": "light year",
+    "text": "A light year is a unit measuring the distance that light travels in one year - around 6 trillion miles."
+  },
+  {
+    "order": 31,
+    "speaker": "flip",
+    "text": "And finally, to flip means to turn over or move into a different position."
+  },
+  {
+    "order": 32,
+    "speaker": "Sam",
+    "text": "Once again, our time is up. Goodbye for now!"
+  },
+  {
+    "order": 33,
+    "speaker": "Rob",
+    "text": "Bye bye!"
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "order": 1,
+    "speaker": "Neil",
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil."
+  },
+  {
+    "order": 2,
+    "speaker": "Rob",
+    "text": "And I’m Rob."
+  },
+  {
+    "order": 3,
+    "speaker": "Neil",
+    "text": "Now, I’m sure most of us have interacted with a chatbot. These are bits of computer technology that respond to text with text or respond to your voice. You ask it a question and it usually comes up with an answer!"
+  },
+  {
+    "order": 4,
+    "speaker": "sophisticated",
+    "text": "Yes, it’s almost like talking to another human, but of course it’s not – it’s just a clever piece of technology. It is becoming more sophisticated – more advanced and complex, but could they replace real human interaction altogether?"
+  },
+  {
+    "order": 5,
+    "speaker": "Neil",
+    "text": "We’ll discuss that more in a moment and find out if chatbots really think for themselves. But first I have a question for you, Rob. The first computer program that allowed some kind of plausible conversation between humans and machines was invented in 1966, but what was it called? Was it:"
+  },
+  {
+    "order": 6,
+    "speaker": "Neil",
+    "text": "a)     ALEXA"
+  },
+  {
+    "order": 7,
+    "speaker": "Neil",
+    "text": "b)     ELIZA"
+  },
+  {
+    "order": 8,
+    "speaker": "Neil",
+    "text": "c)     PARRY"
+  },
+  {
+    "order": 9,
+    "speaker": "Rob",
+    "text": "It’s not Alexa – that’s too new – so I’ll guess c) PARRY."
+  },
+  {
+    "order": 10,
+    "speaker": "Neil",
+    "text": "I’ll reveal the answer at the end of the programme. Now, the old chatbots of the 1960s and 70s were quite basic, but more recently, the technology is able to predict the next word that is likely to be used in a sentence, and it learns words and  sentence structures."
+  },
+  {
+    "order": 11,
+    "speaker": "Rob",
+    "text": "It’s clever stuff. I’ve experienced using them when talking to my bank - or when I have problems trying to book a ticket on a website. I no longer phone a human but I speak to a ‘virtual assistant’ instead. Probably the most well-known chatbot at the moment is ChatGTP."
+  },
+  {
+    "order": 12,
+    "speaker": "Neil",
+    "text": "It is. The claim is it’s able to answer anything you ask it. This includes writing students’ essays. This is something that was discussed on the BBC Radio 4 programme, Word of Mouth. Emily M Bender, Professor of Computational Linguistics at the University of Washington, explained why it’s dangerous to always trust what a chatbot is telling us…"
+  },
+  {
+    "order": 13,
+    "speaker": "coherentauthoritativeon guard",
+    "text": "We tend to react to grammatical fluent coherent seeming text as authoritative and reliable and valuable - and we need to be on guard against that, because what's coming out of ChatGTP is none of that."
+  },
+  {
+    "order": 14,
+    "speaker": "coherentauthoritative",
+    "text": "So, Professor Bender says that well written text that is coherent – that means it’s clear, carefully considered and sensible – makes us think what we are reading is reliable and authoritative. So it is respected, accurate and important sounding."
+  },
+  {
+    "order": 15,
+    "speaker": "on guard",
+    "text": "Yes, chatbots might appear to write in this way, but really, they are just predicting one word after another, based on what they have learnt. We should, therefore, be on guard – be careful and alert about the accuracy of what we are being told."
+  },
+  {
+    "order": 16,
+    "speaker": "Rob",
+    "text": "One concern is that chatbots – a form of artificial intelligence – work a bit like a human brain in the way it can learn and process information. They are able to learn from experience - something called deep learning."
+  },
+  {
+    "order": 17,
+    "speaker": "Neil",
+    "text": "A cognitive psychologist and computer scientist called Geoffrey Hinton, recently said he feared that chatbots could soon overtake the level of information that a human brain holds. That’s a bit scary isn’t it?"
+  },
+  {
+    "order": 18,
+    "speaker": "Rob",
+    "text": "For now, chatbots can be useful for practical information, but sometimes we start to believe they are human, and we interact with them in a human-like way. This can make us believe them even more. Professor Emma Bender, speaking on the BBC’s Word of Mouth programme, explains why we meet feel like that…"
+  },
+  {
+    "order": 19,
+    "speaker": "provokesentient",
+    "text": "I think what's going on there is the kinds of answers you get depend on the questions you put in, because it's doing likely next word, likely next word,  and so if as the human interacting with the machine you start asking it questions about ‘how do you feel, you know, Chatbot?’ ‘What do you think of this?’ And. ‘what are your goals?’ You can provoke it to say things that sound like what a sentient entity would say... We are really primed to imagine a mind behind language whenever we encounter language. And so, we really have to account for that when we're making decisions about these."
+  },
+  {
+    "order": 20,
+    "speaker": "provokesentientsentient",
+    "text": "So, although a chatbot might sound human, we really just ask it things to get a reaction – we provoke it – and it answers only with words it’s learned to use before, not because it has come up with a clever answer. But it does sound like a sentient entity – sentient describes a living thing that experiences feelings."
+  },
+  {
+    "order": 21,
+    "speaker": "Rob",
+    "text": "As Professor Bender says, we imagine that when something speaks there is a mind behind it. But sorry, Neil, they are not your friend, they are just machines!"
+  },
+  {
+    "order": 22,
+    "speaker": "Neil",
+    "text": "It’s strange then that we sometimes give chatbots names. Alexa, Siri… and earlier I asked you what the name was for the first ever chatbot."
+  },
+  {
+    "order": 23,
+    "speaker": "Rob",
+    "text": "And I guessed it was PARRY. Was I right?"
+  },
+  {
+    "order": 24,
+    "speaker": "Neil",
+    "text": "You guessed wrong, I’m afraid. PARRY was an early form of chatbot from 1972, but the correct answer was ELIZA. It was considered to be the first ‘chatterbot’ – as it was called then, and was developed by Joseph Weizenbaum at Massachusetts Institute of Technology."
+  },
+  {
+    "order": 25,
+    "speaker": "sophisticated",
+    "text": "Fascinating stuff. OK, now let’s recap some of the vocabulary we highlighted in this programme. Starting with sophisticated which can describe technology that is advanced and complex."
+  },
+  {
+    "order": 26,
+    "speaker": "coherent",
+    "text": "Something that is coherent is clear, carefully considered and sensible."
+  },
+  {
+    "order": 27,
+    "speaker": "Authoritative",
+    "text": "Authoritative – so it is respected, accurate and important sounding."
+  },
+  {
+    "order": 28,
+    "speaker": "on guard",
+    "text": "When you are on guard you must be careful and alert about something – it could be accuracy of what you see or hear, or just being aware of the dangers around you."
+  },
+  {
+    "order": 29,
+    "speaker": "provoke",
+    "text": "To provoke means to do something that causes a reaction from someone."
+  },
+  {
+    "order": 30,
+    "speaker": "Sentient",
+    "text": "Sentient describes something that experiences feelings – so it’s something that is living. Once again, our six minutes are up. Goodbye."
+  },
+  {
+    "order": 31,
+    "speaker": "Rob",
+    "text": "Bye for now."
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "order": 1,
+    "speaker": "Neil",
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil."
+  },
+  {
+    "order": 2,
+    "speaker": "Sam",
+    "text": "And I’m Sam."
+  },
+  {
+    "order": 3,
+    "speaker": "Neil",
+    "text": "What do shopping with a credit card, finding love through internet dating and waiting for the traffic lights to change have in common?"
+  },
+  {
+    "order": 4,
+    "speaker": "Sam",
+    "text": "Hmmm, they all involve computers?"
+  },
+  {
+    "order": 5,
+    "speaker": "Neil",
+    "text": "Good guess, Sam! But how exactly do those computers work? The answer is that they all use algorithms – sets of mathematical instructions which find solutions to problems."
+  },
+  {
+    "order": 6,
+    "speaker": "Sam",
+    "text": "Although they are often hidden, algorithms are all around us. From mobile phone maps to home delivery pizza, they play a big part of modern life. And they’re the topic of this programme."
+  },
+  {
+    "order": 7,
+    "speaker": "equations",
+    "text": "A simple way to think of algorithms is as recipes. To make pancakes you mix flour, eggs and milk, then melt butter in a frying pan and so on. Computers do this in more a complicated way by repeating mathematical equations over and over again."
+  },
+  {
+    "order": 8,
+    "speaker": "Equations",
+    "text": "Equations are mathematical sentences showing how two things are equal. They’re similar to algorithms and the most famous scientific equation of all, Einstein's E=MC2, can be thought of as a three-part algorithm."
+  },
+  {
+    "order": 9,
+    "speaker": "Neil",
+    "text": "But before my brain gets squashed by all this maths, I have a quiz question for you, Sam. As you know, Einstein’s famous equation is E=MC2 - but what does the ‘E’ stand for? Is it:"
+  },
+  {
+    "order": 10,
+    "speaker": "Neil",
+    "text": "a)    electricity?"
+  },
+  {
+    "order": 11,
+    "speaker": "Neil",
+    "text": "b)    energy?  or"
+  },
+  {
+    "order": 12,
+    "speaker": "Neil",
+    "text": "c)    everything?"
+  },
+  {
+    "order": 13,
+    "speaker": "Sam",
+    "text": "I’m tempted to say ‘E’ is for ‘everything’ but I reckon I know the answer: b – ‘E’ stands for ‘energy’."
+  },
+  {
+    "order": 14,
+    "speaker": "Neil",
+    "text": "OK, Sam, we’ll find out if you’re right later in the programme."
+  },
+  {
+    "order": 15,
+    "speaker": "Sam",
+    "text": "With all this talk of computers, you might think algorithms are a new idea. In fact, they’ve been around since Babylonian times, around 4,000 years ago."
+  },
+  {
+    "order": 16,
+    "speaker": "Neil",
+    "text": "And their use today can be controversial. Some algorithms used in internet search engines have been accused of racial prejudice."
+  },
+  {
+    "order": 17,
+    "speaker": "Sam",
+    "text": "Ramesh Srinivasan is Professor of Information Studies at the University of California. Here’s what he said when asked what the word ‘algorithm’ actually means by BBC World Service’s programme, The Forum:"
+  },
+  {
+    "order": 18,
+    "speaker": "bogymaninscrutable",
+    "text": "My understanding of the term ‘algorithm’ is that it’s not necessarily the bogyman, or its not necessarily something that is, you know, inscrutable or mysterious to all people – it’s the set of instructions that you write in some mathematical form or in some software code – so it’s the repeated set of instructions that are sequenced, that are used and applied to answer a question or resolve a problem – it’s a simple as that, actually."
+  },
+  {
+    "order": 19,
+    "speaker": "bogyman",
+    "text": "Some think that algorithms have been controversial, but Professor Srinivasan says they are not necessarily the bogyman. The bogyman refers to something people call ‘bad’ or ‘evil’ to make other people afraid."
+  },
+  {
+    "order": 20,
+    "speaker": "inscrutable",
+    "text": "Professor Srinivasan thinks algorithms are neither evil nor inscrutable – not showing emotions or thoughts and therefore very difficult to understand."
+  },
+  {
+    "order": 21,
+    "speaker": "Sam",
+    "text": "Still, it can be difficult to understand exactly what algorithms are, especially when there are many different types of them. So, let’s take an example."
+  },
+  {
+    "order": 22,
+    "speaker": "Neil",
+    "text": "It’s autumn and we want to collect all the apples from our orchard and divide them into three groups – big, medium and small. One method is to collect all the apples together and compare their sizes."
+  },
+  {
+    "order": 23,
+    "speaker": "Sam",
+    "text": "But doing this would take hours! It’s much easier to first collect the apples from only one tree - divide those into big, medium or small – and then repeat the process for the other trees, one by one."
+  },
+  {
+    "order": 24,
+    "speaker": "efficient",
+    "text": "That’s basically what algorithms do – they find the most efficient way to get things done, or in other words, get the best results in the quickest time."
+  },
+  {
+    "order": 25,
+    "speaker": "Sam",
+    "text": "Mathematics professor Ian Stewart agrees. Listen as he explains how the algorithm called ‘bubble sort’ works to BBC World Service’s programme, The Forum:"
+  },
+  {
+    "order": 26,
+    "speaker": "sorts in a flash.",
+    "text": "Think of when your computer is sorting emails by date and maybe you’ve got 500 emails and it sorts them by date in a flash. Now it doesn’t use bubble sort, but it does use a sorting method and if you tried to do that by hand it would take you a very long time, whatever method you used."
+  },
+  {
+    "order": 27,
+    "speaker": "sort",
+    "text": "Professor Stewart describes how algorithms sort emails. To sort is a verb meaning to group together things which share similarities."
+  },
+  {
+    "order": 28,
+    "speaker": "in a flash",
+    "text": "Just like grouping the apples by size, sorting hundreds of emails by hand would take a long time. But using algorithms, computers do it in a flash – very quickly or suddenly."
+  },
+  {
+    "order": 29,
+    "speaker": "Neil",
+    "text": "That phrase – in a flash – reminds me of how Albert Einstein came up with his famous equation, E=MC2."
+  },
+  {
+    "order": 30,
+    "speaker": "Sam",
+    "text": "And that reminds me of your quiz question. You asked about the ‘E’ in E=MC2. I said it stands for ‘energy’. So, was I right?"
+  },
+  {
+    "order": 31,
+    "speaker": "Neil",
+    "text": "‘Energy’ is the correct answer. Energy equals ‘M’ for mass, multiplied by the Constant ‘C’ which is the speed of light, squared."
+  },
+  {
+    "order": 32,
+    "speaker": "equation",
+    "text": "OK, let’s recap the vocabulary from this programme, starting with equation – a mathematical statement using symbols to show two equal things."
+  },
+  {
+    "order": 33,
+    "speaker": "bogyman",
+    "text": "If something is called a bogyman, it’s something considered bad and to be feared."
+  },
+  {
+    "order": 34,
+    "speaker": "Inscrutable",
+    "text": "Inscrutable people don’t show their emotions so are very difficult to get to know."
+  },
+  {
+    "order": 35,
+    "speaker": "Efficient",
+    "text": "Efficient means working quickly and effectively in an organised way"
+  },
+  {
+    "order": 36,
+    "speaker": "sort",
+    "text": "The verb to sort means to group together things which share similarities."
+  },
+  {
+    "order": 37,
+    "speaker": "in a flash",
+    "text": "And finally, if something happens in a flash, it happens quickly or suddenly."
+  },
+  {
+    "order": 38,
+    "speaker": "Sam",
+    "text": "That’s all the time we have to discuss algorithms. And if you’re still not 100% sure about exactly what they are, we hope at least you’ve learned some useful vocabulary!"
+  },
+  {
+    "order": 39,
+    "speaker": "Neil",
+    "text": "Join us again soon for more trending topics, sensational science and useful vocabulary here at 6 Minute English from BBC Learning English. Bye for now!"
+  },
+  {
+    "order": 40,
+    "speaker": "Sam",
+    "text": "Goodbye!"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "order": 1,
+    "speaker": "Sam",
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Sam."
+  },
+  {
+    "order": 2,
+    "speaker": "Neil",
+    "text": "And I’m Neil. In 1436 in Germany, Johannes Gutenberg, invented the printing press - a machine capable of making many copies of the same page of text. Ever since, printing has been used around the world to produce books, newspapers and magazines."
+  },
+  {
+    "order": 3,
+    "speaker": "Sam",
+    "text": "Printing technology has come a long way since Gutenberg’s time, but even today’s most advanced laser printers have only printed flat, two-dimensional objects… until now."
+  },
+  {
+    "order": 4,
+    "speaker": "Neil",
+    "text": "In this programme, we’re discussing 3D printers – printers which can build solid, three-dimensional objects out of a variety of materials including plastic, concrete and metal."
+  },
+  {
+    "order": 5,
+    "speaker": "Sam",
+    "text": "Now, Neil, when you say a printer that can make solid objects, I guess you’re not talking about a normal printer…"
+  },
+  {
+    "order": 6,
+    "speaker": "Neil",
+    "text": "That’s right, Sam. These large and complex 3D printers work in a completely different way. Unlike a sculptor who chips away at a block of stone to reveal a shape underneath, 3D printers work in the opposite way, building up physical objects by adding material layer on layer. And the ability to print objects in this way is providing solutions to many problems, as we’ll be finding out…"
+  },
+  {
+    "order": 7,
+    "speaker": "Sam",
+    "text": "But first I have a question for you, Neil. Before Johannes Gutenberg invented his printing press, copies of texts were made by block printing, using hand-carved wooden blocks pressed into ink. So - what was the oldest known text to be printed this way? Was it:"
+  },
+  {
+    "order": 8,
+    "speaker": "Sam",
+    "text": "a) a religious teaching?"
+  },
+  {
+    "order": 9,
+    "speaker": "Sam",
+    "text": "b) a cooking recipe? or,"
+  },
+  {
+    "order": 10,
+    "speaker": "Sam",
+    "text": "c) a love letter?"
+  },
+  {
+    "order": 11,
+    "speaker": "Neil",
+    "text": "I think it might have been a recipe."
+  },
+  {
+    "order": 12,
+    "speaker": "Sam",
+    "text": "OK, Neil. I’ll reveal the answer later in the programme. The idea of printing solid objects is not new, but it was only after the millennium that tech companies began to realise how it could be done. Here’s Professor Mark Miodownik, a material scientist at University College, London, explaining more to BBC World Service programme, People Fixing The World:"
+  },
+  {
+    "order": 13,
+    "speaker": "Professor Mark Miodownik",
+    "text": "As the millennium turned, patents expired and that meant people started making very cheap 3D printers. And people started mucking about with them and going, ‘Hold on a minute! - it’s not just an industrial tool…. You can put them in schools, you can put them in universities…Ohh, it's actually really great for prototyping’. And then people got excited about it and it became the answer to everything. Everything was going to be 3D-printed!"
+  },
+  {
+    "order": 14,
+    "speaker": "Neil",
+    "text": "After the year 2000, 3D printers suddenly got much cheaper and tech companies started mucking about with them – spending time playing with them in a fun way. They realised that 3D printers had many uses - for example, they discovered that 3D printers were great at making prototypes – models of a product that can be tested, improved and used to develop better products."
+  },
+  {
+    "order": 15,
+    "speaker": "Sam",
+    "text": "Professor Miodownik thinks these tech companies were surprised at how useful 3D printing was. He uses the phrase Hold on a minute! to express this surprise or disbelief."
+  },
+  {
+    "order": 16,
+    "speaker": "Neil",
+    "text": "In fact, in turned out that 3D printers were excellent at making bespoke things – objects which are made specially for a particular person. One area which 3D printing dramatically improved was medical prosthetics - artificial body parts made specially for someone who has lost an arm, a leg or a foot, for example."
+  },
+  {
+    "order": 17,
+    "speaker": "Sam",
+    "text": "In 2021, Stephen Verze, who lost an eye in a childhood accident, became the first person to be fitted with a 3D-printed prosthetic eye. It’s prosthetic, so the new eye doesn't restore Stephen’s sight, but it has boosted his confidence. Surgeon, Mandeep Sagoo, led the team at Moorsfield Hospital that operated on Stephen’s eye. Here he is explaining more to BBC World Service’s, People Fixing The World:"
+  },
+  {
+    "order": 18,
+    "speaker": "Professor Mandeep Sagoo",
+    "text": "In many countries, particularly the developed world, there are facilities for custom-making a prosthetic eye to match the other eye, and that's an artisan process which is very time-consuming and requires real artistry on the part of the ocularist – the ocularist is the person who fits the prosthetic eye – and so what we have been developing is a technique to automate the whole process."
+  },
+  {
+    "order": 19,
+    "speaker": "Neil",
+    "text": "Even before 3D printers, prosthetic eyes were custom-made, a word similar to ‘bespoke’ which means specially made according to a particular person’s requirements. But the traditional way of making artificial eyes by hand is very time-consuming – it takes a lot of time to do. Nowadays, 3D printing can complete the whole process in just thirty minutes."
+  },
+  {
+    "order": 20,
+    "speaker": "Sam",
+    "text": "It’s great to see technology helping people, and amazing how far new inventions like 3D printers have come since the days of Johannes Gutenberg… speaking of which, Neil, it’s time to reveal the answer to my question."
+  },
+  {
+    "order": 21,
+    "speaker": "Neil",
+    "text": "Right. You asked me about the earliest known text to have been printed using wooden blocks, and I guesses it was a cooking recipe… So, was I right?"
+  },
+  {
+    "order": 22,
+    "speaker": "Sam",
+    "text": "You were… wrong, I’m afraid, Neil! The oldest known wooden block print was actually a religious text – the Buddha’s Diamond Sutra. OK, let’s recap the vocabulary from this programme, starting with mucking about, an informal way to say playing with something carelessly, not for a serious reason."
+  },
+  {
+    "order": 23,
+    "speaker": "Neil",
+    "text": "A prototype is a model of a product that can be tested, improved and used to develop a better product."
+  },
+  {
+    "order": 24,
+    "speaker": "Sam",
+    "text": "The phrase Hold on a minute! can be used to express surprise or disbelief."
+  },
+  {
+    "order": 25,
+    "speaker": "Neil",
+    "text": "Prosthetics refer to artificial body parts such as arms, legs, feet or eyes, which are used to replace a missing natural part."
+  },
+  {
+    "order": 26,
+    "speaker": "Sam",
+    "text": "The words bespoke, and custom-made describe something specially made for a particular person."
+  },
+  {
+    "order": 27,
+    "speaker": "Neil",
+    "text": "And finally, if something is time-consuming, it takes a lot of time to do. Goodbye for now!"
+  },
+  {
+    "order": 28,
+    "speaker": "Sam",
+    "text": "Goodbye!"
+  }
+]

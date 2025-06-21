@@ -1,0 +1,242 @@
+[
+  {
+    "order": 1,
+    "speaker": "Alice",
+    "text": "Hello and welcome to 6 Minute English. I'm Alice…"
+  },
+  {
+    "order": 2,
+    "speaker": "Neil",
+    "text": "And I'm Neil. I'm feeling a bit chilly today, Alice."
+  },
+  {
+    "order": 3,
+    "speaker": "unseasonably",
+    "text": "Yes, it is unseasonably cold today – which means not normal for the time of year. But the weather is very unpredictable these days."
+  },
+  {
+    "order": 4,
+    "speaker": "Neil",
+    "text": "I know what you mean."
+  },
+  {
+    "order": 5,
+    "speaker": "Alice",
+    "text": "Well, global warming is the subject of today's show."
+  },
+  {
+    "order": 6,
+    "speaker": "Neil",
+    "text": "Is global warming really something to worry about? Some people say that the Earth has warmed up in the past and nothing terrible has happened."
+  },
+  {
+    "order": 7,
+    "speaker": "Alice",
+    "text": "The Earth has warmed up before, but this was the result of things like wobbles in the Earth's orbit, not because of an increase of greenhouse gases in the atmosphere."
+  },
+  {
+    "order": 8,
+    "speaker": "Neil",
+    "text": "Can we reverse the changes?"
+  },
+  {
+    "order": 9,
+    "speaker": "mitigate",
+    "text": "No, it's too late, and now we have to find ways to adapt to extreme weather, rising sea levels, and melting polar ice caps. However, we can mitigate greenhouse gas emissions – or make them less harmful. But before we talk more about this, I have a question for you. How much has the average temperature of the Earth's surface increased in the last hundred years? Is it…"
+  },
+  {
+    "order": 10,
+    "speaker": "mitigate",
+    "text": "a) 0.85°C?"
+  },
+  {
+    "order": 11,
+    "speaker": "mitigate",
+    "text": "b) 1.85°C?"
+  },
+  {
+    "order": 12,
+    "speaker": "mitigate",
+    "text": "Or c) 8.5°C?"
+  },
+  {
+    "order": 13,
+    "speaker": "Neil",
+    "text": "I'm gonna go for the big one a) 8.5°C."
+  },
+  {
+    "order": 14,
+    "speaker": "Alice",
+    "text": "Well, we'll find out if you got the answer right later on, Neil. But first, do you know any ways to mitigate greenhouse gas emissions?"
+  },
+  {
+    "order": 15,
+    "speaker": "Neil",
+    "text": "I do, actually. An Argentinian company has started collecting cow… emissions and converting them into usable energy."
+  },
+  {
+    "order": 16,
+    "speaker": "Alice",
+    "text": "Well, as the world eats more meat, methane emissions from livestock are actually becoming a bigger climate concern."
+  },
+  {
+    "order": 17,
+    "speaker": "Neil",
+    "text": "And one day's worth of cow emissions provides energy to run a car for 24 hours."
+  },
+  {
+    "order": 18,
+    "speaker": "Alice",
+    "text": "OK, moving on now, so the world is going to have to adapt to global warming since we can't turn back the clock on climate change. And rich countries have the resources to do this, whilst poorer countries don't. Let's hear from Saleemul Huq, Director of the International Centre for Climate Change and Development in Bangladesh, talking about how this problem is being addressed."
+  },
+  {
+    "order": 19,
+    "speaker": "Saleemul Huq, Director, International Centre for Climate Change and Development in Bangladesh",
+    "text": "Saleemul Huq: The rich countries have already pledged and promised a hundred billion dollars a year, starting from 2020, to cover all kinds of climate change activities which in climate change are either going to be called mitigation or adaptation."
+  },
+  {
+    "order": 20,
+    "speaker": "Saleemul Huq, Director, International Centre for Climate Change and Development in Bangladesh",
+    "text": "Owen Bennett Jones: A year? But that's an enormous sum of money!"
+  },
+  {
+    "order": 21,
+    "speaker": "Saleemul Huq, Director, International Centre for Climate Change and Development in Bangladesh",
+    "text": "Saleemul Huq: Not that enormous compared to what they gave to the banking system when it collapsed. Climate change is a much bigger problem than the banking crisis."
+  },
+  {
+    "order": 22,
+    "speaker": "pledged",
+    "text": "Saleemul Huq interviewed on the BBC World Service programme Newshour Extra. Well, he says rich countries have pledged – or promised – to deliver a hundred billion dollars a year to help poorer countries adapt to climate change. However, he suggests that this sum could have been larger – since more money than this was donated to resolve the banking crisis."
+  },
+  {
+    "order": 23,
+    "speaker": "Alice",
+    "text": "For example, after the devastating effects of Hurricane Sandy, New York City invested ten billion dollars on storm defences to protect Manhattan – and Wall Street."
+  },
+  {
+    "order": 24,
+    "speaker": "desalination",
+    "text": "And where lack of water is a problem, countries like Australia, China, and Spain, have built desalination plants, which remove the salt from seawater to produce drinking water. But it's too expensive for developing countries to do this, even though they need them."
+  },
+  {
+    "order": 25,
+    "speaker": "homegrown",
+    "text": "So in relative terms, one billion dollars a year to help poor countries is a small sum of money when compared to their need. Countries like Bangladesh have developed homegrown technologies – which means produced locally – such as harvesting rainwater from their rooftops."
+  },
+  {
+    "order": 26,
+    "speaker": "Neil",
+    "text": "OK, Alice, and thinking about certain radical proposals for adaptation – did you know there's a Dutch company that wants to build floating cities for us to live in?"
+  },
+  {
+    "order": 27,
+    "speaker": "Alice",
+    "text": "No, I didn't."
+  },
+  {
+    "order": 28,
+    "speaker": "Neil",
+    "text": "Yeah. Plans include 15-storey high-rise buildings and floating food production."
+  },
+  {
+    "order": 29,
+    "speaker": "Alice",
+    "text": "It sounds like it would be incredibly expensive. Has anyone actually built one?"
+  },
+  {
+    "order": 30,
+    "speaker": "Neil",
+    "text": "No, not so far. Let's hear from Mark Maslin, Professor of Climatology at University College London, talking about why this might be."
+  },
+  {
+    "order": 31,
+    "speaker": "Mark Maslin, Professor of Climatology at University College London",
+    "text": "Remember, we're going to have 9.5 billion people by the middle of this century. Now, if you think about it, think about the logistics of building a city, floating, for say, ten million people. And then multiply that up to 60 per cent of 9.5 billion people. OK? So don't think it's really cost-efficient."
+  },
+  {
+    "order": 32,
+    "speaker": "cost-efficient",
+    "text": "So in practical terms, the logistics of building a large floating city probably couldn't work. It wouldn't be cost-efficient – or good value for the money you paid."
+  },
+  {
+    "order": 33,
+    "speaker": "logistics",
+    "text": "And logistics means the organization of a complex activity."
+  },
+  {
+    "order": 34,
+    "speaker": "Neil",
+    "text": "On the other hand, the logistics of teaching farmers in Bangladesh to breed ducks instead of chickens, for example, would be relatively simple and cost-efficient – and since ducks float and chickens don't, it's a sensible adaptation to climate change!"
+  },
+  {
+    "order": 35,
+    "speaker": "Alice",
+    "text": "That's a great example, Neil! Now, I think it's time for the answer to today's quiz question. I asked: How much has the average temperature of the Earth's surface increased in the last hundred years? Is it… a) 0.85°C, b) 1.85°C or c) 8.5°C?"
+  },
+  {
+    "order": 36,
+    "speaker": "Neil",
+    "text": "And I said c) 8.5°C and I know I'm wrong."
+  },
+  {
+    "order": 37,
+    "speaker": "Alice",
+    "text": "Yes, I'm afraid you are Neil. The right answer is actually 0.85°C. And did you know that 13 of the 14 warmest years were recorded in the 21st Century?"
+  },
+  {
+    "order": 38,
+    "speaker": "Neil",
+    "text": "I did not know that, Alice. But I do know which words we learned today."
+  },
+  {
+    "order": 39,
+    "speaker": "Neil",
+    "text": "They are:"
+  },
+  {
+    "order": 40,
+    "speaker": "Neil",
+    "text": "unseasonably"
+  },
+  {
+    "order": 41,
+    "speaker": "Neil",
+    "text": "mitigate"
+  },
+  {
+    "order": 42,
+    "speaker": "Neil",
+    "text": "pledged"
+  },
+  {
+    "order": 43,
+    "speaker": "Neil",
+    "text": "desalination"
+  },
+  {
+    "order": 44,
+    "speaker": "Neil",
+    "text": "homegrown"
+  },
+  {
+    "order": 45,
+    "speaker": "Neil",
+    "text": "cost-efficient"
+  },
+  {
+    "order": 46,
+    "speaker": "Neil",
+    "text": "logistics"
+  },
+  {
+    "order": 47,
+    "speaker": "Alice",
+    "text": "And that's the end of today's 6 Minute English. Don't forget to join us again soon!"
+  },
+  {
+    "order": 48,
+    "speaker": "Both",
+    "text": "Bye!"
+  }
+]

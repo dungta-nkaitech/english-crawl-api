@@ -1,0 +1,232 @@
+[
+  {
+    "order": 1,
+    "speaker": "Neil",
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil."
+  },
+  {
+    "order": 2,
+    "speaker": "Georgina",
+    "text": "And I’m Georgina. Have you finished writing that report yet, Neil?"
+  },
+  {
+    "order": 3,
+    "speaker": "Neil",
+    "text": "Err, not quite – it’s almost done."
+  },
+  {
+    "order": 4,
+    "speaker": "Georgina",
+    "text": "Well, finish it this morning please, then make sure you’ve planned all the studio sessions for the week and show me so I can double check, OK?"
+  },
+  {
+    "order": 5,
+    "speaker": "micromanaged",
+    "text": "[Sigh] OK. Has this ever happened to you? Being micromanaged by someone? That’s what it’s called when your boss wants to control everything, down to the smallest detail."
+  },
+  {
+    "order": 6,
+    "speaker": "Georgina",
+    "text": "…and I notice you’ve written the report in font size 11 when I told you to use size 12!"
+  },
+  {
+    "order": 7,
+    "speaker": "go on strike",
+    "text": "[Sigh] If this keeps up I’m might go on strike. It wouldn’t be the first time someone has refused to continue working because of an argument with their boss."
+  },
+  {
+    "order": 8,
+    "speaker": "Georgina",
+    "text": "Hmm, maybe I’d better go easy on Neil. After all, I don’t want a repeat of what happened on the American spaceship, Skylab - the subject of this programme."
+  },
+  {
+    "order": 9,
+    "speaker": "Neil",
+    "text": "In 1973, three US astronauts on board the Skylab space station had a disagreement with mission control over their workload in an incident that has, incorrectly, been called the Skylab space ‘strike’. But before we find out more, let me ask you my quiz question – if that’s OK, boss?"
+  },
+  {
+    "order": 10,
+    "speaker": "Georgina",
+    "text": "Go ahead."
+  },
+  {
+    "order": 11,
+    "speaker": "Neil",
+    "text": "Well, the Skylab astronauts felt they had been given too much work to complete during the space flight. But how did they protest to their bosses at ground control? Did they…"
+  },
+  {
+    "order": 12,
+    "speaker": "Neil",
+    "text": "a) pretend the radio had broken?"
+  },
+  {
+    "order": 13,
+    "speaker": "Neil",
+    "text": "b) stop shaving and grew beards?, or,"
+  },
+  {
+    "order": 14,
+    "speaker": "Neil",
+    "text": "c) fake the results of their experiments?"
+  },
+  {
+    "order": 15,
+    "speaker": "Georgina",
+    "text": "I guess, a) pretending the radio had broken, would show them who’s boss – although floating in space without radio contact sounds a bit dangerous to me!"
+  },
+  {
+    "order": 16,
+    "speaker": "Neil",
+    "text": "OK, Georgina, we’ll find out what really happened later. Now, Skylab was planned to be the fourth – and final - crewed flight to orbit the Earth."
+  },
+  {
+    "order": 17,
+    "speaker": "Georgina",
+    "text": "For scientists it was the last chance to test out their theories in space and the Skylab crew were asked to study everything about space travel, from its effects on the human body to how spiders make webs."
+  },
+  {
+    "order": 18,
+    "speaker": "Neil",
+    "text": "Here’s one of the Skylab astronauts, Ed Gibson, telling Lucy Burns, presenter of BBC World Service programme, Witness History, how they communicated with ground control:"
+  },
+  {
+    "order": 19,
+    "speaker": "Ed Gibson",
+    "text": "We got our instructions over a teleprinter. One morning we had about 60 feet of teleprinter message to cut up and divide up and understand before we even get to work."
+  },
+  {
+    "order": 20,
+    "speaker": "tight schedulebossy",
+    "text": "All space missions run to a tight schedule all the way down to exercise times and meal breaks but the Skylab 4 astronauts felt their ground control team was being particularly bossy."
+  },
+  {
+    "order": 21,
+    "speaker": "micromanagement24 hours a day",
+    "text": "I don’t know if any of you have ever had to work… do something under the conditions of micromanagement – it’s bad enough for an hour, but try 24 hours a day… we’re just not constructive that way, we’re not getting things done the way we should because we couldn’t use our own judgment."
+  },
+  {
+    "order": 22,
+    "speaker": "tight schedule",
+    "text": "With so many experiments to carry out and a limited time in space, the Skylab crew had a tight schedule - a small amount of time to finish a job."
+  },
+  {
+    "order": 23,
+    "speaker": "Georgina",
+    "text": "Bosses at ground control sent radio messages every morning, detailing exactly their duties for that day. They sound like real micromanagers, Neil!"
+  },
+  {
+    "order": 24,
+    "speaker": "bossy",
+    "text": "Absolutely! Or in other words, bossy - always telling people what to do!"
+  },
+  {
+    "order": 25,
+    "speaker": "24 hours a day",
+    "text": "Astronaut, Ed Gibson, wanted to use his professional judgement to complete the work, not be bossed around by ground control 24 hours a day – an expression meaning, all day and night."
+  },
+  {
+    "order": 26,
+    "speaker": "Neil",
+    "text": "When one of the astronauts got sick, it was decided that they would take turns talking to ground control."
+  },
+  {
+    "order": 27,
+    "speaker": "Georgina",
+    "text": "But one day, all three of them missed the daily radio meeting and some Nasa bosses thought they’d gone on strike!"
+  },
+  {
+    "order": 28,
+    "speaker": "Neil",
+    "text": "In the crisis talks that followed, both crew and ground control agreed better ways of working and communicating – and less micromanagement!"
+  },
+  {
+    "order": 29,
+    "speaker": "Georgina",
+    "text": "But the newspapers had already got hold of the story, and to this day the incident is misremembered as the ‘strike’ in space."
+  },
+  {
+    "order": 30,
+    "speaker": "Neil",
+    "text": "Here’s Ed Gibson again, speaking to BBC World Service’s, Witness History, on what he learned from the experience:"
+  },
+  {
+    "order": 31,
+    "speaker": "micromanagementthe way to go",
+    "text": "We all conclude that we learned something from it – micromanagement does not work, except when you’re in a situation that demands it like a lift-off or a re-entry… and fortunately I think that’s been passed down to the space station people and they learned that that’s the way to go."
+  },
+  {
+    "order": 32,
+    "speaker": "the way to go",
+    "text": "In the end Nasa agreed that trusting people to do their jobs was the way to go – the best method for doing a particular thing."
+  },
+  {
+    "order": 33,
+    "speaker": "Neil",
+    "text": "I told you, Georgina – no-one likes being bossed around!"
+  },
+  {
+    "order": 34,
+    "speaker": "Georgina",
+    "text": "Including the Skylab astronauts! But was my answer correct? About how they protested?"
+  },
+  {
+    "order": 35,
+    "speaker": "Neil",
+    "text": "Ah yes, in my quiz question, I asked how the Skylab astronauts protested to their bosses. What did you say?"
+  },
+  {
+    "order": 36,
+    "speaker": "Georgina",
+    "text": "I thought the astronauts, a) pretended the radio had broken."
+  },
+  {
+    "order": 37,
+    "speaker": "Neil",
+    "text": "Ah, good guess, Georgina, but actually the answer was… b) they stopped shaving and grew beards. Unless that was just another experiment?!"
+  },
+  {
+    "order": 38,
+    "speaker": "micromanage",
+    "text": "Let’s recap the vocabulary, starting with micromanage – control everything, down to the smallest detail."
+  },
+  {
+    "order": 39,
+    "speaker": "bossy",
+    "text": "If you’re bossy, you’re always telling people what to do."
+  },
+  {
+    "order": 40,
+    "speaker": "go on strike",
+    "text": "But be careful, because your workers might go on strike – refuse to work."
+  },
+  {
+    "order": 41,
+    "speaker": "tight scheduletwenty-four hours a day",
+    "text": "The Skylab astronauts had a tight schedule – a small amount of time to complete their jobs. They felt their bosses were watching them twenty-four hours a day, or all the time."
+  },
+  {
+    "order": 42,
+    "speaker": "the way to go",
+    "text": "But in the end, trusting people is the way to go – the best method of doing something."
+  },
+  {
+    "order": 43,
+    "speaker": "Neil",
+    "text": "That’s all for now, but watch this space for more trending topics and useful vocabulary, here at BBC 6 Minute English."
+  },
+  {
+    "order": 44,
+    "speaker": "Georgina",
+    "text": "And if you like topical discussions and want to learn how to use the vocabulary found in headlines, why not try out our New Review podcast? Don’t forget you can also download the app for free from the app store. And remember to check us out on Facebook, Twitter and Instagram."
+  },
+  {
+    "order": 45,
+    "speaker": "Neil",
+    "text": "Over and out!"
+  },
+  {
+    "order": 46,
+    "speaker": "Georgina",
+    "text": "Bye!"
+  }
+]

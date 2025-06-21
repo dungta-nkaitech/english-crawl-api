@@ -1,0 +1,152 @@
+[
+  {
+    "order": 1,
+    "speaker": "Phil",
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Phil."
+  },
+  {
+    "order": 2,
+    "speaker": "Georgie",
+    "text": "And I’m Georgie."
+  },
+  {
+    "order": 3,
+    "speaker": "Phil",
+    "text": "Animal testing is when living animals are used in scientific research to find out how effective a new medicine is, or how safe a product is for humans."
+  },
+  {
+    "order": 4,
+    "speaker": "Georgie",
+    "text": "Scientists in favour of it argue that animal testing shows whether medicines are safe or dangerous for humans, and has saved many lives. But animal rights campaigners say it’s cruel, and also ineffective because animals and humans are so different."
+  },
+  {
+    "order": 5,
+    "speaker": "human guinea pig",
+    "text": "Under British law, medicines must be tested on two different types of animals, usually starting with rats, mice or guinea pigs. And in everyday English, the term human guinea pig can be used to mean the first people to have something tested on them. But now, groups both for and against animal testing are thinking again, thanks to a recent development in the debate: AI."
+  },
+  {
+    "order": 6,
+    "speaker": "Georgie",
+    "text": "In this programme, we’ll be hearing how artificial intelligence could help reduce the need for scientific testing on animals."
+  },
+  {
+    "order": 7,
+    "speaker": "Phil",
+    "text": "But first I have a question for you, Georgie. There’s one commonly used medicine in particular, which is harmful for animals but safe for humans, but what? Is it:"
+  },
+  {
+    "order": 8,
+    "speaker": "Phil",
+    "text": "a)    antibiotics?"
+  },
+  {
+    "order": 9,
+    "speaker": "Phil",
+    "text": "b)    aspirin? or,"
+  },
+  {
+    "order": 10,
+    "speaker": "Phil",
+    "text": "c)    paracetamol?"
+  },
+  {
+    "order": 11,
+    "speaker": "Georgie",
+    "text": "Hmm, I guess it’s aspirin."
+  },
+  {
+    "order": 12,
+    "speaker": "Phil",
+    "text": "OK, Georgie, I’ll reveal the answer at the end of the programme. Christine Ro is a science journalist who’s interested in the animal testing debate. Here, she explains to BBC World Service programme, 'Tech Life', some of the limitations of testing medicines on animals."
+  },
+  {
+    "order": 13,
+    "speaker": "vice versa",
+    "text": "Of course, you can't necessarily predict from a mouse or a dog what's going to happen in a human, and there have been a number of cases where substances that have proven to be toxic in animals have been proven to be safe in humans, and vice versa."
+  },
+  {
+    "order": 14,
+    "speaker": "vice versa",
+    "text": "[…]"
+  },
+  {
+    "order": 15,
+    "speaker": "needle to thread,",
+    "text": "There are also, of course, animal welfare limitations to animal testing. Most people, I think, if they had the choice, would want their substances to be used on as few animals, or no animals, as possible, while still ensuring safety. Now that's been a really difficult needle to thread, but AI might help to make that more possible."
+  },
+  {
+    "order": 16,
+    "speaker": "vice versa",
+    "text": "Christine says that medicines which are safe for animals, might not be safe for humans. But the opposite is also true – what’s safe for humans might not be safe for animals. Christine uses the phrase vice versa to show that the opposite of what she says is also true."
+  },
+  {
+    "order": 17,
+    "speaker": "thread the needleneedle to thread.",
+    "text": "Christine also uses the idiom to thread the needle to describe a task which requires a lot of skill and precision, especially one involving a conflict. Yes, medical animal testing may save human lives, but many people see it as cruel and distressing for the animal – it’s a difficult needle to thread."
+  },
+  {
+    "order": 18,
+    "speaker": "Georgie",
+    "text": "But now, the challenge of threading that needle has got a little easier because of artificial intelligence. Predicting how likely a new medicine is to harm humans, involves analysing the results of thousands of experiments. And one thing AI is really good at, is analysing mountains and mountains of data. Here’s Christine Ro again, speaking with BBC World Service’s, 'Tech Life'."
+  },
+  {
+    "order": 19,
+    "speaker": "whole picturewade throughon top of that",
+    "text": "So, AI isn't the whole picture of course, but it's an increasingly important part of the picture. And one reason for that, is that there is a huge amount of toxicology data to wade through when it comes to determining chemical safety, and on top of that, there's this staggering number of chemicals being invented all of the time."
+  },
+  {
+    "order": 20,
+    "speaker": "wade throughwade through something",
+    "text": "AI helps scientists wade through huge amounts of data. If you wade through something, you spend a lot of time and effort doing something boring or difficult, especially reading a lot of information."
+  },
+  {
+    "order": 21,
+    "speaker": "on top of that,",
+    "text": "AI can process huge amounts of data, and what’s more, that amount keeps growing as new chemicals are invented. Christine uses the phrase on top of that, meaning 'in addition to something', often this extra thing is negative. She means there’s already so much data to understand and additionally, there’s even more to be understood about these new chemicals."
+  },
+  {
+    "order": 22,
+    "speaker": "the whole picture",
+    "text": "Of course, the good news is that with AI, testing on animals could one day stop, although Christine warns that AI is not the whole picture, it’s not a complete description of something which includes all the relevant information. Nevertheless, the news is a step forward for both animal welfare and for modern medicine."
+  },
+  {
+    "order": 23,
+    "speaker": "Georgie",
+    "text": "Speaking of which, what was the answer to your question, Phil? What is a commonly used medicine which is safe for humans, but harmful to animals? I guessed it was aspirin."
+  },
+  {
+    "order": 24,
+    "speaker": "human guinea pigs",
+    "text": "Which was the correct answer! Right, let’s recap the vocabulary we’ve discussed, starting with human guinea pigs meaning the first people to have something new tested on them."
+  },
+  {
+    "order": 25,
+    "speaker": "vice versa",
+    "text": "The phrase vice versa is used to indicate that the opposite of what you have just said is also true."
+  },
+  {
+    "order": 26,
+    "speaker": "thread the needle",
+    "text": "To thread the needle describes a task which requires extreme skill and precision to do successfully."
+  },
+  {
+    "order": 27,
+    "speaker": "The whole picture",
+    "text": "The whole picture means a complete description of something, which includes all the relevant information and opinions about it."
+  },
+  {
+    "order": 28,
+    "speaker": "wade through something,",
+    "text": "If you wade through something, you spend a lot of time and effort doing something boring or difficult, especially reading a lot of information."
+  },
+  {
+    "order": 29,
+    "speaker": "on top of something",
+    "text": "And finally, the phrase on top of something means 'in addition to something', and that extra thing is often negative. That’s all for this week. Goodbye for now!"
+  },
+  {
+    "order": 30,
+    "speaker": "Phil",
+    "text": "Bye!"
+  }
+]

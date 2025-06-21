@@ -1,0 +1,267 @@
+[
+  {
+    "order": 1,
+    "speaker": "Alice",
+    "text": "Hello and welcome to 6 Minute English. I'm Alice…"
+  },
+  {
+    "order": 2,
+    "speaker": "Neil",
+    "text": "And I'm Neil… Um… Alice. What's this?"
+  },
+  {
+    "order": 3,
+    "speaker": "Alice",
+    "text": "It's a cup of tea, Neil. Would you like some?"
+  },
+  {
+    "order": 4,
+    "speaker": "Neil",
+    "text": "Oh, I can't drink that! You didn’t let the tea brew for long enough. And you forgot to add sugar."
+  },
+  {
+    "order": 5,
+    "speaker": "brew",
+    "text": "Well, make it yourself next time! And when you brew a cup of tea, by the way, you add boiling water to tea leaves or a teabag and allow the flavour to develop."
+  },
+  {
+    "order": 6,
+    "speaker": "Neil",
+    "text": "I'm sorry, Alice. I didn’t mean to be rude about your tea. But I do like it very strong and sweet."
+  },
+  {
+    "order": 7,
+    "speaker": "Alice",
+    "text": "Tea is the subject of today's show. And Neil, I think you'd like the way they serve tea in India. They drink chai – a strong black tea served with lots of milk, sugar and spices."
+  },
+  {
+    "order": 8,
+    "speaker": "Neil",
+    "text": "Mmm… that does sound good. I quite fancy a cup of chai now."
+  },
+  {
+    "order": 9,
+    "speaker": "Alice",
+    "text": "Did you know that it was the British who introduced tea to India?"
+  },
+  {
+    "order": 10,
+    "speaker": "Neil",
+    "text": "No, I didn't, Alice. This is very interesting… I'm proud of our habit of having tea all the time and teabags are great! A marvellous little invention!"
+  },
+  {
+    "order": 11,
+    "speaker": "Alice",
+    "text": "Yes, I agree. Well, that's my question for you today. Where was the teabag invented? Was it in …"
+  },
+  {
+    "order": 12,
+    "speaker": "Alice",
+    "text": "a) China"
+  },
+  {
+    "order": 13,
+    "speaker": "Alice",
+    "text": "b) the US"
+  },
+  {
+    "order": 14,
+    "speaker": "Alice",
+    "text": "Or c) Britain"
+  },
+  {
+    "order": 15,
+    "speaker": "Neil",
+    "text": "Hmm. I buy a lot of teabags but I don't know their history. So I'm going to guess c) Britain."
+  },
+  {
+    "order": 16,
+    "speaker": "Alice",
+    "text": "Well, we'll find out if you chose the right answer later on. Let's listen now to Professor Markman Ellis talking about the Chinese tea plant. He's a historian at Queen Mary, University of London."
+  },
+  {
+    "order": 17,
+    "speaker": "INSERT",
+    "text": "Professor Markman Ellis, historian, Queen Mary, University of London"
+  },
+  {
+    "order": 18,
+    "speaker": "INSERT",
+    "text": "Tea is a shrub that grows naturally in the mountainous areas of China and several thousand years ago, no one knows how exactly, there… I mean… there are stories… it became clear that if you consumed the leaves of this plant especially the younger leaves, then it had an interesting effect on you. And that effect could be thought of as medicinal or it could be thought of as just kind of sanative – making you feel a bit better than you used to feel."
+  },
+  {
+    "order": 19,
+    "speaker": "consumed",
+    "text": "Professor Markman Ellis tells us that people in Ancient China consumed – or ate – leaves from the tea plant and it had an interesting effect on them."
+  },
+  {
+    "order": 20,
+    "speaker": "sanative",
+    "text": "Professor Ellis says tea has a sanative effect – making you feel better – so I might try munching a few leaves later on."
+  },
+  {
+    "order": 21,
+    "speaker": "medicinal",
+    "text": "Alright then. Apparently the Chinese started drinking tea because of its medicinal – or healing – qualities. And they've been drinking tea for thousands of years! Well we British may love a good cup of tea – but we haven’t been brewing it for nearly so long as the Chinese."
+  },
+  {
+    "order": 22,
+    "speaker": "Neil",
+    "text": "But remember that tea actually grows in China, Alice. We don't grow it in Britain."
+  },
+  {
+    "order": 23,
+    "speaker": "Alice",
+    "text": "Good point, Neil. Which brings me back to what we were talking about earlier. In the 19th century the British started to grow tea in India in order to compete with Chinese tea production. When tea first arrived in Britain in the 17th century it was incredibly expensive and only the elite could afford to drink it."
+  },
+  {
+    "order": 24,
+    "speaker": "Elite",
+    "text": "Elite means a small group of people in society who have money and power. Well, the opposite is true today – everyone drinks tea! And cheap teabags make really strong tea – just the way I like it!"
+  },
+  {
+    "order": 25,
+    "speaker": "Alice",
+    "text": "[noise of disgust] Oh, it's not for me! I like tea with a delicate flavour – Lapsang Suchong is my favourite with its evocative fragrance."
+  },
+  {
+    "order": 26,
+    "speaker": "Neil",
+    "text": "Not teabags, then?"
+  },
+  {
+    "order": 27,
+    "speaker": "Alice",
+    "text": "No, Neil. Lapsang is different from other types of tea because the leaves are smoke-dried over pinewood fires giving the tea its distinctive smoky flavour."
+  },
+  {
+    "order": 28,
+    "speaker": "evocative",
+    "text": "You sound like a TV advert – I can just see the misty mountains and fields of tea… Can you tell us what evocative means?"
+  },
+  {
+    "order": 29,
+    "speaker": "Alice",
+    "text": "It means making you imagine something pleasant. And for some people tea drinking is a spiritual experience. Let’s listen to BBC reporter Mike Williams learning about the Asian custom of the tea ceremony."
+  },
+  {
+    "order": 30,
+    "speaker": "INSERT",
+    "text": "Mike Williams and his Chinese host"
+  },
+  {
+    "order": 31,
+    "speaker": "CH:",
+    "text": "CH: Please enjoy a mouthful of green tea."
+  },
+  {
+    "order": 32,
+    "speaker": "MW:",
+    "text": "MW: Thank you... That was a bit less than a mouthful. It's a very very small amount, isn't it?"
+  },
+  {
+    "order": 33,
+    "speaker": "CH:",
+    "text": "CH: It's about 20ml. It's the way to appreciate tea in very small quantities so you can concentrate and cultivate your mindfulness in drinking the tea."
+  },
+  {
+    "order": 34,
+    "speaker": "MW:",
+    "text": "MW: Mindfulness? What do you mean by mindfulness?"
+  },
+  {
+    "order": 35,
+    "speaker": "CH:",
+    "text": "CH: Tea ceremony has some of its origin in Buddhism. The Japanese tea ceremony for example has a lot of Zen Buddhism influence. Mindfulness is the concentration and focus on the now – forget about the past, forget about the future, and enjoy this specific moment. And that's what I call mindfulness."
+  },
+  {
+    "order": 36,
+    "speaker": "Neil",
+    "text": "So they don't use mugs in the tea ceremony. It's 20 millilitres or a mouthful of green tea."
+  },
+  {
+    "order": 37,
+    "speaker": "mouthfulmindfulness",
+    "text": "That's right. Drinking just a mouthful – or a small amount – helps you concentrate and cultivate mindfulness. As the speaker explains, mindfulness means living in the moment and forgetting about the past and future."
+  },
+  {
+    "order": 38,
+    "speaker": "Neil",
+    "text": "Well, forgive me for thinking about the past – but how about the answer to today’s quiz question?"
+  },
+  {
+    "order": 39,
+    "speaker": "Alice",
+    "text": "OK then. I asked: Where was the teabag invented? Was it in… a) China?, b) the US? of c) Britain?"
+  },
+  {
+    "order": 40,
+    "speaker": "Neil",
+    "text": "And I said c) Britain. And I must be right."
+  },
+  {
+    "order": 41,
+    "speaker": "Alice",
+    "text": "Well, I'm afraid you're wrong, Neil! It was b) the US. Teabags first appeared commercially in the first decade of the 20th century and were successfully marketed by Thomas Sullivan, a tea merchant from New York, who shipped his teabags around the world."
+  },
+  {
+    "order": 42,
+    "speaker": "Neil",
+    "text": "Really? Teabags are older than I thought! Now, can you tell us the words we heard today?"
+  },
+  {
+    "order": 43,
+    "speaker": "Alice",
+    "text": "They are:"
+  },
+  {
+    "order": 44,
+    "speaker": "Alice",
+    "text": "brew"
+  },
+  {
+    "order": 45,
+    "speaker": "Alice",
+    "text": "consumed"
+  },
+  {
+    "order": 46,
+    "speaker": "Alice",
+    "text": "sanative"
+  },
+  {
+    "order": 47,
+    "speaker": "Alice",
+    "text": "medicinal"
+  },
+  {
+    "order": 48,
+    "speaker": "Alice",
+    "text": "elite"
+  },
+  {
+    "order": 49,
+    "speaker": "Alice",
+    "text": "evocative"
+  },
+  {
+    "order": 50,
+    "speaker": "Alice",
+    "text": "mouthful"
+  },
+  {
+    "order": 51,
+    "speaker": "Alice",
+    "text": "mindfulness"
+  },
+  {
+    "order": 52,
+    "speaker": "Neil",
+    "text": "Well, that's the end of today's 6 Minute English. You can go and put the kettle on now for a nice brew. Please join us again soon!"
+  },
+  {
+    "order": 53,
+    "speaker": "Both",
+    "text": "Bye."
+  }
+]

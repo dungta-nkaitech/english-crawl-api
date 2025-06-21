@@ -1,0 +1,257 @@
+[
+  {
+    "order": 1,
+    "speaker": "Alice",
+    "text": "Hello and welcome to 6 Minute English. I'm Alice…"
+  },
+  {
+    "order": 2,
+    "speaker": "Rob",
+    "text": "… And I'm Rob."
+  },
+  {
+    "order": 3,
+    "speaker": "Alice",
+    "text": "So, it's nearly exam time again. And the subject of today's show is how to prepare well for an exam."
+  },
+  {
+    "order": 4,
+    "speaker": "Rob",
+    "text": "I've got some great tips, actually, Alice."
+  },
+  {
+    "order": 5,
+    "speaker": "Alice",
+    "text": "Have you really? Can you remind me what grades you got at school?"
+  },
+  {
+    "order": 6,
+    "speaker": "Rob",
+    "text": "Yes, well … [mumbles] …"
+  },
+  {
+    "order": 7,
+    "speaker": "Alice",
+    "text": "So, you didn't get very good grades."
+  },
+  {
+    "order": 8,
+    "speaker": "Rob",
+    "text": "I probably should've started revising earlier. But my learning strategies were very good."
+  },
+  {
+    "order": 9,
+    "speaker": "revise",
+    "text": "Oh, really? Well, when you revise for an exam you study information you learned before. OK, Rob, I'd love to hear more about your learning strategies, but first here's today's quiz question for you. What's the word for a system, such as use of special poems or rhymes to help you remember something? Is it …"
+  },
+  {
+    "order": 10,
+    "speaker": "revise",
+    "text": "a) pneumatics"
+  },
+  {
+    "order": 11,
+    "speaker": "revise",
+    "text": "b) mnemonics"
+  },
+  {
+    "order": 12,
+    "speaker": "revise",
+    "text": "Or c) hypnotics?"
+  },
+  {
+    "order": 13,
+    "speaker": "Rob",
+    "text": "I'll go for b) mnemonics."
+  },
+  {
+    "order": 14,
+    "speaker": "Alice",
+    "text": "Well, we'll find out whether you got the answer right or not later on in the show. Now, according to current scientific research, some study methods popular with students aren't actually very effective."
+  },
+  {
+    "order": 15,
+    "speaker": "Rob",
+    "text": "Don't tell me – putting your textbook under your pillow at night doesn't work."
+  },
+  {
+    "order": 16,
+    "speaker": "Alice",
+    "text": "Did you try doing that, Rob?"
+  },
+  {
+    "order": 17,
+    "speaker": "Rob",
+    "text": "Yes, I did, but without much success. Maybe I was using the wrong kind of pillow?!"
+  },
+  {
+    "order": 18,
+    "speaker": "Alice",
+    "text": "Well, let's talk about more conventional methods than the book-under-the-pillow one. These include summarising, highlighting or underlining text to help you remember it… I do love a pack of highlighting pens, though."
+  },
+  {
+    "order": 19,
+    "speaker": "Rob",
+    "text": "Oh yes, me too. And actually highlighting text was one of my top tips. But I used to get so absorbed with the highlighting I'm not sure I was actually learning anything useful. My notebooks were works of art, though!"
+  },
+  {
+    "order": 20,
+    "speaker": "Alice",
+    "text": "Yes, and that's the point made by John Dunlosky, Professor of Psychology at Kent State University in the US, who says that you need to do more than just highlight information. You need to test yourself on it. Let's hear from him now."
+  },
+  {
+    "order": 21,
+    "speaker": "INSERT",
+    "text": "John Dunlosky, Professor of Psychology at Kent State University in the US"
+  },
+  {
+    "order": 22,
+    "speaker": "INSERT",
+    "text": "Students who can basically test themselves or try to retrieve material from their memory are going to learn that material in the long run a lot better. So for instance maybe you start by reading a textbook using your favourite highlighter and favourite colours, but then you go back and make flashcards of all the critical concepts and instead of just rereading those, you basically try to test yourselves on them."
+  },
+  {
+    "order": 23,
+    "speaker": "critical",
+    "text": "Professor John Dunlosky there. So he says trying to memorise the material isn't enough. You need to do something with it, for example, making flashcards of critical – or important – concepts and then testing yourself on them."
+  },
+  {
+    "order": 24,
+    "speaker": "neurons",
+    "text": "By repeatedly testing yourself on something, you strengthen the pathways between neurons – or nerve cells – in the brain. And the more often you do this, the easier it becomes to retrieve information."
+  },
+  {
+    "order": 25,
+    "speaker": "retrieve",
+    "text": "And retrieve means to get something back."
+  },
+  {
+    "order": 26,
+    "speaker": "distributed practice",
+    "text": "That's right. When you repeatedly test yourself over a longer period of time – for example, over months or weeks - this is called distributed practice – and psychologists believe this is a very effective way to learn."
+  },
+  {
+    "order": 27,
+    "speaker": "cramming",
+    "text": "It sounds like hard work, though, doesn't it? I prefer the cramming method – which means to try and learn lots of information in a short period of time. For example, the night before the exam."
+  },
+  {
+    "order": 28,
+    "speaker": "Alice",
+    "text": "I don't know, Rob. We don't cram to learn other things – like music or dancing, or football or language learning. It's far more effective to join a conversation class and practise speaking every week than to practise for hours in front of the mirror the night before your oral exam!"
+  },
+  {
+    "order": 29,
+    "speaker": "Rob",
+    "text": "That's a good point. In fact, I used to sing irregular French verbs to myself, every day in the shower for weeks before my French exam, and that helped me remember them more easily."
+  },
+  {
+    "order": 30,
+    "speaker": "Alice",
+    "text": "Excellent! Making different types of associations with what you're trying to learn – for example, musical associations – is meant to be effective. Let's listen now to Professor Dunlovsky talking about visual associations."
+  },
+  {
+    "order": 31,
+    "speaker": "INSERT",
+    "text": "John Dunlosky, Professor of Psychology at Kent State University in the US"
+  },
+  {
+    "order": 32,
+    "speaker": "INSERT",
+    "text": "I would encourage students as they are reading to try and elaborate mentally using images, as they're reading, to kind of develop a more vivid picture of what they're reading. Again, that'll help quite a bit for some kinds of studies – maybe history and so forth – and a little bit less so for more conceptual studies."
+  },
+  {
+    "order": 33,
+    "speaker": "elaborate",
+    "text": "And if you elaborate on something, it means you add more information – in this case, mental pictures."
+  },
+  {
+    "order": 34,
+    "speaker": "conceptual",
+    "text": "So, creating mental pictures is useful for some subjects – like history or languages. But conceptual subjects – ones based on abstract ideas rather than things – like maths, for example – it might not be so easy to associate ideas with pictures."
+  },
+  {
+    "order": 35,
+    "speaker": "Rob",
+    "text": "Now what about Albert Einstein? People say he was a very visual thinker."
+  },
+  {
+    "order": 36,
+    "speaker": "Alice",
+    "text": "Well, you've got me there, Rob. I don't know the answer to that but I can give you the answer to today's quiz question. I asked: What's the word for a system, such as use of special poems or rhymes to help you remember something? Is it … a) pneumatics, b) mnemonics or c) hypnotics?"
+  },
+  {
+    "order": 37,
+    "speaker": "Rob",
+    "text": "I said mnemonics."
+  },
+  {
+    "order": 38,
+    "speaker": "Alice",
+    "text": "And you were right!"
+  },
+  {
+    "order": 39,
+    "speaker": "Rob",
+    "text": "Great!"
+  },
+  {
+    "order": 40,
+    "speaker": "because",
+    "text": "Well done! Research on mnemonics suggests they are a good strategy for learning certain kinds of things, like how to spell difficult words. For example, the first letters of this sentence: 'big elephants cause accidents under small elephants' spells 'because'. Now, do you think you can remember the words we heard today, Rob?"
+  },
+  {
+    "order": 41,
+    "speaker": "Rob",
+    "text": "We heard:"
+  },
+  {
+    "order": 42,
+    "speaker": "Rob",
+    "text": "revise"
+  },
+  {
+    "order": 43,
+    "speaker": "Rob",
+    "text": "critical"
+  },
+  {
+    "order": 44,
+    "speaker": "Rob",
+    "text": "neurons"
+  },
+  {
+    "order": 45,
+    "speaker": "Rob",
+    "text": "retrieve"
+  },
+  {
+    "order": 46,
+    "speaker": "Rob",
+    "text": "distributed practice"
+  },
+  {
+    "order": 47,
+    "speaker": "Rob",
+    "text": "cramming"
+  },
+  {
+    "order": 48,
+    "speaker": "Rob",
+    "text": "elaborate"
+  },
+  {
+    "order": 49,
+    "speaker": "Rob",
+    "text": "conceptual"
+  },
+  {
+    "order": 50,
+    "speaker": "Alice",
+    "text": "Well, that's the end of today's 6 Minute English. Remember to join us again soon!"
+  },
+  {
+    "order": 51,
+    "speaker": "Both",
+    "text": "Bye."
+  }
+]

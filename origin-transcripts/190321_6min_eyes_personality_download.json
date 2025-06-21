@@ -1,0 +1,207 @@
+[
+  {
+    "order": 1,
+    "speaker": "Neil",
+    "text": "Hello and welcome to 6 Minute English. I'm Neil."
+  },
+  {
+    "order": 2,
+    "speaker": "Rob",
+    "text": "And I'm Rob."
+  },
+  {
+    "order": 3,
+    "speaker": "Neil",
+    "text": "Now, Rob, would you say that you are an introvert or an extrovert?"
+  },
+  {
+    "order": 4,
+    "speaker": "extrovertsintrovert",
+    "text": "What a good question! Well, extroverts are confident in their personality. They're outgoing and comfortable in social situations. So, I would have to say that, if anything, I’m the opposite. I’m more of an introvert. I’m really quite shy. I feel uncomfortable in social situations. For example, if I go to a party, where I don’t know anyone I usually feel very embarrassed and I find it impossible to start conversations with strangers."
+  },
+  {
+    "order": 5,
+    "speaker": "Neil",
+    "text": "But you do all of this on the radio and videos for Learning English, don’t you? Some would say you have to be an extrovert to do what we do."
+  },
+  {
+    "order": 6,
+    "speaker": "extrovertintrovert",
+    "text": "Ah! Well, maybe I’m pretending to be an extrovert to hide the fact that I’m an introvert. It’s quite a common thing, you know."
+  },
+  {
+    "order": 7,
+    "speaker": "Neil",
+    "text": "Well, it might not be so easy to hide in the future because researchers have developed a computer program that can tell your personality from looking at where you look, by tracking your eye movements."
+  },
+  {
+    "order": 8,
+    "speaker": "Rob",
+    "text": "Wow! That sounds pretty hi-tech, and scary."
+  },
+  {
+    "order": 9,
+    "speaker": "Neil",
+    "text": "Well, we’ll learn more shortly, but first a question on the topic of clever computers. The letters 'AI' stand for Artificial Intelligence but what are the letters 'AI'? Are they"
+  },
+  {
+    "order": 10,
+    "speaker": "Neil",
+    "text": "A) an abbreviation"
+  },
+  {
+    "order": 11,
+    "speaker": "Neil",
+    "text": "B) an acronym, or"
+  },
+  {
+    "order": 12,
+    "speaker": "Neil",
+    "text": "C) an initialism?"
+  },
+  {
+    "order": 13,
+    "speaker": "Rob",
+    "text": "OK, I thought that was going to be easy, but I think it’s an abbreviation, isn’t it?"
+  },
+  {
+    "order": 14,
+    "speaker": "Neil",
+    "text": "Well, you’ll have to wait to the end of the programme to find out! Sabrina Hoppe is a researcher at the University of Stuttgart. She was interviewed on the BBC Radio programme All In The Mind. She spoke about an experiment in which they tracked the eye movements of people in real situations. This is what she said about the research. Was she confident the experiment would work in the real world?"
+  },
+  {
+    "order": 15,
+    "speaker": "findingunconstrained",
+    "text": "The main finding in our study is that it is possible at all to just look at eye movements and then predict something about their personality. And before our study, it was not clear at all if this would be possible from eye movements in such an unconstrained real world setting."
+  },
+  {
+    "order": 16,
+    "speaker": "Neil",
+    "text": "So, was she confident this would work?"
+  },
+  {
+    "order": 17,
+    "speaker": "unconstrainedUnconstrained",
+    "text": "No, not really. She said that before the study it wasn’t clear if it would be possible in an unconstrained real-world setting. Unconstrained here means that there wasn’t strict control over the conditions of the experiment. It took place in the ‘real-world’ – so not in a laboratory."
+  },
+  {
+    "order": 18,
+    "speaker": "finding",
+    "text": "The result of the experiment - or the finding, as she called it - was that by following eye movements, a computer programme was able to work out the personality of the subjects. Let’s listen again."
+  },
+  {
+    "order": 19,
+    "speaker": "findingunconstrained",
+    "text": "The main finding in our study is that it is possible at all to just look at eye movements and then predict something about their personality. And before our study, it was not clear at all if this would be possible from eye movements in such an unconstrained real world setting."
+  },
+  {
+    "order": 20,
+    "speaker": "extrovertsintroverts",
+    "text": "So how does the software work, for example, what are the differences in the eye movements of extroverts compared to introverts?"
+  },
+  {
+    "order": 21,
+    "speaker": "extrovertintrovertgaze.figured out",
+    "text": "We still don't really know in detail what makes the difference. We can only tell that there are differences and that we know computer programs that can pick up those differences. Maybe extrovert people look up a lot because they want to look at people's faces, whereas some super introvert person maybe just stares at their own shoes, if you want to take the extreme examples. So, probably it somehow changes gaze. But we only know that this information is there and somehow our program figured out how to extract it."
+  },
+  {
+    "order": 22,
+    "speaker": "Neil",
+    "text": "So how does it work?"
+  },
+  {
+    "order": 23,
+    "speaker": "gazeGazegaze",
+    "text": "Well, that’s the strange thing. She said that she didn’t really know, at least not in detail. She did say that our personality somehow changes gaze. Gaze is another word for looking at something. So maybe we gaze in different ways depending on our personality. Extroverts may look up more and introverts, like me, may look down more."
+  },
+  {
+    "order": 24,
+    "speaker": "figure it outto figure something out",
+    "text": "Yes, it was interesting that she said that she didn’t know how it did it, but the program somehow managed to figure it out. The phrasal verb to figure something out means 'to understand or realise something'.  Time to review today’s vocabulary, but first, let’s have the answer to the quiz question. I asked what are the letters AI? Are they"
+  },
+  {
+    "order": 25,
+    "speaker": "figure it outto figure something out",
+    "text": "A) an abbreviation"
+  },
+  {
+    "order": 26,
+    "speaker": "figure it outto figure something out",
+    "text": "B) an acronym"
+  },
+  {
+    "order": 27,
+    "speaker": "figure it outto figure something out",
+    "text": "C) an initialism"
+  },
+  {
+    "order": 28,
+    "speaker": "figure it outto figure something out",
+    "text": "Rob, what did you say?"
+  },
+  {
+    "order": 29,
+    "speaker": "Rob",
+    "text": "I said A) an abbreviation."
+  },
+  {
+    "order": 30,
+    "speaker": "Neil",
+    "text": "Well sorry, no, AI is C), so to speak. It's an initialism. It’s the first letters of the words 'artificial intelligence', but it’s not pronounced like a new word, just the initial letters. Right, time now to review today’s vocabulary."
+  },
+  {
+    "order": 31,
+    "speaker": "extrovertextrovert",
+    "text": "Yes. We had the word extrovert. This describes someone who has a very outgoing personality. An extrovert is confident and socially comfortable."
+  },
+  {
+    "order": 32,
+    "speaker": "introvert",
+    "text": "By contrast, an introvert is someone who is shy and not comfortable in social situations and doesn’t like being the centre of attention."
+  },
+  {
+    "order": 33,
+    "speaker": "findingsfinding",
+    "text": "Our report today talked about the findings of some new research. A finding is something that has been learnt, discovered or indeed, found out. It is the conclusion that is reached."
+  },
+  {
+    "order": 34,
+    "speaker": "unconstrainedunconstrained",
+    "text": "Then we had unconstrained to describe the experiment which was not carried out in a controlled environment. So unconstrained means 'not limited or restricted'."
+  },
+  {
+    "order": 35,
+    "speaker": "gaze",
+    "text": "Our next word was gaze. This is a word that means 'our way of looking at something'."
+  },
+  {
+    "order": 36,
+    "speaker": "findings gaze",
+    "text": "Yes, the findings of the research suggest that our personality can affect our gaze."
+  },
+  {
+    "order": 37,
+    "speaker": "tofigure outTo figure out",
+    "text": "And this was something the computer was able to figure out. To figure out means 'to study something and reach an answer to a particular question or problem'."
+  },
+  {
+    "order": 38,
+    "speaker": "figured out",
+    "text": "Right! Well, you know what I’ve just figured out?"
+  },
+  {
+    "order": 39,
+    "speaker": "Rob",
+    "text": "Do tell!"
+  },
+  {
+    "order": 40,
+    "speaker": "Neil",
+    "text": "It’s time to bring this edition of 6 Minute English to an end. We hope you can join us again, but until then we are bbclearningenglish.com and you can find us on social media, online and on our app. Bye for now."
+  },
+  {
+    "order": 41,
+    "speaker": "Rob",
+    "text": "Bye-bye!"
+  }
+]

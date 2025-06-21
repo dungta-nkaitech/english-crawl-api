@@ -1,0 +1,232 @@
+[
+  {
+    "order": 1,
+    "speaker": "Alice",
+    "text": "Hello and welcome to 6 Minute English. I'm Alice…"
+  },
+  {
+    "order": 2,
+    "speaker": "Neil",
+    "text": "… and I'm Neil. Alice, have you got two pounds? I forgot my wallet and I need a coffee. I've only got these pennies."
+  },
+  {
+    "order": 3,
+    "speaker": "Alice",
+    "text": "Sorry – I always use my bankcard in the cafeteria."
+  },
+  {
+    "order": 4,
+    "speaker": "Neil",
+    "text": "You use a card to buy coffee?"
+  },
+  {
+    "order": 5,
+    "speaker": "Alice",
+    "text": "Yes. It's a tap-and-go card so it's quick – you don't enter a PIN number – and everyone in the coffee queue uses them… except you. And today's show is about how we pay for things."
+  },
+  {
+    "order": 6,
+    "speaker": "Neil",
+    "text": "Well, I pay for things with money!"
+  },
+  {
+    "order": 7,
+    "speaker": "Alice",
+    "text": "There are different kinds of money. You're behind the curve, digging around in your pockets for change, Neil. Do you still use cheques too?"
+  },
+  {
+    "order": 8,
+    "speaker": "behind the curve",
+    "text": "Yes, I do. Cheques are very useful. Now, being behind the curve means not keeping up with current trends. So help me keep up, Alice. What's a tap-and-go card? I thought you were talking about your regular bankcard."
+  },
+  {
+    "order": 9,
+    "speaker": "tap-and-go",
+    "text": "Well, tap-and-go cards are regular bankcards but with a built-in chip and antenna. The card reader sends out a radio frequency and when you bring the card close to the reader, the antenna picks up the signal to make the payment."
+  },
+  {
+    "order": 10,
+    "speaker": "antennaAlice",
+    "text": "Hmm. This antenna business doesn't sound secure – an antenna is used for sending or receiving radio signals. Doesn't it mean your personal data is flying around in the ether for anyone to steal?Alice"
+  },
+  {
+    "order": 11,
+    "speaker": "ether",
+    "text": "In this context, ether means the air where electronic communication happens. And nothing's flying around, Peter Pan! At less than half a second per transaction, there's no time for anyone to steal your cash! Now, why don't you answer today's quiz question? Which man's face appears on a UK ten pound note? Is it…"
+  },
+  {
+    "order": 12,
+    "speaker": "ether",
+    "text": "a)   Charles Darwin"
+  },
+  {
+    "order": 13,
+    "speaker": "ether",
+    "text": "b)   Isaac Newton"
+  },
+  {
+    "order": 14,
+    "speaker": "ether",
+    "text": "or c)   Albert Einstein"
+  },
+  {
+    "order": 15,
+    "speaker": "Neil",
+    "text": "None of them – it's the Queen."
+  },
+  {
+    "order": 16,
+    "speaker": "Alice",
+    "text": "No, Neil. The Queen is on one side, but on the other side of each note is an important historical figure."
+  },
+  {
+    "order": 17,
+    "speaker": "Neil",
+    "text": "Oh really? I've never noticed… OK, I'll go for b) Isaac Newton. He's a historical figure."
+  },
+  {
+    "order": 18,
+    "speaker": "Alice",
+    "text": "So are Darwin and Einstein. And coins and banknotes will be historical soon. But we'll find out if you're right later on."
+  },
+  {
+    "order": 19,
+    "speaker": "Neil",
+    "text": "I'm still concerned about tap-and-go. What if someone steals my card?"
+  },
+  {
+    "order": 20,
+    "speaker": "Alice",
+    "text": "Each contactless payment is limited to a certain amount – the UK's limit is £30. After you've used your card a few times in a row, you have to enter your PIN. And if a thief does go on a spending spree with your card, your bank covers you against fraud. Whereas, if someone steals your banknotes, that's your bad luck!"
+  },
+  {
+    "order": 21,
+    "speaker": "Fraudspending spree",
+    "text": "OK, good points. Fraud means getting money by cheating people. And a spending spree is a short period of time where you do a lot of shopping. Are you a big spender, Alice?"
+  },
+  {
+    "order": 22,
+    "speaker": "Alice",
+    "text": "Not with my tap-and-go, Neil. How about you and your chequebook?"
+  },
+  {
+    "order": 23,
+    "speaker": "Neil",
+    "text": "No comment."
+  },
+  {
+    "order": 24,
+    "speaker": "wearable tech",
+    "text": "Moving on. If getting your bankcard out seems like too much trouble there's now a solution with wearable tech – that's clothing and accessories that include computer and electronic technologies. Let's hear what Kenneth Cukier, a technology expert, has to say."
+  },
+  {
+    "order": 25,
+    "speaker": "INSERT",
+    "text": "Kenneth Cukier, economist and technology expert"
+  },
+  {
+    "order": 26,
+    "speaker": "INSERT",
+    "text": "You can simply take any wireless card and the chip from it that your bank might issue you with, and you can put it into the coat and then when you want to make a payment you just simply wave your arm in front of the terminal and leave with your latte. This is intended for people who are incredibly lazy who don't want to take their card out of their wallet, or use their phone, or use their watch. People are going to be making more purchases more of the time – particularly for small-valued goods."
+  },
+  {
+    "order": 27,
+    "speaker": "Neil",
+    "text": "What Kenneth Cukier said is very interesting. That sounds tempting but I'm still concerned about how safe this all is. What if I wave my arm around and make a payment by mistake?"
+  },
+  {
+    "order": 28,
+    "speaker": "Alice",
+    "text": "The chip has to get very close to the card reader to make a payment so that's not likely to happen. Now companies are creating new biometric technology – which you might like Neil – because it combines payment and security technology. Let's hear more from the BBC reporter Kate Russell."
+  },
+  {
+    "order": 29,
+    "speaker": "Kate Russell, BBC reporter",
+    "text": "For those times when not even carrying a phone is convenient – at the beach or a festival for example – the fingo-pay system reads the unique maps of veins under the surface of your finger. The trick is remembering which finger you registered with."
+  },
+  {
+    "order": 30,
+    "speaker": "authenticate",
+    "text": "This high-tech stuff reporter Kate Russell is talking about is amazing! Some day soon we won't have to carry a wallet or a purse or anything. The veins in our finger will authenticate payments – and prove the payments are ours. I can't wait!"
+  },
+  {
+    "order": 31,
+    "speaker": "Neil",
+    "text": "Hmm. Sounds a bit too sci-fi for my liking. How about giving us the answer to today's quiz question?"
+  },
+  {
+    "order": 32,
+    "speaker": "Alice",
+    "text": "Alright then. I asked: Which man's face appears on a UK ten pound note? Is it… a) Charles Darwin b)  Isaac Newton or c)  Albert Einstein"
+  },
+  {
+    "order": 33,
+    "speaker": "Neil",
+    "text": "And I said b) Isaac Newton."
+  },
+  {
+    "order": 34,
+    "speaker": "Alice",
+    "text": "Yes. And you were wrong, Neil! It was that other famous person, a) Charles Darwin. Isaac Newton was on the old one pound note which is no longer used. And Einstein was German, not British, so he wouldn't appear on a UK banknote anyway."
+  },
+  {
+    "order": 35,
+    "speaker": "Neil",
+    "text": "Well they look similar, I think. Can you tell us today's words once again, Alice?"
+  },
+  {
+    "order": 36,
+    "speaker": "Alice",
+    "text": "Yes, of course I can. They are:"
+  },
+  {
+    "order": 37,
+    "speaker": "Alice",
+    "text": "behind the curve"
+  },
+  {
+    "order": 38,
+    "speaker": "Alice",
+    "text": "tap-and-go"
+  },
+  {
+    "order": 39,
+    "speaker": "Alice",
+    "text": "antenna"
+  },
+  {
+    "order": 40,
+    "speaker": "Alice",
+    "text": "ether"
+  },
+  {
+    "order": 41,
+    "speaker": "Alice",
+    "text": "fraud"
+  },
+  {
+    "order": 42,
+    "speaker": "Alice",
+    "text": "spending spree"
+  },
+  {
+    "order": 43,
+    "speaker": "Alice",
+    "text": "wearable tech"
+  },
+  {
+    "order": 44,
+    "speaker": "Alice",
+    "text": "authenticate"
+  },
+  {
+    "order": 45,
+    "speaker": "Neil",
+    "text": "Well, that's the end of this edition of 6 Minute English. Get ahead of the curve, and join us again soon. Meanwhile, visit our website: bbclearningenglish.com, where you'll find guides to grammar, exercises, videos and articles to read and improve your English."
+  },
+  {
+    "order": 46,
+    "speaker": "Both",
+    "text": "Bye."
+  }
+]

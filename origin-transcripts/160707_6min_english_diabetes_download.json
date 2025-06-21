@@ -1,0 +1,252 @@
+[
+  {
+    "order": 1,
+    "speaker": "Alice",
+    "text": "Hello and welcome to 6 Minute English. I'm Alice…"
+  },
+  {
+    "order": 2,
+    "speaker": "Neil",
+    "text": "… And I'm Neil. Can you pass me my drink, Alice?"
+  },
+  {
+    "order": 3,
+    "speaker": "Alice",
+    "text": "Cola, Neil? That's very unhealthy."
+  },
+  {
+    "order": 4,
+    "speaker": "Neil",
+    "text": "You told me to stop drinking coffee because it's unhealthy – now you're telling me cola is bad too."
+  },
+  {
+    "order": 5,
+    "speaker": "Alice",
+    "text": "Cola is full of sugar. There are about six teaspoons in each can."
+  },
+  {
+    "order": 6,
+    "speaker": "Neil",
+    "text": "At least. That's pretty sugary, I admit!"
+  },
+  {
+    "order": 7,
+    "speaker": "Diabetesglucose",
+    "text": "Well, we're talking about diabetes today. Diabetes is a condition where the body can't control the amount of glucose – or sugar – in the blood. If left untreated, diabetes can cause many complications, including heart attack, stroke, kidney failure, and blindness."
+  },
+  {
+    "order": 8,
+    "speaker": "Neil",
+    "text": "I'm not diabetic, though, Alice, so what's the problem?"
+  },
+  {
+    "order": 9,
+    "speaker": "on the riseobesity",
+    "text": "Well, diabetes is on the rise – or increasing – all over the world. And particularly type 2 diabetes where risk factors include obesity – or being very overweight – unhealthy diet and lack of physical exercise."
+  },
+  {
+    "order": 10,
+    "speaker": "Neil",
+    "text": "I see. Well, while I think about that, maybe you could ask me today's quiz question."
+  },
+  {
+    "order": 11,
+    "speaker": "Alice",
+    "text": "OK. Can you tell me how many people in the world suffer from diabetes? Is it…"
+  },
+  {
+    "order": 12,
+    "speaker": "Alice",
+    "text": "a) 4.15 million?"
+  },
+  {
+    "order": 13,
+    "speaker": "Alice",
+    "text": "b) 41.5 million?"
+  },
+  {
+    "order": 14,
+    "speaker": "Alice",
+    "text": "Or c) 415 million?"
+  },
+  {
+    "order": 15,
+    "speaker": "Neil",
+    "text": "I'll take a guess and say b) 41.5 million."
+  },
+  {
+    "order": 16,
+    "speaker": "Alice",
+    "text": "Well, we'll find out if you got the right answer later on, Neil. Now, why do you think people are eating less healthily than they used to?"
+  },
+  {
+    "order": 17,
+    "speaker": "Neil",
+    "text": "Well, processed food has become very popular, and whilst it often tastes really good, it isn't always a healthy choice."
+  },
+  {
+    "order": 18,
+    "speaker": "Alice",
+    "text": "Do you eat a lot of processed food, Neil?"
+  },
+  {
+    "order": 19,
+    "speaker": "Processedfood",
+    "text": "Of course not, Alice! Processed food, by the way, is food that's been changed from its natural state, for example, by freezing or re-hydrating it, or by adding ingredients to it such as sugar, salt or fat. But let's move on now and talk about exercise."
+  },
+  {
+    "order": 20,
+    "speaker": "Alice",
+    "text": "OK – but I hope you aren't planning to have fried chicken again for lunch today from that dodgy fast-food joint round the corner. Now, one reason that people are taking less exercise than they used to is because of lifestyle changes. With increasing urbanisation people are no longer doing jobs that involve as much physical activity."
+  },
+  {
+    "order": 21,
+    "speaker": "urbanisation",
+    "text": "Yes, it's true. And urbanisation means the growth of towns and cities as people move there from the countryside to live and work. We're all sitting in cars, and offices, or on our sofas in front of the TV."
+  },
+  {
+    "order": 22,
+    "speaker": "Alice",
+    "text": "But it's also true that children are less active than they used to be. I remember running around all the time outdoors when I was a kid. Nowadays, they're all in front of screens, playing computer games or watching videos on YouTube."
+  },
+  {
+    "order": 23,
+    "speaker": "Neil",
+    "text": "So, adults and children are at higher risk of developing diabetes if they are overweight because they are likely to have higher levels of sugar in their blood. Let's hear more about this from Dr Etienne Krug from the World Health Organization."
+  },
+  {
+    "order": 24,
+    "speaker": "Dr Etienne Krug, Director of the World Health Organization",
+    "text": "Diabetes is a kind of continuum. Gradually the levels of sugar in the blood increase until reaching the level of being diagnosed with diabetes. But people, before reaching diabetes, have too high level of sugar as well, sometimes, and that can be dangerous too – particularly causing cardiovascular diseases, which contributes to mortality too."
+  },
+  {
+    "order": 25,
+    "speaker": "continuum",
+    "text": "What's a continuum, Alice?"
+  },
+  {
+    "order": 26,
+    "speaker": "Alice",
+    "text": "It's something that changes slowly over time. So in this case, as people increasingly eat food that's high in sugar and fat, the amount of sugar in their blood increases."
+  },
+  {
+    "order": 27,
+    "speaker": "tipping point",
+    "text": "And having a high blood-sugar level may reach a tipping point – or a point when small changes become significant enough to cause a big change – and you develop diabetes. But even if you don't develop diabetes, high blood sugar can be damaging to your health."
+  },
+  {
+    "order": 28,
+    "speaker": "Alice",
+    "text": "It isn't only damaging to the individual, though. Diabetes has a huge cost to society – $827bn is currently being spent every year to treat the disease."
+  },
+  {
+    "order": 29,
+    "speaker": "Neil",
+    "text": "That's big bucks! What can we do – what can governments do – to tackle this health crisis, Alice?"
+  },
+  {
+    "order": 30,
+    "speaker": "Alice",
+    "text": "Well, a key approach is to tackle the global rise in obesity because this addresses not only diabetes but other diseases, too, such as cancer and cardiovascular disease. Let's hear more from Dr Krug about ways to do this."
+  },
+  {
+    "order": 31,
+    "speaker": "Dr Etienne Krug, Director of the World Health Organization",
+    "text": "We need a combination of approaches to promote physical activity and to improve the ways we eat and that goes from breast feeding or even working with young kids to increase healthy eating. But the sugar tax is a good example that has contributed in Mexico to a decrease in sales of sugary drinks. And sugary drinks – just one drink can sometimes represent more sugar than a person needs for the whole day."
+  },
+  {
+    "order": 32,
+    "speaker": "Neil",
+    "text": "Government schemes to encourage healthy eating sound like a good plan, but trying to get kids to eat vegetables might be tough!"
+  },
+  {
+    "order": 33,
+    "speaker": "Alice",
+    "text": "Or stop you from drinking sugary drinks, Neil, for that matter."
+  },
+  {
+    "order": 34,
+    "speaker": "Neil",
+    "text": "Leave me alone!"
+  },
+  {
+    "order": 35,
+    "speaker": "Alice",
+    "text": "Alright, then. But the government tax on sugary drinks has worked in Mexico – and the UK government is also planning to do this. OK – now remember I asked you, Neil: How many people in the world suffer from diabetes? Is it… a) 4.15 million? b) 41.5 million? Or c) 415 million?"
+  },
+  {
+    "order": 36,
+    "speaker": "Neil",
+    "text": "And I said 41.5 million."
+  },
+  {
+    "order": 37,
+    "speaker": "Alice",
+    "text": "Sorry, that's the wrong answer, Neil."
+  },
+  {
+    "order": 38,
+    "speaker": "Neil",
+    "text": "Of course it's the wrong answer!"
+  },
+  {
+    "order": 39,
+    "speaker": "Alice",
+    "text": "Yes, I'm afraid so. According to the Diabetes International Federation, based in Belgium, as of 2015, an estimated 415 million people have diabetes worldwide. This represents 8.3% of the adult population, with equal rates in both women and men."
+  },
+  {
+    "order": 40,
+    "speaker": "Neil",
+    "text": "OK, I'll be drinking herbal tea from now on. Let's listen to the words we learned today. They were:"
+  },
+  {
+    "order": 41,
+    "speaker": "Neil",
+    "text": "diabetes"
+  },
+  {
+    "order": 42,
+    "speaker": "Neil",
+    "text": "glucose"
+  },
+  {
+    "order": 43,
+    "speaker": "Neil",
+    "text": "on the rise"
+  },
+  {
+    "order": 44,
+    "speaker": "Neil",
+    "text": "obesity"
+  },
+  {
+    "order": 45,
+    "speaker": "Neil",
+    "text": "processed food"
+  },
+  {
+    "order": 46,
+    "speaker": "Neil",
+    "text": "urbanisation"
+  },
+  {
+    "order": 47,
+    "speaker": "Neil",
+    "text": "continuum"
+  },
+  {
+    "order": 48,
+    "speaker": "Neil",
+    "text": "tipping point"
+  },
+  {
+    "order": 49,
+    "speaker": "Neil",
+    "text": "Well, that's the end of today's 6 Minute English. Please join us again soon!"
+  },
+  {
+    "order": 50,
+    "speaker": "Both",
+    "text": "Bye."
+  }
+]

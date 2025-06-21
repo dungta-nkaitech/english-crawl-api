@@ -1,0 +1,247 @@
+[
+  {
+    "order": 1,
+    "speaker": "Alice",
+    "text": "Hello and welcome to 6 Minute English. I'm Alice…"
+  },
+  {
+    "order": 2,
+    "speaker": "Neil",
+    "text": "And I'm Neil."
+  },
+  {
+    "order": 3,
+    "speaker": "Alice",
+    "text": "What are you eating, Neil?"
+  },
+  {
+    "order": 4,
+    "speaker": "Neil",
+    "text": "It's a chocolate chip muffin."
+  },
+  {
+    "order": 5,
+    "speaker": "Alice",
+    "text": "How many calories do you think it contains?"
+  },
+  {
+    "order": 6,
+    "speaker": "Neil",
+    "text": "I have no idea."
+  },
+  {
+    "order": 7,
+    "speaker": "Alice",
+    "text": "Check the packet."
+  },
+  {
+    "order": 8,
+    "speaker": "Neil",
+    "text": "It's hard to find the calorie content amongst all the other information here. Ah, here we go: 450."
+  },
+  {
+    "order": 9,
+    "speaker": "Alice",
+    "text": "That's a lot! Are you sure you should be eating that?"
+  },
+  {
+    "order": 10,
+    "speaker": "Neil",
+    "text": "Why not? I expect I cycled off quite a few calories on the way to work."
+  },
+  {
+    "order": 11,
+    "speaker": "expended",
+    "text": "Well, that depends on the length of your journey and how much energy you expended – or used up. Now, on today's show we're talking about food and the exercise it takes to burn off calories. And I have a question for you, Neil: How long would you have to walk to burn off the calories in a quarter of a large pizza? Is it…"
+  },
+  {
+    "order": 12,
+    "speaker": "expended",
+    "text": "a) 33 minutes?"
+  },
+  {
+    "order": 13,
+    "speaker": "expended",
+    "text": "b) 53 minutes?"
+  },
+  {
+    "order": 14,
+    "speaker": "expended",
+    "text": "c) 83 minutes?"
+  },
+  {
+    "order": 15,
+    "speaker": "burn off",
+    "text": "I'll go for a) 33 minutes. That sounds quite enough considering if you ate the whole pizza it would mean walking for 132 minutes to burn off – or use – the calories. And that's over two hours!"
+  },
+  {
+    "order": 16,
+    "speaker": "dense",
+    "text": "Well, we'll find out later on whether you got the answer right or not, Neil. But be warned – people are bad at estimating how many calories there are in food. Now, the Royal Society for Public Health here in the UK is concerned that people don't read the information on food packaging because the text is so dense – it means, tightly packed."
+  },
+  {
+    "order": 17,
+    "speaker": "Neil",
+    "text": "Well, I never look at food labelling when I'm shopping for food. How about you, Alice?"
+  },
+  {
+    "order": 18,
+    "speaker": "informed",
+    "text": "Well, personally, I like to make an informed choice about what I put in my body, Neil! And informed means based on an understanding of the facts. So I spend a lot of time reading the packaging. And I think the current traffic lights are a great idea."
+  },
+  {
+    "order": 19,
+    "speaker": "Neil",
+    "text": "Traffic lights? What are you talking about?"
+  },
+  {
+    "order": 20,
+    "speaker": "Alice",
+    "text": "It's where food content is colour-coded red, orange or green – like traffic lights – depending on its percentage of fat, sugar, and salt. So you can see at a glance which pizza on the supermarket shelf is better for you. This helps the consumer to make an informed choice."
+  },
+  {
+    "order": 21,
+    "speaker": "see at a glance",
+    "text": "To see at a glance means to understand something immediately. Well, my informed choice is based on which pizza has the most pepperoni on it. I had no idea food companies were putting traffic lights on their food packaging!"
+  },
+  {
+    "order": 22,
+    "speaker": "icon",
+    "text": "Yes, and that's not all, Neil. There are now plans to put an icon – or simple picture – of someone running plus the time it would take to burn off the calories contained in a particular food item on the front of packaging. Let's hear what some consumers on the streets of London thought about this idea."
+  },
+  {
+    "order": 23,
+    "speaker": "INSERT",
+    "text": "People in London"
+  },
+  {
+    "order": 24,
+    "speaker": "INSERT",
+    "text": "MAN: I would think twice about buying crisps if I have to run 19 minutes just to burn the calories I ate."
+  },
+  {
+    "order": 25,
+    "speaker": "INSERT",
+    "text": "WOMAN: I'd either consider working out those 19 minutes or not eating the crisps at all."
+  },
+  {
+    "order": 26,
+    "speaker": "Alice",
+    "text": "Two people who would think twice about whether to buy crisps if they knew how long it would take to burn off the calories."
+  },
+  {
+    "order": 27,
+    "speaker": "think twice",
+    "text": "And think twice means to think carefully about doing something before you do it. But, to be honest, I want freedom to do what I feel like. Even if they put a label on the food I think I'd exercise if I wanted to exercise, but I think I'd still have a packet of crisps if I wanted a packet of crisps."
+  },
+  {
+    "order": 28,
+    "speaker": "Alice",
+    "text": "That's fine so long as you are clear about how active you need to be to eat what you do and not put on weight."
+  },
+  {
+    "order": 29,
+    "speaker": "Neil",
+    "text": "But a healthy diet isn't just about calories is it? I wouldn't need to cycle to work to burn off a diet cola, but drinking a fresh orange juice would be a healthier choice – even though it contains more calories."
+  },
+  {
+    "order": 30,
+    "speaker": "Alice",
+    "text": "Well, that's a good point. Let's listen now to Shirley Cramer, Chief Executive at the Royal Society for Public Health, talking about why she thinks the new labelling is necessary."
+  },
+  {
+    "order": 31,
+    "speaker": "INSERT",
+    "text": "Shirley Cramer, Chief Executive, Royal Society for Public Health"
+  },
+  {
+    "order": 32,
+    "speaker": "INSERT",
+    "text": "We've got 60% of the UK population either overweight or obese. We have a very, very urgent problem. We have a growing population, literally, and we need to have a lot of tools in our toolbox, a lot of new strategies, I think, in order to support people to make good choices."
+  },
+  {
+    "order": 33,
+    "speaker": "tools",
+    "text": "Shirley Cramer of the Royal Society of Public Health. So, she says we need lots of tools – or strategies –to help tackle obesity in the UK. And linking energy content in food to physical activity is just one tool in the toolbox, so to speak."
+  },
+  {
+    "order": 34,
+    "speaker": "Alice",
+    "text": "Indeed. Now, I think it's time for the answer to today's quiz question, Neil. I asked you: How long would you have to walk to burn off the calories in a quarter of a large pizza? Is it… a) 33 minutes? b) 53 minutes? Or c) 83 minutes?"
+  },
+  {
+    "order": 35,
+    "speaker": "Neil",
+    "text": "And I said a) 33 minutes."
+  },
+  {
+    "order": 36,
+    "speaker": "Alice",
+    "text": "And you underestimated, I'm afraid, Neil! The answer is c) 83 minutes. This figures comes from Shirley Cramer, Chief Executive of the Royal Society for Public Health. Writing in the British Medical Journal, she argues that food should be labelled with the equivalent exercise needed to burn off its calories. This would give consumers an immediate link between food's energy content and physical activity that might help to reduce obesity."
+  },
+  {
+    "order": 37,
+    "speaker": "Neil",
+    "text": "Note, Alice, that I've put my muffin to one side. You've convinced me to eat more healthily and I'll be eating a green salad for lunch."
+  },
+  {
+    "order": 38,
+    "speaker": "Alice",
+    "text": "I'll believe that when I see it, Neil."
+  },
+  {
+    "order": 39,
+    "speaker": "Alice",
+    "text": "OK, here are the words we learned today:"
+  },
+  {
+    "order": 40,
+    "speaker": "Alice",
+    "text": "expended"
+  },
+  {
+    "order": 41,
+    "speaker": "Alice",
+    "text": "burn off"
+  },
+  {
+    "order": 42,
+    "speaker": "Alice",
+    "text": "dense"
+  },
+  {
+    "order": 43,
+    "speaker": "Alice",
+    "text": "informed"
+  },
+  {
+    "order": 44,
+    "speaker": "Alice",
+    "text": "see at a glance"
+  },
+  {
+    "order": 45,
+    "speaker": "Alice",
+    "text": "icon"
+  },
+  {
+    "order": 46,
+    "speaker": "Alice",
+    "text": "think twice"
+  },
+  {
+    "order": 47,
+    "speaker": "Alice",
+    "text": "tool"
+  },
+  {
+    "order": 48,
+    "speaker": "Neil",
+    "text": "Well, that's the end of this edition of 6 Minute English. Join us again soon. Meanwhile visit our website bbclearningenglish.com, where you'll find guides to grammar, exercises videos and articles to read and improve your English."
+  },
+  {
+    "order": 49,
+    "speaker": "Both",
+    "text": "Bye!"
+  }
+]

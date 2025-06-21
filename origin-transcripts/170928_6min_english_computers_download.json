@@ -1,0 +1,217 @@
+[
+  {
+    "order": 1,
+    "speaker": "Neil",
+    "text": "Welcome to 6 Minute English, where we bring you an intelligent topic and six related items of vocabulary. I’m Neil."
+  },
+  {
+    "order": 2,
+    "speaker": "Tim",
+    "text": "And I’m Tim. And today we’re talking about AI – or Artificial Intelligence."
+  },
+  {
+    "order": 3,
+    "speaker": "Artificial Intelligence",
+    "text": "Artificial Intelligence is the ability of machines to copy human intelligent behaviour – for example, an intelligent machine can learn from its own mistakes, and make decisions based on what’s happened in the past."
+  },
+  {
+    "order": 4,
+    "speaker": "Tim",
+    "text": "There’s a lot of talk about AI these days, Neil, but it’s still just science fiction, isn’t it?"
+  },
+  {
+    "order": 5,
+    "speaker": "Neil",
+    "text": "That’s not true – AI is everywhere. Machine thinking is in our homes, offices, schools and hospitals. Computer algorithms are helping us drive our cars. They’re diagnosing what’s wrong with us in hospitals. They’re marking student essays… They’re telling us what to read on our smartphones…"
+  },
+  {
+    "order": 6,
+    "speaker": "Tim",
+    "text": "Well, that really does sound like science fiction – but it’s happening already, you say, Neil?"
+  },
+  {
+    "order": 7,
+    "speaker": "algorithm",
+    "text": "It’s definitely happening, Tim. And an algorithm, by the way, is a set of steps a computer follows in order to solve a problem. So can you tell me what was the name of the computer which famously beat world chess champion Garry Kasparov using algorithms in 1997? Was it…"
+  },
+  {
+    "order": 8,
+    "speaker": "algorithm",
+    "text": "a) Hal,"
+  },
+  {
+    "order": 9,
+    "speaker": "algorithm",
+    "text": "b) Alpha 60 or"
+  },
+  {
+    "order": 10,
+    "speaker": "algorithm",
+    "text": "c) Deep Blue?"
+  },
+  {
+    "order": 11,
+    "speaker": "Tim",
+    "text": "I’ll say Deep Blue. Although I’m just guessing."
+  },
+  {
+    "order": 12,
+    "speaker": "Neil",
+    "text": "Was it an educated guess, Tim?"
+  },
+  {
+    "order": 13,
+    "speaker": "Tim",
+    "text": "I know a bit about chess…"
+  },
+  {
+    "order": 14,
+    "speaker": "Neil",
+    "text": "An educated guess is based on knowledge and experience and is therefore likely to be correct. Well, we’ll find out later on how educated your guess was in this case, Tim!"
+  },
+  {
+    "order": 15,
+    "speaker": "Tim",
+    "text": "Indeed. But getting back to AI and what machines can do – are they any good at solving real-life problems? Computers think in zeros and ones don’t they? That sounds like a pretty limited language when it comes to life experience!"
+  },
+  {
+    "order": 16,
+    "speaker": "limitations",
+    "text": "You would be surprised to what those zeroes and ones can do, Tim. Although you’re right that AI does have its limitations at the moment. And if something has limitations there’s a limit on what it can do or how good it can be."
+  },
+  {
+    "order": 17,
+    "speaker": "Tim",
+    "text": "OK – well now might be a good time to listen to Zoubin Bharhramani, Professor of Information Engineering at the University of Cambridge and deputy director of the Leverhulme Centre for the Future of Intelligence. He’s talking about what limitations AI has at the moment."
+  },
+  {
+    "order": 18,
+    "speaker": "Zoubin Bharhramani, Professor of Information Engineering at the University of Cambridge and deputy director of the Leverhulme Centre for the Future of Intelligence",
+    "text": "I think it’s very interesting how many of the things that we take for granted – we humans take for granted – as being sort of things we don’t even think about like how do we walk, how do we reach, how do we recognize our mother. You know, all these things. When you start to think how to implement them on a computer, you realize that it’s those things that are incredibly difficult to get computers to do, and that’s where the current cutting edge of research is."
+  },
+  {
+    "order": 19,
+    "speaker": "take something for granted",
+    "text": "If we take something for granted we don’t realise how important something is."
+  },
+  {
+    "order": 20,
+    "speaker": "Tim",
+    "text": "You sometimes take me for granted, I think, Neil."
+  },
+  {
+    "order": 21,
+    "speaker": "Neil",
+    "text": "No – I never take you for granted, Tim! You’re far too important for that!"
+  },
+  {
+    "order": 22,
+    "speaker": "implement",
+    "text": "Good to hear! So things we take for granted are doing every day tasks like walking, picking something up, or recognizing somebody. We implement – or perform – these things without thinking – Whereas it’s cutting edge research to try and program a machine to do them."
+  },
+  {
+    "order": 23,
+    "speaker": "Cutting edge",
+    "text": "Cutting edge means very new and advanced. It’s interesting isn't it, that over ten years ago a computer beat a chess grand master – but the same computer would find it incredibly difficult to pick up a chess piece."
+  },
+  {
+    "order": 24,
+    "speaker": "Tim",
+    "text": "I know. It’s very strange. But now you’ve reminded me that we need the answer to today’s question."
+  },
+  {
+    "order": 25,
+    "speaker": "Neil",
+    "text": "Which was: What was the name of the computer which famously beat world chess champion Garry Kasparov in 1997? Now, you said Deep Blue, Tim, and … that was the right answer!"
+  },
+  {
+    "order": 26,
+    "speaker": "Tim",
+    "text": "You see, my educated guess was based on knowledge and experience!"
+  },
+  {
+    "order": 27,
+    "speaker": "Neil",
+    "text": "Or maybe you were just lucky. So, the IBM supercomputer Deep Blue played against US world chess champion Garry Kasparov in two chess matches. The first match was played in Philadelphia in 1996 and was won by Kasparov. The second was played in New York City in 1997 and won by Deep Blue. The 1997 match was the first defeat of a reigning world chess champion by a computer under tournament conditions."
+  },
+  {
+    "order": 28,
+    "speaker": "Tim",
+    "text": "Let’s go through the words we learned today. First up was ‘artificial intelligence’ or AI – the ability of machines to copy human intelligent behaviour."
+  },
+  {
+    "order": 29,
+    "speaker": "Neil",
+    "text": "“There are AI programs that can write poetry.”"
+  },
+  {
+    "order": 30,
+    "speaker": "Tim",
+    "text": "Do you have any examples you can recite?"
+  },
+  {
+    "order": 31,
+    "speaker": "Neil",
+    "text": "Afraid I don’t! Number two – an algorithm is a set of steps a computer follows in order to solve a problem. For example, “Google changes its search algorithm hundreds of times every year.”"
+  },
+  {
+    "order": 32,
+    "speaker": "Tim",
+    "text": "The adjective is algorithmic – for example, “Google has made many algorithmic changes.”"
+  },
+  {
+    "order": 33,
+    "speaker": "Neil",
+    "text": "Number three – if something has ‘limitations’ – there’s a limit on what it can do or how good it can be. “Our show has certain limitations – for example, it’s only six minutes long!”"
+  },
+  {
+    "order": 34,
+    "speaker": "Tim",
+    "text": "That’s right – there’s only time to present six vocabulary items. Short but sweet!"
+  },
+  {
+    "order": 35,
+    "speaker": "Neil",
+    "text": "And very intelligent, too. OK, the next item is ‘take something for granted’ – which is when we don’t realise how important something is."
+  },
+  {
+    "order": 36,
+    "speaker": "Tim",
+    "text": "“We take our smart phones for granted these days – but before 1995 hardly anyone owned one.”"
+  },
+  {
+    "order": 37,
+    "speaker": "Neil",
+    "text": "Number five – ‘to implement’ – means to perform a task, or take action."
+  },
+  {
+    "order": 38,
+    "speaker": "Tim",
+    "text": "“Neil implemented some changes to the show.”"
+  },
+  {
+    "order": 39,
+    "speaker": "Neil",
+    "text": "The final item is ‘cutting edge’ – new and advanced – “This software is cutting edge.”"
+  },
+  {
+    "order": 40,
+    "speaker": "Tim",
+    "text": "“The software uses cutting edge technology.”"
+  },
+  {
+    "order": 41,
+    "speaker": "Neil",
+    "text": "OK – that’s all we have time for on today’s cutting edge show. But please check out our Instagram, Twitter, Facebook and YouTube pages."
+  },
+  {
+    "order": 42,
+    "speaker": "Tim",
+    "text": "Bye-bye!"
+  },
+  {
+    "order": 43,
+    "speaker": "Neil",
+    "text": "Goodbye!"
+  }
+]

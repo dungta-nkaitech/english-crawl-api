@@ -1,0 +1,187 @@
+[
+  {
+    "order": 1,
+    "speaker": "Phil",
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Phil."
+  },
+  {
+    "order": 2,
+    "speaker": "babble",
+    "text": "And I’m Georgie. For most parents, their baby’s first word is a special moment. This happens after an early stage of language development called babble, when babies start making simple sounds like \"ga\" or \"ma\"."
+  },
+  {
+    "order": 3,
+    "speaker": "Phil",
+    "text": "Babies have to learn to use their mouth muscles to make specific sounds. They experiment with different sounds and mouth shapes. So, what exactly is happening when babies start learning to speak? What do you think, Georgie?"
+  },
+  {
+    "order": 4,
+    "speaker": "Georgie",
+    "text": "Well, Phil, I'm no expert, but I imagine they watch the adults around them and kind of copy and imitate what they do. What do you think?"
+  },
+  {
+    "order": 5,
+    "speaker": "Phil",
+    "text": "I definitely think that's what my children did when they were learning to speak. Well, let’s compare our ideas with those of an expert - Professor Julian Pine from Liverpool University, speaking here on BBC Radio 4, and he lists the skills that babies develop in order to speak:"
+  },
+  {
+    "order": 6,
+    "speaker": "Professor Julian Pine",
+    "text": "Well, one of the first things the child's got to do is, they've got to break down the speech stream into words. Then they've got to link the words to the things that they refer to in the environment, so they've got to learn what the words mean. [Right]."
+  },
+  {
+    "order": 7,
+    "speaker": "Georgie",
+    "text": "In this programme, we’ll discover how babies learn to speak, and, as usual, we’ll learn some useful new vocabulary. And on the subject of words, remember you can find a list of this programme’s vocabulary on our website, bbclearningenglish.com. Some people find it helpful to study the vocabulary before listening."
+  },
+  {
+    "order": 8,
+    "speaker": "babbling",
+    "text": "And another thing to do before listening is ask my question, Georgie. We’ve mentioned the babbling noises that babies make when learning to speak, but at what age does this usually start? Is it:"
+  },
+  {
+    "order": 9,
+    "speaker": "babbling",
+    "text": "a)    around 6 months old?"
+  },
+  {
+    "order": 10,
+    "speaker": "babbling",
+    "text": "b)    around 9 months old? or,"
+  },
+  {
+    "order": 11,
+    "speaker": "babbling",
+    "text": "c)    around 1 year old?"
+  },
+  {
+    "order": 12,
+    "speaker": "Georgie",
+    "text": "OK, I think my best guess would be a) around six months old."
+  },
+  {
+    "order": 13,
+    "speaker": "stressed syllable",
+    "text": "OK, well, we'll find out a little bit later on in the programme. Let’s return to Professor Pine’s list. The first thing babies do is recognise where individual words start and end. For this it helps to know that, in English at least, words often begin with a stressed syllable – the sound in a word which is emphasised by being spoken longer or louder. Learning this takes time, and here, Professor Pine and Michael Rosen, presenter of BBC Radio 4’s programme, 'Word of Mouth', discuss children who haven’t quite discovered it yet:"
+  },
+  {
+    "order": 14,
+    "speaker": "errors",
+    "text": "We can see this in the kind of errors that children make, because little kids will often call a giraffe a ‘raffe’ by leaving off the unstressed syllable because that's not typical English."
+  },
+  {
+    "order": 15,
+    "speaker": "Michael Rosen",
+    "text": "Ooh, and I’ve got an example of this - my son used to call a machine a ‘sminge’ – he just hit the stress, he didn't bother with the ‘ma’ bit."
+  },
+  {
+    "order": 16,
+    "speaker": "Professor Julian Pine",
+    "text": "Yeah, exactly."
+  },
+  {
+    "order": 17,
+    "speaker": "Michael Rosen",
+    "text": "Or he may have thought it was ‘my sminge’ of course, that’s the other thing."
+  },
+  {
+    "order": 18,
+    "speaker": "classic example",
+    "text": "And the classic example, of course, is ‘nana’ instead of ‘banana’."
+  },
+  {
+    "order": 19,
+    "speaker": "Michael Rosen",
+    "text": "Yes, I think I call them that!"
+  },
+  {
+    "order": 20,
+    "speaker": "error",
+    "text": "One error, or mistake, infants make is calling a giraffe a ‘raffe’ because they cut off the first syllable 'gi' because it's not stressed."
+  },
+  {
+    "order": 21,
+    "speaker": "classic exampleclassic example",
+    "text": "The classic example of this is when children say ‘nana’ instead of ‘banana’. A classic example of something means the best example of it, one containing all the features you expect such a thing to have. For example, ants are a classic example of animals working together."
+  },
+  {
+    "order": 22,
+    "speaker": "Georgie",
+    "text": "The second skill babies develop as they learn to speak is correctly linking a word to the object it refers to, in other words knowing what the word means. As adults we do this without thinking, but it’s actually much harder than it sounds, as Professor Julian Pine explains to BBC Radio 4 programme, 'Word of Mouth'."
+  },
+  {
+    "order": 23,
+    "speaker": "take for grantedambiguous",
+    "text": "Well, we take for granted the fact that it's kind of obvious what words refer to in the environment, but actually if you look at it from the child's point of view, it's really difficult to work out what a word refers to because there's so many things it could refer to. So, you know, the speech signal is very ambiguous. How does the child know that you're talking about the cup in front of you, or the pen in front of you when you say ‘pen’ or ‘cup’?"
+  },
+  {
+    "order": 24,
+    "speaker": "take it for grantedtake it for granted ambiguous",
+    "text": "As adults, we take it for granted that when a friend says, “apple”, they mean that round, red thing on the table. To take it for granted means to assume something without question. But for a baby, the link between the word ‘apple’ and the object is not obvious, it’s ambiguous, meaning it has more than one possible meaning."
+  },
+  {
+    "order": 25,
+    "speaker": "Georgie",
+    "text": "Wow! Who knew so much was going on inside babies’ sponge-like brains as they soak up the sounds they hear? Right, Phil, isn’t it time to reveal the answer to your question?"
+  },
+  {
+    "order": 26,
+    "speaker": "Phil",
+    "text": "It is indeed. The question was, at what age do babies start to make babbling noises?"
+  },
+  {
+    "order": 27,
+    "speaker": "Georgie",
+    "text": "And I said it was around six months."
+  },
+  {
+    "order": 28,
+    "speaker": "Phil",
+    "text": "And that is the correct answer."
+  },
+  {
+    "order": 29,
+    "speaker": "Georgie",
+    "text": "Yay!"
+  },
+  {
+    "order": 30,
+    "speaker": "babble",
+    "text": "Babies start to do this when they're about 6 months old. OK, let’s recap the vocabulary that we’ve learned starting with babble, the meaningless noises babies make as they’re learning to speak."
+  },
+  {
+    "order": 31,
+    "speaker": "stressed syllable",
+    "text": "The stressed syllable in a word is the sound which is emphasised by being longer, louder, or higher."
+  },
+  {
+    "order": 32,
+    "speaker": "error",
+    "text": "An error is a mistake."
+  },
+  {
+    "order": 33,
+    "speaker": "classic example",
+    "text": "The classic example of something is the most typical example of it, containing its most important features."
+  },
+  {
+    "order": 34,
+    "speaker": "take something for granted",
+    "text": "If you take something for granted, you accept or assume it without question."
+  },
+  {
+    "order": 35,
+    "speaker": "ambiguous",
+    "text": "And finally, the adjective ambiguous means having more than one possible meaning. Once again, our six minutes are up, but if you’re ready for more you’ll find the worksheet with a quiz and a transcript for this programme on our website – see you there soon!"
+  },
+  {
+    "order": 36,
+    "speaker": "Phil",
+    "text": "Bye!"
+  },
+  {
+    "order": 37,
+    "speaker": "Georgie",
+    "text": "Bye!"
+  }
+]

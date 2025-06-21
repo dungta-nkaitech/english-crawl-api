@@ -1,0 +1,212 @@
+[
+  {
+    "order": 1,
+    "speaker": "Neil",
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil."
+  },
+  {
+    "order": 2,
+    "speaker": "Sam",
+    "text": "And I’m Sam."
+  },
+  {
+    "order": 3,
+    "speaker": "Neil",
+    "text": "Are you feeling well, Sam? No headache or sore throat?"
+  },
+  {
+    "order": 4,
+    "speaker": "Sam",
+    "text": "No, I feel fine thanks, Neil. Why do you ask?"
+  },
+  {
+    "order": 5,
+    "speaker": "Neil",
+    "text": "Well, I’ve been reading some inspirational stories about the doctors and nurses fighting Covid. When I was a boy, I always dreamed of becoming a doctor."
+  },
+  {
+    "order": 6,
+    "speaker": "Sam",
+    "text": "Ah, I see. Have you ever been in hospital?"
+  },
+  {
+    "order": 7,
+    "speaker": "bedside manner",
+    "text": "Yes, I have, and I remember the nurse’s bedside manner – you know, the kind and caring way that doctors and nurses treat people who are ill."
+  },
+  {
+    "order": 8,
+    "speaker": "bedside manner",
+    "text": "Nowadays more and more of the jobs that humans do are being carried out by machines. But I doubt that a doctor’s bedside manner could easily be replaced by a robot."
+  },
+  {
+    "order": 9,
+    "speaker": "Neil",
+    "text": "In this programme, we’ll be discussing whether the revolution in artificial intelligence, often shortened to ‘AI’, could replace human doctors and nurses. We’ll be asking: can you imagine a future without doctors?"
+  },
+  {
+    "order": 10,
+    "speaker": "Sam",
+    "text": "In fact, machines are already doing some of the jobs traditionally done by doctors - scanning people’s bodies to detect skin cancer, for example."
+  },
+  {
+    "order": 11,
+    "speaker": "Neil",
+    "text": "Yes, that’s true, Sam, and it links to my quiz question which is about human skin. It’s a well-known fact that skin is the human body’s largest organ – but how much skin does the average adult have? Is it:"
+  },
+  {
+    "order": 12,
+    "speaker": "Neil",
+    "text": "a) 2 square metres?,"
+  },
+  {
+    "order": 13,
+    "speaker": "Neil",
+    "text": "b) 3 square metres? or,"
+  },
+  {
+    "order": 14,
+    "speaker": "Neil",
+    "text": "c) 4 square metres?"
+  },
+  {
+    "order": 15,
+    "speaker": "Sam",
+    "text": "Of course our skin gets loose as we age but I can’t believe there’s 3 square metres of it! I’ll say the answer is a) 2 square metres."
+  },
+  {
+    "order": 16,
+    "speaker": "Neil",
+    "text": "OK, we’ll find out if that’s correct later. Every year in the UK over 5 million people are treated for skin cancer. Catch it early and your chances of survival are increased."
+  },
+  {
+    "order": 17,
+    "speaker": "Sam",
+    "text": "Usually a skin specialist, or dermatologist, will examine your skin using a handheld microscope. But in 2017, a team of researchers at Stanford Medical School made an exciting announcement."
+  },
+  {
+    "order": 18,
+    "speaker": "Neil",
+    "text": "Here’s Oxford University researcher Daniel Susskind, telling BBC World Service programme, The Big Idea, what the medics at Stanford had invented:"
+  },
+  {
+    "order": 19,
+    "speaker": "frecklecancerous",
+    "text": "A team of researchers at Stamford last year announced the development of a system that, if you give it a photo of a freckle it can tell you as accurately as twenty-one leading dermatologists whether or not that freckle is cancerous."
+  },
+  {
+    "order": 20,
+    "speaker": "freckles",
+    "text": "The Stanford medical team had invented an AI system to analyse freckles – small brown spots found on people’s skin, especially on pale skin."
+  },
+  {
+    "order": 21,
+    "speaker": "cancerous",
+    "text": "As it turned out the AI programme was better than human doctors at telling whether a freckle was harmless or cancerous – connected to some type of cancer."
+  },
+  {
+    "order": 22,
+    "speaker": "Sam",
+    "text": "So, it seems that artificial intelligence is already replacing humans when it comes to detecting cancer – and doing a better job of it."
+  },
+  {
+    "order": 23,
+    "speaker": "Neil",
+    "text": "But Daniel Susskind isn’t convinced. One reason is that AI systems still need humans to programme them – and as it turns out, knowing exactly how doctors detect illness remains something of a mystery."
+  },
+  {
+    "order": 24,
+    "speaker": "Sam",
+    "text": "Here’s Daniel Susskind again in conversation with BBC World Service programme, The Big Idea:"
+  },
+  {
+    "order": 25,
+    "speaker": "diagnosisrules of thumbwhere on earth",
+    "text": "If you ask a doctor how it is they make a diagnosis, they might be able to point you to particularly revealing parts of a reference book or give you a few rules of thumb, but ultimately they’d struggle… they’d say again it requires things like creativity and judgment, and these things are very difficult to articulate – and so traditionally it’s been thought very hard to automate – if a human being can’t explain how they do these special things, where on earth do we begin in writing instructions for a machine to follow?"
+  },
+  {
+    "order": 26,
+    "speaker": "diagnosis",
+    "text": "Most doctors find it difficult to explain how they make a diagnosis – their judgement about what someone’s particular sickness is, made by examining them."
+  },
+  {
+    "order": 27,
+    "speaker": "rules of thumbA rule of thumb",
+    "text": "Diagnosing someone’s illness is complicated but there are some rules of thumb. A rule of thumb is a practical but approximate way of doing something."
+  },
+  {
+    "order": 28,
+    "speaker": "Neil",
+    "text": "For example, when cooking, a good rule of thumb is two portions of water to one portion of rice."
+  },
+  {
+    "order": 29,
+    "speaker": "where on earthwhere, how or what on earth",
+    "text": "Exactly. And because identifying sickness is so difficult, Daniel says “where on earth do we begin writing instructions for a machine?” We use phrases like where, how or what on earth to show feelings like anger, surprise or disbelief."
+  },
+  {
+    "order": 30,
+    "speaker": "how on earth",
+    "text": "I might show surprise by asking Sam, ‘how on earth did you know the answer to that?’"
+  },
+  {
+    "order": 31,
+    "speaker": "Sam",
+    "text": "Ha ha! I guess you’re talking about your quiz question, Neil? And you needn’t be so surprised – I’m naturally brainy!"
+  },
+  {
+    "order": 32,
+    "speaker": "Neil",
+    "text": "Of course you are. In my quiz question I asked Sam how much skin there is on an adult human body."
+  },
+  {
+    "order": 33,
+    "speaker": "Sam",
+    "text": "And I said it was a) 2 square metres."
+  },
+  {
+    "order": 34,
+    "speaker": "bedside manner",
+    "text": "Which was… the correct answer! With your brains I think you’d make a good doctor, Sam, and I’m sure you’d have a good bedside manner too."
+  },
+  {
+    "order": 35,
+    "speaker": "freckle",
+    "text": "You mean, the kind and caring way that doctors and nurses treat their patients. OK, let’s recap the rest of the vocabulary, starting with freckle – a small brown spot on someone’s skin."
+  },
+  {
+    "order": 36,
+    "speaker": "cancerous",
+    "text": "Freckles are usually harmless, but some skin spots can be cancerous – connected to cancer."
+  },
+  {
+    "order": 37,
+    "speaker": "diagnosis",
+    "text": "A doctor’s diagnosis is their judgement about what someone’s particular sickness or disease is."
+  },
+  {
+    "order": 38,
+    "speaker": "rule of thumb",
+    "text": "A rule of thumb is a useful but approximate way of doing or measuring something."
+  },
+  {
+    "order": 39,
+    "speaker": "where on earth..?",
+    "text": "And finally, we use phrases like where on earth..? as a way to show emotions like anger, surprise or disbelief."
+  },
+  {
+    "order": 40,
+    "speaker": "Neil",
+    "text": "That’s all for this programme but join us for the next edition of 6 Minute English when we’ll discuss another trending topic and the related vocabulary."
+  },
+  {
+    "order": 41,
+    "speaker": "Sam",
+    "text": "Why on earth would you miss it? Goodbye for now!"
+  },
+  {
+    "order": 42,
+    "speaker": "Neil",
+    "text": "Goodbye!"
+  }
+]

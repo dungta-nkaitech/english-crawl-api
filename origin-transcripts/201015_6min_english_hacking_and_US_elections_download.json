@@ -1,0 +1,192 @@
+[
+  {
+    "order": 1,
+    "speaker": "Rob",
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Rob."
+  },
+  {
+    "order": 2,
+    "speaker": "Sam",
+    "text": "And I’m Sam."
+  },
+  {
+    "order": 3,
+    "speaker": "Rob",
+    "text": "When it comes to US presidential elections, some are more dramatic than others."
+  },
+  {
+    "order": 4,
+    "speaker": "Sam",
+    "text": "But few elections have been as controversial as this November’s contest between current President Trump and his Democratic rival, Joe Biden."
+  },
+  {
+    "order": 5,
+    "speaker": "Rob",
+    "text": "In America, where many votes are cast digitally, there is a risk of cyber-attacks on election day and with so much depending on the result, US election officials are worried."
+  },
+  {
+    "order": 6,
+    "speaker": "Volunteers",
+    "text": "In this programme we’ll be hearing about plans to prevent election cyber-attacks which involve election officials working with a very unusual group of people: volunteer hackers. Volunteers are people who work willingly, without being paid…"
+  },
+  {
+    "order": 7,
+    "speaker": "hackers",
+    "text": "… and hackers are people who break into computer systems without permission in order to find information or do something illegal."
+  },
+  {
+    "order": 8,
+    "speaker": "Sam",
+    "text": "But cyber-attacks from hackers are not the only threat to fair and democratic elections."
+  },
+  {
+    "order": 9,
+    "speaker": "Rob",
+    "text": "In 2000 the presidential race between Al Gore and George W. Bush ended in recounts and disputes over missing votes. George Bush became the first modern president to win the election despite gaining fewer popular votes than his opponent – but how many fewer? That’s our quiz question – how many fewer votes did Bush win than Gore in the 2000 American presidential election? Was it:"
+  },
+  {
+    "order": 10,
+    "speaker": "Rob",
+    "text": "a) half a million votes?,"
+  },
+  {
+    "order": 11,
+    "speaker": "Rob",
+    "text": "b) a million votes?,  or"
+  },
+  {
+    "order": 12,
+    "speaker": "Rob",
+    "text": "c) two million votes?"
+  },
+  {
+    "order": 13,
+    "speaker": "Sam",
+    "text": "I’ll say b) a million votes."
+  },
+  {
+    "order": 14,
+    "speaker": "Rob",
+    "text": "OK, we’ll find out later. Now, the project Sam mentioned, where official administrators team up with expert volunteers to keep the election secure, is called The Election Cyber Surge."
+  },
+  {
+    "order": 15,
+    "speaker": "Sam",
+    "text": "BBC World Service programme Digital Planet met up with project organiser Maya Worman to discuss the importance of keeping the election free from interference."
+  },
+  {
+    "order": 16,
+    "speaker": "eligible high-profile",
+    "text": "Any attempt to manipulate or interfere with election infrastructures – the machines or the information sets that determine who is eligible to vote and where – undermines the right to vote. And it puts burdens on voters and it impacts public confidence; and high-profile elections, especially like the one coming up, heighten the types of risks that we’re talking about."
+  },
+  {
+    "order": 17,
+    "speaker": "eligible",
+    "text": "You can only vote in an election if you are eligible – qualified by having the necessary requirements, for example being a US citizen who’s aged 18 or over."
+  },
+  {
+    "order": 18,
+    "speaker": "high-profile",
+    "text": "It’s up to each of the eight thousand local jurisdictions around the United States to keep their area free from cyber-attacks and misinformation - risks which have increased because the coming election is so high-profile - attracting a lot of attention and interest from newspapers and the public."
+  },
+  {
+    "order": 19,
+    "speaker": "Rob",
+    "text": "The Cyber Surge project to put expert volunteers in touch with local officials aims to prevent these risks. It covers everything from making sure administrators are using the latest anti-virus software to more serious threats from troublemakers."
+  },
+  {
+    "order": 20,
+    "speaker": "Sam",
+    "text": "Now that’s got me thinking actually, Rob. Suppose I’m a troublemaker who wants to influence the election result – so I sign up as a volunteer and gain access to all kinds of information. How do we know that the volunteers who sign up are trustworthy?"
+  },
+  {
+    "order": 21,
+    "speaker": "Rob",
+    "text": "That’s a good question, Sam, and one that BBC World Service programme, Digital Planet, put to Maya Worman."
+  },
+  {
+    "order": 22,
+    "speaker": "volunteer the keys to the castlecybersecurity",
+    "text": "The expectation is not that the volunteer will have the keys to the castle by any means, more that they will have an open dialogue with an election administrator who wants to know more to explore cybersecurity enhancements in general or specifically."
+  },
+  {
+    "order": 23,
+    "speaker": "cybersecurity",
+    "text": "Volunteers are carefully selected according to their experience and skills in cybersecurity - measures that help organisations and countries keep their computer information safe against crimes and attacks carried out through the internet."
+  },
+  {
+    "order": 24,
+    "speaker": "the keys to the castle",
+    "text": "Volunteers share their expert advice by talking with election officials. They won’t be given access to sensitive information so they won’t have the keys to the castle – an idiom meaning to possess information or knowledge which gives the possessor access to power."
+  },
+  {
+    "order": 25,
+    "speaker": "Sam",
+    "text": "All of which means that the 2020 election result will, hopefully, be accepted by everyone."
+  },
+  {
+    "order": 26,
+    "speaker": "Rob",
+    "text": "Unlike the situation twenty years ago."
+  },
+  {
+    "order": 27,
+    "speaker": "Sam",
+    "text": "Ah, you mean our quiz question, Rob, about the 2000 US presidential election which George W. Bush won despite securing fewer votes than his opponent."
+  },
+  {
+    "order": 28,
+    "speaker": "Rob",
+    "text": "I asked you how many fewer votes Bush won than Al Gore that year."
+  },
+  {
+    "order": 29,
+    "speaker": "Sam",
+    "text": "And I said b) a million votes."
+  },
+  {
+    "order": 30,
+    "speaker": "Rob",
+    "text": "But in fact, it was even closer – just a) half a million votes in Florida."
+  },
+  {
+    "order": 31,
+    "speaker": "cybersecurity –",
+    "text": "In this programme we’ve been looking ahead to the US presidential elections and its cybersecurity – measures taken to protect countries and their computer information against online crimes and attacks."
+  },
+  {
+    "order": 32,
+    "speaker": "volunteers – hackers",
+    "text": "The Cyber Surge project aims to put officials in touch with volunteers – people who work for free, who also happen to be expert hackers – people who break into computer systems without permission."
+  },
+  {
+    "order": 33,
+    "speaker": "eligible",
+    "text": "But the idea isn’t to commit election crime – rather to prevent it by making sure only those who are eligible – or qualified - to vote, do so."
+  },
+  {
+    "order": 34,
+    "speaker": "high-profile -",
+    "text": "The project was set up because the November 2020 election has become so high-profile - attracting a lot of attention and interest from the public and the media."
+  },
+  {
+    "order": 35,
+    "speaker": "the keys to the castle",
+    "text": "And of course the volunteers themselves are carefully chosen to be impartial experts who give advice without holding the keys to the castle – an idiom about possessing information which gives access to power."
+  },
+  {
+    "order": 36,
+    "speaker": "eligible,",
+    "text": "What’s certain is that the world will be watching this election, so if you’re eligible, remember to vote."
+  },
+  {
+    "order": 37,
+    "speaker": "Sam",
+    "text": "And remember to join us again soon. Bye for now!"
+  },
+  {
+    "order": 38,
+    "speaker": "Rob",
+    "text": "Bye bye!"
+  }
+]

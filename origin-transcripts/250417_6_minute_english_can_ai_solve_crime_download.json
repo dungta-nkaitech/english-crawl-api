@@ -1,0 +1,177 @@
+[
+  {
+    "order": 1,
+    "speaker": "Beth",
+    "text": "Hello and welcome to 6 Minute English from BBC Learning English. I'm Beth."
+  },
+  {
+    "order": 2,
+    "speaker": "Neil",
+    "text": "And I'm Neil. Don't forget that you can find a transcript and a quiz for this episode on our website, bbclearningenglish.com."
+  },
+  {
+    "order": 3,
+    "speaker": "Beth",
+    "text": "Now today, Neil, we're talking all about solving crime. Do you think you'd be a good detective?"
+  },
+  {
+    "order": 4,
+    "speaker": "Neil",
+    "text": "Actually, no, Beth. I think my brain's not very good with details! Today, we'll be talking about how artificial intelligence might help detectives and the police investigate crimes. But first, I have a question for you, Beth – in the UK, lots of people enjoy watching fictional detectives on TV. These programmes are called murder mysteries and tell the story of a detective solving a crime. In 2020, a magazine called the Radio Times asked readers who their favourite TV detective was. So, who do you think was the most popular? Was it:"
+  },
+  {
+    "order": 5,
+    "speaker": "Neil",
+    "text": "a)    Sherlock Holmes"
+  },
+  {
+    "order": 6,
+    "speaker": "Neil",
+    "text": "b)    Hercule Poirot"
+  },
+  {
+    "order": 7,
+    "speaker": "Neil",
+    "text": "c)    Miss Marple"
+  },
+  {
+    "order": 8,
+    "speaker": "Beth",
+    "text": "Surely it's Sherlock Holmes?"
+  },
+  {
+    "order": 9,
+    "speaker": "Neil",
+    "text": "Well, you sound very sure, but I will reveal the answer at the end of the programme. Now, when the police are investigating crimes in the real world, their techniques are often quite different from what we see on television."
+  },
+  {
+    "order": 10,
+    "speaker": "Beth",
+    "text": "Yes. Solving crimes involves collecting and reviewing lots of evidence, like DNA, fingerprints, or CCTV."
+  },
+  {
+    "order": 11,
+    "speaker": "Neil",
+    "text": "All of this work takes a lot of time. So, can AI help police speed up the work and even solve crimes? That's the question listener Alastair had for BBC Radio 4 programme The Artificial Human. And host Aleks Krotoski wanted to know more…"
+  },
+  {
+    "order": 12,
+    "speaker": "where you're coming from",
+    "text": "So, Alastair, why are you asking this question? Tell us a little bit more about yourself and where you're coming from?"
+  },
+  {
+    "order": 13,
+    "speaker": "backgroundWhat can it do for me",
+    "text": "So, my name's Alastair and I'm a serving police officer. My background is with investigation. I'm looking at artificial intelligence and thinking, \"What can it do for me?\""
+  },
+  {
+    "order": 14,
+    "speaker": "where he's coming fromwhere I'm coming from",
+    "text": "Alex asks Alastair to explain where he's coming from. This means explain his perspective or point of view. In informal English, we'll often ask someone, \"Do you get where I'm coming from?\" And we're asking whether they understand our opinion or perspective."
+  },
+  {
+    "order": 15,
+    "speaker": "backgroundbackgroundbackground",
+    "text": "Alastair explains that he's interested in how artificial intelligence could help solve crimes, because he's a police officer with a background in investigations. If you have a background in something, it means most of your previous work or experience was related to something. For example, I work as a producer at BBC Learning English now, making programmes, but my background is in classroom teaching."
+  },
+  {
+    "order": 16,
+    "speaker": "What can it do for me",
+    "text": "Alastair talks about using artificial intelligence for training and asks, \"What can it do for me?\" This means, \"How can artificial intelligence help or improve something?\""
+  },
+  {
+    "order": 17,
+    "speaker": "Neil",
+    "text": "When a crime happens, police officers have to collect and review a lot of information to find evidence. When you have a lot of information to review, it can be difficult to know what's important and find patterns which might be relevant to the crime."
+  },
+  {
+    "order": 18,
+    "speaker": "Beth",
+    "text": "But Professor Ruth Morgan, an expert in crime and forensic science, thinks AI could help speed up police work, as she told BBC Radio 4's The Artificial Human."
+  },
+  {
+    "order": 19,
+    "speaker": "renaissanceout of favourreal-time",
+    "text": "I think we're seeing a renaissance in the pattern-recognition forms of evidence, so finger marks, footwear marks. There's been lots of challenges with those forms of evidence over the last ten years, probably going a little bit out of favour. And yet what we're beginning to see now with AI is that you can take a photo of a mark with your phone, compare that mark to the database and get real-time insight."
+  },
+  {
+    "order": 20,
+    "speaker": "renaissanceRenaissance",
+    "text": "Ruth says that there is a renaissance in looking at patterns in evidence, such as finger marks or footwear marks. Renaissance means new interest or activity in a particular topic or area."
+  },
+  {
+    "order": 21,
+    "speaker": "out of favourout of favour",
+    "text": "This kind of evidence went a little bit out of favour over recent years because of the excitement around DNA evidence. If something is out of favour, it is less popular or appealing."
+  },
+  {
+    "order": 22,
+    "speaker": "real-timereal-time",
+    "text": "But AI could mean that patterns in finger marks or footwear marks are useful in solving crimes again. This is because AI can be used to compare a picture of a mark with a database of pictures from other crimes and get real-time insight. The adjective real-time means the information is presented at the same time that it's happening."
+  },
+  {
+    "order": 23,
+    "speaker": "Beth",
+    "text": "Yes, AI can compare lots of information very quickly, which makes finding patterns in evidence much easier and more reliable."
+  },
+  {
+    "order": 24,
+    "speaker": "Neil",
+    "text": "There are some problems with using AI to solve crimes though."
+  },
+  {
+    "order": 25,
+    "speaker": "Beth",
+    "text": "To find these patterns, lots of private information would need to be collected, and police usually have to give clear reasons why they need access to certain information in their investigations."
+  },
+  {
+    "order": 26,
+    "speaker": "Neil",
+    "text": "It's unlikely an AI-powered robot would ever replace a detective anytime soon!"
+  },
+  {
+    "order": 27,
+    "speaker": "Beth",
+    "text": "Yes, and that reminds me of your question, Neil. I said that Sherlock Holmes was maybe the most popular detective. Was I right?"
+  },
+  {
+    "order": 28,
+    "speaker": "where you're coming from",
+    "text": "You were absolutely right. And I think people should try the quiz on our website to find out how much they know as well. It's at bbclearningenglish.com. OK. Let's recap the vocabulary we've learned, starting with the expression where you're coming from, which means your opinion or perspective on something."
+  },
+  {
+    "order": 29,
+    "speaker": "background",
+    "text": "Your background is the area that you have the most work experience in."
+  },
+  {
+    "order": 30,
+    "speaker": "what can this do for me",
+    "text": "The question 'what can this do for me?' means 'how can this help or improve things?'"
+  },
+  {
+    "order": 31,
+    "speaker": "Renaissance",
+    "text": "Renaissance means new interest or activity in something"
+  },
+  {
+    "order": 32,
+    "speaker": "out of favour",
+    "text": "If something is out of favour, it has become less popular or appealing."
+  },
+  {
+    "order": 33,
+    "speaker": "real-time",
+    "text": "And the adjective real-time means information is presented as it is happening."
+  },
+  {
+    "order": 34,
+    "speaker": "Neil",
+    "text": "Once again, our six minutes are up. Head to our website to find more episodes of 6 Minute English at bbclearningenglish.com. Bye for now!"
+  },
+  {
+    "order": 35,
+    "speaker": "Beth",
+    "text": "Bye!"
+  }
+]

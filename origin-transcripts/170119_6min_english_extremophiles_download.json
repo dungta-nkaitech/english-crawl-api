@@ -1,0 +1,237 @@
+[
+  {
+    "order": 1,
+    "speaker": "Alice",
+    "text": "Hello and welcome to 6 Minute English. I'm Alice…"
+  },
+  {
+    "order": 2,
+    "speaker": "Neil",
+    "text": "And I'm Neil. So Alice, what's your ideal place to be?"
+  },
+  {
+    "order": 3,
+    "speaker": "Alice",
+    "text": "Curled up on the sofa with a good book in front of a log fire. Last night it was very cold."
+  },
+  {
+    "order": 4,
+    "speaker": "Neil",
+    "text": "Well, for me, lying in a hammock under a palm tree on a tropical beach with a cool breeze. I don't like when it's too hot."
+  },
+  {
+    "order": 5,
+    "speaker": "extremophiles",
+    "text": "Yes, true. Humans don't cope well with extremes of temperature but some species do. The subject of today's show is extremophiles – these are microorganisms that have adapted to live in what we would consider to be extreme conditions. For example, living in near boiling acidic water or frozen at the bottom of an Antarctic lake."
+  },
+  {
+    "order": 6,
+    "speaker": "Neil",
+    "text": "Those do sound like pretty extreme conditions."
+  },
+  {
+    "order": 7,
+    "speaker": "hostile",
+    "text": "Yes. The thing is, what sounds hostile – or unfriendly – to us, are perfect environments for extremophiles and in fact they wouldn't survive without them. Now, are you tough enough to face up to today's quiz question, Neil?"
+  },
+  {
+    "order": 8,
+    "speaker": "Neil",
+    "text": "I think so."
+  },
+  {
+    "order": 9,
+    "speaker": "geysers",
+    "text": "Alright then, here goes: which US National Park is home to geysers – or hot springs that shoot hot water and steam into the air – which have extremophiles living in them? Is it…"
+  },
+  {
+    "order": 10,
+    "speaker": "geysers",
+    "text": "a) Grand Canyon?"
+  },
+  {
+    "order": 11,
+    "speaker": "geysers",
+    "text": "b) Death Valley National Park?"
+  },
+  {
+    "order": 12,
+    "speaker": "geysers",
+    "text": "Or c) Yellowstone?"
+  },
+  {
+    "order": 13,
+    "speaker": "Neil",
+    "text": "That's easy - it has to be c) Yellowstone."
+  },
+  {
+    "order": 14,
+    "speaker": "Alice",
+    "text": "OK, well we'll find out if you got the answer right later on in the show. But, moving on, now, Neil, did you know that extremophiles belong to an entirely different group of living things to other animals and plants?"
+  },
+  {
+    "order": 15,
+    "speaker": "Neil",
+    "text": "No. I imagined extremophiles would be like insects, because insects are pretty tough, aren't they?"
+  },
+  {
+    "order": 16,
+    "speaker": "microorganisms",
+    "text": "Yes, that's true. But remember, extremophiles are microorganisms – they're really tiny. Let's listen to Ian Crawford, Professor of Planetary Science and Astrobiology at Birkbeck University of London. He tells us how in the 1970s a scientist called Carl Woese identified a new kingdom of living things that he called 'archaea' – meaning 'ancient ones'. The extremophiles belong to this group."
+  },
+  {
+    "order": 17,
+    "speaker": "Ian Crawford, Professor of Planetary Science and Astrobiology at Birkbeck University of London",
+    "text": "Well, the old tree of life idea basically talked about empires if you like, of plants, and animals, and things that we can see, essentially. We put a great deal of emphasis on large organisms and the traditional distinction in biology between botany and zoology. What it really did was say 'that's all wrong – there's really only three major groups in life: there's the archaea, the bacteria, and the eukaryotes, which is all of this complex life'; and so it kind of put humans into a small corner of the tree of life next to plants and whatever else. It kind of squashes us again after being the centre of the universe."
+  },
+  {
+    "order": 18,
+    "speaker": "botanyzoology",
+    "text": "So botany is the study of plant life, and zoology is the study of animal life. But maybe you can explain 'archaea', and 'eukaryotes', Alice."
+  },
+  {
+    "order": 19,
+    "speaker": "ArchaeaEukaryote",
+    "text": "Archaea are a group of single-celled microbes similar to bacteria but different to all other known types. Eukaryote is the scientific term for organisms with a much larger and more complex type of cell– and this group includes all animals, plants, and fungi."
+  },
+  {
+    "order": 20,
+    "speaker": "Neil",
+    "text": "But why are archaea so important? Why do they need a whole biological domain to themselves, while we humans get squashed up in one domain with plants and fungi?"
+  },
+  {
+    "order": 21,
+    "speaker": "Alice",
+    "text": "Well, Neil, it's likely they've have been living on our planet ever since the Earth became habitable – and that's billions of years. And they are still living and thriving in a whole range of different environments today."
+  },
+  {
+    "order": 22,
+    "speaker": "thriving",
+    "text": "And when something is thriving it means it's doing well! So tell us about where they live, Alice."
+  },
+  {
+    "order": 23,
+    "speaker": "hydrothermal vents",
+    "text": "Some live in hydrothermal vents – holes in the ocean floor hundreds of metres down where there's lots of pressure and no sunlight. And mineral-rich superheated water is coming out of the Earth's crust and then flowing out through these holes."
+  },
+  {
+    "order": 24,
+    "speaker": "Neil",
+    "text": "I see… Well, what about cold-loving extremophiles?"
+  },
+  {
+    "order": 25,
+    "speaker": "Alice",
+    "text": "Well, scientists have found them in hidden lakes trapped beneath ice sheets hundreds of metres thick in Antarctica. It takes days to drill through the ice to reach the water."
+  },
+  {
+    "order": 26,
+    "speaker": "Neil",
+    "text": "And how do they survive down there?"
+  },
+  {
+    "order": 27,
+    "speaker": "Alice",
+    "text": "Well, these microbes have found a way of getting energy from certain minerals like iron and sulphur present in the water."
+  },
+  {
+    "order": 28,
+    "speaker": "Neil",
+    "text": "That sounds clever for a microbe – how did they figure that out?"
+  },
+  {
+    "order": 29,
+    "speaker": "Alice",
+    "text": "It isn't a question of cleverness - it's a question of adaptation. Extremophiles are extremely well adapted to their environment and they appeared on Earth much earlier than more complex life forms. Let's hear from Nick Lane, Reader in Evolutionary Biochemistry at University College London."
+  },
+  {
+    "order": 30,
+    "speaker": "Nick Lane, Reader in Evolutionary Biochemistry at University College London",
+    "text": "The origin of the Eukaryotic cell, it seems to have happened once, it took about 2 billion years before that happened. Then there was kind of a great leap forward at the cellular level, but another billion years went by before we see animals."
+  },
+  {
+    "order": 31,
+    "speaker": "Neil",
+    "text": "So, basically, the animal kingdom is much newer than the archaean kingdom."
+  },
+  {
+    "order": 32,
+    "speaker": "Alice",
+    "text": "Indeed. And now it's time for the answer to today's quiz question, Neil. I asked: which US National Park is home to geysers that have extremophiles living in them? Is it… a) Grand Canyon, b) Death Valley National Park or c) Yellowstone?"
+  },
+  {
+    "order": 33,
+    "speaker": "Neil",
+    "text": "And I said c) Yellowstone. I must be right."
+  },
+  {
+    "order": 34,
+    "speaker": "Alice",
+    "text": "Yes, Neil, you are right - it's Yellowstone National Park. Every year, scientists discover remarkable new microbes in Yellowstone's hot springs, with implications for medicine, agriculture and energy, as well as offering clues to the formation of the earliest life on Earth."
+  },
+  {
+    "order": 35,
+    "speaker": "Neil",
+    "text": "Very interesting. Now, here are the words we heard today:"
+  },
+  {
+    "order": 36,
+    "speaker": "Neil",
+    "text": "extremophiles"
+  },
+  {
+    "order": 37,
+    "speaker": "Neil",
+    "text": "hostile"
+  },
+  {
+    "order": 38,
+    "speaker": "Neil",
+    "text": "geysers"
+  },
+  {
+    "order": 39,
+    "speaker": "Neil",
+    "text": "microorganisms"
+  },
+  {
+    "order": 40,
+    "speaker": "Neil",
+    "text": "botany"
+  },
+  {
+    "order": 41,
+    "speaker": "Neil",
+    "text": "zoology"
+  },
+  {
+    "order": 42,
+    "speaker": "Neil",
+    "text": "archaea"
+  },
+  {
+    "order": 43,
+    "speaker": "Neil",
+    "text": "eukaryote"
+  },
+  {
+    "order": 44,
+    "speaker": "Neil",
+    "text": "thriving"
+  },
+  {
+    "order": 45,
+    "speaker": "Neil",
+    "text": "hydrothermal vents"
+  },
+  {
+    "order": 46,
+    "speaker": "Alice",
+    "text": "And that's the end of today's 6 Minute English. Don't forget to join us again soon!"
+  },
+  {
+    "order": 47,
+    "speaker": "Both",
+    "text": "Bye!"
+  }
+]

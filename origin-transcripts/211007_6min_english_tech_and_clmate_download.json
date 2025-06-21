@@ -1,0 +1,217 @@
+[
+  {
+    "order": 1,
+    "speaker": "Neil",
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil."
+  },
+  {
+    "order": 2,
+    "speaker": "Sam",
+    "text": "And I’m Sam."
+  },
+  {
+    "order": 3,
+    "speaker": "Neil",
+    "text": "These days, our lives are filled with devices that were unimaginable only a few years ago – the sorts of things you read about in science-fiction novels, but never thought you’d own."
+  },
+  {
+    "order": 4,
+    "speaker": "Sam",
+    "text": "Yes, like those robots that vacuum your floor or voice-activated lights – we call many of these things ‘smart tech’."
+  },
+  {
+    "order": 5,
+    "speaker": "Neil",
+    "text": "But while they can help with the little tasks at home, some people are wondering whether they can help fight climate change."
+  },
+  {
+    "order": 6,
+    "speaker": "Sam",
+    "text": "Yes, smart homes, regulating things like the temperature, are a step in the right direction. Using AI to learn when the house is occupied and the optimal time to fire up the heating, is one way to limit wasteful use of resources."
+  },
+  {
+    "order": 7,
+    "speaker": "digging them up",
+    "text": "The problem comes from the origin of the energy which powers these home systems. If it’s fossil fuels, then digging them up – an informal way of saying removing something from the earth - and burning them creates carbon emissions."
+  },
+  {
+    "order": 8,
+    "speaker": "Sam",
+    "text": "I suppose that’s why many people are trying to find more renewable forms of energy to reduce their carbon footprint."
+  },
+  {
+    "order": 9,
+    "speaker": "Neil",
+    "text": "Well, it’s interesting that you mentioned carbon footprint, because my question is about that today. How many tonnes of carbon dioxide are humans responsible for emitting into the atmosphere every year? Is it more than:"
+  },
+  {
+    "order": 10,
+    "speaker": "Neil",
+    "text": "a) 30 billion"
+  },
+  {
+    "order": 11,
+    "speaker": "Neil",
+    "text": "b) 40 billion; or"
+  },
+  {
+    "order": 12,
+    "speaker": "Neil",
+    "text": "c) 50 billion?"
+  },
+  {
+    "order": 13,
+    "speaker": "Sam",
+    "text": "Well, Neil, that all sounds like a lot to me, but I’ll go straight down the middle and say b – 40 billion tonnes."
+  },
+  {
+    "order": 14,
+    "speaker": "Neil",
+    "text": "OK, Sam, we’ll find out the correct answer at the end of the programme. So you mentioned earlier that people are looking into ways to use more renewable energy, but there are also some problems with that form of energy production."
+  },
+  {
+    "order": 15,
+    "speaker": "Sam",
+    "text": "Yes – for example many of these technologies rely on certain weather conditions, which affect the level of energy production."
+  },
+  {
+    "order": 16,
+    "speaker": "Neil",
+    "text": "Dr Enass Abo-Hamed, CEO of H2go, is working on a project on Orkney, an island off the coast of Scotland, testing ways of storing renewable forms of energy. Here she is on BBC World Service programme Crowd Science, speaking with Graihagh Jackson, talking about the limitations of renewable energy sources."
+  },
+  {
+    "order": 17,
+    "speaker": "intermittent",
+    "text": "Renewable energy is intermittent by its nature because it’s dependant and relying on the weather. When the Sun shines and when the wind blows, and these by nature are not 24-hour 7 reliable constant."
+  },
+  {
+    "order": 18,
+    "speaker": "blackouts",
+    "text": "And that means that demand doesn’t always meet supply of renewables – it can mean that we get blackouts, but on the other hand, when the Sun is up and we are producing all that power or when the wind is blowing and were producing that power, we might not be able to use that energy - There’s no demand for it and so it’s wasted."
+  },
+  {
+    "order": 19,
+    "speaker": "intermittent",
+    "text": "So, Dr Enass Abo-Hamed said the renewable energy is intermittent, which means that something is not continuous and has many breaks."
+  },
+  {
+    "order": 20,
+    "speaker": "blackouts",
+    "text": "She also said that because there isn’t always a steady stream of energy, we can get blackouts – periods of time without energy."
+  },
+  {
+    "order": 21,
+    "speaker": "Sam",
+    "text": "People like Dr Enass Abo-Hamed are trying to find solutions to make renewable energy storage devices – which would make the supply of energy more constant."
+  },
+  {
+    "order": 22,
+    "speaker": "Neil",
+    "text": "Smart tech can also help with this problem with renewable sources. Now, of course, not only can computers be used to design efficient models, but smart tech can also be used to improve performance after things like wind turbines have been installed."
+  },
+  {
+    "order": 23,
+    "speaker": "Sam",
+    "text": "Here is Graihagh Jackson, science broadcaster and podcaster, speaking about how smart tech can improve efficiency on BBC World Service programme, Crowd Science:"
+  },
+  {
+    "order": 24,
+    "speaker": "in real timemachine learningsimulate",
+    "text": "Some engineers use something called a digital twin. This is really interesting, actually. This is where lots of sensors are attached to the wind turbine, so it can be modelled on a computer in real time. And then, using machine learning, you can then simulate what’s happening to the wind turbine in specific weather conditions. And this is important because it means they can make sure they’re performing their best."
+  },
+  {
+    "order": 25,
+    "speaker": "in real time,",
+    "text": "Graihagh Jackson used the expression in real time, which means without delay or live."
+  },
+  {
+    "order": 26,
+    "speaker": "machine learning",
+    "text": "She also mentioned machine learning, which is the way computers change their behaviour based on data they collected."
+  },
+  {
+    "order": 27,
+    "speaker": "simulate",
+    "text": "And she also said simulate – produce a computer model of something."
+  },
+  {
+    "order": 28,
+    "speaker": "Sam",
+    "text": "So, while there are issues with the reliability of the source of renewable energy, it’s clear that people are working on solutions such as energy storage to make sure there is always a supply."
+  },
+  {
+    "order": 29,
+    "speaker": "Neil",
+    "text": "And that computers can be used to design and operate technology as efficiently as possible."
+  },
+  {
+    "order": 30,
+    "speaker": "Sam",
+    "text": "Much in the same way that AI can be used in your home to make it run as efficiently as possible."
+  },
+  {
+    "order": 31,
+    "speaker": "Neil",
+    "text": "Yes – all in the hope of reducing your carbon footprint."
+  },
+  {
+    "order": 32,
+    "speaker": "Sam",
+    "text": "Which reminds me of your quiz question, Neil."
+  },
+  {
+    "order": 33,
+    "speaker": "Neil",
+    "text": "Yes, in my quiz question I asked Sam how many tonnes of carbon dioxide humans produce each year!"
+  },
+  {
+    "order": 34,
+    "speaker": "Sam",
+    "text": "I went for b) 40 billion tonnes."
+  },
+  {
+    "order": 35,
+    "speaker": "Neil",
+    "text": "Which is… the correct answer! Well done, Sam!"
+  },
+  {
+    "order": 36,
+    "speaker": "Sam",
+    "text": "Wow – I guessed right – but all three of those numbers sound really high! Let’s recap the vocabulary from today’s programme about smart tech and climate change, starting with dig something up – an informal expression to remove something from the ground."
+  },
+  {
+    "order": 37,
+    "speaker": "Intermittent",
+    "text": "Intermittent is used to describe something that is not continuous or steady."
+  },
+  {
+    "order": 38,
+    "speaker": "Blackouts",
+    "text": "Blackouts are periods of time without energy, for example electricity."
+  },
+  {
+    "order": 39,
+    "speaker": "In real time",
+    "text": "In real time means without delay or live."
+  },
+  {
+    "order": 40,
+    "speaker": "Machine learning",
+    "text": "Machine learning is the process by which computers learn and change behaviour based on data."
+  },
+  {
+    "order": 41,
+    "speaker": "simulate",
+    "text": "And finally, simulate means produce a computer model."
+  },
+  {
+    "order": 42,
+    "speaker": "Sam",
+    "text": "That’s all for this programme. Bye for now!"
+  },
+  {
+    "order": 43,
+    "speaker": "Neil",
+    "text": "Goodbye!"
+  }
+]

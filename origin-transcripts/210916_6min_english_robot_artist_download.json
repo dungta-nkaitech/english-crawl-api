@@ -1,0 +1,202 @@
+[
+  {
+    "order": 1,
+    "speaker": "Neil",
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil."
+  },
+  {
+    "order": 2,
+    "speaker": "Sam",
+    "text": "And I’m Sam."
+  },
+  {
+    "order": 3,
+    "speaker": "Neil",
+    "text": "Do you think robots could ever become intelligent, Sam?"
+  },
+  {
+    "order": 4,
+    "speaker": "Sam",
+    "text": "Well, if you believe Hollywood movies like ‘Robocop’, robots will grow more powerful than their human creators and take control."
+  },
+  {
+    "order": 5,
+    "speaker": "Neil",
+    "text": "You’ve been watching too many sci-fi movies, Sam! But seriously - do you think robots will ever be able to think or dream? Could they fall in love or create art?"
+  },
+  {
+    "order": 6,
+    "speaker": "Sam",
+    "text": "It’s hard to say but because of the huge advances in artificial intelligence over the last ten years, questions like these are being asked more and more."
+  },
+  {
+    "order": 7,
+    "speaker": "Neil",
+    "text": "In this programme we’ll be meeting a very unusual ‘person’ (if that’s the right word) who could help answer some of these questions. She’s called Ai-Da, she’s an artist who can draw, paint and create sculptures – and she’s a robot."
+  },
+  {
+    "order": 8,
+    "speaker": "Sam",
+    "text": "Yes, the humanoid robot, Ai-Da, uses a robotic arm and a pencil to draw what it sees with a camera in its eye. It’s very life-like and can even talk to the people whose picture it’s drawing."
+  },
+  {
+    "order": 9,
+    "speaker": "Neil",
+    "text": "We’ll hear more about this extraordinary robot and the team of inventors behind her soon, but first I have a quiz question. The name, Ai-Da, uses the abbreviation for ‘artificial intelligence’ - AI - to make a woman’s first name, but which famous, real-life Ada was the robot named after? Was it:"
+  },
+  {
+    "order": 10,
+    "speaker": "Neil",
+    "text": "a) Ada Brown?,"
+  },
+  {
+    "order": 11,
+    "speaker": "Neil",
+    "text": "b) Ada Lovelace? or,"
+  },
+  {
+    "order": 12,
+    "speaker": "Neil",
+    "text": "c) Ada Maris?"
+  },
+  {
+    "order": 13,
+    "speaker": "Sam",
+    "text": "I think it must be, b) Ada Lovelace."
+  },
+  {
+    "order": 14,
+    "speaker": "Neil",
+    "text": "OK, Sam, we’ll find out if that’s right later. Of course building a realistic robot that can see, hold a pencil and draw is not easy."
+  },
+  {
+    "order": 15,
+    "speaker": "Sam",
+    "text": "Behind the creation of Ai-Da was a team led by Cornish robotics company, Engineered Arts, and supported by engineers in Leeds who built her robotic arms using AI systems developed at Oxford University."
+  },
+  {
+    "order": 16,
+    "speaker": "Neil",
+    "text": "Here’s chief engineer, Marcus Hold, introducing presenter, Karl Bos, to the still unfinished Ai -Da for the first time for BBC World Service programme, In The Studio:"
+  },
+  {
+    "order": 17,
+    "speaker": "dystopian",
+    "text": "It’s very strange because on first glance she looks incredibly scary, a bit like a dystopian robot from the future but when you see her move and express she becomes incredibly cute."
+  },
+  {
+    "order": 18,
+    "speaker": "communicationnon-verbalappeal",
+    "text": "People tend to refer to them as ‘he’ or ‘she’, they’re drawn to the robots. So much of our communication is non-verbal – I’m gesturing with my arms, I’m smiling… and our robots – a big part of their appeal and their human nature is in the way they behave and move and it’s great that you’re picking up on that from something that has no skin."
+  },
+  {
+    "order": 19,
+    "speaker": "dystopia",
+    "text": "When Karl first meets Ai-Da he sees a wired-up metal skull without skin. She looks like a robot from a dystopia - an imaginary future world where everything is bad – like the movie ‘Robocop’."
+  },
+  {
+    "order": 20,
+    "speaker": "non-verbal communication",
+    "text": "But as Karl spends more time with Ai-Da he begins to see her move and express herself. She smiles, blinks and uses facial expressions and hand gestures known as non-verbal communication to appear more human."
+  },
+  {
+    "order": 21,
+    "speaker": "appeal",
+    "text": "This human-like behaviour is part of Ai-Da’s appeal - the quality in someone that makes them attractive and interesting – and soon Karl is calling the robot ‘she’ instead of ‘it’."
+  },
+  {
+    "order": 22,
+    "speaker": "Neil",
+    "text": "Former art gallery owner, Aidan Mellor, manages the Ai-Da project. Here he is speaking to BBC World Service’s, In The Studio, about the complex process involved in building a working robot:"
+  },
+  {
+    "order": 23,
+    "speaker": "compellingbattles to bewon iron out",
+    "text": "We’ve got the programmers and researchers working at Oxford University and Goldsmiths and they’re doing their algorithmic programming, programming the AI that is going to be eventually used for the art pieces that we’re doing… But we’ve also got a couple of guys who are actually working on her arm – her ability to draw – and actually getting her to do a compelling drawing of what she sees. There’s some battles still to be won before the show, we will eventually hopefully iron out all the issues before that time."
+  },
+  {
+    "order": 24,
+    "speaker": "compelling",
+    "text": "One challenge the team faced was building a robotic arm that could allow Ai-Da to draw pictures that were compelling – exciting, interesting and able to keep your attention."
+  },
+  {
+    "order": 25,
+    "speaker": "battles to be won",
+    "text": "In combining an electronic AI brain with mechanical robot eyes and arms there were many battles to be won – difficulties and technical obstacles to be overcome."
+  },
+  {
+    "order": 26,
+    "speaker": "issues to iron out",
+    "text": "And at the time of the interview, the team still had some issues to iron out – removing problems by finding solutions – before Ai-Da’s opening show: an exhibition of her artwork at The Design Museum in London."
+  },
+  {
+    "order": 27,
+    "speaker": "Neil",
+    "text": "Amazing! It’s nice to think that a robot could be the next Picasso instead of an out-of-control sci-fi policeman!"
+  },
+  {
+    "order": 28,
+    "speaker": "Sam",
+    "text": "Yes, and the whole project was inspired by a real-life woman – whose name was? What was the answer to your quiz question, Neil?"
+  },
+  {
+    "order": 29,
+    "speaker": "Neil",
+    "text": "Ah yes, I asked Sam which famous Ada was the real-life inspiration behind the robot, Ai-Da."
+  },
+  {
+    "order": 30,
+    "speaker": "Sam",
+    "text": "I said, b) Ada Lovelace. Was I right?"
+  },
+  {
+    "order": 31,
+    "speaker": "Neil",
+    "text": "You were… right, Sam! Ai-Da is named after Ada Lovelace, the 19th century English mathematician and first computer programmer in the world."
+  },
+  {
+    "order": 32,
+    "speaker": "dystopia",
+    "text": "OK, Neil. Let’s recap the vocabulary from this programme, starting with dystopia - an imaginary future society where everything is bad."
+  },
+  {
+    "order": 33,
+    "speaker": "Non-verbal communication",
+    "text": "Non-verbal communication is communication using physical gestures and facial expressions instead of speech."
+  },
+  {
+    "order": 34,
+    "speaker": "appeal",
+    "text": "The appeal of something is a quality it has which people find attractive."
+  },
+  {
+    "order": 35,
+    "speaker": "compelling",
+    "text": "If something is compelling, it holds your attention because you find it so interesting."
+  },
+  {
+    "order": 36,
+    "speaker": "battle to be won",
+    "text": "A battle to be won means a problem to be solved or an obstacle to overcome."
+  },
+  {
+    "order": 37,
+    "speaker": "iron something out",
+    "text": "And finally, to iron something out means to remove or find solutions to a problem."
+  },
+  {
+    "order": 38,
+    "speaker": "Sam",
+    "text": "With artificial intelligence improving so fast it may not be too long before we see robot presenters of Six Minute English!"
+  },
+  {
+    "order": 39,
+    "speaker": "Neil",
+    "text": "But until Sam and I are replaced by AI we hope you’ll join us again next time for more trending topics and useful vocabulary, here at BBC Learning English. Bye for now!"
+  },
+  {
+    "order": 40,
+    "speaker": "Sam",
+    "text": "Goodbye!"
+  }
+]

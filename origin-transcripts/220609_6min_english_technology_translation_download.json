@@ -1,0 +1,282 @@
+[
+  {
+    "order": 1,
+    "speaker": "Rob",
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I'm Rob."
+  },
+  {
+    "order": 2,
+    "speaker": "Rob",
+    "text": "Sam"
+  },
+  {
+    "order": 3,
+    "speaker": "Rob",
+    "text": "And I'm Sam. Rob, I'm writing a letter to a friend in Spain and I need some help. Do you know the Spanish for, 'it's raining'?"
+  },
+  {
+    "order": 4,
+    "speaker": "Rob",
+    "text": "Don't worry, I have this new app… I just hold up my phone, scan the word I want translated, uh, 'esta lloviendo', is the Spanish for, 'it's raining'."
+  },
+  {
+    "order": 5,
+    "speaker": "Rob",
+    "text": "Sam"
+  },
+  {
+    "order": 6,
+    "speaker": "Rob",
+    "text": "Amazing! In this programme we're discussing language technologies - computers that can translate between languages. Modern software like"
+  },
+  {
+    "order": 7,
+    "speaker": "Rob",
+    "text": "Google Translate has transformed how we learn foreign languages, bringing us closer to a world where language is no longer a barrier to communication. But how well do these computers know what we really mean to say?"
+  },
+  {
+    "order": 8,
+    "speaker": "Rob",
+    "text": "Later we'll find out exactly what machines can and can't translate, and, as usual, we'll be learning some new vocabulary as well. But first I have a question for you, Sam. The translation app I used just now is very recent, but there's a long history of computer mistranslations - times when computers got it badly wrong. In 1987, the American airline, Braniff, ran television adverts promoting the all-leather seats installed on their flights to Mexico. But how was its \"fly in leather\" advertising slogan mistranslated into Spanish?"
+  },
+  {
+    "order": 9,
+    "speaker": "Rob",
+    "text": "a) fly in lava"
+  },
+  {
+    "order": 10,
+    "speaker": "Rob",
+    "text": "b) fly on a cow"
+  },
+  {
+    "order": 11,
+    "speaker": "Rob",
+    "text": "c) fly naked"
+  },
+  {
+    "order": 12,
+    "speaker": "Rob",
+    "text": "Sam"
+  },
+  {
+    "order": 13,
+    "speaker": "Rob",
+    "text": "Hmm, I have a feeling it might be, c) fly naked."
+  },
+  {
+    "order": 14,
+    "speaker": "metaphors",
+    "text": "Ok, Sam. I'll reveal the correct answer later in the programme. Computer software used to rely on rules-based translation, applying the grammar rules of one language to another. That worked fine for simple words and phrases, but what happens when a translator comes across more complex language, for example metaphors - expressions used to describe one thing by comparing it to another."
+  },
+  {
+    "order": 15,
+    "speaker": "metaphors",
+    "text": "Sam"
+  },
+  {
+    "order": 16,
+    "speaker": "metaphors",
+    "text": "Lane Greene is a language journalist and the author of the book, Talk on the Wild Side. Here he explains to BBC Radio 4 programme, Word of Mouth, how apps like Google Translate allow users to manually translate metaphors:"
+  },
+  {
+    "order": 17,
+    "speaker": "Greene",
+    "text": "Lane Greene"
+  },
+  {
+    "order": 18,
+    "speaker": "'it's raining cats and dogs'chunk'raining cats and dogs'metaphor",
+    "text": "If I say, 'it's raining cats and dogs' and it literally translates, 'esta lloviendo perros y gatos' in Spanish, that won't make any sense, but I think somebody at Google will have inputted the phrase, 'lueve a cántaros' which is the phrase, 'it's raining pitchers', or 'it's raining jugs of water', so that the whole chunk, 'raining cats and dogs', is translated into the equivalent metaphor in Spanish."
+  },
+  {
+    "order": 19,
+    "speaker": "'it's raining cats and dogs'chunk'raining cats and dogs'metaphor",
+    "text": "Rob"
+  },
+  {
+    "order": 20,
+    "speaker": "it's raining cats and dogs",
+    "text": "Lane wants to translate the phrase, it's raining cats and dogs, something that people sometimes say when it's raining heavily."
+  },
+  {
+    "order": 21,
+    "speaker": "it's raining cats and dogs",
+    "text": "Sam"
+  },
+  {
+    "order": 22,
+    "speaker": "chunk",
+    "text": "It wouldn't make sense to translate this phrase into another language literally, word by word. One solution is to translate the whole idiom as a chunk, or a large part of text or language."
+  },
+  {
+    "order": 23,
+    "speaker": "chunk",
+    "text": "Rob"
+  },
+  {
+    "order": 24,
+    "speaker": "chunk",
+    "text": "This works for phrases and idioms that people regularly use in the same way because they can be taught to a computer. But what happens when someone like a poet writes a completely new sentence which has never been written before? Lane Greene thinks that even the smartest software couldn't deal with that, as he told Michael Rosen, poet and presenter of BBC Radio 4's, Word of Mouth:"
+  },
+  {
+    "order": 25,
+    "speaker": "chunk",
+    "text": "Michael Rosen"
+  },
+  {
+    "order": 26,
+    "speaker": "chunk",
+    "text": "…if a poet writes a new one then the machine is not going to pick it up, and it's going to have a struggle, isn't it? Sorry, I'm sticking up for poetry here and trying to claim that it's untranslatable - can you hear what I'm doing?"
+  },
+  {
+    "order": 27,
+    "speaker": "chunk",
+    "text": "Lane Greene"
+  },
+  {
+    "order": 28,
+    "speaker": "roteautomated.flummox",
+    "text": "I hear you, and in a war against the machines, our advantage is novelty and creativity. So you're right that machines will be great at anything that is rote, anything that's already been done a million times can be automated. So you and I with our pre-frontal cortexes can try to come up with phrases that'll flummox the computer and so keep our jobs."
+  },
+  {
+    "order": 29,
+    "speaker": "roteautomated.flummox",
+    "text": "Sam"
+  },
+  {
+    "order": 30,
+    "speaker": "rote",
+    "text": "When we say machines \"learn\" a language, we really mean they have been trained to identify patterns in millions and millions of translations. Computers can only learn by rote - by memory in order to repeat information rather than to properly understand it."
+  },
+  {
+    "order": 31,
+    "speaker": "rote",
+    "text": "Rob"
+  },
+  {
+    "order": 32,
+    "speaker": "roteautomatedflummox",
+    "text": "This kind of rote learning can be easily automated - done by machines instead of humans. But it's completely different from human learning requiring creative thinking which would flummox - or confuse, even the most sophisticated machine."
+  },
+  {
+    "order": 33,
+    "speaker": "roteautomatedflummox",
+    "text": "Sam"
+  },
+  {
+    "order": 34,
+    "speaker": "roteautomatedflummox",
+    "text": "Bad news for translation software, but good news for humans who use different languages in their jobs - like us!"
+  },
+  {
+    "order": 35,
+    "speaker": "roteautomatedflummox",
+    "text": "Rob"
+  },
+  {
+    "order": 36,
+    "speaker": "roteautomatedflummox",
+    "text": "Yes, if only Braniff Airlines had relied on human translators, they might have avoided an embarrassing situation."
+  },
+  {
+    "order": 37,
+    "speaker": "roteautomatedflummox",
+    "text": "Sam"
+  },
+  {
+    "order": 38,
+    "speaker": "roteautomatedflummox",
+    "text": "Ah, in your question you asked how Braniff's television advertisement \"fly in leather\" was translated into Spanish. I guessed it was mistranslated as \"fly naked'."
+  },
+  {
+    "order": 39,
+    "speaker": "roteautomatedflummox",
+    "text": "Rob"
+  },
+  {
+    "order": 40,
+    "speaker": "roteautomatedflummox",
+    "text": "Which was… the correct answer! Braniff translated its \"fly in leather\" slogan as fly \"en cuero,\" which sounds like Spanish slang for \"fly naked\"."
+  },
+  {
+    "order": 41,
+    "speaker": "roteautomatedflummox",
+    "text": "Sam"
+  },
+  {
+    "order": 42,
+    "speaker": "automated",
+    "text": "OK, let's recap the vocabulary from this programme about language translations which are automated - done by machines instead of humans."
+  },
+  {
+    "order": 43,
+    "speaker": "automated",
+    "text": "Rob"
+  },
+  {
+    "order": 44,
+    "speaker": "metaphor",
+    "text": "Often found in poetry, a metaphor is a way of describing something by reference to something else."
+  },
+  {
+    "order": 45,
+    "speaker": "metaphor",
+    "text": "Sam"
+  },
+  {
+    "order": 46,
+    "speaker": "it's raining cats and dogs",
+    "text": "When it's raining heavily you might use the idiom, it's raining cats and dogs!"
+  },
+  {
+    "order": 47,
+    "speaker": "it's raining cats and dogs",
+    "text": "Rob"
+  },
+  {
+    "order": 48,
+    "speaker": "chunk",
+    "text": "A chunk is a large part of something."
+  },
+  {
+    "order": 49,
+    "speaker": "chunk",
+    "text": "Sam"
+  },
+  {
+    "order": 50,
+    "speaker": "Rote",
+    "text": "Rote learning involves memorising information which you repeat but don't really understand."
+  },
+  {
+    "order": 51,
+    "speaker": "Rote",
+    "text": "Rob"
+  },
+  {
+    "order": 52,
+    "speaker": "flummoxed",
+    "text": "And finally, if someone is flummoxed, they're so confused that they don't know what to do!"
+  },
+  {
+    "order": 53,
+    "speaker": "flummoxed",
+    "text": "Sam"
+  },
+  {
+    "order": 54,
+    "speaker": "flummoxed",
+    "text": "Once again our six minutes are up! Join us again soon for more trending topics and useful vocabulary here at 6 Minute English. Goodbye for now!"
+  },
+  {
+    "order": 55,
+    "speaker": "flummoxed",
+    "text": "Rob"
+  },
+  {
+    "order": 56,
+    "speaker": "flummoxed",
+    "text": "Bye!"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "order": 1,
+    "speaker": "Rob",
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Rob."
+  },
+  {
+    "order": 2,
+    "speaker": "Sam",
+    "text": "And I’m Sam."
+  },
+  {
+    "order": 3,
+    "speaker": "Rob",
+    "text": "Have you seen my lottery ticket, Sam? I seem to have lost it somewhere…"
+  },
+  {
+    "order": 4,
+    "speaker": "Sam",
+    "text": "Is this another one of your get-rich-quick schemes, Rob? People invent all kinds of ways to make a lot of money quickly and with little effort. Well, if you really want to get rich quick, maybe you should copy technology tycoon Elon Musk. Recently he invested one and a half billion dollars in the cryptocurrency, bitcoin."
+  },
+  {
+    "order": 5,
+    "speaker": "Rob",
+    "text": "Bitcoin has made some people very rich, very quickly, but as we’ll be hearing in this programme, it’s not without its critics."
+  },
+  {
+    "order": 6,
+    "speaker": "Sam",
+    "text": "Creating bitcoins, a process known as mining, uses huge amounts of electricity and green campaigners are now questioning bitcoin’s impact on global energy use."
+  },
+  {
+    "order": 7,
+    "speaker": "Rob",
+    "text": "But before we find out more, it’s time for my quiz question. What year was bitcoin first released? Was it…"
+  },
+  {
+    "order": 8,
+    "speaker": "Rob",
+    "text": "a) 2009"
+  },
+  {
+    "order": 9,
+    "speaker": "Rob",
+    "text": "b) 2015, or"
+  },
+  {
+    "order": 10,
+    "speaker": "Rob",
+    "text": "c) 2019?"
+  },
+  {
+    "order": 11,
+    "speaker": "Sam",
+    "text": "I’ll go for b) 2015."
+  },
+  {
+    "order": 12,
+    "speaker": "Rob",
+    "text": "OK, we’ll find out the answer later in the programme."
+  },
+  {
+    "order": 13,
+    "speaker": "Sam",
+    "text": "In this programme, we are going to talk about bitcoin. The use of the virtual currency… it’s all very well for billionaires like Elon Musk, but what about the ordinary, average person – is bitcoin a good option for them?"
+  },
+  {
+    "order": 14,
+    "speaker": "Rob",
+    "text": "Well, that’s exactly what BBC World Service programme Tech Tent wanted to find out by interviewing people in the street. Here’s what one bitcoin fan, Heather Delany, had to say:"
+  },
+  {
+    "order": 15,
+    "speaker": "risk-aversedip my toe pension plan.",
+    "text": "I invested in bitcoin a number of years ago… with the initial investment of only around five dollars it meant that my risk was essentially the cost of a cup of coffee and a pastry, and as somebody who’s quite risk-averse when it comes to investment, it did allow me to dip my toe into bitcoin. Over time I was able to invest at various points as I really see bitcoin as more of a long-term investment and part of my overall pension plan."
+  },
+  {
+    "order": 16,
+    "speaker": "risk-averse",
+    "text": "Heather describes herself as risk-averse – she wants to avoid risks as much as possible."
+  },
+  {
+    "order": 17,
+    "speaker": "dip a toe into",
+    "text": "By only investing five dollars she was able to dip a toe into bitcoin - try doing something slowly and carefully to test whether she liked it."
+  },
+  {
+    "order": 18,
+    "speaker": "pension plan -",
+    "text": "Over time, Heather’s bitcoin investment became part of her pension plan - a financial plan funded by your salary to save money for when you retire."
+  },
+  {
+    "order": 19,
+    "speaker": "Rob",
+    "text": "So, everything seems to be working out for Heather."
+  },
+  {
+    "order": 20,
+    "speaker": "Sam",
+    "text": "But the recent buzz around bitcoin has also highlighted another, less positive side of the story - bitcoin’s environmental footprint."
+  },
+  {
+    "order": 21,
+    "speaker": "Rob",
+    "text": "Mining bitcoins, the complex process that creates new coins, uses a lot of electricity. Recent estimates show that bitcoin has now overtaken the entire annual electricity use of Argentina!"
+  },
+  {
+    "order": 22,
+    "speaker": "Sam",
+    "text": "Michel Rauchs works at Cambridge University’s Centre for Alternative Finance which monitors bitcoin’s electrical consumption. Here he is in conversation with BBC World Service’s, Tech Tent:"
+  },
+  {
+    "order": 23,
+    "speaker": "put things   into perspectiveon standby",
+    "text": "Bitcoin consumes just a colossal amount of electricity and now  whether that electricity expenditure is really worth the benefits, I think that really depends on how you value bitcoin itself… but just looking at the electricity consumption, I think we need to put things a bit  into perspective… so, on the one hand if you compare it to a country like Argentina, it’s just incredible, awe-inspiring… on the other hand, if you compare it to, for example, home appliances that are always on – on standby but not being used – in the US alone, that consumes twice as much electricity on a yearly basis as the entire bitcoin network."
+  },
+  {
+    "order": 24,
+    "speaker": "put things into perspective",
+    "text": "Michel thinks that to assess bitcoin’s energy use we must put things into perspective - find the true, objective value of something."
+  },
+  {
+    "order": 25,
+    "speaker": "on standby",
+    "text": "Comparing bitcoin’s energy use to a huge country like Argentina sounds monstrous. But looked at another way, bitcoin only consumes half the electricity used by all US televisions and other home appliances left on standby – which means powered on and ready to work when needed."
+  },
+  {
+    "order": 26,
+    "speaker": "Sam",
+    "text": "So maybe the best get-rich-quick scheme is to save money on your electricity bills by turning off your TV, Rob."
+  },
+  {
+    "order": 27,
+    "speaker": "Rob",
+    "text": "Well, it’s got to be easier than mining bitcoins – which reminds me…."
+  },
+  {
+    "order": 28,
+    "speaker": "Sam",
+    "text": "…of your quiz question. You asked what year bitcoin was first released, 2009, 2015 or 2019. And I said b) 2015."
+  },
+  {
+    "order": 29,
+    "speaker": "Rob",
+    "text": "Which was the wrong answer, I'm afraid, Sam! It was first released in 2009."
+  },
+  {
+    "order": 30,
+    "speaker": "get-rich-quick",
+    "text": "So maybe we’d better keep buying lottery tickets. After all, it’s a pretty good get-rich-quick scheme – a way to make a lot of money, quickly."
+  },
+  {
+    "order": 31,
+    "speaker": "risk-averse",
+    "text": "Let’s recap the other vocabulary now. Someone who is risk-averse doesn’t like taking risks."
+  },
+  {
+    "order": 32,
+    "speaker": "dip a toe into something",
+    "text": "If you dip a toe into something, you test it out slowly and carefully to see how it feels."
+  },
+  {
+    "order": 33,
+    "speaker": "pension plan",
+    "text": "A pension plan is a way of saving money for your retirement."
+  },
+  {
+    "order": 34,
+    "speaker": "Putting things into perspective",
+    "text": "Putting things into perspective means assessing the real importance of something, often by comparing it to something similar."
+  },
+  {
+    "order": 35,
+    "speaker": "on standby",
+    "text": "Like comparing the energy use of bitcoin with the energy used by electrical appliances left on standby – ready to be used."
+  },
+  {
+    "order": 36,
+    "speaker": "Sam",
+    "text": "And that’s all we have time for."
+  },
+  {
+    "order": 37,
+    "speaker": "Rob",
+    "text": "Bye for now!"
+  },
+  {
+    "order": 38,
+    "speaker": "Sam",
+    "text": "Bye bye!"
+  }
+]
