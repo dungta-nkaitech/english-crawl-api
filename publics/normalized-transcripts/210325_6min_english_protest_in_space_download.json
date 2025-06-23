@@ -1,0 +1,638 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 11.2,
+    "text": "6 Minute English from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 13.439,
+    "end": 17.359,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 17.359,
+    "end": 21.199,
+    "text": "And I’m Georgina. Have you finished writing that report yet, Neil?",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 21.199,
+    "end": 24.16,
+    "text": "Er, not quite. It's almost done.",
+    "speaker": null
+  },
+  {
+    "start": 24.16,
+    "end": 26,
+    "text": "Well, finish it this morning, please.",
+    "speaker": null
+  },
+  {
+    "start": 26,
+    "end": 29.6,
+    "text": "Then make sure you've planned all the studio sessions for the week",
+    "speaker": null
+  },
+  {
+    "start": 29.6,
+    "end": 32.079,
+    "text": "and show me so I can double check. Okay?",
+    "speaker": null
+  },
+  {
+    "start": 33.679,
+    "end": 38.16,
+    "text": "Okay. Has this ever happened to you being micromanaged by someone?",
+    "speaker": null
+  },
+  {
+    "start": 38.16,
+    "end": 41.28,
+    "text": "That's what it's called when your boss wants to control everything",
+    "speaker": null
+  },
+  {
+    "start": 41.28,
+    "end": 43.2,
+    "text": "down to the smallest detail.",
+    "speaker": null
+  },
+  {
+    "start": 43.2,
+    "end": 46.88,
+    "text": "And I noticed you've written the report in font size 11",
+    "speaker": null
+  },
+  {
+    "start": 46.88,
+    "end": 49.439,
+    "text": "when I told you to use size 12.",
+    "speaker": null
+  },
+  {
+    "start": 49.439,
+    "end": 52.48,
+    "text": "Oh, if this keeps up, I might go on strike.",
+    "speaker": null
+  },
+  {
+    "start": 52.48,
+    "end": 55.76,
+    "text": "It wouldn't be the first time someone has refused to continue working",
+    "speaker": null
+  },
+  {
+    "start": 55.76,
+    "end": 57.52,
+    "text": "because of an argument with their boss.",
+    "speaker": null
+  },
+  {
+    "start": 58.32,
+    "end": 60.4,
+    "text": "Maybe I'd better go easy on Neil.",
+    "speaker": null
+  },
+  {
+    "start": 60.4,
+    "end": 64,
+    "text": "After all, I don't want to repeat of what happened on the American",
+    "speaker": null
+  },
+  {
+    "start": 64,
+    "end": 67.76,
+    "text": "Spaceship Skylab, the subject of this program.",
+    "speaker": null
+  },
+  {
+    "start": 67.76,
+    "end": 72.8,
+    "text": "In 1973, three US astronauts on board the Skylab Space Station",
+    "speaker": null
+  },
+  {
+    "start": 72.8,
+    "end": 75.92,
+    "text": "had a disagreement with mission control over their workload",
+    "speaker": null
+  },
+  {
+    "start": 75.92,
+    "end": 81.76,
+    "text": "in an incident that has incorrectly been called the Skylab Space Strike.",
+    "speaker": null
+  },
+  {
+    "start": 81.76,
+    "end": 85.6,
+    "text": "But before we find out more, let me ask you my quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 85.679,
+    "end": 87.28,
+    "text": "If that's okay, boss.",
+    "speaker": null
+  },
+  {
+    "start": 87.28,
+    "end": 88.559,
+    "text": "Go ahead.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 88.559,
+    "end": 92.079,
+    "text": "Well, the Skylab astronauts felt they had been given too much work",
+    "speaker": null
+  },
+  {
+    "start": 92.079,
+    "end": 94.319,
+    "text": "to complete during the space flight.",
+    "speaker": null
+  },
+  {
+    "start": 94.319,
+    "end": 97.919,
+    "text": "But how did they protest to their bosses at ground control?",
+    "speaker": null
+  },
+  {
+    "start": 97.919,
+    "end": 101.439,
+    "text": "a) pretend the radio had broken?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 101.439,
+    "end": 104.239,
+    "text": "B, stop shaving and grow beards?",
+    "speaker": null
+  },
+  {
+    "start": 104.239,
+    "end": 107.919,
+    "text": "c) fake the results of their experiments?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 107.919,
+    "end": 112.719,
+    "text": "I guess A, pretending the radio had broken, would show them whose boss,",
+    "speaker": null
+  },
+  {
+    "start": 112.719,
+    "end": 115.84,
+    "text": "although floating in space without radio contact,",
+    "speaker": null
+  },
+  {
+    "start": 115.84,
+    "end": 118,
+    "text": "sounds a bit dangerous to me.",
+    "speaker": null
+  },
+  {
+    "start": 118,
+    "end": 121.519,
+    "text": "Okay, Georgina, we'll find out what really happened later.",
+    "speaker": null
+  },
+  {
+    "start": 121.519,
+    "end": 126.959,
+    "text": "OK, Georgina, we’ll find out what really happened later. Now, Skylab was planned to be the fourth – and final - crewed flight to orbit the Earth.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 126.959,
+    "end": 131.28,
+    "text": "For scientists, it was the last chance to test out their theories in space",
+    "speaker": null
+  },
+  {
+    "start": 131.28,
+    "end": 135.68,
+    "text": "and the Skylab crew were asked to study everything about space travel",
+    "speaker": null
+  },
+  {
+    "start": 135.68,
+    "end": 140.159,
+    "text": "from its effects on the human body to how spiders make webs.",
+    "speaker": null
+  },
+  {
+    "start": 140.24,
+    "end": 143.84,
+    "text": "Here's one of the Skylab astronauts Ed Gibson telling Lucy Burns,",
+    "speaker": null
+  },
+  {
+    "start": 143.84,
+    "end": 147.28,
+    "text": "presenter of BBC World Service Program Witness History,",
+    "speaker": null
+  },
+  {
+    "start": 147.28,
+    "end": 150.319,
+    "text": "how they communicated with ground control.",
+    "speaker": null
+  },
+  {
+    "start": 150.319,
+    "end": 153.28,
+    "text": "We got our instructions over a teleprinter.",
+    "speaker": null
+  },
+  {
+    "start": 153.28,
+    "end": 157.439,
+    "text": "One morning we had about 60 feet of teleprinter message",
+    "speaker": null
+  },
+  {
+    "start": 157.439,
+    "end": 162.24,
+    "text": "to cut up and divide up and understand before we even get to work.",
+    "speaker": null
+  },
+  {
+    "start": 162.24,
+    "end": 164.879,
+    "text": "All space missions run to a tight schedule,",
+    "speaker": null
+  },
+  {
+    "start": 164.879,
+    "end": 168,
+    "text": "all the way down to exercise times and meal breaks.",
+    "speaker": null
+  },
+  {
+    "start": 168.08,
+    "end": 171.919,
+    "text": "But the Skylab four astronauts felt their ground control team",
+    "speaker": null
+  },
+  {
+    "start": 171.919,
+    "end": 174.08,
+    "text": "was being particularly bossy.",
+    "speaker": null
+  },
+  {
+    "start": 174.08,
+    "end": 176.4,
+    "text": "And I don't know if they you've ever had that we're",
+    "speaker": null
+  },
+  {
+    "start": 176.4,
+    "end": 179.759,
+    "text": "through something under the conditions of micro-management.",
+    "speaker": null
+  },
+  {
+    "start": 179.759,
+    "end": 183.439,
+    "text": "It's bad enough for an hour, but you'll try 24 hours a day.",
+    "speaker": null
+  },
+  {
+    "start": 183.439,
+    "end": 188.08,
+    "text": "And we were just now constructed that way where I'm not getting things done",
+    "speaker": null
+  },
+  {
+    "start": 188.08,
+    "end": 191.199,
+    "text": "the way we should because we couldn't use our own judgment.",
+    "speaker": null
+  },
+  {
+    "start": 191.199,
+    "end": 194.639,
+    "text": "With so many experiments to carry out in a limited time in space,",
+    "speaker": null
+  },
+  {
+    "start": 194.639,
+    "end": 199.199,
+    "text": "With so many experiments to carry out and a limited time in space, the Skylab crew had a tight schedule - a small amount of time to finish a job.",
+    "speaker": "tight schedule"
+  },
+  {
+    "start": 199.199,
+    "end": 203.199,
+    "text": "Bosses at ground control sent radio messages every morning,",
+    "speaker": null
+  },
+  {
+    "start": 203.199,
+    "end": 206.239,
+    "text": "detailing exactly their duties for that day.",
+    "speaker": null
+  },
+  {
+    "start": 206.239,
+    "end": 208.479,
+    "text": "They sound like real micro-managers, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 209.279,
+    "end": 213.519,
+    "text": "Absolutely! Or in other words, bossy - always telling people what to do!",
+    "speaker": "bossy"
+  },
+  {
+    "start": 213.519,
+    "end": 218.639,
+    "text": "Astronaut Ed Gibson wanted to use his professional judgment to complete the work,",
+    "speaker": null
+  },
+  {
+    "start": 218.639,
+    "end": 222.719,
+    "text": "not be bossed around by ground control 24 hours a day.",
+    "speaker": null
+  },
+  {
+    "start": 222.96,
+    "end": 226,
+    "text": "Expression meaning all day and night.",
+    "speaker": null
+  },
+  {
+    "start": 226,
+    "end": 229.919,
+    "text": "When one of the astronauts got sick, it was decided that they would take turns talking to ground control.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 229.919,
+    "end": 231.36,
+    "text": "talking to ground control.",
+    "speaker": null
+  },
+  {
+    "start": 231.36,
+    "end": 235.12,
+    "text": "But one day, all three of them missed the daily radio meeting and some Nasa bosses thought they’d gone on strike!",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 235.12,
+    "end": 238.319,
+    "text": "and some NASA bosses thought they'd gone on strike.",
+    "speaker": null
+  },
+  {
+    "start": 238.319,
+    "end": 241.919,
+    "text": "In the crisis talks that followed, both crew and ground control",
+    "speaker": null
+  },
+  {
+    "start": 241.919,
+    "end": 244.8,
+    "text": "agreed better ways of working and communicating,",
+    "speaker": null
+  },
+  {
+    "start": 244.8,
+    "end": 246.639,
+    "text": "and less micro-management.",
+    "speaker": null
+  },
+  {
+    "start": 246.639,
+    "end": 249.759,
+    "text": "But the newspapers had already got hold of the story.",
+    "speaker": null
+  },
+  {
+    "start": 249.84,
+    "end": 254.959,
+    "text": "But the newspapers had already got hold of the story, and to this day the incident is misremembered as the ‘strike’ in space.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 254.959,
+    "end": 259.12,
+    "text": "Here’s Ed Gibson again, speaking to BBC World Service’s, Witness History, on what he learned from the experience:",
+    "speaker": "Neil"
+  },
+  {
+    "start": 259.12,
+    "end": 261.039,
+    "text": "on what he learned from the experience.",
+    "speaker": null
+  },
+  {
+    "start": 262.24,
+    "end": 265.039,
+    "text": "We all conclude that we all learn something from him.",
+    "speaker": null
+  },
+  {
+    "start": 265.039,
+    "end": 270.639,
+    "text": "Micro-management does not work, except when you're in a situation that demands it,",
+    "speaker": null
+  },
+  {
+    "start": 270.639,
+    "end": 272.24,
+    "text": "like a lift off or are we entry.",
+    "speaker": null
+  },
+  {
+    "start": 272.959,
+    "end": 277.599,
+    "text": "And, fortunately, I think that's been passed on to the space station people,",
+    "speaker": null
+  },
+  {
+    "start": 278.32,
+    "end": 280.64,
+    "text": "and they've learned that that's the way to go.",
+    "speaker": null
+  },
+  {
+    "start": 281.84,
+    "end": 287.12,
+    "text": "In the end Nasa agreed that trusting people to do their jobs was the way to go – the best method for doing a particular thing.",
+    "speaker": "the way to go"
+  },
+  {
+    "start": 287.12,
+    "end": 289.76,
+    "text": "the best method for doing a particular thing.",
+    "speaker": null
+  },
+  {
+    "start": 289.76,
+    "end": 292.96,
+    "text": "I told you, Georgina, no one likes being bossed around.",
+    "speaker": null
+  },
+  {
+    "start": 292.96,
+    "end": 295.439,
+    "text": "Including the Skylab astronauts.",
+    "speaker": null
+  },
+  {
+    "start": 295.439,
+    "end": 299.12,
+    "text": "But was my outsour correct about how they protested?",
+    "speaker": null
+  },
+  {
+    "start": 299.12,
+    "end": 304.72,
+    "text": "Ah yes, in my quiz question, I asked how the Skylab astronauts protested to their bosses. What did you say?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 304.72,
+    "end": 305.84,
+    "text": "What did you say?",
+    "speaker": null
+  },
+  {
+    "start": 305.839,
+    "end": 309.759,
+    "text": "I thought the astronauts, a) pretended the radio had broken.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 309.759,
+    "end": 316.319,
+    "text": "Ah, good guess, Georgina, but actually the answer was, B, they stopped shaving and grew bids,",
+    "speaker": null
+  },
+  {
+    "start": 316.319,
+    "end": 318.56,
+    "text": "unless that was just another experiment.",
+    "speaker": null
+  },
+  {
+    "start": 318.56,
+    "end": 322.159,
+    "text": "Let’s recap the vocabulary, starting with micromanage – control everything, down to the smallest detail.",
+    "speaker": "micromanage"
+  },
+  {
+    "start": 322.159,
+    "end": 325.12,
+    "text": "control everything down to the smallest detail.",
+    "speaker": null
+  },
+  {
+    "start": 325.12,
+    "end": 328,
+    "text": "If you’re bossy, you’re always telling people what to do.",
+    "speaker": "bossy"
+  },
+  {
+    "start": 328,
+    "end": 332.559,
+    "text": "But be careful, because your workers might go on strike – refuse to work.",
+    "speaker": "go on strike"
+  },
+  {
+    "start": 332.639,
+    "end": 337.839,
+    "text": "The Skylab astronauts had a tight schedule – a small amount of time to complete their jobs. They felt their bosses were watching them twenty-four hours a day, or all the time.",
+    "speaker": "tight scheduletwenty-four hours a day"
+  },
+  {
+    "start": 337.839,
+    "end": 342.079,
+    "text": "They felt their bosses were watching them 24 hours a day, or all the time.",
+    "speaker": null
+  },
+  {
+    "start": 342.079,
+    "end": 345.04,
+    "text": "But in the end, trusting people is the way to go – the best method of doing something.",
+    "speaker": "the way to go"
+  },
+  {
+    "start": 345.04,
+    "end": 347.28,
+    "text": "the best method of doing something.",
+    "speaker": null
+  },
+  {
+    "start": 347.28,
+    "end": 352.319,
+    "text": "That’s all for now, but watch this space for more trending topics and useful vocabulary, here at BBC 6 Minute English.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 352.319,
+    "end": 354.319,
+    "text": "at BBC 6 Minute English.",
+    "speaker": null
+  },
+  {
+    "start": 354.319,
+    "end": 359.92,
+    "text": "And if you like topical discussions and want to learn how to use the vocabulary found in headlines,",
+    "speaker": null
+  },
+  {
+    "start": 359.92,
+    "end": 362.56,
+    "text": "why not try out our news review podcast?",
+    "speaker": null
+  },
+  {
+    "start": 362.56,
+    "end": 366.56,
+    "text": "Don't forget, you can also download the app for free from the app store",
+    "speaker": null
+  },
+  {
+    "start": 366.56,
+    "end": 370.319,
+    "text": "and remember to check us out on Facebook, Twitter and Instagram.",
+    "speaker": null
+  },
+  {
+    "start": 370.319,
+    "end": 371.12,
+    "text": "Over and out!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 371.12,
+    "end": 371.759,
+    "text": "Bye!",
+    "speaker": "Georgina"
+  }
+]

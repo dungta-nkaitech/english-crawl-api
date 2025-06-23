@@ -1,0 +1,656 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.279,
+    "text": "6 Minute English.",
+    "speaker": null
+  },
+  {
+    "start": 8.279,
+    "end": 10.88,
+    "text": "From BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 13.519,
+    "end": 16.519,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I'm Sam…",
+    "speaker": "Sam"
+  },
+  {
+    "start": 16.519,
+    "end": 17.359,
+    "text": "I'm Sam.",
+    "speaker": null
+  },
+  {
+    "start": 17.359,
+    "end": 18.4,
+    "text": "And I'm Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 18.4,
+    "end": 21.679,
+    "text": "In this programme, we're discussing low emission zones",
+    "speaker": null
+  },
+  {
+    "start": 21.679,
+    "end": 25.08,
+    "text": "In this programme, we’re discussing low emission zones and explaining some useful items of vocabulary along the way.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 25.08,
+    "end": 26.32,
+    "text": "Well, that's good, Sam.",
+    "speaker": null
+  },
+  {
+    "start": 26.32,
+    "end": 29.039,
+    "text": "Well, that’s good, Sam. But what exactly is a low emission zone?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 29.039,
+    "end": 34.119,
+    "text": "Well, the noun emission is an amount of, usually, gas,",
+    "speaker": null
+  },
+  {
+    "start": 34.119,
+    "end": 37.079,
+    "text": "that is sent out into the air and harms the environment.",
+    "speaker": null
+  },
+  {
+    "start": 37.079,
+    "end": 38.32,
+    "text": "It's pollution.",
+    "speaker": null
+  },
+  {
+    "start": 38.32,
+    "end": 41.759,
+    "text": "And a low emission zone is an area of a city",
+    "speaker": null
+  },
+  {
+    "start": 41.759,
+    "end": 43.92,
+    "text": "where the amount of pollution is controlled.",
+    "speaker": null
+  },
+  {
+    "start": 43.92,
+    "end": 46.799,
+    "text": "Of course, and cities like London have them.",
+    "speaker": null
+  },
+  {
+    "start": 46.799,
+    "end": 49.399,
+    "text": "Most vehicles, including cars and vans,",
+    "speaker": null
+  },
+  {
+    "start": 49.399,
+    "end": 52,
+    "text": "need to meet certain emissions standards.",
+    "speaker": null
+  },
+  {
+    "start": 52,
+    "end": 55.84,
+    "text": "All their drivers must pay a daily charge to drive within the zone,",
+    "speaker": null
+  },
+  {
+    "start": 55.84,
+    "end": 58,
+    "text": "or they might even be banned altogether.",
+    "speaker": null
+  },
+  {
+    "start": 58.039,
+    "end": 59,
+    "text": "Exactly.",
+    "speaker": null
+  },
+  {
+    "start": 59,
+    "end": 62.079,
+    "text": "It's all about making the air we breathe cleaner.",
+    "speaker": null
+  },
+  {
+    "start": 62.079,
+    "end": 65.12,
+    "text": "And my question today is about one UK city,",
+    "speaker": null
+  },
+  {
+    "start": 65.12,
+    "end": 70.599,
+    "text": "which recently announced it wants to be the country's first net zero city,",
+    "speaker": null
+  },
+  {
+    "start": 70.599,
+    "end": 74.439,
+    "text": "placing the greenhouse gas emissions at a neutral level.",
+    "speaker": null
+  },
+  {
+    "start": 74.439,
+    "end": 76.079,
+    "text": "But which one is it?",
+    "speaker": null
+  },
+  {
+    "start": 76.079,
+    "end": 82.879,
+    "text": "Is it A, Glasgow, B, Manchester, or C, Cardiff?",
+    "speaker": null
+  },
+  {
+    "start": 82.879,
+    "end": 86.64,
+    "text": "Yes, I've heard about this, and I'm sure it's A, Glasgow.",
+    "speaker": null
+  },
+  {
+    "start": 86.68,
+    "end": 89.799,
+    "text": "OK, I'll let you know if that was correct at the end of the programme.",
+    "speaker": null
+  },
+  {
+    "start": 89.799,
+    "end": 94.68,
+    "text": "Now, Neil mentioned that London already has an ultra low emission zone.",
+    "speaker": null
+  },
+  {
+    "start": 94.68,
+    "end": 99.68,
+    "text": "But this year, other UK cities, including Bath, Leeds, and Birmingham,",
+    "speaker": null
+  },
+  {
+    "start": 99.68,
+    "end": 102.439,
+    "text": "are also bringing in clean air zones.",
+    "speaker": null
+  },
+  {
+    "start": 102.439,
+    "end": 106.96,
+    "text": "And around the world, many other cities like Beijing, Paris, and Madrid",
+    "speaker": null
+  },
+  {
+    "start": 106.96,
+    "end": 108.319,
+    "text": "have these zones.",
+    "speaker": null
+  },
+  {
+    "start": 108.319,
+    "end": 112.079,
+    "text": "Although there are many types of emissions, such as from factories,",
+    "speaker": null
+  },
+  {
+    "start": 112.079,
+    "end": 116.079,
+    "text": "these zones predominantly target exhaust fumes from vehicles,",
+    "speaker": null
+  },
+  {
+    "start": 116.079,
+    "end": 119.519,
+    "text": "poisonous gases called nitrogen dioxide.",
+    "speaker": null
+  },
+  {
+    "start": 119.519,
+    "end": 122.679,
+    "text": "Let's hear from an expert on this, Alistair Lewis,",
+    "speaker": null
+  },
+  {
+    "start": 122.679,
+    "end": 127.28,
+    "text": "who is a professor of atmospheric chemistry at the University of York.",
+    "speaker": null
+  },
+  {
+    "start": 127.28,
+    "end": 130.879,
+    "text": "He spoke to BBC Radio 4's Inside Science programme",
+    "speaker": null
+  },
+  {
+    "start": 130.879,
+    "end": 135.24,
+    "text": "and explained why we should be trying to reduce these pollutants,",
+    "speaker": null
+  },
+  {
+    "start": 135.24,
+    "end": 138.759,
+    "text": "a word for the substances that cause pollution.",
+    "speaker": null
+  },
+  {
+    "start": 138.759,
+    "end": 141,
+    "text": "Most of the evidence we have now on air pollution",
+    "speaker": null
+  },
+  {
+    "start": 141,
+    "end": 145.599,
+    "text": "is that we continue to see health benefits by reducing pollution",
+    "speaker": null
+  },
+  {
+    "start": 145.599,
+    "end": 148.479,
+    "text": "even when you're below the target value.",
+    "speaker": null
+  },
+  {
+    "start": 148.479,
+    "end": 151.599,
+    "text": "So just because a city meets a particular value,",
+    "speaker": null
+  },
+  {
+    "start": 151.599,
+    "end": 154.879,
+    "text": "there is still an incentive to continue to improve air quality",
+    "speaker": null
+  },
+  {
+    "start": 154.879,
+    "end": 158.359,
+    "text": "because the health benefits continue to build up as you do that.",
+    "speaker": null
+  },
+  {
+    "start": 158.359,
+    "end": 161.199,
+    "text": "So targets are very, very good at focusing the mind,",
+    "speaker": null
+  },
+  {
+    "start": 161.199,
+    "end": 163.599,
+    "text": "but they shouldn't be the only thing that we're considering.",
+    "speaker": null
+  },
+  {
+    "start": 163.599,
+    "end": 166.079,
+    "text": "Alistair Lewis mentions targets.",
+    "speaker": null
+  },
+  {
+    "start": 166.079,
+    "end": 169.68,
+    "text": "These are official levels of something that need to be achieved.",
+    "speaker": null
+  },
+  {
+    "start": 169.68,
+    "end": 174.599,
+    "text": "They give us something to aim for, in this case, reducing air pollution.",
+    "speaker": null
+  },
+  {
+    "start": 174.599,
+    "end": 177.879,
+    "text": "He uses the phrase, focusing the mind.",
+    "speaker": null
+  },
+  {
+    "start": 177.879,
+    "end": 181.12,
+    "text": "He uses the phrase ‘focusing the mind’ – that means to concentrate on one idea or thought.",
+    "speaker": "focusing the mind"
+  },
+  {
+    "start": 181.12,
+    "end": 184.439,
+    "text": "But while setting a target to cut air pollution is good,",
+    "speaker": null
+  },
+  {
+    "start": 184.439,
+    "end": 185.959,
+    "text": "it has health benefits.",
+    "speaker": null
+  },
+  {
+    "start": 185.959,
+    "end": 188.759,
+    "text": "We shouldn't just focus on meeting the target.",
+    "speaker": null
+  },
+  {
+    "start": 188.759,
+    "end": 192.24,
+    "text": "Even if the target is met, we shouldn't stop trying to improve.",
+    "speaker": null
+  },
+  {
+    "start": 192.24,
+    "end": 196.079,
+    "text": "The incentive should be that we are improving people's health.",
+    "speaker": null
+  },
+  {
+    "start": 196.079,
+    "end": 200.879,
+    "text": "And an incentive is something that encourages someone to do something.",
+    "speaker": null
+  },
+  {
+    "start": 200.879,
+    "end": 204.159,
+    "text": "So I think it's accepted that creating lower mission zones",
+    "speaker": null
+  },
+  {
+    "start": 204.159,
+    "end": 209.12,
+    "text": "is an incentive because it encourages people to either not drive into cities",
+    "speaker": null
+  },
+  {
+    "start": 209.12,
+    "end": 212.199,
+    "text": "or to at least drive low-polluting vehicles.",
+    "speaker": null
+  },
+  {
+    "start": 212.199,
+    "end": 217,
+    "text": "And, of course, changing to electric powered cars is one way to do this.",
+    "speaker": null
+  },
+  {
+    "start": 217,
+    "end": 220.599,
+    "text": "There's more of an incentive to do this now, at least in the UK,",
+    "speaker": null
+  },
+  {
+    "start": 220.599,
+    "end": 223.879,
+    "text": "because the government has said new diesel and petrol cars and vans",
+    "speaker": null
+  },
+  {
+    "start": 223.879,
+    "end": 226.879,
+    "text": "will be banned from 2040.",
+    "speaker": null
+  },
+  {
+    "start": 226.879,
+    "end": 229.96,
+    "text": "But pollution from vehicles is just part of the problem, as Alastair Lewis points out…",
+    "speaker": "Sam"
+  },
+  {
+    "start": 229.96,
+    "end": 232,
+    "text": "as Alistair Lewis points out.",
+    "speaker": null
+  },
+  {
+    "start": 232.039,
+    "end": 236.96,
+    "text": "One has to accept that air pollution is an enormously complex problem",
+    "speaker": null
+  },
+  {
+    "start": 236.96,
+    "end": 241.199,
+    "text": "with a very, very large number of contributing sources.",
+    "speaker": null
+  },
+  {
+    "start": 241.199,
+    "end": 247.039,
+    "text": "And there will never be any one single action that will cure the problem for us.",
+    "speaker": null
+  },
+  {
+    "start": 247.039,
+    "end": 250.8,
+    "text": "And so low-emission zones are one way to reduce concentrations.",
+    "speaker": null
+  },
+  {
+    "start": 250.8,
+    "end": 254.039,
+    "text": "But they are not in isolation going to be the solution.",
+    "speaker": null
+  },
+  {
+    "start": 254.039,
+    "end": 257.36,
+    "text": "So Alistair points out that air pollution is a complex problem.",
+    "speaker": null
+  },
+  {
+    "start": 257.36,
+    "end": 260.519,
+    "text": "It's complicated, difficult, and involves many parts.",
+    "speaker": null
+  },
+  {
+    "start": 260.56,
+    "end": 265,
+    "text": "Yes, there are many sources, things that create these emissions.",
+    "speaker": null
+  },
+  {
+    "start": 265,
+    "end": 270.359,
+    "text": "So it's not possible to solve or cure the problem by doing one thing.",
+    "speaker": null
+  },
+  {
+    "start": 270.359,
+    "end": 274.56,
+    "text": "Low-emission zones are only one part of the solution to the problem.",
+    "speaker": null
+  },
+  {
+    "start": 274.56,
+    "end": 277.199,
+    "text": "He said it was one way to reduce concentrations.",
+    "speaker": null
+  },
+  {
+    "start": 277.199,
+    "end": 281.24,
+    "text": "He means amounts of substances, pollutants, found in something.",
+    "speaker": null
+  },
+  {
+    "start": 281.24,
+    "end": 282.839,
+    "text": "Which here is the air.",
+    "speaker": null
+  },
+  {
+    "start": 282.839,
+    "end": 285.719,
+    "text": "Well, early in the year, you had to concentrate your mind",
+    "speaker": null
+  },
+  {
+    "start": 285.719,
+    "end": 288.319,
+    "text": "and answer a question about emissions.",
+    "speaker": null
+  },
+  {
+    "start": 288.319,
+    "end": 294.719,
+    "text": "I asked which UK city recently announced it wants to be the country's first net zero city,",
+    "speaker": null
+  },
+  {
+    "start": 294.719,
+    "end": 297.56,
+    "text": "placing their greenhouse emissions at a neutral level.",
+    "speaker": null
+  },
+  {
+    "start": 297.56,
+    "end": 303.12,
+    "text": "Was it A, Glasgow, B, Manchester, or C, Cardiff, and Neil, what did you say?",
+    "speaker": null
+  },
+  {
+    "start": 303.12,
+    "end": 304.8,
+    "text": "I said it’s Glasgow.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 304.8,
+    "end": 307.24,
+    "text": "And it is Glasgow, well done, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 307.24,
+    "end": 310.639,
+    "text": "It wants to become the UK's first net zero city.",
+    "speaker": null
+  },
+  {
+    "start": 310.639,
+    "end": 315.56,
+    "text": "And later this year, it is hosting a major United Nations climate change summit.",
+    "speaker": null
+  },
+  {
+    "start": 315.6,
+    "end": 320.8,
+    "text": "OK, Sam, I think we need a recap of the vocabulary we’ve discussed, starting with emissions…",
+    "speaker": "emissions"
+  },
+  {
+    "start": 320.8,
+    "end": 327.24,
+    "text": "Emissions are amounts of, usually, gas that is sent out into the air from things like cars. They harm the environment. And pollutants are the actual substances that cause pollution…",
+    "speaker": "Emissionspollutants"
+  },
+  {
+    "start": 327.24,
+    "end": 328.56,
+    "text": "They hunt the environment.",
+    "speaker": null
+  },
+  {
+    "start": 328.56,
+    "end": 332.24,
+    "text": "And pollutants are the actual substances that cause pollution.",
+    "speaker": null
+  },
+  {
+    "start": 332.24,
+    "end": 336.639,
+    "text": "To focus the mind means to concentrate on one idea or thought.",
+    "speaker": "To focus the mind"
+  },
+  {
+    "start": 336.639,
+    "end": 341.84,
+    "text": "And we mentioned an incentive, which is something that encourages someone to do something.",
+    "speaker": "incentive"
+  },
+  {
+    "start": 341.839,
+    "end": 346.879,
+    "text": "Complex describes something that's complicated, difficult, and involves many parts.",
+    "speaker": null
+  },
+  {
+    "start": 346.879,
+    "end": 351.319,
+    "text": "And when talking about pollution, we sometimes talk about concentrations. These are amounts of substances, or pollutants, within something.",
+    "speaker": "concentrations."
+  },
+  {
+    "start": 351.319,
+    "end": 355.599,
+    "text": "These are amounts of substances or pollutants within something.",
+    "speaker": null
+  },
+  {
+    "start": 355.599,
+    "end": 361.599,
+    "text": "So, in a polluted city, we might find high concentrations of nitrogen dioxide because of all the traffic – it’s not great for our health, Sam.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 361.599,
+    "end": 363.199,
+    "text": "It's not great for our health, Sam.",
+    "speaker": null
+  },
+  {
+    "start": 363.199,
+    "end": 366.639,
+    "text": "Indeed, Neil. That's why we need lower emissions zones.",
+    "speaker": null
+  },
+  {
+    "start": 366.639,
+    "end": 369.919,
+    "text": "And that brings us to the end of this six-minute English programme.",
+    "speaker": null
+  },
+  {
+    "start": 369.919,
+    "end": 371.519,
+    "text": "See you soon. Bye.",
+    "speaker": null
+  },
+  {
+    "start": 372.519,
+    "end": 374.519,
+    "text": "Six-minute English.",
+    "speaker": null
+  },
+  {
+    "start": 374.519,
+    "end": 377.519,
+    "text": "From BBC Learning English.",
+    "speaker": null
+  }
+]

@@ -1,0 +1,518 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 11.759,
+    "text": "6Nate English from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 11.759,
+    "end": 14.72,
+    "text": "Hello and welcome to 6 Minute English. I'm Alice…",
+    "speaker": "Alice"
+  },
+  {
+    "start": 14.72,
+    "end": 17.679,
+    "text": "And I'm Neil. And I feel terrible!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 17.679,
+    "end": 20.8,
+    "text": "You look terrible, Neil – if you don't mind me saying so!",
+    "speaker": "Alice"
+  },
+  {
+    "start": 22.32,
+    "end": 24.64,
+    "text": "It's because I had to get up really early this morning.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 24.64,
+    "end": 27.199,
+    "text": "Oh dear! What time did you have to get up?",
+    "speaker": "Alice"
+  },
+  {
+    "start": 27.199,
+    "end": 28.32,
+    "text": "8 o'clock.",
+    "speaker": null
+  },
+  {
+    "start": 28.32,
+    "end": 33.2,
+    "text": "Oh Neil, that isn't early. I get up at 6 every day.",
+    "speaker": null
+  },
+  {
+    "start": 33.2,
+    "end": 35.2,
+    "text": "It's so peaceful early in the morning.",
+    "speaker": null
+  },
+  {
+    "start": 35.2,
+    "end": 38.719,
+    "text": "Hmm. Well, some people are morning people and others… aren't!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 40.079,
+    "end": 41.12,
+    "text": "Oh dear.",
+    "speaker": null
+  },
+  {
+    "start": 42.079,
+    "end": 47.2,
+    "text": "Yes, well today we are talking about the biological reason for this.",
+    "speaker": null
+  },
+  {
+    "start": 47.2,
+    "end": 49.519,
+    "text": "circadian rhythms",
+    "speaker": "Neil"
+  },
+  {
+    "start": 50.159,
+    "end": 53.6,
+    "text": "They're produced by a so-called body clock in our brains that",
+    "speaker": null
+  },
+  {
+    "start": 53.6,
+    "end": 55.84,
+    "text": "regulates our body functions.",
+    "speaker": null
+  },
+  {
+    "start": 55.84,
+    "end": 58.399,
+    "text": "Our body temperature, sleepiness,",
+    "speaker": null
+  },
+  {
+    "start": 58.399,
+    "end": 61.84,
+    "text": "under-learness, hunger and hormone levels,",
+    "speaker": null
+  },
+  {
+    "start": 61.84,
+    "end": 65.519,
+    "text": "plants, animals and many microbes have circadian rhythms.",
+    "speaker": null
+  },
+  {
+    "start": 66.159,
+    "end": 68.159,
+    "text": "You know a lot about circadian rhythms.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 68.159,
+    "end": 71.04,
+    "text": "Hmm. And I'll ask you a question related to them.",
+    "speaker": null
+  },
+  {
+    "start": 71.68,
+    "end": 74,
+    "text": "What does the word circadian mean?",
+    "speaker": null
+  },
+  {
+    "start": 74.64,
+    "end": 80.56,
+    "text": "Is it A around a day, B every day or C twice a day?",
+    "speaker": null
+  },
+  {
+    "start": 81.439,
+    "end": 84,
+    "text": "Hmm. I'm going to say a) around a day.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 84.64,
+    "end": 88.879,
+    "text": "Well, we'll find out whether you got the answer right or not later on in the show. Now let's talk about circadian rhythms and our internal clock.",
+    "speaker": "Alice"
+  },
+  {
+    "start": 89.28,
+    "end": 93.439,
+    "text": "Now let's talk about circadian rhythms and our internal clock.",
+    "speaker": null
+  },
+  {
+    "start": 93.439,
+    "end": 98.159,
+    "text": "Why do our bodies need an internal clock to tell us where we are in the day? Isn't it obvious?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 98.159,
+    "end": 99.439,
+    "text": "Isn't it obvious?",
+    "speaker": null
+  },
+  {
+    "start": 99.439,
+    "end": 102.64,
+    "text": "No, it isn't. Take jet lag for example.",
+    "speaker": null
+  },
+  {
+    "start": 103.359,
+    "end": 108.8,
+    "text": "We rely on the predictable cycle of light or dark in a 24-hour period to synchronise",
+    "speaker": null
+  },
+  {
+    "start": 108.799,
+    "end": 111.599,
+    "text": "or adjust our body clocks to the environment.",
+    "speaker": null
+  },
+  {
+    "start": 112.239,
+    "end": 116.159,
+    "text": "And if we mess about with the light and dark cycle by flying into a new time zone,",
+    "speaker": null
+  },
+  {
+    "start": 116.159,
+    "end": 118,
+    "text": "it makes us feel really bad.",
+    "speaker": null
+  },
+  {
+    "start": 118,
+    "end": 123.2,
+    "text": "Good point. Jet lag is the disruption of our circadian rhythms caused by high speed travel",
+    "speaker": null
+  },
+  {
+    "start": 123.2,
+    "end": 127.519,
+    "text": "across different time zones, which can cause tiredness and sleep problems.",
+    "speaker": null
+  },
+  {
+    "start": 127.519,
+    "end": 133.28,
+    "text": "But Alice, if we rely on day turning tonight to adjust our body clocks, what happens to blind people?",
+    "speaker": null
+  },
+  {
+    "start": 133.28,
+    "end": 136,
+    "text": "Because I assume their body clocks can't do this.",
+    "speaker": null
+  },
+  {
+    "start": 136.08,
+    "end": 140.879,
+    "text": "Blind people who have some light perception are able to synchronise their circadian rhythms",
+    "speaker": null
+  },
+  {
+    "start": 140.879,
+    "end": 142.24,
+    "text": "to the light dark cycle.",
+    "speaker": null
+  },
+  {
+    "start": 142.96,
+    "end": 148.879,
+    "text": "But those who have no light perception at all, well, let's listen now to Deborah Schien,",
+    "speaker": null
+  },
+  {
+    "start": 148.879,
+    "end": 152.8,
+    "text": "professor of neuroendocrinology at the University of Surrey.",
+    "speaker": null
+  },
+  {
+    "start": 152.8,
+    "end": 154.319,
+    "text": "She can explain what happens.",
+    "speaker": null
+  },
+  {
+    "start": 156.56,
+    "end": 157.92,
+    "text": "Totally blind people.",
+    "speaker": null
+  },
+  {
+    "start": 159.12,
+    "end": 163.12,
+    "text": "They've lost that connection between the light dark cycle and the clock.",
+    "speaker": null
+  },
+  {
+    "start": 163.12,
+    "end": 168.48,
+    "text": "So there isn't anything wrong with the clock, but the clock ticks and oscillates",
+    "speaker": null
+  },
+  {
+    "start": 168.48,
+    "end": 170.879,
+    "text": "at its own endogenous period.",
+    "speaker": null
+  },
+  {
+    "start": 170.879,
+    "end": 174.8,
+    "text": "Just the same as if I were to put you in a dark cave.",
+    "speaker": null
+  },
+  {
+    "start": 174.8,
+    "end": 182.8,
+    "text": "Your biological internal clock would oscillate at your endogenous circadian period.",
+    "speaker": null
+  },
+  {
+    "start": 184.8,
+    "end": 188.879,
+    "text": "So if you're totally blind or able to see but living in a dark cave,",
+    "speaker": null
+  },
+  {
+    "start": 188.879,
+    "end": 192.8,
+    "text": "you have a ticking clock, but with no connection to the outside world.",
+    "speaker": null
+  },
+  {
+    "start": 193.12,
+    "end": 197.36,
+    "text": "The clock oscillates at its own endogenous or internal period.",
+    "speaker": null
+  },
+  {
+    "start": 197.36,
+    "end": 202.56,
+    "text": "Oscillate means to move back and forth in a regular rhythm – like the pendulum on a clock.",
+    "speaker": "Oscillate"
+  },
+  {
+    "start": 202.56,
+    "end": 206,
+    "text": "Do you think my endogenous clock ticks faster than yours, Alice?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 206,
+    "end": 208.56,
+    "text": "It isn't a competition meal.",
+    "speaker": null
+  },
+  {
+    "start": 208.56,
+    "end": 212.879,
+    "text": "And actually, mine probably ticks faster than yours since I'm a morning person.",
+    "speaker": null
+  },
+  {
+    "start": 213.599,
+    "end": 219.599,
+    "text": "Anyway, the normal range in humans is between 23.8 and 24.8 hours.",
+    "speaker": null
+  },
+  {
+    "start": 220.239,
+    "end": 223.28,
+    "text": "And this is also true for totally blind people.",
+    "speaker": null
+  },
+  {
+    "start": 223.28,
+    "end": 224.799,
+    "text": "But their clocks are free running.",
+    "speaker": null
+  },
+  {
+    "start": 224.799,
+    "end": 228.4,
+    "text": "They don't get cues from the outside environment telling them when to wake up,",
+    "speaker": null
+  },
+  {
+    "start": 228.4,
+    "end": 230.319,
+    "text": "when to eat, when to feel sleepy.",
+    "speaker": null
+  },
+  {
+    "start": 230.319,
+    "end": 233.599,
+    "text": "So that means they might feel sleepy at the wrong time of day,",
+    "speaker": null
+  },
+  {
+    "start": 233.599,
+    "end": 238.159,
+    "text": "for example, when they're at work, or alert in the middle of the night when they should be asleep.",
+    "speaker": null
+  },
+  {
+    "start": 239.039,
+    "end": 244,
+    "text": "It's worth talking about people who do shift work, which means work that takes place",
+    "speaker": null
+  },
+  {
+    "start": 244,
+    "end": 246.639,
+    "text": "outside the traditional 9-5 day.",
+    "speaker": null
+  },
+  {
+    "start": 246.719,
+    "end": 252.319,
+    "text": "Shift workers may suffer similar problems to blind people because they're trying to sleep against the clock.",
+    "speaker": null
+  },
+  {
+    "start": 252.319,
+    "end": 254.959,
+    "text": "They might sleep in the day and work at night, for example,",
+    "speaker": null
+  },
+  {
+    "start": 254.959,
+    "end": 257.519,
+    "text": "which goes against the light dark pattern.",
+    "speaker": null
+  },
+  {
+    "start": 257.519,
+    "end": 261.599,
+    "text": "There are some long-term health problems associated with shift work, too.",
+    "speaker": null
+  },
+  {
+    "start": 261.599,
+    "end": 264.56,
+    "text": "Certain cancers, heart disease and obesity.",
+    "speaker": null
+  },
+  {
+    "start": 264.56,
+    "end": 269.839,
+    "text": "So what can people do to help adapt their circadian rhythms to a night shift schedule?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 269.839,
+    "end": 272.719,
+    "text": "Well, let's hear what Professor Debra Schien has to say about it.",
+    "speaker": null
+  },
+  {
+    "start": 273.36,
+    "end": 281.04,
+    "text": "We do think that exercise and food caffeine may be able to modulate in some way,",
+    "speaker": null
+  },
+  {
+    "start": 281.04,
+    "end": 288.4,
+    "text": "so it has some influence on circadian timing, but not as strongly as the light dark cycle.",
+    "speaker": null
+  },
+  {
+    "start": 290,
+    "end": 294.08,
+    "text": "So the strongest influence over our circadian rhythm is the light dark cycle.",
+    "speaker": null
+  },
+  {
+    "start": 294.08,
+    "end": 297.2,
+    "text": "We can't alter night and day after all.",
+    "speaker": null
+  },
+  {
+    "start": 297.279,
+    "end": 303.199,
+    "text": "Debra Schien says that other cues such as food and exercise will modulate or adjust the body",
+    "speaker": null
+  },
+  {
+    "start": 303.199,
+    "end": 309.12,
+    "text": "clock. So eating three well-balanced meals at regular times each day can help your body clock",
+    "speaker": null
+  },
+  {
+    "start": 309.12,
+    "end": 314.319,
+    "text": "adapt to an unusual schedule. Taking naps or short sleeps just before you start a night shift",
+    "speaker": null
+  },
+  {
+    "start": 314.319,
+    "end": 319.759,
+    "text": "Taking naps – or short sleeps – just before you start a night shift can help you feel more alert. And keeping to the same sleep schedule every day will also help.",
+    "speaker": "naps"
+  },
+  {
+    "start": 319.759,
+    "end": 325.759,
+    "text": "And don't forget caffeine, my old friend. A cup of coffee works wonders for me in the morning.",
+    "speaker": null
+  },
+  {
+    "start": 326.56,
+    "end": 336.48,
+    "text": "And don't forget caffeine – my old friend! A cup of coffee works wonders for me in the morning. Now remember I asked: What does 'circadian' mean? Is it… a) around a day, b) every day or c) twice a day?",
+    "speaker": "Alice"
+  },
+  {
+    "start": 336.48,
+    "end": 344.24,
+    "text": "I said around a day. And you were right! Well done Neil! The term circadian comes from the Latin",
+    "speaker": null
+  },
+  {
+    "start": 344.24,
+    "end": 351.839,
+    "text": "circa meaning around or approximately and DM meaning day. Now let's hear the words we learned today.",
+    "speaker": null
+  },
+  {
+    "start": 352.56,
+    "end": 361.199,
+    "text": "They are circadian rhythms, synchronize, jet lag, oscillate, endogenous, shift work,",
+    "speaker": null
+  },
+  {
+    "start": 362.079,
+    "end": 369.12,
+    "text": "modulate, naps. That's the end of today's six minute English. Don't forget to join us again soon. Bye!",
+    "speaker": null
+  }
+]

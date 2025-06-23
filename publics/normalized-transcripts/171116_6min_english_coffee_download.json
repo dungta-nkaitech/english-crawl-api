@@ -1,0 +1,428 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.6,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.6,
+    "end": 8.24,
+    "text": "6 Minute English",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 10.4,
+    "text": "From BBC Learning English",
+    "speaker": null
+  },
+  {
+    "start": 13.359,
+    "end": 16.64,
+    "text": "Hello, I'm Catherine. Welcome to 6 Minute English,",
+    "speaker": null
+  },
+  {
+    "start": 16.64,
+    "end": 22.48,
+    "text": "where we engage in some lively debate and discuss six stimulating items of vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 22.48,
+    "end": 25.44,
+    "text": "And let's start. Here's your cup of coffee, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 25.44,
+    "end": 28.32,
+    "text": "Thanks! But what took you so long, Catherine?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 28.399,
+    "end": 32.24,
+    "text": "Oh, sorry, Rob. I bumped into someone I knew in the cafe and we stopped for a chat.",
+    "speaker": null
+  },
+  {
+    "start": 32.24,
+    "end": 37.84,
+    "text": "Okay, well, that fits well with today's show where we're talking about cafes or coffee houses.",
+    "speaker": null
+  },
+  {
+    "start": 38.159,
+    "end": 42.719,
+    "text": "Did you know, Catherine, that coffee houses were originally a meeting place for",
+    "speaker": null
+  },
+  {
+    "start": 42.719,
+    "end": 45.2,
+    "text": "lively debate and intellectual discussion?",
+    "speaker": null
+  },
+  {
+    "start": 45.2,
+    "end": 48.96,
+    "text": "Really? I did know that, Rob. And a debate, by the way,",
+    "speaker": null
+  },
+  {
+    "start": 48.96,
+    "end": 52,
+    "text": "means a discussion that a lot of people take part in.",
+    "speaker": null
+  },
+  {
+    "start": 52,
+    "end": 55.12,
+    "text": "So how long ago was this debating society?",
+    "speaker": null
+  },
+  {
+    "start": 55.599,
+    "end": 59.839,
+    "text": "Well, the first coffee house was set up in Oxford in 1650,",
+    "speaker": null
+  },
+  {
+    "start": 59.839,
+    "end": 64.159,
+    "text": "but they quickly became popular and soon they were all over London too.",
+    "speaker": null
+  },
+  {
+    "start": 64.159,
+    "end": 70.239,
+    "text": "You paid a penny to get in and this included access to newspapers and stimulating conversation.",
+    "speaker": null
+  },
+  {
+    "start": 70.239,
+    "end": 75.12,
+    "text": "If something is stimulating it encourages ideas and enthusiasm. I expect the coffee helped with that a bit did it?",
+    "speaker": "stimulating"
+  },
+  {
+    "start": 75.12,
+    "end": 77.359,
+    "text": "And I expect the coffee held with that a bit, did it?",
+    "speaker": null
+  },
+  {
+    "start": 77.359,
+    "end": 79.519,
+    "text": "It certainly helps me first thing in the morning.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 79.519,
+    "end": 81.92,
+    "text": "Which brings me on to today's question, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 81.92,
+    "end": 88.4,
+    "text": "How many cups of coffee do we consume in coffee shops or stores in the UK every year?",
+    "speaker": null
+  },
+  {
+    "start": 88.4,
+    "end": 92.48,
+    "text": "Consume, by the way, is another word for eat or drink?",
+    "speaker": null
+  },
+  {
+    "start": 92.48,
+    "end": 103.359,
+    "text": "So is the answer A, 2.3 million, B, 23 million, or C, 23 billion?",
+    "speaker": null
+  },
+  {
+    "start": 103.359,
+    "end": 106.159,
+    "text": "Well, I don't really know, but it's got to be a lot.",
+    "speaker": null
+  },
+  {
+    "start": 106.159,
+    "end": 108.64,
+    "text": "So I'm going to go for C, 23 billion.",
+    "speaker": null
+  },
+  {
+    "start": 108.879,
+    "end": 113.04,
+    "text": "That sounds like a lot of coffee, but I buy several cups a week and I expect you to do,",
+    "speaker": null
+  },
+  {
+    "start": 113.04,
+    "end": 117.68,
+    "text": "Catherine. I do indeed. But I have to say, while I was getting our coffees earlier,",
+    "speaker": null
+  },
+  {
+    "start": 117.68,
+    "end": 121.92,
+    "text": "there was nobody else in the cafe talking except me and my friend.",
+    "speaker": null
+  },
+  {
+    "start": 121.92,
+    "end": 125.68,
+    "text": "Everybody else was sitting on their own, tapping away on their laptops.",
+    "speaker": null
+  },
+  {
+    "start": 126.4,
+    "end": 132,
+    "text": "Let's listen now to Douglas Fraser, BBC Scotland's Business and Economy Editor,",
+    "speaker": null
+  },
+  {
+    "start": 132,
+    "end": 137.68,
+    "text": "describing the vibe or atmosphere in a typical 21st century cafe.",
+    "speaker": null
+  },
+  {
+    "start": 138.799,
+    "end": 143.439,
+    "text": "Ten or so in the morning, the cafe has five people at tables with their backs to the wall,",
+    "speaker": null
+  },
+  {
+    "start": 143.439,
+    "end": 147.039,
+    "text": "each staring into a screen, plugged in, years plugged.",
+    "speaker": null
+  },
+  {
+    "start": 147.599,
+    "end": 152.959,
+    "text": "The flow of bites through these coffee shops, free Wi-Fi, is transporting these customers",
+    "speaker": null
+  },
+  {
+    "start": 152.959,
+    "end": 156.719,
+    "text": "to diverse destinations far from the person beside them.",
+    "speaker": null
+  },
+  {
+    "start": 157.519,
+    "end": 162.799,
+    "text": "Collaborative working, research grant application, a potential blockbuster novel,",
+    "speaker": null
+  },
+  {
+    "start": 162.799,
+    "end": 167.039,
+    "text": "and inevitably someone distracted by kitten pictures on social media.",
+    "speaker": null
+  },
+  {
+    "start": 167.84,
+    "end": 173.439,
+    "text": "So the spirit of those 17th century coffee houses had disappeared then, no more lively debate",
+    "speaker": null
+  },
+  {
+    "start": 173.439,
+    "end": 180.56,
+    "text": "and intellectual discussion. It seems so, Rob. As Douglas Fraser says, many people sit alone,",
+    "speaker": null
+  },
+  {
+    "start": 180.56,
+    "end": 186.239,
+    "text": "It seems so Rob. As Douglas Fraser says, many people sit alone plugged into their laptops – and they're all doing different things – working, writing, messing about on social media.",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 186.239,
+    "end": 191.759,
+    "text": "about on social media. And I think the cafe owners should turn off the free Wi-Fi and force",
+    "speaker": null
+  },
+  {
+    "start": 192.239,
+    "end": 196.959,
+    "text": "these cafe squatters to move on. I don't think people should be allowed to sit all day",
+    "speaker": null
+  },
+  {
+    "start": 196.959,
+    "end": 202.799,
+    "text": "using the internet, hogging tables, and not talking to anybody, especially when some of them don't",
+    "speaker": null
+  },
+  {
+    "start": 202.799,
+    "end": 208.799,
+    "text": "even buy coffee. That's a bit extreme, Rob. Cafe owners need customers, and they encourage people",
+    "speaker": null
+  },
+  {
+    "start": 208.799,
+    "end": 215.759,
+    "text": "to stay by having comfy sofas and newspapers to read and the free Wi-Fi. A squatter, by the way,",
+    "speaker": null
+  },
+  {
+    "start": 215.759,
+    "end": 221.199,
+    "text": "is someone who lives in an empty building without paying rent. And if you hog something,",
+    "speaker": null
+  },
+  {
+    "start": 221.759,
+    "end": 227.039,
+    "text": "you use most or all of it in a selfish way. I suppose you're right, Catherine.",
+    "speaker": null
+  },
+  {
+    "start": 227.039,
+    "end": 232.56,
+    "text": "Now, how about telling us the answer to today's question then? Okay, so I asked how many cups of",
+    "speaker": null
+  },
+  {
+    "start": 232.56,
+    "end": 239.919,
+    "text": "coffee do we consume in cafes or stores in the UK every year? Is it a 2.3 million,",
+    "speaker": null
+  },
+  {
+    "start": 239.919,
+    "end": 246.879,
+    "text": "b 23 million, or c 23 billion? Well, I could sit in a cafe using their free Wi-Fi to research",
+    "speaker": null
+  },
+  {
+    "start": 246.879,
+    "end": 252.719,
+    "text": "the answer, but I had a guess, and I said 23 billion. Well, you didn't need that free Wi-Fi,",
+    "speaker": null
+  },
+  {
+    "start": 252.719,
+    "end": 261.68,
+    "text": "Rob, because you were absolutely right. 23 billion coffees per year works out on average at 45 cups",
+    "speaker": null
+  },
+  {
+    "start": 261.68,
+    "end": 267.439,
+    "text": "per adult in the UK. Okay, I think it's time we look back at the words we learned today. Our",
+    "speaker": null
+  },
+  {
+    "start": 267.439,
+    "end": 273.839,
+    "text": "first word is debate, a discussion that a lot of people take part in. For example, I took part in",
+    "speaker": null
+  },
+  {
+    "start": 273.839,
+    "end": 281.279,
+    "text": "a number of stimulating debates at school. Number two, if something is stimulating, it encourages",
+    "speaker": null
+  },
+  {
+    "start": 281.279,
+    "end": 287.599,
+    "text": "new ideas and enthusiasm. For example, it's hard to have a stimulating conversation with someone",
+    "speaker": null
+  },
+  {
+    "start": 287.599,
+    "end": 292.879,
+    "text": "who's looking at their phone all the time. That's very true. Let me just slide my phone in my pocket.",
+    "speaker": null
+  },
+  {
+    "start": 294.879,
+    "end": 302.159,
+    "text": "That's very true – let me just slide my phone into my pocket… there! Our next word is 'consume' – another word for eating or drinking – but it can also mean 'to use'. For example, 'My car consumes a lot of petrol.'",
+    "speaker": "Rob"
+  },
+  {
+    "start": 302.16,
+    "end": 310.16,
+    "text": "my car consumes a lot of petrol. Or how do I calculate my car's fuel consumption? So consumption",
+    "speaker": null
+  },
+  {
+    "start": 310.16,
+    "end": 318.64,
+    "text": "there is the noun. Number four is vibe, which means the mood or atmosphere in a place. For example,",
+    "speaker": null
+  },
+  {
+    "start": 318.64,
+    "end": 325.6,
+    "text": "Oxford is a city, but it has a small town vibe. Well, I'm getting bad vibes from our next word,",
+    "speaker": null
+  },
+  {
+    "start": 325.6,
+    "end": 331.36,
+    "text": "which is squatter. That's someone who lives in an empty building without paying rent. The building",
+    "speaker": null
+  },
+  {
+    "start": 331.36,
+    "end": 338,
+    "text": "is called a squat. So, for example, I lived in a squat for two years. Really? You squatted in a",
+    "speaker": null
+  },
+  {
+    "start": 338,
+    "end": 343.28,
+    "text": "squat, Rob. No, no, no, it was just an example. I am not a squatter. Oh, so you've never squatted.",
+    "speaker": null
+  },
+  {
+    "start": 343.28,
+    "end": 348.879,
+    "text": "No, I haven't. Now look, we're wasting time here. We need to move on to our final word hog. If you",
+    "speaker": null
+  },
+  {
+    "start": 348.879,
+    "end": 355.36,
+    "text": "hog something, you use all or most of it in a selfish way. For example, Rob, you've hogged the",
+    "speaker": null
+  },
+  {
+    "start": 355.36,
+    "end": 362,
+    "text": "only comfy chair. That's so selfish. I admit it, Catherine. I'm a chair hog. That's the noun.",
+    "speaker": null
+  },
+  {
+    "start": 362.56,
+    "end": 367.12,
+    "text": "Okay, well, before we head off for another cup of coffee, please remember to check out our",
+    "speaker": null
+  },
+  {
+    "start": 367.12,
+    "end": 370.08,
+    "text": "Facebook, Twitter and YouTube pages. Bye. Bye bye.",
+    "speaker": null
+  }
+]

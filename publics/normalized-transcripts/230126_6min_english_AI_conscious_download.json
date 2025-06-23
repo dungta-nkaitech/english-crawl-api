@@ -1,0 +1,398 @@
+[
+  {
+    "start": 0,
+    "end": 7,
+    "text": "This is a download from BBC Learning English. To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 7,
+    "end": 15,
+    "text": "6-Milk English from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 15,
+    "end": 19,
+    "text": "Hello, this is 6-Minute English from BBC Learning English. I'm Sam.",
+    "speaker": null
+  },
+  {
+    "start": 19,
+    "end": 20,
+    "text": "And I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 20,
+    "end": 27,
+    "text": "In the autumn of 2021, something strange happened at the Google headquarters in California's Silicon Valley.",
+    "speaker": null
+  },
+  {
+    "start": 27,
+    "end": 33,
+    "text": "A software engineer called Blake LeMoin was working on the Artificial Intelligence Project,",
+    "speaker": null
+  },
+  {
+    "start": 33,
+    "end": 38,
+    "text": "language models for dialogue applications, or lambda for short.",
+    "speaker": null
+  },
+  {
+    "start": 38,
+    "end": 44,
+    "text": "Lambda is a chatbot, a computer programme designed to have conversations with humans over the internet.",
+    "speaker": null
+  },
+  {
+    "start": 44,
+    "end": 50,
+    "text": "After months talking with Lambda on topics ranging from movies to the meaning of life,",
+    "speaker": null
+  },
+  {
+    "start": 50,
+    "end": 53,
+    "text": "Blake came to a surprising conclusion.",
+    "speaker": null
+  },
+  {
+    "start": 53,
+    "end": 59,
+    "text": "The chatbot was an intelligent person with wishes and rights that should be respected.",
+    "speaker": null
+  },
+  {
+    "start": 59,
+    "end": 65,
+    "text": "For Blake, Lambda was a Google employee, not a machine. He also called it his friend.",
+    "speaker": null
+  },
+  {
+    "start": 65,
+    "end": 72,
+    "text": "Google quickly reassigned Blake from the project, announcing that his ideas were not supported by the evidence. But what exactly was going on?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 72,
+    "end": 74,
+    "text": "But what exactly was going on?",
+    "speaker": null
+  },
+  {
+    "start": 74,
+    "end": 80,
+    "text": "In this programme, we'll be discussing whether artificial intelligence is capable of consciousness.",
+    "speaker": null
+  },
+  {
+    "start": 81,
+    "end": 86,
+    "text": "We'll hear from one expert who thinks AI is not as intelligent as we sometimes think,",
+    "speaker": null
+  },
+  {
+    "start": 86,
+    "end": 90,
+    "text": "and as usual, we'll be learning some new vocabulary as well.",
+    "speaker": null
+  },
+  {
+    "start": 90,
+    "end": 92,
+    "text": "But before that, I have a question for you, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 92,
+    "end": 98,
+    "text": "What happened to Blake LeMoin is strangely similar to the 2013 Hollywood movie, HER.",
+    "speaker": null
+  },
+  {
+    "start": 98,
+    "end": 104,
+    "text": "Starring Joaquin Phoenix as a lonely writer who talks with his computer voiced by Scarlett Johansson.",
+    "speaker": null
+  },
+  {
+    "start": 104,
+    "end": 107,
+    "text": "But what happens at the end of the movie?",
+    "speaker": null
+  },
+  {
+    "start": 107,
+    "end": 109,
+    "text": "a)    the computer comes to life?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 109,
+    "end": 112,
+    "text": "b)    the computer dreams about the writer?  or,",
+    "speaker": "Sam"
+  },
+  {
+    "start": 112,
+    "end": 115,
+    "text": "c)    the writer falls in love with the computer?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 115,
+    "end": 118,
+    "text": "… c) the writer falls in love with the computer.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 118,
+    "end": 122,
+    "text": "Ok, Neil, I'll reveal the answer at the end of the programme.",
+    "speaker": null
+  },
+  {
+    "start": 122,
+    "end": 134,
+    "text": "Although Hollywood is full of movies about robots coming to life, Emily Bender, a professor of linguistics and computing at the University of Washington, thinks AI isn't that smart.",
+    "speaker": null
+  },
+  {
+    "start": 134,
+    "end": 140,
+    "text": "She thinks the words we use to talk about technology, phrases like machine learning,",
+    "speaker": null
+  },
+  {
+    "start": 140,
+    "end": 144,
+    "text": "give a false impression about what computers can and can't do.",
+    "speaker": null
+  },
+  {
+    "start": 144,
+    "end": 153,
+    "text": "Here is Professor Bender discussing another misleading phrase, ‘speech recognition’, with BBC World Service programme, The Inquiry:",
+    "speaker": "Neil"
+  },
+  {
+    "start": 153,
+    "end": 161,
+    "text": "If you talk about automatic speech recognition, the term recognition suggests that there's something cognitive going on,",
+    "speaker": null
+  },
+  {
+    "start": 161,
+    "end": 167,
+    "text": "where I think a better term would be automatic transcription, that just describes the input output relation,",
+    "speaker": null
+  },
+  {
+    "start": 167,
+    "end": 174,
+    "text": "and not any theory or wishful thinking about what the computer is doing to be able to achieve that.",
+    "speaker": null
+  },
+  {
+    "start": 174,
+    "end": 181,
+    "text": "Using words like ‘recognition’ in relation to computers gives the idea that something cognitive is happening – something related to the mental processes of thinking, knowing, learning and understanding.",
+    "speaker": "cognitive"
+  },
+  {
+    "start": 181,
+    "end": 187,
+    "text": "something related to the mental processes of thinking, knowing, learning and understanding.",
+    "speaker": null
+  },
+  {
+    "start": 187,
+    "end": 192,
+    "text": "But thinking and knowing are human, not machine activities.",
+    "speaker": null
+  },
+  {
+    "start": 192,
+    "end": 201,
+    "text": "Professor Bender says that talking about them in connection with computers is wishful thinking, something which is unlikely to happen.",
+    "speaker": null
+  },
+  {
+    "start": 201,
+    "end": 208,
+    "text": "The problem with using words in this way is that it reinforces what Professor Bender calls technical bias,",
+    "speaker": null
+  },
+  {
+    "start": 208,
+    "end": 211,
+    "text": "the assumption that the computer is always right.",
+    "speaker": null
+  },
+  {
+    "start": 211,
+    "end": 219,
+    "text": "When we encounter language that sounds natural, but is coming from a computer, humans can't help but imagine a mind behind the language.",
+    "speaker": null
+  },
+  {
+    "start": 219,
+    "end": 221,
+    "text": "Even when there isn't one.",
+    "speaker": null
+  },
+  {
+    "start": 221,
+    "end": 226,
+    "text": "In other words, we anthropomorphize computers. We treat them as if they were human.",
+    "speaker": null
+  },
+  {
+    "start": 226,
+    "end": 234,
+    "text": "Here's Professor Bender again discussing this idea with Charmaine Cozier, the presenter of BBC World Services The Inquiry.",
+    "speaker": null
+  },
+  {
+    "start": 235,
+    "end": 241,
+    "text": "So ism means system, anthropo means human, and morph means shape.",
+    "speaker": null
+  },
+  {
+    "start": 241,
+    "end": 246,
+    "text": "And so this is a system that puts the shape of a human on something.",
+    "speaker": null
+  },
+  {
+    "start": 246,
+    "end": 248,
+    "text": "And in this case, the something is a computer.",
+    "speaker": null
+  },
+  {
+    "start": 248,
+    "end": 256,
+    "text": "We anthropomorphize animals all the time, but we also anthropomorphize action figures or dolls or companies.",
+    "speaker": null
+  },
+  {
+    "start": 256,
+    "end": 263,
+    "text": "When we talk about companies having intentions and so on, we very much are in the habit of seeing ourselves in the world around us.",
+    "speaker": null
+  },
+  {
+    "start": 264,
+    "end": 270,
+    "text": "And while we're busy seeing ourselves by signing human traits to things that are not, we risk being blindsided.",
+    "speaker": null
+  },
+  {
+    "start": 270,
+    "end": 277,
+    "text": "The more fluent that text is, the more different topics it can converse on, the more chances there are to get taken in.",
+    "speaker": "get taken in."
+  },
+  {
+    "start": 277,
+    "end": 289,
+    "text": "If we treat computers as if they could think we might get blindsided or unpleasantly surprised, artificial intelligence works by finding patterns in massive amounts of data.",
+    "speaker": null
+  },
+  {
+    "start": 290,
+    "end": 296,
+    "text": "So it can seem like we're talking with a human instead of a machine doing data analysis.",
+    "speaker": null
+  },
+  {
+    "start": 296,
+    "end": 304,
+    "text": "As a result, we get taken in, were tricked or deceived into thinking we're dealing with a human or with something intelligent.",
+    "speaker": null
+  },
+  {
+    "start": 304,
+    "end": 315,
+    "text": "Powerful AI can make machines appear conscious, but even tech giants like Google are years away from building computers that can dream or fall in love. Speaking of which, Sam, what was the answer to your question?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 315,
+    "end": 318,
+    "text": "Speaking of which, Sam, what was the answer to your question?",
+    "speaker": null
+  },
+  {
+    "start": 318,
+    "end": 321,
+    "text": "I asked what happened in the 2013 movie, Her.",
+    "speaker": null
+  },
+  {
+    "start": 321,
+    "end": 326,
+    "text": "I asked what happened in the 2013 movie, Her. Neil thought that the main character falls in love with his computer, which was the correct answer!",
+    "speaker": "Sam"
+  },
+  {
+    "start": 326,
+    "end": 334,
+    "text": "Ah, okay. Right, it's time to recap the vocabulary we've learned from this program about AI, including chatbots.",
+    "speaker": null
+  },
+  {
+    "start": 334,
+    "end": 338,
+    "text": "Computer programs designed to interact with humans over the internet.",
+    "speaker": null
+  },
+  {
+    "start": 338,
+    "end": 345,
+    "text": "The adjective cognitive describes anything connected with the mental processes of knowing, learning and understanding.",
+    "speaker": "cognitive"
+  },
+  {
+    "start": 346,
+    "end": 353,
+    "text": "Wishful thinking means thinking that something which is very unlikely to happen might happen one day in the future.",
+    "speaker": "Wishful thinking"
+  },
+  {
+    "start": 353,
+    "end": 358,
+    "text": "To anthropomorphize an object means to treat it as if it were human, even though it's not.",
+    "speaker": null
+  },
+  {
+    "start": 358,
+    "end": 362,
+    "text": "When you’re blindsided, you’re surprised in a negative way.",
+    "speaker": "blindsided"
+  },
+  {
+    "start": 362,
+    "end": 367,
+    "text": "And finally, to get taken in by someone means to be deceived or tricked by them.",
+    "speaker": null
+  },
+  {
+    "start": 367,
+    "end": 373,
+    "text": "And finally, to get taken in by someone means to be deceived or tricked by them. My computer tells me that our six minutes are up! Join us again soon, for now it’s goodbye from us.",
+    "speaker": "get taken in"
+  },
+  {
+    "start": 373,
+    "end": 377,
+    "text": "Six-minute English from the BBC.",
+    "speaker": null
+  }
+]

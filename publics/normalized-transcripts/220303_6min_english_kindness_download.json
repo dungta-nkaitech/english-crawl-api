@@ -1,0 +1,590 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 11.2,
+    "text": "6M8English from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 13.32,
+    "end": 17.44,
+    "text": "Hello, this is 6M8English from BBC Learning English. I'm Sam.",
+    "speaker": null
+  },
+  {
+    "start": 17.44,
+    "end": 18.719,
+    "text": "And I'm Neil.",
+    "speaker": null
+  },
+  {
+    "start": 18.719,
+    "end": 22.8,
+    "text": "In this program, we're discussing something we've heard a lot about during the pandemic.",
+    "speaker": null
+  },
+  {
+    "start": 22.8,
+    "end": 23.92,
+    "text": "Kindness.",
+    "speaker": null
+  },
+  {
+    "start": 23.92,
+    "end": 27.199,
+    "text": "When was the last time you did something kind for someone else, Sam?",
+    "speaker": null
+  },
+  {
+    "start": 28,
+    "end": 30.16,
+    "text": "Hmmm, I gave my mum flowers last week.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 30.16,
+    "end": 32.399,
+    "text": "Ah, that was kind. How did it feel?",
+    "speaker": null
+  },
+  {
+    "start": 32.399,
+    "end": 34.879,
+    "text": "It felt good knowing I’d made her happy.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 34.879,
+    "end": 39.359,
+    "text": "Right. It's something that psychologists are starting to prove scientifically,",
+    "speaker": null
+  },
+  {
+    "start": 39.359,
+    "end": 41.439,
+    "text": "but that most of us knew all along.",
+    "speaker": null
+  },
+  {
+    "start": 41.439,
+    "end": 46.079,
+    "text": "We feel just as good being kind to someone else as when someone is kind to us.",
+    "speaker": null
+  },
+  {
+    "start": 46.64,
+    "end": 50.719,
+    "text": "It reminds me of something called a random act of kindness. Have you heard of that, Neil?",
+    "speaker": "random act of kindness"
+  },
+  {
+    "start": 50.719,
+    "end": 52.159,
+    "text": "Have you heard of that, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 52.159,
+    "end": 55.28,
+    "text": "Yes, things like helping a stranger cross the road.",
+    "speaker": null
+  },
+  {
+    "start": 55.28,
+    "end": 60.8,
+    "text": "Yes, things like helping a stranger cross the road – small, everyday things people do to help others for no other reason than to make them happy.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 60.8,
+    "end": 66.48,
+    "text": "Yes, and one of the main benefits of being kind is that we feel the kindness in ourselves.",
+    "speaker": null
+  },
+  {
+    "start": 66.48,
+    "end": 69.439,
+    "text": "It's called the gift that keeps on giving.",
+    "speaker": null
+  },
+  {
+    "start": 69.439,
+    "end": 71.68,
+    "text": "And it reminds me of my quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 72.319,
+    "end": 80.96,
+    "text": "In 2021, a global survey conducted for the BBC's kindness test asked people to name their top five",
+    "speaker": null
+  },
+  {
+    "start": 81.199,
+    "end": 82.64,
+    "text": "random acts of kindness.",
+    "speaker": null
+  },
+  {
+    "start": 82.64,
+    "end": 86.079,
+    "text": "So which kind act came top?",
+    "speaker": null
+  },
+  {
+    "start": 86.079,
+    "end": 89.28,
+    "text": "a) giving someone a smile?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 89.28,
+    "end": 91.519,
+    "text": "b) giving someone a hug? or",
+    "speaker": "Sam"
+  },
+  {
+    "start": 91.519,
+    "end": 95.119,
+    "text": "c) giving someone your time to just listen?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 95.679,
+    "end": 100.239,
+    "text": "They all sound wonderful but what I’d really like is a nice big hug!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 100.239,
+    "end": 104,
+    "text": "Okay, Neil. We'll find out later if that's the right answer.",
+    "speaker": null
+  },
+  {
+    "start": 104,
+    "end": 107.439,
+    "text": "Now, that good feeling Sam got from giving her mum flowers",
+    "speaker": null
+  },
+  {
+    "start": 107.599,
+    "end": 110.799,
+    "text": "is something psychologists have become very interested in.",
+    "speaker": null
+  },
+  {
+    "start": 111.439,
+    "end": 114.879,
+    "text": "During the past decade, over a thousand academic papers were written,",
+    "speaker": null
+  },
+  {
+    "start": 114.879,
+    "end": 116.799,
+    "text": "including the term kindness.",
+    "speaker": null
+  },
+  {
+    "start": 116.799,
+    "end": 121.039,
+    "text": "The author of one such paper is Dr. Dan Campbell Mecheljohn,",
+    "speaker": null
+  },
+  {
+    "start": 121.039,
+    "end": 124.079,
+    "text": "senior psychologist at the University of Sussex",
+    "speaker": null
+  },
+  {
+    "start": 124.079,
+    "end": 127.28,
+    "text": "and researcher for the BBC's kindness test.",
+    "speaker": null
+  },
+  {
+    "start": 127.28,
+    "end": 133.12,
+    "text": "Here is Dr. Campbell Mecheljohn discussing his findings with BBC World Service Program Health Check.",
+    "speaker": null
+  },
+  {
+    "start": 134.08,
+    "end": 138.159,
+    "text": "What we know from the sciences and what can seem counterintuitive",
+    "speaker": null
+  },
+  {
+    "start": 138.159,
+    "end": 141.599,
+    "text": "because giving can cause something of ourselves,",
+    "speaker": null
+  },
+  {
+    "start": 141.599,
+    "end": 145.039,
+    "text": "is that we can experience a sense of reward when we are kind to others.",
+    "speaker": null
+  },
+  {
+    "start": 145.039,
+    "end": 148.56,
+    "text": "So like when we eat a yummy food or have a pleasant surprise,",
+    "speaker": null
+  },
+  {
+    "start": 148.56,
+    "end": 152.56,
+    "text": "the parts of our brain that help us remember these nice experiences",
+    "speaker": null
+  },
+  {
+    "start": 152.56,
+    "end": 155.36,
+    "text": "and motivated us to do them again and again,",
+    "speaker": null
+  },
+  {
+    "start": 155.36,
+    "end": 159.28,
+    "text": "they become active when we're kind and we call this feeling a warm glow.",
+    "speaker": null
+  },
+  {
+    "start": 160.24,
+    "end": 163.599,
+    "text": "Usually giving something away, money for example,",
+    "speaker": null
+  },
+  {
+    "start": 163.599,
+    "end": 165.92,
+    "text": "means we no longer possess it.",
+    "speaker": null
+  },
+  {
+    "start": 165.92,
+    "end": 168.08,
+    "text": "But kindness is different.",
+    "speaker": null
+  },
+  {
+    "start": 168.08,
+    "end": 171.599,
+    "text": "Both the giver of kindness and the receiver experience",
+    "speaker": null
+  },
+  {
+    "start": 171.599,
+    "end": 175.52,
+    "text": "with Dr. Campbell Mecheljohn calls a warm glow,",
+    "speaker": null
+  },
+  {
+    "start": 175.52,
+    "end": 177.68,
+    "text": "an inner feeling of happiness.",
+    "speaker": null
+  },
+  {
+    "start": 177.68,
+    "end": 179.439,
+    "text": "Nevertheless, for some people,",
+    "speaker": null
+  },
+  {
+    "start": 179.439,
+    "end": 182,
+    "text": "giving something away equals losing it.",
+    "speaker": null
+  },
+  {
+    "start": 182,
+    "end": 185.599,
+    "text": "So for them, being kind seems counterintuitive,",
+    "speaker": null
+  },
+  {
+    "start": 185.599,
+    "end": 188.24,
+    "text": "opposite to the way you expect things should happen.",
+    "speaker": null
+  },
+  {
+    "start": 188.96,
+    "end": 191.6,
+    "text": "But on a chemical level, the brain doesn't agree.",
+    "speaker": null
+  },
+  {
+    "start": 192.32,
+    "end": 197.12,
+    "text": "For our brain, being kind feels as good as any other pleasurable activity.",
+    "speaker": null
+  },
+  {
+    "start": 197.12,
+    "end": 199.36,
+    "text": "For example, eating something yummy,",
+    "speaker": null
+  },
+  {
+    "start": 199.36,
+    "end": 201.28,
+    "text": "something delicious, which tastes good.",
+    "speaker": null
+  },
+  {
+    "start": 201.92,
+    "end": 206.16,
+    "text": "Okay Sam, I can see that being kind is great in my personal life,",
+    "speaker": null
+  },
+  {
+    "start": 206.16,
+    "end": 209.76,
+    "text": "but what about the ruthless world of business or politics?",
+    "speaker": null
+  },
+  {
+    "start": 209.76,
+    "end": 212,
+    "text": "Surely there's no place for kindness there.",
+    "speaker": null
+  },
+  {
+    "start": 212.48,
+    "end": 214.32,
+    "text": "It's true that in many countries,",
+    "speaker": null
+  },
+  {
+    "start": 214.319,
+    "end": 219.359,
+    "text": "politics involves fierce, debasing criticism of anyone who disagrees with you.",
+    "speaker": null
+  },
+  {
+    "start": 219.359,
+    "end": 222.799,
+    "text": "But there are those who believe it doesn't have to be like that.",
+    "speaker": null
+  },
+  {
+    "start": 223.359,
+    "end": 225.12,
+    "text": "Jennifer Nagel for one.",
+    "speaker": null
+  },
+  {
+    "start": 225.12,
+    "end": 229.199,
+    "text": "She's a co-director of a movement called Compassion in Politics,",
+    "speaker": null
+  },
+  {
+    "start": 229.199,
+    "end": 233.199,
+    "text": "an author of the book We, written with the actor Julian Anderson.",
+    "speaker": null
+  },
+  {
+    "start": 233.199,
+    "end": 238.24,
+    "text": "Listen as Jennifer explains her vision to BBC World Service program, Health Check.",
+    "speaker": null
+  },
+  {
+    "start": 239.04,
+    "end": 243.28,
+    "text": "Compassionate leadership leads to inclusive,",
+    "speaker": null
+  },
+  {
+    "start": 243.28,
+    "end": 248.32,
+    "text": "cooperative outcomes which lead to fairer society's lower crime rates,",
+    "speaker": null
+  },
+  {
+    "start": 248.32,
+    "end": 250.719,
+    "text": "higher levels of health and well-being.",
+    "speaker": null
+  },
+  {
+    "start": 250.719,
+    "end": 253.76,
+    "text": "And yet we have this idea that compassion somehow doesn't belong,",
+    "speaker": null
+  },
+  {
+    "start": 253.76,
+    "end": 258.16,
+    "text": "that it can be dismissed in the same way as women have been dismissed as something fluffy",
+    "speaker": null
+  },
+  {
+    "start": 258.16,
+    "end": 261.28,
+    "text": "and a nice idea, but not really practical.",
+    "speaker": null
+  },
+  {
+    "start": 261.28,
+    "end": 266.639,
+    "text": "But in fact, the science behind compassion is that it actually takes courage to act with compassion.",
+    "speaker": null
+  },
+  {
+    "start": 267.599,
+    "end": 270.56,
+    "text": "Jennifer wants politics to be based on compassion,",
+    "speaker": null
+  },
+  {
+    "start": 270.56,
+    "end": 275.199,
+    "text": "Jennifer wants politics to be based on compassion – a strong feeling of empathy with the suffering of others and a wish to help them.",
+    "speaker": "compassion"
+  },
+  {
+    "start": 276,
+    "end": 281.12,
+    "text": "She says kindness is something dismissed as fluffy, soft and woolly,",
+    "speaker": null
+  },
+  {
+    "start": 281.12,
+    "end": 284.24,
+    "text": "something not considered serious or important,",
+    "speaker": null
+  },
+  {
+    "start": 284.24,
+    "end": 288.959,
+    "text": "but in fact being compassionate is not easy and takes courage.",
+    "speaker": null
+  },
+  {
+    "start": 289.68,
+    "end": 294.319,
+    "text": "Jennifer's is a strong voice for a kinder, more compassionate society,",
+    "speaker": null
+  },
+  {
+    "start": 294.319,
+    "end": 298.959,
+    "text": "Jennifer’s is a strong voice for a kinder, more compassionate society. But I bet even she could use a random act of kindness now and again… maybe a hug?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 298.959,
+    "end": 304.8,
+    "text": "Ah that’s right, Neil, a hug was one of the top five random acts of kindness I asked about in my quiz question, along with smiling and listening. But which came out on top?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 304.8,
+    "end": 310.8,
+    "text": "quiz question, along with smiling and listening, for which came out on top.",
+    "speaker": null
+  },
+  {
+    "start": 310.8,
+    "end": 314.399,
+    "text": "I said it was b) giving someone a hug. So, was I right?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 314.399,
+    "end": 317.36,
+    "text": "Giving a hug was the wrong answer, I'm afraid.",
+    "speaker": null
+  },
+  {
+    "start": 317.92,
+    "end": 322.879,
+    "text": "The number one random act of kindness was A, giving a smile,",
+    "speaker": null
+  },
+  {
+    "start": 322.879,
+    "end": 326.399,
+    "text": "but don't worry Neil, I have a big hug waiting for you here.",
+    "speaker": null
+  },
+  {
+    "start": 326.399,
+    "end": 328.56,
+    "text": "Ah, thanks Sam, that's so kind.",
+    "speaker": null
+  },
+  {
+    "start": 328.56,
+    "end": 333.68,
+    "text": "Okay, let's recap the vocabulary from this discussion about random acts of kindness.",
+    "speaker": null
+  },
+  {
+    "start": 333.68,
+    "end": 336.24,
+    "text": "Small things people do to be kind to others.",
+    "speaker": null
+  },
+  {
+    "start": 336.959,
+    "end": 341.6,
+    "text": "Something counter-intuitive doesn’t happen in the way you expect it to.",
+    "speaker": "counter-intuitive"
+  },
+  {
+    "start": 341.6,
+    "end": 344.56,
+    "text": "Yummy means delicious or tasting very good.",
+    "speaker": "Yummy"
+  },
+  {
+    "start": 344.56,
+    "end": 350.319,
+    "text": "A warm glow describes the pleasant inner feeling of happiness at doing something kind.",
+    "speaker": "warm glow"
+  },
+  {
+    "start": 350.319,
+    "end": 355.68,
+    "text": "Compassion is a feeling of sympathy for the suffering of others and a wish to help them.",
+    "speaker": "Compassion"
+  },
+  {
+    "start": 355.68,
+    "end": 361.68,
+    "text": "And finally, something fluffy is soft and woolly, not considered serious or important.",
+    "speaker": "fluffy"
+  },
+  {
+    "start": 361.68,
+    "end": 367.519,
+    "text": "Our six minutes are up, but if you've enjoyed this program, why not go out and perform your own random",
+    "speaker": null
+  },
+  {
+    "start": 367.519,
+    "end": 370.159,
+    "text": "act of kindness? Goodbye for now. Bye.",
+    "speaker": null
+  }
+]

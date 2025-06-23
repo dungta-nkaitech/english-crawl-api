@@ -1,0 +1,692 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 12.48,
+    "end": 16.559,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 16.559,
+    "end": 17.92,
+    "text": "And I'm Neil.",
+    "speaker": null
+  },
+  {
+    "start": 17.92,
+    "end": 23.76,
+    "text": "In 1436 in Germany, Johannes Gutenberg invented the printing press,",
+    "speaker": null
+  },
+  {
+    "start": 23.76,
+    "end": 28.64,
+    "text": "a machine capable of making many copies of the same page of text.",
+    "speaker": null
+  },
+  {
+    "start": 28.719,
+    "end": 35.2,
+    "text": "Ever since, printing has been used around the world to produce books, newspapers and magazines.",
+    "speaker": null
+  },
+  {
+    "start": 35.2,
+    "end": 39.28,
+    "text": "Printing technology has come a long way since Gutenberg's time,",
+    "speaker": null
+  },
+  {
+    "start": 39.28,
+    "end": 44.32,
+    "text": "but even today's most advanced laser printers have only printed flat",
+    "speaker": null
+  },
+  {
+    "start": 44.32,
+    "end": 47.519,
+    "text": "two-dimensional objects until now.",
+    "speaker": null
+  },
+  {
+    "start": 47.519,
+    "end": 51.92,
+    "text": "In this programme, we're discussing 3D printers, printers which can build",
+    "speaker": null
+  },
+  {
+    "start": 51.92,
+    "end": 56.079,
+    "text": "solid three-dimensional objects out of a variety of materials,",
+    "speaker": null
+  },
+  {
+    "start": 56.079,
+    "end": 58.64,
+    "text": "including plastic, concrete and metal.",
+    "speaker": null
+  },
+  {
+    "start": 58.64,
+    "end": 63.439,
+    "text": "Now, Neil, when you say a printer that can make solid objects, I guess you’re not talking about a normal printer…",
+    "speaker": "Sam"
+  },
+  {
+    "start": 63.439,
+    "end": 66.239,
+    "text": "I guess you're not talking about a normal printer.",
+    "speaker": null
+  },
+  {
+    "start": 66.239,
+    "end": 67.519,
+    "text": "That's right, Sam.",
+    "speaker": null
+  },
+  {
+    "start": 67.519,
+    "end": 72.799,
+    "text": "These large and complex 3D printers work in a completely different way.",
+    "speaker": null
+  },
+  {
+    "start": 72.799,
+    "end": 78.48,
+    "text": "Unlike a sculptor who chips away at a block of stone to refuel a shape underneath,",
+    "speaker": null
+  },
+  {
+    "start": 78.48,
+    "end": 83.039,
+    "text": "3D printers work in the opposite way, building up physical objects",
+    "speaker": null
+  },
+  {
+    "start": 83.04,
+    "end": 86.32,
+    "text": "by adding material layer on layer.",
+    "speaker": null
+  },
+  {
+    "start": 86.32,
+    "end": 91.68,
+    "text": "And the ability to print objects in this way is providing solutions to many problems",
+    "speaker": null
+  },
+  {
+    "start": 91.68,
+    "end": 93.36,
+    "text": "as we'll be finding out.",
+    "speaker": null
+  },
+  {
+    "start": 93.36,
+    "end": 95.68,
+    "text": "But first, I have a question for you, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 95.68,
+    "end": 98.88,
+    "text": "Before Johannes Gutenberg invented his printing press,",
+    "speaker": null
+  },
+  {
+    "start": 98.88,
+    "end": 102.08,
+    "text": "copies of texts were made by block printing,",
+    "speaker": null
+  },
+  {
+    "start": 102.08,
+    "end": 105.28,
+    "text": "using hand-carved wooden blocks pressed into ink.",
+    "speaker": null
+  },
+  {
+    "start": 105.28,
+    "end": 109.76,
+    "text": "So, what was the oldest known text to be printed this way?",
+    "speaker": null
+  },
+  {
+    "start": 109.76,
+    "end": 112,
+    "text": "a) a religious teaching?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 112.079,
+    "end": 115.599,
+    "text": "b) a cooking recipe? or,",
+    "speaker": "Sam"
+  },
+  {
+    "start": 115.599,
+    "end": 117.92,
+    "text": "I think it might have been a recipe.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 117.92,
+    "end": 121.2,
+    "text": "Okay, Neil, I'll reveal the answer later in the programme.",
+    "speaker": null
+  },
+  {
+    "start": 121.2,
+    "end": 124.079,
+    "text": "The idea of printing solid objects is not new,",
+    "speaker": null
+  },
+  {
+    "start": 124.079,
+    "end": 128.319,
+    "text": "but it was only after the millennium that tech companies began to realise",
+    "speaker": null
+  },
+  {
+    "start": 128.319,
+    "end": 129.92,
+    "text": "how it could be done.",
+    "speaker": null
+  },
+  {
+    "start": 129.92,
+    "end": 135.12,
+    "text": "Here's Professor Mark Miodovnik, a material scientist at University College London,",
+    "speaker": null
+  },
+  {
+    "start": 135.12,
+    "end": 140.08,
+    "text": "explaining more to BBC World Service programme, people fixing the world.",
+    "speaker": null
+  },
+  {
+    "start": 140.16,
+    "end": 143.12,
+    "text": "As the millennium turned, patents expired,",
+    "speaker": null
+  },
+  {
+    "start": 143.12,
+    "end": 146,
+    "text": "and that meant people started making really cheap 3D printers,",
+    "speaker": null
+  },
+  {
+    "start": 146,
+    "end": 148.24,
+    "text": "and people started mucking about with them and going,",
+    "speaker": null
+  },
+  {
+    "start": 148.24,
+    "end": 150.64,
+    "text": "hold on a minute, it's not just an industrial tool,",
+    "speaker": null
+  },
+  {
+    "start": 150.64,
+    "end": 153.68,
+    "text": "you can put them in schools, you can put them in universities.",
+    "speaker": null
+  },
+  {
+    "start": 153.68,
+    "end": 156.64,
+    "text": "Oh, it's actually really great for prototyping.",
+    "speaker": null
+  },
+  {
+    "start": 156.64,
+    "end": 158.16,
+    "text": "And then people got excited about it,",
+    "speaker": null
+  },
+  {
+    "start": 158.16,
+    "end": 159.68,
+    "text": "and it became the answer to everything.",
+    "speaker": null
+  },
+  {
+    "start": 160.4,
+    "end": 161.92,
+    "text": "Everything was going to be 3D printed.",
+    "speaker": null
+  },
+  {
+    "start": 161.92,
+    "end": 166.16,
+    "text": "After the year 2000, 3D printers suddenly got much cheaper",
+    "speaker": null
+  },
+  {
+    "start": 166.16,
+    "end": 169.52,
+    "text": "and tech companies started mucking about with them,",
+    "speaker": null
+  },
+  {
+    "start": 169.52,
+    "end": 172.4,
+    "text": "spending time playing with them in a fun way.",
+    "speaker": null
+  },
+  {
+    "start": 172.4,
+    "end": 175.68,
+    "text": "They realised that 3D printers had many uses.",
+    "speaker": null
+  },
+  {
+    "start": 175.68,
+    "end": 180.719,
+    "text": "For example, they discovered that 3D printers were great at making prototypes,",
+    "speaker": null
+  },
+  {
+    "start": 180.719,
+    "end": 183.68,
+    "text": "models of a product that can be tested, improved,",
+    "speaker": null
+  },
+  {
+    "start": 183.68,
+    "end": 185.68,
+    "text": "and used to develop better products.",
+    "speaker": null
+  },
+  {
+    "start": 185.68,
+    "end": 189.28,
+    "text": "Professor Miodovnik thinks these tech companies were surprised",
+    "speaker": null
+  },
+  {
+    "start": 189.28,
+    "end": 191.92,
+    "text": "at how useful 3D printing was.",
+    "speaker": null
+  },
+  {
+    "start": 191.92,
+    "end": 194.719,
+    "text": "He uses the phrase, hold on a minute,",
+    "speaker": null
+  },
+  {
+    "start": 194.719,
+    "end": 197.68,
+    "text": "to express this surprise or disbelief.",
+    "speaker": null
+  },
+  {
+    "start": 197.76,
+    "end": 201.2,
+    "text": "In fact, it turned out that 3D printers were excellent",
+    "speaker": null
+  },
+  {
+    "start": 201.2,
+    "end": 203.12,
+    "text": "at making bespoke things,",
+    "speaker": null
+  },
+  {
+    "start": 203.12,
+    "end": 206.319,
+    "text": "objects which are made specially for a particular person.",
+    "speaker": null
+  },
+  {
+    "start": 207.04,
+    "end": 210.24,
+    "text": "One area which 3D printing dramatically improved",
+    "speaker": null
+  },
+  {
+    "start": 210.24,
+    "end": 212.24,
+    "text": "was medical prosthetics.",
+    "speaker": null
+  },
+  {
+    "start": 212.24,
+    "end": 215.439,
+    "text": "Artificial body parts made specially for someone",
+    "speaker": null
+  },
+  {
+    "start": 215.439,
+    "end": 218.879,
+    "text": "who has lost an arm, a leg or a foot, for example.",
+    "speaker": null
+  },
+  {
+    "start": 218.879,
+    "end": 224.08,
+    "text": "In 2021, Stephen Verz, who lost an eye in a childhood accident,",
+    "speaker": null
+  },
+  {
+    "start": 224.16,
+    "end": 229.04,
+    "text": "became the first person to be fitted with a 3D printed prosthetic eye.",
+    "speaker": null
+  },
+  {
+    "start": 229.04,
+    "end": 233.439,
+    "text": "It's prosthetic, so the new eye doesn't restore Stephen's sight,",
+    "speaker": null
+  },
+  {
+    "start": 233.439,
+    "end": 236,
+    "text": "but it has boosted his confidence.",
+    "speaker": null
+  },
+  {
+    "start": 236,
+    "end": 240.32,
+    "text": "Sir Jean Mandi Psegoo led the team at Moorsefield Hospital",
+    "speaker": null
+  },
+  {
+    "start": 240.32,
+    "end": 242.32,
+    "text": "that operated on Stephen's eye.",
+    "speaker": null
+  },
+  {
+    "start": 242.32,
+    "end": 246.08,
+    "text": "Here he is explaining more to BBC World Services,",
+    "speaker": null
+  },
+  {
+    "start": 246.08,
+    "end": 247.68,
+    "text": "people fixing the world.",
+    "speaker": null
+  },
+  {
+    "start": 247.68,
+    "end": 250.08,
+    "text": "In many countries, particularly the developed world,",
+    "speaker": null
+  },
+  {
+    "start": 250.08,
+    "end": 253.2,
+    "text": "there are facilities for custom making a prosthetic eye",
+    "speaker": null
+  },
+  {
+    "start": 253.199,
+    "end": 254.719,
+    "text": "to match the other eye.",
+    "speaker": null
+  },
+  {
+    "start": 254.719,
+    "end": 257.199,
+    "text": "And that's an artisan process,",
+    "speaker": null
+  },
+  {
+    "start": 257.199,
+    "end": 261.199,
+    "text": "which is very time-consuming and requires real artistry",
+    "speaker": null
+  },
+  {
+    "start": 261.199,
+    "end": 262.719,
+    "text": "on the part of the ocularist.",
+    "speaker": null
+  },
+  {
+    "start": 262.719,
+    "end": 266.079,
+    "text": "The ocularist is a person who fits the prosthetic eye.",
+    "speaker": null
+  },
+  {
+    "start": 266.079,
+    "end": 270.319,
+    "text": "And so what we have been developing is a technique",
+    "speaker": null
+  },
+  {
+    "start": 270.319,
+    "end": 272.399,
+    "text": "to automate the whole process.",
+    "speaker": null
+  },
+  {
+    "start": 272.399,
+    "end": 276.8,
+    "text": "Even before 3D printers, prosthetic eyes were custom made,",
+    "speaker": null
+  },
+  {
+    "start": 276.8,
+    "end": 279.36,
+    "text": "a word similar to bespoke, which means",
+    "speaker": null
+  },
+  {
+    "start": 279.439,
+    "end": 283.04,
+    "text": "specially made according to a particular person's requirements.",
+    "speaker": null
+  },
+  {
+    "start": 283.68,
+    "end": 287.36,
+    "text": "But the traditional way of making artificial eyes by hand",
+    "speaker": null
+  },
+  {
+    "start": 287.36,
+    "end": 289.04,
+    "text": "is very time-consuming.",
+    "speaker": null
+  },
+  {
+    "start": 289.04,
+    "end": 291.28,
+    "text": "It takes a lot of time to do.",
+    "speaker": null
+  },
+  {
+    "start": 291.28,
+    "end": 296.16,
+    "text": "Nowadays, 3D printing can complete the whole process in just 30 minutes.",
+    "speaker": null
+  },
+  {
+    "start": 296.16,
+    "end": 298.96,
+    "text": "It's great to see technology helping people.",
+    "speaker": null
+  },
+  {
+    "start": 298.96,
+    "end": 303.04,
+    "text": "And amazing how far new inventions like 3D printers have come",
+    "speaker": null
+  },
+  {
+    "start": 303.04,
+    "end": 305.439,
+    "text": "since the days of Johannes Gutenberg,",
+    "speaker": null
+  },
+  {
+    "start": 305.439,
+    "end": 306.72,
+    "text": "speaking of which Neil,",
+    "speaker": null
+  },
+  {
+    "start": 306.8,
+    "end": 309.84,
+    "text": "it's time to reveal the answer to my question.",
+    "speaker": null
+  },
+  {
+    "start": 309.84,
+    "end": 312.64,
+    "text": "Right, you asked me about the earliest known text",
+    "speaker": null
+  },
+  {
+    "start": 312.64,
+    "end": 315.2,
+    "text": "to have been printed using wooden blocks.",
+    "speaker": null
+  },
+  {
+    "start": 315.2,
+    "end": 318,
+    "text": "And I guessed it was a cooking recipe.",
+    "speaker": null
+  },
+  {
+    "start": 318,
+    "end": 319.2,
+    "text": "So was I right?",
+    "speaker": null
+  },
+  {
+    "start": 319.2,
+    "end": 321.92,
+    "text": "You were wrong, I'm afraid Neil.",
+    "speaker": null
+  },
+  {
+    "start": 321.92,
+    "end": 326.24,
+    "text": "The oldest known wooden block print was actually a religious text.",
+    "speaker": null
+  },
+  {
+    "start": 326.24,
+    "end": 328.48,
+    "text": "The Buddha's Diamond Sutra.",
+    "speaker": null
+  },
+  {
+    "start": 328.48,
+    "end": 331.36,
+    "text": "Okay, let's recap the vocabulary from this programme",
+    "speaker": null
+  },
+  {
+    "start": 331.36,
+    "end": 335.12,
+    "text": "starting with mucking about an informal way to say,",
+    "speaker": null
+  },
+  {
+    "start": 335.12,
+    "end": 338.72,
+    "text": "playing with something carelessly, not for a serious reason.",
+    "speaker": null
+  },
+  {
+    "start": 338.72,
+    "end": 342.24,
+    "text": "A prototype is a model of a product that can be tested, improved and used to develop a better product.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 342.24,
+    "end": 344.959,
+    "text": "improved and used to develop a better product.",
+    "speaker": null
+  },
+  {
+    "start": 344.959,
+    "end": 349.519,
+    "text": "The phrase Hold on a minute! can be used to express surprise or disbelief.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 349.519,
+    "end": 352.399,
+    "text": "Prostethics refer to artificial body parts,",
+    "speaker": null
+  },
+  {
+    "start": 352.399,
+    "end": 354.959,
+    "text": "such as arms, legs, feet or eyes,",
+    "speaker": null
+  },
+  {
+    "start": 354.959,
+    "end": 357.92,
+    "text": "which are used to replace a missing natural part.",
+    "speaker": null
+  },
+  {
+    "start": 357.92,
+    "end": 360.8,
+    "text": "The words bespoke and custom made,",
+    "speaker": null
+  },
+  {
+    "start": 360.8,
+    "end": 364.399,
+    "text": "The words bespoke, and custom-made describe something specially made for a particular person.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 364.399,
+    "end": 367.359,
+    "text": "And finally, if something is time consuming,",
+    "speaker": null
+  },
+  {
+    "start": 367.359,
+    "end": 369.439,
+    "text": "it takes a lot of time to do.",
+    "speaker": null
+  },
+  {
+    "start": 369.439,
+    "end": 370.319,
+    "text": "Goodbye for now.",
+    "speaker": null
+  },
+  {
+    "start": 370.319,
+    "end": 372,
+    "text": "Goodbye!",
+    "speaker": "Sam"
+  },
+  {
+    "start": 372,
+    "end": 374.799,
+    "text": "Six minutes English from the BBC.",
+    "speaker": null
+  }
+]

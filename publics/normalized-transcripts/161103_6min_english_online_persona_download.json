@@ -1,0 +1,542 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.6,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.6,
+    "end": 8.24,
+    "text": "6 Minute English",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 10.88,
+    "text": "from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 12.48,
+    "end": 15.919,
+    "text": "Hello and welcome to 6 Minute English. I'm Sophie…",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 15.919,
+    "end": 19.519,
+    "text": "And I'm Neil. Oh, hang on. I've just got a new tweet here.",
+    "speaker": null
+  },
+  {
+    "start": 19.519,
+    "end": 24,
+    "text": "Oh, listen to this. Hi, Neil, about what you said the other day.",
+    "speaker": null
+  },
+  {
+    "start": 24,
+    "end": 27.039,
+    "text": "I... Oh, um...",
+    "speaker": null
+  },
+  {
+    "start": 27.039,
+    "end": 31.199,
+    "text": "This is from a friend who doesn't realise that regular tweets are in the public domain",
+    "speaker": null
+  },
+  {
+    "start": 31.199,
+    "end": 34,
+    "text": "and that anyone in the world could read them if they wanted to.",
+    "speaker": null
+  },
+  {
+    "start": 34,
+    "end": 37.6,
+    "text": "I need to give her some lessons in cool. She just doesn't get it.",
+    "speaker": null
+  },
+  {
+    "start": 37.6,
+    "end": 43.599,
+    "text": "Well, Mr Cool, I don't get Twitter either – which means I don't understand why people like it. Why do you want to put tweets out there for everyone to read?",
+    "speaker": "get"
+  },
+  {
+    "start": 44.32,
+    "end": 48.079,
+    "text": "Why do you want to put tweets out there for everyone to read?",
+    "speaker": null
+  },
+  {
+    "start": 48.079,
+    "end": 50.32,
+    "text": "You'd love it if you tried it, Sophie.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 50.32,
+    "end": 55.84,
+    "text": "I'm not so sure, Neil. Anyway, the subject of today's show is online identity.",
+    "speaker": null
+  },
+  {
+    "start": 56.32,
+    "end": 59.12,
+    "text": "There are lots of social media platforms out there,",
+    "speaker": null
+  },
+  {
+    "start": 59.12,
+    "end": 63.92,
+    "text": "Facebook, Twitter, WhatsApp, Instagram, and they're all different.",
+    "speaker": null
+  },
+  {
+    "start": 63.92,
+    "end": 69.84,
+    "text": "And the question is, do we use different identities when we are using different digital spaces?",
+    "speaker": null
+  },
+  {
+    "start": 70.4,
+    "end": 76.24,
+    "text": "And what's all this tweeting, posting and hashtagging doing to our language and our psyche?",
+    "speaker": null
+  },
+  {
+    "start": 76.24,
+    "end": 81.28,
+    "text": "And psyche means mind. Well, it's messed with my mind. I'm a total addict.",
+    "speaker": null
+  },
+  {
+    "start": 81.28,
+    "end": 84.159,
+    "text": "I check my accounts as soon as I get up in the morning.",
+    "speaker": null
+  },
+  {
+    "start": 84.239,
+    "end": 88.64,
+    "text": "And sometimes in the night, if I wake up, I couldn't get through the day without it.",
+    "speaker": null
+  },
+  {
+    "start": 88.64,
+    "end": 92.719,
+    "text": "Well, I'm the opposite. I'm totally unaddicted.",
+    "speaker": null
+  },
+  {
+    "start": 92.719,
+    "end": 95.12,
+    "text": "And therefore, don't need to worry about my psyche.",
+    "speaker": null
+  },
+  {
+    "start": 95.84,
+    "end": 100.479,
+    "text": "Now, before we explore this further, let's have today's quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 100.479,
+    "end": 106.319,
+    "text": "Okay, here's one for you, Sophie. Can you tell me how many social media accounts the average person has?",
+    "speaker": null
+  },
+  {
+    "start": 106.319,
+    "end": 110.4,
+    "text": "Is it A, 3, B, 5 or C, 8?",
+    "speaker": null
+  },
+  {
+    "start": 110.48,
+    "end": 115.2,
+    "text": "I'll say 3. That sounds like 3 too many to me.",
+    "speaker": null
+  },
+  {
+    "start": 115.2,
+    "end": 118.4,
+    "text": "Okay, well, we'll find out if you've got the answer right later on in the show.",
+    "speaker": null
+  },
+  {
+    "start": 118.4,
+    "end": 123.6,
+    "text": "I've got 3, 5. No, hang on, hang on. I've got 6.",
+    "speaker": null
+  },
+  {
+    "start": 123.6,
+    "end": 128.64,
+    "text": "While you add up all your accounts, Neil, let's listen to Dr Alex Kutowski,",
+    "speaker": null
+  },
+  {
+    "start": 128.64,
+    "end": 131.68,
+    "text": "broadcaster, journalist, and social psychologist.",
+    "speaker": null
+  },
+  {
+    "start": 131.68,
+    "end": 135.68,
+    "text": "She's talking about the language we use to present ourselves online.",
+    "speaker": null
+  },
+  {
+    "start": 136.64,
+    "end": 142.879,
+    "text": "Online, we have this extraordinary opportunity to explore different aspects of ourselves",
+    "speaker": null
+  },
+  {
+    "start": 142.879,
+    "end": 149.2,
+    "text": "through primarily text-based communication by manipulating language and becoming wordsmests ourselves.",
+    "speaker": null
+  },
+  {
+    "start": 149.2,
+    "end": 157.04,
+    "text": "So, for example, your Twitter handle will have a U that is probably different from a U that you share,",
+    "speaker": null
+  },
+  {
+    "start": 157.04,
+    "end": 162.319,
+    "text": "if, say, for example, you have a Facebook account, or is different from a U that you would share",
+    "speaker": null
+  },
+  {
+    "start": 162.4,
+    "end": 166.799,
+    "text": "if you're on a particular forum of something that you like, some music that you like, or food",
+    "speaker": null
+  },
+  {
+    "start": 166.799,
+    "end": 171.359,
+    "text": "that you like, or whatever it is. So, we are wordsmests with handles.",
+    "speaker": null
+  },
+  {
+    "start": 172.319,
+    "end": 176.479,
+    "text": "What does that mean? A wordsmith is someone who is skilled at using words,",
+    "speaker": null
+  },
+  {
+    "start": 176.479,
+    "end": 180.24,
+    "text": "What's your Twitter handle, then?",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 180.24,
+    "end": 185.68,
+    "text": "Well, you'll need to get a Twitter account to find out. But I have other handles for other social media.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 186.24,
+    "end": 188.56,
+    "text": "So, there are lots of U's out there, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 189.36,
+    "end": 194.159,
+    "text": "Yes. For example, I think I'm cooler on Twitter than on Facebook. I talk more, you know, street. ‘Check out my new creps – they're bangin'.'",
+    "speaker": "Neil"
+  },
+  {
+    "start": 194.159,
+    "end": 197.92,
+    "text": "street. Check out my new crepes. They're banging.",
+    "speaker": null
+  },
+  {
+    "start": 197.92,
+    "end": 203.92,
+    "text": "Yo, they're well-sick. Streets, by the way, refers to the language that goes with street,",
+    "speaker": null
+  },
+  {
+    "start": 203.92,
+    "end": 208.64,
+    "text": "or urban culture, where things like skateboarding and hip-hop are popular.",
+    "speaker": null
+  },
+  {
+    "start": 208.64,
+    "end": 212.24,
+    "text": "And I think crepes are trainers. Am I right, bruv?",
+    "speaker": null
+  },
+  {
+    "start": 212.24,
+    "end": 215.759,
+    "text": "Yes, Sophie. I didn't know you could talk street!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 215.759,
+    "end": 218.479,
+    "text": "I have identities that you know nothing about, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 219.12,
+    "end": 222.879,
+    "text": "But getting back to Twitter and how big an audience there is,",
+    "speaker": null
+  },
+  {
+    "start": 222.879,
+    "end": 228.639,
+    "text": "doesn't that huge audience worry you, Neil? Aren't you scared of making a huge blooper online",
+    "speaker": null
+  },
+  {
+    "start": 228.639,
+    "end": 233.12,
+    "text": "and becoming a laughing stock? Okay, blooper means an embarrassing mistake,",
+    "speaker": null
+  },
+  {
+    "start": 233.12,
+    "end": 236.959,
+    "text": "and being a laughing stock means looking very silly when you're trying to be serious.",
+    "speaker": null
+  },
+  {
+    "start": 237.599,
+    "end": 241.28,
+    "text": "Well, Sophie, I'm quite careful about how I manage my online identity.",
+    "speaker": null
+  },
+  {
+    "start": 241.28,
+    "end": 245.28,
+    "text": "I take time to craft my words, just like I craft them for this show.",
+    "speaker": null
+  },
+  {
+    "start": 245.28,
+    "end": 250.24,
+    "text": "Really? So no bloopers on this show, then? I seem to remember one or two.",
+    "speaker": null
+  },
+  {
+    "start": 251.12,
+    "end": 255.12,
+    "text": "Well, let's move on now and listen to Dr Alex Kutowski again,",
+    "speaker": null
+  },
+  {
+    "start": 255.12,
+    "end": 260.16,
+    "text": "talking about what motivates us to put our thoughts and ideas out there online.",
+    "speaker": null
+  },
+  {
+    "start": 261.6,
+    "end": 265.6,
+    "text": "It's allowing us a platform for a potential audience that is massive.",
+    "speaker": null
+  },
+  {
+    "start": 265.6,
+    "end": 270.16,
+    "text": "Absolutely huge. So yeah, there is a lot of look at me, look at me online.",
+    "speaker": null
+  },
+  {
+    "start": 270.16,
+    "end": 273.6,
+    "text": "But that's, I think, because we're trying to reach out to as much of the audience,",
+    "speaker": null
+  },
+  {
+    "start": 273.6,
+    "end": 278,
+    "text": "we're trying to get as much attention as we possibly can in order to get that tribe.",
+    "speaker": null
+  },
+  {
+    "start": 278,
+    "end": 281.92,
+    "text": "And also, in order to basically reach out and tell people, hey, we're around.",
+    "speaker": null
+  },
+  {
+    "start": 281.92,
+    "end": 286.08,
+    "text": "It's like having a telephone on all the time. Hey, chat to me. I'm here.",
+    "speaker": null
+  },
+  {
+    "start": 286.72,
+    "end": 289.52,
+    "text": "Anybody want to hang out? It's a big social playground.",
+    "speaker": null
+  },
+  {
+    "start": 291.12,
+    "end": 294.4,
+    "text": "Alex Kutowski says, we're all show-offs who want attention.",
+    "speaker": null
+  },
+  {
+    "start": 294.4,
+    "end": 300.8,
+    "text": "Am I a show-off, Sophie? Yes, you are, Neil. Though Alex says it isn't just about showing off,",
+    "speaker": null
+  },
+  {
+    "start": 301.36,
+    "end": 306,
+    "text": "it's also about connecting with people in our tribe or social group.",
+    "speaker": null
+  },
+  {
+    "start": 306.639,
+    "end": 311.12,
+    "text": "But that tribe can be enormous because people are reading posts globally,",
+    "speaker": null
+  },
+  {
+    "start": 311.12,
+    "end": 314.08,
+    "text": "not just in your own town or even your own country.",
+    "speaker": null
+  },
+  {
+    "start": 314.72,
+    "end": 320,
+    "text": "Hashtag scary thought. Now, I think it's time for the answer to today's quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 320,
+    "end": 324.319,
+    "text": "I asked, how many social media accounts does the average person have? Is it a,",
+    "speaker": null
+  },
+  {
+    "start": 324.639,
+    "end": 330.48,
+    "text": "3, B, 5 or C, 8? I said B, 3.",
+    "speaker": null
+  },
+  {
+    "start": 330.48,
+    "end": 336.879,
+    "text": "And that is not the right answer. So, for the average person, has five social media accounts and spends",
+    "speaker": null
+  },
+  {
+    "start": 336.879,
+    "end": 340.56,
+    "text": "around one hour and 40 minutes browsing these networks every day,",
+    "speaker": null
+  },
+  {
+    "start": 340.56,
+    "end": 344.319,
+    "text": "accounting for 28% of the total time spent on the internet.",
+    "speaker": null
+  },
+  {
+    "start": 345.36,
+    "end": 348.48,
+    "text": "Now, here are the words we heard today. Get something.",
+    "speaker": null
+  },
+  {
+    "start": 348.8,
+    "end": 350.16,
+    "text": "Psychie.",
+    "speaker": null
+  },
+  {
+    "start": 350.16,
+    "end": 351.84,
+    "text": "wordsmith",
+    "speaker": "Neil"
+  },
+  {
+    "start": 351.84,
+    "end": 353.439,
+    "text": "handle",
+    "speaker": "Neil"
+  },
+  {
+    "start": 353.439,
+    "end": 355.2,
+    "text": "street",
+    "speaker": "Neil"
+  },
+  {
+    "start": 355.2,
+    "end": 356.64,
+    "text": "blooper",
+    "speaker": "Neil"
+  },
+  {
+    "start": 356.64,
+    "end": 358.48,
+    "text": "laughing stock",
+    "speaker": "Neil"
+  },
+  {
+    "start": 358.48,
+    "end": 360.08,
+    "text": "tribe",
+    "speaker": "Neil"
+  },
+  {
+    "start": 360.08,
+    "end": 363.6,
+    "text": "And that's the end of today's 6 Minute English. Don't forget to join us again soon!",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 363.6,
+    "end": 365.84,
+    "text": "Don't forget to join us again soon.",
+    "speaker": null
+  },
+  {
+    "start": 365.84,
+    "end": 368.64,
+    "text": "And remember, you can tweet us at BBCLE.",
+    "speaker": null
+  },
+  {
+    "start": 368.64,
+    "end": 370.319,
+    "text": "Bye-bye. Bye-bye.",
+    "speaker": null
+  },
+  {
+    "start": 370.319,
+    "end": 374.72,
+    "text": "6 Minute English from the BBC.",
+    "speaker": null
+  }
+]

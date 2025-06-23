@@ -1,0 +1,476 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 13.519,
+    "end": 17.76,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Rob.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 17.76,
+    "end": 18.96,
+    "text": "And I’m Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 18.96,
+    "end": 20.8,
+    "text": "So, how are you today, Sam?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 20.8,
+    "end": 24.08,
+    "text": "Oh, don't ask, Rob. Today's been a nightmare.",
+    "speaker": null
+  },
+  {
+    "start": 24.08,
+    "end": 29.28,
+    "text": "This morning, I ripped my jeans and later my computer stuff working.",
+    "speaker": null
+  },
+  {
+    "start": 29.28,
+    "end": 33.039,
+    "text": "Then when I tried taking it to a repair shop, my car wouldn't start.",
+    "speaker": null
+  },
+  {
+    "start": 33.679,
+    "end": 35.76,
+    "text": "Oh, no, that's terrible.",
+    "speaker": null
+  },
+  {
+    "start": 35.76,
+    "end": 39.76,
+    "text": "And the really bad news is that in today's consumer culture,",
+    "speaker": null
+  },
+  {
+    "start": 39.76,
+    "end": 43.439,
+    "text": "when something breaks, we usually throw it away and buy a new one,",
+    "speaker": null
+  },
+  {
+    "start": 43.439,
+    "end": 45.359,
+    "text": "instead of trying to repair it.",
+    "speaker": null
+  },
+  {
+    "start": 45.359,
+    "end": 49.2,
+    "text": "In this programme, we'll learn all about repairing broken things",
+    "speaker": null
+  },
+  {
+    "start": 49.2,
+    "end": 51.92,
+    "text": "by asking what would happen if we stopped",
+    "speaker": null
+  },
+  {
+    "start": 51.92,
+    "end": 54.48,
+    "text": "junking and got better at fixing.",
+    "speaker": null
+  },
+  {
+    "start": 55.279,
+    "end": 59.919,
+    "text": "The world generates over two billion tons of rubbish every year.",
+    "speaker": null
+  },
+  {
+    "start": 59.919,
+    "end": 62.479,
+    "text": "So, we're visiting companies in Sweden,",
+    "speaker": null
+  },
+  {
+    "start": 62.479,
+    "end": 65.599,
+    "text": "making it easier to mend things when they break,",
+    "speaker": null
+  },
+  {
+    "start": 65.599,
+    "end": 70.079,
+    "text": "instead of replacing them, whether that's clothes, bikes or washing machines.",
+    "speaker": null
+  },
+  {
+    "start": 70.64,
+    "end": 74.64,
+    "text": "A Mike Wis question is about one of those companies, Fixie,",
+    "speaker": null
+  },
+  {
+    "start": 74.64,
+    "end": 78.159,
+    "text": "a repair service that collects broken bikes from your door",
+    "speaker": null
+  },
+  {
+    "start": 78.159,
+    "end": 80.239,
+    "text": "and brings them back fixed.",
+    "speaker": null
+  },
+  {
+    "start": 80.239,
+    "end": 83.039,
+    "text": "The company was started by Raffi Mahamid,",
+    "speaker": null
+  },
+  {
+    "start": 83.12,
+    "end": 87.12,
+    "text": "a student of industrial innovation at the University of Stockholm.",
+    "speaker": null
+  },
+  {
+    "start": 87.84,
+    "end": 91.68,
+    "text": "But what was the inspiration behind Raffi's idea?",
+    "speaker": null
+  },
+  {
+    "start": 91.68,
+    "end": 94.96,
+    "text": "a) he wanted to impress his girlfriend?,",
+    "speaker": "Rob"
+  },
+  {
+    "start": 94.96,
+    "end": 98.64,
+    "text": "b) he was sick of breathing in the city’s car fumes?,  or",
+    "speaker": "Rob"
+  },
+  {
+    "start": 98.64,
+    "end": 102.8,
+    "text": "or C, he was late for his lecture because of a flat tire.",
+    "speaker": null
+  },
+  {
+    "start": 102.8,
+    "end": 106.24,
+    "text": "Also A, he wanted to impress his girlfriend.",
+    "speaker": null
+  },
+  {
+    "start": 106.719,
+    "end": 111.2,
+    "text": "Okay, Sam, we'll find out about Raffi and his love life later on.",
+    "speaker": null
+  },
+  {
+    "start": 111.92,
+    "end": 116.879,
+    "text": "But whatever the inspiration behind it, Raffi's idea was a success.",
+    "speaker": null
+  },
+  {
+    "start": 116.879,
+    "end": 120.799,
+    "text": "Fixie took more than 600 orders in its first six months.",
+    "speaker": null
+  },
+  {
+    "start": 121.439,
+    "end": 126.799,
+    "text": "Raffi isn't the only Swedish company helping people fix things instead of buying new.",
+    "speaker": null
+  },
+  {
+    "start": 127.52,
+    "end": 133.52,
+    "text": "Denham Company Newdy Jeans was started with a focus on ethics and sustainability.",
+    "speaker": null
+  },
+  {
+    "start": 133.52,
+    "end": 137.039,
+    "text": "At $150 a pair, Newdy Jeans aren't cheap,",
+    "speaker": null
+  },
+  {
+    "start": 137.039,
+    "end": 140.48,
+    "text": "but they do promise free repairs for life.",
+    "speaker": null
+  },
+  {
+    "start": 140.479,
+    "end": 143.039,
+    "text": "From Ripney's to Torn pockets.",
+    "speaker": null
+  },
+  {
+    "start": 143.039,
+    "end": 146.879,
+    "text": "BBC World Service Programme People Fixing the World",
+    "speaker": null
+  },
+  {
+    "start": 146.879,
+    "end": 153.28,
+    "text": "asked students Felix and Fabian Morgan why they bought the Jeans despite the high price tag.",
+    "speaker": null
+  },
+  {
+    "start": 154.959,
+    "end": 158.719,
+    "text": "It's just been given that when your jeans break, you throw them away.",
+    "speaker": null
+  },
+  {
+    "start": 158.719,
+    "end": 162.159,
+    "text": "So when I heard that you can be repaired them easily without any costs,",
+    "speaker": null
+  },
+  {
+    "start": 162.159,
+    "end": 164.239,
+    "text": "there was a bit of a no-brainer for me.",
+    "speaker": null
+  },
+  {
+    "start": 164.799,
+    "end": 167.439,
+    "text": "I really liked waiting in the book.",
+    "speaker": null
+  },
+  {
+    "start": 167.439,
+    "end": 173.199,
+    "text": "I really liked the way they looked, so for me it’s worth it to buy more expensive but stuff that I really like.",
+    "speaker": "stuff"
+  },
+  {
+    "start": 174.24,
+    "end": 179.84,
+    "text": "Felix says that throwing out old jeans is a given - something that is just assumed to happen.",
+    "speaker": "a given"
+  },
+  {
+    "start": 180.4,
+    "end": 186.079,
+    "text": "For him, buying Newdy Jeans is a no-brainer, a decision that's very easy to make.",
+    "speaker": null
+  },
+  {
+    "start": 186.639,
+    "end": 192,
+    "text": "And Fabia agrees. She doesn’t mind paying more for stuff she really likes. Here, stuff is an informal way to say personal objects and possessions.",
+    "speaker": "stuff stuff"
+  },
+  {
+    "start": 192,
+    "end": 197.039,
+    "text": "Here, stuff is an informal way to say personal objects and possessions.",
+    "speaker": null
+  },
+  {
+    "start": 197.039,
+    "end": 203.199,
+    "text": "Even though they’re good at recycling, people in wealthy Sweden still buy lots of new stuff and they have a big carbon footprint for a country of just 10 million.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 203.199,
+    "end": 207.039,
+    "text": "and they have a big carbon footprint for a country of just 10 million.",
+    "speaker": null
+  },
+  {
+    "start": 207.68,
+    "end": 214.079,
+    "text": "But it’s interesting that all the innovators behind these companies say that in their grandparents’ day, it was normal to repair, fix and mend broken stuff.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 214.079,
+    "end": 217.919,
+    "text": "it was normal to repair, fix and mend broken stuff.",
+    "speaker": null
+  },
+  {
+    "start": 217.919,
+    "end": 222.079,
+    "text": "Jessica Ricksert is a researcher at Lung University.",
+    "speaker": null
+  },
+  {
+    "start": 222.079,
+    "end": 226.879,
+    "text": "She thinks repairing is an endangered activity that we use to do more of,",
+    "speaker": null
+  },
+  {
+    "start": 226.879,
+    "end": 229.359,
+    "text": "both individually and as a society.",
+    "speaker": null
+  },
+  {
+    "start": 230.079,
+    "end": 235.039,
+    "text": "Here she is talking to BBC World Service’s, People Fixing the World programme, about the need to get back in touch with older ways of doing things:",
+    "speaker": "Rob"
+  },
+  {
+    "start": 235.039,
+    "end": 238.719,
+    "text": "about the need to get back in touch with older ways of doing things.",
+    "speaker": null
+  },
+  {
+    "start": 239.84,
+    "end": 243.519,
+    "text": "Really is a pure effect and a culture that we're trying to foster here,",
+    "speaker": null
+  },
+  {
+    "start": 244.319,
+    "end": 250.24,
+    "text": "changing a culture of consumption. The more people that are repairing and the more people that",
+    "speaker": null
+  },
+  {
+    "start": 250.24,
+    "end": 255.12,
+    "text": "are choosing to buy repair services or more repairable products, the more we will see this going",
+    "speaker": null
+  },
+  {
+    "start": 255.12,
+    "end": 258.8,
+    "text": "mainstream and it used to be mainstream. So that's what makes me positive too.",
+    "speaker": null
+  },
+  {
+    "start": 258.8,
+    "end": 263.92,
+    "text": "That it is in some ways a return to what we used to be able as a society to do more of.",
+    "speaker": null
+  },
+  {
+    "start": 265.12,
+    "end": 271.199,
+    "text": "Stories about Sweden's repair shops spread between friends and Jessica thinks this creates a",
+    "speaker": null
+  },
+  {
+    "start": 271.199,
+    "end": 277.12,
+    "text": "peer effect. The positive or negative influence friends have on the way you behave.",
+    "speaker": null
+  },
+  {
+    "start": 277.12,
+    "end": 283.759,
+    "text": "She hopes this will foster – or encourage to grow - a new culture of sustainable consumption…",
+    "speaker": "foster"
+  },
+  {
+    "start": 283.759,
+    "end": 290.639,
+    "text": "…so that fixing broken stuff will be mainstream, or be considered normal, once again.",
+    "speaker": "be mainstream"
+  },
+  {
+    "start": 290.639,
+    "end": 295.839,
+    "text": "Yes, that’s a big part of the problem – repairing was something we all used to do, but seem to have forgotten.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 295.839,
+    "end": 301.599,
+    "text": "forgotten. Hopefully we'll all be inspired to start fixing things again or at least pay someone",
+    "speaker": null
+  },
+  {
+    "start": 301.599,
+    "end": 306.959,
+    "text": "else too. And speaking of inspiration, what was the answer to your quiz question Rob?",
+    "speaker": null
+  },
+  {
+    "start": 307.519,
+    "end": 312.879,
+    "text": "Ah yes I asked about the inspiration behind Raffi Muhammad's company Fixi.",
+    "speaker": null
+  },
+  {
+    "start": 313.36,
+    "end": 319.68,
+    "text": "And I think he started the bike repair service to a impresser's girlfriend. Was I right?",
+    "speaker": null
+  },
+  {
+    "start": 320.319,
+    "end": 326.319,
+    "text": "Ah Sam that's very romantic but the correct answer was see he was late for his lecture because",
+    "speaker": null
+  },
+  {
+    "start": 326.319,
+    "end": 332.399,
+    "text": "Well, I'm sure if he had a broken heart, he’d be able to mend it.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 332.399,
+    "end": 338,
+    "text": "Indeed. Well in this program we've been hearing about repairing broken stuff, things or personal",
+    "speaker": null
+  },
+  {
+    "start": 338.959,
+    "end": 345.92,
+    "text": "That people would fix something broken used to be a given - assumed to be true or certain to happen.",
+    "speaker": "a given -"
+  },
+  {
+    "start": 345.92,
+    "end": 352.8,
+    "text": "Repairing things used to be a no-brainer – the obvious choice.",
+    "speaker": "no-brainer"
+  },
+  {
+    "start": 352.8,
+    "end": 358.319,
+    "text": "in friends on someone's behaviour. Some Swedish companies are trying to foster or encourage",
+    "speaker": null
+  },
+  {
+    "start": 358.319,
+    "end": 365.199,
+    "text": "the development of a new culture of consumption. So that once again fixing things is mainstream",
+    "speaker": null
+  },
+  {
+    "start": 365.199,
+    "end": 371.279,
+    "text": "accepted as normal or common practice. Well that's all from us. Bye for now. Bye bye.",
+    "speaker": null
+  }
+]

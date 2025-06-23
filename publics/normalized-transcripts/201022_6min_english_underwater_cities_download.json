@@ -1,0 +1,602 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.6,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.6,
+    "end": 10.88,
+    "text": "6M8 English from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 12.88,
+    "end": 16.719,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 16.719,
+    "end": 17.679,
+    "text": "And I’m Rob.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 17.679,
+    "end": 22,
+    "text": "From the ancient Roman Sea God Neptune to myths of mermaids,",
+    "speaker": null
+  },
+  {
+    "start": 22,
+    "end": 24.8,
+    "text": "to modern Hollywood films like Finding Nemo,",
+    "speaker": null
+  },
+  {
+    "start": 24.8,
+    "end": 29.679,
+    "text": "people throughout history have been fascinated by the idea of living underwater.",
+    "speaker": null
+  },
+  {
+    "start": 30.16,
+    "end": 33.2,
+    "text": "In this programme, we'll be hearing about projects to create",
+    "speaker": null
+  },
+  {
+    "start": 33.2,
+    "end": 37.119,
+    "text": "livable underwater habitats and the challenges they face.",
+    "speaker": null
+  },
+  {
+    "start": 37.119,
+    "end": 41.12,
+    "text": "We'll be finding out how realistic it is to believe that in a few years,",
+    "speaker": null
+  },
+  {
+    "start": 41.12,
+    "end": 46.32,
+    "text": "we could be eating breakfast while watching fish swim outside the kitchen window",
+    "speaker": null
+  },
+  {
+    "start": 46.32,
+    "end": 49.439,
+    "text": "before heading off to work in an office under the ocean.",
+    "speaker": null
+  },
+  {
+    "start": 49.439,
+    "end": 52.48,
+    "text": "And we'll be learning some related vocabulary as well.",
+    "speaker": null
+  },
+  {
+    "start": 52.48,
+    "end": 55.519,
+    "text": "But first, it's time for our quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 55.519,
+    "end": 59.28,
+    "text": "One of the first adventure stories to fire the public's imagination",
+    "speaker": null
+  },
+  {
+    "start": 59.359,
+    "end": 62.96,
+    "text": "about the underwater world was the 1870 novel,",
+    "speaker": null
+  },
+  {
+    "start": 62.96,
+    "end": 65.28,
+    "text": "20,000 Leagues Under the Sea.",
+    "speaker": null
+  },
+  {
+    "start": 65.28,
+    "end": 68.079,
+    "text": "But who wrote this underwater classic?",
+    "speaker": null
+  },
+  {
+    "start": 68.079,
+    "end": 74.24,
+    "text": "Was it A. H. G. Wells, B. Arthur Conan Doyle, or C. Jules Verne?",
+    "speaker": null
+  },
+  {
+    "start": 74.879,
+    "end": 76.879,
+    "text": "Oh, I think I know this one, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 76.879,
+    "end": 79.439,
+    "text": "a) H G Wells?,",
+    "speaker": "Neil"
+  },
+  {
+    "start": 79.439,
+    "end": 82.24,
+    "text": "OK, Rob. We'll find out later if you're right.",
+    "speaker": null
+  },
+  {
+    "start": 82.24,
+    "end": 87.52,
+    "text": "Now, one of the most ambitious designs for an underwater city is Ocean Spiral.",
+    "speaker": null
+  },
+  {
+    "start": 87.599,
+    "end": 91.359,
+    "text": "A huge transparent globe attached to the seabed,",
+    "speaker": null
+  },
+  {
+    "start": 91.359,
+    "end": 94.64,
+    "text": "the solid ground which lies deep below the sea level.",
+    "speaker": null
+  },
+  {
+    "start": 94.64,
+    "end": 98.239,
+    "text": "The top of the globe stands above the surface of the ocean,",
+    "speaker": null
+  },
+  {
+    "start": 98.239,
+    "end": 102.959,
+    "text": "and running through the center is a tower to add strength and to provide space",
+    "speaker": null
+  },
+  {
+    "start": 102.959,
+    "end": 108.959,
+    "text": "for homes, offices and even an amusement park for 5,000 underwater residents.",
+    "speaker": null
+  },
+  {
+    "start": 108.959,
+    "end": 113.359,
+    "text": "Ocean Spiral has been dreamt up by the Japanese Shimizu Corporation.",
+    "speaker": null
+  },
+  {
+    "start": 113.92,
+    "end": 116.879,
+    "text": "Here's Shimizu Engineer Max Saki Takuuchi,",
+    "speaker": null
+  },
+  {
+    "start": 116.879,
+    "end": 120.4,
+    "text": "explaining to BBC World Service Programme Crowd Science,",
+    "speaker": null
+  },
+  {
+    "start": 120.4,
+    "end": 122.239,
+    "text": "the motivation behind the idea.",
+    "speaker": null
+  },
+  {
+    "start": 126.319,
+    "end": 132.079,
+    "text": "At the moment, the world is facing a lot of serious problems regarding",
+    "speaker": null
+  },
+  {
+    "start": 132.079,
+    "end": 136.24,
+    "text": "food, energy, water, natural resources.",
+    "speaker": null
+  },
+  {
+    "start": 136.24,
+    "end": 142.319,
+    "text": "However, we are trying to solve these issues just by using our lands.",
+    "speaker": null
+  },
+  {
+    "start": 142.319,
+    "end": 148.079,
+    "text": "Our idea is to connect the sea surface and deep sea vertically,",
+    "speaker": null
+  },
+  {
+    "start": 148.079,
+    "end": 155.28,
+    "text": "and that way we believe that we can utilize the capability of the deep sea.",
+    "speaker": null
+  },
+  {
+    "start": 155.28,
+    "end": 157.919,
+    "text": "And that's the purpose of this whole project.",
+    "speaker": null
+  },
+  {
+    "start": 160.639,
+    "end": 165.359,
+    "text": "The effects of human activity on the land have led some to look to the oceans",
+    "speaker": null
+  },
+  {
+    "start": 165.359,
+    "end": 168.639,
+    "text": "for natural resources, naturally existing things,",
+    "speaker": null
+  },
+  {
+    "start": 168.639,
+    "end": 172.079,
+    "text": "such as minerals, oil, coal and other energy sources.",
+    "speaker": null
+  },
+  {
+    "start": 172.08,
+    "end": 173.52,
+    "text": "That can be used by people.",
+    "speaker": null
+  },
+  {
+    "start": 173.52,
+    "end": 176.8,
+    "text": "This search deep underwater is happening vertically,",
+    "speaker": null
+  },
+  {
+    "start": 176.8,
+    "end": 180.4,
+    "text": "at a 90-degree angle straight up or down from the ground,",
+    "speaker": null
+  },
+  {
+    "start": 180.4,
+    "end": 184.32,
+    "text": "as opposed to horizontally or flat across the earth's surface.",
+    "speaker": null
+  },
+  {
+    "start": 184.32,
+    "end": 188.56,
+    "text": "But as yet, Shimizu Corporation's plans for an underwater city",
+    "speaker": null
+  },
+  {
+    "start": 188.56,
+    "end": 190.8,
+    "text": "are still in the planning stages.",
+    "speaker": null
+  },
+  {
+    "start": 190.8,
+    "end": 193.04,
+    "text": "No part of the project has yet been built,",
+    "speaker": null
+  },
+  {
+    "start": 193.04,
+    "end": 197.04,
+    "text": "and the total cost is thought to exceed $26 billion.",
+    "speaker": null
+  },
+  {
+    "start": 197.04,
+    "end": 201.92,
+    "text": "In fact, the longest anyone has spent living under the sea is only 73 days.",
+    "speaker": null
+  },
+  {
+    "start": 201.919,
+    "end": 205.679,
+    "text": "That record was set by Roger Garcia, ex-military diver,",
+    "speaker": null
+  },
+  {
+    "start": 205.679,
+    "end": 210.799,
+    "text": "and head of the Aquarius, currently the world's only underwater research station.",
+    "speaker": null
+  },
+  {
+    "start": 210.799,
+    "end": 215.599,
+    "text": "Here's Roger Garcia explaining to BBC World Service Programme Crowd Science",
+    "speaker": null
+  },
+  {
+    "start": 215.599,
+    "end": 219.359,
+    "text": "what happens to the human body after living underwater for so long.",
+    "speaker": null
+  },
+  {
+    "start": 220.56,
+    "end": 222.879,
+    "text": "Perhaps a change in their voice.",
+    "speaker": null
+  },
+  {
+    "start": 222.879,
+    "end": 224.879,
+    "text": "Not much, because we're not very deep.",
+    "speaker": null
+  },
+  {
+    "start": 224.879,
+    "end": 227.359,
+    "text": "That's because the air becomes denser.",
+    "speaker": null
+  },
+  {
+    "start": 227.359,
+    "end": 230.239,
+    "text": "Physiologically, the most important thing, though,",
+    "speaker": null
+  },
+  {
+    "start": 230.32,
+    "end": 236.64,
+    "text": "is that since you are, in this case, at two and a half times atmospheric pressure,",
+    "speaker": null
+  },
+  {
+    "start": 236.64,
+    "end": 239.6,
+    "text": "you do take on more inner gaps.",
+    "speaker": null
+  },
+  {
+    "start": 239.6,
+    "end": 244.48,
+    "text": "And in this case, since the inside of the Aquarius, we just breathe normal air,",
+    "speaker": null
+  },
+  {
+    "start": 244.48,
+    "end": 246.64,
+    "text": "you're going to take on more nitrogen.",
+    "speaker": null
+  },
+  {
+    "start": 246.64,
+    "end": 249.92,
+    "text": "And depending on how long you stay in the Aquarius,",
+    "speaker": null
+  },
+  {
+    "start": 249.92,
+    "end": 253.2,
+    "text": "that's going to incur some sort of decompression obligation.",
+    "speaker": null
+  },
+  {
+    "start": 254.32,
+    "end": 256.4,
+    "text": "In addition to engineering challenges,",
+    "speaker": null
+  },
+  {
+    "start": 256.399,
+    "end": 260.399,
+    "text": "living underwater for long periods of time also affects the human body.",
+    "speaker": null
+  },
+  {
+    "start": 260.959,
+    "end": 264.479,
+    "text": "One example is the bends or decompression sickness,",
+    "speaker": null
+  },
+  {
+    "start": 264.479,
+    "end": 269.039,
+    "text": "a serious medical disorder created by nitrogen bubbles in the muscles",
+    "speaker": null
+  },
+  {
+    "start": 269.039,
+    "end": 272.399,
+    "text": "when returning to the surface of the sea too quickly.",
+    "speaker": null
+  },
+  {
+    "start": 272.399,
+    "end": 277.039,
+    "text": "The bends and changes to the voice are examples of how underwater living",
+    "speaker": null
+  },
+  {
+    "start": 277.039,
+    "end": 283.359,
+    "text": "The bends, and changes to the voice, are examples of how underwater living changes the body physiologically – relating to how the bodies of living humans and animals function.",
+    "speaker": "The bendsphysiologically"
+  },
+  {
+    "start": 283.439,
+    "end": 286.48,
+    "text": "As divers descend deep below the ocean's surface,",
+    "speaker": null
+  },
+  {
+    "start": 286.48,
+    "end": 289.52,
+    "text": "there is an increase in atmospheric pressure,",
+    "speaker": null
+  },
+  {
+    "start": 289.52,
+    "end": 292.24,
+    "text": "the normal air pressure within the Earth's atmosphere.",
+    "speaker": null
+  },
+  {
+    "start": 292.8,
+    "end": 294.96,
+    "text": "The deeper they dive, the higher the pressure.",
+    "speaker": null
+  },
+  {
+    "start": 295.759,
+    "end": 300.08,
+    "text": "Physiological reactions like the bends are caused by divers incorrectly",
+    "speaker": null
+  },
+  {
+    "start": 300.08,
+    "end": 303.04,
+    "text": "readjusting to normal atmospheric pressure.",
+    "speaker": null
+  },
+  {
+    "start": 303.04,
+    "end": 306.48,
+    "text": "Well, Neil, with so many difficulties, it's no surprise that",
+    "speaker": null
+  },
+  {
+    "start": 306.48,
+    "end": 311.52,
+    "text": "H.G. Weld's fantasy of living under the sea is still science fiction.",
+    "speaker": null
+  },
+  {
+    "start": 312.079,
+    "end": 314.879,
+    "text": "Ah, but are you sure it was H.G. Weld's, Rob?",
+    "speaker": null
+  },
+  {
+    "start": 315.439,
+    "end": 319.519,
+    "text": "In my quiz question, I asked you who wrote the classic underwater adventure",
+    "speaker": null
+  },
+  {
+    "start": 319.519,
+    "end": 321.919,
+    "text": "20,000 leagues under the sea.",
+    "speaker": null
+  },
+  {
+    "start": 321.919,
+    "end": 324.719,
+    "text": "Yes, and I said A.H.G. Weld's.",
+    "speaker": null
+  },
+  {
+    "start": 324.719,
+    "end": 327.12,
+    "text": "Which was the wrong answer.",
+    "speaker": null
+  },
+  {
+    "start": 327.12,
+    "end": 333.439,
+    "text": "It was in fact C. Jules Verne, the French author, who also wrote around the world in 80 days.",
+    "speaker": null
+  },
+  {
+    "start": 333.439,
+    "end": 337.12,
+    "text": "In this programme, we've been discussing the challenge of living underwater,",
+    "speaker": null
+  },
+  {
+    "start": 337.12,
+    "end": 341.199,
+    "text": "going down vertically at a 90-degree angle to the sea bed,",
+    "speaker": null
+  },
+  {
+    "start": 341.199,
+    "end": 344,
+    "text": "the solid ground hundreds of meters under the sea.",
+    "speaker": null
+  },
+  {
+    "start": 344,
+    "end": 347.759,
+    "text": "Ocean explorers search underwater for natural resources – useful materials like coal and oil.",
+    "speaker": "natural resources"
+  },
+  {
+    "start": 347.759,
+    "end": 350.24,
+    "text": "useful materials like coal and oil.",
+    "speaker": null
+  },
+  {
+    "start": 350.24,
+    "end": 353.039,
+    "text": "But they face many physiological problems,",
+    "speaker": null
+  },
+  {
+    "start": 353.039,
+    "end": 356,
+    "text": "problems relating to how the human body functions,",
+    "speaker": null
+  },
+  {
+    "start": 356,
+    "end": 359.199,
+    "text": "such as the bends, a painful medical condition,",
+    "speaker": null
+  },
+  {
+    "start": 359.199,
+    "end": 362.48,
+    "text": "caused by returning too quickly to atmospheric pressure,",
+    "speaker": null
+  },
+  {
+    "start": 362.48,
+    "end": 364.399,
+    "text": "the Earth's usual air pressure.",
+    "speaker": null
+  },
+  {
+    "start": 364.399,
+    "end": 367.68,
+    "text": "That’s all for this programme, but we hope you’ll be diving back into 6 Minute English very soon. Bye for now!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 367.68,
+    "end": 369.36,
+    "text": "six-minute English very soon.",
+    "speaker": null
+  },
+  {
+    "start": 369.36,
+    "end": 370.319,
+    "text": "Bye for now.",
+    "speaker": null
+  },
+  {
+    "start": 370.319,
+    "end": 370.959,
+    "text": "Bye!",
+    "speaker": "Rob"
+  }
+]

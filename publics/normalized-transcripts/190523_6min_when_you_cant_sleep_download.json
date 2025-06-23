@@ -1,0 +1,692 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.6,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.6,
+    "end": 8.24,
+    "text": "6-Nate English",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 10.4,
+    "text": "From BBC Learning English",
+    "speaker": null
+  },
+  {
+    "start": 12.16,
+    "end": 14.48,
+    "text": "Hello and welcome to 6 Minute English. I'm Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 14.48,
+    "end": 15.439,
+    "text": "And I'm Rob.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 15.439,
+    "end": 16.48,
+    "text": "He looked tired, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 16.48,
+    "end": 18.8,
+    "text": "Well, I didn't sleep well last night.",
+    "speaker": null
+  },
+  {
+    "start": 18.8,
+    "end": 20.879,
+    "text": "I was tossing and turning all night,",
+    "speaker": null
+  },
+  {
+    "start": 20.879,
+    "end": 22.48,
+    "text": "but I couldn't get to sleep.",
+    "speaker": null
+  },
+  {
+    "start": 22.48,
+    "end": 25.92,
+    "text": "Well, that's a coincidence as our topic today is in Somnia.",
+    "speaker": null
+  },
+  {
+    "start": 25.92,
+    "end": 29.92,
+    "text": "Well, that’s a coincidence, as our topic today is insomnia - the condition some people suffer from when they find it difficult to get to sleep when they go to bed.",
+    "speaker": "insomnia"
+  },
+  {
+    "start": 30.08,
+    "end": 31.12,
+    "text": "when they go to bed.",
+    "speaker": null
+  },
+  {
+    "start": 31.12,
+    "end": 33.44,
+    "text": "Thankfully, I don't really have in Somnia,",
+    "speaker": null
+  },
+  {
+    "start": 33.44,
+    "end": 36.88,
+    "text": "Thankfully I don’t really have insomnia, but every now and again, I find it difficult to get to sleep.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 36.88,
+    "end": 40.079,
+    "text": "Well, keep listening and we might have some advice to help with that.",
+    "speaker": null
+  },
+  {
+    "start": 40.079,
+    "end": 41.52,
+    "text": "But first a question.",
+    "speaker": null
+  },
+  {
+    "start": 41.52,
+    "end": 45.28,
+    "text": "What is the record for the longest a human has gone without sleep?",
+    "speaker": null
+  },
+  {
+    "start": 45.28,
+    "end": 49.359,
+    "text": "Is it A about seven days, B about nine days,",
+    "speaker": null
+  },
+  {
+    "start": 49.359,
+    "end": 51.6,
+    "text": "or C about eleven days?",
+    "speaker": null
+  },
+  {
+    "start": 51.6,
+    "end": 53.12,
+    "text": "What do you think, Rob?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 53.12,
+    "end": 54.719,
+    "text": "All of those seem impossible,",
+    "speaker": null
+  },
+  {
+    "start": 54.719,
+    "end": 58.16,
+    "text": "so I've got to go with a shortest about seven days.",
+    "speaker": null
+  },
+  {
+    "start": 58.239,
+    "end": 60.319,
+    "text": "Well, if you can stay awake long enough,",
+    "speaker": null
+  },
+  {
+    "start": 60.319,
+    "end": 62.079,
+    "text": "I'll let you know at the end of the program.",
+    "speaker": null
+  },
+  {
+    "start": 62.079,
+    "end": 65.92,
+    "text": "Dr. Michael Granner is an expert in all things to do with sleep.",
+    "speaker": null
+  },
+  {
+    "start": 65.92,
+    "end": 70.159,
+    "text": "He was interviewed recently on the BBC Radio Program Business Daily.",
+    "speaker": null
+  },
+  {
+    "start": 70.159,
+    "end": 73.519,
+    "text": "He was asked what his best tip was to help you get to sleep",
+    "speaker": null
+  },
+  {
+    "start": 73.519,
+    "end": 75.039,
+    "text": "if you are finding it difficult.",
+    "speaker": null
+  },
+  {
+    "start": 75.599,
+    "end": 76.799,
+    "text": "What was his suggestion?",
+    "speaker": null
+  },
+  {
+    "start": 78.4,
+    "end": 79.599,
+    "text": "And it sounds counterintuitive,",
+    "speaker": null
+  },
+  {
+    "start": 80.319,
+    "end": 83.199,
+    "text": "but trust me, I've got decades of data behind this statement.",
+    "speaker": null
+  },
+  {
+    "start": 83.199,
+    "end": 85.199,
+    "text": "If you cannot sleep, get out of bed.",
+    "speaker": null
+  },
+  {
+    "start": 85.28,
+    "end": 90.159,
+    "text": "So Rob, how does he suggest you help yourself to get to sleep?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 90.159,
+    "end": 95.439,
+    "text": "Well actually, he says that the best thing to do is to get out of bed!",
+    "speaker": "Rob"
+  },
+  {
+    "start": 95.439,
+    "end": 99.68,
+    "text": "That sounds exactly the opposite of what you should do, doesn’t it?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 99.68,
+    "end": 103.439,
+    "text": "Well, he does say that his advice is counterintuitive,",
+    "speaker": null
+  },
+  {
+    "start": 103.439,
+    "end": 107.52,
+    "text": "Well, he does say that his advice is counter-intuitive, which means exactly that. That it is the opposite of what you might expect.",
+    "speaker": "counter-intuitive"
+  },
+  {
+    "start": 107.52,
+    "end": 111.52,
+    "text": "And he says that this advice is backed up by decades of research.",
+    "speaker": null
+  },
+  {
+    "start": 111.52,
+    "end": 114.879,
+    "text": "A decade is a period of ten years, and when we say decades,",
+    "speaker": null
+  },
+  {
+    "start": 115.199,
+    "end": 118.479,
+    "text": "it's a general term for many years, at least 20.",
+    "speaker": null
+  },
+  {
+    "start": 118.479,
+    "end": 120.879,
+    "text": "Let's hear that advice again from Dr. Granner.",
+    "speaker": null
+  },
+  {
+    "start": 121.839,
+    "end": 123.039,
+    "text": "And it sounds counterintuitive,",
+    "speaker": null
+  },
+  {
+    "start": 123.679,
+    "end": 126.64,
+    "text": "but trust me, I've got decades of data behind this statement.",
+    "speaker": null
+  },
+  {
+    "start": 126.64,
+    "end": 128.56,
+    "text": "If you cannot sleep, get out of bed.",
+    "speaker": null
+  },
+  {
+    "start": 130.4,
+    "end": 132.56,
+    "text": "So why is getting out of bed good advice? Here’s the explanation from Dr Grandner.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 133.12,
+    "end": 135.439,
+    "text": "Here's the explanation from Dr. Granner.",
+    "speaker": null
+  },
+  {
+    "start": 136.879,
+    "end": 141.84,
+    "text": "When you're in bed and you're not asleep and you do that over and over and over again,",
+    "speaker": null
+  },
+  {
+    "start": 141.84,
+    "end": 146.719,
+    "text": "for extended periods of time, the ability of the bed to put you to sleep starts getting diluted.",
+    "speaker": null
+  },
+  {
+    "start": 147.599,
+    "end": 152.4,
+    "text": "Not only that, it starts getting replaced by thinking and tossing and turning and",
+    "speaker": null
+  },
+  {
+    "start": 152.4,
+    "end": 155.84,
+    "text": "worrying and doing all these things. When you're not asleep, you get out of bed.",
+    "speaker": null
+  },
+  {
+    "start": 155.84,
+    "end": 159.52,
+    "text": "This is probably one of the most effective ways to prevent chronic insomnia.",
+    "speaker": null
+  },
+  {
+    "start": 159.52,
+    "end": 162.24,
+    "text": "It's also one of the really effective ways to treat it.",
+    "speaker": null
+  },
+  {
+    "start": 162.24,
+    "end": 166.159,
+    "text": "It won't work 100% of the time, but it will actually work more than most people think.",
+    "speaker": null
+  },
+  {
+    "start": 166.96,
+    "end": 169.439,
+    "text": "We normally sleep in beds.",
+    "speaker": null
+  },
+  {
+    "start": 169.439,
+    "end": 175.759,
+    "text": "We normally sleep in beds. Beds are designed to make it easy to sleep, but if we can’t sleep, that makes the bed’s impact weaker. As Dr Grandner says, 'it dilutes the power of the bed to help us sleep'.",
+    "speaker": "dilutes"
+  },
+  {
+    "start": 175.759,
+    "end": 180.4,
+    "text": "As Dr. Granner says, it dilutes the power of the bed to help us sleep.",
+    "speaker": null
+  },
+  {
+    "start": 180.4,
+    "end": 183.28,
+    "text": "When you dilute something, you make it weaker.",
+    "speaker": null
+  },
+  {
+    "start": 183.28,
+    "end": 188.24,
+    "text": "When you dilute something, you make it weaker. For example, you can dilute the strength of a strong fruit juice by adding water to it.",
+    "speaker": "dilute"
+  },
+  {
+    "start": 188.24,
+    "end": 194.479,
+    "text": "So, if we stay in bed tossing and turning, which is the expression we use to describe moving around in the bed,",
+    "speaker": null
+  },
+  {
+    "start": 194.479,
+    "end": 199.519,
+    "text": "trying to get to sleep, we begin to think of the bed as a place where we don't sleep,",
+    "speaker": null
+  },
+  {
+    "start": 199.519,
+    "end": 202.079,
+    "text": "rather than as a place where we do sleep.",
+    "speaker": null
+  },
+  {
+    "start": 202.079,
+    "end": 204.159,
+    "text": "So, get out of bed to break the connection.",
+    "speaker": null
+  },
+  {
+    "start": 204.719,
+    "end": 208.799,
+    "text": "This, he says, is a positive way to approach chronic insomnia.",
+    "speaker": null
+  },
+  {
+    "start": 208.799,
+    "end": 213.759,
+    "text": "Chronic is an adjective that is used to describe conditions that are long-lasting.",
+    "speaker": null
+  },
+  {
+    "start": 213.759,
+    "end": 217.12,
+    "text": "So, we're not talking here about occasionally not being able to get to sleep,",
+    "speaker": null
+  },
+  {
+    "start": 217.12,
+    "end": 219.839,
+    "text": "but a condition where it happens every night.",
+    "speaker": null
+  },
+  {
+    "start": 219.839,
+    "end": 221.679,
+    "text": "Let's hear Dr. Granner again.",
+    "speaker": null
+  },
+  {
+    "start": 222.319,
+    "end": 227.28,
+    "text": "When you're in bed and you're not asleep and you do that over and over and over again,",
+    "speaker": null
+  },
+  {
+    "start": 227.28,
+    "end": 232.159,
+    "text": "for extended periods of time, the ability of the bed to put you to sleep starts getting diluted.",
+    "speaker": null
+  },
+  {
+    "start": 233.04,
+    "end": 238.159,
+    "text": "Not only that, it starts getting replaced by thinking and tossing and turning and worrying",
+    "speaker": null
+  },
+  {
+    "start": 238.159,
+    "end": 239.12,
+    "text": "and doing all these things.",
+    "speaker": null
+  },
+  {
+    "start": 239.12,
+    "end": 241.28,
+    "text": "When you're not asleep, you get out of bed.",
+    "speaker": null
+  },
+  {
+    "start": 241.28,
+    "end": 244.96,
+    "text": "This is probably one of the most effective ways to prevent chronic insomnia.",
+    "speaker": null
+  },
+  {
+    "start": 244.96,
+    "end": 247.68,
+    "text": "It's also one of the really effective ways to treat it.",
+    "speaker": null
+  },
+  {
+    "start": 247.68,
+    "end": 249.6,
+    "text": "It won't work 100% of the time.",
+    "speaker": null
+  },
+  {
+    "start": 249.68,
+    "end": 251.599,
+    "text": "But it will actually work more than most people think.",
+    "speaker": null
+  },
+  {
+    "start": 252.479,
+    "end": 257.519,
+    "text": "Time to review today’s vocabulary, but first, let’s have the answer to the quiz question. What is the record for the longest a human has gone without sleep? Is it:",
+    "speaker": "Neil"
+  },
+  {
+    "start": 257.519,
+    "end": 261.68,
+    "text": "What is the record for the longest a human has gone without sleep?",
+    "speaker": null
+  },
+  {
+    "start": 261.68,
+    "end": 263.92,
+    "text": "A) about seven days?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 263.92,
+    "end": 265.6,
+    "text": "B) about nine days?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 265.6,
+    "end": 267.36,
+    "text": "C about eleven days?",
+    "speaker": null
+  },
+  {
+    "start": 267.36,
+    "end": 269.04,
+    "text": "What did you think, Rob?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 269.04,
+    "end": 271.519,
+    "text": "I thought it must be about seven days.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 271.519,
+    "end": 274.24,
+    "text": "Well, I'm afraid you're not right.",
+    "speaker": null
+  },
+  {
+    "start": 274.24,
+    "end": 278.48,
+    "text": "The answer, rather amazingly, is actually just over eleven days.",
+    "speaker": null
+  },
+  {
+    "start": 278.48,
+    "end": 284.56,
+    "text": "Well, I’m afraid you’re not right. The answer, rather amazingly, is actually just over 11 days. Extra bonus points for anyone who knew that that was done in 1964 by someone called Randy Gardner.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 284.56,
+    "end": 285.68,
+    "text": "That's extraordinary.",
+    "speaker": null
+  },
+  {
+    "start": 285.68,
+    "end": 289.84,
+    "text": "It's difficult to imagine even going a couple of days without sleep, but eleven,",
+    "speaker": null
+  },
+  {
+    "start": 289.84,
+    "end": 291.68,
+    "text": "I wonder how long he slept for after that?",
+    "speaker": null
+  },
+  {
+    "start": 291.68,
+    "end": 293.6,
+    "text": "14 hours and 40 minutes.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 293.6,
+    "end": 295.12,
+    "text": "You’ve got all the answers, haven’t you?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 295.12,
+    "end": 297.68,
+    "text": "Well, when I can't sleep, I get up and read trivia.",
+    "speaker": null
+  },
+  {
+    "start": 298.24,
+    "end": 300.48,
+    "text": "And now it's time for the vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 300.48,
+    "end": 302.72,
+    "text": "Today, our topic has been insomnia.",
+    "speaker": null
+  },
+  {
+    "start": 302.72,
+    "end": 306,
+    "text": "This is the word for the condition of not being able to sleep,",
+    "speaker": null
+  },
+  {
+    "start": 306,
+    "end": 310.48,
+    "text": "This is the word for the condition of not being able to sleep. And something that people do when they are trying to sleep is toss and turn in bed.",
+    "speaker": "toss and turn"
+  },
+  {
+    "start": 310.48,
+    "end": 314.879,
+    "text": "The opposite of what seems logical or obvious is counterintuitive.",
+    "speaker": null
+  },
+  {
+    "start": 314.879,
+    "end": 319.12,
+    "text": "The opposite of what seems logical or obvious is counter-intuitive. It goes against what you might expect. So if you can’t sleep, get out of bed.",
+    "speaker": "counter-intuitive"
+  },
+  {
+    "start": 319.12,
+    "end": 320.879,
+    "text": "Our next word is diluted.",
+    "speaker": null
+  },
+  {
+    "start": 320.879,
+    "end": 324.959,
+    "text": "Our next word is diluted. This is from the verb to dilute which means 'to make something less strong'.",
+    "speaker": "dilutedto dilute"
+  },
+  {
+    "start": 324.959,
+    "end": 327.6,
+    "text": "And finally, there was the adjective chronic.",
+    "speaker": null
+  },
+  {
+    "start": 327.6,
+    "end": 331.04,
+    "text": "This is an expression for a medical condition that is long-lasting.",
+    "speaker": null
+  },
+  {
+    "start": 331.12,
+    "end": 336.4,
+    "text": "So someone who has chronic insomnia regularly has difficulty getting enough sleep.",
+    "speaker": null
+  },
+  {
+    "start": 336.4,
+    "end": 339.12,
+    "text": "It's not just something that happens now and again.",
+    "speaker": null
+  },
+  {
+    "start": 339.12,
+    "end": 342.319,
+    "text": "Well, we hope that six minute English isn't a cure for insomnia,",
+    "speaker": null
+  },
+  {
+    "start": 342.319,
+    "end": 346.48,
+    "text": "Well, we hope that 6 Minute English isn’t a cure for insomnia, but I do find listening to podcasts and spoken radio helps me get to sleep.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 346.48,
+    "end": 351.04,
+    "text": "Well, before we all drop off to sleep from the comforting tone of your voice, Rob,",
+    "speaker": null
+  },
+  {
+    "start": 351.04,
+    "end": 352.48,
+    "text": "it's time for us to say goodbye.",
+    "speaker": null
+  },
+  {
+    "start": 352.48,
+    "end": 353.759,
+    "text": "That's it for this program.",
+    "speaker": null
+  },
+  {
+    "start": 353.759,
+    "end": 357.759,
+    "text": "For more, find us on Facebook, Twitter, Instagram, and our YouTube pages,",
+    "speaker": null
+  },
+  {
+    "start": 357.759,
+    "end": 361.439,
+    "text": "and of course, our website, bbclearningenglish.com,",
+    "speaker": null
+  },
+  {
+    "start": 361.439,
+    "end": 367.519,
+    "text": "where you can find all kinds of other programs and videos and activities to help you improve your English.",
+    "speaker": null
+  },
+  {
+    "start": 367.519,
+    "end": 369.439,
+    "text": "Thank you for joining us and goodbye.",
+    "speaker": null
+  },
+  {
+    "start": 369.439,
+    "end": 369.92,
+    "text": "Bye!",
+    "speaker": "Rob"
+  }
+]

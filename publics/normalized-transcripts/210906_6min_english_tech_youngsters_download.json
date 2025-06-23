@@ -1,0 +1,518 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 13.12,
+    "end": 17.039,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 17.039,
+    "end": 18.24,
+    "text": "And I’m Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 18.24,
+    "end": 23.199,
+    "text": "When you were a teenager did your parents worry that you were watching too much television, Sam?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 24.24,
+    "end": 29.28,
+    "text": "They used to tell me that watching too much TV would turn my eye square.",
+    "speaker": null
+  },
+  {
+    "start": 29.28,
+    "end": 30.32,
+    "text": "But they were only joking.",
+    "speaker": null
+  },
+  {
+    "start": 49.76,
+    "end": 52.56,
+    "text": "I don't think it's all bad news, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 52.56,
+    "end": 56.24,
+    "text": "In fact, in this programme, we'll be taking a look at a new report,",
+    "speaker": null
+  },
+  {
+    "start": 56.56,
+    "end": 62,
+    "text": "which finds little evidence to link technology with mental health problems in adolescence.",
+    "speaker": null
+  },
+  {
+    "start": 62,
+    "end": 66.48,
+    "text": "That's young people who are in the process of developing from children into adults.",
+    "speaker": null
+  },
+  {
+    "start": 67.84,
+    "end": 69.28,
+    "text": "I'm not convinced, Sam.",
+    "speaker": null
+  },
+  {
+    "start": 69.28,
+    "end": 72.96,
+    "text": "I’m not convinced, Sam. Think about how much time youngsters spend staring at screens every day.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 73.84,
+    "end": 76.48,
+    "text": "True, but unlike passively watching television,",
+    "speaker": null
+  },
+  {
+    "start": 76.48,
+    "end": 81.76,
+    "text": "True, but unlike passively watching television today’s technology is interactive, connecting teenagers to their friends around the world.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 82.719,
+    "end": 85.439,
+    "text": "Well, maybe my quiz question will change your mind.",
+    "speaker": null
+  },
+  {
+    "start": 85.519,
+    "end": 86.079,
+    "text": "Are you ready?",
+    "speaker": null
+  },
+  {
+    "start": 86.64,
+    "end": 91.759,
+    "text": "Well, maybe my quiz question will change your mind. Are you ready? On average how many hours per day do British teenagers spend on their screens? Is it:",
+    "speaker": "Neil"
+  },
+  {
+    "start": 91.759,
+    "end": 98.56,
+    "text": "Is it a, five and a half hours, b, six and a half hours, or c, seven and a half hours?",
+    "speaker": null
+  },
+  {
+    "start": 100,
+    "end": 102.56,
+    "text": "I'll say it's b, six and a half hours.",
+    "speaker": null
+  },
+  {
+    "start": 103.28,
+    "end": 104.64,
+    "text": "That sounds a lot to me!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 105.599,
+    "end": 110.479,
+    "text": "Well, whatever Neil thinks, a new study from the Oxford Internet Institute,",
+    "speaker": null
+  },
+  {
+    "start": 110.479,
+    "end": 112,
+    "text": "paints a more hopeful picture.",
+    "speaker": null
+  },
+  {
+    "start": 112.48,
+    "end": 117.439,
+    "text": "The study analysed data from over 400,000 British and American teenagers",
+    "speaker": null
+  },
+  {
+    "start": 117.439,
+    "end": 123.12,
+    "text": "and found little or no link between adolescence tech use and mental health problems.",
+    "speaker": null
+  },
+  {
+    "start": 124.159,
+    "end": 130.56,
+    "text": "Listen to Gareth Mitchell and Gillen Boddington, co-presenters of BBC World Services Digital Planet,",
+    "speaker": null
+  },
+  {
+    "start": 130.56,
+    "end": 132.639,
+    "text": "as they discuss the report's findings.",
+    "speaker": null
+  },
+  {
+    "start": 135.12,
+    "end": 137.92,
+    "text": "Gillen Boddington, you've been looking at some of the findings yourself.",
+    "speaker": null
+  },
+  {
+    "start": 137.92,
+    "end": 138.479,
+    "text": "Haven't you?",
+    "speaker": null
+  },
+  {
+    "start": 138.479,
+    "end": 140.479,
+    "text": "So, what's your response so far?",
+    "speaker": null
+  },
+  {
+    "start": 140.479,
+    "end": 144.319,
+    "text": "Were you expecting, Gillen, to see some kind of smoking guns, some kind of link that would say,",
+    "speaker": null
+  },
+  {
+    "start": 144.319,
+    "end": 145.759,
+    "text": "here we are, here are the harms.",
+    "speaker": null
+  },
+  {
+    "start": 146.56,
+    "end": 151.679,
+    "text": "Not really, because I think we're at a point where teenagers are much more savvy than many adults think.",
+    "speaker": null
+  },
+  {
+    "start": 151.679,
+    "end": 153.199,
+    "text": "So, you know, we are at risk.",
+    "speaker": null
+  },
+  {
+    "start": 153.199,
+    "end": 156.479,
+    "text": "All of us as journalists and research community to assume, maybe,",
+    "speaker": null
+  },
+  {
+    "start": 156.479,
+    "end": 160.239,
+    "text": "this is much more terrible problem than we understand.",
+    "speaker": null
+  },
+  {
+    "start": 160.239,
+    "end": 162.879,
+    "text": "Because if I know the teenagers around me,",
+    "speaker": null
+  },
+  {
+    "start": 162.879,
+    "end": 166.159,
+    "text": "and one thing that they do all have is app lockers on their sites,",
+    "speaker": null
+  },
+  {
+    "start": 166.159,
+    "end": 169.359,
+    "text": "and they are actually quite aware of the addiction problems,",
+    "speaker": null
+  },
+  {
+    "start": 169.36,
+    "end": 171.28,
+    "text": "the design, you know, design for addiction.",
+    "speaker": null
+  },
+  {
+    "start": 173.92,
+    "end": 177.04,
+    "text": "Many people assume that social media harms teenagers,",
+    "speaker": null
+  },
+  {
+    "start": 177.04,
+    "end": 182.4,
+    "text": "so Gareth asked Gillen whether she was expecting to find a smoking gun in the report.",
+    "speaker": null
+  },
+  {
+    "start": 182.96,
+    "end": 188.8,
+    "text": "The expression a smoking gun means evidence that proves something is true, for example, evidence proving that technology is harmful to young people.",
+    "speaker": "a smoking gun"
+  },
+  {
+    "start": 188.8,
+    "end": 193.04,
+    "text": "For example, evidence proving that technology is harmful to young people.",
+    "speaker": null
+  },
+  {
+    "start": 193.76,
+    "end": 196.08,
+    "text": "But Gillen doesn't think this is true.",
+    "speaker": null
+  },
+  {
+    "start": 196.16,
+    "end": 198.88,
+    "text": "Actually, she calls teenagers savvy,",
+    "speaker": null
+  },
+  {
+    "start": 198.88,
+    "end": 201.76,
+    "text": "meaning that they have practical knowledge of technology",
+    "speaker": null
+  },
+  {
+    "start": 201.76,
+    "end": 203.92,
+    "text": "and a good understanding of how to use it.",
+    "speaker": null
+  },
+  {
+    "start": 204.56,
+    "end": 210.64,
+    "text": "One example of teenagers being technologically savvy is their use of app blockers,",
+    "speaker": null
+  },
+  {
+    "start": 210.64,
+    "end": 214.56,
+    "text": "software that prevents unwanted apps and websites from popping up",
+    "speaker": null
+  },
+  {
+    "start": 214.56,
+    "end": 217.92,
+    "text": "and allows users to set timers, which limit screen time.",
+    "speaker": null
+  },
+  {
+    "start": 219.12,
+    "end": 222.32,
+    "text": "And reducing screen time is important because nowadays,",
+    "speaker": null
+  },
+  {
+    "start": 222.319,
+    "end": 226.4,
+    "text": "most video games in social media are designed for addiction,",
+    "speaker": null
+  },
+  {
+    "start": 226.4,
+    "end": 231.68,
+    "text": "intended to manipulate human psychology to make the user once a keep playing.",
+    "speaker": null
+  },
+  {
+    "start": 231.68,
+    "end": 236,
+    "text": "But it seems that today's adolescents are savvy enough to know how to use",
+    "speaker": null
+  },
+  {
+    "start": 236,
+    "end": 238.239,
+    "text": "electronic devices sensibly.",
+    "speaker": null
+  },
+  {
+    "start": 238.239,
+    "end": 242,
+    "text": "How else can we explain the fact that, according to this research,",
+    "speaker": null
+  },
+  {
+    "start": 242,
+    "end": 246.24,
+    "text": "there's no clear link between using tech and mental health problems?",
+    "speaker": null
+  },
+  {
+    "start": 246.959,
+    "end": 250,
+    "text": "Yes, that's certainly the view of the research team leader,",
+    "speaker": null
+  },
+  {
+    "start": 250,
+    "end": 251.52,
+    "text": "Dr. Mati Vore.",
+    "speaker": null
+  },
+  {
+    "start": 251.52,
+    "end": 255.68,
+    "text": "Here he is speaking with BBC World Service Programme Digital Planet",
+    "speaker": null
+  },
+  {
+    "start": 255.68,
+    "end": 258.639,
+    "text": "about an interesting and very modern term.",
+    "speaker": null
+  },
+  {
+    "start": 258.639,
+    "end": 259.6,
+    "text": "See if you can hear it.",
+    "speaker": null
+  },
+  {
+    "start": 261.439,
+    "end": 263.839,
+    "text": "We often hear the term digital native.",
+    "speaker": null
+  },
+  {
+    "start": 264.639,
+    "end": 267.439,
+    "text": "You know, you grow up with a device in your hand almost.",
+    "speaker": null
+  },
+  {
+    "start": 268.16,
+    "end": 274.319,
+    "text": "And then it's not a surprise that you are skilled in using those technologies to your benefit.",
+    "speaker": null
+  },
+  {
+    "start": 276.079,
+    "end": 278.56,
+    "text": "Did you hear the expression, Dr. Vore used Sam?",
+    "speaker": null
+  },
+  {
+    "start": 279.199,
+    "end": 283.04,
+    "text": "Yes, he called teenagers digital natives,",
+    "speaker": null
+  },
+  {
+    "start": 283.04,
+    "end": 288.639,
+    "text": "Yes. He called teenagers digital natives, meaning someone who is very familiar and comfortable using computers and digital technology because they’ve grown up with them.",
+    "speaker": "digital natives"
+  },
+  {
+    "start": 288.639,
+    "end": 290.079,
+    "text": "because they've grown up with them.",
+    "speaker": null
+  },
+  {
+    "start": 290.879,
+    "end": 295.36,
+    "text": "So maybe there are benefits to spending hours looking at screens after all.",
+    "speaker": null
+  },
+  {
+    "start": 295.36,
+    "end": 300.48,
+    "text": "So maybe there are benefits to spending hours looking at screens, after all. In my quiz question I asked Sam about the average daily screen time for British teenagers.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 301.36,
+    "end": 303.92,
+    "text": "I said it was B six and a half hours.",
+    "speaker": null
+  },
+  {
+    "start": 304.24,
+    "end": 306.879,
+    "text": "Which was the correct answer, very savvy of you, Sam.",
+    "speaker": null
+  },
+  {
+    "start": 307.439,
+    "end": 313.04,
+    "text": "Okay, let's recap the vocabulary from this program about the impact of tech on adolescence.",
+    "speaker": null
+  },
+  {
+    "start": 313.04,
+    "end": 315.519,
+    "text": "That's young people who are developing into adults.",
+    "speaker": null
+  },
+  {
+    "start": 316.319,
+    "end": 322.24,
+    "text": "Today's adolescence are digital natives, people who are very familiar with digital technology",
+    "speaker": null
+  },
+  {
+    "start": 322.24,
+    "end": 323.68,
+    "text": "because they've grown up with it.",
+    "speaker": null
+  },
+  {
+    "start": 324.959,
+    "end": 328.719,
+    "text": "If you are savvy, you have a good practical understanding of something.",
+    "speaker": "savvy"
+  },
+  {
+    "start": 329.6,
+    "end": 335.04,
+    "text": "A smoking gun refers to information or evidence that proves that something is true.",
+    "speaker": "smoking gun"
+  },
+  {
+    "start": 336,
+    "end": 341.68,
+    "text": "An app blocker is software that blocks pop-up apps and websites and allows users to set screen time limits.",
+    "speaker": "app blocker"
+  },
+  {
+    "start": 341.68,
+    "end": 348.32,
+    "text": "screen time limits. And designed for addiction describes immersive video games and social media,",
+    "speaker": null
+  },
+  {
+    "start": 348.32,
+    "end": 353.52,
+    "text": "And designed for addiction describes immersive video games and social media which are designed to manipulate human psychology and make it hard to stop playing.",
+    "speaker": "designed for addiction"
+  },
+  {
+    "start": 355.2,
+    "end": 359.759,
+    "text": "That's all for this program, but if you're interested in the issues around digital technology and",
+    "speaker": null
+  },
+  {
+    "start": 359.759,
+    "end": 364.959,
+    "text": "want to find out more, then why not visit the BBC Digital Planet website or follow them on",
+    "speaker": null
+  },
+  {
+    "start": 364.959,
+    "end": 369.68,
+    "text": "their Twitter handle at Digital Planet. Bye for now. Goodbye.",
+    "speaker": null
+  }
+]

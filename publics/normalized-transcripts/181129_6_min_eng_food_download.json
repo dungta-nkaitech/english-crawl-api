@@ -1,0 +1,842 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.279,
+    "text": "6 Minute English.",
+    "speaker": null
+  },
+  {
+    "start": 8.279,
+    "end": 10.88,
+    "text": "From BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 13.4,
+    "end": 16.48,
+    "text": "Hello and welcome to 6 Minute English, I'm Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 16.48,
+    "end": 17.559,
+    "text": "And I'm Rob.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 17.559,
+    "end": 20.039,
+    "text": "And in this programme we're discussing food.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 20.039,
+    "end": 22.64,
+    "text": "Ah, food, glorious food.",
+    "speaker": null
+  },
+  {
+    "start": 22.64,
+    "end": 25.359,
+    "text": "Food glorious food! There's only one thing better than talking about food and that's eating it.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 25.359,
+    "end": 26.8,
+    "text": "and that's eating it.",
+    "speaker": null
+  },
+  {
+    "start": 26.8,
+    "end": 29.44,
+    "text": "Well, I know you are a bit of a gastronome.",
+    "speaker": null
+  },
+  {
+    "start": 29.48,
+    "end": 33.24,
+    "text": "Someone who enjoys and knows a lot about high quality food.",
+    "speaker": null
+  },
+  {
+    "start": 33.24,
+    "end": 37.12,
+    "text": "But today we're talking about photographing food, not eating it.",
+    "speaker": null
+  },
+  {
+    "start": 37.12,
+    "end": 40.92,
+    "text": "Ah, that's a shame because I am on a seafood diet.",
+    "speaker": null
+  },
+  {
+    "start": 40.92,
+    "end": 43.2,
+    "text": "If I see food, I have to eat it.",
+    "speaker": null
+  },
+  {
+    "start": 43.2,
+    "end": 43.799,
+    "text": "Get it?",
+    "speaker": null
+  },
+  {
+    "start": 43.799,
+    "end": 46.2,
+    "text": "Yes, Rob, very, very funny.",
+    "speaker": null
+  },
+  {
+    "start": 46.2,
+    "end": 51.04,
+    "text": "But in the social media-addicted world, just seeing food, not eating it,",
+    "speaker": null
+  },
+  {
+    "start": 51.04,
+    "end": 53.92,
+    "text": "is big business, as I will explain shortly.",
+    "speaker": null
+  },
+  {
+    "start": 53.92,
+    "end": 56.32,
+    "text": "But shall we feast on a question first, Rob?",
+    "speaker": null
+  },
+  {
+    "start": 56.32,
+    "end": 57.88,
+    "text": "Yep, if it tastes good.",
+    "speaker": null
+  },
+  {
+    "start": 57.88,
+    "end": 58.719,
+    "text": "It does.",
+    "speaker": null
+  },
+  {
+    "start": 58.759,
+    "end": 61.119,
+    "text": "So, do you know the name for the person",
+    "speaker": null
+  },
+  {
+    "start": 61.119,
+    "end": 64.519,
+    "text": "who's usually second in charge in a restaurant kitchen",
+    "speaker": null
+  },
+  {
+    "start": 64.519,
+    "end": 66.12,
+    "text": "after the head chef",
+    "speaker": null
+  },
+  {
+    "start": 66.12,
+    "end": 68.439,
+    "text": "and has lots of responsibility for running it?",
+    "speaker": null
+  },
+  {
+    "start": 68.439,
+    "end": 74,
+    "text": "Is it the A, pastry chef, B, commie chef, or C, sous chef?",
+    "speaker": null
+  },
+  {
+    "start": 74,
+    "end": 79.12,
+    "text": "Ah, well, I'm not a chef expert, but I'll say C, a sous chef.",
+    "speaker": null
+  },
+  {
+    "start": 79.12,
+    "end": 80.48,
+    "text": "It sounds important.",
+    "speaker": null
+  },
+  {
+    "start": 80.48,
+    "end": 83.159,
+    "text": "Well, I'll give you the answer later in the programme.",
+    "speaker": null
+  },
+  {
+    "start": 83.159,
+    "end": 86.439,
+    "text": "Now, let me explain more about food and photos.",
+    "speaker": null
+  },
+  {
+    "start": 86.48,
+    "end": 91.159,
+    "text": "These days, how well a dish, that's a noun for food prepared for eating,",
+    "speaker": null
+  },
+  {
+    "start": 91.159,
+    "end": 95.48,
+    "text": "is photographed, can matter more than how it actually tastes.",
+    "speaker": null
+  },
+  {
+    "start": 95.48,
+    "end": 98.56,
+    "text": "And I suppose social media platforms are the best way",
+    "speaker": null
+  },
+  {
+    "start": 98.56,
+    "end": 101.48,
+    "text": "for sharing food photos on, aren't they?",
+    "speaker": null
+  },
+  {
+    "start": 101.48,
+    "end": 105.68,
+    "text": "And I have been guilty of taking a picture of my food on my smartphone,",
+    "speaker": null
+  },
+  {
+    "start": 105.68,
+    "end": 108.759,
+    "text": "but only when eating some amazing food at a posh restaurant.",
+    "speaker": null
+  },
+  {
+    "start": 108.759,
+    "end": 110.84,
+    "text": "Which isn't very often, I suppose.",
+    "speaker": null
+  },
+  {
+    "start": 110.84,
+    "end": 114.28,
+    "text": "But by sharing images across social media, people see them",
+    "speaker": null
+  },
+  {
+    "start": 114.28,
+    "end": 116.12,
+    "text": "and think the food looks delicious.",
+    "speaker": null
+  },
+  {
+    "start": 116.12,
+    "end": 118.359,
+    "text": "I must go to that restaurant and eat it.",
+    "speaker": null
+  },
+  {
+    "start": 118.359,
+    "end": 121.56,
+    "text": "You could argue it's all about style over substance,",
+    "speaker": null
+  },
+  {
+    "start": 121.56,
+    "end": 126,
+    "text": "meaning the look of something is better than the actual content or product.",
+    "speaker": null
+  },
+  {
+    "start": 126,
+    "end": 130.56,
+    "text": "Maybe Rob, although I'm sure sometimes the food tastes just as good as it looks.",
+    "speaker": null
+  },
+  {
+    "start": 130.56,
+    "end": 135.319,
+    "text": "Anyway, the BBC Radio 4 programme you and yours has been looking into this.",
+    "speaker": null
+  },
+  {
+    "start": 135.319,
+    "end": 138.96,
+    "text": "They spoke to several influential Instagrammers and bloggers.",
+    "speaker": null
+  },
+  {
+    "start": 138.96,
+    "end": 143.319,
+    "text": "Influential means having the power to make people change what they think.",
+    "speaker": null
+  },
+  {
+    "start": 143.319,
+    "end": 145.28,
+    "text": "Here's one of them, Rebecca Milford,",
+    "speaker": null
+  },
+  {
+    "start": 145.319,
+    "end": 147.599,
+    "text": "who edits a website called Bar Chick.",
+    "speaker": null
+  },
+  {
+    "start": 147.599,
+    "end": 150.199,
+    "text": "What does she think about this new trend?",
+    "speaker": null
+  },
+  {
+    "start": 150.199,
+    "end": 153.24,
+    "text": "I mean, it sounds very cliche that a picture speaks a thousand words,",
+    "speaker": null
+  },
+  {
+    "start": 153.24,
+    "end": 154.479,
+    "text": "but it really does.",
+    "speaker": null
+  },
+  {
+    "start": 154.479,
+    "end": 157.56,
+    "text": "And I've got friends now that instead of doing what you used to do",
+    "speaker": null
+  },
+  {
+    "start": 157.56,
+    "end": 161.199,
+    "text": "and going onto the website of a restaurant to see what they were serving,",
+    "speaker": null
+  },
+  {
+    "start": 161.199,
+    "end": 164.479,
+    "text": "then you've gone to the Instagram account and check out the images",
+    "speaker": null
+  },
+  {
+    "start": 164.479,
+    "end": 167.479,
+    "text": "and choose what you want to eat literally based on what you're seeing.",
+    "speaker": null
+  },
+  {
+    "start": 167.479,
+    "end": 169.639,
+    "text": "So it has to be presentable, I suppose.",
+    "speaker": null
+  },
+  {
+    "start": 169.639,
+    "end": 172.599,
+    "text": "Rebecca used a well-known and well-used phrase there.",
+    "speaker": null
+  },
+  {
+    "start": 172.599,
+    "end": 175.12,
+    "text": "One that is used so much, it has become boring.",
+    "speaker": null
+  },
+  {
+    "start": 175.12,
+    "end": 176.92,
+    "text": "What we call a cliché.",
+    "speaker": null
+  },
+  {
+    "start": 176.92,
+    "end": 180.28,
+    "text": "The phrase is a picture speaks a thousand words.",
+    "speaker": null
+  },
+  {
+    "start": 180.28,
+    "end": 183.92,
+    "text": "Yes, and even if it is a cliché, it's so true.",
+    "speaker": null
+  },
+  {
+    "start": 183.92,
+    "end": 187.08,
+    "text": "You describe a fantastic meal in a long blog,",
+    "speaker": null
+  },
+  {
+    "start": 187.08,
+    "end": 190.08,
+    "text": "but you can quickly see how it looks from a picture",
+    "speaker": null
+  },
+  {
+    "start": 190.08,
+    "end": 193.56,
+    "text": "and then create an idea in your mind of how it tastes.",
+    "speaker": null
+  },
+  {
+    "start": 193.56,
+    "end": 197.12,
+    "text": "So when you're promoting food, a photo is everything.",
+    "speaker": null
+  },
+  {
+    "start": 197.12,
+    "end": 200.84,
+    "text": "And that's why some restaurants pay PR companies lots of money",
+    "speaker": null
+  },
+  {
+    "start": 200.84,
+    "end": 204.52,
+    "text": "to take stylish photos that can be shared on social media.",
+    "speaker": null
+  },
+  {
+    "start": 204.56,
+    "end": 206.76,
+    "text": "It's like a fashion photo shoot for food.",
+    "speaker": null
+  },
+  {
+    "start": 206.76,
+    "end": 210.68,
+    "text": "Yes, and Rebecca said the food has to be presentable.",
+    "speaker": null
+  },
+  {
+    "start": 210.68,
+    "end": 213.24,
+    "text": "That's looking good enough for people to see",
+    "speaker": null
+  },
+  {
+    "start": 213.24,
+    "end": 216.24,
+    "text": "because people are making choices on what they see.",
+    "speaker": null
+  },
+  {
+    "start": 216.24,
+    "end": 218.76,
+    "text": "I've also heard that some chefs and restriators",
+    "speaker": null
+  },
+  {
+    "start": 218.76,
+    "end": 221.64,
+    "text": "have adjusted their menus to produce meals",
+    "speaker": null
+  },
+  {
+    "start": 221.64,
+    "end": 224,
+    "text": "that look good on a smartphone camera.",
+    "speaker": null
+  },
+  {
+    "start": 224,
+    "end": 226.48,
+    "text": "A restriotor, by the way, is the name of a person",
+    "speaker": null
+  },
+  {
+    "start": 226.48,
+    "end": 228.6,
+    "text": "who owns and manages a restaurant.",
+    "speaker": null
+  },
+  {
+    "start": 229.64,
+    "end": 232.48,
+    "text": "Now, while there is a risk that good-looking food",
+    "speaker": null
+  },
+  {
+    "start": 232.519,
+    "end": 235.239,
+    "text": "on social media accounts, such as Instagram,",
+    "speaker": null
+  },
+  {
+    "start": 235.239,
+    "end": 237.56,
+    "text": "might not match how it tastes,",
+    "speaker": null
+  },
+  {
+    "start": 237.56,
+    "end": 240.399,
+    "text": "there is a theory your brain might trick you into thinking",
+    "speaker": null
+  },
+  {
+    "start": 240.399,
+    "end": 242.319,
+    "text": "it does taste good.",
+    "speaker": null
+  },
+  {
+    "start": 242.319,
+    "end": 245.599,
+    "text": "The You and Yours program also heard from Professor Charles Spence,",
+    "speaker": null
+  },
+  {
+    "start": 245.599,
+    "end": 248.599,
+    "text": "an experimental psychologist from Oxford University",
+    "speaker": null
+  },
+  {
+    "start": 248.599,
+    "end": 250.079,
+    "text": "about how this happens.",
+    "speaker": null
+  },
+  {
+    "start": 250.079,
+    "end": 253.039,
+    "text": "We see the food first or the drink in the glass,",
+    "speaker": null
+  },
+  {
+    "start": 253.039,
+    "end": 256,
+    "text": "and our brain's already imagining what it's going to taste like,",
+    "speaker": null
+  },
+  {
+    "start": 256,
+    "end": 258.56,
+    "text": "and the more beautifully it's presented, the more artistically.",
+    "speaker": null
+  },
+  {
+    "start": 258.56,
+    "end": 260.079,
+    "text": "That sets better expectations,",
+    "speaker": null
+  },
+  {
+    "start": 260.079,
+    "end": 263.719,
+    "text": "and they carry over an anchor the tasting experience.",
+    "speaker": null
+  },
+  {
+    "start": 263.719,
+    "end": 267.439,
+    "text": "Right, so a great photo of food can possibly make us think",
+    "speaker": null
+  },
+  {
+    "start": 267.439,
+    "end": 268.919,
+    "text": "it tastes better too.",
+    "speaker": null
+  },
+  {
+    "start": 268.919,
+    "end": 271.519,
+    "text": "We create an idea in our head of how it will taste,",
+    "speaker": null
+  },
+  {
+    "start": 271.519,
+    "end": 273.839,
+    "text": "which influences our expectations",
+    "speaker": null
+  },
+  {
+    "start": 273.839,
+    "end": 275.839,
+    "text": "when we actually eat the food.",
+    "speaker": null
+  },
+  {
+    "start": 275.839,
+    "end": 279.24,
+    "text": "And expectation means the feeling that something good is going to happen.",
+    "speaker": "expectation"
+  },
+  {
+    "start": 279.24,
+    "end": 280.399,
+    "text": "is going to happen.",
+    "speaker": null
+  },
+  {
+    "start": 280.399,
+    "end": 282.719,
+    "text": "Right, Rob. I'm sure you're expecting the answer",
+    "speaker": null
+  },
+  {
+    "start": 282.719,
+    "end": 284.479,
+    "text": "to the question I said to you earlier.",
+    "speaker": null
+  },
+  {
+    "start": 284.479,
+    "end": 286.599,
+    "text": "I asked if you knew the name for the person",
+    "speaker": null
+  },
+  {
+    "start": 286.599,
+    "end": 289.56,
+    "text": "who's usually second in charge in a restaurant kitchen",
+    "speaker": null
+  },
+  {
+    "start": 289.56,
+    "end": 293.48,
+    "text": "after the head chef and has lots of responsibility for running it.",
+    "speaker": null
+  },
+  {
+    "start": 293.48,
+    "end": 298.16,
+    "text": "Is it the A, pastry chef, B, commie chef, or C, sous chef?",
+    "speaker": null
+  },
+  {
+    "start": 298.16,
+    "end": 299.48,
+    "text": "What did you say, Rob?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 299.48,
+    "end": 301.639,
+    "text": "Well, I said C, a sous chef.",
+    "speaker": null
+  },
+  {
+    "start": 301.639,
+    "end": 302.72,
+    "text": "Am I right?",
+    "speaker": null
+  },
+  {
+    "start": 302.72,
+    "end": 303.68,
+    "text": "You are, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 303.68,
+    "end": 307.04,
+    "text": "You are Rob! Give that man a job, here maybe in the BBC canteen!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 307.04,
+    "end": 310.399,
+    "text": "Come on, Neil, I think I can do better than that.",
+    "speaker": null
+  },
+  {
+    "start": 310.399,
+    "end": 312.959,
+    "text": "But before I do, let's remind ourselves",
+    "speaker": null
+  },
+  {
+    "start": 312.959,
+    "end": 315.879,
+    "text": "of some of the vocabulary we've discussed today.",
+    "speaker": null
+  },
+  {
+    "start": 315.879,
+    "end": 317.319,
+    "text": "Starting with gastronome,",
+    "speaker": null
+  },
+  {
+    "start": 317.319,
+    "end": 321.599,
+    "text": "that someone who enjoys and knows a lot about high quality food.",
+    "speaker": null
+  },
+  {
+    "start": 321.599,
+    "end": 322.68,
+    "text": "Someone like me.",
+    "speaker": null
+  },
+  {
+    "start": 322.68,
+    "end": 324.079,
+    "text": "Yeah, maybe, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 324.079,
+    "end": 326.399,
+    "text": "We also discuss the word influential,",
+    "speaker": null
+  },
+  {
+    "start": 326.399,
+    "end": 329.8,
+    "text": "Maybe, Rob. We also discussed the word influential, meaning having the power to make people change what they think.",
+    "speaker": "influential"
+  },
+  {
+    "start": 329.8,
+    "end": 332.8,
+    "text": "We also mentioned cliché, a well-known phrase",
+    "speaker": null
+  },
+  {
+    "start": 332.8,
+    "end": 335.68,
+    "text": "that is so overused it's become boring.",
+    "speaker": null
+  },
+  {
+    "start": 335.68,
+    "end": 338.959,
+    "text": "Like, for example, a picture speaks a thousand words.",
+    "speaker": null
+  },
+  {
+    "start": 338.959,
+    "end": 340.639,
+    "text": "You never use clichés, do you, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 340.639,
+    "end": 342,
+    "text": "Absolutely never.",
+    "speaker": null
+  },
+  {
+    "start": 342,
+    "end": 343.879,
+    "text": "Let's move on to presentable.",
+    "speaker": null
+  },
+  {
+    "start": 343.879,
+    "end": 345.959,
+    "text": "That describes something that looks good",
+    "speaker": null
+  },
+  {
+    "start": 345.959,
+    "end": 348.719,
+    "text": "is smart and is good enough for people to see.",
+    "speaker": null
+  },
+  {
+    "start": 348.719,
+    "end": 351.68,
+    "text": "A bit like me in my smart new jumper, do you like it?",
+    "speaker": null
+  },
+  {
+    "start": 351.68,
+    "end": 352.68,
+    "text": "You're very nice.",
+    "speaker": null
+  },
+  {
+    "start": 352.68,
+    "end": 355.599,
+    "text": "Well, a presenter has to be presentable, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 355.599,
+    "end": 357.68,
+    "text": "Our next word was expectation,",
+    "speaker": null
+  },
+  {
+    "start": 357.68,
+    "end": 361.479,
+    "text": "a word that describes the feeling that something good is going to happen.",
+    "speaker": null
+  },
+  {
+    "start": 361.479,
+    "end": 364.519,
+    "text": "I have an expectation that people will love this programme.",
+    "speaker": null
+  },
+  {
+    "start": 364.519,
+    "end": 365.679,
+    "text": "Well let's hope so!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 365.679,
+    "end": 366.439,
+    "text": "Yes.",
+    "speaker": null
+  },
+  {
+    "start": 366.439,
+    "end": 368.959,
+    "text": "And that brings us to the end of this programme.",
+    "speaker": null
+  },
+  {
+    "start": 368.959,
+    "end": 372.039,
+    "text": "Don't forget to check out our social media platforms.",
+    "speaker": null
+  },
+  {
+    "start": 372.039,
+    "end": 372.839,
+    "text": "See you soon.",
+    "speaker": null
+  },
+  {
+    "start": 372.839,
+    "end": 373.479,
+    "text": "Bye!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 373.479,
+    "end": 374,
+    "text": "Goodbye.",
+    "speaker": null
+  },
+  {
+    "start": 374.879,
+    "end": 376.639,
+    "text": "6-minute English.",
+    "speaker": null
+  },
+  {
+    "start": 376.639,
+    "end": 378.959,
+    "text": "From BBC Learning English.",
+    "speaker": null
+  }
+]

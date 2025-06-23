@@ -1,0 +1,752 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.24,
+    "text": "6MuteEnglish",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 10.88,
+    "text": "from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 11.679,
+    "end": 14.96,
+    "text": "Hello and welcome to 6MuteEnglish. I'm Alice.",
+    "speaker": null
+  },
+  {
+    "start": 14.96,
+    "end": 18.879,
+    "text": "And I'm Rob… Now, Alice – how old are you?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 18.879,
+    "end": 21.839,
+    "text": "I'm 21, Rob – not a day older!",
+    "speaker": "Alice"
+  },
+  {
+    "start": 21.839,
+    "end": 24.32,
+    "text": "Come on, don't be coy about your age, Alice.",
+    "speaker": null
+  },
+  {
+    "start": 24.32,
+    "end": 28.16,
+    "text": "Cooy, by the way, means not wanting to give away information about yourself.",
+    "speaker": null
+  },
+  {
+    "start": 28.16,
+    "end": 33.679,
+    "text": "I'm not being coy, Rob. I just… don't feel like telling everyone how old I am. Some people think it's rude to ask.",
+    "speaker": "Alice"
+  },
+  {
+    "start": 34.56,
+    "end": 37.039,
+    "text": "Some people think it's rude to ask.",
+    "speaker": null
+  },
+  {
+    "start": 37.039,
+    "end": 40.56,
+    "text": "I don't mean to be rude, of course, but, well, you are being coy.",
+    "speaker": null
+  },
+  {
+    "start": 40.56,
+    "end": 47.12,
+    "text": "I don't mean to be rude of course but … well, you are being coy. I'm asking because today we're talking about age and whether you can be too old for some things. What do you think?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 47.12,
+    "end": 48.079,
+    "text": "What do you think?",
+    "speaker": null
+  },
+  {
+    "start": 48.079,
+    "end": 52.56,
+    "text": "I'm too old to order of children's menus in restaurants, but I still do it.",
+    "speaker": null
+  },
+  {
+    "start": 52.56,
+    "end": 53.6,
+    "text": "Anything else?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 53.6,
+    "end": 56.4,
+    "text": "Well, I couldn't pull an all-nighter anymore.",
+    "speaker": "pull an all-nighter"
+  },
+  {
+    "start": 56.479,
+    "end": 58.32,
+    "text": "Okay, that's another way of saying,",
+    "speaker": null
+  },
+  {
+    "start": 58.32,
+    "end": 60.079,
+    "text": "stay up all night to finish something.",
+    "speaker": null
+  },
+  {
+    "start": 60.64,
+    "end": 62.719,
+    "text": "That's what students do to get their work done.",
+    "speaker": null
+  },
+  {
+    "start": 62.719,
+    "end": 65.679,
+    "text": "I used to be able to do it, and now I couldn't.",
+    "speaker": null
+  },
+  {
+    "start": 65.679,
+    "end": 68.64,
+    "text": "I struggled to stay up on New Year's Eve until midnight.",
+    "speaker": null
+  },
+  {
+    "start": 68.64,
+    "end": 71.359,
+    "text": "But let's move on to today's quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 71.359,
+    "end": 76.159,
+    "text": "What percentage of people aged over 65 surveyed in the UK",
+    "speaker": null
+  },
+  {
+    "start": 76.159,
+    "end": 78.56,
+    "text": "described themselves as old?",
+    "speaker": null
+  },
+  {
+    "start": 78.56,
+    "end": 86.079,
+    "text": "Is it a 6% B 16% or C 60%?",
+    "speaker": null
+  },
+  {
+    "start": 86.079,
+    "end": 89.439,
+    "text": "Well, I think it's just a 6%.",
+    "speaker": null
+  },
+  {
+    "start": 89.439,
+    "end": 91.439,
+    "text": "Well, I think it's just a) 6%. People don't like to think of themselves as old.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 91.439,
+    "end": 95.28,
+    "text": "Well, we'll find out if you got the answer right or wrong later in the show.",
+    "speaker": null
+  },
+  {
+    "start": 96.079,
+    "end": 99.439,
+    "text": "First, let's explore the subject of aging more.",
+    "speaker": null
+  },
+  {
+    "start": 99.439,
+    "end": 103.519,
+    "text": "Tell me, Rob, do you think you can be too old to take up a new hobby?",
+    "speaker": null
+  },
+  {
+    "start": 103.519,
+    "end": 106.719,
+    "text": "Oh, I might be. I mean, it depends on the hobby, of course.",
+    "speaker": null
+  },
+  {
+    "start": 106.719,
+    "end": 109.439,
+    "text": "I might be, I mean, depends on the hobby of course. I went for a run the other day, and it nearly killed me.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 109.439,
+    "end": 111.759,
+    "text": "Oh, that just means you're unfit, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 112.16,
+    "end": 112.96,
+    "text": "Ah.",
+    "speaker": null
+  },
+  {
+    "start": 112.96,
+    "end": 116.32,
+    "text": "Let's listen to Ernestine Shepherd, who didn't think she was too old",
+    "speaker": null
+  },
+  {
+    "start": 116.32,
+    "end": 118.719,
+    "text": "to take up an interesting new hobby.",
+    "speaker": null
+  },
+  {
+    "start": 118.719,
+    "end": 122.719,
+    "text": "At the age of 71, she started bodybuilding,",
+    "speaker": null
+  },
+  {
+    "start": 122.719,
+    "end": 125.52,
+    "text": "and is currently listed in the Guinness Book of Records",
+    "speaker": null
+  },
+  {
+    "start": 125.52,
+    "end": 128.4,
+    "text": "as the oldest female bodybuilder in the world.",
+    "speaker": null
+  },
+  {
+    "start": 130.159,
+    "end": 137.2,
+    "text": "If ever there were an anti-aging pill, I would call it exercise.",
+    "speaker": null
+  },
+  {
+    "start": 137.2,
+    "end": 141.04,
+    "text": "I enjoy working out with the people who come to the church.",
+    "speaker": null
+  },
+  {
+    "start": 141.759,
+    "end": 144.479,
+    "text": "Sometimes they say, oh, this hurts.",
+    "speaker": null
+  },
+  {
+    "start": 144.479,
+    "end": 149.519,
+    "text": "But I tell people, age is nothing but a number.",
+    "speaker": null
+  },
+  {
+    "start": 149.519,
+    "end": 152.959,
+    "text": "I am 75 years of age.",
+    "speaker": null
+  },
+  {
+    "start": 152.959,
+    "end": 157.28,
+    "text": "This morning, I awakened at 2.30.",
+    "speaker": null
+  },
+  {
+    "start": 157.28,
+    "end": 163.359,
+    "text": "I have a group of four other people who run with me in the mornings.",
+    "speaker": null
+  },
+  {
+    "start": 163.359,
+    "end": 166.239,
+    "text": "We run about 10 miles every day.",
+    "speaker": null
+  },
+  {
+    "start": 167.84,
+    "end": 170.479,
+    "text": "Wow! That was Ernestine Shepherd. What an example to us all!",
+    "speaker": "Rob"
+  },
+  {
+    "start": 170.479,
+    "end": 172.159,
+    "text": "What an example to a soul.",
+    "speaker": null
+  },
+  {
+    "start": 172.159,
+    "end": 175.759,
+    "text": "Work out, by the way, means taking exercise to make yourself fit.",
+    "speaker": null
+  },
+  {
+    "start": 176.479,
+    "end": 179.519,
+    "text": "I think it's true that if we did more exercise every day,",
+    "speaker": null
+  },
+  {
+    "start": 179.519,
+    "end": 182,
+    "text": "we would all look and feel much better.",
+    "speaker": null
+  },
+  {
+    "start": 182,
+    "end": 187.039,
+    "text": "Ernestine is all for exercise, but I'm afraid I take some anti-aging pill,",
+    "speaker": null
+  },
+  {
+    "start": 187.039,
+    "end": 188.159,
+    "text": "if one existed.",
+    "speaker": null
+  },
+  {
+    "start": 188.159,
+    "end": 191.28,
+    "text": "If something is advertised as being anti-aging,",
+    "speaker": null
+  },
+  {
+    "start": 191.28,
+    "end": 194.319,
+    "text": "If something is advertised as being anti-aging it means it's designed to stop you looking older.",
+    "speaker": "anti-aging"
+  },
+  {
+    "start": 194.319,
+    "end": 196.719,
+    "text": "And you can find hundreds of products these days",
+    "speaker": null
+  },
+  {
+    "start": 196.719,
+    "end": 199.519,
+    "text": "that claim to have anti-aging properties.",
+    "speaker": null
+  },
+  {
+    "start": 199.6,
+    "end": 202.719,
+    "text": "Lots of lotions and potions for women in particular.",
+    "speaker": null
+  },
+  {
+    "start": 202.719,
+    "end": 206.88,
+    "text": "Yes, that's because women feel pressurised to look younger than their age.",
+    "speaker": null
+  },
+  {
+    "start": 206.88,
+    "end": 209.84,
+    "text": "It's an example of ageism and it isn't fair.",
+    "speaker": null
+  },
+  {
+    "start": 209.84,
+    "end": 213.92,
+    "text": "Ageism means discrimination against people because of their age.",
+    "speaker": null
+  },
+  {
+    "start": 213.92,
+    "end": 219.2,
+    "text": "And sometimes people can be discriminated against in the workplace for being too old.",
+    "speaker": null
+  },
+  {
+    "start": 219.2,
+    "end": 222.48,
+    "text": "Now, do you think you could be too old to take up a new job, Alice?",
+    "speaker": null
+  },
+  {
+    "start": 222.48,
+    "end": 225.68,
+    "text": "No, I don't get the concept of too old at all.",
+    "speaker": null
+  },
+  {
+    "start": 225.68,
+    "end": 227.84,
+    "text": "My grandparents both still work,",
+    "speaker": null
+  },
+  {
+    "start": 227.84,
+    "end": 231.039,
+    "text": "and they have more enthusiasm and energy than I do.",
+    "speaker": null
+  },
+  {
+    "start": 231.039,
+    "end": 235.12,
+    "text": "They hate being called senior citizens and old age pensioners",
+    "speaker": null
+  },
+  {
+    "start": 235.12,
+    "end": 238.64,
+    "text": "or by the initials of these words, O-A-P.",
+    "speaker": null
+  },
+  {
+    "start": 238.64,
+    "end": 239.68,
+    "text": "And they're right.",
+    "speaker": null
+  },
+  {
+    "start": 239.68,
+    "end": 242.08,
+    "text": "Who wants to be defined by their age?",
+    "speaker": null
+  },
+  {
+    "start": 242.08,
+    "end": 244.8,
+    "text": "You just said don't get this concept",
+    "speaker": null
+  },
+  {
+    "start": 244.8,
+    "end": 247.52,
+    "text": "and to get something means to understand it.",
+    "speaker": null
+  },
+  {
+    "start": 247.52,
+    "end": 249.68,
+    "text": "So I suppose you stay the same inside.",
+    "speaker": null
+  },
+  {
+    "start": 249.68,
+    "end": 251.92,
+    "text": "It's just the outside that changes.",
+    "speaker": null
+  },
+  {
+    "start": 251.92,
+    "end": 253.92,
+    "text": "We have to be young at heart at least.",
+    "speaker": null
+  },
+  {
+    "start": 253.92,
+    "end": 257.28,
+    "text": "And age is no reason for some people to stop working",
+    "speaker": null
+  },
+  {
+    "start": 257.359,
+    "end": 259.119,
+    "text": "if they're in good health.",
+    "speaker": null
+  },
+  {
+    "start": 259.119,
+    "end": 260.799,
+    "text": "Let's listen to Trisha Custon,",
+    "speaker": null
+  },
+  {
+    "start": 260.799,
+    "end": 263.359,
+    "text": "who started a new business at 65,",
+    "speaker": null
+  },
+  {
+    "start": 263.359,
+    "end": 266.399,
+    "text": "supplying beauty products for older women.",
+    "speaker": null
+  },
+  {
+    "start": 266.399,
+    "end": 269.439,
+    "text": "Her age actually inspired her choice of work.",
+    "speaker": null
+  },
+  {
+    "start": 270.959,
+    "end": 272.639,
+    "text": "I had an idea.",
+    "speaker": null
+  },
+  {
+    "start": 272.639,
+    "end": 275.039,
+    "text": "I've seen a problem and an opportunity.",
+    "speaker": null
+  },
+  {
+    "start": 275.039,
+    "end": 278.079,
+    "text": "And I've done something about it and created a business",
+    "speaker": null
+  },
+  {
+    "start": 278.079,
+    "end": 280.719,
+    "text": "which I'm very happy to say is very successful.",
+    "speaker": null
+  },
+  {
+    "start": 280.719,
+    "end": 281.599,
+    "text": "I mean, I started it.",
+    "speaker": null
+  },
+  {
+    "start": 281.599,
+    "end": 283.119,
+    "text": "It was going to be a hobby.",
+    "speaker": null
+  },
+  {
+    "start": 283.119,
+    "end": 284.959,
+    "text": "You know, something to keep me out of trouble.",
+    "speaker": null
+  },
+  {
+    "start": 284.959,
+    "end": 286.079,
+    "text": "Give me something to do.",
+    "speaker": null
+  },
+  {
+    "start": 286.879,
+    "end": 288.319,
+    "text": "Trisha Custon there.",
+    "speaker": null
+  },
+  {
+    "start": 288.319,
+    "end": 291.039,
+    "text": "She started a new hobby and it turned",
+    "speaker": null
+  },
+  {
+    "start": 291.039,
+    "end": 293.359,
+    "text": "into a successful business enterprise.",
+    "speaker": null
+  },
+  {
+    "start": 294,
+    "end": 295.279,
+    "text": "Now, before we finish,",
+    "speaker": null
+  },
+  {
+    "start": 295.279,
+    "end": 298.24,
+    "text": "I'd just like to put the case for older men.",
+    "speaker": null
+  },
+  {
+    "start": 298.24,
+    "end": 301.919,
+    "text": "My dad, my granddad, Sean Connery, Michael Cain,",
+    "speaker": null
+  },
+  {
+    "start": 301.919,
+    "end": 304.479,
+    "text": "Harrison Ford, they're all fantastic role models",
+    "speaker": null
+  },
+  {
+    "start": 304.479,
+    "end": 305.68,
+    "text": "for us younger guys.",
+    "speaker": null
+  },
+  {
+    "start": 305.68,
+    "end": 310.56,
+    "text": "Mmm, and a role model is somebody people admire and want copy.",
+    "speaker": null
+  },
+  {
+    "start": 310.56,
+    "end": 312.24,
+    "text": "Well, that brings us round to the matter of today's quiz question, Alice.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 312.24,
+    "end": 314.24,
+    "text": "of today's quiz question, Alice.",
+    "speaker": null
+  },
+  {
+    "start": 314.24,
+    "end": 315.28,
+    "text": "Yes, it does.",
+    "speaker": null
+  },
+  {
+    "start": 315.28,
+    "end": 319.439,
+    "text": "I asked, what percentage of people aged over 65 surveyed",
+    "speaker": null
+  },
+  {
+    "start": 319.439,
+    "end": 323.36,
+    "text": "in the UK described themselves as old in a survey?",
+    "speaker": null
+  },
+  {
+    "start": 323.36,
+    "end": 330.639,
+    "text": "Is it a 6% b 16% or c 60%?",
+    "speaker": null
+  },
+  {
+    "start": 330.639,
+    "end": 333.84,
+    "text": "Yep. And I said a) 6%. Was I right?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 333.84,
+    "end": 335.36,
+    "text": "Yes, you were.",
+    "speaker": null
+  },
+  {
+    "start": 335.36,
+    "end": 336.319,
+    "text": "You were right.",
+    "speaker": null
+  },
+  {
+    "start": 336.319,
+    "end": 337.6,
+    "text": "Well done.",
+    "speaker": null
+  },
+  {
+    "start": 337.6,
+    "end": 341.6,
+    "text": "More than 2,000 people aged between 65 and 93",
+    "speaker": null
+  },
+  {
+    "start": 341.68,
+    "end": 344.48,
+    "text": "were surveyed by UK market research firm UGov.",
+    "speaker": null
+  },
+  {
+    "start": 345.439,
+    "end": 348,
+    "text": "Now, here are the words we learnt today, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 348,
+    "end": 349.04,
+    "text": "They were,",
+    "speaker": null
+  },
+  {
+    "start": 349.04,
+    "end": 352.16,
+    "text": "coy, pull and all-nighter,",
+    "speaker": null
+  },
+  {
+    "start": 352.16,
+    "end": 355.04,
+    "text": "anti-aging",
+    "speaker": "Rob"
+  },
+  {
+    "start": 355.04,
+    "end": 356.08,
+    "text": "ageism",
+    "speaker": "Rob"
+  },
+  {
+    "start": 356.08,
+    "end": 357.92,
+    "text": "senior citizen",
+    "speaker": "Rob"
+  },
+  {
+    "start": 357.92,
+    "end": 359.68,
+    "text": "old age pensioner,",
+    "speaker": null
+  },
+  {
+    "start": 359.68,
+    "end": 361.36,
+    "text": "or OAP.",
+    "speaker": null
+  },
+  {
+    "start": 361.36,
+    "end": 364,
+    "text": "get something",
+    "speaker": "Rob"
+  },
+  {
+    "start": 364,
+    "end": 366.64,
+    "text": "Well, that's the end of today's 6 Minute English. Don't forget to join us again soon!",
+    "speaker": "Alice"
+  },
+  {
+    "start": 366.64,
+    "end": 368.4,
+    "text": "Don't forget to join us again soon.",
+    "speaker": null
+  },
+  {
+    "start": 368.4,
+    "end": 369.76,
+    "text": "Bye-bye. Bye-bye.",
+    "speaker": null
+  },
+  {
+    "start": 369.759,
+    "end": 373.519,
+    "text": "6 Minute English from the BBC.",
+    "speaker": null
+  }
+]

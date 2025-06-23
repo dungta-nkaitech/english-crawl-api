@@ -1,0 +1,632 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.24,
+    "text": "6 Minute English",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 11.04,
+    "text": "from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 12.16,
+    "end": 14.96,
+    "text": "Hello and welcome to 6 Minute English. I'm Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 14.96,
+    "end": 16.24,
+    "text": "And I'm Catherine.",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 16.24,
+    "end": 18.559,
+    "text": "Catherine, are you tall enough?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 18.559,
+    "end": 20.08,
+    "text": "Tall enough for what?",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 20.08,
+    "end": 22.24,
+    "text": "Tall enough to be happy with your height.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 22.24,
+    "end": 24.08,
+    "text": "Oh well, yes, I'm alright with my height.",
+    "speaker": null
+  },
+  {
+    "start": 24.08,
+    "end": 25.92,
+    "text": "I can't do a thing about it anyway.",
+    "speaker": null
+  },
+  {
+    "start": 25.92,
+    "end": 27.359,
+    "text": "So how about you?",
+    "speaker": null
+  },
+  {
+    "start": 27.839,
+    "end": 28.96,
+    "text": "Well, the same really.",
+    "speaker": null
+  },
+  {
+    "start": 28.96,
+    "end": 32,
+    "text": "I wouldn't mind being a slightly taller, I suppose,",
+    "speaker": null
+  },
+  {
+    "start": 32,
+    "end": 35.759,
+    "text": "which is appropriate as today's topic is about heightism.",
+    "speaker": null
+  },
+  {
+    "start": 35.759,
+    "end": 39.439,
+    "text": "Hightism. Now you may not have heard of heightism before,",
+    "speaker": null
+  },
+  {
+    "start": 39.439,
+    "end": 44.079,
+    "text": "but it's like other isms, like racism, sexism, ageism,",
+    "speaker": null
+  },
+  {
+    "start": 44.799,
+    "end": 49.2,
+    "text": "and other isms that highlight a particular kind of discrimination",
+    "speaker": null
+  },
+  {
+    "start": 49.2,
+    "end": 52.159,
+    "text": "or unequal treatment that people experience.",
+    "speaker": null
+  },
+  {
+    "start": 52.799,
+    "end": 55.2,
+    "text": "But before we find out more about this topic,",
+    "speaker": null
+  },
+  {
+    "start": 55.28,
+    "end": 56.96,
+    "text": "our quiz question for today.",
+    "speaker": null
+  },
+  {
+    "start": 57.52,
+    "end": 62.88,
+    "text": "The tallest person ever proven to live was Robert Wodlow from the USA,",
+    "speaker": null
+  },
+  {
+    "start": 62.88,
+    "end": 64.159,
+    "text": "but how tall was he?",
+    "speaker": null
+  },
+  {
+    "start": 64.96,
+    "end": 68.079,
+    "text": "Was he A, 2 metres 71 centimetres?",
+    "speaker": null
+  },
+  {
+    "start": 68.719,
+    "end": 70.56,
+    "text": "B, 2 metres 72?",
+    "speaker": null
+  },
+  {
+    "start": 71.28,
+    "end": 73.439,
+    "text": "Or C, 2 metres 73?",
+    "speaker": null
+  },
+  {
+    "start": 73.439,
+    "end": 74.64,
+    "text": "What do you think Catherine?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 75.359,
+    "end": 77.76,
+    "text": "Wow, that's really, really tall! I'm going to guess 2.71m.",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 78.64,
+    "end": 81.12,
+    "text": "I'm going to guess 2 metres 71.",
+    "speaker": null
+  },
+  {
+    "start": 81.12,
+    "end": 83.92,
+    "text": "Well, listen out for the answer at the end of the programme.",
+    "speaker": null
+  },
+  {
+    "start": 84.4,
+    "end": 88.96,
+    "text": "Tanya S. Osensky is an attorney and author of the book Short Changed",
+    "speaker": null
+  },
+  {
+    "start": 88.96,
+    "end": 91.84,
+    "text": "about her own experiences of heightism.",
+    "speaker": null
+  },
+  {
+    "start": 92.799,
+    "end": 94,
+    "text": "Clever title.",
+    "speaker": null
+  },
+  {
+    "start": 94,
+    "end": 98.32,
+    "text": "To short change someone is to not give them what they're entitled to,",
+    "speaker": null
+  },
+  {
+    "start": 98.32,
+    "end": 99.2,
+    "text": "what they deserve.",
+    "speaker": null
+  },
+  {
+    "start": 99.68,
+    "end": 104.96,
+    "text": "And originally this phrase comes from paying for something and not getting the right money back.",
+    "speaker": null
+  },
+  {
+    "start": 104.96,
+    "end": 110.799,
+    "text": "So if I buy something for £6 and I pay with a £10 note and the shopkeeper only gives me",
+    "speaker": null
+  },
+  {
+    "start": 110.799,
+    "end": 113.84,
+    "text": "£3 back, I've been short-changed.",
+    "speaker": null
+  },
+  {
+    "start": 113.84,
+    "end": 115.039,
+    "text": "It means I've been cheated.",
+    "speaker": null
+  },
+  {
+    "start": 115.759,
+    "end": 120.239,
+    "text": "And in the context of facing discrimination because you're not tall,",
+    "speaker": null
+  },
+  {
+    "start": 120.239,
+    "end": 122.399,
+    "text": "short-changed is a really good pun.",
+    "speaker": null
+  },
+  {
+    "start": 122.959,
+    "end": 127.28,
+    "text": "Tanya spoke about her book on the BBC Radio programme thinking allowed.",
+    "speaker": null
+  },
+  {
+    "start": 127.28,
+    "end": 130.719,
+    "text": "She talks first about our general feelings about height.",
+    "speaker": null
+  },
+  {
+    "start": 130.719,
+    "end": 133.12,
+    "text": "What does she say people never wish for?",
+    "speaker": null
+  },
+  {
+    "start": 135.12,
+    "end": 139.519,
+    "text": "Everybody that I've spoken to who is tall relishes their height.",
+    "speaker": null
+  },
+  {
+    "start": 139.52,
+    "end": 142.64,
+    "text": "I have not met anybody who said they would wish they were shorter.",
+    "speaker": null
+  },
+  {
+    "start": 143.6,
+    "end": 148.56,
+    "text": "And people generally tend to even embellish what their height is when you ask them what it is.",
+    "speaker": null
+  },
+  {
+    "start": 151.36,
+    "end": 154,
+    "text": "So what is it she says no one wishes for?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 154,
+    "end": 156.48,
+    "text": "Well, she says no one wishes they were shorter!",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 156.48,
+    "end": 160.16,
+    "text": "And that's right, she said that tall people relish their height.",
+    "speaker": null
+  },
+  {
+    "start": 160.16,
+    "end": 164.08,
+    "text": "And that's right. She said that tall people relish their height. This means they enjoy being tall, they get great satisfaction from it.",
+    "speaker": "relish"
+  },
+  {
+    "start": 164.08,
+    "end": 168.879,
+    "text": "And another point she makes is that many people embellish their height if asked.",
+    "speaker": null
+  },
+  {
+    "start": 168.879,
+    "end": 172.079,
+    "text": "This means they say they're taller than they actually are.",
+    "speaker": null
+  },
+  {
+    "start": 172.079,
+    "end": 177.28,
+    "text": "Now to embellish a fact means to exaggerate it to make it seem bigger,",
+    "speaker": null
+  },
+  {
+    "start": 177.28,
+    "end": 179.759,
+    "text": "faster, better and so on.",
+    "speaker": null
+  },
+  {
+    "start": 179.759,
+    "end": 182,
+    "text": "Here is Tanya Esersinski again.",
+    "speaker": null
+  },
+  {
+    "start": 184,
+    "end": 188.4,
+    "text": "Everybody that I've spoken to who is tall relishes their height.",
+    "speaker": null
+  },
+  {
+    "start": 188.4,
+    "end": 191.599,
+    "text": "I have not met anybody who said they would wish they were shorter.",
+    "speaker": null
+  },
+  {
+    "start": 192.479,
+    "end": 197.439,
+    "text": "And people generally tend to even embellish what their height is when they when you ask them what it is.",
+    "speaker": null
+  },
+  {
+    "start": 199.439,
+    "end": 204.879,
+    "text": "She goes on to explain how some research has shown that shorter people are less likely to get jobs,",
+    "speaker": null
+  },
+  {
+    "start": 204.879,
+    "end": 209.12,
+    "text": "less likely to get promoted and less likely to earn as much as taller people.",
+    "speaker": null
+  },
+  {
+    "start": 209.919,
+    "end": 212.719,
+    "text": "What is the financial difference she mentions?",
+    "speaker": null
+  },
+  {
+    "start": 212.719,
+    "end": 215.199,
+    "text": "She talks about the premium per inch.",
+    "speaker": null
+  },
+  {
+    "start": 215.199,
+    "end": 221.12,
+    "text": "An inch is about 2.5 centimeters and the premium is a word which means the extra benefit the extra",
+    "speaker": null
+  },
+  {
+    "start": 221.12,
+    "end": 222.079,
+    "text": "advantage.",
+    "speaker": null
+  },
+  {
+    "start": 222.079,
+    "end": 223.84,
+    "text": "Here's Tanya Esersinski again.",
+    "speaker": null
+  },
+  {
+    "start": 224.24,
+    "end": 231.52,
+    "text": "One set of data showed that the premium for height is over $2,000 per inch for men",
+    "speaker": null
+  },
+  {
+    "start": 231.52,
+    "end": 234.56,
+    "text": "and $1,000 per inch for women.",
+    "speaker": null
+  },
+  {
+    "start": 234.56,
+    "end": 239.12,
+    "text": "And over time that disparity grows significantly.",
+    "speaker": null
+  },
+  {
+    "start": 239.12,
+    "end": 244.96,
+    "text": "So it ends up being a huge chunk of someone's paycheck over their career.",
+    "speaker": null
+  },
+  {
+    "start": 246.96,
+    "end": 251.52,
+    "text": "She says that taller men earn $2000 an inch.",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 251.6,
+    "end": 255.68,
+    "text": "For women it's a bit less, but still significant at $1000 an inch.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 256.4,
+    "end": 262.96,
+    "text": "And this disparity or difference between the salaries of taller and shorter people is an example",
+    "speaker": null
+  },
+  {
+    "start": 262.96,
+    "end": 264,
+    "text": "of heightism.",
+    "speaker": null
+  },
+  {
+    "start": 264.8,
+    "end": 270.72,
+    "text": "shorter people she says are getting fewer jobs and fewer benefits because they're short.",
+    "speaker": null
+  },
+  {
+    "start": 270.72,
+    "end": 275.04,
+    "text": "Well one person who certainly wasn't short with the subject of today's quiz question,",
+    "speaker": null
+  },
+  {
+    "start": 275.04,
+    "end": 278,
+    "text": "the tallest person who has lived Robert Wodlow.",
+    "speaker": null
+  },
+  {
+    "start": 278.079,
+    "end": 283.68,
+    "text": "We asked how tall he was. Was it a two meters 71 centimeters,",
+    "speaker": null
+  },
+  {
+    "start": 283.68,
+    "end": 289.199,
+    "text": "b two meters 72 centimeters or c two meters 73 centimeters.",
+    "speaker": null
+  },
+  {
+    "start": 289.199,
+    "end": 290.24,
+    "text": "What did you say, Catherine?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 290.24,
+    "end": 292.56,
+    "text": "I said two meters 71.",
+    "speaker": null
+  },
+  {
+    "start": 292.56,
+    "end": 294.56,
+    "text": "Well you were almost there.",
+    "speaker": null
+  },
+  {
+    "start": 295.279,
+    "end": 298.24,
+    "text": "The correct answer was b two meters 72.",
+    "speaker": null
+  },
+  {
+    "start": 298.24,
+    "end": 300.079,
+    "text": "Congratulations if you got that right.",
+    "speaker": null
+  },
+  {
+    "start": 300.079,
+    "end": 304.8,
+    "text": "Now Catherine much as I relish being in the studio with you we must wrap up the program now",
+    "speaker": null
+  },
+  {
+    "start": 304.8,
+    "end": 307.12,
+    "text": "with a review of today's vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 307.12,
+    "end": 309.84,
+    "text": "Well relish was one of those words.",
+    "speaker": null
+  },
+  {
+    "start": 309.84,
+    "end": 312.72,
+    "text": "If you relish something you really enjoy it.",
+    "speaker": null
+  },
+  {
+    "start": 312.72,
+    "end": 314.079,
+    "text": "So thanks for that Neil.",
+    "speaker": null
+  },
+  {
+    "start": 314.079,
+    "end": 315.04,
+    "text": "You're welcome.",
+    "speaker": null
+  },
+  {
+    "start": 315.04,
+    "end": 318.16,
+    "text": "This program was about a kind of discrimination.",
+    "speaker": null
+  },
+  {
+    "start": 318.16,
+    "end": 322.639,
+    "text": "This means the unfair or unequal treatment of people because of, for example,",
+    "speaker": null
+  },
+  {
+    "start": 322.639,
+    "end": 326.399,
+    "text": "their race, religion, color, age or indeed height.",
+    "speaker": null
+  },
+  {
+    "start": 326.399,
+    "end": 331.199,
+    "text": "And discrimination because of someone’s height is called heightism.",
+    "speaker": "discriminationheightism"
+  },
+  {
+    "start": 331.199,
+    "end": 334.24,
+    "text": "Something which many of us do is embellish our height - wesay we are taller than we actually are.",
+    "speaker": "embellish"
+  },
+  {
+    "start": 334.24,
+    "end": 336.16,
+    "text": "We say we are taller than we actually are.",
+    "speaker": null
+  },
+  {
+    "start": 336.8,
+    "end": 343.04,
+    "text": "A premium is an extra benefit or advantage that can be gained in this case by being taller.",
+    "speaker": null
+  },
+  {
+    "start": 343.68,
+    "end": 347.2,
+    "text": "And finally we had disparity, another word for difference.",
+    "speaker": null
+  },
+  {
+    "start": 347.92,
+    "end": 352.24,
+    "text": "There's a disparity between salaries of told people and their shorter colleagues.",
+    "speaker": null
+  },
+  {
+    "start": 353.28,
+    "end": 355.68,
+    "text": "And that is six minute English for today.",
+    "speaker": null
+  },
+  {
+    "start": 355.68,
+    "end": 360.16,
+    "text": "Do join us again and until then we look forward to seeing you in all the usual places.",
+    "speaker": null
+  },
+  {
+    "start": 360.16,
+    "end": 363.44,
+    "text": "Instagram, Facebook, Twitter, YouTube as well as our website,",
+    "speaker": null
+  },
+  {
+    "start": 363.439,
+    "end": 365.439,
+    "text": "VBCLearningEnglish.com.",
+    "speaker": null
+  },
+  {
+    "start": 365.439,
+    "end": 366.079,
+    "text": "Goodbye.",
+    "speaker": null
+  },
+  {
+    "start": 366.079,
+    "end": 366.719,
+    "text": "Bye!",
+    "speaker": "Catherine"
+  }
+]

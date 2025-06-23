@@ -1,0 +1,488 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 11.12,
+    "text": "6MtEnglish from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 13.2,
+    "end": 17.359,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 17.359,
+    "end": 18.879,
+    "text": "And I’m Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 18.879,
+    "end": 24.4,
+    "text": "With winter here, the rising price of oil and natural gas has become a hot topic.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 24.4,
+    "end": 28.48,
+    "text": "At the same time, climate change is also reaching emergency levels.",
+    "speaker": null
+  },
+  {
+    "start": 28.48,
+    "end": 32.96,
+    "text": "And world leaders are looking for ways to reduce our consumption of fossil fuels.",
+    "speaker": null
+  },
+  {
+    "start": 33.679,
+    "end": 36.399,
+    "text": "Some think the best option is renewables,",
+    "speaker": null
+  },
+  {
+    "start": 36.399,
+    "end": 39.92,
+    "text": "types of natural energy, such as wind and solar power,",
+    "speaker": null
+  },
+  {
+    "start": 39.92,
+    "end": 43.12,
+    "text": "which can be replaced as quickly as they are used.",
+    "speaker": null
+  },
+  {
+    "start": 43.12,
+    "end": 45.92,
+    "text": "Others prefer a return to nuclear energy,",
+    "speaker": null
+  },
+  {
+    "start": 45.92,
+    "end": 50.4,
+    "text": "arguing that it's clean, green, and more reliable than renewables.",
+    "speaker": null
+  },
+  {
+    "start": 50.4,
+    "end": 55.359,
+    "text": "But after infamous nuclear disasters, like those at Chernobyl and Fukushima,",
+    "speaker": null
+  },
+  {
+    "start": 55.359,
+    "end": 57.6,
+    "text": "questions about its safety remain.",
+    "speaker": null
+  },
+  {
+    "start": 58.079,
+    "end": 63.2,
+    "text": "In this programme, we’ll be finding out how green nuclear power is by asking: when it comes to the climate, is nuclear a friend or foe?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 63.76,
+    "end": 68.64,
+    "text": "when it comes to the climate, is nuclear a friend or foe?",
+    "speaker": null
+  },
+  {
+    "start": 68.64,
+    "end": 71.519,
+    "text": "But before that, Sam, it's time for my quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 72.079,
+    "end": 78.4,
+    "text": "Many of the nuclear power stations built since the 1960s are reaching the end of their planned life.",
+    "speaker": null
+  },
+  {
+    "start": 78.4,
+    "end": 80.879,
+    "text": "And not everyone thinks they should be replaced.",
+    "speaker": null
+  },
+  {
+    "start": 81.68,
+    "end": 85.52,
+    "text": "In 2011, one country announced that it would phase out,",
+    "speaker": null
+  },
+  {
+    "start": 85.519,
+    "end": 90.799,
+    "text": "meaning gradually stop using nuclear power altogether, but which country?",
+    "speaker": null
+  },
+  {
+    "start": 91.359,
+    "end": 96.399,
+    "text": "Was it A Germany, B India or C Brazil?",
+    "speaker": null
+  },
+  {
+    "start": 96.399,
+    "end": 98.56,
+    "text": "I’ll go with a) Germany.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 98.56,
+    "end": 102.719,
+    "text": "Okay, Sam, we'll reveal the correct answer later in the programme.",
+    "speaker": null
+  },
+  {
+    "start": 102.719,
+    "end": 107.439,
+    "text": "As Neil mentioned, whatever the advantages of nuclear power for the climate, many members of the public have concerns about nuclear safety.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 107.439,
+    "end": 111.199,
+    "text": "many members of the public have concerns about nuclear safety.",
+    "speaker": null
+  },
+  {
+    "start": 111.76,
+    "end": 117.28,
+    "text": "Probably the most well-known nuclear accident happened on the 26th of April 1986 at the Chernobyl nuclear power plant in Soviet Ukraine.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 117.28,
+    "end": 120.48,
+    "text": "at the Chernobyl Nuclear Power Plant in Soviet Ukraine.",
+    "speaker": null
+  },
+  {
+    "start": 121.04,
+    "end": 126.799,
+    "text": "Dutch journalist Miriam Vossen reflects on what happened with BBC World Service programme",
+    "speaker": null
+  },
+  {
+    "start": 126.799,
+    "end": 127.84,
+    "text": "the real story.",
+    "speaker": null
+  },
+  {
+    "start": 129.199,
+    "end": 135.68,
+    "text": "The perceptions of nuclear energy of, I think, a whole generation has been shaped by high-impact",
+    "speaker": null
+  },
+  {
+    "start": 135.92,
+    "end": 140.8,
+    "text": "events, most notably the Chernobyl disaster, including myself.",
+    "speaker": null
+  },
+  {
+    "start": 140.8,
+    "end": 146.4,
+    "text": "I have vivid memories of how the media reported on this event and how scary it was,",
+    "speaker": null
+  },
+  {
+    "start": 146.4,
+    "end": 152.8,
+    "text": "and how frightened everyone was of the radioactive clouds drifting from the Ukraine towards Europe.",
+    "speaker": null
+  },
+  {
+    "start": 152.8,
+    "end": 158.719,
+    "text": "So this is sort of ingrained in people's minds, and for many, it hasn't been really been updated.",
+    "speaker": null
+  },
+  {
+    "start": 159.6,
+    "end": 163.84,
+    "text": "It was a frightening time, and Miriam says she has vivid memories,",
+    "speaker": null
+  },
+  {
+    "start": 163.84,
+    "end": 169.039,
+    "text": "It was a frightening time, and Mirjam says she has vivid memories – memories that produce powerful feelings and strong, clear images in the mind.",
+    "speaker": "vivid memories"
+  },
+  {
+    "start": 169.039,
+    "end": 174.879,
+    "text": "The accident in Chernobyl changed many people's opinions of nuclear power in a negative way,",
+    "speaker": null
+  },
+  {
+    "start": 174.879,
+    "end": 180.719,
+    "text": "and these opinions became ingrained, strongly held, and difficult to change.",
+    "speaker": null
+  },
+  {
+    "start": 180.719,
+    "end": 186.48,
+    "text": "But Miriam believes these ingrained public perceptions of nuclear safety are out of date.",
+    "speaker": null
+  },
+  {
+    "start": 187.039,
+    "end": 192.48,
+    "text": "She argues that such accidents caused by human error could not happen in the modern",
+    "speaker": null
+  },
+  {
+    "start": 192.479,
+    "end": 194.799,
+    "text": "nuclear power stations used today.",
+    "speaker": null
+  },
+  {
+    "start": 194.799,
+    "end": 199.599,
+    "text": "What's more, nuclear creates a steady supply of power, unlike renewables,",
+    "speaker": null
+  },
+  {
+    "start": 199.599,
+    "end": 204,
+    "text": "What’s more, nuclear creates a steady supply of power - unlike renewables, which don’t make electricity when the wind doesn’t blow, or the Sun doesn’t shine.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 204,
+    "end": 210.159,
+    "text": "So maybe nuclear power is the greenest way of generating energy without fossil fuels.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 210.159,
+    "end": 214.079,
+    "text": "Well, not according to Energy Institute researcher Paul Dorfman.",
+    "speaker": null
+  },
+  {
+    "start": 214.719,
+    "end": 221.12,
+    "text": "Nuclear power stations are located near seas or large lakes because they need water to cool down.",
+    "speaker": null
+  },
+  {
+    "start": 221.68,
+    "end": 226,
+    "text": "Paul thinks that soon rising sea levels will mean the end of nuclear",
+    "speaker": null
+  },
+  {
+    "start": 226,
+    "end": 227.68,
+    "text": "as a realistic energy option.",
+    "speaker": null
+  },
+  {
+    "start": 228.24,
+    "end": 232.159,
+    "text": "He thinks money invested in nuclear upgrades would be better spent,",
+    "speaker": null
+  },
+  {
+    "start": 232.159,
+    "end": 239.12,
+    "text": "He thinks money invested in nuclear upgrades would be better spent making clean renewables more reliable instead, as he explained to BBC World Service programme, The Real Story",
+    "speaker": "Sam"
+  },
+  {
+    "start": 239.12,
+    "end": 240,
+    "text": "the real story.",
+    "speaker": null
+  },
+  {
+    "start": 241.28,
+    "end": 246.879,
+    "text": "I think the key takeaways that nuclear's low carbon electricity unique selling point",
+    "speaker": null
+  },
+  {
+    "start": 246.879,
+    "end": 252.319,
+    "text": "kind of sits in the context of a much larger picture that nuclear will be one of the first",
+    "speaker": null
+  },
+  {
+    "start": 252.319,
+    "end": 256.159,
+    "text": "and most significant casualties to ramping climate change.",
+    "speaker": null
+  },
+  {
+    "start": 256.159,
+    "end": 261.6,
+    "text": "So, nuclear is quite literally on the front line of climate change and not in a good way.",
+    "speaker": null
+  },
+  {
+    "start": 261.6,
+    "end": 266.56,
+    "text": "That's because far from helping with our climate change problems, it'll add to it.",
+    "speaker": null
+  },
+  {
+    "start": 268.319,
+    "end": 273.12,
+    "text": "One advantage of nuclear power is that it produces electricity using little carbon. Paul Dorfman calls this its unique selling point.",
+    "speaker": "unique selling point"
+  },
+  {
+    "start": 273.12,
+    "end": 275.92,
+    "text": "Paul Dorfman calls this its unique selling point.",
+    "speaker": null
+  },
+  {
+    "start": 276.48,
+    "end": 283.28,
+    "text": "A unique selling point, which is sometimes shortened to ‘USP’, is a common way to describe the feature of something that makes it different from and better than its competitors.",
+    "speaker": "unique selling point"
+  },
+  {
+    "start": 283.28,
+    "end": 289.2,
+    "text": "feature of something that makes it different from and better than its competitors.",
+    "speaker": null
+  },
+  {
+    "start": 289.2,
+    "end": 294.24,
+    "text": "But that doesn't change the fact that rising sea levels would make nuclear and unrealistic",
+    "speaker": null
+  },
+  {
+    "start": 294.24,
+    "end": 300,
+    "text": "even dangerous choice. This is why he calls nuclear power a casualty of climate change,",
+    "speaker": null
+  },
+  {
+    "start": 300,
+    "end": 304.72,
+    "text": "meaning a victim or something that suffers as a result of something else happening.",
+    "speaker": null
+  },
+  {
+    "start": 305.44,
+    "end": 310.56,
+    "text": "This also explains why some countries are now turning away from nuclear power towards more",
+    "speaker": null
+  },
+  {
+    "start": 310.56,
+    "end": 316.8,
+    "text": "renewable energy sources, countries such as, well, what was the answer to your question Neil?",
+    "speaker": null
+  },
+  {
+    "start": 316.8,
+    "end": 321.36,
+    "text": "I asked Sam which country decided to gradually stop using nuclear power.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 321.36,
+    "end": 323.04,
+    "text": "I said a) Germany.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 323.04,
+    "end": 324.64,
+    "text": "Which was the correct answer?",
+    "speaker": null
+  },
+  {
+    "start": 325.12,
+    "end": 330.64,
+    "text": "Which was the correct answer! In fact, around 70% of Germany’s electricity now comes from renewables.",
+    "speaker": "renewables"
+  },
+  {
+    "start": 330.64,
+    "end": 334.48,
+    "text": "Okay, Neil, let's recap the rest of the vocabulary from this programme.",
+    "speaker": null
+  },
+  {
+    "start": 334.56,
+    "end": 340.08,
+    "text": "OK, Neil, let’s recap the rest of the vocabulary from this programme, starting with to phase something out, meaning to gradually stop using something.",
+    "speaker": "phase something out"
+  },
+  {
+    "start": 340.08,
+    "end": 345.12,
+    "text": "Vivid memories are memories that produce powerful feelings and strong mental images.",
+    "speaker": "Vivid memories"
+  },
+  {
+    "start": 345.12,
+    "end": 351.68,
+    "text": "Opinions and beliefs which are ingrained are so strongly held that they are difficult to change.",
+    "speaker": "ingrained"
+  },
+  {
+    "start": 351.68,
+    "end": 357.04,
+    "text": "Something’s unique selling point, or USP, is the feature that makes it different from and better than its competitors.",
+    "speaker": "unique selling pointor USP"
+  },
+  {
+    "start": 357.04,
+    "end": 358.8,
+    "text": "better than its competitors.",
+    "speaker": null
+  },
+  {
+    "start": 358.8,
+    "end": 365.04,
+    "text": "And finally, a casualty is a person or thing that suffers as a result of something else happening.",
+    "speaker": "casualty"
+  },
+  {
+    "start": 365.759,
+    "end": 369.28,
+    "text": "That's all from this look in Sen Nuclear and Renewable Energy.",
+    "speaker": null
+  },
+  {
+    "start": 369.28,
+    "end": 370.079,
+    "text": "Bye for now!",
+    "speaker": "Sam"
+  },
+  {
+    "start": 370.079,
+    "end": 370.48,
+    "text": "Bye.",
+    "speaker": null
+  }
+]

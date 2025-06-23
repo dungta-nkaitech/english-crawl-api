@@ -1,0 +1,944 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.6,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.6,
+    "end": 8.24,
+    "text": "6-Mate English.",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 10.4,
+    "text": "From BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 11.279,
+    "end": 12.96,
+    "text": "Hello and welcome to 6 Minute English,",
+    "speaker": null
+  },
+  {
+    "start": 12.96,
+    "end": 14.88,
+    "text": "the show that brings you an interesting topic,",
+    "speaker": null
+  },
+  {
+    "start": 14.88,
+    "end": 17.359,
+    "text": "authentic listening practice and vocabulary",
+    "speaker": null
+  },
+  {
+    "start": 17.359,
+    "end": 19.199,
+    "text": "to help you improve your language skills.",
+    "speaker": null
+  },
+  {
+    "start": 19.199,
+    "end": 20,
+    "text": "I'm Dan.",
+    "speaker": null
+  },
+  {
+    "start": 20,
+    "end": 21.199,
+    "text": "And I'm Catherine.",
+    "speaker": null
+  },
+  {
+    "start": 21.199,
+    "end": 24.24,
+    "text": "In this program, we'll be discussing life expectancy",
+    "speaker": null
+  },
+  {
+    "start": 24.24,
+    "end": 28.879,
+    "text": "as well as teaching you six new items of vocabulary, of course.",
+    "speaker": null
+  },
+  {
+    "start": 29.359,
+    "end": 30.16,
+    "text": "Err...",
+    "speaker": null
+  },
+  {
+    "start": 30.16,
+    "end": 31.359,
+    "text": "Dan?",
+    "speaker": null
+  },
+  {
+    "start": 31.359,
+    "end": 32.56,
+    "text": "Dan!",
+    "speaker": null
+  },
+  {
+    "start": 32.56,
+    "end": 35.2,
+    "text": "Dan? Dan! We're doing a show, Dan. Wake up!",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 35.2,
+    "end": 37.2,
+    "text": "Sorry, Catherine. Sorry, everybody.",
+    "speaker": null
+  },
+  {
+    "start": 37.2,
+    "end": 39.519,
+    "text": "Sorry. Sorry, Catherine. Sorry, everybody. I was at a party last night and I didn't get much sleep.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 39.519,
+    "end": 40.879,
+    "text": "Another party, Dan?",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 40.879,
+    "end": 41.519,
+    "text": "Yeah.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 41.519,
+    "end": 42.799,
+    "text": "That's the third this week.",
+    "speaker": null
+  },
+  {
+    "start": 42.799,
+    "end": 44.239,
+    "text": "Do you look dead on your feet?",
+    "speaker": null
+  },
+  {
+    "start": 44.239,
+    "end": 47.28,
+    "text": "Which is an expression, meaning extremely tired.",
+    "speaker": null
+  },
+  {
+    "start": 47.28,
+    "end": 48,
+    "text": "Ah, well.",
+    "speaker": null
+  },
+  {
+    "start": 48,
+    "end": 49.679,
+    "text": "Live fast, die young.",
+    "speaker": null
+  },
+  {
+    "start": 49.679,
+    "end": 50.719,
+    "text": "That's my motto.",
+    "speaker": null
+  },
+  {
+    "start": 50.719,
+    "end": 53.28,
+    "text": "A motto is a short phrase which reflects",
+    "speaker": null
+  },
+  {
+    "start": 53.28,
+    "end": 56.239,
+    "text": "the beliefs of an organisation or person.",
+    "speaker": null
+  },
+  {
+    "start": 56.24,
+    "end": 58.96,
+    "text": "And it's interesting that you mentioned dying young Dan",
+    "speaker": null
+  },
+  {
+    "start": 58.96,
+    "end": 62.32,
+    "text": "because our topic this show is life expectancy.",
+    "speaker": null
+  },
+  {
+    "start": 62.32,
+    "end": 65.92,
+    "text": "Life expectancy is how many years a person is likely to live. I suppose you have a question about it too?",
+    "speaker": "Life expectancy"
+  },
+  {
+    "start": 65.92,
+    "end": 68.079,
+    "text": "I suppose you have a question about it too.",
+    "speaker": null
+  },
+  {
+    "start": 68.079,
+    "end": 69.12,
+    "text": "Funny you should say that, Dan.",
+    "speaker": null
+  },
+  {
+    "start": 69.12,
+    "end": 69.84,
+    "text": "Yeah.",
+    "speaker": null
+  },
+  {
+    "start": 69.84,
+    "end": 71.92,
+    "text": "By the year 2030,",
+    "speaker": null
+  },
+  {
+    "start": 71.92,
+    "end": 76.879,
+    "text": "will the USA's life expectancy be A in the top third,",
+    "speaker": null
+  },
+  {
+    "start": 76.879,
+    "end": 78.4,
+    "text": "B, the middle third,",
+    "speaker": null
+  },
+  {
+    "start": 78.4,
+    "end": 83.04,
+    "text": "or C, the bottom third compared to the rest of the world?",
+    "speaker": null
+  },
+  {
+    "start": 83.04,
+    "end": 85.92,
+    "text": "Well, the USA is quite a rich country,",
+    "speaker": null
+  },
+  {
+    "start": 85.92,
+    "end": 88.879,
+    "text": "The USA is quite a rich country, so I'm going to say a) the top one third.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 88.879,
+    "end": 92.24,
+    "text": "And we'll find out later in the show if you're right or not.",
+    "speaker": null
+  },
+  {
+    "start": 92.24,
+    "end": 94.159,
+    "text": "Now, Dan, life expectancy.",
+    "speaker": null
+  },
+  {
+    "start": 94.159,
+    "end": 100.079,
+    "text": "So which country do you think has the current highest life expectancy?",
+    "speaker": null
+  },
+  {
+    "start": 100.079,
+    "end": 101.68,
+    "text": "Everybody knows that's Japan, come on!",
+    "speaker": "Dan"
+  },
+  {
+    "start": 101.68,
+    "end": 106.48,
+    "text": "Ah, yes, but new analysis by the World Health Organization",
+    "speaker": null
+  },
+  {
+    "start": 106.48,
+    "end": 110.96,
+    "text": "and Imperial College London predicts that it won't always be so.",
+    "speaker": null
+  },
+  {
+    "start": 110.96,
+    "end": 114.48,
+    "text": "Now, they analysed 35 industrialised countries",
+    "speaker": null
+  },
+  {
+    "start": 114.56,
+    "end": 117.12,
+    "text": "and found that by the year 2030,",
+    "speaker": null
+  },
+  {
+    "start": 117.12,
+    "end": 119.439,
+    "text": "South Korea will be the leaders",
+    "speaker": null
+  },
+  {
+    "start": 119.439,
+    "end": 124.8,
+    "text": "with an average life expectancy of a whopping 90 years.",
+    "speaker": null
+  },
+  {
+    "start": 124.8,
+    "end": 125.52,
+    "text": "Wow.",
+    "speaker": null
+  },
+  {
+    "start": 125.52,
+    "end": 126.64,
+    "text": "Wow. How did they do that?",
+    "speaker": "Dan"
+  },
+  {
+    "start": 126.64,
+    "end": 130.56,
+    "text": "Well, let's find out by listening to Professor Majid Azati,",
+    "speaker": null
+  },
+  {
+    "start": 130.56,
+    "end": 135.36,
+    "text": "Well, let's find out by listening to Professor Majid Ezzati, Chair in Global Environmental Health at Imperial College London.",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 135.36,
+    "end": 138.08,
+    "text": "It seems to be actually dealing with diet,",
+    "speaker": null
+  },
+  {
+    "start": 138.08,
+    "end": 139.84,
+    "text": "but other places,",
+    "speaker": null
+  },
+  {
+    "start": 139.84,
+    "end": 142.879,
+    "text": "being very good at taking up new medical knowledge,",
+    "speaker": null
+  },
+  {
+    "start": 142.879,
+    "end": 144.639,
+    "text": "technology and using it,",
+    "speaker": null
+  },
+  {
+    "start": 144.639,
+    "end": 149.919,
+    "text": "and perhaps most importantly doing this in a relatively equitable way",
+    "speaker": null
+  },
+  {
+    "start": 149.919,
+    "end": 151.359,
+    "text": "compared to Western countries.",
+    "speaker": null
+  },
+  {
+    "start": 151.359,
+    "end": 153.12,
+    "text": "So basically, good diet,",
+    "speaker": null
+  },
+  {
+    "start": 153.12,
+    "end": 155.919,
+    "text": "using new medical technology and knowledge",
+    "speaker": null
+  },
+  {
+    "start": 155.919,
+    "end": 160.159,
+    "text": "and being more equitable or fair and impartial in society.",
+    "speaker": null
+  },
+  {
+    "start": 160.159,
+    "end": 161.68,
+    "text": "So how did the UK do?",
+    "speaker": null
+  },
+  {
+    "start": 161.68,
+    "end": 163.599,
+    "text": "Well, not too well, actually.",
+    "speaker": null
+  },
+  {
+    "start": 163.599,
+    "end": 167.28,
+    "text": "Well, not too well actually. We were thoroughly beaten by our closest neighbour, France.",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 167.28,
+    "end": 168.8,
+    "text": "What!? How comes!?",
+    "speaker": "Dan"
+  },
+  {
+    "start": 168.8,
+    "end": 172.56,
+    "text": "I'll let Professor Majid Azati explain that too.",
+    "speaker": null
+  },
+  {
+    "start": 172.64,
+    "end": 175.36,
+    "text": "So France has had some of the lowest obesity rates",
+    "speaker": null
+  },
+  {
+    "start": 175.36,
+    "end": 177.52,
+    "text": "in the Western countries,",
+    "speaker": null
+  },
+  {
+    "start": 177.52,
+    "end": 178.96,
+    "text": "French women especially.",
+    "speaker": null
+  },
+  {
+    "start": 178.96,
+    "end": 180.719,
+    "text": "UK has had some of the highest ones.",
+    "speaker": null
+  },
+  {
+    "start": 181.68,
+    "end": 183.84,
+    "text": "And alcohol in France,",
+    "speaker": null
+  },
+  {
+    "start": 183.84,
+    "end": 185.759,
+    "text": "at least until now, has been consumed",
+    "speaker": null
+  },
+  {
+    "start": 185.759,
+    "end": 188.4,
+    "text": "in much more healthy patterns.",
+    "speaker": null
+  },
+  {
+    "start": 188.4,
+    "end": 191.52,
+    "text": "And in the UK, there has been a lot more binge drinking.",
+    "speaker": null
+  },
+  {
+    "start": 191.52,
+    "end": 194.319,
+    "text": "So France has low obesity,",
+    "speaker": null
+  },
+  {
+    "start": 194.319,
+    "end": 196.48,
+    "text": "which is a state of being very overweight",
+    "speaker": null
+  },
+  {
+    "start": 196.48,
+    "end": 199.68,
+    "text": "compared to the UK's high obesity.",
+    "speaker": null
+  },
+  {
+    "start": 199.76,
+    "end": 202.56,
+    "text": "And France drinks alcohol much more moderately than the UK, which tends to binge.",
+    "speaker": "binge"
+  },
+  {
+    "start": 202.56,
+    "end": 204.719,
+    "text": "than the UK, which tends to binge.",
+    "speaker": null
+  },
+  {
+    "start": 204.719,
+    "end": 208.24,
+    "text": "Binging is when you consume a large amount of something",
+    "speaker": null
+  },
+  {
+    "start": 208.24,
+    "end": 211.76,
+    "text": "in a short time, especially food or alcohol.",
+    "speaker": null
+  },
+  {
+    "start": 211.76,
+    "end": 213.439,
+    "text": "So confession time, Dan.",
+    "speaker": null
+  },
+  {
+    "start": 213.439,
+    "end": 215.439,
+    "text": "How many drinks did you have last night?",
+    "speaker": null
+  },
+  {
+    "start": 215.439,
+    "end": 217.36,
+    "text": "It was only orange juice, I swear.",
+    "speaker": null
+  },
+  {
+    "start": 217.36,
+    "end": 219.2,
+    "text": "So come on, did I get the question right?",
+    "speaker": null
+  },
+  {
+    "start": 219.2,
+    "end": 221.28,
+    "text": "You asked me by the year 2030,",
+    "speaker": null
+  },
+  {
+    "start": 221.28,
+    "end": 225.28,
+    "text": "will the USA's life expectancy be A in the top one third,",
+    "speaker": null
+  },
+  {
+    "start": 225.28,
+    "end": 226.48,
+    "text": "B the middle one third,",
+    "speaker": null
+  },
+  {
+    "start": 226.48,
+    "end": 229.6,
+    "text": "or C the bottom one third compared to the rest of the world?",
+    "speaker": null
+  },
+  {
+    "start": 229.84,
+    "end": 232.079,
+    "text": "And I said the USA is quite a rich country,",
+    "speaker": null
+  },
+  {
+    "start": 232.079,
+    "end": 234.96,
+    "text": "so it's probably A in the top one third.",
+    "speaker": null
+  },
+  {
+    "start": 234.96,
+    "end": 236.56,
+    "text": "Sorry, Dan. Nice logic,",
+    "speaker": null
+  },
+  {
+    "start": 236.56,
+    "end": 241.439,
+    "text": "but actually the USA is one of the least equitable places in the world.",
+    "speaker": null
+  },
+  {
+    "start": 241.439,
+    "end": 243.919,
+    "text": "So their life expectancy suffers,",
+    "speaker": null
+  },
+  {
+    "start": 243.919,
+    "end": 247.359,
+    "text": "and the answer was actually C the bottom third.",
+    "speaker": null
+  },
+  {
+    "start": 247.359,
+    "end": 248.639,
+    "text": "Oh, well, next week maybe.",
+    "speaker": null
+  },
+  {
+    "start": 249.199,
+    "end": 251.759,
+    "text": "Now, let's take a look at the vocabulary from this program.",
+    "speaker": null
+  },
+  {
+    "start": 251.759,
+    "end": 254,
+    "text": "First, we had dead on your feet.",
+    "speaker": null
+  },
+  {
+    "start": 254,
+    "end": 255.919,
+    "text": "This is an informal expression,",
+    "speaker": null
+  },
+  {
+    "start": 255.919,
+    "end": 257.92,
+    "text": "which means extremely tired.",
+    "speaker": null
+  },
+  {
+    "start": 258,
+    "end": 260.4,
+    "text": "Another way to say the same thing would be shattered.",
+    "speaker": null
+  },
+  {
+    "start": 260.4,
+    "end": 262.8,
+    "text": "When was the last time you were dead on your feet, Catherine?",
+    "speaker": null
+  },
+  {
+    "start": 262.8,
+    "end": 265.199,
+    "text": "I built some garden furniture quite recently,",
+    "speaker": null
+  },
+  {
+    "start": 265.199,
+    "end": 268.96,
+    "text": "and it took me all day, and I was dead on my feet when I finished.",
+    "speaker": null
+  },
+  {
+    "start": 269.759,
+    "end": 270.96,
+    "text": "Now, we had motto.",
+    "speaker": null
+  },
+  {
+    "start": 270.96,
+    "end": 273.12,
+    "text": "Now a motto is a short phrase,",
+    "speaker": null
+  },
+  {
+    "start": 273.12,
+    "end": 276.639,
+    "text": "which reflects the belief of an organisation or person.",
+    "speaker": null
+  },
+  {
+    "start": 276.639,
+    "end": 278.72,
+    "text": "So, Dan, what's your personal motto?",
+    "speaker": null
+  },
+  {
+    "start": 279.68,
+    "end": 281.52,
+    "text": "'Take the path of least resistance'. What about you?",
+    "speaker": "Dan"
+  },
+  {
+    "start": 281.52,
+    "end": 282.319,
+    "text": "What about you?",
+    "speaker": null
+  },
+  {
+    "start": 282.319,
+    "end": 283.2,
+    "text": "'Less is more'.",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 283.2,
+    "end": 284.24,
+    "text": "Yeah, good one.",
+    "speaker": null
+  },
+  {
+    "start": 284.24,
+    "end": 286.24,
+    "text": "Then we had life expectancy.",
+    "speaker": null
+  },
+  {
+    "start": 286.319,
+    "end": 290.079,
+    "text": "Life expectancy is how many years a person is likely to live.",
+    "speaker": null
+  },
+  {
+    "start": 290.079,
+    "end": 292.879,
+    "text": "What do you think is a good life expectancy for a person?",
+    "speaker": null
+  },
+  {
+    "start": 292.879,
+    "end": 295.199,
+    "text": "I'm hoping to get to about 85,",
+    "speaker": null
+  },
+  {
+    "start": 295.199,
+    "end": 296.96,
+    "text": "and then I'd like a sort of quick access,",
+    "speaker": null
+  },
+  {
+    "start": 296.96,
+    "end": 300,
+    "text": "because I think it's probably not much fun after that.",
+    "speaker": null
+  },
+  {
+    "start": 300,
+    "end": 301.519,
+    "text": "Then we had equitable.",
+    "speaker": null
+  },
+  {
+    "start": 301.519,
+    "end": 304.4,
+    "text": "Equitable means being fair or impartial,",
+    "speaker": null
+  },
+  {
+    "start": 304.4,
+    "end": 306.4,
+    "text": "and it comes from the word equal.",
+    "speaker": null
+  },
+  {
+    "start": 306.4,
+    "end": 308.4,
+    "text": "So, Dan, personal question,",
+    "speaker": null
+  },
+  {
+    "start": 308.4,
+    "end": 311.68,
+    "text": "would you say that your marriage is equitable?",
+    "speaker": null
+  },
+  {
+    "start": 311.68,
+    "end": 313.6,
+    "text": "I'd like to think so, yes.",
+    "speaker": null
+  },
+  {
+    "start": 313.6,
+    "end": 314.48,
+    "text": "I do the cooking.",
+    "speaker": null
+  },
+  {
+    "start": 314.56,
+    "end": 315.6,
+    "text": "My wife does the cleaning,",
+    "speaker": null
+  },
+  {
+    "start": 315.6,
+    "end": 316.8,
+    "text": "and we share the other jobs.",
+    "speaker": null
+  },
+  {
+    "start": 317.36,
+    "end": 320,
+    "text": "We'll have to get Mrs. Dan in to give her opinion.",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 320.879,
+    "end": 322.96,
+    "text": "After that, we heard obesity.",
+    "speaker": null
+  },
+  {
+    "start": 322.96,
+    "end": 326.08,
+    "text": "Obesity describes a state of being very overweight.",
+    "speaker": null
+  },
+  {
+    "start": 326.08,
+    "end": 327.12,
+    "text": "It's a medical term,",
+    "speaker": null
+  },
+  {
+    "start": 327.12,
+    "end": 329.92,
+    "text": "and is often used in connection with health problems.",
+    "speaker": null
+  },
+  {
+    "start": 329.92,
+    "end": 332.96,
+    "text": "The report said that the UK has an obesity problem, Catherine.",
+    "speaker": null
+  },
+  {
+    "start": 332.96,
+    "end": 334.08,
+    "text": "How do you think we can solve it?",
+    "speaker": null
+  },
+  {
+    "start": 334.72,
+    "end": 336.319,
+    "text": "I think we need a sugar tax,",
+    "speaker": null
+  },
+  {
+    "start": 336.319,
+    "end": 337.92,
+    "text": "and everybody should walk to work.",
+    "speaker": null
+  },
+  {
+    "start": 337.92,
+    "end": 339.52,
+    "text": "Finally, we had binge.",
+    "speaker": null
+  },
+  {
+    "start": 339.52,
+    "end": 342.4,
+    "text": "To binge is to consume a large amount of something",
+    "speaker": null
+  },
+  {
+    "start": 342.4,
+    "end": 344.16,
+    "text": "in a short space of time.",
+    "speaker": null
+  },
+  {
+    "start": 344.16,
+    "end": 346.56,
+    "text": "Especially something that you don't usually have.",
+    "speaker": null
+  },
+  {
+    "start": 346.56,
+    "end": 350,
+    "text": "And these days, we hear a lot about binge drinking, binge eating,",
+    "speaker": null
+  },
+  {
+    "start": 350,
+    "end": 351.439,
+    "text": "and binge watching.",
+    "speaker": null
+  },
+  {
+    "start": 351.439,
+    "end": 355.2,
+    "text": "So, Dan, when did you last binge watch a series on TV?",
+    "speaker": null
+  },
+  {
+    "start": 355.2,
+    "end": 356.24,
+    "text": "It's Game of Thrones.",
+    "speaker": null
+  },
+  {
+    "start": 356.24,
+    "end": 357.04,
+    "text": "Game of Thrones?",
+    "speaker": null
+  },
+  {
+    "start": 357.04,
+    "end": 359.12,
+    "text": "Game of Series 1, Series 2, Series 3.",
+    "speaker": null
+  },
+  {
+    "start": 359.12,
+    "end": 359.84,
+    "text": "Back to back.",
+    "speaker": null
+  },
+  {
+    "start": 359.84,
+    "end": 361.68,
+    "text": "Back to back, bingeing, brilliant.",
+    "speaker": null
+  },
+  {
+    "start": 361.68,
+    "end": 363.6,
+    "text": "Well, that's the end of today's six-minute English.",
+    "speaker": null
+  },
+  {
+    "start": 363.6,
+    "end": 364.8,
+    "text": "Please join us again soon.",
+    "speaker": null
+  },
+  {
+    "start": 364.8,
+    "end": 366.24,
+    "text": "And we're on social media too,",
+    "speaker": null
+  },
+  {
+    "start": 366.24,
+    "end": 368.4,
+    "text": "so make sure you find us on Twitter,",
+    "speaker": null
+  },
+  {
+    "start": 368.4,
+    "end": 370.64,
+    "text": "Facebook, Instagram, and YouTube.",
+    "speaker": null
+  },
+  {
+    "start": 370.64,
+    "end": 371.68,
+    "text": "Bye!",
+    "speaker": "Both"
+  },
+  {
+    "start": 374.16,
+    "end": 376.96,
+    "text": "From BBCLearningEnglish.com.",
+    "speaker": null
+  }
+]

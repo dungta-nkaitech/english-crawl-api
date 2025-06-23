@@ -1,0 +1,788 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.6,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.6,
+    "end": 10.24,
+    "text": "6-Nate English from the BBC.",
+    "speaker": null
+  },
+  {
+    "start": 10.24,
+    "end": 12.16,
+    "text": "Hello and welcome to 6 Minute English,",
+    "speaker": null
+  },
+  {
+    "start": 12.16,
+    "end": 13.919,
+    "text": "the show that brings you an interesting topic,",
+    "speaker": null
+  },
+  {
+    "start": 13.919,
+    "end": 17.519,
+    "text": "authentic listening practice and six new items of vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 17.519,
+    "end": 18.16,
+    "text": "I'm Dan.",
+    "speaker": null
+  },
+  {
+    "start": 25.839,
+    "end": 27.199,
+    "text": "Neil",
+    "speaker": "bio-sensor"
+  },
+  {
+    "start": 27.199,
+    "end": 31.039,
+    "text": "…And I'm Neil. We’ll be discussing dogs being used in cancer detection.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 31.039,
+    "end": 32.24,
+    "text": "Everything okay, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 32.24,
+    "end": 35.519,
+    "text": "Oh, I'm so tired.",
+    "speaker": null
+  },
+  {
+    "start": 35.519,
+    "end": 37.759,
+    "text": "One of my children is a sick as a dog.",
+    "speaker": null
+  },
+  {
+    "start": 37.759,
+    "end": 40.96,
+    "text": "I didn't sleep all night long looking after them.",
+    "speaker": null
+  },
+  {
+    "start": 40.96,
+    "end": 43.84,
+    "text": "As sick as a dog is an expression meaning ‘very ill’. I’m sorry to hear it. Try and hold on if you can.",
+    "speaker": "As sick as a dog"
+  },
+  {
+    "start": 43.84,
+    "end": 45.12,
+    "text": "I'm sorry to hear it.",
+    "speaker": null
+  },
+  {
+    "start": 45.12,
+    "end": 46.399,
+    "text": "Try and hold on if you can.",
+    "speaker": null
+  },
+  {
+    "start": 47.6,
+    "end": 48.239,
+    "text": "Don't worry.",
+    "speaker": null
+  },
+  {
+    "start": 48.239,
+    "end": 50.159,
+    "text": "There's life in this whole dog yet.",
+    "speaker": null
+  },
+  {
+    "start": 50.159,
+    "end": 50.799,
+    "text": "Good.",
+    "speaker": null
+  },
+  {
+    "start": 50.799,
+    "end": 53.359,
+    "text": "It's funny that you mentioned dogs because the UK's",
+    "speaker": null
+  },
+  {
+    "start": 53.359,
+    "end": 56.239,
+    "text": "National Health Service is currently assessing where the dogs",
+    "speaker": null
+  },
+  {
+    "start": 56.24,
+    "end": 59.679,
+    "text": "can be used to detect early stage prostate cancer.",
+    "speaker": null
+  },
+  {
+    "start": 59.679,
+    "end": 60.64,
+    "text": "Amazing.",
+    "speaker": null
+  },
+  {
+    "start": 60.64,
+    "end": 61.6,
+    "text": "Amazing. Any success?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 61.6,
+    "end": 63.84,
+    "text": "Let me ask you in this week's question.",
+    "speaker": null
+  },
+  {
+    "start": 63.84,
+    "end": 66.56,
+    "text": "Oh yes. I asked you in what percentage of cases were dogs able to detect the presence of cancer in urine?",
+    "speaker": "Dan"
+  },
+  {
+    "start": 66.56,
+    "end": 68.799,
+    "text": "the presence of cancer in urine?",
+    "speaker": null
+  },
+  {
+    "start": 68.799,
+    "end": 73.84,
+    "text": "Is it A, 50%, B, 70% or C, 90%?",
+    "speaker": null
+  },
+  {
+    "start": 73.84,
+    "end": 76.56,
+    "text": "I’m going to guess a) 50%",
+    "speaker": "Neil"
+  },
+  {
+    "start": 76.56,
+    "end": 79.2,
+    "text": "We’ll find out later if you’re right or wrong. So, Neil, I say dog, what do you think?",
+    "speaker": "Dan"
+  },
+  {
+    "start": 79.2,
+    "end": 82.079,
+    "text": "So, Neil, I say dog, what do you think?",
+    "speaker": null
+  },
+  {
+    "start": 82.319,
+    "end": 88.64,
+    "text": "A wet nose, four paws, which is what we call the feet of certain animals.",
+    "speaker": null
+  },
+  {
+    "start": 89.359,
+    "end": 92.64,
+    "text": "Fluffy coat and a waggy tail, man's best friend.",
+    "speaker": null
+  },
+  {
+    "start": 93.28,
+    "end": 94.799,
+    "text": "But I've never heard of cancer dogs.",
+    "speaker": null
+  },
+  {
+    "start": 94.799,
+    "end": 96.799,
+    "text": "I wonder what makes them suitable.",
+    "speaker": null
+  },
+  {
+    "start": 96.799,
+    "end": 102.319,
+    "text": "Well, I’ll let Dr Claire Guest, CEO of the charity Medical Detection Dogs take that one.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 102.879,
+    "end": 107.68,
+    "text": "Although the dog has a fluffy coat and a waggy tail, he is in fact a highly sophisticated",
+    "speaker": null
+  },
+  {
+    "start": 107.68,
+    "end": 108.959,
+    "text": "biosensor.",
+    "speaker": null
+  },
+  {
+    "start": 108.959,
+    "end": 112.559,
+    "text": "You know, evolution is given in this highly sensitive nose.",
+    "speaker": null
+  },
+  {
+    "start": 112.559,
+    "end": 114.079,
+    "text": "Go down to parts of the trillions.",
+    "speaker": null
+  },
+  {
+    "start": 114.079,
+    "end": 115.359,
+    "text": "People bore planes every day.",
+    "speaker": null
+  },
+  {
+    "start": 115.359,
+    "end": 118.799,
+    "text": "There have been screened by detected dogs to see if they're exposed to some board.",
+    "speaker": null
+  },
+  {
+    "start": 118.799,
+    "end": 121.519,
+    "text": "Why do we rely on them now and yet not in the systems with help?",
+    "speaker": null
+  },
+  {
+    "start": 122.159,
+    "end": 128.159,
+    "text": "So, dogs have evolved to have a highly developed sense of smell that allows them to act as a biosensor,",
+    "speaker": null
+  },
+  {
+    "start": 128.159,
+    "end": 131.68,
+    "text": "a sensor which uses a living thing to detect chemicals.",
+    "speaker": null
+  },
+  {
+    "start": 131.68,
+    "end": 136.319,
+    "text": "Yes, and she mentioned that humans have a history of using dogs in security to screen, or examine for suitability, for explosives and bombs.",
+    "speaker": "screen"
+  },
+  {
+    "start": 136.319,
+    "end": 140.719,
+    "text": "to screen or examine for suitability, for explosives and bombs.",
+    "speaker": null
+  },
+  {
+    "start": 140.719,
+    "end": 141.12,
+    "text": "Yep.",
+    "speaker": null
+  },
+  {
+    "start": 141.68,
+    "end": 144.719,
+    "text": "Yep! Can you think of any other places that dogs are used to support humans?",
+    "speaker": "Dan"
+  },
+  {
+    "start": 144.719,
+    "end": 149.359,
+    "text": "Well, there's guide dogs or seeing eye dogs as they're known in North America.",
+    "speaker": null
+  },
+  {
+    "start": 149.359,
+    "end": 152.56,
+    "text": "They help people who are blind to avoid danger.",
+    "speaker": null
+  },
+  {
+    "start": 152.56,
+    "end": 153.359,
+    "text": "Nice.",
+    "speaker": null
+  },
+  {
+    "start": 153.359,
+    "end": 154.56,
+    "text": "Any more?",
+    "speaker": null
+  },
+  {
+    "start": 154.56,
+    "end": 155.68,
+    "text": "Nice. Any more? Maybe around the home?",
+    "speaker": "Dan"
+  },
+  {
+    "start": 155.68,
+    "end": 161.039,
+    "text": "Are you referring to guard dogs, meaning ‘a dog which keeps a house or place safe from burglary, theft or trespassing.’",
+    "speaker": "Neil"
+  },
+  {
+    "start": 161.039,
+    "end": 162.24,
+    "text": "theft or trespassing?",
+    "speaker": null
+  },
+  {
+    "start": 162.24,
+    "end": 162.879,
+    "text": "Yep.",
+    "speaker": null
+  },
+  {
+    "start": 162.879,
+    "end": 168.879,
+    "text": "X burglars have often said that there are much bigger deterrent or reason not to do something",
+    "speaker": null
+  },
+  {
+    "start": 168.879,
+    "end": 170.08,
+    "text": "than an alarm system.",
+    "speaker": null
+  },
+  {
+    "start": 170.08,
+    "end": 171.76,
+    "text": "Oh, and there's rescue dogs.",
+    "speaker": null
+  },
+  {
+    "start": 171.76,
+    "end": 175.04,
+    "text": "They're trained to search and find victims of natural disasters,",
+    "speaker": null
+  },
+  {
+    "start": 175.04,
+    "end": 177.52,
+    "text": "such as avalanches or earthquakes.",
+    "speaker": null
+  },
+  {
+    "start": 177.52,
+    "end": 178.56,
+    "text": "Exactly.",
+    "speaker": null
+  },
+  {
+    "start": 178.56,
+    "end": 183.6,
+    "text": "Exactly, dogs are perfect for situations where people may be buried under the earth or the snow. A human can’t see them but a dog can still smell them.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 183.6,
+    "end": 187.2,
+    "text": "A human can't see them, but a dog can still smell them.",
+    "speaker": null
+  },
+  {
+    "start": 187.2,
+    "end": 192.16,
+    "text": "Do you think our national health service will employ them as full-time biosensors, then?",
+    "speaker": null
+  },
+  {
+    "start": 192.24,
+    "end": 197.599,
+    "text": "Well, I don’t know, but here’s what Jeremy Hunt, the UK Health Secretary had to say on the matter.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 197.599,
+    "end": 202.24,
+    "text": "One of our jobs as MPs is sometimes to question orthodoxies,",
+    "speaker": null
+  },
+  {
+    "start": 202.24,
+    "end": 207.199,
+    "text": "One of our jobs as MPs is sometimes to question orthodoxies, so if this research is good then I want to know about it, and I will certainly look at it carefully.",
+    "speaker": "orthodoxies"
+  },
+  {
+    "start": 207.199,
+    "end": 212,
+    "text": "He mentions that this type of research goes against orthodoxies or generally accepted ways of",
+    "speaker": null
+  },
+  {
+    "start": 212,
+    "end": 215.599,
+    "text": "doing things, but he also mentions that he will be looking at it carefully.",
+    "speaker": null
+  },
+  {
+    "start": 215.599,
+    "end": 216.56,
+    "text": "So let's hope so.",
+    "speaker": null
+  },
+  {
+    "start": 216.56,
+    "end": 218.719,
+    "text": "Yes, I wouldn't mind having a dog doctor.",
+    "speaker": null
+  },
+  {
+    "start": 219.359,
+    "end": 222.96,
+    "text": "Yes I wouldn’t mind having a dog doctor! And speaking of research, there was a question I need to know the answer to.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 222.96,
+    "end": 223.919,
+    "text": "Oh, yes.",
+    "speaker": null
+  },
+  {
+    "start": 223.919,
+    "end": 229.919,
+    "text": "I asked you in what percentage of cases were dogs able to detect the presence of cancer in urine?",
+    "speaker": null
+  },
+  {
+    "start": 229.919,
+    "end": 233.52,
+    "text": "A, 50%, B, 70%, or C, 90%.",
+    "speaker": null
+  },
+  {
+    "start": 233.52,
+    "end": 236.4,
+    "text": "And I said 50%",
+    "speaker": "Neil"
+  },
+  {
+    "start": 236.4,
+    "end": 238.24,
+    "text": "It’s a dog’s life, Neil. I’m sorry. The answer was c) 90%",
+    "speaker": "Dan"
+  },
+  {
+    "start": 238.24,
+    "end": 240.479,
+    "text": "The answer was C, 90%.",
+    "speaker": null
+  },
+  {
+    "start": 240.479,
+    "end": 241.68,
+    "text": "Wow, 90%.",
+    "speaker": null
+  },
+  {
+    "start": 241.68,
+    "end": 243.12,
+    "text": "That's amazing, isn't it?",
+    "speaker": null
+  },
+  {
+    "start": 243.12,
+    "end": 244.879,
+    "text": "Shall we go through the vocabulary?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 244.96,
+    "end": 249.12,
+    "text": "Okay, the first expression we had was as sick as a dog.",
+    "speaker": null
+  },
+  {
+    "start": 249.12,
+    "end": 252.719,
+    "text": "If you are as sick as a dog, it means that you're very sick indeed.",
+    "speaker": null
+  },
+  {
+    "start": 252.719,
+    "end": 255.12,
+    "text": "When was the last time you were as sick as a dog, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 255.12,
+    "end": 258.319,
+    "text": "Oh, just after Christmas, I caught a bug from my kids.",
+    "speaker": null
+  },
+  {
+    "start": 258.319,
+    "end": 260.24,
+    "text": "Oh, I was as sick as a dog.",
+    "speaker": null
+  },
+  {
+    "start": 260.879,
+    "end": 262.319,
+    "text": "Next, we had paws.",
+    "speaker": null
+  },
+  {
+    "start": 262.319,
+    "end": 264.48,
+    "text": "Paws are the feet of certain animals.",
+    "speaker": null
+  },
+  {
+    "start": 264.48,
+    "end": 266.319,
+    "text": "They have pads and claws.",
+    "speaker": null
+  },
+  {
+    "start": 266.319,
+    "end": 268.159,
+    "text": "Can you give us a few examples, Dan?",
+    "speaker": null
+  },
+  {
+    "start": 268.159,
+    "end": 272.8,
+    "text": "Well, dogs have paws, so do cats, rabbits, bears, and mice.",
+    "speaker": null
+  },
+  {
+    "start": 272.879,
+    "end": 277.199,
+    "text": "But not horses, sheep, or pigs, they have hooves.",
+    "speaker": null
+  },
+  {
+    "start": 277.199,
+    "end": 279.36,
+    "text": "After paws, we had biosensor.",
+    "speaker": null
+  },
+  {
+    "start": 279.36,
+    "end": 283.12,
+    "text": "A biosensor is a combination of the words biology and sensor.",
+    "speaker": null
+  },
+  {
+    "start": 283.12,
+    "end": 287.199,
+    "text": "It is a sensor which uses a living thing to detect chemicals.",
+    "speaker": null
+  },
+  {
+    "start": 287.199,
+    "end": 289.6,
+    "text": "Can you think of a famous historical example, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 289.6,
+    "end": 293.68,
+    "text": "Well, miners in danger of highly toxic but invisible gas,",
+    "speaker": null
+  },
+  {
+    "start": 293.68,
+    "end": 298.24,
+    "text": "called methane, used to carry a canary and a cage down the mine with them.",
+    "speaker": null
+  },
+  {
+    "start": 298.24,
+    "end": 302.08,
+    "text": "If the canary became ill or died, they knew the air was toxic.",
+    "speaker": null
+  },
+  {
+    "start": 302.879,
+    "end": 304,
+    "text": "Then we had screen.",
+    "speaker": null
+  },
+  {
+    "start": 304,
+    "end": 307.12,
+    "text": "If you screen something, it means you examine it for its suitability,",
+    "speaker": null
+  },
+  {
+    "start": 307.12,
+    "end": 309.28,
+    "text": "such as luggage going through an airport,",
+    "speaker": null
+  },
+  {
+    "start": 309.28,
+    "end": 311.6,
+    "text": "where they would screen for explosives.",
+    "speaker": null
+  },
+  {
+    "start": 311.6,
+    "end": 313.12,
+    "text": "How else can it be used, Dan?",
+    "speaker": null
+  },
+  {
+    "start": 313.12,
+    "end": 315.68,
+    "text": "Well, these days you can get an ad block on your computer",
+    "speaker": null
+  },
+  {
+    "start": 315.68,
+    "end": 318.56,
+    "text": "that will screen out those annoying pop-up adverts.",
+    "speaker": null
+  },
+  {
+    "start": 318.56,
+    "end": 319.439,
+    "text": "I hate those.",
+    "speaker": null
+  },
+  {
+    "start": 320.48,
+    "end": 322.16,
+    "text": "After that was deterrent.",
+    "speaker": null
+  },
+  {
+    "start": 322.16,
+    "end": 325.36,
+    "text": "A deterrent is a thing which stops a person from doing something,",
+    "speaker": null
+  },
+  {
+    "start": 325.36,
+    "end": 328,
+    "text": "such as the fear of punishment for a crime.",
+    "speaker": null
+  },
+  {
+    "start": 328,
+    "end": 330.56,
+    "text": "How do you deter your children for being naughty, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 330.639,
+    "end": 331.36,
+    "text": "Oh, that's easy.",
+    "speaker": null
+  },
+  {
+    "start": 331.36,
+    "end": 334.24,
+    "text": "I just threatened to remove a sticker from their sticker charts.",
+    "speaker": null
+  },
+  {
+    "start": 334.24,
+    "end": 335.519,
+    "text": "Good idea!",
+    "speaker": "Dan"
+  },
+  {
+    "start": 335.519,
+    "end": 337.839,
+    "text": "Finally, we heard orthodoxies.",
+    "speaker": null
+  },
+  {
+    "start": 337.839,
+    "end": 341.68,
+    "text": "An orthodoxy is a generally accepted way of doing things.",
+    "speaker": null
+  },
+  {
+    "start": 341.68,
+    "end": 345.519,
+    "text": "Its adjective is orthodox, and we often hear its opposite word,",
+    "speaker": null
+  },
+  {
+    "start": 345.519,
+    "end": 347.68,
+    "text": "unorthodox, meaning unusual.",
+    "speaker": null
+  },
+  {
+    "start": 347.68,
+    "end": 349.6,
+    "text": "Do you do anything unorthodox, Dan?",
+    "speaker": null
+  },
+  {
+    "start": 349.6,
+    "end": 353.68,
+    "text": "Well, I love to combine hot sausages and cold vanilla ice cream.",
+    "speaker": null
+  },
+  {
+    "start": 353.68,
+    "end": 356.639,
+    "text": "It's delicious, but no one will trust me enough to try.",
+    "speaker": null
+  },
+  {
+    "start": 356.639,
+    "end": 358.079,
+    "text": "Well, I don't blame them.",
+    "speaker": null
+  },
+  {
+    "start": 358.56,
+    "end": 360.959,
+    "text": "I don’t blame them! Well, that's the end of today's 6 Minute English. Please join us again soon!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 360.959,
+    "end": 362.479,
+    "text": "Please join us again soon.",
+    "speaker": null
+  },
+  {
+    "start": 362.479,
+    "end": 364.24,
+    "text": "And we're on social media too.",
+    "speaker": null
+  },
+  {
+    "start": 364.24,
+    "end": 366.719,
+    "text": "Facebook, Twitter, Instagram and YouTube.",
+    "speaker": null
+  },
+  {
+    "start": 366.719,
+    "end": 367.439,
+    "text": "See you there.",
+    "speaker": null
+  },
+  {
+    "start": 367.439,
+    "end": 368.079,
+    "text": "Goodbye.",
+    "speaker": null
+  },
+  {
+    "start": 368.079,
+    "end": 368.639,
+    "text": "Bye!",
+    "speaker": "Both"
+  }
+]

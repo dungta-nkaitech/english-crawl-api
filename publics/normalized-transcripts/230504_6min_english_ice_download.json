@@ -1,0 +1,344 @@
+[
+  {
+    "start": 0,
+    "end": 7,
+    "text": "This is a download from BBC Learning English. To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 7,
+    "end": 14,
+    "text": "6 Minute English from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 14,
+    "end": 21,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 21,
+    "end": 26,
+    "text": "Have you ever made a snowman or enjoyed a cold drink on a hot summer's day?",
+    "speaker": null
+  },
+  {
+    "start": 26,
+    "end": 33,
+    "text": "Slippery in winter and cooling in summer, ice is made when water gets so cold it freezes.",
+    "speaker": null
+  },
+  {
+    "start": 33,
+    "end": 38,
+    "text": "But there's much more to ice than skiing holidays and cold drinks.",
+    "speaker": null
+  },
+  {
+    "start": 38,
+    "end": 45,
+    "text": "Yes, in an exciting discovery, the James Webb Space Telescope recently detected the coldest",
+    "speaker": null
+  },
+  {
+    "start": 45,
+    "end": 53,
+    "text": "ice is ever in outer space. Something NASA scientists think could explain the origins of life on Earth.",
+    "speaker": null
+  },
+  {
+    "start": 53,
+    "end": 57,
+    "text": "For years, scientists have debated how life started on our planet.",
+    "speaker": null
+  },
+  {
+    "start": 57,
+    "end": 63,
+    "text": "Billions of years ago, long before the dinosaurs, animals or even plants existed,",
+    "speaker": null
+  },
+  {
+    "start": 63,
+    "end": 72,
+    "text": "the Earth had a watery environment of oxygen-free gases and chemicals known as the primordial soup.",
+    "speaker": null
+  },
+  {
+    "start": 72,
+    "end": 76,
+    "text": "It had the potential for life to develop, but something was missing.",
+    "speaker": null
+  },
+  {
+    "start": 76,
+    "end": 83,
+    "text": "So, how did we jump from the primordial soup to the first living plants, animals and eventually humans?",
+    "speaker": null
+  },
+  {
+    "start": 83,
+    "end": 86,
+    "text": "And how does ice fit into the story?",
+    "speaker": null
+  },
+  {
+    "start": 86,
+    "end": 93,
+    "text": "That's what we'll be finding out in this programme. And as usual, we'll be learning some useful new vocabulary as well.",
+    "speaker": null
+  },
+  {
+    "start": 93,
+    "end": 101,
+    "text": "But first I have a question for you, Neil. We know ice is frozen water, but do you know the chemical symbol for water? Is it:",
+    "speaker": "Sam"
+  },
+  {
+    "start": 101,
+    "end": 109,
+    "text": "Is it A, H2O, B, H02 or C, H2O2?",
+    "speaker": null
+  },
+  {
+    "start": 109,
+    "end": 115,
+    "text": "Well, I really hope I get this right. I think the answer is H2O.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 115,
+    "end": 119,
+    "text": "Okay, we'll find out or check if you're right later in the programme.",
+    "speaker": null
+  },
+  {
+    "start": 119,
+    "end": 128,
+    "text": "Astronomer Professor Melissa McLare worked with the NASA scientists who found ice on Europa, one of Jupiter's moons.",
+    "speaker": null
+  },
+  {
+    "start": 128,
+    "end": 138,
+    "text": "Here she explains to BBC World Service programme Science and Action, one theory linking ice to the beginnings of life on Earth.",
+    "speaker": null
+  },
+  {
+    "start": 138,
+    "end": 143,
+    "text": "There's sort of these two alternatives for how you could have had life arise on Earth.",
+    "speaker": null
+  },
+  {
+    "start": 143,
+    "end": 149,
+    "text": "And one is that the very basic building blocks like water and methane and CO2,",
+    "speaker": null
+  },
+  {
+    "start": 149,
+    "end": 154,
+    "text": "like those molecules were definitely brought to Earth by ice in comets.",
+    "speaker": null
+  },
+  {
+    "start": 154,
+    "end": 163,
+    "text": "And maybe once they were on Earth, then they reacted with either geothermal heat or some kind of lightning strike to form more complex molecules.",
+    "speaker": null
+  },
+  {
+    "start": 163,
+    "end": 168,
+    "text": "Earth's primordial soup lacked the building blocks of life.",
+    "speaker": null
+  },
+  {
+    "start": 168,
+    "end": 177,
+    "text": "Earth’s primordial soup lacked the building blocks of life – a phrase describing the most basic biological and chemical units needed to support living things, elements like oxygen and carbon.",
+    "speaker": "building blocks of life"
+  },
+  {
+    "start": 177,
+    "end": 188,
+    "text": "Professor McLare thinks these missing elements were brought to Earth in comets, large bright balls of dirt and ice which travel around the Sun in outer space.",
+    "speaker": null
+  },
+  {
+    "start": 188,
+    "end": 196,
+    "text": "It's possible that when comets hit Earth billions of years ago, elements in the ice were scattered and struck by lightning,",
+    "speaker": null
+  },
+  {
+    "start": 196,
+    "end": 201,
+    "text": "a bright flash of light produced by electricity moving in the atmosphere.",
+    "speaker": null
+  },
+  {
+    "start": 201,
+    "end": 206,
+    "text": "This resulted in the complex molecules needed for life on Earth.",
+    "speaker": null
+  },
+  {
+    "start": 206,
+    "end": 215,
+    "text": "Exactly how this happened is not known, but it involves biomolecules, molecules like DNA which are found in living things.",
+    "speaker": null
+  },
+  {
+    "start": 215,
+    "end": 224,
+    "text": "Ice is not a biomolecule, but when it mixes with carbon, the atoms in ice molecules change to produce complex molecules.",
+    "speaker": null
+  },
+  {
+    "start": 224,
+    "end": 227,
+    "text": "And that's when interesting things start to happen.",
+    "speaker": null
+  },
+  {
+    "start": 227,
+    "end": 234,
+    "text": "Here's Professor McLare again explaining more to BBC World Services, Science and Action.",
+    "speaker": null
+  },
+  {
+    "start": 234,
+    "end": 237,
+    "text": "If they have a carbon atom in them, they're complex organic molecules.",
+    "speaker": null
+  },
+  {
+    "start": 237,
+    "end": 245,
+    "text": "So things like very simple alcohols like methanol or ethanol, like what you would drink are complex organic molecules.",
+    "speaker": null
+  },
+  {
+    "start": 245,
+    "end": 255,
+    "text": "And these molecules could react and start sort of a reaction chain that would eventually lead to something like a biomolecule.",
+    "speaker": null
+  },
+  {
+    "start": 255,
+    "end": 262,
+    "text": "Ice can react with other elements to create organic molecules, for example the alcohol methanol.",
+    "speaker": null
+  },
+  {
+    "start": 262,
+    "end": 267,
+    "text": "Here the adjective organic means related to living plants and animals.",
+    "speaker": null
+  },
+  {
+    "start": 267,
+    "end": 276,
+    "text": "That's different from how we use the word to talk about organic food, meaning food that hasn't been grown using artificial chemicals.",
+    "speaker": null
+  },
+  {
+    "start": 276,
+    "end": 289,
+    "text": "When these organic molecules met the primordial soup - so the theory goes - it produced a chain reaction – a series of chemical reactions in which one change causes another. It was this chain reaction which created the first living cells and eventually, humans. Quite impressive for a little piece of frozen water!",
+    "speaker": "chain reaction"
+  },
+  {
+    "start": 289,
+    "end": 296,
+    "text": "It was this chain reaction which created the first living cells and eventually humans.",
+    "speaker": null
+  },
+  {
+    "start": 296,
+    "end": 299,
+    "text": "Quite impressive for a little piece of frozen water.",
+    "speaker": null
+  },
+  {
+    "start": 299,
+    "end": 307,
+    "text": "Speaking of water, Sam, what was the answer to your question about the chemical symbol for water? I said it was H2O.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 307,
+    "end": 310,
+    "text": "Which was the right answer Neil.",
+    "speaker": null
+  },
+  {
+    "start": 310,
+    "end": 318,
+    "text": "Each molecule of water and ice contains two atoms of H, that's hydrogen, joined to one atom of oxygen.",
+    "speaker": null
+  },
+  {
+    "start": 318,
+    "end": 324,
+    "text": "Okay, let's recap the vocabulary we've learned from the programme starting with primordial soup.",
+    "speaker": null
+  },
+  {
+    "start": 324,
+    "end": 331,
+    "text": "The environment on earth before there were any plants or animals which created the conditions for life.",
+    "speaker": null
+  },
+  {
+    "start": 331,
+    "end": 339,
+    "text": "The phrase the building blocks of life refers to the most basic biological and chemical units needed to support living plants and animals.",
+    "speaker": "building blocks of life"
+  },
+  {
+    "start": 339,
+    "end": 346,
+    "text": "A comet is a large object travelling in space which orbits the sun and has a bright, burning tail.",
+    "speaker": "comet"
+  },
+  {
+    "start": 347,
+    "end": 352,
+    "text": "Lighting is a flash of bright light produced by electricity moving in the atmosphere.",
+    "speaker": null
+  },
+  {
+    "start": 352,
+    "end": 357,
+    "text": "The adjective organic means relating to living plants and animals.",
+    "speaker": null
+  },
+  {
+    "start": 357,
+    "end": 361,
+    "text": "The adjective organic means relating to living plants and animals. And ‘organic food’ means food which has been grown without using chemicals.",
+    "speaker": "organic"
+  },
+  {
+    "start": 361,
+    "end": 370,
+    "text": "And finally, a chain reaction is a series of chemical reactions in which one change causes another, which in turn, causes another. Once again, our six minutes are up. Goodbye!",
+    "speaker": "chain reaction"
+  },
+  {
+    "start": 370,
+    "end": 373,
+    "text": "Once again our six minutes are up, goodbye.",
+    "speaker": null
+  },
+  {
+    "start": 373,
+    "end": 375,
+    "text": "Bye bye!",
+    "speaker": "Sam"
+  }
+]

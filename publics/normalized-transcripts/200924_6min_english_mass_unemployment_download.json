@@ -1,0 +1,446 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.6,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.6,
+    "end": 8.24,
+    "text": "6MuteEnglish",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 10.88,
+    "text": "from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 13.12,
+    "end": 17.039,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 17.039,
+    "end": 18.24,
+    "text": "And I’m Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 18.24,
+    "end": 23.199,
+    "text": "You and I are lucky, Sam, because we can do our jobs remotely, working from home.",
+    "speaker": null
+  },
+  {
+    "start": 23.199,
+    "end": 28.08,
+    "text": "There are some downsides, though, like not being out to meet up with friends or share ideas with",
+    "speaker": null
+  },
+  {
+    "start": 28.799,
+    "end": 30.559,
+    "text": "and colleagues. I'm going out for lunch.",
+    "speaker": null
+  },
+  {
+    "start": 30.559,
+    "end": 34.96,
+    "text": "But the coronavirus pandemic has caused millions of people to lose their job",
+    "speaker": null
+  },
+  {
+    "start": 34.96,
+    "end": 37.599,
+    "text": "and force thousands more out of work temporarily.",
+    "speaker": null
+  },
+  {
+    "start": 37.599,
+    "end": 40.96,
+    "text": "With no idea if their job will still be there when they return.",
+    "speaker": null
+  },
+  {
+    "start": 40.96,
+    "end": 45.599,
+    "text": "For those daily workers without savings to pay the rent and feed their families it has been especially stressful. Each job loss is a potential personal tragedy.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 45.599,
+    "end": 47.599,
+    "text": "it's been especially stressful.",
+    "speaker": null
+  },
+  {
+    "start": 48.159,
+    "end": 51.519,
+    "text": "Each job loss is a potential personal tragedy.",
+    "speaker": null
+  },
+  {
+    "start": 51.519,
+    "end": 55.359,
+    "text": "In this programme, we'll be assessing the post-COVID job landscape",
+    "speaker": null
+  },
+  {
+    "start": 55.359,
+    "end": 60.799,
+    "text": "In this programme we’ll be assessing the post-Covid job landscape and asking whether a radical new approach is needed to prevent global mass unemployment.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 60.799,
+    "end": 66.48,
+    "text": "We’ll be asking whether one of the world’s smallest – and richest – countries, Denmark, might hold the answer.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 66.48,
+    "end": 67.84,
+    "text": "might hold the answer.",
+    "speaker": null
+  },
+  {
+    "start": 67.84,
+    "end": 70.879,
+    "text": "And of course, we'll be learning some new vocabulary as well.",
+    "speaker": null
+  },
+  {
+    "start": 70.879,
+    "end": 73.28,
+    "text": "But first, it's time for our quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 73.28,
+    "end": 77.519,
+    "text": "One man who knows a lot about jobs is Brad Smith, president of Microsoft,",
+    "speaker": null
+  },
+  {
+    "start": 77.519,
+    "end": 81.439,
+    "text": "a company employing over 150,000 workers.",
+    "speaker": null
+  },
+  {
+    "start": 81.519,
+    "end": 85.519,
+    "text": "He's made gloomy predictions about the number of people out of work.",
+    "speaker": null
+  },
+  {
+    "start": 85.519,
+    "end": 91.759,
+    "text": "But how many people does he predict will be left unemployed this year as a result of the coronavirus",
+    "speaker": null
+  },
+  {
+    "start": 91.759,
+    "end": 100.4,
+    "text": "pandemic? Is it a one quarter of a billion people, b one third of a billion people, or c half a",
+    "speaker": null
+  },
+  {
+    "start": 100.4,
+    "end": 107.68,
+    "text": "billion people? Well, those numbers do really look gloomy. I'll say b one third of a billion people",
+    "speaker": null
+  },
+  {
+    "start": 107.92,
+    "end": 112.16,
+    "text": "unemployed around the world. Okay, Sam, we'll come back to that later.",
+    "speaker": null
+  },
+  {
+    "start": 112.16,
+    "end": 117.68,
+    "text": "Now, mass unemployment, millions of people losing their jobs due to the COVID pandemic,",
+    "speaker": null
+  },
+  {
+    "start": 117.68,
+    "end": 121.12,
+    "text": "has left the world facing an enormous jobs challenge.",
+    "speaker": null
+  },
+  {
+    "start": 121.12,
+    "end": 126.56,
+    "text": "Elizabeth Reynolds of the Massachusetts Institute of Technology is author of the report",
+    "speaker": null
+  },
+  {
+    "start": 126.56,
+    "end": 131.04,
+    "text": "Work of the Future. Here she is talking to the BBC World Service programme",
+    "speaker": null
+  },
+  {
+    "start": 131.04,
+    "end": 133.6,
+    "text": "Business Daily about the current situation.",
+    "speaker": null
+  },
+  {
+    "start": 134.159,
+    "end": 140.079,
+    "text": "Well, I think in the short term, it does feel like we are not yet in a place where we can",
+    "speaker": null
+  },
+  {
+    "start": 140.079,
+    "end": 145.439,
+    "text": "talk about recovery and rebuilding completely. We're still going to see the ramifications or the",
+    "speaker": null
+  },
+  {
+    "start": 145.439,
+    "end": 152.4,
+    "text": "impact and the ripple effect of all of this for months to come. We use the expressions in the long",
+    "speaker": null
+  },
+  {
+    "start": 152.4,
+    "end": 160.079,
+    "text": "term and in the short term to talk about what will happen over a long or short period of time.",
+    "speaker": null
+  },
+  {
+    "start": 160.8,
+    "end": 166.64,
+    "text": "In the short term, over a short period of time, Elizabeth thinks it's too early to talk about",
+    "speaker": null
+  },
+  {
+    "start": 166.64,
+    "end": 172.96,
+    "text": "a job's recovery. She also warns that we haven't yet experienced the full impact or ramifications",
+    "speaker": null
+  },
+  {
+    "start": 172.96,
+    "end": 179.04,
+    "text": "of the pandemic. Like throwing a stone into water, these consequences create a ripple effect.",
+    "speaker": null
+  },
+  {
+    "start": 179.04,
+    "end": 185.439,
+    "text": "A situation where one event causes a series of effects which spread and produce further effects.",
+    "speaker": null
+  },
+  {
+    "start": 185.439,
+    "end": 189.199,
+    "text": "According to Elizabeth, the problem is that many of the government measures",
+    "speaker": null
+  },
+  {
+    "start": 189.199,
+    "end": 197.439,
+    "text": "According to Elisabeth, the problem is that many of the government measures put in place to support jobs are not sustainable in the long term. She says more radical change is needed.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 197.439,
+    "end": 203.28,
+    "text": "Of course the big question is – how? One proposed solution is the Danish model. This balances citizens’ rights and duties.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 203.28,
+    "end": 208.639,
+    "text": "citizens' rights and duties. Denmark provides one of the world's most generous unemployment",
+    "speaker": null
+  },
+  {
+    "start": 208.639,
+    "end": 214.96,
+    "text": "Denmark provides one of the world’s most generous unemployment payouts but in return citizens are expected to commit to any job or training the government thinks would be beneficial.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 214.96,
+    "end": 220.719,
+    "text": "thinks would be beneficial. Jacob Kierkegaard, senior fellow at the Peterson Institute in Washington,",
+    "speaker": null
+  },
+  {
+    "start": 220.719,
+    "end": 226,
+    "text": "is himself a dain. Here he explains to BBC Business Daily how the model works.",
+    "speaker": null
+  },
+  {
+    "start": 227.36,
+    "end": 233.04,
+    "text": "It's very easy to hire and fire people in Denmark. It doesn't cost you anything and you don't",
+    "speaker": null
+  },
+  {
+    "start": 233.04,
+    "end": 239.04,
+    "text": "have sort of a guaranteed job for life once you get a permanent contract which is the situation in",
+    "speaker": null
+  },
+  {
+    "start": 239.039,
+    "end": 246.959,
+    "text": "many other continental European countries. So it combines labour market flexibility with employment",
+    "speaker": null
+  },
+  {
+    "start": 246.959,
+    "end": 253.519,
+    "text": "security, namely the idea that people if they lose their job, they know that they can find another",
+    "speaker": null
+  },
+  {
+    "start": 253.519,
+    "end": 259.92,
+    "text": "job even if that requires them to pick up new skills because that upskilling or re-skilling,",
+    "speaker": null
+  },
+  {
+    "start": 259.92,
+    "end": 265.68,
+    "text": "if you like, is going to be made available to them partly through very lavish government subsidies.",
+    "speaker": null
+  },
+  {
+    "start": 266.24,
+    "end": 272.56,
+    "text": "Denmark enjoys labour flexibility because it's easy for bosses to hire and fire,",
+    "speaker": null
+  },
+  {
+    "start": 272.56,
+    "end": 279.199,
+    "text": "employ someone and release them from employment, meaning there's no such thing as a job for life,",
+    "speaker": null
+  },
+  {
+    "start": 279.199,
+    "end": 285.92,
+    "text": "one that you can stay in or your working life. But citizens also have the security of lavish,",
+    "speaker": null
+  },
+  {
+    "start": 285.92,
+    "end": 291.68,
+    "text": "generous and expensive benefits, and the government will also pay for worker upskilling,",
+    "speaker": null
+  },
+  {
+    "start": 292.16,
+    "end": 295.519,
+    "text": "training to learn new skills, making them better at their jobs.",
+    "speaker": null
+  },
+  {
+    "start": 296.079,
+    "end": 301.519,
+    "text": "…and thereby preventing unemployment – which reminds me of your quiz question, Neil.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 301.519,
+    "end": 306.079,
+    "text": "Yes, I asked you how many people were predicted to lose their jobs to the Covid pandemic.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 306.8,
+    "end": 310.16,
+    "text": "And I said b) one third of a billion.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 310.16,
+    "end": 315.04,
+    "text": "Well, fortunately it’s the slightly lower, but still worrying, figure of, one quarter of a billion people.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 315.92,
+    "end": 322.08,
+    "text": "We've been discussing predictions of mass unemployment in the short term, or over a short time",
+    "speaker": null
+  },
+  {
+    "start": 322.08,
+    "end": 329.2,
+    "text": "period, caused by the coronavirus pandemic. It also seems we will be experiencing the ripple effects,",
+    "speaker": null
+  },
+  {
+    "start": 329.76,
+    "end": 333.92,
+    "text": "series of consequences of the virus for a long time to come.",
+    "speaker": null
+  },
+  {
+    "start": 334.64,
+    "end": 340.8,
+    "text": "One solution to mass unemployment may be the Danish model, with a power to hire or fire",
+    "speaker": null
+  },
+  {
+    "start": 340.8,
+    "end": 345.759,
+    "text": "employee someone or make them unemployed, means there are not many jobs for life.",
+    "speaker": null
+  },
+  {
+    "start": 345.759,
+    "end": 347.759,
+    "text": "Jobs you can do all your working life.",
+    "speaker": null
+  },
+  {
+    "start": 348.4,
+    "end": 355.439,
+    "text": "But lavish – expensive and generous - benefits from the government, who also pay for upskilling or training in new skills, means that Danish unemployment is rarely out of control.",
+    "speaker": "lavishupskilling"
+  },
+  {
+    "start": 355.439,
+    "end": 361.84,
+    "text": "or training in new skills, means that Danish unemployment is rarely out of control.",
+    "speaker": null
+  },
+  {
+    "start": 361.84,
+    "end": 366.879,
+    "text": "That’s all we have time for, but come back soon for more trending topics and useful vocabulary here at 6 Minute English from BBC Learning English. Bye for now!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 366.959,
+    "end": 370.56,
+    "text": "here at 6 Minute English from BBC Learning English. Goodbye for now.",
+    "speaker": null
+  },
+  {
+    "start": 370.56,
+    "end": 371.199,
+    "text": "Bye!",
+    "speaker": "Sam"
+  }
+]

@@ -1,0 +1,626 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.24,
+    "text": "6-Mate English",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 10.56,
+    "text": "From BBC Learning English",
+    "speaker": null
+  },
+  {
+    "start": 13.359,
+    "end": 15.839,
+    "text": "Hello, this is 6-minute English with me, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 15.839,
+    "end": 16.879,
+    "text": "And me, Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 16.879,
+    "end": 18.8,
+    "text": "Today, we’re talking rubbish.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 18.8,
+    "end": 21.92,
+    "text": "Oh, it's a bit harsh. I thought it was going to be interesting.",
+    "speaker": null
+  },
+  {
+    "start": 21.92,
+    "end": 26.64,
+    "text": "I mean our topic is about rubbish, not that we are rubbish.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 26.64,
+    "end": 28.16,
+    "text": "I see. Okay, do go on.",
+    "speaker": null
+  },
+  {
+    "start": 28.16,
+    "end": 34.159,
+    "text": "Thank you. So the amount of waste we produce around the world is huge and it’s a growing problem.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 34.159,
+    "end": 37.679,
+    "text": "But there are some things that we can do like recycling.",
+    "speaker": null
+  },
+  {
+    "start": 37.679,
+    "end": 42.399,
+    "text": "Where I live, I can recycle a lot and I'm always very careful to separate,",
+    "speaker": null
+  },
+  {
+    "start": 42.399,
+    "end": 46.4,
+    "text": "to split my rubbish into paper, metal, food, plastic and so on.",
+    "speaker": null
+  },
+  {
+    "start": 46.4,
+    "end": 49.439,
+    "text": "But is that enough, even if we all do it?",
+    "speaker": null
+  },
+  {
+    "start": 49.439,
+    "end": 54,
+    "text": "Well, look a little more at this topic shortly, but first, as always, a question.",
+    "speaker": null
+  },
+  {
+    "start": 54,
+    "end": 57.76,
+    "text": "Which country recycles the highest percentage of its waste?",
+    "speaker": null
+  },
+  {
+    "start": 58.239,
+    "end": 62.64,
+    "text": "Is it A, Sweden, B, Germany or C, New Zealand?",
+    "speaker": null
+  },
+  {
+    "start": 62.64,
+    "end": 63.839,
+    "text": "What do you think, Sam?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 63.839,
+    "end": 66.399,
+    "text": "Well, I'm not sure, but I think it could be Germany,",
+    "speaker": null
+  },
+  {
+    "start": 66.399,
+    "end": 68.56,
+    "text": "so I'm going to go without Germany.",
+    "speaker": null
+  },
+  {
+    "start": 68.56,
+    "end": 71.28,
+    "text": "Okay, well, we'll see if you're right a little later on.",
+    "speaker": null
+  },
+  {
+    "start": 72,
+    "end": 76.319,
+    "text": "The BBC Radio Programme Business Daily recently tackled this topic.",
+    "speaker": null
+  },
+  {
+    "start": 76.319,
+    "end": 79.759,
+    "text": "They spoke to Alexander Lemiel, an expert in this area.",
+    "speaker": null
+  },
+  {
+    "start": 80.56,
+    "end": 83.359,
+    "text": "Does he think recycling is the answer?",
+    "speaker": null
+  },
+  {
+    "start": 83.359,
+    "end": 84.959,
+    "text": "Let's hear what he said.",
+    "speaker": null
+  },
+  {
+    "start": 85.039,
+    "end": 90.079,
+    "text": "We're cycling is not the answer to waste from an efficient point of view,",
+    "speaker": null
+  },
+  {
+    "start": 90.079,
+    "end": 96.319,
+    "text": "because we are not able to get all the waste separated properly",
+    "speaker": null
+  },
+  {
+    "start": 96.319,
+    "end": 99.359,
+    "text": "and therefore treat it in the background.",
+    "speaker": null
+  },
+  {
+    "start": 99.359,
+    "end": 103.039,
+    "text": "The main objective of our model is to hide waste.",
+    "speaker": null
+  },
+  {
+    "start": 103.039,
+    "end": 107.839,
+    "text": "So we don't see as urban citizens or rural citizens.",
+    "speaker": null
+  },
+  {
+    "start": 107.839,
+    "end": 112.159,
+    "text": "We don't see the waste. It is out of sight and therefore out of mind.",
+    "speaker": null
+  },
+  {
+    "start": 112.879,
+    "end": 114.799,
+    "text": "What’s his view of recycling?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 114.799,
+    "end": 119.439,
+    "text": "I was a bit surprised because he said recycling wasn't the answer.",
+    "speaker": null
+  },
+  {
+    "start": 119.439,
+    "end": 124.239,
+    "text": "One reason is that it's not always possible to separate waste you can recycle",
+    "speaker": null
+  },
+  {
+    "start": 124.239,
+    "end": 128.479,
+    "text": "from waste you can't recycle and that makes treating it very difficult.",
+    "speaker": null
+  },
+  {
+    "start": 129.12,
+    "end": 134.8,
+    "text": "Treating means handling it and using different processes, so it can be used again.",
+    "speaker": null
+  },
+  {
+    "start": 134.8,
+    "end": 139.199,
+    "text": "And the result is a lot of waste, including waste that could be recycled,",
+    "speaker": null
+  },
+  {
+    "start": 139.199,
+    "end": 140.56,
+    "text": "but which is just hidden.",
+    "speaker": null
+  },
+  {
+    "start": 141.12,
+    "end": 144.079,
+    "text": "And as long as we don't see it, we don't think about it.",
+    "speaker": null
+  },
+  {
+    "start": 144.08,
+    "end": 146.48,
+    "text": "And he uses a good phrase to describe this,",
+    "speaker": null
+  },
+  {
+    "start": 147.12,
+    "end": 149.44,
+    "text": "out of sight, out of mind.",
+    "speaker": null
+  },
+  {
+    "start": 149.44,
+    "end": 151.68,
+    "text": "And that's true, at least for me.",
+    "speaker": null
+  },
+  {
+    "start": 151.68,
+    "end": 156.72,
+    "text": "My rubbish and recycling is collected and I don't really think about what happens to it after that.",
+    "speaker": null
+  },
+  {
+    "start": 157.28,
+    "end": 163.28,
+    "text": "Is as much of it recycled as I think or is it buried, burned or even sent to other countries?",
+    "speaker": null
+  },
+  {
+    "start": 163.92,
+    "end": 167.2,
+    "text": "It's not in front of my house, so I don't really think about it.",
+    "speaker": null
+  },
+  {
+    "start": 167.2,
+    "end": 169.36,
+    "text": "Out of sight, out of mind.",
+    "speaker": null
+  },
+  {
+    "start": 169.36,
+    "end": 170.24,
+    "text": "Let’s listen again",
+    "speaker": "Neil"
+  },
+  {
+    "start": 170.96,
+    "end": 176.08,
+    "text": "recycling is not the answer to waste from an efficient point of view,",
+    "speaker": null
+  },
+  {
+    "start": 176.08,
+    "end": 182.96,
+    "text": "because we are not able to get all the waste separated properly and therefore",
+    "speaker": null
+  },
+  {
+    "start": 183.6,
+    "end": 184.8,
+    "text": "treated in the background.",
+    "speaker": null
+  },
+  {
+    "start": 185.6,
+    "end": 189.04,
+    "text": "The main objective of our model is to hide waste.",
+    "speaker": null
+  },
+  {
+    "start": 189.04,
+    "end": 195.2,
+    "text": "So we don't see as urban citizens or rural citizens, we don't see the waste.",
+    "speaker": null
+  },
+  {
+    "start": 195.2,
+    "end": 198.08,
+    "text": "It is out of sight and therefore out of mind.",
+    "speaker": null
+  },
+  {
+    "start": 198.8,
+    "end": 204.24,
+    "text": "One possible solution to this problem is to develop what is called a circular economy. Here’s the presenter of Business Daily, Manuela Saragosa, explaining what that means.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 204.24,
+    "end": 208.72,
+    "text": "Here's the presenter of business daily, Manuel Saragossa, explaining what that means.",
+    "speaker": null
+  },
+  {
+    "start": 209.52,
+    "end": 214.48,
+    "text": "The idea then at the core of a circular economic and business model is that a product,",
+    "speaker": null
+  },
+  {
+    "start": 214.48,
+    "end": 219.6,
+    "text": "like say a washing machine or even a broom, can always be returned to the manufacturer",
+    "speaker": null
+  },
+  {
+    "start": 219.6,
+    "end": 223.52,
+    "text": "to be reused or repaired before then sold on again.",
+    "speaker": null
+  },
+  {
+    "start": 223.52,
+    "end": 227.76,
+    "text": "The point is the manufacturer retains responsibility for the life cycle",
+    "speaker": null
+  },
+  {
+    "start": 228.08,
+    "end": 233.84,
+    "text": "of the product it produces, rather than the consumer assuming that responsibility when he or she buys it.",
+    "speaker": null
+  },
+  {
+    "start": 234.4,
+    "end": 238.4,
+    "text": "So it seems like a simple idea – though maybe very difficult to do.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 238.4,
+    "end": 244.48,
+    "text": "Yes, the idea is that the company that makes a product, the manufacturer, is responsible for the product, not the person who bought it, the consumer.",
+    "speaker": "manufacturerconsumer"
+  },
+  {
+    "start": 244.48,
+    "end": 248.08,
+    "text": "product, not the person who bought it, the consumer.",
+    "speaker": null
+  },
+  {
+    "start": 248.8,
+    "end": 253.76,
+    "text": "So if the product breaks or reaches the end of its useful life, its life cycle,",
+    "speaker": null
+  },
+  {
+    "start": 253.759,
+    "end": 259.36,
+    "text": "So, if the product breaks or reaches the end of its useful life, its lifecycle, then the manufacturer has to take it back and fix, refurbish or have it recycled.",
+    "speaker": "lifecyclemanufacturer"
+  },
+  {
+    "start": 259.36,
+    "end": 263.68,
+    "text": "I guess this would make manufacturers try to make their products last longer!",
+    "speaker": "Sam"
+  },
+  {
+    "start": 263.68,
+    "end": 265.68,
+    "text": "Certainly word, let's listen again.",
+    "speaker": null
+  },
+  {
+    "start": 266.639,
+    "end": 271.599,
+    "text": "The idea then at the core of a circular economic and business model is that a product,",
+    "speaker": null
+  },
+  {
+    "start": 271.599,
+    "end": 276.719,
+    "text": "like say a washing machine or even a broom, can always be returned to the manufacturer",
+    "speaker": null
+  },
+  {
+    "start": 276.719,
+    "end": 280.639,
+    "text": "to be reused or repaired before then sold on again.",
+    "speaker": null
+  },
+  {
+    "start": 280.719,
+    "end": 286.719,
+    "text": "The point is the manufacturer retains responsibility for the life cycle of the product it produces,",
+    "speaker": null
+  },
+  {
+    "start": 286.719,
+    "end": 290.959,
+    "text": "rather than the consumer assuming that responsibility when he or she buys it.",
+    "speaker": null
+  },
+  {
+    "start": 291.599,
+    "end": 296,
+    "text": "That's just about all we have time for in this program before we recycle the voc-",
+    "speaker": null
+  },
+  {
+    "start": 296,
+    "end": 297.199,
+    "text": "Oh very good Neil!",
+    "speaker": "Sam"
+  },
+  {
+    "start": 297.199,
+    "end": 299.439,
+    "text": "Before we, thank you, Sam.",
+    "speaker": null
+  },
+  {
+    "start": 299.439,
+    "end": 304.399,
+    "text": "Before we recycle the vocabulary, we need to get the answer to today's question.",
+    "speaker": null
+  },
+  {
+    "start": 304.399,
+    "end": 307.599,
+    "text": "Which country recycles the highest percentage of its waste?",
+    "speaker": null
+  },
+  {
+    "start": 307.68,
+    "end": 311.76,
+    "text": "Is it A, Sweden, B, Germany or C, New Zealand?",
+    "speaker": null
+  },
+  {
+    "start": 311.76,
+    "end": 312.72,
+    "text": "Sam, what did you say?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 312.72,
+    "end": 314.4,
+    "text": "I think it’s Germany.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 314.4,
+    "end": 316.64,
+    "text": "Well, I would like to offer you congratulations.",
+    "speaker": null
+  },
+  {
+    "start": 316.64,
+    "end": 318,
+    "text": "Yay, fine.",
+    "speaker": null
+  },
+  {
+    "start": 318,
+    "end": 320,
+    "text": "Because Germany is the correct answer.",
+    "speaker": null
+  },
+  {
+    "start": 320,
+    "end": 320.8,
+    "text": "Yay.",
+    "speaker": null
+  },
+  {
+    "start": 320.8,
+    "end": 322.72,
+    "text": "Now let's go over the vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 322.72,
+    "end": 323.28,
+    "text": "Of course.",
+    "speaker": null
+  },
+  {
+    "start": 323.28,
+    "end": 326.96,
+    "text": "So two separate means to divide or split different things.",
+    "speaker": null
+  },
+  {
+    "start": 326.96,
+    "end": 331.36,
+    "text": "For example, separate your plastic from your paper for recycling.",
+    "speaker": null
+  },
+  {
+    "start": 331.36,
+    "end": 335.52,
+    "text": "Treating is the word for dealing with, for example, recycled waste.",
+    "speaker": "Treating"
+  },
+  {
+    "start": 335.519,
+    "end": 338.399,
+    "text": "The phrase, out of sight, out of mind,",
+    "speaker": null
+  },
+  {
+    "start": 338.399,
+    "end": 342.159,
+    "text": "The phrase out of sight, out of mind, means ignoring something or a situation you can’t see.",
+    "speaker": "out of sight, out of mind"
+  },
+  {
+    "start": 342.159,
+    "end": 345.759,
+    "text": "A manufacturer is the person or company that makes something and the consumer is the person who buys that thing.",
+    "speaker": "manufacturer consumer"
+  },
+  {
+    "start": 345.759,
+    "end": 348.879,
+    "text": "and the consumer is the person who buys that thing.",
+    "speaker": null
+  },
+  {
+    "start": 348.879,
+    "end": 354.079,
+    "text": "And the length of time you can expect a product to work for is known as its life cycle.",
+    "speaker": null
+  },
+  {
+    "start": 354.079,
+    "end": 356.719,
+    "text": "Well, the life cycle of this program is six minutes,",
+    "speaker": null
+  },
+  {
+    "start": 356.719,
+    "end": 360.24,
+    "text": "and as we are there or thereabouts, it's time for us to head off.",
+    "speaker": null
+  },
+  {
+    "start": 360.24,
+    "end": 363.199,
+    "text": "Thanks for your company, and I hope you can join us again soon.",
+    "speaker": null
+  },
+  {
+    "start": 363.199,
+    "end": 366.959,
+    "text": "Until then, there's plenty more to enjoy from BBC Learning English online",
+    "speaker": null
+  },
+  {
+    "start": 366.959,
+    "end": 369.039,
+    "text": "on social media and on our app.",
+    "speaker": null
+  },
+  {
+    "start": 369.039,
+    "end": 369.759,
+    "text": "Bye for now.",
+    "speaker": null
+  },
+  {
+    "start": 369.759,
+    "end": 370.56,
+    "text": "Bye!",
+    "speaker": "Sam"
+  },
+  {
+    "start": 370.56,
+    "end": 371.519,
+    "text": "Bye.",
+    "speaker": null
+  },
+  {
+    "start": 371.519,
+    "end": 375.759,
+    "text": "Six minutes English from BBC Learning English.",
+    "speaker": null
+  }
+]

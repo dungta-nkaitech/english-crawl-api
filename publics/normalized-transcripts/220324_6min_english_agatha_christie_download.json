@@ -1,0 +1,416 @@
+[
+  {
+    "start": 0,
+    "end": 5.52,
+    "text": "This is a download from BBC Learning English. To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 13.359,
+    "end": 17.76,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 17.76,
+    "end": 23.199,
+    "text": "And I'm Neil. Have you ever played the game Cludo Neil? The idea is that the person",
+    "speaker": null
+  },
+  {
+    "start": 23.199,
+    "end": 29.76,
+    "text": "Have you ever played the game, Cluedo, Neil? The idea is that the person playing detective discovers who the murderer is, where the crime took place, and which weapon was used.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 29.76,
+    "end": 35.12,
+    "text": "The last time I played Cludo, it was Professor Plum in the library with the dagger.",
+    "speaker": null
+  },
+  {
+    "start": 36.16,
+    "end": 43.92,
+    "text": "Cludo is based on a very popular type of book, The Murder Mystery. Sometimes called a Who-Dunit.",
+    "speaker": null
+  },
+  {
+    "start": 43.92,
+    "end": 49.2,
+    "text": "A story about a murder which doesn't reveal who the murderer is until the end.",
+    "speaker": null
+  },
+  {
+    "start": 49.2,
+    "end": 56.48,
+    "text": "The queen of murder mysteries is a British writer who was born in 1890. Her books are read all over the world and have been translated into a 103 different languages. Her name is Agatha Christie.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 56.479,
+    "end": 63.119,
+    "text": "the world and have been translated into 103 different languages. Her name is Agatha Christie.",
+    "speaker": null
+  },
+  {
+    "start": 63.119,
+    "end": 68.959,
+    "text": "To date over two billion copies of her crime novels have been sold worldwide,",
+    "speaker": null
+  },
+  {
+    "start": 68.959,
+    "end": 74.719,
+    "text": "To date over 2 billion copies of her crime novels have been sold worldwide, making her the best-selling novelist of all time… and the subject of this programme.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 74.719,
+    "end": 79.84,
+    "text": "Perhaps her best-known story is Murder on the Orient Express, a Who-Dunit featuring her most",
+    "speaker": null
+  },
+  {
+    "start": 79.84,
+    "end": 85.12,
+    "text": "famous detective, Aircule Poirot, who starred in 33 of Agatha Christie's books.",
+    "speaker": null
+  },
+  {
+    "start": 85.12,
+    "end": 89.28,
+    "text": "More about that later, but as usual, I have a quiz question for you, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 89.28,
+    "end": 96.24,
+    "text": "Poirot may be Agatha Christie's most famous detective, but he isn't her only one.",
+    "speaker": null
+  },
+  {
+    "start": 96.24,
+    "end": 102.719,
+    "text": "So who is Agatha Christie's other fictional detective? Is it a, Hesi Wayne Throp,",
+    "speaker": null
+  },
+  {
+    "start": 102.719,
+    "end": 106.48,
+    "text": "b) Jessica Fletcher? or,",
+    "speaker": "Sam"
+  },
+  {
+    "start": 106.56,
+    "end": 108.799,
+    "text": "I'll guess it's A, Hesi Wayne Throp.",
+    "speaker": null
+  },
+  {
+    "start": 108.799,
+    "end": 112.4,
+    "text": "Okay, Neil. I'll reveal the answer at the end of the program.",
+    "speaker": null
+  },
+  {
+    "start": 112.4,
+    "end": 117.68,
+    "text": "As mentioned, one of Agatha Christie's most famous books is Murder on the Orient Express.",
+    "speaker": null
+  },
+  {
+    "start": 117.68,
+    "end": 123.28,
+    "text": "The story takes place on a train traveling from Istanbul in Turkey to Calais in Northern France.",
+    "speaker": null
+  },
+  {
+    "start": 124,
+    "end": 129.28,
+    "text": "Listen as writer and Agatha Christie's superfan Harriet Gilbert summarises the story",
+    "speaker": null
+  },
+  {
+    "start": 129.36,
+    "end": 132.319,
+    "text": "for BBC World Service Programme World Book Club.",
+    "speaker": null
+  },
+  {
+    "start": 134.08,
+    "end": 138.24,
+    "text": "Poirot is on the train heading back home to England from Syria,",
+    "speaker": null
+  },
+  {
+    "start": 138.24,
+    "end": 143.36,
+    "text": "when two unconnected events take place. In a snowstorming Croatia,",
+    "speaker": null
+  },
+  {
+    "start": 143.36,
+    "end": 148.08,
+    "text": "the train comes grinding to a halt, and in one of the sleeping births,",
+    "speaker": null
+  },
+  {
+    "start": 148.08,
+    "end": 153.84,
+    "text": "a passenger is murdered. Since it's impossible for anyone to have reached the isolated snow-traped",
+    "speaker": null
+  },
+  {
+    "start": 153.84,
+    "end": 157.92,
+    "text": "train or to have escaped from it without leaving tell-tale footsteps in the snow,",
+    "speaker": null
+  },
+  {
+    "start": 158.639,
+    "end": 163.119,
+    "text": "the killer can only be one of the dozen people sharing Poirot's coach.",
+    "speaker": null
+  },
+  {
+    "start": 163.119,
+    "end": 168,
+    "text": "Yet as he starts to investigate, it seems that each of them has an alibi for the time of the murder.",
+    "speaker": null
+  },
+  {
+    "start": 168.719,
+    "end": 172.239,
+    "text": "Impossible. Well, Poirot certainly perplexed.",
+    "speaker": null
+  },
+  {
+    "start": 174.399,
+    "end": 178.719,
+    "text": "During a snowstorm, the express train comes to a grinding halt.",
+    "speaker": null
+  },
+  {
+    "start": 178.719,
+    "end": 183.839,
+    "text": "During a snowstorm, the express train comes to a grinding halt – it slows down until it stops altogether. Then, someone is murdered!",
+    "speaker": "a grinding halt"
+  },
+  {
+    "start": 183.84,
+    "end": 188.159,
+    "text": "The murderer can't have escaped without leaving tell-tale footprints in the snow.",
+    "speaker": null
+  },
+  {
+    "start": 188.879,
+    "end": 195.439,
+    "text": "When something is described as tell-tale, it reveals information which allows a secret to be uncovered.",
+    "speaker": null
+  },
+  {
+    "start": 195.439,
+    "end": 201.12,
+    "text": "For example, lipstick on your husband's shirt could be a tell-tale sign he's having an affair.",
+    "speaker": null
+  },
+  {
+    "start": 201.12,
+    "end": 204.8,
+    "text": "The murder victim is found in bed, stabbed with an eye.",
+    "speaker": null
+  },
+  {
+    "start": 205.439,
+    "end": 211.039,
+    "text": "Poirot begins to investigate, but as he questions the train passengers one by one,",
+    "speaker": null
+  },
+  {
+    "start": 211.039,
+    "end": 217.599,
+    "text": "it seems that everyone has an alibi proof that they were somewhere else when a crime was committed.",
+    "speaker": null
+  },
+  {
+    "start": 217.599,
+    "end": 222,
+    "text": "Naturally, this leaves the Belgian detective perplexed, or confused because something is difficult to understand or solve.",
+    "speaker": "perplexed"
+  },
+  {
+    "start": 222,
+    "end": 224.639,
+    "text": "because something is difficult to understand or solve.",
+    "speaker": null
+  },
+  {
+    "start": 225.199,
+    "end": 229.039,
+    "text": "I won't spoil the story by telling you what happens next, Neil,",
+    "speaker": null
+  },
+  {
+    "start": 229.039,
+    "end": 236.319,
+    "text": "I won’t spoil the story by telling you what happens next, Neil. But let’s just say that, as usual, Poirot uncovers the murderer using his incredible powers of observation.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 236.4,
+    "end": 242.639,
+    "text": "In her stories, Agatha Christie describes Erkule Poirot as a very strange or eccentric man.",
+    "speaker": null
+  },
+  {
+    "start": 242.639,
+    "end": 248,
+    "text": "The author, Sophie Hannah, has written several new Poirot stories based on the characters",
+    "speaker": null
+  },
+  {
+    "start": 248,
+    "end": 255.039,
+    "text": "invented by Agatha Christie before her death in 1976. Here she is describing more of her",
+    "speaker": null
+  },
+  {
+    "start": 255.039,
+    "end": 260.56,
+    "text": "Kule Poirot's strange characteristics to BBC World Service programme World Book Club.",
+    "speaker": null
+  },
+  {
+    "start": 260.959,
+    "end": 267.199,
+    "text": "There's the sort of outward things his appearance, which is very striking and very unusual,",
+    "speaker": null
+  },
+  {
+    "start": 267.199,
+    "end": 271.759,
+    "text": "and his sort of, I suppose, foibles is the best thing to call him.",
+    "speaker": null
+  },
+  {
+    "start": 271.759,
+    "end": 276.16,
+    "text": "You know, he likes neatness, he likes order, he approaches things very methodically,",
+    "speaker": null
+  },
+  {
+    "start": 276.16,
+    "end": 281.04,
+    "text": "he's very proud of his luxuriant moustaches, you know, all of that.",
+    "speaker": null
+  },
+  {
+    "start": 281.04,
+    "end": 286.16,
+    "text": "Sophie calls Poirot's unusual behaviour his foibles.",
+    "speaker": null
+  },
+  {
+    "start": 286.16,
+    "end": 290,
+    "text": "Habits or characteristics which are considered strange or foolish,",
+    "speaker": null
+  },
+  {
+    "start": 290.16,
+    "end": 294.879,
+    "text": "but which harm no one. Yes, unlike the fictional murderers he uncovers,",
+    "speaker": null
+  },
+  {
+    "start": 294.879,
+    "end": 301.6,
+    "text": "Poirot's foibles do know harm, but it makes me wonder if Agatha Christie's other famous detective",
+    "speaker": null
+  },
+  {
+    "start": 301.6,
+    "end": 307.68,
+    "text": "also had unusual habits. Well, first you'll have to reveal the answer to your quiz question, Sam.",
+    "speaker": null
+  },
+  {
+    "start": 307.68,
+    "end": 311.92,
+    "text": "You asked me for the name of Agatha Christie's other famous detective,",
+    "speaker": null
+  },
+  {
+    "start": 311.92,
+    "end": 317.519,
+    "text": "and I guessed it was a, Hetty Wayne Throck. Well, I'm afraid that was the wrong answer.",
+    "speaker": null
+  },
+  {
+    "start": 317.759,
+    "end": 323.199,
+    "text": "In fact, Miss Marple was the name of Agatha Christie's second most famous character,",
+    "speaker": null
+  },
+  {
+    "start": 323.199,
+    "end": 329.039,
+    "text": "although Hetty Wayne Throck is a fictional detective on TV. Well, now that we've solved the murder",
+    "speaker": null
+  },
+  {
+    "start": 329.039,
+    "end": 334.399,
+    "text": "and revealed the correct answer, let's recap the vocabulary starting with Who Done It.",
+    "speaker": null
+  },
+  {
+    "start": 334.399,
+    "end": 338.639,
+    "text": "A murder story which does not tell you who the murderer is until the end.",
+    "speaker": null
+  },
+  {
+    "start": 339.199,
+    "end": 344.959,
+    "text": "In The Who Done It, Murder on the Orient Express, the train comes to a grinding halt.",
+    "speaker": null
+  },
+  {
+    "start": 345.599,
+    "end": 351.519,
+    "text": "It slows down until it stops altogether. A telltale sign reveals hidden information",
+    "speaker": null
+  },
+  {
+    "start": 351.519,
+    "end": 356.959,
+    "text": "so that a secret can be revealed. An alibi is proof that you were somewhere else when a crime",
+    "speaker": null
+  },
+  {
+    "start": 356.959,
+    "end": 362.719,
+    "text": "To be perplexed means to be confused because something is difficult to understand.",
+    "speaker": "perplexed"
+  },
+  {
+    "start": 362.719,
+    "end": 368.24,
+    "text": "And finally, someone’s foibles are their strange but harmless habits or behaviour.",
+    "speaker": "foibles"
+  },
+  {
+    "start": 368.24,
+    "end": 373.359,
+    "text": "That's all for our six minute investigation into the mysterious world of Agatha Christie.",
+    "speaker": null
+  },
+  {
+    "start": 373.36,
+    "end": 374.96,
+    "text": "Goodbye for now. Goodbye.",
+    "speaker": null
+  }
+]

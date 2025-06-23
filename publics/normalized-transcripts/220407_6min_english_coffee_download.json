@@ -1,0 +1,554 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 13.519,
+    "end": 17.92,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 17.92,
+    "end": 18.96,
+    "text": "And I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 18.96,
+    "end": 21.519,
+    "text": "Did you have a cup of coffee this morning, Neil?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 21.519,
+    "end": 25.6,
+    "text": "Oh yes, I can’t start the day without my morning cup of coffee… or two… or three!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 25.6,
+    "end": 27.839,
+    "text": "Or two, or three.",
+    "speaker": null
+  },
+  {
+    "start": 27.839,
+    "end": 30.48,
+    "text": "And what do you like about coffee so much?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 30.48,
+    "end": 32.88,
+    "text": "Well, that lovely smell for one thing.",
+    "speaker": null
+  },
+  {
+    "start": 32.88,
+    "end": 36.64,
+    "text": "Well, that lovely smell for one thing! And, of course, it wakes me up and gets me ready to face the world.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 36.64,
+    "end": 40.48,
+    "text": "Ah, you mean the caffeine hit, the effect of caffeine,",
+    "speaker": null
+  },
+  {
+    "start": 40.48,
+    "end": 42.48,
+    "text": "which is a natural stimulant on your brain,",
+    "speaker": null
+  },
+  {
+    "start": 42.48,
+    "end": 44.159,
+    "text": "making you feel more awake.",
+    "speaker": null
+  },
+  {
+    "start": 44.96,
+    "end": 48.64,
+    "text": "Do you think maybe you're addicted to coffee?",
+    "speaker": null
+  },
+  {
+    "start": 48.64,
+    "end": 53.12,
+    "text": "It’s not just me, Sam. Have you seen how busy coffee shops are nowadays?! Full of people enjoying delicious coffee from all around the world!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 53.12,
+    "end": 56.64,
+    "text": "Full of people enjoying delicious coffee from all around the world?",
+    "speaker": null
+  },
+  {
+    "start": 56.719,
+    "end": 58.96,
+    "text": "Well, it wasn't always like that, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 58.96,
+    "end": 64.96,
+    "text": "The first coffee to reach Britain in the 17th century took months to arrive by sea.",
+    "speaker": null
+  },
+  {
+    "start": 64.96,
+    "end": 67.92,
+    "text": "It was made by boiling raw coffee beans,",
+    "speaker": null
+  },
+  {
+    "start": 67.92,
+    "end": 70.079,
+    "text": "and apparently tasted awful.",
+    "speaker": null
+  },
+  {
+    "start": 70.079,
+    "end": 74.319,
+    "text": "In this programme, we'll be looking into the history of coffee in Britain.",
+    "speaker": null
+  },
+  {
+    "start": 74.319,
+    "end": 77.92,
+    "text": "And as usual, we'll be learning some related vocabulary too.",
+    "speaker": null
+  },
+  {
+    "start": 78.56,
+    "end": 81.68,
+    "text": "But before that, I have a question for you.",
+    "speaker": null
+  },
+  {
+    "start": 82.08,
+    "end": 86.8,
+    "text": "The earliest coffee to arrive in Britain took its name from the port in Yemen.",
+    "speaker": null
+  },
+  {
+    "start": 86.8,
+    "end": 90.8,
+    "text": "It was shipped from, so what was it called?",
+    "speaker": null
+  },
+  {
+    "start": 90.8,
+    "end": 97.52,
+    "text": "Was it A, Kapuchino, B, Mocka or C, Latte?",
+    "speaker": null
+  },
+  {
+    "start": 97.52,
+    "end": 99.76,
+    "text": "I'll say B, Mocka.",
+    "speaker": null
+  },
+  {
+    "start": 99.76,
+    "end": 102.88,
+    "text": "Okay, I'll reveal the answer later in the programme.",
+    "speaker": null
+  },
+  {
+    "start": 102.88,
+    "end": 109.76,
+    "text": "Britain's love affair with coffee started with the opening of London's first coffee shop in 1652.",
+    "speaker": null
+  },
+  {
+    "start": 109.84,
+    "end": 111.2,
+    "text": "People loved the effect.",
+    "speaker": null
+  },
+  {
+    "start": 111.2,
+    "end": 113.84,
+    "text": "Coffee made them more talkative and brighter.",
+    "speaker": null
+  },
+  {
+    "start": 113.84,
+    "end": 118,
+    "text": "It kept them awake for longer, and the drink became more and more popular.",
+    "speaker": null
+  },
+  {
+    "start": 118,
+    "end": 123.12,
+    "text": "Within a decade, over 18 new coffee shops had opened in the city of London alone.",
+    "speaker": null
+  },
+  {
+    "start": 123.12,
+    "end": 128.8,
+    "text": "By the 1800s, though, tea had replaced coffee as the most fashionable drink,",
+    "speaker": null
+  },
+  {
+    "start": 128.8,
+    "end": 131.84,
+    "text": "partly because it was drunk by Queen Victoria.",
+    "speaker": null
+  },
+  {
+    "start": 132.319,
+    "end": 137.04,
+    "text": "Listen as Judith Hawley, an expert on 18th century literature,",
+    "speaker": null
+  },
+  {
+    "start": 137.039,
+    "end": 141.12,
+    "text": "takes up the story with BBC Radio 4 programme in our time.",
+    "speaker": null
+  },
+  {
+    "start": 142.879,
+    "end": 147.12,
+    "text": "It became more of a working class drink, so there were coffee shacks and carts,",
+    "speaker": null
+  },
+  {
+    "start": 147.12,
+    "end": 149.439,
+    "text": "like the sort of little street carts that you get still in London.",
+    "speaker": null
+  },
+  {
+    "start": 149.439,
+    "end": 153.12,
+    "text": "You get all over New York that is a cheap quick drink to perk you up.",
+    "speaker": null
+  },
+  {
+    "start": 154.079,
+    "end": 159.12,
+    "text": "And the temperance movement sponsored coffee taverns to try to wean working men off,",
+    "speaker": null
+  },
+  {
+    "start": 159.12,
+    "end": 160.239,
+    "text": "going to the pub for lunch.",
+    "speaker": null
+  },
+  {
+    "start": 161.039,
+    "end": 162,
+    "text": "So it moved.",
+    "speaker": null
+  },
+  {
+    "start": 162,
+    "end": 166.399,
+    "text": "It declined seriously and has never fully recovered, even in the current coffee boom.",
+    "speaker": null
+  },
+  {
+    "start": 167.919,
+    "end": 173.199,
+    "text": "In the 17th century, there was a coffee boom, an increase in its popularity.",
+    "speaker": null
+  },
+  {
+    "start": 173.199,
+    "end": 179.039,
+    "text": "In the 17th century there was a coffee boom – an increase in its popularity. One of the reasons was that coffee perks you up – gives you more energy and makes you more active.",
+    "speaker": "perks you up"
+  },
+  {
+    "start": 179.039,
+    "end": 183.199,
+    "text": "Drinking coffee was also supported by a social group called",
+    "speaker": null
+  },
+  {
+    "start": 183.199,
+    "end": 187.599,
+    "text": "the Temperance Movement, who campaigned to make alcohol illegal.",
+    "speaker": null
+  },
+  {
+    "start": 188.159,
+    "end": 194.399,
+    "text": "They used coffee to wean men off alcohol, make them gradually stop using something",
+    "speaker": null
+  },
+  {
+    "start": 194.399,
+    "end": 196.159,
+    "text": "they had become addicted to.",
+    "speaker": null
+  },
+  {
+    "start": 196.159,
+    "end": 200.079,
+    "text": "Coffee changed British society and continues to do so today.",
+    "speaker": null
+  },
+  {
+    "start": 200.079,
+    "end": 206.639,
+    "text": "Coffee changed British society and continues to do so today. Here’s Professor Judith Hawley again, talking to BBC Radio 4’s, In Our Time, about the situation today.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 207.439,
+    "end": 210.879,
+    "text": "I think if we look at the way coffee consumption is going today,",
+    "speaker": null
+  },
+  {
+    "start": 210.879,
+    "end": 214.639,
+    "text": "it seems to me to set out two quite radical alternatives.",
+    "speaker": null
+  },
+  {
+    "start": 214.639,
+    "end": 220.879,
+    "text": "For the world one is the world of corporate coffee, the coffee change existing on a low wage",
+    "speaker": null
+  },
+  {
+    "start": 220.879,
+    "end": 221.599,
+    "text": "economy.",
+    "speaker": null
+  },
+  {
+    "start": 221.599,
+    "end": 225.199,
+    "text": "So you have that kind of mass coffee market on the one hand.",
+    "speaker": null
+  },
+  {
+    "start": 225.199,
+    "end": 230.319,
+    "text": "On the other hand, you have these micro lotter states, fair trade coffee,",
+    "speaker": null
+  },
+  {
+    "start": 230.319,
+    "end": 236.239,
+    "text": "the sort of hipster coffee which is as varied and as interesting as fine wines,",
+    "speaker": null
+  },
+  {
+    "start": 236.239,
+    "end": 238.159,
+    "text": "and is made in an artisan way.",
+    "speaker": null
+  },
+  {
+    "start": 239.119,
+    "end": 243.919,
+    "text": "Many customers today are turning away from large coffee chains like Starbucks",
+    "speaker": null
+  },
+  {
+    "start": 243.919,
+    "end": 247.759,
+    "text": "in search of a more responsibly sourced cup of coffee.",
+    "speaker": null
+  },
+  {
+    "start": 247.759,
+    "end": 254.319,
+    "text": "One example of this is fair trade, an ethical standard scheme which guarantees a fair price for",
+    "speaker": null
+  },
+  {
+    "start": 254.319,
+    "end": 258.639,
+    "text": "coffee producers in South America, Africa and Asia.",
+    "speaker": null
+  },
+  {
+    "start": 258.639,
+    "end": 262.319,
+    "text": "Another recent development is the use of micro lots.",
+    "speaker": null
+  },
+  {
+    "start": 262.319,
+    "end": 268.319,
+    "text": "Another recent development is the use of microlots – small plots of land which grow specialised coffee beans prized for their high quality and unique flavour.",
+    "speaker": "microlots –"
+  },
+  {
+    "start": 268.319,
+    "end": 275.199,
+    "text": "flavour. Fair trade and micro lot coffee are parts of a shift in focus towards quality artisanal",
+    "speaker": null
+  },
+  {
+    "start": 275.199,
+    "end": 281.199,
+    "text": "coffee, coffee made by hand in the traditional way by skilled growers.",
+    "speaker": null
+  },
+  {
+    "start": 281.199,
+    "end": 286.079,
+    "text": "It's artisanal coffee that's often sold in smaller, independent coffee shops",
+    "speaker": null
+  },
+  {
+    "start": 286.079,
+    "end": 288.399,
+    "text": "preferred by trendy hipsters.",
+    "speaker": null
+  },
+  {
+    "start": 288.399,
+    "end": 293.439,
+    "text": "So coffee in Britain has come a long way from the days it travelled for months by sea,",
+    "speaker": null
+  },
+  {
+    "start": 293.439,
+    "end": 300.24,
+    "text": "from far away places like Ethiopia and Java, which reminds me Sam, what was the answer to your question?",
+    "speaker": null
+  },
+  {
+    "start": 300.24,
+    "end": 306.079,
+    "text": "Ah, I asked Neil which city gave its name to the first coffee to arrive in Britain in the",
+    "speaker": null
+  },
+  {
+    "start": 306.079,
+    "end": 307.279,
+    "text": "1600s.",
+    "speaker": null
+  },
+  {
+    "start": 307.279,
+    "end": 310.719,
+    "text": "I guess it was B. Mocha, which happens to be my favourite drink.",
+    "speaker": null
+  },
+  {
+    "start": 311.279,
+    "end": 314.879,
+    "text": "Well, you guessed right because that was the correct answer! You certainly know your coffee, Neil.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 314.879,
+    "end": 317.039,
+    "text": "You certainly know your coffee, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 317.039,
+    "end": 322.079,
+    "text": "Right, let’s recap the vocabulary we’ve used in this programme on the history of coffee, a drink which can perk you up - give you more energy and make you feel awake.",
+    "speaker": "perk you up"
+  },
+  {
+    "start": 322.079,
+    "end": 326.399,
+    "text": "a drink which can perk you up, give you more energy and make you feel awake.",
+    "speaker": null
+  },
+  {
+    "start": 326.399,
+    "end": 332.159,
+    "text": "Many people drink coffee for the caffeine hit, the way caffeine, which is contained in coffee,",
+    "speaker": null
+  },
+  {
+    "start": 332.159,
+    "end": 334.319,
+    "text": "stimulates your body and mind.",
+    "speaker": null
+  },
+  {
+    "start": 334.319,
+    "end": 339.519,
+    "text": "The effect can be so strong you might have to wean yourself off it,",
+    "speaker": null
+  },
+  {
+    "start": 339.519,
+    "end": 342.56,
+    "text": "gradually stop using something which is bad for you.",
+    "speaker": null
+  },
+  {
+    "start": 342.56,
+    "end": 347.759,
+    "text": "Fair trade coffee refers to a scheme which ensures that coffee farmers receive a fair price",
+    "speaker": null
+  },
+  {
+    "start": 347.759,
+    "end": 353.919,
+    "text": "for growing their product, while a micro lot is a small plot of land specialising in coffee beans",
+    "speaker": null
+  },
+  {
+    "start": 353.919,
+    "end": 357.039,
+    "text": "of the very high quality or unique flavour.",
+    "speaker": null
+  },
+  {
+    "start": 357.039,
+    "end": 363.759,
+    "text": "Finally, artisanal describes something made by artisans - skilled workers who make things by hand in the traditional way.",
+    "speaker": "artisanal"
+  },
+  {
+    "start": 363.759,
+    "end": 365.039,
+    "text": "in the traditional way.",
+    "speaker": null
+  },
+  {
+    "start": 365.76,
+    "end": 367.68,
+    "text": "Once again, our six minute to wrap.",
+    "speaker": null
+  },
+  {
+    "start": 367.68,
+    "end": 369.84,
+    "text": "I'm off to get myself a hot steamy mocha.",
+    "speaker": null
+  },
+  {
+    "start": 369.84,
+    "end": 370.48,
+    "text": "Bye for now.",
+    "speaker": null
+  },
+  {
+    "start": 370.48,
+    "end": 370.96,
+    "text": "Goodbye!",
+    "speaker": "Sam"
+  }
+]

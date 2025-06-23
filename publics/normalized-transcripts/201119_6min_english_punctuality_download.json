@@ -1,0 +1,746 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.6,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.6,
+    "end": 8.24,
+    "text": "6-Mate English",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 10.88,
+    "text": "From BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 13.599,
+    "end": 17.28,
+    "text": "Hello, this is 6-minute English from BBC Learning English. I'm Neil.",
+    "speaker": null
+  },
+  {
+    "start": 17.28,
+    "end": 18.32,
+    "text": "And I’m Catherine.",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 18.32,
+    "end": 20.4,
+    "text": "Thanks for making it on time today, Catherine!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 20.4,
+    "end": 24.8,
+    "text": "What do you mean, Neil? Are you implying I’m always late?",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 24.8,
+    "end": 29.28,
+    "text": "Well, punctuality – I mean being on time – is not your strong point.",
+    "speaker": "punctuality"
+  },
+  {
+    "start": 29.28,
+    "end": 33.76,
+    "text": "But I do always turn up and I never miss the programme.",
+    "speaker": null
+  },
+  {
+    "start": 33.76,
+    "end": 37.439,
+    "text": "But I do always turn up and I never miss the programme – I just don’t want to be early Neil and then wait around for you!",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 37.439,
+    "end": 40.799,
+    "text": "Hmm, people's attitude to being on time certainly varies.",
+    "speaker": null
+  },
+  {
+    "start": 40.799,
+    "end": 43.039,
+    "text": "And that's what we're discussing in this programme.",
+    "speaker": null
+  },
+  {
+    "start": 43.039,
+    "end": 45.28,
+    "text": "How important is punctuality?",
+    "speaker": null
+  },
+  {
+    "start": 45.28,
+    "end": 49.439,
+    "text": "Anyway, Catherine, as you're here on time, you're not going to miss our quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 49.439,
+    "end": 52.32,
+    "text": "Oh no, I certainly don’t want to miss out on that. So what is it?",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 52.32,
+    "end": 53.439,
+    "text": "So what is it?",
+    "speaker": null
+  },
+  {
+    "start": 53.439,
+    "end": 57.28,
+    "text": "Well, in 2011, researchers said that an atomic clock",
+    "speaker": null
+  },
+  {
+    "start": 57.28,
+    "end": 60.079,
+    "text": "at the UK's National Physical Laboratory",
+    "speaker": null
+  },
+  {
+    "start": 60.079,
+    "end": 63.84,
+    "text": "would have the best long-term accuracy of any in the world.",
+    "speaker": null
+  },
+  {
+    "start": 63.84,
+    "end": 66.48,
+    "text": "But how many years would it take, approximately,",
+    "speaker": null
+  },
+  {
+    "start": 66.48,
+    "end": 68.799,
+    "text": "for it to lose or gain a second?",
+    "speaker": null
+  },
+  {
+    "start": 68.799,
+    "end": 74.079,
+    "text": "Is it a, 138 years, b, 138,000 years,",
+    "speaker": null
+  },
+  {
+    "start": 74.079,
+    "end": 76.96,
+    "text": "c) 138 million years?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 76.96,
+    "end": 80.879,
+    "text": "Hmm, well, now atomic clocks are very accurate,",
+    "speaker": null
+  },
+  {
+    "start": 80.879,
+    "end": 86.159,
+    "text": "but 138 million years is a bit extreme.",
+    "speaker": null
+  },
+  {
+    "start": 86.239,
+    "end": 91.439,
+    "text": "So I'll say b, 138,000 years.",
+    "speaker": null
+  },
+  {
+    "start": 91.439,
+    "end": 94.879,
+    "text": "Okay, Catherine, we'll find out the answer before the end of the programme,",
+    "speaker": null
+  },
+  {
+    "start": 94.879,
+    "end": 96.479,
+    "text": "which has to be six minutes long,",
+    "speaker": null
+  },
+  {
+    "start": 96.479,
+    "end": 99.28,
+    "text": "so let's talk more about people's timekeeping.",
+    "speaker": null
+  },
+  {
+    "start": 99.28,
+    "end": 102,
+    "text": "That's their ability to do things on time.",
+    "speaker": null
+  },
+  {
+    "start": 102,
+    "end": 104.56,
+    "text": "No, I know Neil doesn't like to be late.",
+    "speaker": null
+  },
+  {
+    "start": 104.56,
+    "end": 107.439,
+    "text": "He thinks it's rude, but I might be late,",
+    "speaker": null
+  },
+  {
+    "start": 107.439,
+    "end": 111.679,
+    "text": "because the traffic was bad or I had extra things to do.",
+    "speaker": null
+  },
+  {
+    "start": 111.679,
+    "end": 115.92,
+    "text": "And I know most appointments we make start late.",
+    "speaker": null
+  },
+  {
+    "start": 115.92,
+    "end": 119.359,
+    "text": "Well, Catherine, it sounds like you might be a time-bender.",
+    "speaker": null
+  },
+  {
+    "start": 119.359,
+    "end": 123.68,
+    "text": "It's something author Grace Pacey talks about on the BBC Woman's Hour programme.",
+    "speaker": null
+  },
+  {
+    "start": 123.68,
+    "end": 126.32,
+    "text": "Let's hear her definition of a time-bender.",
+    "speaker": null
+  },
+  {
+    "start": 126.32,
+    "end": 131.52,
+    "text": "Well, Jenny, a time-bender is actually somebody we all know very well.",
+    "speaker": null
+  },
+  {
+    "start": 131.52,
+    "end": 135.12,
+    "text": "They are the people who arrive last at any meeting or class,",
+    "speaker": null
+  },
+  {
+    "start": 135.12,
+    "end": 138.479,
+    "text": "or the mums whose children have to run into school at the last minute.",
+    "speaker": null
+  },
+  {
+    "start": 138.479,
+    "end": 140.719,
+    "text": "They're the people who don't want to be late,",
+    "speaker": null
+  },
+  {
+    "start": 140.719,
+    "end": 144.48,
+    "text": "but they have a strange resistance to being early like you,",
+    "speaker": null
+  },
+  {
+    "start": 144.479,
+    "end": 146.799,
+    "text": "and they don't allow enough time.",
+    "speaker": null
+  },
+  {
+    "start": 146.799,
+    "end": 150.799,
+    "text": "Okay, so I might be a time-bender,",
+    "speaker": null
+  },
+  {
+    "start": 150.799,
+    "end": 154.239,
+    "text": "someone who doesn't allow enough time to get somewhere,",
+    "speaker": null
+  },
+  {
+    "start": 154.239,
+    "end": 157.519,
+    "text": "but of course I always think I will have enough time.",
+    "speaker": null
+  },
+  {
+    "start": 157.519,
+    "end": 160.319,
+    "text": "One thing that is guaranteed is you'll never be early.",
+    "speaker": null
+  },
+  {
+    "start": 160.319,
+    "end": 162.879,
+    "text": "You have a resistance to, you fight against,",
+    "speaker": null
+  },
+  {
+    "start": 162.879,
+    "end": 165.28,
+    "text": "or are opposed to, being on time.",
+    "speaker": null
+  },
+  {
+    "start": 165.28,
+    "end": 167.839,
+    "text": "Isn't it best to leave home just a little bit earlier?",
+    "speaker": null
+  },
+  {
+    "start": 167.839,
+    "end": 170.399,
+    "text": "Well, Neil, it's about deadlines.",
+    "speaker": null
+  },
+  {
+    "start": 170.399,
+    "end": 173.839,
+    "text": "You know, a fixed time when something must be completed by.",
+    "speaker": null
+  },
+  {
+    "start": 174.319,
+    "end": 177.84,
+    "text": "If a deadline really matters, I'll make it.",
+    "speaker": null
+  },
+  {
+    "start": 177.84,
+    "end": 182.4,
+    "text": "But for less important things, it's not worth getting too stressed.",
+    "speaker": null
+  },
+  {
+    "start": 183.199,
+    "end": 186.319,
+    "text": "If you say so, Catherine, being late makes me anxious,",
+    "speaker": null
+  },
+  {
+    "start": 186.319,
+    "end": 188.719,
+    "text": "which is why I always arrive early.",
+    "speaker": null
+  },
+  {
+    "start": 188.719,
+    "end": 191.439,
+    "text": "But therapist, Phillipa Perry, might be able to explain",
+    "speaker": null
+  },
+  {
+    "start": 191.439,
+    "end": 193.84,
+    "text": "your more relaxed attitude to time-keeping.",
+    "speaker": null
+  },
+  {
+    "start": 193.84,
+    "end": 197.92,
+    "text": "She also spoke about this on the BBC's Woman's Hour programme,",
+    "speaker": null
+  },
+  {
+    "start": 197.92,
+    "end": 199.92,
+    "text": "see if you can hear what her reasons are.",
+    "speaker": null
+  },
+  {
+    "start": 200,
+    "end": 204.559,
+    "text": "Underlying it all, there is this fear of being early.",
+    "speaker": null
+  },
+  {
+    "start": 204.559,
+    "end": 208.719,
+    "text": "And the fear could be a fear of being conspicuous,",
+    "speaker": null
+  },
+  {
+    "start": 209.519,
+    "end": 212.319,
+    "text": "a fear of standing out in a strange place,",
+    "speaker": null
+  },
+  {
+    "start": 212.319,
+    "end": 216.159,
+    "text": "of having no one to talk to, feeling a bit alone and awkward.",
+    "speaker": null
+  },
+  {
+    "start": 216.159,
+    "end": 218.719,
+    "text": "The other reason people are always late is that",
+    "speaker": null
+  },
+  {
+    "start": 218.719,
+    "end": 220.959,
+    "text": "all the traffic lights will be green.",
+    "speaker": null
+  },
+  {
+    "start": 221.759,
+    "end": 226.799,
+    "text": "And they generally sort of stretch the time somehow in their minds",
+    "speaker": null
+  },
+  {
+    "start": 226.88,
+    "end": 231.12,
+    "text": "and just think this time to do absolutely everything they packed in.",
+    "speaker": null
+  },
+  {
+    "start": 231.12,
+    "end": 234.8,
+    "text": "So she thinks being late is to do with social awkwardness.",
+    "speaker": null
+  },
+  {
+    "start": 234.8,
+    "end": 237.28,
+    "text": "If you arrive too soon, you feel awkward.",
+    "speaker": null
+  },
+  {
+    "start": 237.28,
+    "end": 240.88,
+    "text": "That's uncomfortable or nervous, waiting for others to arrive.",
+    "speaker": null
+  },
+  {
+    "start": 240.88,
+    "end": 244.4,
+    "text": "There's also the fear of being conspicuous,",
+    "speaker": null
+  },
+  {
+    "start": 244.4,
+    "end": 247.6,
+    "text": "easily noticed or standing out in the crowd.",
+    "speaker": null
+  },
+  {
+    "start": 247.6,
+    "end": 250,
+    "text": "It's a very uncomfortable feeling,",
+    "speaker": null
+  },
+  {
+    "start": 250,
+    "end": 252.08,
+    "text": "but that's not why I might be late.",
+    "speaker": null
+  },
+  {
+    "start": 252.8,
+    "end": 255.68,
+    "text": "It's the other reason Phillipa Perry mentioned.",
+    "speaker": null
+  },
+  {
+    "start": 255.68,
+    "end": 258,
+    "text": "I just think there's time to pack everything in.",
+    "speaker": null
+  },
+  {
+    "start": 258.72,
+    "end": 262.879,
+    "text": "But if it makes you happy, I will try to be on time next time.",
+    "speaker": null
+  },
+  {
+    "start": 263.519,
+    "end": 266.319,
+    "text": "Well, according to experts on the Woman's Hour programme,",
+    "speaker": null
+  },
+  {
+    "start": 266.319,
+    "end": 268.079,
+    "text": "you shouldn't try to be on time.",
+    "speaker": null
+  },
+  {
+    "start": 268.079,
+    "end": 270.24,
+    "text": "You should decide to be on time.",
+    "speaker": null
+  },
+  {
+    "start": 270.24,
+    "end": 271.84,
+    "text": "Ah, okay, yeah.",
+    "speaker": null
+  },
+  {
+    "start": 273.04,
+    "end": 274.639,
+    "text": "But before we run out of time,",
+    "speaker": null
+  },
+  {
+    "start": 275.199,
+    "end": 278.16,
+    "text": "why don't you tell me if I have the right answer to the quiz?",
+    "speaker": null
+  },
+  {
+    "start": 278.16,
+    "end": 279.519,
+    "text": "Was I correct?",
+    "speaker": null
+  },
+  {
+    "start": 279.519,
+    "end": 282.24,
+    "text": "Yes, I asked you how many years it would take",
+    "speaker": null
+  },
+  {
+    "start": 282.24,
+    "end": 285.759,
+    "text": "approximately for the UK's National Physical Laboratory",
+    "speaker": null
+  },
+  {
+    "start": 285.759,
+    "end": 289.04,
+    "text": "Atomic Clock to lose or gain a second?",
+    "speaker": null
+  },
+  {
+    "start": 289.04,
+    "end": 291.759,
+    "text": "a) 138 years,",
+    "speaker": "Neil"
+  },
+  {
+    "start": 291.759,
+    "end": 294.56,
+    "text": "b) 138,000 years, or",
+    "speaker": "Neil"
+  },
+  {
+    "start": 294.56,
+    "end": 297.519,
+    "text": "Or C, 138,000 years?",
+    "speaker": null
+  },
+  {
+    "start": 297.519,
+    "end": 301.28,
+    "text": "And I said b) 138,000 years.",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 301.28,
+    "end": 302.96,
+    "text": "And you are wrong.",
+    "speaker": null
+  },
+  {
+    "start": 302.96,
+    "end": 304.079,
+    "text": "You are too early.",
+    "speaker": null
+  },
+  {
+    "start": 304.879,
+    "end": 306.4,
+    "text": "You are too early for a change.",
+    "speaker": null
+  },
+  {
+    "start": 307.28,
+    "end": 310.8,
+    "text": "The answer is C, 138,000,000 years.",
+    "speaker": null
+  },
+  {
+    "start": 310.8,
+    "end": 313.439,
+    "text": "Maybe I should buy you an atomic watch, Catherine.",
+    "speaker": null
+  },
+  {
+    "start": 313.439,
+    "end": 314.96,
+    "text": "Oh, right.",
+    "speaker": null
+  },
+  {
+    "start": 314.96,
+    "end": 316.96,
+    "text": "Let's not waste any more time.",
+    "speaker": null
+  },
+  {
+    "start": 316.96,
+    "end": 320.56,
+    "text": "Here's a recap of the vocabulary we've discussed today",
+    "speaker": null
+  },
+  {
+    "start": 320.56,
+    "end": 322.48,
+    "text": "starting with punctuality.",
+    "speaker": null
+  },
+  {
+    "start": 323.12,
+    "end": 326.08,
+    "text": "This is about doing something at an agreed time",
+    "speaker": null
+  },
+  {
+    "start": 326.08,
+    "end": 328,
+    "text": "and being on time.",
+    "speaker": null
+  },
+  {
+    "start": 328,
+    "end": 330.08,
+    "text": "When we talk about someone's time keeping,",
+    "speaker": null
+  },
+  {
+    "start": 330.08,
+    "end": 332.96,
+    "text": "When we talk about someone’s timekeeping, we mean their ability to achieve things on time.",
+    "speaker": "timekeeping"
+  },
+  {
+    "start": 332.96,
+    "end": 335.68,
+    "text": "And we heard about time benders.",
+    "speaker": null
+  },
+  {
+    "start": 335.68,
+    "end": 338.24,
+    "text": "Not really people who bend time,",
+    "speaker": null
+  },
+  {
+    "start": 338.319,
+    "end": 341.519,
+    "text": "but people who are always late because they don't allow",
+    "speaker": null
+  },
+  {
+    "start": 341.519,
+    "end": 343.36,
+    "text": "enough time to get somewhere.",
+    "speaker": null
+  },
+  {
+    "start": 343.36,
+    "end": 345.04,
+    "text": "Like you, Catherine, maybe.",
+    "speaker": null
+  },
+  {
+    "start": 345.04,
+    "end": 348,
+    "text": "It's because you have a resistance to being on time.",
+    "speaker": null
+  },
+  {
+    "start": 348,
+    "end": 349.6,
+    "text": "You are against being on time.",
+    "speaker": null
+  },
+  {
+    "start": 349.6,
+    "end": 350.8,
+    "text": "You fight against it.",
+    "speaker": null
+  },
+  {
+    "start": 350.8,
+    "end": 352.96,
+    "text": "That's because I hate deadlines.",
+    "speaker": null
+  },
+  {
+    "start": 352.96,
+    "end": 356.4,
+    "text": "Fixed times when things must be completed by.",
+    "speaker": null
+  },
+  {
+    "start": 356.4,
+    "end": 359.36,
+    "text": "And some people also feel conspicuous,",
+    "speaker": null
+  },
+  {
+    "start": 359.36,
+    "end": 362.319,
+    "text": "easily noticed, and they feel awkward,",
+    "speaker": null
+  },
+  {
+    "start": 362.319,
+    "end": 364.24,
+    "text": "uncomfortable or nervous.",
+    "speaker": null
+  },
+  {
+    "start": 364.24,
+    "end": 366.319,
+    "text": "Thanks for joining us and don't forget to check out",
+    "speaker": null
+  },
+  {
+    "start": 366.319,
+    "end": 368.24,
+    "text": "all our other programs on our website",
+    "speaker": null
+  },
+  {
+    "start": 368.24,
+    "end": 370.319,
+    "text": "at bbclearningenglish.com.",
+    "speaker": null
+  },
+  {
+    "start": 370.319,
+    "end": 371.12,
+    "text": "Bye for now.",
+    "speaker": null
+  },
+  {
+    "start": 371.12,
+    "end": 371.92,
+    "text": "Bye!",
+    "speaker": "Catherine"
+  }
+]

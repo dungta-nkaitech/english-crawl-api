@@ -1,0 +1,596 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.24,
+    "text": "6-Mate English",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 10.72,
+    "text": "From BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 13.439,
+    "end": 16.719,
+    "text": "Hello, this is 6-Mate English and I'm Catherine.",
+    "speaker": null
+  },
+  {
+    "start": 16.719,
+    "end": 17.76,
+    "text": "And I'm Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 17.76,
+    "end": 20.48,
+    "text": "Sam, how do you feel about tipping?",
+    "speaker": "tipping"
+  },
+  {
+    "start": 21.039,
+    "end": 26.64,
+    "text": "Tipping? You mean giving extra money to people in certain jobs for doing their jobs?",
+    "speaker": "Tipping"
+  },
+  {
+    "start": 27.359,
+    "end": 32.32,
+    "text": "Well, I wouldn’t put it quite like that. But yes, it’s giving money to waiters and waitresses, hairdressers, taxi drivers - money that is more than the actual bill.",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 32.32,
+    "end": 34.64,
+    "text": "hairdressers, taxi drivers.",
+    "speaker": null
+  },
+  {
+    "start": 34.64,
+    "end": 38.159,
+    "text": "Money, that's more than the actual bill.",
+    "speaker": null
+  },
+  {
+    "start": 38.159,
+    "end": 39.439,
+    "text": "It's a nightmare.",
+    "speaker": null
+  },
+  {
+    "start": 39.439,
+    "end": 47.92,
+    "text": "I never know who to tip, how to tip by cash or by card, how much to tip, is it 10, 12.5, 20%",
+    "speaker": null
+  },
+  {
+    "start": 47.92,
+    "end": 53.84,
+    "text": "or even if I should tip at all, because in some places a service charge is automatically added to the bill.",
+    "speaker": null
+  },
+  {
+    "start": 53.84,
+    "end": 59.52,
+    "text": "Yes, tipping is a really complicated issue, which we'll be looking at in this program.",
+    "speaker": null
+  },
+  {
+    "start": 59.52,
+    "end": 66.88,
+    "text": "But to start with, a question, what is the biggest tip that we know that somebody gave?",
+    "speaker": null
+  },
+  {
+    "start": 66.88,
+    "end": 69.92,
+    "text": "Is it a $10,000?",
+    "speaker": null
+  },
+  {
+    "start": 69.92,
+    "end": 73.52,
+    "text": "Is it B $250,000?",
+    "speaker": null
+  },
+  {
+    "start": 73.52,
+    "end": 74.56,
+    "text": "US dollars?",
+    "speaker": null
+  },
+  {
+    "start": 74.56,
+    "end": 78.8,
+    "text": "Or is it C $3 million?",
+    "speaker": null
+  },
+  {
+    "start": 78.8,
+    "end": 79.76,
+    "text": "US dollars?",
+    "speaker": null
+  },
+  {
+    "start": 79.76,
+    "end": 81.2,
+    "text": "What do you think, Sam?",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 81.2,
+    "end": 84.64,
+    "text": "I’m going to go for $250,000.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 84.64,
+    "end": 88.32,
+    "text": "Okay, well, we'll find out if you're right at the end of the program.",
+    "speaker": null
+  },
+  {
+    "start": 88.32,
+    "end": 93.76,
+    "text": "Now, back to the topic of tipping, and in particular, tipping people who work in restaurants.",
+    "speaker": null
+  },
+  {
+    "start": 94.48,
+    "end": 100.879,
+    "text": "William Beckett runs a number of restaurants, and he recently appeared on the BBC Food Programme.",
+    "speaker": null
+  },
+  {
+    "start": 100.879,
+    "end": 103.439,
+    "text": "He was asked about his view of tipping.",
+    "speaker": null
+  },
+  {
+    "start": 103.439,
+    "end": 107.359,
+    "text": "Now, as we hear him, listen out for this information.",
+    "speaker": null
+  },
+  {
+    "start": 107.679,
+    "end": 112.959,
+    "text": "In how many cities does he say he currently has restaurants?",
+    "speaker": null
+  },
+  {
+    "start": 113.68,
+    "end": 115.76,
+    "text": "It is cultural.",
+    "speaker": null
+  },
+  {
+    "start": 115.76,
+    "end": 117.92,
+    "text": "IE, it differs from place to place.",
+    "speaker": null
+  },
+  {
+    "start": 117.92,
+    "end": 122.4,
+    "text": "I mean, we have restaurants in London, with a restaurant in Manchester.",
+    "speaker": null
+  },
+  {
+    "start": 122.4,
+    "end": 124.079,
+    "text": "We're also opening a restaurant in New York.",
+    "speaker": null
+  },
+  {
+    "start": 124.079,
+    "end": 127.68,
+    "text": "And those three cities have quite different attitudes to tipping.",
+    "speaker": null
+  },
+  {
+    "start": 128.319,
+    "end": 131.84,
+    "text": "In London, the norm is...",
+    "speaker": null
+  },
+  {
+    "start": 131.84,
+    "end": 133.84,
+    "text": "Well, it's there, it's on your bill.",
+    "speaker": null
+  },
+  {
+    "start": 133.84,
+    "end": 136.079,
+    "text": "That's not the norm, for example, in Manchester.",
+    "speaker": null
+  },
+  {
+    "start": 136.56,
+    "end": 140.48,
+    "text": "And it's not the norm in New York, where we're going to open a restaurant later this year.",
+    "speaker": null
+  },
+  {
+    "start": 141.52,
+    "end": 146.16,
+    "text": "So, first, how many cities does he currently have restaurants in?",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 146.96,
+    "end": 150,
+    "text": "That would be two, London and Manchester.",
+    "speaker": null
+  },
+  {
+    "start": 150,
+    "end": 154.96,
+    "text": "That would be two. London and Manchester. He's going to open one in New York later in the year, but it's not open yet.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 154.96,
+    "end": 157.28,
+    "text": "And what does he say about tipping?",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 157.28,
+    "end": 159.68,
+    "text": "Well, he says that it's very cultural.",
+    "speaker": null
+  },
+  {
+    "start": 159.68,
+    "end": 161.92,
+    "text": "What is the norm in one city?",
+    "speaker": null
+  },
+  {
+    "start": 161.92,
+    "end": 164.56,
+    "text": "Is not necessarily the norm in another.",
+    "speaker": null
+  },
+  {
+    "start": 165.199,
+    "end": 170.24,
+    "text": "The norm is an expression that means, as you might guess, what is normal?",
+    "speaker": null
+  },
+  {
+    "start": 170.24,
+    "end": 171.28,
+    "text": "What is usual?",
+    "speaker": null
+  },
+  {
+    "start": 172,
+    "end": 176.879,
+    "text": "So, in London, for example, a service charge is usually added to the bill,",
+    "speaker": null
+  },
+  {
+    "start": 176.879,
+    "end": 178.56,
+    "text": "but in Manchester, it isn't.",
+    "speaker": null
+  },
+  {
+    "start": 179.12,
+    "end": 185.28,
+    "text": "So, the policy in London and Manchester differs, which means, again, as you might guess,",
+    "speaker": null
+  },
+  {
+    "start": 185.28,
+    "end": 186.719,
+    "text": "it's different.",
+    "speaker": null
+  },
+  {
+    "start": 186.719,
+    "end": 190,
+    "text": "There's another short expression that he used that I'd like to highlight.",
+    "speaker": null
+  },
+  {
+    "start": 190.08,
+    "end": 195.36,
+    "text": "Before he talks about how the policy is differ, he says i.e.",
+    "speaker": null
+  },
+  {
+    "start": 195.36,
+    "end": 200.159,
+    "text": "These two letters stand for the Latin phrase id-est.",
+    "speaker": null
+  },
+  {
+    "start": 200.159,
+    "end": 205.52,
+    "text": "Now, we never say id-est, but we do write and say i.e.",
+    "speaker": null
+  },
+  {
+    "start": 205.52,
+    "end": 212.879,
+    "text": "We use it to show that what comes next is using different words to say what we have just said or written.",
+    "speaker": null
+  },
+  {
+    "start": 212.879,
+    "end": 216.879,
+    "text": "So, he says about tipping, it's cultural.",
+    "speaker": null
+  },
+  {
+    "start": 216.879,
+    "end": 219.199,
+    "text": "i.e. it differs from place to place.",
+    "speaker": null
+  },
+  {
+    "start": 220,
+    "end": 224.239,
+    "text": "Its cultural is a more general statement and it differs from place to place",
+    "speaker": null
+  },
+  {
+    "start": 224.239,
+    "end": 226.639,
+    "text": "is a more specific definition of what he means.",
+    "speaker": null
+  },
+  {
+    "start": 227.359,
+    "end": 232.879,
+    "text": "So, one difference is that in some places, people prefer an automatic service charge",
+    "speaker": null
+  },
+  {
+    "start": 232.879,
+    "end": 236.56,
+    "text": "so that they don't have to think about or try to calculate a tip.",
+    "speaker": null
+  },
+  {
+    "start": 237.28,
+    "end": 240.159,
+    "text": "But in other places, people hate that.",
+    "speaker": null
+  },
+  {
+    "start": 240.159,
+    "end": 243.199,
+    "text": "They want to decide who and how much to tip themselves.",
+    "speaker": null
+  },
+  {
+    "start": 244.159,
+    "end": 247.599,
+    "text": "But do people actually make use of that freedom not to tip?",
+    "speaker": null
+  },
+  {
+    "start": 248.079,
+    "end": 251.68,
+    "text": "Here's William Bucket again and this time he's talking about New York.",
+    "speaker": null
+  },
+  {
+    "start": 252.639,
+    "end": 254,
+    "text": "New York, exactly the same.",
+    "speaker": null
+  },
+  {
+    "start": 254,
+    "end": 261.12,
+    "text": "There's a tacit pressure to tip, but theoretically you just stand up and walk out.",
+    "speaker": null
+  },
+  {
+    "start": 261.12,
+    "end": 265.759,
+    "text": "You don't, everybody tips 20% or there is a theory of an option.",
+    "speaker": null
+  },
+  {
+    "start": 265.759,
+    "end": 266.8,
+    "text": "But people like that.",
+    "speaker": null
+  },
+  {
+    "start": 267.439,
+    "end": 271.519,
+    "text": "So he says there is a tacit pressure to tip. What does he mean by that?",
+    "speaker": "tacit"
+  },
+  {
+    "start": 271.519,
+    "end": 272.879,
+    "text": "What does he mean by that?",
+    "speaker": null
+  },
+  {
+    "start": 272.879,
+    "end": 277.04,
+    "text": "Something that is tacit is not spoken, not said.",
+    "speaker": null
+  },
+  {
+    "start": 277.12,
+    "end": 278.96,
+    "text": "Yes, this is still understood.",
+    "speaker": null
+  },
+  {
+    "start": 278.96,
+    "end": 282.16,
+    "text": "So, in New York, no one tells you that you have to tip,",
+    "speaker": null
+  },
+  {
+    "start": 282.16,
+    "end": 284,
+    "text": "but everyone knows that you have to.",
+    "speaker": null
+  },
+  {
+    "start": 284.72,
+    "end": 289.12,
+    "text": "And because there's no service charge on the bill and no one tells you what to tip,",
+    "speaker": null
+  },
+  {
+    "start": 289.12,
+    "end": 291.76,
+    "text": "you could just walk out after paying.",
+    "speaker": null
+  },
+  {
+    "start": 291.76,
+    "end": 294.879,
+    "text": "He says that's theoretically possible.",
+    "speaker": null
+  },
+  {
+    "start": 295.52,
+    "end": 301.36,
+    "text": "That means although it may be possible, it's actually very unlikely because of the tacit",
+    "speaker": null
+  },
+  {
+    "start": 301.36,
+    "end": 303.28,
+    "text": "pressure and the way we behave.",
+    "speaker": null
+  },
+  {
+    "start": 303.919,
+    "end": 309.199,
+    "text": "But he does say people like that freedom not to tip, even if they don't actually use that freedom.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 309.199,
+    "end": 310,
+    "text": "freedom.",
+    "speaker": null
+  },
+  {
+    "start": 310,
+    "end": 315.519,
+    "text": "Right, nearly vocabulary time, but first, let's have the answer to our question. Now Sam what is the biggest tip we know someone gave?",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 315.519,
+    "end": 318.879,
+    "text": "Now Sam, what is the biggest tip we know someone gave?",
+    "speaker": null
+  },
+  {
+    "start": 318.879,
+    "end": 320.959,
+    "text": "I thought $250,000.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 321.519,
+    "end": 329.439,
+    "text": "Well, it was actually believe it or not, a whopping $3 million US dollars, yes.",
+    "speaker": null
+  },
+  {
+    "start": 329.439,
+    "end": 332.799,
+    "text": "Now, on with today's vocabulary review.",
+    "speaker": null
+  },
+  {
+    "start": 332.8,
+    "end": 335.12,
+    "text": "Right, so we've been talking about tipping,",
+    "speaker": null
+  },
+  {
+    "start": 335.12,
+    "end": 339.6,
+    "text": "Right. So we've been talking about tipping, the practice of giving extra money to, for example, waitresses and waiters.",
+    "speaker": "tipping"
+  },
+  {
+    "start": 340.48,
+    "end": 344.319,
+    "text": "To differ from is a verb which means to be different from.",
+    "speaker": "To differ from"
+  },
+  {
+    "start": 345.04,
+    "end": 348.24,
+    "text": "The norm is what is usual or normal.",
+    "speaker": "The norm"
+  },
+  {
+    "start": 348.24,
+    "end": 354.16,
+    "text": "i.e. is a short form of a Latin expression and it means 'in other words'.",
+    "speaker": "i.e."
+  },
+  {
+    "start": 354.8,
+    "end": 359.84,
+    "text": "Something that is tacit is not said but is nevertheless understood.",
+    "speaker": "tacit"
+  },
+  {
+    "start": 360.399,
+    "end": 365.439,
+    "text": "And if something is theoretically possible it can be done but for different reasons it probably won't be. And that is where we must leave it today. Goodbye!",
+    "speaker": "theoretically"
+  },
+  {
+    "start": 365.439,
+    "end": 366.719,
+    "text": "it probably won't be.",
+    "speaker": null
+  },
+  {
+    "start": 367.519,
+    "end": 369.919,
+    "text": "And that is where we must leave it today.",
+    "speaker": null
+  },
+  {
+    "start": 369.919,
+    "end": 370.879,
+    "text": "Goodbye.",
+    "speaker": null
+  },
+  {
+    "start": 370.879,
+    "end": 371.519,
+    "text": "Bye everyone!",
+    "speaker": "Sam"
+  }
+]

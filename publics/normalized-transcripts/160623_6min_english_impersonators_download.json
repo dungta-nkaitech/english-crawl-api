@@ -1,0 +1,836 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.16,
+    "text": "6MtEnglish",
+    "speaker": null
+  },
+  {
+    "start": 8.16,
+    "end": 12.08,
+    "text": "from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 12.08,
+    "end": 15.2,
+    "text": "Hello and welcome to 6 Minute English. I'm Alice…",
+    "speaker": "Alice"
+  },
+  {
+    "start": 15.2,
+    "end": 16.24,
+    "text": "… And I'm Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 16.24,
+    "end": 18.32,
+    "text": "Can you do any impersonations, Neil?",
+    "speaker": "Alice"
+  },
+  {
+    "start": 18.32,
+    "end": 20.32,
+    "text": "Hmm. How about this one?",
+    "speaker": null
+  },
+  {
+    "start": 20.32,
+    "end": 22.32,
+    "text": "My name is Michael Cain.",
+    "speaker": null
+  },
+  {
+    "start": 23.519,
+    "end": 25.28,
+    "text": "Not a lot of people know that.",
+    "speaker": null
+  },
+  {
+    "start": 25.28,
+    "end": 29.519,
+    "text": "Hmm, Michael Cain, one of our best loved actors here in Britain.",
+    "speaker": null
+  },
+  {
+    "start": 29.519,
+    "end": 30.719,
+    "text": "Not bad, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 30.719,
+    "end": 33.28,
+    "text": "And it's a very good way to start today's show.",
+    "speaker": null
+  },
+  {
+    "start": 33.28,
+    "end": 35.6,
+    "text": "We are talking about impersonation",
+    "speaker": null
+  },
+  {
+    "start": 35.6,
+    "end": 38.48,
+    "text": "or the act of pretending to be somebody else.",
+    "speaker": null
+  },
+  {
+    "start": 38.48,
+    "end": 40.48,
+    "text": "Why do we like impersonations, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 40.48,
+    "end": 43.519,
+    "text": "Well, sometimes the impersonator is a comedian",
+    "speaker": null
+  },
+  {
+    "start": 43.519,
+    "end": 45.28,
+    "text": "and doing it to be funny.",
+    "speaker": null
+  },
+  {
+    "start": 45.28,
+    "end": 49.12,
+    "text": "But another reason is that we get the opportunity to meet people",
+    "speaker": null
+  },
+  {
+    "start": 49.12,
+    "end": 50.719,
+    "text": "who are no longer with us,",
+    "speaker": null
+  },
+  {
+    "start": 50.719,
+    "end": 53.12,
+    "text": "like Elvis Presley or Marilyn Monroe.",
+    "speaker": null
+  },
+  {
+    "start": 53.76,
+    "end": 56.96,
+    "text": "Either way, it helps if it's a good impersonation.",
+    "speaker": null
+  },
+  {
+    "start": 57.039,
+    "end": 60,
+    "text": "Yes, some impersonations are pretty cheesy – and that means bad quality.",
+    "speaker": "cheesy"
+  },
+  {
+    "start": 60,
+    "end": 61.759,
+    "text": "and that means bad quality.",
+    "speaker": null
+  },
+  {
+    "start": 61.759,
+    "end": 62.799,
+    "text": "Oh yeah, sure.",
+    "speaker": null
+  },
+  {
+    "start": 63.359,
+    "end": 64.079,
+    "text": "Uh-huh.",
+    "speaker": null
+  },
+  {
+    "start": 64.079,
+    "end": 65.28,
+    "text": "Okay, Alice.",
+    "speaker": null
+  },
+  {
+    "start": 65.28,
+    "end": 66.239,
+    "text": "I have a question for you.",
+    "speaker": null
+  },
+  {
+    "start": 67.12,
+    "end": 68.159,
+    "text": "Neil, that's terrible!",
+    "speaker": "Alice"
+  },
+  {
+    "start": 69.28,
+    "end": 70.319,
+    "text": "Elvis, please, come on.",
+    "speaker": null
+  },
+  {
+    "start": 71.28,
+    "end": 73.359,
+    "text": "Can you tell me the name of a musical act",
+    "speaker": null
+  },
+  {
+    "start": 73.359,
+    "end": 75.439,
+    "text": "that impersonates a famous group?",
+    "speaker": null
+  },
+  {
+    "start": 75.439,
+    "end": 76.96,
+    "text": "a) tribute,",
+    "speaker": "Neil"
+  },
+  {
+    "start": 76.96,
+    "end": 78.24,
+    "text": "b) tribune,",
+    "speaker": "Neil"
+  },
+  {
+    "start": 78.24,
+    "end": 80.159,
+    "text": "or c) tribunal?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 80.159,
+    "end": 82.079,
+    "text": "I'll go for a) tribute.",
+    "speaker": "Alice"
+  },
+  {
+    "start": 82.079,
+    "end": 83.439,
+    "text": "A tribute act.",
+    "speaker": null
+  },
+  {
+    "start": 84,
+    "end": 87.679,
+    "text": "Okay, well, we'll find out if you got that right later on in the show.",
+    "speaker": null
+  },
+  {
+    "start": 87.679,
+    "end": 92.4,
+    "text": "But, Alice, don't you think some impersonators start to believe",
+    "speaker": null
+  },
+  {
+    "start": 92.4,
+    "end": 95.2,
+    "text": "they really are the personalities they imitate?",
+    "speaker": null
+  },
+  {
+    "start": 95.2,
+    "end": 96.64,
+    "text": "What makes you say that?",
+    "speaker": "Alice"
+  },
+  {
+    "start": 96.64,
+    "end": 97.359,
+    "text": "Well, just think.",
+    "speaker": null
+  },
+  {
+    "start": 97.359,
+    "end": 99.84,
+    "text": "Every time you appear as Elvis Presley,",
+    "speaker": null
+  },
+  {
+    "start": 99.84,
+    "end": 101.039,
+    "text": "you get fans yelling,",
+    "speaker": null
+  },
+  {
+    "start": 101.039,
+    "end": 103.519,
+    "text": "Elvis, Elvis, we love you, Elvis.",
+    "speaker": null
+  },
+  {
+    "start": 103.519,
+    "end": 108.079,
+    "text": "And after a while, that boundary between you and the real Elvis",
+    "speaker": null
+  },
+  {
+    "start": 108.079,
+    "end": 109.599,
+    "text": "starts to blur.",
+    "speaker": null
+  },
+  {
+    "start": 109.599,
+    "end": 113.28,
+    "text": "It must be quite tempting to, you know, pretend that you're",
+    "speaker": null
+  },
+  {
+    "start": 113.359,
+    "end": 114.4,
+    "text": "looking at rock and roll.",
+    "speaker": null
+  },
+  {
+    "start": 115.2,
+    "end": 117.2,
+    "text": "I'm not convinced, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 117.2,
+    "end": 120.159,
+    "text": "I think Elvis hangs up his wig and moves on.",
+    "speaker": null
+  },
+  {
+    "start": 120.159,
+    "end": 124.079,
+    "text": "So, let's move on to and talk about the art of imitation.",
+    "speaker": null
+  },
+  {
+    "start": 124.079,
+    "end": 128.56,
+    "text": "Here's British Impressionist John Kulture providing some tips on how to imitate",
+    "speaker": null
+  },
+  {
+    "start": 128.56,
+    "end": 129.68,
+    "text": "or copy people.",
+    "speaker": null
+  },
+  {
+    "start": 130.719,
+    "end": 131.92,
+    "text": "Don't just say the catchphrase.",
+    "speaker": null
+  },
+  {
+    "start": 131.92,
+    "end": 134.08,
+    "text": "Don't just say, I am Michael Cain.",
+    "speaker": null
+  },
+  {
+    "start": 134.08,
+    "end": 134.879,
+    "text": "Say a bit more.",
+    "speaker": null
+  },
+  {
+    "start": 134.879,
+    "end": 137.28,
+    "text": "Get some gags going, some conversation going.",
+    "speaker": null
+  },
+  {
+    "start": 137.84,
+    "end": 140.96,
+    "text": "Notice the things which are worth stretching,",
+    "speaker": null
+  },
+  {
+    "start": 140.96,
+    "end": 145.84,
+    "text": "which are worth exaggerating to really give you the caricature",
+    "speaker": null
+  },
+  {
+    "start": 145.84,
+    "end": 146.64,
+    "text": "of that person.",
+    "speaker": null
+  },
+  {
+    "start": 146.64,
+    "end": 148,
+    "text": "It might be a little tick.",
+    "speaker": null
+  },
+  {
+    "start": 148,
+    "end": 150.319,
+    "text": "It might be a little nuance.",
+    "speaker": null
+  },
+  {
+    "start": 150.319,
+    "end": 152,
+    "text": "Whatever you notice first, really.",
+    "speaker": null
+  },
+  {
+    "start": 153.36,
+    "end": 154.719,
+    "text": "John Kulture there.",
+    "speaker": null
+  },
+  {
+    "start": 154.719,
+    "end": 156.319,
+    "text": "Jon Culshaw, there. What's a catchphrase, Neil?",
+    "speaker": "catchphrase"
+  },
+  {
+    "start": 156.319,
+    "end": 160.159,
+    "text": "It's a well-known phrase often associated with a famous person,",
+    "speaker": null
+  },
+  {
+    "start": 160.159,
+    "end": 162.879,
+    "text": "like the one I used for Michael Cain earlier on.",
+    "speaker": null
+  },
+  {
+    "start": 162.879,
+    "end": 164.24,
+    "text": "Not a lot of people know that.",
+    "speaker": null
+  },
+  {
+    "start": 164.879,
+    "end": 169.28,
+    "text": "So, John is saying that it isn't enough to repeat a catchphrase",
+    "speaker": null
+  },
+  {
+    "start": 170.08,
+    "end": 171.759,
+    "text": "or use another impersonator's ideas.",
+    "speaker": null
+  },
+  {
+    "start": 171.759,
+    "end": 174.96,
+    "text": "You need to think of your own gags or jokes.",
+    "speaker": null
+  },
+  {
+    "start": 174.96,
+    "end": 179.199,
+    "text": "And you do this by noticing and then exaggerating a person's tics.",
+    "speaker": null
+  },
+  {
+    "start": 179.84,
+    "end": 183.28,
+    "text": "A tick is something you do often without realizing you're doing it,",
+    "speaker": null
+  },
+  {
+    "start": 183.28,
+    "end": 186.08,
+    "text": "like using certain phrases or gestures,",
+    "speaker": null
+  },
+  {
+    "start": 186.08,
+    "end": 189.36,
+    "text": "for example, scratching your head or in your case, Neil,",
+    "speaker": null
+  },
+  {
+    "start": 189.36,
+    "end": 190.96,
+    "text": "wiggling your eyebrows.",
+    "speaker": null
+  },
+  {
+    "start": 190.96,
+    "end": 192.319,
+    "text": "Do I wiggle my eyebrows?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 192.319,
+    "end": 193.68,
+    "text": "You're doing it right now.",
+    "speaker": null
+  },
+  {
+    "start": 193.68,
+    "end": 197.759,
+    "text": "But moving on, there is a serious and very negative side to impersonation.",
+    "speaker": null
+  },
+  {
+    "start": 198.399,
+    "end": 202.959,
+    "text": "Some imposter's, or people who deceive others by pretending to be somebody else,",
+    "speaker": null
+  },
+  {
+    "start": 202.959,
+    "end": 205.519,
+    "text": "poses doctors or lawyers, for example.",
+    "speaker": null
+  },
+  {
+    "start": 205.519,
+    "end": 208.639,
+    "text": "You mean without having the qualifications to do the job?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 208.639,
+    "end": 209.679,
+    "text": "Exactly.",
+    "speaker": null
+  },
+  {
+    "start": 209.679,
+    "end": 211.599,
+    "text": "Which can have serious consequences,",
+    "speaker": null
+  },
+  {
+    "start": 211.599,
+    "end": 214.799,
+    "text": "Exactly – which can have serious consequences, for example pretending to be a doctor with no medical knowledge.",
+    "speaker": "Alice"
+  },
+  {
+    "start": 214.799,
+    "end": 217.359,
+    "text": "Ah, like in that film with Leonardo DiCaprio,",
+    "speaker": null
+  },
+  {
+    "start": 217.359,
+    "end": 220.479,
+    "text": "where his character impersonates an airline pilot,",
+    "speaker": null
+  },
+  {
+    "start": 220.479,
+    "end": 221.84,
+    "text": "a doctor and a lawyer.",
+    "speaker": null
+  },
+  {
+    "start": 221.84,
+    "end": 225.039,
+    "text": "DiCaprio's character in the movie Catch Me If You Can",
+    "speaker": null
+  },
+  {
+    "start": 225.12,
+    "end": 228.159,
+    "text": "is actually based on a real man called Frank Abagnale.",
+    "speaker": null
+  },
+  {
+    "start": 228.879,
+    "end": 235.12,
+    "text": "Panam estimated that in two years, Abagnale flew 250 flights to 26 countries.",
+    "speaker": null
+  },
+  {
+    "start": 235.12,
+    "end": 241.359,
+    "text": "Okay, let's listen to Dr. Nath Talley-Gberal, a forensic psychologist in New York City.",
+    "speaker": null
+  },
+  {
+    "start": 241.359,
+    "end": 244.479,
+    "text": "He evaluates people for the American government.",
+    "speaker": null
+  },
+  {
+    "start": 244.479,
+    "end": 248.239,
+    "text": "Here he's talking about another real case of a woman in the US",
+    "speaker": null
+  },
+  {
+    "start": 248.239,
+    "end": 250.479,
+    "text": "who was caught pretending to be an attorney.",
+    "speaker": null
+  },
+  {
+    "start": 250.479,
+    "end": 251.199,
+    "text": "That's a lawyer.",
+    "speaker": null
+  },
+  {
+    "start": 251.84,
+    "end": 254.239,
+    "text": "The thing that was most troubling is that",
+    "speaker": null
+  },
+  {
+    "start": 254.24,
+    "end": 256.879,
+    "text": "because she realized that she was not an attorney,",
+    "speaker": null
+  },
+  {
+    "start": 256.879,
+    "end": 260.24,
+    "text": "and that she was taking people's money under false pretence,",
+    "speaker": null
+  },
+  {
+    "start": 260.24,
+    "end": 262.8,
+    "text": "there was no sense of remorse or a sense of sadness",
+    "speaker": null
+  },
+  {
+    "start": 262.8,
+    "end": 264.8,
+    "text": "that she'd exploited the people that trusted her.",
+    "speaker": null
+  },
+  {
+    "start": 264.8,
+    "end": 267.36,
+    "text": "But, you know, in cases where you get these imposter's",
+    "speaker": null
+  },
+  {
+    "start": 267.36,
+    "end": 270.16,
+    "text": "who specifically are pursuing financial gain,",
+    "speaker": null
+  },
+  {
+    "start": 270.16,
+    "end": 271.36,
+    "text": "they know what they're doing,",
+    "speaker": null
+  },
+  {
+    "start": 271.36,
+    "end": 273.6,
+    "text": "but they do it with the shallow conscience",
+    "speaker": null
+  },
+  {
+    "start": 273.6,
+    "end": 275.28,
+    "text": "of an anti-social personality.",
+    "speaker": null
+  },
+  {
+    "start": 276.319,
+    "end": 278.96,
+    "text": "That was Dr. Nath Talley-Gberal.",
+    "speaker": null
+  },
+  {
+    "start": 278.96,
+    "end": 280.96,
+    "text": "What does remorse mean, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 280.96,
+    "end": 283.439,
+    "text": "It means being sorry for something you've done.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 283.519,
+    "end": 286.8,
+    "text": "And our conscience is our inner sense of right or wrong – so a shallow conscience is one that isn't very deep.",
+    "speaker": "conscienceshallow"
+  },
+  {
+    "start": 286.8,
+    "end": 289.6,
+    "text": "so a shallow conscience is one that isn't very deep.",
+    "speaker": null
+  },
+  {
+    "start": 289.6,
+    "end": 294.319,
+    "text": "Anti-social in this context means harmful to other people and to society.",
+    "speaker": null
+  },
+  {
+    "start": 294.319,
+    "end": 298,
+    "text": "Although in a general sense, it means not enjoying the company of others.",
+    "speaker": null
+  },
+  {
+    "start": 298,
+    "end": 299.199,
+    "text": "Hmm, okay.",
+    "speaker": null
+  },
+  {
+    "start": 299.199,
+    "end": 301.759,
+    "text": "Well, I love your company, Neil, as you know.",
+    "speaker": null
+  },
+  {
+    "start": 301.759,
+    "end": 304.879,
+    "text": "OK. Well, I love your company, Neil, as you know. Now, how about the answer to today's quiz question?",
+    "speaker": "Alice"
+  },
+  {
+    "start": 304.879,
+    "end": 310.48,
+    "text": "I asked: What's the name we use for a band that impersonates a famous group? Is it … a) tribute? b) tribune? Or c) tribunal?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 310.56,
+    "end": 315.28,
+    "text": "Is it a tribute, b tribute or c tribunal?",
+    "speaker": null
+  },
+  {
+    "start": 315.28,
+    "end": 316.48,
+    "text": "I said tribute.",
+    "speaker": "Alice"
+  },
+  {
+    "start": 317.12,
+    "end": 319.28,
+    "text": "And you were right!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 319.28,
+    "end": 320.24,
+    "text": "Three.",
+    "speaker": null
+  },
+  {
+    "start": 320.24,
+    "end": 323.84,
+    "text": "Many tribute acts copy the singing style and the appearance of the group",
+    "speaker": null
+  },
+  {
+    "start": 323.84,
+    "end": 325.6,
+    "text": "as well as playing their music.",
+    "speaker": null
+  },
+  {
+    "start": 325.6,
+    "end": 328.8,
+    "text": "They often name themselves based on the original band's name,",
+    "speaker": null
+  },
+  {
+    "start": 328.8,
+    "end": 332.72,
+    "text": "sometimes with a pun, or on one of their songs or albums.",
+    "speaker": null
+  },
+  {
+    "start": 332.72,
+    "end": 336.8,
+    "text": "For example, Björn again, a famous Aber tribute band.",
+    "speaker": null
+  },
+  {
+    "start": 336.8,
+    "end": 340.24,
+    "text": "This name is a pun on Björn, a member of Aber,",
+    "speaker": null
+  },
+  {
+    "start": 340.319,
+    "end": 343.92,
+    "text": "and the phrase born again, which means to come back to life.",
+    "speaker": null
+  },
+  {
+    "start": 343.92,
+    "end": 344.96,
+    "text": "Hmm, okay.",
+    "speaker": null
+  },
+  {
+    "start": 344.96,
+    "end": 347.6,
+    "text": "OK. It's time to hear the words we learned today. They are:",
+    "speaker": "Alice"
+  },
+  {
+    "start": 347.6,
+    "end": 353.519,
+    "text": "They are impersonation, cheesy, imitate, catchphrase,",
+    "speaker": null
+  },
+  {
+    "start": 353.519,
+    "end": 360.16,
+    "text": "gags, tick, imposters, conscience, shallow, anti-social.",
+    "speaker": null
+  },
+  {
+    "start": 360.16,
+    "end": 362.56,
+    "text": "Well, that's the end of today's six mid-English.",
+    "speaker": null
+  },
+  {
+    "start": 362.56,
+    "end": 363.759,
+    "text": "Please join us again soon.",
+    "speaker": null
+  },
+  {
+    "start": 363.759,
+    "end": 366.079,
+    "text": "Rolling on the house.",
+    "speaker": null
+  },
+  {
+    "start": 367.199,
+    "end": 368.079,
+    "text": "Bye-bye.",
+    "speaker": null
+  },
+  {
+    "start": 368.079,
+    "end": 369.439,
+    "text": "Elvis is leaving the studio!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 370.24,
+    "end": 373.439,
+    "text": "Six-minute English from the BBC.",
+    "speaker": null
+  }
+]

@@ -1,0 +1,428 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.6,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 13.439,
+    "end": 17.92,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Rob.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 17.92,
+    "end": 18.96,
+    "text": "And I’m Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 18.96,
+    "end": 23.359,
+    "text": "In this program, we'll be unlocking the secrets of the ancient Egyptians,",
+    "speaker": null
+  },
+  {
+    "start": 23.359,
+    "end": 26.8,
+    "text": "Pyramid Builders and the inventors of Hieroglyphs,",
+    "speaker": null
+  },
+  {
+    "start": 26.8,
+    "end": 31.2,
+    "text": "a writing system which uses pictures and symbols to represent words.",
+    "speaker": null
+  },
+  {
+    "start": 31.2,
+    "end": 36.56,
+    "text": "The meaning of Egyptian Hieroglyphs remained a mystery until 1799,",
+    "speaker": null
+  },
+  {
+    "start": 36.56,
+    "end": 44,
+    "text": "when Napoleon soldiers unearthed a dark, damaged rock in the Egyptian coastal town of Rosetta.",
+    "speaker": null
+  },
+  {
+    "start": 44,
+    "end": 48.4,
+    "text": "On the broken granite stone, three scripts were faintly carved,",
+    "speaker": null
+  },
+  {
+    "start": 48.4,
+    "end": 52.64,
+    "text": "Greek at the bottom, D'Amotic in the middle, and Hieroglyphs at the top.",
+    "speaker": null
+  },
+  {
+    "start": 52.64,
+    "end": 58.16,
+    "text": "Today, the Rosetta Stone is perhaps the most famous museum object in the world.",
+    "speaker": null
+  },
+  {
+    "start": 58.799,
+    "end": 62.159,
+    "text": "But what's actually written on it is quite dull.",
+    "speaker": null
+  },
+  {
+    "start": 62.159,
+    "end": 65.68,
+    "text": "In fact, the Rosetta Stone contains a tax break.",
+    "speaker": null
+  },
+  {
+    "start": 65.68,
+    "end": 70.56,
+    "text": "It describes an agreement exempting priests from paying taxes to the king.",
+    "speaker": null
+  },
+  {
+    "start": 70.56,
+    "end": 73.2,
+    "text": "Ah, the famous Egyptian pharaohs!",
+    "speaker": "Sam"
+  },
+  {
+    "start": 73.68,
+    "end": 80.64,
+    "text": "Exactly, but which one, Sam, let's test your ancient Egyptian knowledge with this quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 80.64,
+    "end": 85.04,
+    "text": "The writing on the Rosetta Stone is a tax agreement between the priests",
+    "speaker": null
+  },
+  {
+    "start": 85.04,
+    "end": 87.439,
+    "text": "and which Egyptian pharaoh.",
+    "speaker": null
+  },
+  {
+    "start": 87.439,
+    "end": 92.64,
+    "text": "Is it a, Cleopatra, B, Ptolemy, or C, Ramases?",
+    "speaker": null
+  },
+  {
+    "start": 92.64,
+    "end": 94.719,
+    "text": "I’ll guess a) Cleopatra.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 94.719,
+    "end": 98.159,
+    "text": "Okay, Sam, I'll reveal the answer to that mystery later on.",
+    "speaker": null
+  },
+  {
+    "start": 98.799,
+    "end": 104.719,
+    "text": "OK, Sam, I’ll reveal the answer to that mystery later on. Before the discovery of the Stone, no scholar had been able to understand the strange symbols carved on the great pyramids.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 104.719,
+    "end": 106.24,
+    "text": "on the great Pyramids.",
+    "speaker": null
+  },
+  {
+    "start": 106.319,
+    "end": 111.919,
+    "text": "Egyptologist Richard Parker was in charge of the Rosetta Stone exhibition at the British",
+    "speaker": null
+  },
+  {
+    "start": 111.919,
+    "end": 121.119,
+    "text": "Museum for 20 years. Here he is, telling BBC Radio 4 program in our time about circumstances",
+    "speaker": null
+  },
+  {
+    "start": 121.119,
+    "end": 123.199,
+    "text": "before the discovery of the stone.",
+    "speaker": null
+  },
+  {
+    "start": 124.239,
+    "end": 130.479,
+    "text": "People were exploring all sorts of means of trying to decipher, including trying to link",
+    "speaker": null
+  },
+  {
+    "start": 130.479,
+    "end": 133.68,
+    "text": "the script with Chinese to see if that offered a parallel.",
+    "speaker": null
+  },
+  {
+    "start": 133.68,
+    "end": 138.319,
+    "text": "It was known from the classical authors that the Egyptian script contained great",
+    "speaker": null
+  },
+  {
+    "start": 138.319,
+    "end": 144.719,
+    "text": "mysterious pearls of wisdom from the Egyptian philosophers, and people had hugely high expectations,",
+    "speaker": null
+  },
+  {
+    "start": 144.719,
+    "end": 149.84,
+    "text": "and all attempts to decipher to get a grip on the script I think had really failed.",
+    "speaker": null
+  },
+  {
+    "start": 150.96,
+    "end": 156.8,
+    "text": "Before the discovery of the Rosetta Stone, no one had managed to decipher hieroglyphs",
+    "speaker": null
+  },
+  {
+    "start": 156.8,
+    "end": 160.08,
+    "text": "to work out the meaning of writing, which is difficult to read.",
+    "speaker": null
+  },
+  {
+    "start": 160.08,
+    "end": 165.76,
+    "text": "Experts hoped that the Egyptian script contained great pearls of wisdom - wise words, sayings or advice.",
+    "speaker": "pearls of wisdom -"
+  },
+  {
+    "start": 165.76,
+    "end": 168.4,
+    "text": "wise words, sayings or advice.",
+    "speaker": null
+  },
+  {
+    "start": 169.04,
+    "end": 173.52,
+    "text": "As we know, the actual meaning of the text turned out to be quite dull,",
+    "speaker": null
+  },
+  {
+    "start": 173.52,
+    "end": 178.96,
+    "text": "but it was the fact that the messages were written in three scripts, including Greek,",
+    "speaker": null
+  },
+  {
+    "start": 178.96,
+    "end": 184.72,
+    "text": "a language scholars already knew that provided the key to finally crack the code.",
+    "speaker": null
+  },
+  {
+    "start": 184.719,
+    "end": 192.319,
+    "text": "In 1801 the race was on between Egyptologists in Britain and France to be the first to translate the entire system of hieroglyphs.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 192.319,
+    "end": 198.639,
+    "text": "the entire system of hieroglyphs. In the end, it was a young Frenchman named Jean-François",
+    "speaker": null
+  },
+  {
+    "start": 198.639,
+    "end": 204.4,
+    "text": "Champollion, who became the first person to understand hieroglyphs since the ancient Egyptians",
+    "speaker": null
+  },
+  {
+    "start": 204.4,
+    "end": 207.28,
+    "text": "themselves, nearly 2,000 years earlier.",
+    "speaker": null
+  },
+  {
+    "start": 207.28,
+    "end": 212.719,
+    "text": "Here's Penelope Wilson, professor of Egyptian archaeology at Durham University,",
+    "speaker": null
+  },
+  {
+    "start": 212.719,
+    "end": 218.8,
+    "text": "explaining more about this remarkable young Frenchman to BBC Radio Falls in our time.",
+    "speaker": null
+  },
+  {
+    "start": 219.759,
+    "end": 223.68,
+    "text": "He was certainly a prodigy, I think, as far as language is concerned, but also had a fascination",
+    "speaker": null
+  },
+  {
+    "start": 223.68,
+    "end": 230.24,
+    "text": "for Egypt, I think, and the story is he was taught copdic by a copdic priest, and at that lecture",
+    "speaker": null
+  },
+  {
+    "start": 230.24,
+    "end": 233.68,
+    "text": "was one of the first to argue that copdic was related to ancient Egyptian.",
+    "speaker": null
+  },
+  {
+    "start": 234.479,
+    "end": 237.84,
+    "text": "So he was also encouraged by this by his older brother.",
+    "speaker": null
+  },
+  {
+    "start": 237.84,
+    "end": 240.56,
+    "text": "So I think there was seem to be no holding him back.",
+    "speaker": null
+  },
+  {
+    "start": 240.56,
+    "end": 244,
+    "text": "Once he got the bug, he was encouraged and he made great strides.",
+    "speaker": null
+  },
+  {
+    "start": 245.039,
+    "end": 250.96,
+    "text": "When Penelope Wilson calls Champollion a prodigy, she means someone young with a great natural talent for something, in this case, studying languages.",
+    "speaker": "prodigy"
+  },
+  {
+    "start": 250.96,
+    "end": 257.439,
+    "text": "for something, in this case studying languages. Added to his natural ability was a fascination with",
+    "speaker": null
+  },
+  {
+    "start": 257.439,
+    "end": 265.04,
+    "text": "Added to his natural ability was a fascination with Egypt and the encouragement of his brother, so Champollion soon got the bug – suddenly developed a strong enthusiasm for something.",
+    "speaker": "got the bug"
+  },
+  {
+    "start": 265.04,
+    "end": 271.2,
+    "text": "strong enthusiasm for something. In English we often add a noun to describe exactly what",
+    "speaker": null
+  },
+  {
+    "start": 271.2,
+    "end": 278.16,
+    "text": "In English, we often add a noun to describe exactly what someone is enthusiastic about – so, for example, the skiing bug, for someone who loves to ski.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 278.16,
+    "end": 284.8,
+    "text": "Champollion was so enthusiastic there was no holding him back, an idiom to say that you were doing",
+    "speaker": null
+  },
+  {
+    "start": 284.8,
+    "end": 291.2,
+    "text": "something so eagerly you cannot be stopped. The story goes that he worked so hard deciphering",
+    "speaker": null
+  },
+  {
+    "start": 291.279,
+    "end": 295.759,
+    "text": "hieroglyphs. When he finally finished he ran through the streets of Paris shouting,",
+    "speaker": null
+  },
+  {
+    "start": 295.759,
+    "end": 301.519,
+    "text": "I've done it before collapsing unconscious. Rob, earlier you asked me which",
+    "speaker": null
+  },
+  {
+    "start": 301.519,
+    "end": 305.92,
+    "text": "pharaoh ordered the stone to be written? Yes and what did you say?",
+    "speaker": null
+  },
+  {
+    "start": 306.639,
+    "end": 312.8,
+    "text": "I thought it was Cleopatra, was I right? Well, Cleopatra was from the same dynasty,",
+    "speaker": null
+  },
+  {
+    "start": 312.8,
+    "end": 319.68,
+    "text": "but a little later than the correct answer which was B tolamy. The pharaoh who ruled from around",
+    "speaker": null
+  },
+  {
+    "start": 319.68,
+    "end": 327.04,
+    "text": "300 BCE. Okay, let's recap the vocabulary we've learned, starting with hieroglyphs.",
+    "speaker": null
+  },
+  {
+    "start": 327.759,
+    "end": 334.4,
+    "text": "Symbols used to represent words in ancient Egypt. The challenge was to decipher them,",
+    "speaker": null
+  },
+  {
+    "start": 334.4,
+    "end": 338.879,
+    "text": "The challenge was to decipher them – to uncover the meaning of writing which is difficult to read or understand.",
+    "speaker": "decipher"
+  },
+  {
+    "start": 338.879,
+    "end": 344.399,
+    "text": "Maybe they contained pearls of wisdom - wise words, sayings or advice.",
+    "speaker": "pearls of wisdom"
+  },
+  {
+    "start": 345.039,
+    "end": 351.839,
+    "text": "The hieroglyphic code was finally cracked by Jean-François Champollion, a prodigy or young person",
+    "speaker": null
+  },
+  {
+    "start": 351.839,
+    "end": 358.56,
+    "text": "with a great natural talent. When Champollion got the bug or suddenly became very enthusiastic",
+    "speaker": null
+  },
+  {
+    "start": 358.56,
+    "end": 365.439,
+    "text": "When Champollion got the bug, or suddenly became very enthusiastic about understanding hieroglyphs, there was no holding him back – nothing could stop him from succeeding.",
+    "speaker": "got the bug, there was no holding him back –"
+  },
+  {
+    "start": 365.439,
+    "end": 370.799,
+    "text": "And nothing can stop us from saying goodbye, because our six minutes are up!",
+    "speaker": "Rob"
+  }
+]

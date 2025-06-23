@@ -1,0 +1,614 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.6,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 13.439,
+    "end": 16.48,
+    "text": "Hello, I'm Rob and this is 6 Minute English,",
+    "speaker": null
+  },
+  {
+    "start": 16.48,
+    "end": 19.199,
+    "text": "a programme that brings you an interesting topic,",
+    "speaker": null
+  },
+  {
+    "start": 19.199,
+    "end": 22.4,
+    "text": "authentic listening practice and some vocabulary",
+    "speaker": null
+  },
+  {
+    "start": 22.4,
+    "end": 24.8,
+    "text": "to help you improve your language skills.",
+    "speaker": null
+  },
+  {
+    "start": 24.8,
+    "end": 26.24,
+    "text": "Joining me today is Neil.",
+    "speaker": null
+  },
+  {
+    "start": 26.24,
+    "end": 29.76,
+    "text": "Hello and today we're discussing those pilotless aircraft",
+    "speaker": null
+  },
+  {
+    "start": 29.76,
+    "end": 32.56,
+    "text": "Hello. And today we're discussing those pilotless aircraft that we seem to be hearing and reading a lot about at the moment.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 32.56,
+    "end": 34.32,
+    "text": "Ah, you mean drones.",
+    "speaker": null
+  },
+  {
+    "start": 34.32,
+    "end": 38.48,
+    "text": "And yes, they are in the news quite often for good and bad reasons.",
+    "speaker": null
+  },
+  {
+    "start": 38.48,
+    "end": 41.359,
+    "text": "They've been used for many things from smuggling drugs,",
+    "speaker": null
+  },
+  {
+    "start": 41.359,
+    "end": 44.079,
+    "text": "detecting water leaks and surveillance.",
+    "speaker": null
+  },
+  {
+    "start": 44.079,
+    "end": 48.16,
+    "text": "And surveillance, that means the act of carefully watching someone",
+    "speaker": null
+  },
+  {
+    "start": 48.16,
+    "end": 50.32,
+    "text": "or something, perhaps a criminal.",
+    "speaker": null
+  },
+  {
+    "start": 50.32,
+    "end": 54.16,
+    "text": "But also it means spying, maybe on me and you, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 54.16,
+    "end": 57.52,
+    "text": "So should we be welcoming the rise of the use of drones?",
+    "speaker": null
+  },
+  {
+    "start": 57.6,
+    "end": 60.24,
+    "text": "Well, before I discussion about that takes off,",
+    "speaker": null
+  },
+  {
+    "start": 60.24,
+    "end": 63.359,
+    "text": "Well, before our discussion about that 'takes off', we need to set today's question for you to answer, Neil.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 63.359,
+    "end": 65.92,
+    "text": "What are you droning on about, Rob?",
+    "speaker": null
+  },
+  {
+    "start": 65.92,
+    "end": 67.84,
+    "text": "And by that, I don't mean flying a drone.",
+    "speaker": null
+  },
+  {
+    "start": 67.84,
+    "end": 71.04,
+    "text": "I mean talking too much in a very boring way.",
+    "speaker": null
+  },
+  {
+    "start": 71.04,
+    "end": 73.6,
+    "text": "Thanks, Neil. Now just answer this, will you?",
+    "speaker": null
+  },
+  {
+    "start": 73.6,
+    "end": 77.76,
+    "text": "Drones are sometimes also referred to as UAVs.",
+    "speaker": null
+  },
+  {
+    "start": 77.76,
+    "end": 80.48,
+    "text": "So what does UAV stand for?",
+    "speaker": null
+  },
+  {
+    "start": 80.48,
+    "end": 84.56,
+    "text": "a) Unidentified aerial vehicle",
+    "speaker": "Rob"
+  },
+  {
+    "start": 84.64,
+    "end": 90.48,
+    "text": "Be unmanned aerial vehicle or see unaided aircraft vehicle?",
+    "speaker": null
+  },
+  {
+    "start": 90.48,
+    "end": 94.079,
+    "text": "Well, I'm going to go for be unmanned aerial vehicle.",
+    "speaker": null
+  },
+  {
+    "start": 94.079,
+    "end": 97.28,
+    "text": "Okay, well, we'll see if you're right later on.",
+    "speaker": null
+  },
+  {
+    "start": 97.28,
+    "end": 102.32,
+    "text": "Ok well, we'll see if you're right later on. Now let's talk more about drones, which, apparently, seem to be everywhere now.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 102.32,
+    "end": 104.719,
+    "text": "But are they safe and are they necessary?",
+    "speaker": null
+  },
+  {
+    "start": 105.439,
+    "end": 110.24,
+    "text": "I've heard about them being hazard to aircraft because they've been flown close to airports.",
+    "speaker": null
+  },
+  {
+    "start": 110.24,
+    "end": 113.76,
+    "text": "Well, figures in 2016 showed that in the UK,",
+    "speaker": null
+  },
+  {
+    "start": 113.76,
+    "end": 116.88,
+    "text": "there were 70 near-missies involving drones,",
+    "speaker": null
+  },
+  {
+    "start": 116.88,
+    "end": 119.359,
+    "text": "and that's more than double the year before.",
+    "speaker": null
+  },
+  {
+    "start": 119.359,
+    "end": 120.8,
+    "text": "So that is a little worrying.",
+    "speaker": null
+  },
+  {
+    "start": 121.439,
+    "end": 126.4,
+    "text": "Yes. And there's the potential risk of people's privacy being invaded when a drone is flown over their property with a camera attached to it.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 126.4,
+    "end": 128.719,
+    "text": "their property, with a camera attached to it.",
+    "speaker": null
+  },
+  {
+    "start": 128.719,
+    "end": 133.36,
+    "text": "Oh, but those cameras are also good at capturing some great aerial footage.",
+    "speaker": null
+  },
+  {
+    "start": 133.36,
+    "end": 137.04,
+    "text": "That's the film recording of the view from above the ground.",
+    "speaker": null
+  },
+  {
+    "start": 137.04,
+    "end": 140.719,
+    "text": "So they're not all bad, and Dr. Yogi Patel would agree.",
+    "speaker": null
+  },
+  {
+    "start": 140.8,
+    "end": 145.52,
+    "text": "She is CEO of Blue Bear, which supplies unmanned planes and drones.",
+    "speaker": null
+  },
+  {
+    "start": 145.52,
+    "end": 149.84,
+    "text": "Here she is speaking about drones on the BBC's Woman's Hour programme.",
+    "speaker": null
+  },
+  {
+    "start": 149.84,
+    "end": 152.56,
+    "text": "They have the potential to be dangerous, agreed.",
+    "speaker": null
+  },
+  {
+    "start": 152.56,
+    "end": 159.599,
+    "text": "They also have, though, on the flip side, the ability to be a game-changer in both domestic use",
+    "speaker": null
+  },
+  {
+    "start": 159.599,
+    "end": 161.199,
+    "text": "and in military use.",
+    "speaker": null
+  },
+  {
+    "start": 161.199,
+    "end": 164,
+    "text": "So some of our drones are being used for aircraft inspections.",
+    "speaker": null
+  },
+  {
+    "start": 164,
+    "end": 165.759,
+    "text": "We've put our drones into Fukushima.",
+    "speaker": null
+  },
+  {
+    "start": 166.4,
+    "end": 167.599,
+    "text": "So there you go, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 167.68,
+    "end": 174.719,
+    "text": "There are many useful things drones can do, and Dr. Patel said they have the ability to be a game-changer.",
+    "speaker": null
+  },
+  {
+    "start": 174.719,
+    "end": 179.519,
+    "text": "And by that, you mean something that completely changes the way something's done or thought about?",
+    "speaker": null
+  },
+  {
+    "start": 179.519,
+    "end": 186.479,
+    "text": "Yes. Her company has used drones to inspect the inside of the damaged Fukushima nuclear power station in Japan.",
+    "speaker": null
+  },
+  {
+    "start": 187.12,
+    "end": 191.84,
+    "text": "And another example of drones being a game-changer is UNICEF and the Malawi and government",
+    "speaker": null
+  },
+  {
+    "start": 191.84,
+    "end": 194.959,
+    "text": "testing drones for carrying medical supplies.",
+    "speaker": null
+  },
+  {
+    "start": 194.96,
+    "end": 197.68,
+    "text": "This could help save lives in remote places.",
+    "speaker": null
+  },
+  {
+    "start": 197.68,
+    "end": 201.6,
+    "text": "And I've read that in Australia, lifeguards are using drones to help rescue",
+    "speaker": null
+  },
+  {
+    "start": 201.6,
+    "end": 203.92,
+    "text": "swimmers who get in trouble in the sea.",
+    "speaker": null
+  },
+  {
+    "start": 203.92,
+    "end": 209.2,
+    "text": "And have you heard about a Japanese firm that's planning to use a drone to force employees out of their offices by playing music at them if they stay to work evening overtime.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 209.2,
+    "end": 214.319,
+    "text": "out of their offices by playing music at them if they stay to work evening overtime?",
+    "speaker": null
+  },
+  {
+    "start": 214.319,
+    "end": 216.08,
+    "text": "I haven't, but you've convinced me.",
+    "speaker": null
+  },
+  {
+    "start": 216.08,
+    "end": 219.36,
+    "text": "It seems like the sky's the limit for the uses of drones.",
+    "speaker": null
+  },
+  {
+    "start": 219.36,
+    "end": 221.439,
+    "text": "I mean, there's no limit to what they can do.",
+    "speaker": null
+  },
+  {
+    "start": 222.079,
+    "end": 226,
+    "text": "But I am a little concerned about how they're regulated or controlled.",
+    "speaker": null
+  },
+  {
+    "start": 226,
+    "end": 229.759,
+    "text": "Well, Dr. Yogi Patel says because the technology is new,",
+    "speaker": null
+  },
+  {
+    "start": 229.759,
+    "end": 233.759,
+    "text": "Well Dr Yoge Patel says because the technology is new, regulations – or legal controls - are developing all the time…",
+    "speaker": "Rob"
+  },
+  {
+    "start": 234.8,
+    "end": 240.639,
+    "text": "As technology progresses, regulation and operational use needs to then be harmonised with it.",
+    "speaker": null
+  },
+  {
+    "start": 240.639,
+    "end": 244.56,
+    "text": "And we are, as a community, going through that whole process of saying,",
+    "speaker": null
+  },
+  {
+    "start": 244.56,
+    "end": 251.039,
+    "text": "what is proportionate and appropriate regulation to go with different uses of drones?",
+    "speaker": null
+  },
+  {
+    "start": 251.039,
+    "end": 255.519,
+    "text": "So she talked about regulations being harmonised as technology progresses.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 255.519,
+    "end": 261.599,
+    "text": "So I think she means ‘making regulations suitable and appropriate for what the drones are being used for’. So they need some control, but not so they can't be useful and effective.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 261.599,
+    "end": 265.92,
+    "text": "So they need some control, but not so they can't be useful and effective.",
+    "speaker": null
+  },
+  {
+    "start": 265.92,
+    "end": 268.879,
+    "text": "Like flying drones to stop you working late.",
+    "speaker": null
+  },
+  {
+    "start": 268.879,
+    "end": 271.839,
+    "text": "Like flying drones to stop you working late! Now Rob, I'm dying to know what the other name for a drone is.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 271.839,
+    "end": 273.12,
+    "text": "Okay, well, let me tell you.",
+    "speaker": null
+  },
+  {
+    "start": 273.12,
+    "end": 276.719,
+    "text": "So earlier, I asked you, what does UAV stand for?",
+    "speaker": null
+  },
+  {
+    "start": 276.719,
+    "end": 279.839,
+    "text": "Was it an identified aerial vehicle?",
+    "speaker": null
+  },
+  {
+    "start": 279.839,
+    "end": 285.119,
+    "text": "B. Unmanned Aerial Vehicle or C. Unaded Aircraft Vehicle.",
+    "speaker": null
+  },
+  {
+    "start": 285.119,
+    "end": 288.159,
+    "text": "And I said b) – was that correct?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 288.159,
+    "end": 291.519,
+    "text": "Yes, Neil. You know your drones. That's correct. Well done.",
+    "speaker": null
+  },
+  {
+    "start": 292.079,
+    "end": 296.559,
+    "text": "UAVs or drones have been around for quite a while in different forms.",
+    "speaker": null
+  },
+  {
+    "start": 296.559,
+    "end": 302.559,
+    "text": "It's thought they were first used for providing practice targets for training military personnel.",
+    "speaker": null
+  },
+  {
+    "start": 302.559,
+    "end": 306.799,
+    "text": "Okay, Neil, let's quickly go over some of the vocabulary we have mentioned today,",
+    "speaker": null
+  },
+  {
+    "start": 306.799,
+    "end": 308.799,
+    "text": "starting with surveillance.",
+    "speaker": null
+  },
+  {
+    "start": 308.8,
+    "end": 314.16,
+    "text": "The police kept the jewelry shop under surveillance because they had a tip-off about a robbery.",
+    "speaker": null
+  },
+  {
+    "start": 314.16,
+    "end": 316.96,
+    "text": "So that means carefully watching someone or something,",
+    "speaker": null
+  },
+  {
+    "start": 316.96,
+    "end": 319.68,
+    "text": "usually to try to stop something illegal.",
+    "speaker": null
+  },
+  {
+    "start": 320.48,
+    "end": 324.72,
+    "text": "Then we mentioned aerial footage – that's film recording made from the sky. \"The aerial footage on TV of the dolphins swimming was spectacular.\"",
+    "speaker": "Rob"
+  },
+  {
+    "start": 325.28,
+    "end": 329.36,
+    "text": "The aerial footage on TV of the Dolphin Swimming was spectacular.",
+    "speaker": null
+  },
+  {
+    "start": 329.36,
+    "end": 333.759,
+    "text": "Yes, drones have been a game changer for wildlife programs on TV.",
+    "speaker": null
+  },
+  {
+    "start": 333.759,
+    "end": 338.24,
+    "text": "Yes, drones have been a game changer for wildlife programmes on TV. That means ‘something that completely changes the way something is done or thought about’.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 338.8,
+    "end": 341.759,
+    "text": "We also mentioned the phrase the sky is the limit,",
+    "speaker": null
+  },
+  {
+    "start": 341.759,
+    "end": 343.68,
+    "text": "meaning there's no limit to something.",
+    "speaker": null
+  },
+  {
+    "start": 343.68,
+    "end": 347.36,
+    "text": "The sky is the limit to what professional footballers can earn these days.",
+    "speaker": null
+  },
+  {
+    "start": 347.36,
+    "end": 351.92,
+    "text": "Then we discussed harmonized. That describes two things being suitable for each other",
+    "speaker": null
+  },
+  {
+    "start": 351.92,
+    "end": 354.08,
+    "text": "to allow them to work properly.",
+    "speaker": null
+  },
+  {
+    "start": 354.08,
+    "end": 357.84,
+    "text": "The garden has been designed to harmonize with the natural landscape.",
+    "speaker": null
+  },
+  {
+    "start": 358.879,
+    "end": 360.879,
+    "text": "Very useful vocabulary, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 360.879,
+    "end": 362.56,
+    "text": "But let's stop droning on.",
+    "speaker": null
+  },
+  {
+    "start": 362.56,
+    "end": 365.28,
+    "text": "And that means talking too much in a boring way.",
+    "speaker": null
+  },
+  {
+    "start": 365.279,
+    "end": 370.159,
+    "text": "And remind everyone to check out our YouTube, Facebook, Twitter and Instagram pages.",
+    "speaker": null
+  },
+  {
+    "start": 370.159,
+    "end": 373.839,
+    "text": "And of course our website at bbclearningenglish.com.",
+    "speaker": null
+  },
+  {
+    "start": 373.839,
+    "end": 375.599,
+    "text": "See you next time. Goodbye. Goodbye.",
+    "speaker": null
+  }
+]

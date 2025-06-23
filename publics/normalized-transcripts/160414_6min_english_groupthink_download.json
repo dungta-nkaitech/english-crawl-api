@@ -1,0 +1,608 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.6,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.6,
+    "end": 8.24,
+    "text": "6MtEnglish",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 10.88,
+    "text": "From BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 12.16,
+    "end": 15.599,
+    "text": "Hello and welcome to 6 Minute English. I'm Sophie…",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 15.599,
+    "end": 19.76,
+    "text": "And I'm Neil. Here's a coffee Sophie",
+    "speaker": null
+  },
+  {
+    "start": 19.76,
+    "end": 23.44,
+    "text": "Neil, remember that staff meeting we had yesterday?",
+    "speaker": null
+  },
+  {
+    "start": 23.44,
+    "end": 26.56,
+    "text": "Why did you agree to having Deak have coffee in the kitchen",
+    "speaker": null
+  },
+  {
+    "start": 26.56,
+    "end": 29.28,
+    "text": "when I know you don't like it and neither do I?",
+    "speaker": null
+  },
+  {
+    "start": 29.28,
+    "end": 31.839,
+    "text": "I know. It's just that the boss said that Deak",
+    "speaker": null
+  },
+  {
+    "start": 31.839,
+    "end": 34.88,
+    "text": "caffeinated coffee, that's coffee with the caffeine removed.",
+    "speaker": null
+  },
+  {
+    "start": 34.88,
+    "end": 37.28,
+    "text": "It was a good idea, healthier you know.",
+    "speaker": null
+  },
+  {
+    "start": 37.28,
+    "end": 40.32,
+    "text": "And then everyone else agreed and I, I don't know,",
+    "speaker": null
+  },
+  {
+    "start": 40.32,
+    "end": 43.28,
+    "text": "I just felt uncomfortable disagreeing with everyone.",
+    "speaker": null
+  },
+  {
+    "start": 43.28,
+    "end": 45.52,
+    "text": "Well it's interesting you should say that Neil.",
+    "speaker": null
+  },
+  {
+    "start": 45.52,
+    "end": 47.92,
+    "text": "Group Think is the subject of today's show.",
+    "speaker": null
+  },
+  {
+    "start": 48.719,
+    "end": 51.84,
+    "text": "Group Think refers to the type of bad decisions we make",
+    "speaker": null
+  },
+  {
+    "start": 51.84,
+    "end": 56,
+    "text": "when we are in a group. Decisions that are contrary to",
+    "speaker": null
+  },
+  {
+    "start": 56,
+    "end": 58.24,
+    "text": "or against what we really think.",
+    "speaker": null
+  },
+  {
+    "start": 58.88,
+    "end": 62.719,
+    "text": "A psychology experiment conducted in the 1950s",
+    "speaker": null
+  },
+  {
+    "start": 62.719,
+    "end": 65.519,
+    "text": "showed that a lot of people do exactly that.",
+    "speaker": null
+  },
+  {
+    "start": 65.519,
+    "end": 67.84,
+    "text": "They submit to the will of the group.",
+    "speaker": null
+  },
+  {
+    "start": 67.84,
+    "end": 69.92,
+    "text": "But before we hear more about this,",
+    "speaker": null
+  },
+  {
+    "start": 69.92,
+    "end": 72.64,
+    "text": "now would be a good time for today's quiz question",
+    "speaker": null
+  },
+  {
+    "start": 72.64,
+    "end": 74.48,
+    "text": "and I get to ask you Sophie.",
+    "speaker": null
+  },
+  {
+    "start": 74.48,
+    "end": 76.159,
+    "text": "Okay, what is it?",
+    "speaker": null
+  },
+  {
+    "start": 76.159,
+    "end": 79.76,
+    "text": "In which story by Hans Christian Andersen does a young boy",
+    "speaker": null
+  },
+  {
+    "start": 79.76,
+    "end": 84.64,
+    "text": "In which story by Hans Christian Andersen does a young boy dare to tell the truth when everyone else goes along with an obvious lie? Is it…",
+    "speaker": "Neil"
+  },
+  {
+    "start": 84.64,
+    "end": 87.2,
+    "text": "a) The Red Shoes",
+    "speaker": "Neil"
+  },
+  {
+    "start": 87.2,
+    "end": 91.12,
+    "text": "Or c) The Emperor's New Clothes",
+    "speaker": "Neil"
+  },
+  {
+    "start": 91.76,
+    "end": 95.76,
+    "text": "Okay, I think it's C, the emperor's new clothes.",
+    "speaker": null
+  },
+  {
+    "start": 95.76,
+    "end": 99.439,
+    "text": "Well, we'll find out later on in the show if that's right or not.",
+    "speaker": null
+  },
+  {
+    "start": 99.439,
+    "end": 104.32,
+    "text": "Now, the psychologist Solomon Ash is well known for his conformity experiments",
+    "speaker": null
+  },
+  {
+    "start": 104.32,
+    "end": 108.32,
+    "text": "from the 1950s. Can you tell us what conformity means please Sophie?",
+    "speaker": null
+  },
+  {
+    "start": 108.96,
+    "end": 113.68,
+    "text": "Conformity means behavior that is the same as the way most other people behave.",
+    "speaker": null
+  },
+  {
+    "start": 114.4,
+    "end": 117.52,
+    "text": "Ash's main finding was that group pressure",
+    "speaker": null
+  },
+  {
+    "start": 117.52,
+    "end": 121.36,
+    "text": "can change a person's opinion of even obvious facts.",
+    "speaker": null
+  },
+  {
+    "start": 121.36,
+    "end": 123.6,
+    "text": "And what did this ash test involve?",
+    "speaker": null
+  },
+  {
+    "start": 124.24,
+    "end": 128.719,
+    "text": "123 male participants were shown a card with a line on it,",
+    "speaker": null
+  },
+  {
+    "start": 129.439,
+    "end": 132.64,
+    "text": "followed by another card with three lines on it.",
+    "speaker": null
+  },
+  {
+    "start": 132.64,
+    "end": 136,
+    "text": "The participants were then asked to say which line",
+    "speaker": null
+  },
+  {
+    "start": 136,
+    "end": 138.56,
+    "text": "matched the line on the first card in length.",
+    "speaker": null
+  },
+  {
+    "start": 139.6,
+    "end": 141.6,
+    "text": "The right answer was plain to see,",
+    "speaker": null
+  },
+  {
+    "start": 141.599,
+    "end": 145.68,
+    "text": "but the participants felt pressurised into saying the wrong answer.",
+    "speaker": null
+  },
+  {
+    "start": 145.68,
+    "end": 147.28,
+    "text": "Why would they do that?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 147.28,
+    "end": 151.12,
+    "text": "Because the majority of people taking part in the experiment",
+    "speaker": null
+  },
+  {
+    "start": 151.12,
+    "end": 153.439,
+    "text": "have been told to give the wrong answer.",
+    "speaker": null
+  },
+  {
+    "start": 154,
+    "end": 156.56,
+    "text": "Let's hear Professor Nick Chaiter's explanation.",
+    "speaker": null
+  },
+  {
+    "start": 157.28,
+    "end": 160.319,
+    "text": "He works at the Warwick Business School here in the UK.",
+    "speaker": null
+  },
+  {
+    "start": 162.24,
+    "end": 168.56,
+    "text": "By the time it comes to you, a whole list of people have said something plainly wrong.",
+    "speaker": null
+  },
+  {
+    "start": 168.56,
+    "end": 172.08,
+    "text": "And you are either going to have to fold and say, well, I just agree with them,",
+    "speaker": null
+  },
+  {
+    "start": 172.08,
+    "end": 176.159,
+    "text": "or you're going to rather uncomfortably say, well, I think it's one actually.",
+    "speaker": null
+  },
+  {
+    "start": 176.159,
+    "end": 178.56,
+    "text": "And most people most of the time tend to fold.",
+    "speaker": null
+  },
+  {
+    "start": 179.12,
+    "end": 184.319,
+    "text": "Professor Nick Chaiter uses the word fold, which means you give up.",
+    "speaker": null
+  },
+  {
+    "start": 184.879,
+    "end": 189.039,
+    "text": "But Sophie, if people are uncomfortable about supporting the wrong answer",
+    "speaker": null
+  },
+  {
+    "start": 189.039,
+    "end": 192.4,
+    "text": "or something they don't believe in, why do they do it?",
+    "speaker": null
+  },
+  {
+    "start": 192.4,
+    "end": 196.319,
+    "text": "Because even though we might feel uncomfortable going along with",
+    "speaker": null
+  },
+  {
+    "start": 196.319,
+    "end": 201.199,
+    "text": "or agreeing with something we don't believe, we're even more uncomfortable",
+    "speaker": null
+  },
+  {
+    "start": 201.199,
+    "end": 203.199,
+    "text": "about disagreeing with the group.",
+    "speaker": null
+  },
+  {
+    "start": 203.199,
+    "end": 206.479,
+    "text": "Well, I didn't realise that people were such sheep.",
+    "speaker": null
+  },
+  {
+    "start": 206.479,
+    "end": 208.719,
+    "text": "I have a will of steel, Sophie.",
+    "speaker": null
+  },
+  {
+    "start": 208.719,
+    "end": 210.159,
+    "text": "Haha, that's right.",
+    "speaker": null
+  },
+  {
+    "start": 211.28,
+    "end": 218.24,
+    "text": "Is that right? So, your will of steel – or strong determination – somehow melted away in the staff meeting yesterday, I suppose?",
+    "speaker": "will of steel"
+  },
+  {
+    "start": 218.24,
+    "end": 219.439,
+    "text": "yes, did I suppose?",
+    "speaker": null
+  },
+  {
+    "start": 219.439,
+    "end": 222.799,
+    "text": "Ah, well, of course, yes, please.",
+    "speaker": null
+  },
+  {
+    "start": 222.88,
+    "end": 227.68,
+    "text": "Let's move on and consider briefly how social media encourages group things.",
+    "speaker": null
+  },
+  {
+    "start": 227.68,
+    "end": 231.76,
+    "text": "Yes, there's a real danger with something like, for example, the Twitter,",
+    "speaker": null
+  },
+  {
+    "start": 231.76,
+    "end": 236.48,
+    "text": "the social networking service, because when an opinion on Twitter starts to trend,",
+    "speaker": null
+  },
+  {
+    "start": 236.48,
+    "end": 240.96,
+    "text": "it can take on a momentum of its own and people adopt it simply because it's popular,",
+    "speaker": null
+  },
+  {
+    "start": 240.96,
+    "end": 242.56,
+    "text": "not because they really believe it.",
+    "speaker": null
+  },
+  {
+    "start": 243.2,
+    "end": 247.68,
+    "text": "And momentum means a force that keeps something going once it has started.",
+    "speaker": null
+  },
+  {
+    "start": 248.56,
+    "end": 251.28,
+    "text": "Let's hear from journalist and author John Ronson.",
+    "speaker": null
+  },
+  {
+    "start": 251.919,
+    "end": 254.08,
+    "text": "He has an interesting opinion about this.",
+    "speaker": null
+  },
+  {
+    "start": 255.52,
+    "end": 261.519,
+    "text": "One of the ironies here is that on social media, we all like to see ourselves as non-conformists,",
+    "speaker": null
+  },
+  {
+    "start": 262.16,
+    "end": 268.24,
+    "text": "but when we all get together in a group, what we're doing is using our individual non-conformity",
+    "speaker": null
+  },
+  {
+    "start": 268.24,
+    "end": 270.399,
+    "text": "to create a more conformist world.",
+    "speaker": null
+  },
+  {
+    "start": 270.959,
+    "end": 278,
+    "text": "So if somebody steps out of line, all us non-conformists in this frightened conformist way",
+    "speaker": null
+  },
+  {
+    "start": 278,
+    "end": 286.16,
+    "text": "tear them apart, it's like we're defining the boundaries of normality by tearing apart the people",
+    "speaker": null
+  },
+  {
+    "start": 286.16,
+    "end": 287.12,
+    "text": "on the outside.",
+    "speaker": null
+  },
+  {
+    "start": 287.92,
+    "end": 291.279,
+    "text": "John Ronson, are you a non-conformist then Neil?",
+    "speaker": null
+  },
+  {
+    "start": 291.92,
+    "end": 294.959,
+    "text": "Jon Ronson. Are you a nonconformist then, Neil – someone who thinks and behaves differently from other people?",
+    "speaker": "nonconformist"
+  },
+  {
+    "start": 294.959,
+    "end": 297.6,
+    "text": "I'm not the type that John Ronson's describing.",
+    "speaker": null
+  },
+  {
+    "start": 297.6,
+    "end": 302.48,
+    "text": "One who joins up with other so-called non-conformists to bully people with different views.",
+    "speaker": null
+  },
+  {
+    "start": 303.279,
+    "end": 307.519,
+    "text": "Now, remember I asked you earlier, in which story by Hans Christian Anderson",
+    "speaker": null
+  },
+  {
+    "start": 307.599,
+    "end": 313.199,
+    "text": "does a young boy dare to tell the truth when everyone else goes along with an obvious lie?",
+    "speaker": null
+  },
+  {
+    "start": 313.199,
+    "end": 318.639,
+    "text": "Is it A, the red shoes, B, the snow queen, or C, the emperor's new clothes?",
+    "speaker": null
+  },
+  {
+    "start": 319.199,
+    "end": 321.759,
+    "text": "I guess C, the emperor's new clothes.",
+    "speaker": null
+  },
+  {
+    "start": 321.759,
+    "end": 322.56,
+    "text": "And you were?",
+    "speaker": null
+  },
+  {
+    "start": 323.839,
+    "end": 324.479,
+    "text": "Right, so you think?",
+    "speaker": null
+  },
+  {
+    "start": 324.479,
+    "end": 325.279,
+    "text": "Yay!",
+    "speaker": null
+  },
+  {
+    "start": 325.279,
+    "end": 330.56,
+    "text": "The emperor's new clothes is a story by Hans Christian Anderson about two weavers who promise",
+    "speaker": null
+  },
+  {
+    "start": 330.56,
+    "end": 336.159,
+    "text": "an emperor a new suit of clothes that is invisible to those who are stupid or incompetent.",
+    "speaker": null
+  },
+  {
+    "start": 336.96,
+    "end": 342.08,
+    "text": "No one dares to say that he doesn't see any suit of clothes and sort of child cries out,",
+    "speaker": null
+  },
+  {
+    "start": 342.08,
+    "end": 343.92,
+    "text": "but he isn't wearing anything at all.",
+    "speaker": null
+  },
+  {
+    "start": 343.92,
+    "end": 346.8,
+    "text": "It's a great story and a lesson to us all.",
+    "speaker": null
+  },
+  {
+    "start": 347.439,
+    "end": 349.84,
+    "text": "Now, can we hear the words we learnt today please?",
+    "speaker": null
+  },
+  {
+    "start": 349.84,
+    "end": 356.24,
+    "text": "They are decaffeinated, group think, contrary to conformity,",
+    "speaker": null
+  },
+  {
+    "start": 356.96,
+    "end": 363.6,
+    "text": "fold, going along with, will of steel, momentum, non-conformist.",
+    "speaker": null
+  },
+  {
+    "start": 364.4,
+    "end": 367.12,
+    "text": "Well, that's the end of today's six-minute English.",
+    "speaker": null
+  },
+  {
+    "start": 367.12,
+    "end": 369.28,
+    "text": "Don't forget to join us again soon.",
+    "speaker": null
+  },
+  {
+    "start": 369.28,
+    "end": 370.08,
+    "text": "Bye.",
+    "speaker": "Both"
+  }
+]

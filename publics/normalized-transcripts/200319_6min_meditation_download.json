@@ -1,0 +1,560 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 12.4,
+    "end": 16.24,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 16.24,
+    "end": 17.199,
+    "text": "And I’m Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 17.199,
+    "end": 18.879,
+    "text": "How do you relax, Sam?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 18.879,
+    "end": 22.4,
+    "text": "Well, I love watching movies and I go swimming.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 22.4,
+    "end": 26.56,
+    "text": "One thing that millions of people around the world do is meditate to relax,",
+    "speaker": null
+  },
+  {
+    "start": 26.56,
+    "end": 28.8,
+    "text": "and that's the subject of our programme.",
+    "speaker": null
+  },
+  {
+    "start": 28.8,
+    "end": 32.079,
+    "text": "We'll be looking at experiments by scientists in the US",
+    "speaker": null
+  },
+  {
+    "start": 32.079,
+    "end": 34.32,
+    "text": "into the Buddhist practice of meditation.",
+    "speaker": null
+  },
+  {
+    "start": 34.88,
+    "end": 40.799,
+    "text": "We'll find out how Tibetan monks use meditation techniques to focus better and manage their emotions.",
+    "speaker": null
+  },
+  {
+    "start": 40.799,
+    "end": 43.76,
+    "text": "But what exactly is meditation?",
+    "speaker": null
+  },
+  {
+    "start": 43.76,
+    "end": 47.84,
+    "text": "But what exactly is meditation? People just sitting cross-legged on the floor, thinking of nothing?!",
+    "speaker": "Sam"
+  },
+  {
+    "start": 47.84,
+    "end": 50,
+    "text": "Well, I think there's a bit more to it than that.",
+    "speaker": null
+  },
+  {
+    "start": 50,
+    "end": 53.04,
+    "text": "After all, Buddhist meditation is an ancient practice,",
+    "speaker": null
+  },
+  {
+    "start": 53.04,
+    "end": 54.88,
+    "text": "even science, according to some,",
+    "speaker": null
+  },
+  {
+    "start": 54.88,
+    "end": 58,
+    "text": "Tibetan Buddhism, as embodied by the Dalai Lama,",
+    "speaker": null
+  },
+  {
+    "start": 58,
+    "end": 61.359,
+    "text": "is what many people think of when you mention meditation,",
+    "speaker": null
+  },
+  {
+    "start": 61.359,
+    "end": 63.52,
+    "text": "which brings me to my quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 63.52,
+    "end": 64.56,
+    "text": "Which is..?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 64.56,
+    "end": 68.159,
+    "text": "What is the meaning of the Tibetan word for ‘meditation’? Is it…",
+    "speaker": "Neil"
+  },
+  {
+    "start": 68.159,
+    "end": 73.359,
+    "text": "Is it A to relax, B to feel blissful or C to become familiar?",
+    "speaker": null
+  },
+  {
+    "start": 74.079,
+    "end": 78.96,
+    "text": "I think it must be either A to relax or B to feel blissful,",
+    "speaker": null
+  },
+  {
+    "start": 78.96,
+    "end": 82,
+    "text": "because they sound like positive states of mind.",
+    "speaker": null
+  },
+  {
+    "start": 82.079,
+    "end": 86,
+    "text": "But I'm not sure about calling meditation a science, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 86,
+    "end": 89.599,
+    "text": "Isn't it more like a philosophy or a lifestyle?",
+    "speaker": null
+  },
+  {
+    "start": 89.599,
+    "end": 94.159,
+    "text": "Not according to Professor Richard Davidson of the Centre for Healthy Minds.",
+    "speaker": null
+  },
+  {
+    "start": 94.159,
+    "end": 99.359,
+    "text": "He spoke to Alejandra Martins of the BBC World Service programme Witness History",
+    "speaker": null
+  },
+  {
+    "start": 99.359,
+    "end": 102.319,
+    "text": "about his remarkable scientific experiment,",
+    "speaker": null
+  },
+  {
+    "start": 102.319,
+    "end": 106.799,
+    "text": "which proved for the first time that meditation can actually change the brain.",
+    "speaker": null
+  },
+  {
+    "start": 106.799,
+    "end": 109.599,
+    "text": "When I first met his holiness, the Dalai Lama,",
+    "speaker": null
+  },
+  {
+    "start": 109.599,
+    "end": 115.039,
+    "text": "it was 1972, he challenged me, and he said,",
+    "speaker": null
+  },
+  {
+    "start": 115.039,
+    "end": 121.439,
+    "text": "I understand that you've been using tools of modern neuroscience to study anxiety and depression.",
+    "speaker": null
+  },
+  {
+    "start": 122.159,
+    "end": 127.199,
+    "text": "Why can't you use those same tools to study kindness and to study compassion?",
+    "speaker": null
+  },
+  {
+    "start": 128.079,
+    "end": 133.439,
+    "text": "Neuroscience is the scientific study of the workings of the human brain and nervous system.",
+    "speaker": null
+  },
+  {
+    "start": 133.439,
+    "end": 137.359,
+    "text": "Professor Davidson measured negative mental states like depression,",
+    "speaker": null
+  },
+  {
+    "start": 137.36,
+    "end": 140.96,
+    "text": "in contrast to positive attitudes such as compassion.",
+    "speaker": null
+  },
+  {
+    "start": 140.96,
+    "end": 144,
+    "text": "That's the wish for everyone to be free from suffering.",
+    "speaker": null
+  },
+  {
+    "start": 144,
+    "end": 150.32,
+    "text": "Right. In his test, Buddhist monks sent out loving thoughts to everyone equally – to friends, enemies and strangers as well as to themselves.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 150.32,
+    "end": 154.64,
+    "text": "to friends, enemies and strangers, as well as to themselves.",
+    "speaker": null
+  },
+  {
+    "start": 154.64,
+    "end": 158.72,
+    "text": "Compassionate thoughts such as ‘May you be happy and peaceful’, ‘May you not suffer’. And the results were astonishing!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 158.72,
+    "end": 162.24,
+    "text": "May you not suffer, and the results were astonishing.",
+    "speaker": null
+  },
+  {
+    "start": 162.24,
+    "end": 163.52,
+    "text": "What did they show, Neil?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 163.52,
+    "end": 166.48,
+    "text": "Very high levels of gamma oscillations.",
+    "speaker": null
+  },
+  {
+    "start": 166.479,
+    "end": 171.439,
+    "text": "Now that's brain waves showing increased connections between different parts of the brain.",
+    "speaker": null
+  },
+  {
+    "start": 171.439,
+    "end": 175.28,
+    "text": "This is what you or I might experience as a flash of insight,",
+    "speaker": null
+  },
+  {
+    "start": 175.28,
+    "end": 178.239,
+    "text": "a moment of sudden understanding and clarity.",
+    "speaker": null
+  },
+  {
+    "start": 178.239,
+    "end": 181.28,
+    "text": "For us, it might last less than a second,",
+    "speaker": null
+  },
+  {
+    "start": 181.28,
+    "end": 185.599,
+    "text": "but for these experienced Buddhist monks, the gamma waves lasted minutes.",
+    "speaker": null
+  },
+  {
+    "start": 185.599,
+    "end": 188.239,
+    "text": "Furthermore, as Richard Davidson explains,",
+    "speaker": null
+  },
+  {
+    "start": 188.239,
+    "end": 192.319,
+    "text": "brain changes as a result of meditation can be long-lasting.",
+    "speaker": null
+  },
+  {
+    "start": 192.799,
+    "end": 199.919,
+    "text": "There is no question at this point in time based upon the current science that has been",
+    "speaker": null
+  },
+  {
+    "start": 199.919,
+    "end": 207.359,
+    "text": "conducted over the last ten years that meditation can change the brain in enduring ways.",
+    "speaker": null
+  },
+  {
+    "start": 208.079,
+    "end": 212.079,
+    "text": "And the circuits that are involved are multiple,",
+    "speaker": null
+  },
+  {
+    "start": 212.079,
+    "end": 217.599,
+    "text": "but they include circuits that are important for regulating attention and regulating emotion.",
+    "speaker": null
+  },
+  {
+    "start": 218.4,
+    "end": 225.199,
+    "text": "So this was proof of neuroplasticity, our brain's ability to change in response to conscious",
+    "speaker": null
+  },
+  {
+    "start": 225.199,
+    "end": 231.039,
+    "text": "effort. In other words, the meditating monks were intentionally reshaping their minds.",
+    "speaker": null
+  },
+  {
+    "start": 231.039,
+    "end": 234.4,
+    "text": "And this was possible because the brain circuits,",
+    "speaker": null
+  },
+  {
+    "start": 234.4,
+    "end": 238.079,
+    "text": "different parts of the brain responsible for different functions,",
+    "speaker": null
+  },
+  {
+    "start": 238.799,
+    "end": 243.599,
+    "text": "start talking to each other in new ways that created enduring,",
+    "speaker": null
+  },
+  {
+    "start": 243.599,
+    "end": 246.079,
+    "text": "meaning long-lasting, changes.",
+    "speaker": null
+  },
+  {
+    "start": 246.08,
+    "end": 249.44,
+    "text": "The meditators gained insight into how their minds work.",
+    "speaker": null
+  },
+  {
+    "start": 249.44,
+    "end": 253.76,
+    "text": "The meditators gained insight into how their minds work. They were more focused and emotionally balanced and less likely to get upset. How cool is that?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 253.76,
+    "end": 255.04,
+    "text": "How cool is that?",
+    "speaker": null
+  },
+  {
+    "start": 255.04,
+    "end": 258.72,
+    "text": "Pretty cool, but these two massive monks sound like Buddhas.",
+    "speaker": null
+  },
+  {
+    "start": 258.72,
+    "end": 262.319,
+    "text": "They spend thousands of hours sitting in meditation.",
+    "speaker": null
+  },
+  {
+    "start": 262.319,
+    "end": 264.72,
+    "text": "I've got to go to work, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 264.72,
+    "end": 266.56,
+    "text": "What good is meditation to me?",
+    "speaker": null
+  },
+  {
+    "start": 266.56,
+    "end": 271.36,
+    "text": "Well, Sam, in fact the experiment showed that 30 minutes of meditation a day significantly increased feelings of loving kindness in new meditators too!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 271.36,
+    "end": 276.08,
+    "text": "significantly increased feelings of loving kindness in the new meditators too.",
+    "speaker": null
+  },
+  {
+    "start": 276.08,
+    "end": 279.36,
+    "text": "Okay, maybe I'll give meditation a go after all.",
+    "speaker": null
+  },
+  {
+    "start": 279.36,
+    "end": 283.199,
+    "text": "But not before I find out the answer to today's quiz, please.",
+    "speaker": null
+  },
+  {
+    "start": 283.199,
+    "end": 286.639,
+    "text": "Yes, I asked you what the Tibetan word for ‘meditation’ meant.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 286.639,
+    "end": 291.36,
+    "text": "And I said either A, to relax, or B, to feel blissful,",
+    "speaker": null
+  },
+  {
+    "start": 291.36,
+    "end": 295.199,
+    "text": "And I said either a) to relax, or b) to feel blissful. And I’m feeling pretty confident of getting it right this time, Neil.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 295.199,
+    "end": 298.639,
+    "text": "Well, Sam, if the answer came to you in a flash of insight,",
+    "speaker": null
+  },
+  {
+    "start": 298.639,
+    "end": 303.519,
+    "text": "and I'm afraid you need more practice, because the correct answer is C,",
+    "speaker": null
+  },
+  {
+    "start": 303.519,
+    "end": 307.599,
+    "text": "to become familiar, in this case, with more positive thoughts and emotions.",
+    "speaker": null
+  },
+  {
+    "start": 307.599,
+    "end": 311.519,
+    "text": "Ah, you mean emotions like kindness and compassion?",
+    "speaker": null
+  },
+  {
+    "start": 312.24,
+    "end": 316,
+    "text": "The thought wishing everyone to be free from their problems.",
+    "speaker": null
+  },
+  {
+    "start": 316,
+    "end": 318.56,
+    "text": "What other vocabulary did we learn today, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 318.56,
+    "end": 321.599,
+    "text": "Well, it turns out meditation is actually a science,",
+    "speaker": null
+  },
+  {
+    "start": 321.599,
+    "end": 326,
+    "text": "neuroscience, in fact, which is the study of the human brain and nervous system.",
+    "speaker": null
+  },
+  {
+    "start": 326.639,
+    "end": 331.92,
+    "text": "Meditation experiments proved neuroplasticity, the brain's ability to restructure.",
+    "speaker": null
+  },
+  {
+    "start": 332.72,
+    "end": 336.399,
+    "text": "By generating and sending out the compassionate wish,",
+    "speaker": null
+  },
+  {
+    "start": 336.399,
+    "end": 342.319,
+    "text": "may all beings be happy, Buddhist meditators change their brain circuits,",
+    "speaker": null
+  },
+  {
+    "start": 342.319,
+    "end": 345.519,
+    "text": "different parts of the brain responsible for different functions.",
+    "speaker": null
+  },
+  {
+    "start": 346.16,
+    "end": 352.48,
+    "text": "And this is an enduring change, meaning it lasts and increases over a long period of time.",
+    "speaker": null
+  },
+  {
+    "start": 352.56,
+    "end": 356.48,
+    "text": "I must say, Sam, you took it pretty well when you guessed the wrong answer just then.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 356.48,
+    "end": 361.68,
+    "text": "Thanks, Neil. I don’t like getting upset, so I’m trying out some breathing meditation! Breathing in the positive, breathing out the negative…",
+    "speaker": "Sam"
+  },
+  {
+    "start": 362.319,
+    "end": 366.48,
+    "text": "breathing in the positive, breathing out the negative.",
+    "speaker": null
+  },
+  {
+    "start": 366.48,
+    "end": 372.48,
+    "text": "Join us again soon for another interesting discussion on six-minute English from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 372.48,
+    "end": 373.6,
+    "text": "Bye for now. Bye-bye.",
+    "speaker": null
+  }
+]

@@ -1,0 +1,758 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.279,
+    "text": "6 Minute English.",
+    "speaker": null
+  },
+  {
+    "start": 8.279,
+    "end": 10.88,
+    "text": "From BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 13.439,
+    "end": 16.199,
+    "text": "Hello and welcome to 6 Minute English. I'm Neil.",
+    "speaker": null
+  },
+  {
+    "start": 16.199,
+    "end": 17.24,
+    "text": "And I'm Rob.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 17.24,
+    "end": 20.16,
+    "text": "Now Rob, Can you complete this saying: “Love and marriage go together like ….”",
+    "speaker": "Neil"
+  },
+  {
+    "start": 20.16,
+    "end": 22.96,
+    "text": "Love and marriage go together like… a horse and carriage!",
+    "speaker": "Rob"
+  },
+  {
+    "start": 22.96,
+    "end": 28.24,
+    "text": "Love and marriage go together like a horse and carriage.",
+    "speaker": null
+  },
+  {
+    "start": 28.239,
+    "end": 32.159,
+    "text": "That’s right, and when was the last time you saw a horse and carriage?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 32.159,
+    "end": 35.359,
+    "text": "Well, that would have been quite a while ago.",
+    "speaker": null
+  },
+  {
+    "start": 35.359,
+    "end": 38.039,
+    "text": "They're quite rare these days, not on everyday sight.",
+    "speaker": null
+  },
+  {
+    "start": 38.039,
+    "end": 40.719,
+    "text": "Indeed. And according to recent statistics,",
+    "speaker": null
+  },
+  {
+    "start": 40.719,
+    "end": 44.079,
+    "text": "marriage in the UK is getting rarer too.",
+    "speaker": null
+  },
+  {
+    "start": 44.079,
+    "end": 48.039,
+    "text": "Not as rare as seeing a horse and carriage, but the numbers are falling.",
+    "speaker": null
+  },
+  {
+    "start": 48.039,
+    "end": 52.64,
+    "text": "Before we look at this topic in a bit more detail, a little quiz for our listeners.",
+    "speaker": null
+  },
+  {
+    "start": 52.64,
+    "end": 56.64,
+    "text": "Yes. According to the UK's Office for National Statistics,",
+    "speaker": null
+  },
+  {
+    "start": 56.64,
+    "end": 60.64,
+    "text": "how many opposite sex marriages were there in 2015?",
+    "speaker": null
+  },
+  {
+    "start": 60.64,
+    "end": 68.799,
+    "text": "Was it A, 239,000, B, 309,000, or C, 339,000? Any idea, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 68.799,
+    "end": 74.079,
+    "text": "Mmm. I have no idea, but I'm going to have a guess and I'm going to say...",
+    "speaker": null
+  },
+  {
+    "start": 74.079,
+    "end": 77.519,
+    "text": "a)    239,000",
+    "speaker": "Rob"
+  },
+  {
+    "start": 77.519,
+    "end": 81.04,
+    "text": "Okay. Well, we'll reveal the answer a little later in this programme.",
+    "speaker": null
+  },
+  {
+    "start": 81.04,
+    "end": 84.319,
+    "text": "And whatever the correct number, the trend is downwards.",
+    "speaker": null
+  },
+  {
+    "start": 84.319,
+    "end": 88.799,
+    "text": "Year on year, there are fewer opposite sex couples getting married in the UK.",
+    "speaker": null
+  },
+  {
+    "start": 88.799,
+    "end": 93.199,
+    "text": "So, why might this be? Are we falling out of love with marriage?",
+    "speaker": null
+  },
+  {
+    "start": 93.199,
+    "end": 96.319,
+    "text": "Let's hear from a couple of people with different views.",
+    "speaker": null
+  },
+  {
+    "start": 96.319,
+    "end": 98.879,
+    "text": "First, here's Tom from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 98.879,
+    "end": 103.199,
+    "text": "What doesn't he like about the idea or concept of getting married?",
+    "speaker": null
+  },
+  {
+    "start": 103.199,
+    "end": 108.799,
+    "text": "I'm not that enthusiastic about the idea of marriage to tell you the truth.",
+    "speaker": null
+  },
+  {
+    "start": 108.799,
+    "end": 112.799,
+    "text": "I think it's a bit of an archaic concept these days.",
+    "speaker": null
+  },
+  {
+    "start": 112.799,
+    "end": 115.359,
+    "text": "And I'm a bit of a commitment fob.",
+    "speaker": null
+  },
+  {
+    "start": 115.359,
+    "end": 119.759,
+    "text": "I don't like the idea of signing a piece of paper that says I have to be with someone",
+    "speaker": null
+  },
+  {
+    "start": 119.759,
+    "end": 124.879,
+    "text": "for the rest of my life and can never escape from that person, I suppose.",
+    "speaker": null
+  },
+  {
+    "start": 124.879,
+    "end": 128.24,
+    "text": "Although, I am in a very happy relationship at the moment.",
+    "speaker": null
+  },
+  {
+    "start": 128.24,
+    "end": 133.68,
+    "text": "So that was Tom there. Not a fan of marriage. But what were his objections Neil?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 133.68,
+    "end": 137.439,
+    "text": "Well, he described marriage as an archaic concept.",
+    "speaker": null
+  },
+  {
+    "start": 137.439,
+    "end": 142.079,
+    "text": "When someone describes something as archaic, they think it is very old-fashioned.",
+    "speaker": null
+  },
+  {
+    "start": 142.16,
+    "end": 145.28,
+    "text": "Out of date, belonging to a different time.",
+    "speaker": null
+  },
+  {
+    "start": 145.28,
+    "end": 147.92,
+    "text": "So that was one of his problems with marriage.",
+    "speaker": null
+  },
+  {
+    "start": 147.92,
+    "end": 151.04,
+    "text": "But he also said that he was a commitment fob.",
+    "speaker": null
+  },
+  {
+    "start": 151.04,
+    "end": 155.04,
+    "text": "The suffix fob means someone who is afraid of something.",
+    "speaker": null
+  },
+  {
+    "start": 155.04,
+    "end": 158.4,
+    "text": "In some cases, it can also be used as a standalone word,",
+    "speaker": null
+  },
+  {
+    "start": 158.4,
+    "end": 159.76,
+    "text": "but it means the same.",
+    "speaker": null
+  },
+  {
+    "start": 159.76,
+    "end": 162.48,
+    "text": "So a commitment fob is someone who is afraid of",
+    "speaker": null
+  },
+  {
+    "start": 162.48,
+    "end": 164.96,
+    "text": "or doesn't like the idea of commitment.",
+    "speaker": null
+  },
+  {
+    "start": 164.96,
+    "end": 167.12,
+    "text": "And when talking about relationships,",
+    "speaker": null
+  },
+  {
+    "start": 167.12,
+    "end": 171.92,
+    "text": "commitment means being with one person and giving up the idea of being free",
+    "speaker": null
+  },
+  {
+    "start": 171.919,
+    "end": 175.839,
+    "text": "to do whatever you want and see whoever you want romantically.",
+    "speaker": null
+  },
+  {
+    "start": 175.839,
+    "end": 179.519,
+    "text": "So for commitment fobs, commitment means losing something.",
+    "speaker": null
+  },
+  {
+    "start": 179.519,
+    "end": 181.039,
+    "text": "But that's not true for everyone.",
+    "speaker": null
+  },
+  {
+    "start": 181.039,
+    "end": 183.599,
+    "text": "Here's Dan also from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 183.599,
+    "end": 185.279,
+    "text": "What's his view of marriage?",
+    "speaker": null
+  },
+  {
+    "start": 185.279,
+    "end": 186.719,
+    "text": "In general, I think it's quite good.",
+    "speaker": null
+  },
+  {
+    "start": 186.719,
+    "end": 189.439,
+    "text": "It has a very stabilizing effect on society.",
+    "speaker": null
+  },
+  {
+    "start": 190.479,
+    "end": 194.799,
+    "text": "And it declares publicly to the world that",
+    "speaker": null
+  },
+  {
+    "start": 195.439,
+    "end": 197.519,
+    "text": "you have found the right person for you",
+    "speaker": null
+  },
+  {
+    "start": 197.519,
+    "end": 199.599,
+    "text": "and that you're in a committed relationship.",
+    "speaker": null
+  },
+  {
+    "start": 199.599,
+    "end": 201.28,
+    "text": "So Dan is a fan.",
+    "speaker": null
+  },
+  {
+    "start": 201.28,
+    "end": 205.12,
+    "text": "He thinks marriage has a stabilizing effect on society.",
+    "speaker": null
+  },
+  {
+    "start": 205.12,
+    "end": 208.079,
+    "text": "He sees marriage as being good for society as a whole.",
+    "speaker": null
+  },
+  {
+    "start": 208.079,
+    "end": 210.799,
+    "text": "It makes society stronger, more stable.",
+    "speaker": null
+  },
+  {
+    "start": 210.799,
+    "end": 213.68,
+    "text": "And he also sees it as a way to say to everyone",
+    "speaker": null
+  },
+  {
+    "start": 213.68,
+    "end": 215.599,
+    "text": "that you have a strong relationship.",
+    "speaker": null
+  },
+  {
+    "start": 215.599,
+    "end": 217.759,
+    "text": "You're with the one person you love.",
+    "speaker": null
+  },
+  {
+    "start": 217.759,
+    "end": 221.919,
+    "text": "So for Dan, commitment and being in a committed relationship",
+    "speaker": null
+  },
+  {
+    "start": 221.919,
+    "end": 222.639,
+    "text": "is a good thing.",
+    "speaker": null
+  },
+  {
+    "start": 223.28,
+    "end": 225.759,
+    "text": "Now back to our question at the top of the program.",
+    "speaker": null
+  },
+  {
+    "start": 225.759,
+    "end": 229.519,
+    "text": "I asked how many opposite sex couples got married in the UK?",
+    "speaker": null
+  },
+  {
+    "start": 229.599,
+    "end": 230.879,
+    "text": "In 2015.",
+    "speaker": null
+  },
+  {
+    "start": 230.879,
+    "end": 232.96,
+    "text": "And I took a guess, didn't I?",
+    "speaker": null
+  },
+  {
+    "start": 232.96,
+    "end": 233.919,
+    "text": "And I said,",
+    "speaker": null
+  },
+  {
+    "start": 233.919,
+    "end": 236.56,
+    "text": "A, 239,000.",
+    "speaker": null
+  },
+  {
+    "start": 236.56,
+    "end": 237.439,
+    "text": "Am I right?",
+    "speaker": null
+  },
+  {
+    "start": 237.439,
+    "end": 238.879,
+    "text": "You are definitely right.",
+    "speaker": null
+  },
+  {
+    "start": 238.879,
+    "end": 241.68,
+    "text": "The answer is 239,000.",
+    "speaker": null
+  },
+  {
+    "start": 241.68,
+    "end": 245.12,
+    "text": "Or 239,020 to be precise.",
+    "speaker": null
+  },
+  {
+    "start": 245.68,
+    "end": 249.359,
+    "text": "That figure was 3.4% lower than 2014.",
+    "speaker": null
+  },
+  {
+    "start": 249.359,
+    "end": 252.24,
+    "text": "So what do relationship experts think is the reason",
+    "speaker": null
+  },
+  {
+    "start": 252.24,
+    "end": 253.84,
+    "text": "fewer people are getting married?",
+    "speaker": null
+  },
+  {
+    "start": 253.84,
+    "end": 255.599,
+    "text": "Well, there could be lots of reasons.",
+    "speaker": null
+  },
+  {
+    "start": 255.599,
+    "end": 258.639,
+    "text": "In some countries, the way society is changing",
+    "speaker": null
+  },
+  {
+    "start": 258.639,
+    "end": 262,
+    "text": "means that there is less pressure to get married or stay married.",
+    "speaker": null
+  },
+  {
+    "start": 262,
+    "end": 264.24,
+    "text": "As a result, there are more divorces.",
+    "speaker": null
+  },
+  {
+    "start": 264.24,
+    "end": 268.639,
+    "text": "So perhaps children of divorce parents are less likely to get married themselves.",
+    "speaker": null
+  },
+  {
+    "start": 269.36,
+    "end": 270.8,
+    "text": "Right, well, before we go,",
+    "speaker": null
+  },
+  {
+    "start": 270.8,
+    "end": 273.839,
+    "text": "let's recap the vocabulary we highlighted today.",
+    "speaker": null
+  },
+  {
+    "start": 273.839,
+    "end": 275.839,
+    "text": "The first word was trend.",
+    "speaker": null
+  },
+  {
+    "start": 275.839,
+    "end": 279.599,
+    "text": "A trend is the direction that something is changing over time.",
+    "speaker": null
+  },
+  {
+    "start": 279.599,
+    "end": 283.12,
+    "text": "When it comes to marriage, the trend is for fewer marriages.",
+    "speaker": null
+  },
+  {
+    "start": 283.12,
+    "end": 285.599,
+    "text": "And the trend for six minute listeners is the opposite,",
+    "speaker": null
+  },
+  {
+    "start": 285.599,
+    "end": 288.319,
+    "text": "going up, particularly when you're presenting Neil.",
+    "speaker": null
+  },
+  {
+    "start": 288.8,
+    "end": 289.759,
+    "text": "That's very nice of you.",
+    "speaker": null
+  },
+  {
+    "start": 289.759,
+    "end": 290.879,
+    "text": "You're very kind.",
+    "speaker": null
+  },
+  {
+    "start": 290.879,
+    "end": 294.24,
+    "text": "The next two words were an archaic concept.",
+    "speaker": null
+  },
+  {
+    "start": 294.24,
+    "end": 298.399,
+    "text": "archaic is an adjective for something dated or old-fashioned.",
+    "speaker": null
+  },
+  {
+    "start": 298.399,
+    "end": 300.24,
+    "text": "A bit like your fashion sense!",
+    "speaker": "Rob"
+  },
+  {
+    "start": 300.24,
+    "end": 302.959,
+    "text": "Oh, Rob, just as I was beginning to like you.",
+    "speaker": null
+  },
+  {
+    "start": 302.959,
+    "end": 305.36,
+    "text": "Sorry about that. You know I don't mean it.",
+    "speaker": null
+  },
+  {
+    "start": 305.36,
+    "end": 309.68,
+    "text": "In the interview, archaic was used to describe the concept of marriage,",
+    "speaker": null
+  },
+  {
+    "start": 309.68,
+    "end": 311.199,
+    "text": "not your fashion sense.",
+    "speaker": null
+  },
+  {
+    "start": 311.199,
+    "end": 314.159,
+    "text": "Concept is another word for an idea or belief.",
+    "speaker": null
+  },
+  {
+    "start": 314.159,
+    "end": 317.519,
+    "text": "So an archaic concept is an old-fashioned idea.",
+    "speaker": null
+  },
+  {
+    "start": 317.599,
+    "end": 320.639,
+    "text": "Our next expression was commitment fob.",
+    "speaker": null
+  },
+  {
+    "start": 320.639,
+    "end": 324.079,
+    "text": "We use this phrase to talk about someone who's scared of the idea",
+    "speaker": null
+  },
+  {
+    "start": 324.079,
+    "end": 325.759,
+    "text": "of a long-term relationship,",
+    "speaker": null
+  },
+  {
+    "start": 325.759,
+    "end": 328.56,
+    "text": "because they see it as giving up some freedoms.",
+    "speaker": null
+  },
+  {
+    "start": 328.56,
+    "end": 330.639,
+    "text": "You're obviously a complement fob.",
+    "speaker": null
+  },
+  {
+    "start": 330.639,
+    "end": 332.719,
+    "text": "You're afraid of saying nice things about someone,",
+    "speaker": null
+  },
+  {
+    "start": 332.719,
+    "end": 335.519,
+    "text": "so you always have to say something nasty as well, eh?",
+    "speaker": null
+  },
+  {
+    "start": 335.519,
+    "end": 336.56,
+    "text": "I said I was sorry.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 337.68,
+    "end": 340.719,
+    "text": "And finally, we had the adjective stabilizing.",
+    "speaker": null
+  },
+  {
+    "start": 340.719,
+    "end": 343.12,
+    "text": "Something that is stable is strong,",
+    "speaker": null
+  },
+  {
+    "start": 343.12,
+    "end": 345.12,
+    "text": "and something that makes something strong",
+    "speaker": null
+  },
+  {
+    "start": 345.12,
+    "end": 347.279,
+    "text": "can be described as stabilizing.",
+    "speaker": null
+  },
+  {
+    "start": 347.439,
+    "end": 352.239,
+    "text": "Dan expressed his belief that marriage had a stabilizing effect on society.",
+    "speaker": null
+  },
+  {
+    "start": 352.239,
+    "end": 353.919,
+    "text": "Well, that's it for this program.",
+    "speaker": null
+  },
+  {
+    "start": 353.919,
+    "end": 358.239,
+    "text": "For more, find us on Facebook, Twitter, Instagram, and our YouTube pages.",
+    "speaker": null
+  },
+  {
+    "start": 358.239,
+    "end": 359.599,
+    "text": "And of course, our website,",
+    "speaker": null
+  },
+  {
+    "start": 359.599,
+    "end": 361.519,
+    "text": "bbclearningenglish.com,",
+    "speaker": null
+  },
+  {
+    "start": 361.519,
+    "end": 364.559,
+    "text": "where you can find all kinds of other activities,",
+    "speaker": null
+  },
+  {
+    "start": 364.559,
+    "end": 366,
+    "text": "and videos, and quizzes,",
+    "speaker": null
+  },
+  {
+    "start": 366,
+    "end": 368.479,
+    "text": "and things to help you improve your English.",
+    "speaker": null
+  },
+  {
+    "start": 368.479,
+    "end": 370.159,
+    "text": "Thanks for joining us, and goodbye.",
+    "speaker": null
+  },
+  {
+    "start": 370.159,
+    "end": 370.799,
+    "text": "Bye!",
+    "speaker": "Rob"
+  },
+  {
+    "start": 371.759,
+    "end": 373.52,
+    "text": "6-Mate English.",
+    "speaker": null
+  },
+  {
+    "start": 373.52,
+    "end": 375.759,
+    "text": "From BBC Learning English.",
+    "speaker": null
+  }
+]

@@ -1,0 +1,584 @@
+[
+  {
+    "start": 0,
+    "end": 5.52,
+    "text": "This is a download from BBC Learning English. To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 12.96,
+    "end": 16.8,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 16.8,
+    "end": 17.76,
+    "text": "And I’m Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 17.76,
+    "end": 23.359,
+    "text": "People collect all kinds of things for a hobby, from stamps and coins to comics and football stickers. Do you collect anything, Sam?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 23.359,
+    "end": 24.8,
+    "text": "Do you collect anything, Sam?",
+    "speaker": null
+  },
+  {
+    "start": 25.359,
+    "end": 30.56,
+    "text": "I used to have a big collection of Pokemon cards, but I have no idea where they are now.",
+    "speaker": null
+  },
+  {
+    "start": 30.56,
+    "end": 34.88,
+    "text": "Well, maybe you should start looking for them because all kinds of collectibles,",
+    "speaker": null
+  },
+  {
+    "start": 34.88,
+    "end": 39.679,
+    "text": "that's objects that people want to collect, are selling for big money on the internet.",
+    "speaker": null
+  },
+  {
+    "start": 39.679,
+    "end": 45.359,
+    "text": "It's all part of a new tech craze called non-fundable tokens or NFTs for short.",
+    "speaker": null
+  },
+  {
+    "start": 45.359,
+    "end": 47.12,
+    "text": "Non-fundable tokens?",
+    "speaker": null
+  },
+  {
+    "start": 47.12,
+    "end": 53.679,
+    "text": "Basically, NFTs are unique one of a kind items that can be bought and sold like any physical object,",
+    "speaker": null
+  },
+  {
+    "start": 53.679,
+    "end": 56.399,
+    "text": "but only exist in the digital world.",
+    "speaker": null
+  },
+  {
+    "start": 56.399,
+    "end": 61.359,
+    "text": "Tokens can be thought of as certificates of ownership for these virtual possessions.",
+    "speaker": null
+  },
+  {
+    "start": 61.359,
+    "end": 67.76,
+    "text": "Hmm, okay. I understand the token part, but what does non-fundable mean?",
+    "speaker": null
+  },
+  {
+    "start": 67.76,
+    "end": 72.48,
+    "text": "If something is fungible, it can be interchanged, like money, for example.",
+    "speaker": null
+  },
+  {
+    "start": 72.48,
+    "end": 77.68,
+    "text": "If something is ‘fungible’ it can be interchanged, like money for example. With money you can swap a £10 note for two £5 notes and it will have the same value.",
+    "speaker": "fungible"
+  },
+  {
+    "start": 77.68,
+    "end": 82.56,
+    "text": "Ah, so something non-fundable cannot be interchanged with something else.",
+    "speaker": null
+  },
+  {
+    "start": 82.64,
+    "end": 86.24,
+    "text": "Is that because it has special features that make it unique?",
+    "speaker": null
+  },
+  {
+    "start": 86.24,
+    "end": 90.159,
+    "text": "Exactly. Imagine something totally unique like the Mona Lisa.",
+    "speaker": null
+  },
+  {
+    "start": 90.159,
+    "end": 93.2,
+    "text": "You can take a photo of the painting or buy a copy of it,",
+    "speaker": null
+  },
+  {
+    "start": 93.2,
+    "end": 96.48,
+    "text": "but there will only ever be the one original painting.",
+    "speaker": null
+  },
+  {
+    "start": 96.48,
+    "end": 101.359,
+    "text": "Ah, I can see that the Mona Lisa is one of a kind and extremely valuable,",
+    "speaker": null
+  },
+  {
+    "start": 101.359,
+    "end": 103.84,
+    "text": "but it's not for sale on the internet.",
+    "speaker": null
+  },
+  {
+    "start": 103.84,
+    "end": 109.2,
+    "text": "True, but lots of other things are from signed celebrity artwork to virtual football cards.",
+    "speaker": null
+  },
+  {
+    "start": 109.28,
+    "end": 112,
+    "text": "NFTs are like autographed photos.",
+    "speaker": null
+  },
+  {
+    "start": 112,
+    "end": 114.48,
+    "text": "Collectors want something no one else has,",
+    "speaker": null
+  },
+  {
+    "start": 114.48,
+    "end": 117.76,
+    "text": "even though there's nothing physical they actually own and keep.",
+    "speaker": null
+  },
+  {
+    "start": 117.76,
+    "end": 121.12,
+    "text": "And the value of NFTs is going up and up?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 121.12,
+    "end": 124.32,
+    "text": "Massively. A digital sticker of French footballer,",
+    "speaker": null
+  },
+  {
+    "start": 124.32,
+    "end": 128.64,
+    "text": "Kilian and Bappe recently sold for £25,000,",
+    "speaker": null
+  },
+  {
+    "start": 128.64,
+    "end": 131.12,
+    "text": "which reminds me of my quiz question, Sam.",
+    "speaker": null
+  },
+  {
+    "start": 131.12,
+    "end": 137.84,
+    "text": "In June 2021, Satin Berners-Lee sold the original source code he used to invent the Worldwide Web,",
+    "speaker": null
+  },
+  {
+    "start": 137.84,
+    "end": 140.4,
+    "text": "as an NFT at a charity auction.",
+    "speaker": null
+  },
+  {
+    "start": 140.4,
+    "end": 145.439,
+    "text": "The sale started at $1,000, but how much did the source code eventually sell for?",
+    "speaker": null
+  },
+  {
+    "start": 145.439,
+    "end": 148.319,
+    "text": "Was it a $5,4,000?",
+    "speaker": null
+  },
+  {
+    "start": 148.319,
+    "end": 153.199,
+    "text": "B $5,4 million? Or C $5,4 billion?",
+    "speaker": null
+  },
+  {
+    "start": 154,
+    "end": 157.84,
+    "text": "If you’re asking me how much the internet sold for, I’d say c) 5.4 billion dollars.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 157.84,
+    "end": 161.599,
+    "text": "I'd say C $5,4 billion.",
+    "speaker": null
+  },
+  {
+    "start": 161.599,
+    "end": 164.159,
+    "text": "Okay, Sam will find out later if that's right.",
+    "speaker": null
+  },
+  {
+    "start": 164.24,
+    "end": 169.039,
+    "text": "Satin Berners-Lee famously never made any money from the Worldwide Web,",
+    "speaker": null
+  },
+  {
+    "start": 169.039,
+    "end": 172.319,
+    "text": "insisting that his invention should be free for everyone.",
+    "speaker": null
+  },
+  {
+    "start": 172.319,
+    "end": 175.199,
+    "text": "But the world of NFTs is controversial,",
+    "speaker": null
+  },
+  {
+    "start": 175.199,
+    "end": 178.719,
+    "text": "and not everyone thinks Satin should be getting involved.",
+    "speaker": null
+  },
+  {
+    "start": 178.719,
+    "end": 180.96,
+    "text": "That's certainly the view of Shona Gosh,",
+    "speaker": null
+  },
+  {
+    "start": 180.96,
+    "end": 183.519,
+    "text": "technology editor at the insider website,",
+    "speaker": null
+  },
+  {
+    "start": 183.519,
+    "end": 186.56,
+    "text": "as she told BBC World Service Programme TechTent.",
+    "speaker": null
+  },
+  {
+    "start": 186.56,
+    "end": 190.56,
+    "text": "I think there's a balance to be struck between exploring new technologies,",
+    "speaker": null
+  },
+  {
+    "start": 190.64,
+    "end": 194.319,
+    "text": "and Satin Berners-Lee is an amazing figure.",
+    "speaker": null
+  },
+  {
+    "start": 194.319,
+    "end": 196.64,
+    "text": "But NFTs are a Wild West,",
+    "speaker": null
+  },
+  {
+    "start": 197.439,
+    "end": 201.039,
+    "text": "not everything associated with NFTs are rogue,",
+    "speaker": null
+  },
+  {
+    "start": 201.039,
+    "end": 204.719,
+    "text": "but these so-called digital collectibles are going for lots of money.",
+    "speaker": null
+  },
+  {
+    "start": 205.28,
+    "end": 210.719,
+    "text": "Internet NFTs are very new and there are no rules controlling what can be sold and for how much, so Shona describes them as a wild west.",
+    "speaker": "wild west"
+  },
+  {
+    "start": 210.719,
+    "end": 212.24,
+    "text": "and for how much.",
+    "speaker": null
+  },
+  {
+    "start": 212.24,
+    "end": 215.84,
+    "text": "So Shona describes them as a Wild West.",
+    "speaker": null
+  },
+  {
+    "start": 215.84,
+    "end": 219.759,
+    "text": "The Wild West means a situation where people can do whatever they want,",
+    "speaker": null
+  },
+  {
+    "start": 219.84,
+    "end": 221.84,
+    "text": "because there are no laws or controls,",
+    "speaker": null
+  },
+  {
+    "start": 221.84,
+    "end": 225.12,
+    "text": "like the early history of the western part of the United States.",
+    "speaker": null
+  },
+  {
+    "start": 225.12,
+    "end": 228,
+    "text": "She also calls some things about NFTs,",
+    "speaker": null
+  },
+  {
+    "start": 228,
+    "end": 232.479,
+    "text": "rogue, behaving differently from what's normal or expected,",
+    "speaker": null
+  },
+  {
+    "start": 232.479,
+    "end": 234.719,
+    "text": "often in a way that causes damage.",
+    "speaker": null
+  },
+  {
+    "start": 235.359,
+    "end": 239.84,
+    "text": "Love them or hate them, there are strong opinions on both sides of the NFT debate, as Rory Cellan-Jones, presenter of BBC World Service’s Tech Tent, explains:",
+    "speaker": "Neil"
+  },
+  {
+    "start": 239.84,
+    "end": 244.959,
+    "text": "as Rory Ketlin Jones, presenter of the BBC World Services TechTent, explains.",
+    "speaker": null
+  },
+  {
+    "start": 245.2,
+    "end": 248,
+    "text": "To some NFTs are a brilliant innovation,",
+    "speaker": null
+  },
+  {
+    "start": 248,
+    "end": 251.6,
+    "text": "which is promised to put a value on those digital artifacts,",
+    "speaker": null
+  },
+  {
+    "start": 251.6,
+    "end": 254.879,
+    "text": "to others they're little more than a dubious pyramid scheme,",
+    "speaker": null
+  },
+  {
+    "start": 254.879,
+    "end": 257.12,
+    "text": "with a damaging impact on the environment,",
+    "speaker": null
+  },
+  {
+    "start": 257.12,
+    "end": 259.519,
+    "text": "because of the way the tokens are created.",
+    "speaker": null
+  },
+  {
+    "start": 259.519,
+    "end": 264.16,
+    "text": "Some people are suspicious of the large amounts of money collectors are willing to pay,",
+    "speaker": null
+  },
+  {
+    "start": 264.639,
+    "end": 267.28,
+    "text": "comparing NFTs to pyramid schemes.",
+    "speaker": null
+  },
+  {
+    "start": 267.84,
+    "end": 272.56,
+    "text": "Business tricks or scams, where money is obtained dishonestly.",
+    "speaker": null
+  },
+  {
+    "start": 272.56,
+    "end": 278.56,
+    "text": "But for others, NFTs are a legitimate and useful way to put a price on rare digital artifacts.",
+    "speaker": null
+  },
+  {
+    "start": 278.56,
+    "end": 284.399,
+    "text": "Items such as images, videos, and music that are produced and stored as electronic versions.",
+    "speaker": null
+  },
+  {
+    "start": 284.399,
+    "end": 288.56,
+    "text": "Items like, for example, the original source code for the internet.",
+    "speaker": null
+  },
+  {
+    "start": 288.56,
+    "end": 293.519,
+    "text": "So how much money did Satim Bernas-Lee raise for charity when he sold it off, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 293.519,
+    "end": 298.639,
+    "text": "In my quiz question, I asked Sam how much the NFT for the original internet source code",
+    "speaker": null
+  },
+  {
+    "start": 298.639,
+    "end": 300.16,
+    "text": "sold for at auction.",
+    "speaker": null
+  },
+  {
+    "start": 300.16,
+    "end": 303.52,
+    "text": "And I said, see, $5.4 billion.",
+    "speaker": null
+  },
+  {
+    "start": 303.52,
+    "end": 308,
+    "text": "You were wrong. In fact, it was less, $5.4 million,",
+    "speaker": null
+  },
+  {
+    "start": 308,
+    "end": 310.48,
+    "text": "but still far too expensive for me to collect.",
+    "speaker": null
+  },
+  {
+    "start": 310.48,
+    "end": 313.84,
+    "text": "Now I'm wondering how much my Pokemon card collection would sell for,",
+    "speaker": null
+  },
+  {
+    "start": 313.84,
+    "end": 315.68,
+    "text": "if only I could find it.",
+    "speaker": null
+  },
+  {
+    "start": 315.68,
+    "end": 320.08,
+    "text": "Well, while you look for your collection, Sam, let's recap the vocabulary from this program,",
+    "speaker": null
+  },
+  {
+    "start": 320.08,
+    "end": 323.28,
+    "text": "all about NFTs, which are digital artifacts,",
+    "speaker": null
+  },
+  {
+    "start": 323.28,
+    "end": 327.04,
+    "text": "or items that are produced and stored as electronic versions.",
+    "speaker": null
+  },
+  {
+    "start": 327.04,
+    "end": 333.2,
+    "text": "NFTs are virtual collectibles, desirable objects that people search for and collect.",
+    "speaker": null
+  },
+  {
+    "start": 333.2,
+    "end": 337.439,
+    "text": "And they are non-fundable, meaning they have special and unique characteristics",
+    "speaker": null
+  },
+  {
+    "start": 337.439,
+    "end": 339.92,
+    "text": "that cannot be interchanged with anything else.",
+    "speaker": null
+  },
+  {
+    "start": 339.92,
+    "end": 345.12,
+    "text": "If something is a rogue, it behaves in a different way from what's normal or expected,",
+    "speaker": null
+  },
+  {
+    "start": 345.12,
+    "end": 346.96,
+    "text": "often causing damage.",
+    "speaker": null
+  },
+  {
+    "start": 346.96,
+    "end": 351.36,
+    "text": "The wild west describes a chaotic situation without laws or controls.",
+    "speaker": "The wild west"
+  },
+  {
+    "start": 351.36,
+    "end": 356.879,
+    "text": "And finally, a pyramid scheme is a business scam where money is gained dishonestly.",
+    "speaker": "pyramid scheme"
+  },
+  {
+    "start": 357.12,
+    "end": 361.68,
+    "text": "If you'd like to know more about non-fundable tokens, Bitcoin and other trending internet",
+    "speaker": null
+  },
+  {
+    "start": 361.68,
+    "end": 364.48,
+    "text": "topics, there's plenty to find on the BBC website.",
+    "speaker": null
+  },
+  {
+    "start": 364.48,
+    "end": 367.68,
+    "text": "And for more interesting conversation and useful vocabulary,",
+    "speaker": null
+  },
+  {
+    "start": 367.68,
+    "end": 369.68,
+    "text": "remember to join us again soon.",
+    "speaker": null
+  },
+  {
+    "start": 369.68,
+    "end": 372.16,
+    "text": "Here at 6 Minute English. Bye for now.",
+    "speaker": null
+  },
+  {
+    "start": 372.16,
+    "end": 374.16,
+    "text": "Bye!",
+    "speaker": "Neil"
+  }
+]

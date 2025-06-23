@@ -1,0 +1,470 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 13.519,
+    "end": 17.76,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 17.76,
+    "end": 18.96,
+    "text": "And I'm Sam.",
+    "speaker": null
+  },
+  {
+    "start": 18.96,
+    "end": 24.08,
+    "text": "Predicting the future is not easy, but that's exactly the job of opinion pollsters.",
+    "speaker": null
+  },
+  {
+    "start": 24.08,
+    "end": 29.679,
+    "text": "Researchers who ask people questions to discover what they think about certain topics.",
+    "speaker": null
+  },
+  {
+    "start": 29.679,
+    "end": 34.159,
+    "text": "Often their aim is predicting which political party will win in an election,",
+    "speaker": null
+  },
+  {
+    "start": 34.159,
+    "end": 37.439,
+    "text": "by asking members of the public how they intend to vote.",
+    "speaker": null
+  },
+  {
+    "start": 37.439,
+    "end": 41.759,
+    "text": "But predicting the future is never 100% accurate,",
+    "speaker": null
+  },
+  {
+    "start": 41.759,
+    "end": 45.2,
+    "text": "and opinion polls don't always get it right.",
+    "speaker": null
+  },
+  {
+    "start": 45.2,
+    "end": 50.96,
+    "text": "In 2016, few pollsters predicted a victory for Donald Trump over Hillary Clinton",
+    "speaker": null
+  },
+  {
+    "start": 50.96,
+    "end": 53.359,
+    "text": "in the US presidential election.",
+    "speaker": null
+  },
+  {
+    "start": 53.359,
+    "end": 57.519,
+    "text": "And in the 2020 US elections, most polls predicted Trump",
+    "speaker": null
+  },
+  {
+    "start": 57.6,
+    "end": 61.92,
+    "text": "would lose to Joe Biden by a much larger amount than he actually did.",
+    "speaker": null
+  },
+  {
+    "start": 62.56,
+    "end": 68.64,
+    "text": "These mistakes, sometimes called misfires, when things do not work in the way intended,",
+    "speaker": null
+  },
+  {
+    "start": 68.64,
+    "end": 71.68,
+    "text": "have damaged the reputation of opinion pollsters.",
+    "speaker": null
+  },
+  {
+    "start": 71.68,
+    "end": 75.92,
+    "text": "In this programme, we'll be taking a look into the opinion polling industry.",
+    "speaker": null
+  },
+  {
+    "start": 75.92,
+    "end": 79.28,
+    "text": "And of course, learning some useful vocabulary as well.",
+    "speaker": null
+  },
+  {
+    "start": 79.28,
+    "end": 81.76,
+    "text": "But first, I have a question for you, Sam.",
+    "speaker": null
+  },
+  {
+    "start": 81.76,
+    "end": 85.359,
+    "text": "And it's about another time when the opinion polls got it wrong.",
+    "speaker": null
+  },
+  {
+    "start": 86.239,
+    "end": 90.64,
+    "text": "Few pollsters predicted that Britain would vote to leave the European Union",
+    "speaker": null
+  },
+  {
+    "start": 90.64,
+    "end": 95.039,
+    "text": "in the 2016 Brexit referendum, which in the end, it did.",
+    "speaker": null
+  },
+  {
+    "start": 95.68,
+    "end": 101.519,
+    "text": "But what was the final split between those who voted to leave and those who wanted to remain?",
+    "speaker": null
+  },
+  {
+    "start": 101.519,
+    "end": 105.359,
+    "text": "a)      51 leave to 49 remain?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 105.359,
+    "end": 108.719,
+    "text": "b)     52 leave to 48 remain?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 108.719,
+    "end": 112.159,
+    "text": "c)      52 remain to 48 leave?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 112.159,
+    "end": 118.079,
+    "text": "I think it was B, 52% voted to leave and 48% to remain.",
+    "speaker": null
+  },
+  {
+    "start": 118.079,
+    "end": 121.2,
+    "text": "OK, Sam, I’ll reveal the answer at the end of the programme.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 121.759,
+    "end": 128.639,
+    "text": "One of the biggest polling companies was founded by George Gallup, born in 1901 on a farm in Iowa.",
+    "speaker": null
+  },
+  {
+    "start": 128.639,
+    "end": 130.879,
+    "text": "Gallup was a student of journalism.",
+    "speaker": null
+  },
+  {
+    "start": 130.879,
+    "end": 136.159,
+    "text": "He wanted to know people's opinion on a range of subjects and came up with a simple idea.",
+    "speaker": null
+  },
+  {
+    "start": 136.719,
+    "end": 138.479,
+    "text": "Why not try asking them?",
+    "speaker": null
+  },
+  {
+    "start": 139.28,
+    "end": 143.199,
+    "text": "Here's G. Elliott Morris, a data journalist from the Economist,",
+    "speaker": null
+  },
+  {
+    "start": 143.199,
+    "end": 146.719,
+    "text": "explaining more to BBC World Service programme, more or less.",
+    "speaker": null
+  },
+  {
+    "start": 147.519,
+    "end": 152.079,
+    "text": "And he publishes his dissertation on this, how to measure what people want, basically.",
+    "speaker": null
+  },
+  {
+    "start": 152.079,
+    "end": 158,
+    "text": "And he gets hired by a much bigger advertising agency in New York called Young and Rubikam.",
+    "speaker": null
+  },
+  {
+    "start": 158,
+    "end": 163.679,
+    "text": "And they basically give him a blank check to do their research, to figure out how to call people,",
+    "speaker": null
+  },
+  {
+    "start": 163.68,
+    "end": 168.48,
+    "text": "how to talk to them, to figure out if they remember or like to certain product,",
+    "speaker": null
+  },
+  {
+    "start": 168.48,
+    "end": 172.64,
+    "text": "basically to figure out early methodologies in advertising.",
+    "speaker": null
+  },
+  {
+    "start": 172.64,
+    "end": 178.719,
+    "text": "And then by 1931 or so, he's wondering, well, if it works for toothpaste, why not politics?",
+    "speaker": null
+  },
+  {
+    "start": 179.28,
+    "end": 183.439,
+    "text": "George Gallup tried to figure out what customers wanted to buy.",
+    "speaker": null
+  },
+  {
+    "start": 183.439,
+    "end": 188.8,
+    "text": "If you figure something out, you finally understand it or find a solution to a problem",
+    "speaker": null
+  },
+  {
+    "start": 188.8,
+    "end": 190.48,
+    "text": "after thinking about it a lot.",
+    "speaker": null
+  },
+  {
+    "start": 191.28,
+    "end": 197.039,
+    "text": "Lacer, he was hired by a New York advertising agency to find out people's opinion of consumer",
+    "speaker": null
+  },
+  {
+    "start": 197.039,
+    "end": 202.56,
+    "text": "products like toothpaste and soft drinks. George was given a blank check,",
+    "speaker": null
+  },
+  {
+    "start": 202.56,
+    "end": 206.239,
+    "text": "an unlimited amount of money and freedom to do his job.",
+    "speaker": null
+  },
+  {
+    "start": 206.239,
+    "end": 211.28,
+    "text": "At this time, polling was focused on consumer preferences, not politics.",
+    "speaker": null
+  },
+  {
+    "start": 211.28,
+    "end": 216.639,
+    "text": "But asking people about their political views is a lot more complicated than asking them about",
+    "speaker": null
+  },
+  {
+    "start": 216.639,
+    "end": 223.279,
+    "text": "toothpaste. Making accurate election predictions depends on polling a sample group of people",
+    "speaker": null
+  },
+  {
+    "start": 223.279,
+    "end": 229.199,
+    "text": "who accurately represent the population as a whole. One of the reasons for Polsters failure to",
+    "speaker": null
+  },
+  {
+    "start": 229.199,
+    "end": 235.439,
+    "text": "predict Trump's election in 2016 is that they didn't ask enough white, non-college educated voters.",
+    "speaker": null
+  },
+  {
+    "start": 236.079,
+    "end": 241.279,
+    "text": "So polling is a very complex process, one which is never totally reliable,",
+    "speaker": null
+  },
+  {
+    "start": 241.919,
+    "end": 247.039,
+    "text": "according to G. Eliot Morris, speaking again here to BBC World Services, more or less.",
+    "speaker": null
+  },
+  {
+    "start": 247.92,
+    "end": 253.36,
+    "text": "If people were understanding this process that's generating all these polls,",
+    "speaker": null
+  },
+  {
+    "start": 253.36,
+    "end": 258.319,
+    "text": "then they would understand polls as less sort of precise tools. Tools that definitely can't",
+    "speaker": null
+  },
+  {
+    "start": 258.319,
+    "end": 262.24,
+    "text": "offer the laser-like predictive accuracy we've come to expect from them,",
+    "speaker": null
+  },
+  {
+    "start": 262.24,
+    "end": 267.519,
+    "text": "then the difference between polling's expectations and performance wouldn't be so stark.",
+    "speaker": null
+  },
+  {
+    "start": 268,
+    "end": 273.279,
+    "text": "Opinion polls can estimate the outcome of an election, but they can't give us laser-like",
+    "speaker": null
+  },
+  {
+    "start": 273.279,
+    "end": 279.279,
+    "text": "accuracy. If you describe something as laser-like, you mean it's very accurate and focused,",
+    "speaker": null
+  },
+  {
+    "start": 279.279,
+    "end": 284.24,
+    "text": "like a laser. If people understand how hard it is to predict the future,",
+    "speaker": null
+  },
+  {
+    "start": 284.24,
+    "end": 288.319,
+    "text": "they might be more realistic about how accurate opinion polls can be.",
+    "speaker": null
+  },
+  {
+    "start": 289.12,
+    "end": 294.319,
+    "text": "Then differences between a prediction and the final result wouldn't be so stark.",
+    "speaker": null
+  },
+  {
+    "start": 295.12,
+    "end": 297.759,
+    "text": "Obvious and easily visible or harsh.",
+    "speaker": null
+  },
+  {
+    "start": 298.399,
+    "end": 303.439,
+    "text": "Predicting the future is difficult, otherwise everyone would be a lottery winner by now.",
+    "speaker": null
+  },
+  {
+    "start": 304.159,
+    "end": 309.36,
+    "text": "Maybe it's not opinion polls that are broken, but our desire to know the future that's the problem.",
+    "speaker": null
+  },
+  {
+    "start": 310.159,
+    "end": 314.399,
+    "text": "Okay, it's time to reveal the answer to my question about the Brexit referendum.",
+    "speaker": null
+  },
+  {
+    "start": 315.199,
+    "end": 320.8,
+    "text": "I said the final result was 52% for leave and 48% for remain.",
+    "speaker": null
+  },
+  {
+    "start": 320.879,
+    "end": 326.56,
+    "text": "Which was the correct answer and another example of an opinion poll misfire,",
+    "speaker": null
+  },
+  {
+    "start": 326.56,
+    "end": 330.079,
+    "text": "a situation where something does not work as intended.",
+    "speaker": null
+  },
+  {
+    "start": 330.8,
+    "end": 335.84,
+    "text": "Okay, let's recap the rest of the vocabulary from this program about opinion pollsters.",
+    "speaker": null
+  },
+  {
+    "start": 335.84,
+    "end": 340.639,
+    "text": "People who conduct polls asking the public their opinion on particular subjects,",
+    "speaker": null
+  },
+  {
+    "start": 340.639,
+    "end": 345.92,
+    "text": "especially politics. If you figure something out, you finally understand it,",
+    "speaker": null
+  },
+  {
+    "start": 346,
+    "end": 350.72,
+    "text": "If you figure something out, you finally understand it, or find the solution to a problem after thinking long and hard about it.",
+    "speaker": "figure out"
+  },
+  {
+    "start": 350.72,
+    "end": 356.879,
+    "text": "If someone gives you a blank check, you have unlimited money and freedom to complete a task.",
+    "speaker": null
+  },
+  {
+    "start": 356.879,
+    "end": 362.24,
+    "text": "When you describe something as laser-like you mean that it’s very accurate and precise.",
+    "speaker": "laser-like"
+  },
+  {
+    "start": 362.24,
+    "end": 368.72,
+    "text": "And finally, the adjective stark has several meanings including obvious, harsh and plain. Once again, our six minutes are up. Bye for now!",
+    "speaker": "stark"
+  },
+  {
+    "start": 368.72,
+    "end": 372,
+    "text": "Once again, our six minutes are up. Bye for now. Bye-bye.",
+    "speaker": null
+  },
+  {
+    "start": 375.92,
+    "end": 377.92,
+    "text": "ABC Learning English.",
+    "speaker": null
+  }
+]

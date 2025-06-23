@@ -1,0 +1,716 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.24,
+    "text": "6Moo English",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 10.88,
+    "text": "from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 11.759,
+    "end": 15.12,
+    "text": "Hello and welcome to 6 Minute English. I'm Alice…",
+    "speaker": "Alice"
+  },
+  {
+    "start": 15.12,
+    "end": 21.199,
+    "text": "And I'm Neil. Alice, if you've got two pounds, I've forgot my wallet and I need a coffee.",
+    "speaker": null
+  },
+  {
+    "start": 21.199,
+    "end": 22.48,
+    "text": "I've only got these pennies.",
+    "speaker": null
+  },
+  {
+    "start": 22.48,
+    "end": 25.28,
+    "text": "Sorry, I always use my bank card in the cafeteria.",
+    "speaker": null
+  },
+  {
+    "start": 25.28,
+    "end": 27.519,
+    "text": "You use a card to buy coffee?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 27.519,
+    "end": 30.239,
+    "text": "Yes, it's a tap and go card, so it's quick.",
+    "speaker": null
+  },
+  {
+    "start": 30.239,
+    "end": 34.479,
+    "text": "You don't enter your pin number and everyone in the coffee queue uses them, except you.",
+    "speaker": null
+  },
+  {
+    "start": 35.2,
+    "end": 37.92,
+    "text": "And today's show is about how we pay for things.",
+    "speaker": null
+  },
+  {
+    "start": 37.92,
+    "end": 40,
+    "text": "Well, I pay for things with money!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 40.56,
+    "end": 42.879,
+    "text": "There are different kinds of money.",
+    "speaker": null
+  },
+  {
+    "start": 42.879,
+    "end": 46.399,
+    "text": "There are different kinds of money. You're behind the curve, digging around in your pockets for change, Neil. Do you still use cheques too?",
+    "speaker": "Alice"
+  },
+  {
+    "start": 46.399,
+    "end": 48.239,
+    "text": "Do you still use checks, too?",
+    "speaker": null
+  },
+  {
+    "start": 48.239,
+    "end": 50.56,
+    "text": "Yes, I do. Ches are very useful.",
+    "speaker": null
+  },
+  {
+    "start": 50.56,
+    "end": 54.879,
+    "text": "Now, being behind the curve means not keeping up with current trends.",
+    "speaker": null
+  },
+  {
+    "start": 54.96,
+    "end": 58.32,
+    "text": "So, help me keep up, Alice. What's a tap and go card?",
+    "speaker": null
+  },
+  {
+    "start": 58.32,
+    "end": 61.12,
+    "text": "I thought you were talking about your regular bank card.",
+    "speaker": null
+  },
+  {
+    "start": 61.12,
+    "end": 67.12,
+    "text": "Well, tap and go cards are regular bank cards, but with a built-in chip and antenna.",
+    "speaker": null
+  },
+  {
+    "start": 67.12,
+    "end": 70.24,
+    "text": "The card reader sends out a radio frequency,",
+    "speaker": null
+  },
+  {
+    "start": 70.24,
+    "end": 75.439,
+    "text": "and when you bring the card close to the reader, the antenna picks up the signal to make the payment.",
+    "speaker": null
+  },
+  {
+    "start": 75.439,
+    "end": 78.48,
+    "text": "Hmm, this antenna business doesn't sound secure.",
+    "speaker": null
+  },
+  {
+    "start": 78.48,
+    "end": 82.32,
+    "text": "An antenna is used for sending or receiving radio signals.",
+    "speaker": null
+  },
+  {
+    "start": 82.319,
+    "end": 87.039,
+    "text": "Doesn't it mean your personal data is flying around in the ether for everyone to steal?",
+    "speaker": null
+  },
+  {
+    "start": 87.039,
+    "end": 92.479,
+    "text": "In this context, ether means the air, where electronic communication happens,",
+    "speaker": null
+  },
+  {
+    "start": 92.479,
+    "end": 94.879,
+    "text": "and nothing's flying around Peter Pan.",
+    "speaker": null
+  },
+  {
+    "start": 95.759,
+    "end": 101.039,
+    "text": "At less than half a second per transaction, there's no time for anyone to steal your cash.",
+    "speaker": null
+  },
+  {
+    "start": 101.039,
+    "end": 104.159,
+    "text": "Now, why don't you answer today's quiz question?",
+    "speaker": null
+  },
+  {
+    "start": 104.719,
+    "end": 108.879,
+    "text": "Which man's face appears on a UK £10 note?",
+    "speaker": null
+  },
+  {
+    "start": 108.879,
+    "end": 111.759,
+    "text": "Is it a child's Darwin?",
+    "speaker": null
+  },
+  {
+    "start": 112.639,
+    "end": 118.079,
+    "text": "or c)   Albert Einstein",
+    "speaker": "ether"
+  },
+  {
+    "start": 118.079,
+    "end": 120,
+    "text": "None of them – it's the Queen.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 120,
+    "end": 127.199,
+    "text": "No, Neil. The Queen is on one side, but on the other side of each note is an important historical figure.",
+    "speaker": "Alice"
+  },
+  {
+    "start": 127.199,
+    "end": 129.519,
+    "text": "Oh, really? I've never noticed.",
+    "speaker": null
+  },
+  {
+    "start": 129.519,
+    "end": 133.039,
+    "text": "Okay, I'll go for B, Isaac Newton. He's a historical figure.",
+    "speaker": null
+  },
+  {
+    "start": 133.039,
+    "end": 136.319,
+    "text": "Hmm, well, so are Darwin and Einstein.",
+    "speaker": null
+  },
+  {
+    "start": 136.319,
+    "end": 139.039,
+    "text": "And coins and banknotes will be historical soon,",
+    "speaker": null
+  },
+  {
+    "start": 139.039,
+    "end": 141.359,
+    "text": "but we'll find out if you're right later on.",
+    "speaker": null
+  },
+  {
+    "start": 141.36,
+    "end": 145.12,
+    "text": "I'm still concerned about tap and go. What if someone steals my card?",
+    "speaker": null
+  },
+  {
+    "start": 145.84,
+    "end": 149.36,
+    "text": "Each contactless payment is limited to a certain amount.",
+    "speaker": null
+  },
+  {
+    "start": 149.36,
+    "end": 151.36,
+    "text": "The UK's limit is £30.",
+    "speaker": null
+  },
+  {
+    "start": 152.16,
+    "end": 156.72,
+    "text": "After you've used your card a few times in a row, you have to enter your pin.",
+    "speaker": null
+  },
+  {
+    "start": 156.72,
+    "end": 159.92,
+    "text": "And if a thief does go on a spending spree with your card,",
+    "speaker": null
+  },
+  {
+    "start": 159.92,
+    "end": 162.08,
+    "text": "your bank covers you against fraud.",
+    "speaker": null
+  },
+  {
+    "start": 162.64,
+    "end": 165.84,
+    "text": "Whereas if someone steals your banknotes, that's your bad luck.",
+    "speaker": null
+  },
+  {
+    "start": 165.84,
+    "end": 167.28,
+    "text": "Okay, good points.",
+    "speaker": null
+  },
+  {
+    "start": 167.36,
+    "end": 169.84,
+    "text": "Fraud means getting money by cheating people.",
+    "speaker": null
+  },
+  {
+    "start": 169.84,
+    "end": 173.92,
+    "text": "And a spending spree is a short period of time where you do a lot of shopping.",
+    "speaker": null
+  },
+  {
+    "start": 173.92,
+    "end": 175.439,
+    "text": "Are you a big spender, Alice?",
+    "speaker": null
+  },
+  {
+    "start": 175.439,
+    "end": 177.199,
+    "text": "Not with my tap and go, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 177.199,
+    "end": 179.039,
+    "text": "How about you in your checkbook?",
+    "speaker": null
+  },
+  {
+    "start": 179.039,
+    "end": 179.84,
+    "text": "No comment.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 180.96,
+    "end": 182.08,
+    "text": "Moving on.",
+    "speaker": null
+  },
+  {
+    "start": 182.08,
+    "end": 185.28,
+    "text": "If getting your bankcard out seems like too much trouble,",
+    "speaker": null
+  },
+  {
+    "start": 185.28,
+    "end": 188.159,
+    "text": "there's now a solution with wearable tech.",
+    "speaker": null
+  },
+  {
+    "start": 188.159,
+    "end": 192.159,
+    "text": "That's clothing and accessories that include computer and electronic technologies.",
+    "speaker": null
+  },
+  {
+    "start": 192.879,
+    "end": 196.479,
+    "text": "Let's hear what Kenneth Cukia, a technology expert, has to say.",
+    "speaker": null
+  },
+  {
+    "start": 198,
+    "end": 202.4,
+    "text": "You can simply take any wireless card and the chip from it,",
+    "speaker": null
+  },
+  {
+    "start": 202.4,
+    "end": 206.4,
+    "text": "that your bank might issue you and you can put it into the coat.",
+    "speaker": null
+  },
+  {
+    "start": 206.4,
+    "end": 210.639,
+    "text": "And then when you want to make a payment, just simply wave your arm in front of the terminal",
+    "speaker": null
+  },
+  {
+    "start": 210.639,
+    "end": 212.639,
+    "text": "and leave with your latte.",
+    "speaker": null
+  },
+  {
+    "start": 212.639,
+    "end": 214.879,
+    "text": "This is intended for people who are incredibly lazy,",
+    "speaker": null
+  },
+  {
+    "start": 214.879,
+    "end": 217.36,
+    "text": "who don't want to take their card out of their wallet,",
+    "speaker": null
+  },
+  {
+    "start": 217.36,
+    "end": 219.68,
+    "text": "or use their phone or use their watch.",
+    "speaker": null
+  },
+  {
+    "start": 219.68,
+    "end": 223.12,
+    "text": "People are going to be making more purchases, more of the time,",
+    "speaker": null
+  },
+  {
+    "start": 223.12,
+    "end": 225.12,
+    "text": "particularly for small value goods.",
+    "speaker": null
+  },
+  {
+    "start": 227.439,
+    "end": 230.4,
+    "text": "What Kenneth Cukia said is very interesting.",
+    "speaker": null
+  },
+  {
+    "start": 230.4,
+    "end": 234,
+    "text": "That sounds tempting, but I'm still concerned about how safe this all is.",
+    "speaker": null
+  },
+  {
+    "start": 234,
+    "end": 237.28,
+    "text": "What if I wave my arm around and make a payment by mistake?",
+    "speaker": null
+  },
+  {
+    "start": 237.28,
+    "end": 240.319,
+    "text": "The chip has to get very close to the card reader to make a payment,",
+    "speaker": null
+  },
+  {
+    "start": 240.319,
+    "end": 241.84,
+    "text": "so that's not likely to happen.",
+    "speaker": null
+  },
+  {
+    "start": 242.719,
+    "end": 245.84,
+    "text": "Now, companies are creating new biometric technology,",
+    "speaker": null
+  },
+  {
+    "start": 245.84,
+    "end": 250.319,
+    "text": "which you might like, Neil, because it combines payment and security technology.",
+    "speaker": null
+  },
+  {
+    "start": 250.319,
+    "end": 252.879,
+    "text": "Let's hear more from the BBC reporter Kate Russell.",
+    "speaker": null
+  },
+  {
+    "start": 253.759,
+    "end": 257.759,
+    "text": "For those times when not even carrying a phone is convenient,",
+    "speaker": null
+  },
+  {
+    "start": 257.759,
+    "end": 260.24,
+    "text": "at the beach or a festival, for example,",
+    "speaker": null
+  },
+  {
+    "start": 260.24,
+    "end": 265.36,
+    "text": "the finger pay system reads the unique maps of veins under the surface of your finger.",
+    "speaker": null
+  },
+  {
+    "start": 265.36,
+    "end": 268,
+    "text": "The trick is remembering which finger you registered with.",
+    "speaker": null
+  },
+  {
+    "start": 270.24,
+    "end": 273.6,
+    "text": "This high-tech stuff reporter Kate Russell is talking about is amazing.",
+    "speaker": null
+  },
+  {
+    "start": 274.24,
+    "end": 278.319,
+    "text": "Someday soon we won't have to carry a wallet or a purse or anything.",
+    "speaker": null
+  },
+  {
+    "start": 278.319,
+    "end": 281.36,
+    "text": "The veins in our finger will authenticate payments",
+    "speaker": null
+  },
+  {
+    "start": 281.36,
+    "end": 282.96,
+    "text": "and prove the payments are ours.",
+    "speaker": null
+  },
+  {
+    "start": 282.96,
+    "end": 284.319,
+    "text": "I can't wait.",
+    "speaker": null
+  },
+  {
+    "start": 284.319,
+    "end": 286.8,
+    "text": "Sounds a bit too sci-fi for my liking.",
+    "speaker": null
+  },
+  {
+    "start": 286.8,
+    "end": 289.6,
+    "text": "Hmm. Sounds a bit too sci-fi for my liking. How about giving us the answer to today's quiz question?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 289.6,
+    "end": 290.56,
+    "text": "All right, then.",
+    "speaker": null
+  },
+  {
+    "start": 290.56,
+    "end": 295.52,
+    "text": "I asked which man's face appears on a UK £10 note?",
+    "speaker": null
+  },
+  {
+    "start": 295.52,
+    "end": 298.72,
+    "text": "Is it a child's Darwin,",
+    "speaker": null
+  },
+  {
+    "start": 299.759,
+    "end": 301.759,
+    "text": "b)   Isaac Newton",
+    "speaker": "ether"
+  },
+  {
+    "start": 302.72,
+    "end": 305.28,
+    "text": "or c, Albert Einstein?",
+    "speaker": null
+  },
+  {
+    "start": 305.28,
+    "end": 306.8,
+    "text": "And I said b) Isaac Newton.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 306.8,
+    "end": 310.319,
+    "text": "Yes, and you were wrong, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 311.199,
+    "end": 314.639,
+    "text": "It was that other famous person, a, child's Darwin.",
+    "speaker": null
+  },
+  {
+    "start": 315.439,
+    "end": 319.439,
+    "text": "Isaac Newton was on the old £1 note, which is no longer used.",
+    "speaker": null
+  },
+  {
+    "start": 319.439,
+    "end": 321.839,
+    "text": "And Einstein was German, not British,",
+    "speaker": null
+  },
+  {
+    "start": 321.839,
+    "end": 324.399,
+    "text": "so he wouldn't appear on a UK bank note anyway.",
+    "speaker": null
+  },
+  {
+    "start": 324.399,
+    "end": 326.399,
+    "text": "Ah, well, they look similar, I think.",
+    "speaker": null
+  },
+  {
+    "start": 326.399,
+    "end": 328.879,
+    "text": "Well they look similar, I think. Can you tell us today's words once again, Alice?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 328.879,
+    "end": 329.92,
+    "text": "Yes, of course I can. They are:",
+    "speaker": "Alice"
+  },
+  {
+    "start": 330.639,
+    "end": 331.039,
+    "text": "They are.",
+    "speaker": null
+  },
+  {
+    "start": 332.719,
+    "end": 333.839,
+    "text": "behind the curve",
+    "speaker": "Alice"
+  },
+  {
+    "start": 335.839,
+    "end": 336.56,
+    "text": "Tap and go.",
+    "speaker": null
+  },
+  {
+    "start": 338.719,
+    "end": 339.36,
+    "text": "antenna",
+    "speaker": "Alice"
+  },
+  {
+    "start": 341.279,
+    "end": 341.759,
+    "text": "ether",
+    "speaker": "Alice"
+  },
+  {
+    "start": 343.92,
+    "end": 344.399,
+    "text": "fraud",
+    "speaker": "Alice"
+  },
+  {
+    "start": 346.399,
+    "end": 347.519,
+    "text": "spending spree",
+    "speaker": "Alice"
+  },
+  {
+    "start": 349.68,
+    "end": 350.48,
+    "text": "wearable tech",
+    "speaker": "Alice"
+  },
+  {
+    "start": 352.56,
+    "end": 353.439,
+    "text": "authenticate",
+    "speaker": "Alice"
+  },
+  {
+    "start": 355.04,
+    "end": 357.759,
+    "text": "Well, that's the end of this edition of 6 Minute English.",
+    "speaker": null
+  },
+  {
+    "start": 357.759,
+    "end": 360.159,
+    "text": "Get ahead of the curve and join us again soon.",
+    "speaker": null
+  },
+  {
+    "start": 360.159,
+    "end": 361.68,
+    "text": "Meanwhile, visit our website,",
+    "speaker": null
+  },
+  {
+    "start": 361.68,
+    "end": 363.439,
+    "text": "BBCLearningEnglish.com,",
+    "speaker": null
+  },
+  {
+    "start": 363.439,
+    "end": 364.959,
+    "text": "where you'll find guides to grammar,",
+    "speaker": null
+  },
+  {
+    "start": 364.959,
+    "end": 368.56,
+    "text": "exercises, videos, and articles to read and improve your English.",
+    "speaker": null
+  },
+  {
+    "start": 368.56,
+    "end": 369.199,
+    "text": "Goodbye.",
+    "speaker": null
+  },
+  {
+    "start": 369.199,
+    "end": 369.68,
+    "text": "Bye.",
+    "speaker": "Both"
+  },
+  {
+    "start": 370.319,
+    "end": 373.519,
+    "text": "6 Minute English from the BBC.",
+    "speaker": null
+  }
+]

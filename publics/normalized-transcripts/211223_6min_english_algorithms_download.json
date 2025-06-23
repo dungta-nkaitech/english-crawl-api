@@ -1,0 +1,650 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 14.16,
+    "text": "6Nate English from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 14.16,
+    "end": 17.519,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 17.519,
+    "end": 18.32,
+    "text": "I'm Neil.",
+    "speaker": null
+  },
+  {
+    "start": 18.32,
+    "end": 19.359,
+    "text": "And I’m Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 19.359,
+    "end": 21.359,
+    "text": "What do shopping with a credit card,",
+    "speaker": null
+  },
+  {
+    "start": 21.359,
+    "end": 26,
+    "text": "What do shopping with a credit card, finding love through internet dating and waiting for the traffic lights to change have in common?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 26,
+    "end": 27.039,
+    "text": "have in common?",
+    "speaker": null
+  },
+  {
+    "start": 27.039,
+    "end": 29.679,
+    "text": "Hmm. They all involve computers.",
+    "speaker": null
+  },
+  {
+    "start": 29.759,
+    "end": 33.679,
+    "text": "Good guess, Sam, but how exactly do those computers work?",
+    "speaker": null
+  },
+  {
+    "start": 33.679,
+    "end": 37.28,
+    "text": "The answer is that they all use algorithms,",
+    "speaker": null
+  },
+  {
+    "start": 37.28,
+    "end": 41.359,
+    "text": "sets of mathematical instructions which find solutions to problems.",
+    "speaker": null
+  },
+  {
+    "start": 41.359,
+    "end": 43.6,
+    "text": "Although they are often hidden,",
+    "speaker": null
+  },
+  {
+    "start": 43.6,
+    "end": 45.679,
+    "text": "algorithms are all around us.",
+    "speaker": null
+  },
+  {
+    "start": 45.679,
+    "end": 48.719,
+    "text": "From mobile phone maps to home delivery pizza,",
+    "speaker": null
+  },
+  {
+    "start": 48.719,
+    "end": 51.2,
+    "text": "they play a big part of modern life.",
+    "speaker": null
+  },
+  {
+    "start": 51.2,
+    "end": 53.439,
+    "text": "And they're the topic of this programme.",
+    "speaker": null
+  },
+  {
+    "start": 53.439,
+    "end": 57.12,
+    "text": "A simple way to think of algorithms is as recipes.",
+    "speaker": null
+  },
+  {
+    "start": 57.439,
+    "end": 60.399,
+    "text": "To make pancakes, you mix flour, eggs and milk,",
+    "speaker": null
+  },
+  {
+    "start": 60.399,
+    "end": 63.359,
+    "text": "then melt butter in a frying pan, and so on.",
+    "speaker": null
+  },
+  {
+    "start": 63.359,
+    "end": 65.84,
+    "text": "Computers do this in a more complicated way",
+    "speaker": null
+  },
+  {
+    "start": 65.84,
+    "end": 69.759,
+    "text": "by repeating mathematical equations over and over again.",
+    "speaker": null
+  },
+  {
+    "start": 69.759,
+    "end": 74.319,
+    "text": "Equations are mathematical sentences showing how two things are equal.",
+    "speaker": null
+  },
+  {
+    "start": 74.319,
+    "end": 76,
+    "text": "They're similar to algorithms,",
+    "speaker": null
+  },
+  {
+    "start": 76,
+    "end": 78.799,
+    "text": "and the most famous scientific equation of all,",
+    "speaker": null
+  },
+  {
+    "start": 78.799,
+    "end": 82,
+    "text": "Einstein's e equals mc squared,",
+    "speaker": null
+  },
+  {
+    "start": 82,
+    "end": 85.2,
+    "text": "can be thought of as a three-part algorithm.",
+    "speaker": null
+  },
+  {
+    "start": 85.28,
+    "end": 88.24,
+    "text": "But before my brain gets squashed by all this maths,",
+    "speaker": null
+  },
+  {
+    "start": 88.24,
+    "end": 90.64,
+    "text": "I have a quiz question for you, Sam.",
+    "speaker": null
+  },
+  {
+    "start": 90.64,
+    "end": 94.879,
+    "text": "As you know, Einstein's famous equation is e equals mc squared.",
+    "speaker": null
+  },
+  {
+    "start": 94.879,
+    "end": 97.28,
+    "text": "But what does the e stand for?",
+    "speaker": null
+  },
+  {
+    "start": 97.28,
+    "end": 102.48,
+    "text": "Is it a electricity, b energy, or c, everything?",
+    "speaker": null
+  },
+  {
+    "start": 102.48,
+    "end": 104.56,
+    "text": "I'm tempted to say e is for everything,",
+    "speaker": null
+  },
+  {
+    "start": 104.56,
+    "end": 106.8,
+    "text": "but I reckon I know the answer.",
+    "speaker": null
+  },
+  {
+    "start": 106.8,
+    "end": 109.04,
+    "text": "B e stands for energy.",
+    "speaker": null
+  },
+  {
+    "start": 109.04,
+    "end": 112.719,
+    "text": "Okay, Sam, we'll find out if you're right later in the programme.",
+    "speaker": null
+  },
+  {
+    "start": 112.799,
+    "end": 116.879,
+    "text": "With all this talk of computers, you might think algorithms are a new idea. In fact, they’ve been around since Babylonian times, around 4,000 years ago.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 116.879,
+    "end": 120.159,
+    "text": "In fact, they've been around since Babylonian times,",
+    "speaker": null
+  },
+  {
+    "start": 120.159,
+    "end": 122.159,
+    "text": "around 4,000 years ago.",
+    "speaker": null
+  },
+  {
+    "start": 122.159,
+    "end": 124.64,
+    "text": "And their use today can be controversial.",
+    "speaker": null
+  },
+  {
+    "start": 124.64,
+    "end": 127.519,
+    "text": "Some algorithms used in internet search engines",
+    "speaker": null
+  },
+  {
+    "start": 127.519,
+    "end": 130,
+    "text": "have been accused of racial prejudice.",
+    "speaker": null
+  },
+  {
+    "start": 130,
+    "end": 133.36,
+    "text": "Ramesh Sunivasan is Professor of Information Studies",
+    "speaker": null
+  },
+  {
+    "start": 133.36,
+    "end": 135.599,
+    "text": "at the University of California.",
+    "speaker": null
+  },
+  {
+    "start": 135.599,
+    "end": 139.36,
+    "text": "Here's what he said when asked what the word algorithm actually means",
+    "speaker": null
+  },
+  {
+    "start": 139.36,
+    "end": 142.079,
+    "text": "by BBC World Service programme, The Forum.",
+    "speaker": null
+  },
+  {
+    "start": 143.439,
+    "end": 149.36,
+    "text": "My understanding of the term algorithm is it's not necessarily the boogie man",
+    "speaker": null
+  },
+  {
+    "start": 149.36,
+    "end": 155.36,
+    "text": "or it's not necessarily something that is, you know, inscrutable or mysterious to all people.",
+    "speaker": null
+  },
+  {
+    "start": 155.36,
+    "end": 160.96,
+    "text": "It's the set of instructions that you write in some mathematical form",
+    "speaker": null
+  },
+  {
+    "start": 160.96,
+    "end": 162.56,
+    "text": "or in some software code.",
+    "speaker": null
+  },
+  {
+    "start": 162.56,
+    "end": 166.56,
+    "text": "So it's a repeated set of instructions that are sequenced,",
+    "speaker": null
+  },
+  {
+    "start": 166.56,
+    "end": 171.12,
+    "text": "that are used and applied to answer a question or resolve a problem.",
+    "speaker": null
+  },
+  {
+    "start": 171.28,
+    "end": 172.8,
+    "text": "It's as simple as that actually.",
+    "speaker": null
+  },
+  {
+    "start": 175.039,
+    "end": 177.52,
+    "text": "Something that algorithms have been controversial,",
+    "speaker": null
+  },
+  {
+    "start": 177.52,
+    "end": 181.759,
+    "text": "but Professor Sunivasan says they are not necessarily the bogeyman.",
+    "speaker": null
+  },
+  {
+    "start": 182.4,
+    "end": 188.4,
+    "text": "The bogeyman refers to something people call bad or evil to make other people afraid.",
+    "speaker": null
+  },
+  {
+    "start": 188.4,
+    "end": 193.92,
+    "text": "Professor Sunivasan thinks algorithms are neither evil nor inscrutable,",
+    "speaker": null
+  },
+  {
+    "start": 193.92,
+    "end": 198.08,
+    "text": "Professor Srinivasan thinks algorithms are neither evil nor inscrutable – not showing emotions or thoughts and therefore very difficult to understand.",
+    "speaker": "inscrutable"
+  },
+  {
+    "start": 198.64,
+    "end": 202.48,
+    "text": "Still, it can be difficult to understand exactly what algorithms are,",
+    "speaker": null
+  },
+  {
+    "start": 202.48,
+    "end": 205.68,
+    "text": "especially when there are many different types of them.",
+    "speaker": null
+  },
+  {
+    "start": 205.68,
+    "end": 207.36,
+    "text": "So let's take an example.",
+    "speaker": null
+  },
+  {
+    "start": 207.36,
+    "end": 212.64,
+    "text": "It’s autumn and we want to collect all the apples from our orchard and divide them into three groups – big, medium and small. One method is to collect all the apples together and compare their sizes.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 212.64,
+    "end": 214.8,
+    "text": "Big, medium and small.",
+    "speaker": null
+  },
+  {
+    "start": 214.8,
+    "end": 218.88,
+    "text": "One method is to collect all the apples together and compare their sizes.",
+    "speaker": null
+  },
+  {
+    "start": 219.439,
+    "end": 221.12,
+    "text": "But doing this would take hours.",
+    "speaker": null
+  },
+  {
+    "start": 221.12,
+    "end": 225.2,
+    "text": "It's much easier to first collect the apples from only one tree,",
+    "speaker": null
+  },
+  {
+    "start": 225.199,
+    "end": 228.319,
+    "text": "divide those into big, medium or small,",
+    "speaker": null
+  },
+  {
+    "start": 228.319,
+    "end": 232.479,
+    "text": "and then repeat the process for the other trees, one by one.",
+    "speaker": null
+  },
+  {
+    "start": 232.479,
+    "end": 234.799,
+    "text": "That's basically what algorithms do.",
+    "speaker": null
+  },
+  {
+    "start": 234.799,
+    "end": 237.759,
+    "text": "They find the most efficient way to get things done.",
+    "speaker": null
+  },
+  {
+    "start": 237.759,
+    "end": 240.799,
+    "text": "Or in other words, get the best results in the quickest time.",
+    "speaker": null
+  },
+  {
+    "start": 241.599,
+    "end": 244.479,
+    "text": "Mathematics Professor Ian Stewart agrees.",
+    "speaker": null
+  },
+  {
+    "start": 244.479,
+    "end": 248.719,
+    "text": "Listen as he explains how the algorithm called bubble sort",
+    "speaker": null
+  },
+  {
+    "start": 248.719,
+    "end": 251.599,
+    "text": "works to BBC World Service Program the forum.",
+    "speaker": null
+  },
+  {
+    "start": 251.919,
+    "end": 256.959,
+    "text": "Think of when your computer is sorting emails by date,",
+    "speaker": null
+  },
+  {
+    "start": 256.959,
+    "end": 260.639,
+    "text": "and maybe you've got 500 emails, and it sorts them by date in a flash.",
+    "speaker": null
+  },
+  {
+    "start": 260.639,
+    "end": 263.839,
+    "text": "Now, it doesn't use bubble sort, but it does use a sorting method.",
+    "speaker": null
+  },
+  {
+    "start": 263.839,
+    "end": 267.68,
+    "text": "And if you tried to do that by hand, it would take you a very long time,",
+    "speaker": null
+  },
+  {
+    "start": 267.68,
+    "end": 268.959,
+    "text": "whatever method you used.",
+    "speaker": null
+  },
+  {
+    "start": 271.439,
+    "end": 275.04,
+    "text": "Professor Stewart describes how algorithms sort emails.",
+    "speaker": null
+  },
+  {
+    "start": 275.04,
+    "end": 279.519,
+    "text": "Professor Stewart describes how algorithms sort emails. To sort is a verb meaning to group together things which share similarities.",
+    "speaker": "sort"
+  },
+  {
+    "start": 279.599,
+    "end": 282.159,
+    "text": "Just like grouping the apples by size,",
+    "speaker": null
+  },
+  {
+    "start": 282.159,
+    "end": 286,
+    "text": "sorting hundreds of emails by hand would take a long time.",
+    "speaker": null
+  },
+  {
+    "start": 286,
+    "end": 291.599,
+    "text": "But using algorithms, computers do it in a flash very quickly or suddenly.",
+    "speaker": null
+  },
+  {
+    "start": 291.599,
+    "end": 296.399,
+    "text": "That phrase – in a flash – reminds me of how Albert Einstein came up with his famous equation, E=MC2.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 296.399,
+    "end": 299.68,
+    "text": "equation E equals MC squared.",
+    "speaker": null
+  },
+  {
+    "start": 299.68,
+    "end": 302.799,
+    "text": "And that reminds me of your quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 302.799,
+    "end": 306.639,
+    "text": "You asked about the E in E equals MC squared.",
+    "speaker": null
+  },
+  {
+    "start": 306.719,
+    "end": 309.519,
+    "text": "I said it stands for energy, so was I right?",
+    "speaker": null
+  },
+  {
+    "start": 309.519,
+    "end": 311.439,
+    "text": "Energy is the correct answer.",
+    "speaker": null
+  },
+  {
+    "start": 312.159,
+    "end": 316.56,
+    "text": "Energy equals M for mass multiplied by the constant C,",
+    "speaker": null
+  },
+  {
+    "start": 316.56,
+    "end": 318.479,
+    "text": "which is the speed of light squared.",
+    "speaker": null
+  },
+  {
+    "start": 319.279,
+    "end": 324.159,
+    "text": "Okay, let's recap the vocabulary from this program starting with equation,",
+    "speaker": null
+  },
+  {
+    "start": 324.159,
+    "end": 328.719,
+    "text": "a mathematical statement using symbols to show two equal things.",
+    "speaker": null
+  },
+  {
+    "start": 328.719,
+    "end": 333.599,
+    "text": "If something is called a bogeyman, it's something considered bad and to be feared.",
+    "speaker": null
+  },
+  {
+    "start": 333.68,
+    "end": 338.48,
+    "text": "Inscrutable people don't show their emotions, so they are very difficult to get to know.",
+    "speaker": null
+  },
+  {
+    "start": 338.48,
+    "end": 342.4,
+    "text": "Efficient means working quickly and effectively in an organized way.",
+    "speaker": null
+  },
+  {
+    "start": 342.4,
+    "end": 346.96,
+    "text": "The verb to sort means to group together things which share similarities.",
+    "speaker": "sort"
+  },
+  {
+    "start": 346.96,
+    "end": 351.92,
+    "text": "And finally, if something happens in a flash, it happens quickly or suddenly.",
+    "speaker": "in a flash"
+  },
+  {
+    "start": 351.92,
+    "end": 354.879,
+    "text": "That's all the time we have to discuss algorithms.",
+    "speaker": null
+  },
+  {
+    "start": 354.879,
+    "end": 358.72,
+    "text": "And if you're still not 100% sure about exactly what they are,",
+    "speaker": null
+  },
+  {
+    "start": 358.72,
+    "end": 361.439,
+    "text": "we hope at least you've learned some useful vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 361.439,
+    "end": 363.759,
+    "text": "Join us again soon for more trending topics,",
+    "speaker": null
+  },
+  {
+    "start": 363.759,
+    "end": 366.639,
+    "text": "Sensational Science and Useful Vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 366.639,
+    "end": 369.6,
+    "text": "Here at 6 Minute English from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 369.6,
+    "end": 370.48,
+    "text": "Bye for now.",
+    "speaker": null
+  },
+  {
+    "start": 370.48,
+    "end": 371.279,
+    "text": "Goodbye!",
+    "speaker": "Sam"
+  }
+]

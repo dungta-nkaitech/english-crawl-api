@@ -1,0 +1,470 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 9.519,
+    "text": "6 Minute English from the BBC.",
+    "speaker": null
+  },
+  {
+    "start": 12.4,
+    "end": 16.399,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 16.399,
+    "end": 17.28,
+    "text": "And I’m Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 17.28,
+    "end": 20.48,
+    "text": "We're talking about the environment in this program,",
+    "speaker": null
+  },
+  {
+    "start": 20.48,
+    "end": 22.64,
+    "text": "specifically climate change.",
+    "speaker": null
+  },
+  {
+    "start": 22.64,
+    "end": 26.719,
+    "text": "Now, Sam, what do you think is the biggest cause of climate change?",
+    "speaker": null
+  },
+  {
+    "start": 26.799,
+    "end": 31.28,
+    "text": "An obvious answer would be that climate change is the result of carbon emissions",
+    "speaker": null
+  },
+  {
+    "start": 31.28,
+    "end": 35.2,
+    "text": "caused by humans. It's about people's carbon footprint.",
+    "speaker": null
+  },
+  {
+    "start": 35.2,
+    "end": 40.239,
+    "text": "The measurement of how much carbon dioxide is produced by someone's everyday activities.",
+    "speaker": null
+  },
+  {
+    "start": 40.239,
+    "end": 44.719,
+    "text": "That makes sense. But recently, some scientists, especially in the West,",
+    "speaker": null
+  },
+  {
+    "start": 44.719,
+    "end": 47.2,
+    "text": "have been focusing on another issue.",
+    "speaker": null
+  },
+  {
+    "start": 47.2,
+    "end": 49.92,
+    "text": "The increasing number of people in the world,",
+    "speaker": null
+  },
+  {
+    "start": 49.92,
+    "end": 52.399,
+    "text": "something known as overpopulation.",
+    "speaker": null
+  },
+  {
+    "start": 52.399,
+    "end": 58.64,
+    "text": "In this program, we'll be discussing the controversial link between overpopulation and climate change.",
+    "speaker": null
+  },
+  {
+    "start": 58.64,
+    "end": 62.32,
+    "text": "And as usual, we'll be learning some new vocabulary as well.",
+    "speaker": null
+  },
+  {
+    "start": 62.32,
+    "end": 65.84,
+    "text": "Sounds good, Neil. But first, I have a question for you.",
+    "speaker": null
+  },
+  {
+    "start": 65.84,
+    "end": 71.84,
+    "text": "Over the last 100 years, within one lifetime, the world's population has soared.",
+    "speaker": null
+  },
+  {
+    "start": 71.84,
+    "end": 76.64,
+    "text": "At the start of the 20th century, it was around one and a half billion.",
+    "speaker": null
+  },
+  {
+    "start": 76.64,
+    "end": 79.92,
+    "text": "But how many people are there in the world today?",
+    "speaker": null
+  },
+  {
+    "start": 80.239,
+    "end": 86.159,
+    "text": "Is it A, 7 billion, B, 8 billion, or C, 9 billion?",
+    "speaker": null
+  },
+  {
+    "start": 86.159,
+    "end": 90.48,
+    "text": "I'll say around 8 billion people live on the planet today.",
+    "speaker": null
+  },
+  {
+    "start": 90.48,
+    "end": 93.84,
+    "text": "Okay, Neil, I'll reveal the answer later in the program.",
+    "speaker": null
+  },
+  {
+    "start": 93.84,
+    "end": 97.04,
+    "text": "Since climate change is caused by human activities,",
+    "speaker": null
+  },
+  {
+    "start": 97.04,
+    "end": 102.24,
+    "text": "it seems common sense that fewer people would mean lower carbon emissions.",
+    "speaker": null
+  },
+  {
+    "start": 102.24,
+    "end": 105.28,
+    "text": "But in fact, the connection isn't so simple.",
+    "speaker": null
+  },
+  {
+    "start": 105.28,
+    "end": 107.76,
+    "text": "Not everyone emits carbon equally.",
+    "speaker": null
+  },
+  {
+    "start": 107.92,
+    "end": 113.84,
+    "text": "People in the Western world produce far more than people in sub-Saharan Africa or Asia.",
+    "speaker": null
+  },
+  {
+    "start": 113.84,
+    "end": 119.12,
+    "text": "Avvind Ravikuma is professor of climate policy at the University of Texas.",
+    "speaker": null
+  },
+  {
+    "start": 119.12,
+    "end": 123.6,
+    "text": "He's made the surprising calculation that an extra 2 billion people,",
+    "speaker": null
+  },
+  {
+    "start": 123.6,
+    "end": 129.2,
+    "text": "born in low-consuming countries, would actually add very little to global carbon emissions.",
+    "speaker": null
+  },
+  {
+    "start": 129.2,
+    "end": 133.68,
+    "text": "Here, Kate Lambel and Neil Resell, presenters of BBC World Service Program,",
+    "speaker": null
+  },
+  {
+    "start": 133.76,
+    "end": 138,
+    "text": "the climate question, discuss Professor Ravikuma's findings.",
+    "speaker": null
+  },
+  {
+    "start": 138,
+    "end": 140.48,
+    "text": "What he's saying is kind of astonishing, right?",
+    "speaker": null
+  },
+  {
+    "start": 140.48,
+    "end": 143.76,
+    "text": "2 billion people is, to say the least, a lot.",
+    "speaker": null
+  },
+  {
+    "start": 143.76,
+    "end": 146.8,
+    "text": "It's the combined population of Europe and Africa.",
+    "speaker": null
+  },
+  {
+    "start": 146.8,
+    "end": 151.04,
+    "text": "He's crunched the numbers and found that an extra 2 billion low-income people,",
+    "speaker": null
+  },
+  {
+    "start": 151.04,
+    "end": 154.719,
+    "text": "as defined by the World Bank, these are people without cars, without electricity often,",
+    "speaker": null
+  },
+  {
+    "start": 155.36,
+    "end": 159.52,
+    "text": "would see global emissions rise by just 1.5%.",
+    "speaker": null
+  },
+  {
+    "start": 159.6,
+    "end": 164.96,
+    "text": "Add 2 billion high-income earners, that's people with cars and power and all the modcons,",
+    "speaker": null
+  },
+  {
+    "start": 164.96,
+    "end": 168.4,
+    "text": "and Avvind reckons emissions would rise by more than 60%.",
+    "speaker": null
+  },
+  {
+    "start": 168.4,
+    "end": 172.719,
+    "text": "So when it comes to climate change and population, where you were born matters.",
+    "speaker": "Neal Razzell"
+  },
+  {
+    "start": 172.719,
+    "end": 176.879,
+    "text": "Professor Ravikuma made his discovery after crunching the numbers,",
+    "speaker": null
+  },
+  {
+    "start": 176.879,
+    "end": 182.719,
+    "text": "Professor Ravikumar made his discovery after crunching the numbers, an idiom meaning performing many mathematical calculations involving large amounts of data.",
+    "speaker": "crunching the numbers"
+  },
+  {
+    "start": 182.719,
+    "end": 188.4,
+    "text": "He concluded that whereas 2 billion low-income people would increase carbon levels very little,",
+    "speaker": null
+  },
+  {
+    "start": 188.879,
+    "end": 192.48,
+    "text": "2 billion high-income people would increase it a lot.",
+    "speaker": null
+  },
+  {
+    "start": 192.96,
+    "end": 199.84,
+    "text": "That's because high-income populations have modcons, which are short for modern conveniences,",
+    "speaker": null
+  },
+  {
+    "start": 199.84,
+    "end": 206,
+    "text": "technology and machines like cars, fridges and air conditioning that make life easier and more",
+    "speaker": null
+  },
+  {
+    "start": 206,
+    "end": 212.64,
+    "text": "pleasant. According to this view, the real problem is not overpopulation, but over consumption.",
+    "speaker": null
+  },
+  {
+    "start": 212.64,
+    "end": 218.08,
+    "text": "Affluence, that's having lots of money and owning many things, has become a big factor in",
+    "speaker": null
+  },
+  {
+    "start": 218.08,
+    "end": 222.8,
+    "text": "climate change, and that's true in poorer countries as well as richer ones.",
+    "speaker": null
+  },
+  {
+    "start": 222.8,
+    "end": 229.04,
+    "text": "Listen to Rajesh Joshi, reporter for BBC World Service’s, The Climate Question, interviewing a rich Indian housewife, Priti Dhagan, in her luxurious home in New Delhi.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 229.04,
+    "end": 233.52,
+    "text": "Indian housewife, Priti Dagan, in her luxurious home in New Delhi.",
+    "speaker": null
+  },
+  {
+    "start": 233.52,
+    "end": 241.84,
+    "text": "I need everything that I buy. You cannot be judgmental about anybody's needs, and I derive a lot",
+    "speaker": null
+  },
+  {
+    "start": 242,
+    "end": 248.56,
+    "text": "of happiness out of being very, very drawn towards consumer things, and I love it, and I am not",
+    "speaker": null
+  },
+  {
+    "start": 248.56,
+    "end": 256.079,
+    "text": "apologetic about it. So if I tell you that poor people have a smaller carbon footprint as compared",
+    "speaker": null
+  },
+  {
+    "start": 256.079,
+    "end": 261.519,
+    "text": "to their richer counterparts, do you feel apologetic about it? So the brain says, yes, we should be",
+    "speaker": null
+  },
+  {
+    "start": 261.519,
+    "end": 267.84,
+    "text": "apologetic about it, but the heart does not agree, yes. Poor can't afford lots of stuff, so the",
+    "speaker": null
+  },
+  {
+    "start": 267.839,
+    "end": 274.479,
+    "text": "carbon imprint is small, but here my heart wins over my brain because it gives me happiness.",
+    "speaker": null
+  },
+  {
+    "start": 274.479,
+    "end": 280.239,
+    "text": "Priti does not feel apologetic about her shopping. She doesn't think that she should feel sorry.",
+    "speaker": null
+  },
+  {
+    "start": 280.879,
+    "end": 286.319,
+    "text": "Shopping makes her happy, and she lets her heart rule her head, an idiom, meaning that you do",
+    "speaker": null
+  },
+  {
+    "start": 286.319,
+    "end": 292.879,
+    "text": "something based on emotions rather than reason. Priti is being very honest. She is consuming and looking",
+    "speaker": null
+  },
+  {
+    "start": 292.879,
+    "end": 297.12,
+    "text": "Priti is being very honest. She is consuming and looking for happiness in a way that people in the west have been doing for decades.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 297.12,
+    "end": 303.04,
+    "text": "It seems overconsumption is a bigger cause of climate change than raw population numbers. Speaking of which… what was the answer to your question, Sam?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 303.04,
+    "end": 307.12,
+    "text": "Speaking of which, what was the answer to your question, Sam?",
+    "speaker": null
+  },
+  {
+    "start": 307.12,
+    "end": 313.6,
+    "text": "Ah yes, I asked about the current global population. You guessed it was around 8 billion people,",
+    "speaker": null
+  },
+  {
+    "start": 313.6,
+    "end": 319.839,
+    "text": "which was the correct answer. According to the United Nations, the world's population reached 8",
+    "speaker": null
+  },
+  {
+    "start": 319.839,
+    "end": 326.879,
+    "text": "billion on November 15th, 2022. Right, let's recap the vocabulary we've learned starting with",
+    "speaker": null
+  },
+  {
+    "start": 326.879,
+    "end": 332.479,
+    "text": "carbon footprint, a measurement of how much carbon dioxide someone's activities produce.",
+    "speaker": null
+  },
+  {
+    "start": 332.479,
+    "end": 338.399,
+    "text": "If you crunch numbers, you perform many mathematical calculations involving large amounts of data.",
+    "speaker": "crunch numbers"
+  },
+  {
+    "start": 338.399,
+    "end": 344.719,
+    "text": "Mod cons is short for modern conveniences, machines like cars, washing machines, and fridges,",
+    "speaker": null
+  },
+  {
+    "start": 344.719,
+    "end": 347.279,
+    "text": "which make life easier and more pleasant.",
+    "speaker": null
+  },
+  {
+    "start": 347.359,
+    "end": 351.199,
+    "text": "Affluence means having lots of money or material possessions.",
+    "speaker": "Affluence"
+  },
+  {
+    "start": 351.199,
+    "end": 356.799,
+    "text": "If you are apologetic, you show that you feel sorry for something harmful you have said or done.",
+    "speaker": "apologetic"
+  },
+  {
+    "start": 356.799,
+    "end": 363.119,
+    "text": "And finally, the idiom let your heart rule your head means to do something based on emotion and personal desires rather than for logical or practical reasons. For now it’s goodbye!",
+    "speaker": "let your heart rule your head"
+  },
+  {
+    "start": 363.119,
+    "end": 369.519,
+    "text": "and personal desires rather than for logical or practical reasons. For now, it's goodbye.",
+    "speaker": null
+  },
+  {
+    "start": 369.519,
+    "end": 370.239,
+    "text": "Bye bye!",
+    "speaker": "Sam"
+  }
+]

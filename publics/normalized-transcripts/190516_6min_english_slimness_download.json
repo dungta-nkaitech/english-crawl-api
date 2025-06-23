@@ -1,0 +1,668 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 11.439,
+    "text": "6 Minute English from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 12.64,
+    "end": 17.199,
+    "text": "Hello and welcome to 6 Minute English. I'm Neil, joining me for this is Dan.",
+    "speaker": null
+  },
+  {
+    "start": 17.199,
+    "end": 18.16,
+    "text": "Hello.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 18.16,
+    "end": 20.8,
+    "text": "And can I say Dan, you're looking very slim – it looks like your diet is working!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 20.8,
+    "end": 22.8,
+    "text": "It looks like your diet is working.",
+    "speaker": null
+  },
+  {
+    "start": 22.8,
+    "end": 26.24,
+    "text": "This is my normal figure, and I have not been on a diet.",
+    "speaker": null
+  },
+  {
+    "start": 26.24,
+    "end": 28.96,
+    "text": "This is my normal figure – and I have not been on a diet. But it looks like you've actually put on a bit of weight.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 28.96,
+    "end": 32,
+    "text": "Well, I may have a little punch or a fat stomach,",
+    "speaker": null
+  },
+  {
+    "start": 32,
+    "end": 34.799,
+    "text": "but didn't you know that it's out of my control?",
+    "speaker": null
+  },
+  {
+    "start": 34.799,
+    "end": 38.48,
+    "text": "Some of this has to do with my jeans, not the ones I wear,",
+    "speaker": null
+  },
+  {
+    "start": 38.48,
+    "end": 41.92,
+    "text": "but the cells in my body that control my development.",
+    "speaker": null
+  },
+  {
+    "start": 41.92,
+    "end": 44.24,
+    "text": "That's what we'll be discussing in this programme.",
+    "speaker": null
+  },
+  {
+    "start": 44.24,
+    "end": 47.2,
+    "text": "However, our audience might describe themselves,",
+    "speaker": null
+  },
+  {
+    "start": 47.2,
+    "end": 51.28,
+    "text": "tubby and overweight, or thin and skinny, which means very thin.",
+    "speaker": null
+  },
+  {
+    "start": 51.28,
+    "end": 54.56,
+    "text": "They're more than welcome to join us on this voyage of discovery.",
+    "speaker": null
+  },
+  {
+    "start": 54.56,
+    "end": 56.96,
+    "text": "So let's start with answering a question, huh?",
+    "speaker": null
+  },
+  {
+    "start": 56.96,
+    "end": 62,
+    "text": "What's the name of the popular diet that involves avoiding eating carbohydrates and in which you can eat as much fat and protein as you like? Is it…",
+    "speaker": "Neil"
+  },
+  {
+    "start": 62,
+    "end": 65.28,
+    "text": "and in which you can eat as much fat protein as you'd like?",
+    "speaker": null
+  },
+  {
+    "start": 65.28,
+    "end": 71.04,
+    "text": "Is it A, the Mediterranean diet, B, the Atkins diet, or C, the Graham diet?",
+    "speaker": null
+  },
+  {
+    "start": 71.04,
+    "end": 74.64,
+    "text": "I've heard of the Atkins diet, so I'll say b).",
+    "speaker": "Dan"
+  },
+  {
+    "start": 74.64,
+    "end": 77.2,
+    "text": "Well, you'll have to wait a bit to find out.",
+    "speaker": null
+  },
+  {
+    "start": 77.2,
+    "end": 80.64,
+    "text": "But, Dan, you may have also heard of a crashed diet.",
+    "speaker": null
+  },
+  {
+    "start": 80.64,
+    "end": 84.96,
+    "text": "That's where someone makes a rapid change to the types of food they eat,",
+    "speaker": null
+  },
+  {
+    "start": 84.959,
+    "end": 87.359,
+    "text": "with the aim of losing weight quickly.",
+    "speaker": null
+  },
+  {
+    "start": 87.359,
+    "end": 90.319,
+    "text": "Yes, I know that eating this way can be risky for your health and they don't always work.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 90.319,
+    "end": 92.159,
+    "text": "and they don't always work.",
+    "speaker": null
+  },
+  {
+    "start": 92.159,
+    "end": 95.599,
+    "text": "That's true, and now scientists have some evidence that shows that our weight",
+    "speaker": null
+  },
+  {
+    "start": 95.599,
+    "end": 97.839,
+    "text": "is not just controlled by what we eat,",
+    "speaker": null
+  },
+  {
+    "start": 97.839,
+    "end": 101.519,
+    "text": "so it might be quite natural for someone to be thin or fat.",
+    "speaker": null
+  },
+  {
+    "start": 101.519,
+    "end": 103.039,
+    "text": "It's all to do with their jeans.",
+    "speaker": null
+  },
+  {
+    "start": 103.039,
+    "end": 106.799,
+    "text": "Research published in the journal PLOS Genetics",
+    "speaker": null
+  },
+  {
+    "start": 106.799,
+    "end": 112.799,
+    "text": "explains how twin studies have shown that about 40% of the variation in a person's weight",
+    "speaker": null
+  },
+  {
+    "start": 112.799,
+    "end": 114.479,
+    "text": "is affected by their jeans.",
+    "speaker": null
+  },
+  {
+    "start": 114.48,
+    "end": 118.4,
+    "text": "And also why thin but healthy people have genetic advantages",
+    "speaker": null
+  },
+  {
+    "start": 118.4,
+    "end": 120.719,
+    "text": "in terms of maintaining a healthy weight.",
+    "speaker": null
+  },
+  {
+    "start": 120.719,
+    "end": 125.439,
+    "text": "So, that means that losing weight isn't just about having willpower.",
+    "speaker": null
+  },
+  {
+    "start": 125.439,
+    "end": 128.56,
+    "text": "That's controlling your own behaviour to achieve something.",
+    "speaker": null
+  },
+  {
+    "start": 128.56,
+    "end": 131.759,
+    "text": "It's actually about something that's out of our control.",
+    "speaker": null
+  },
+  {
+    "start": 131.759,
+    "end": 133.039,
+    "text": "Yes, possibly.",
+    "speaker": null
+  },
+  {
+    "start": 133.039,
+    "end": 136,
+    "text": "Let's hear from the studies author, Sadar Farouki,",
+    "speaker": null
+  },
+  {
+    "start": 136,
+    "end": 139.84,
+    "text": "who is professor of metabolism and medicine at the University of Cambridge,",
+    "speaker": null
+  },
+  {
+    "start": 139.84,
+    "end": 144.319,
+    "text": "and has been a pioneer in the genetics of obesity for more than 20 years.",
+    "speaker": null
+  },
+  {
+    "start": 144.319,
+    "end": 147.439,
+    "text": "Obesity, of course, is where someone is very overweight",
+    "speaker": null
+  },
+  {
+    "start": 147.439,
+    "end": 149.359,
+    "text": "in a way that's dangerous for their health.",
+    "speaker": null
+  },
+  {
+    "start": 150.239,
+    "end": 154.159,
+    "text": "Here she is speaking on the BBC World Service Programme Health Check.",
+    "speaker": null
+  },
+  {
+    "start": 154.159,
+    "end": 157.28,
+    "text": "What does she say might be one of the benefits of this research",
+    "speaker": null
+  },
+  {
+    "start": 157.28,
+    "end": 158.959,
+    "text": "for people who are overweight?",
+    "speaker": null
+  },
+  {
+    "start": 160.079,
+    "end": 163.12,
+    "text": "It actually can be very helpful in trying to get them to come to terms",
+    "speaker": null
+  },
+  {
+    "start": 163.12,
+    "end": 165.039,
+    "text": "with some of the difficulties they may be having,",
+    "speaker": null
+  },
+  {
+    "start": 165.039,
+    "end": 168.079,
+    "text": "but also help them to engage with help and support",
+    "speaker": null
+  },
+  {
+    "start": 168.079,
+    "end": 169.759,
+    "text": "to try and encourage weight loss.",
+    "speaker": null
+  },
+  {
+    "start": 169.759,
+    "end": 172.879,
+    "text": "I hope one of the main outcomes of this work might be to a little bit",
+    "speaker": null
+  },
+  {
+    "start": 172.879,
+    "end": 175.12,
+    "text": "start to get people thinking about that,",
+    "speaker": null
+  },
+  {
+    "start": 175.12,
+    "end": 177.12,
+    "text": "because people are very judgment and tend to think,",
+    "speaker": null
+  },
+  {
+    "start": 177.12,
+    "end": 180.479,
+    "text": "look, if I can stay thin and control my weight, why can't you?",
+    "speaker": null
+  },
+  {
+    "start": 180.479,
+    "end": 184,
+    "text": "And what I would say to that is, well, the data there shows that you're probably quite lucky",
+    "speaker": null
+  },
+  {
+    "start": 184,
+    "end": 185.84,
+    "text": "in terms of the genes that you have,",
+    "speaker": null
+  },
+  {
+    "start": 185.84,
+    "end": 189.12,
+    "text": "rather than just being either morally superior or having better willpower.",
+    "speaker": null
+  },
+  {
+    "start": 190.479,
+    "end": 192.24,
+    "text": "Some interesting thoughts there.",
+    "speaker": null
+  },
+  {
+    "start": 192.24,
+    "end": 197.039,
+    "text": "For people who are overweight, this research can help them come to terms with the struggle",
+    "speaker": null
+  },
+  {
+    "start": 197.039,
+    "end": 199.28,
+    "text": "they may be having to lose weight.",
+    "speaker": null
+  },
+  {
+    "start": 199.28,
+    "end": 200.879,
+    "text": "When you come to terms with something,",
+    "speaker": null
+  },
+  {
+    "start": 200.879,
+    "end": 204.56,
+    "text": "The next phrase, come to terms with something means you start to accept the difficult or unpleasant situation you are in.",
+    "speaker": "come to terms"
+  },
+  {
+    "start": 204.56,
+    "end": 208.96,
+    "text": "So I suppose she means accepting that if you're trying to share a few pounds,",
+    "speaker": null
+  },
+  {
+    "start": 208.96,
+    "end": 212.159,
+    "text": "unsuccessfully, it's not all your fault.",
+    "speaker": null
+  },
+  {
+    "start": 212.159,
+    "end": 217.519,
+    "text": "And it may stop people being so judgmental that's so quick to criticize people",
+    "speaker": null
+  },
+  {
+    "start": 217.519,
+    "end": 219.12,
+    "text": "based on their own beliefs.",
+    "speaker": null
+  },
+  {
+    "start": 219.12,
+    "end": 224,
+    "text": "A slim person might say, well, I at less and lost weight, so why can't you?",
+    "speaker": null
+  },
+  {
+    "start": 224,
+    "end": 226.719,
+    "text": "And now we know things aren't quite that simple.",
+    "speaker": null
+  },
+  {
+    "start": 226.719,
+    "end": 229.12,
+    "text": "You're just lucky to have the right genes,",
+    "speaker": null
+  },
+  {
+    "start": 229.12,
+    "end": 231.439,
+    "text": "but it doesn't make you morally superior.",
+    "speaker": null
+  },
+  {
+    "start": 231.439,
+    "end": 234.319,
+    "text": "So it's not just about having willpower.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 234.319,
+    "end": 238.719,
+    "text": "This research is much more detailed, of course, than we've had time to explain here,",
+    "speaker": null
+  },
+  {
+    "start": 238.719,
+    "end": 241.68,
+    "text": "but for someone who is overweight, will they feel defeated?",
+    "speaker": null
+  },
+  {
+    "start": 241.68,
+    "end": 244.56,
+    "text": "Absolutely not, according to Professor Faroukhi.",
+    "speaker": null
+  },
+  {
+    "start": 244.56,
+    "end": 247.68,
+    "text": "For people who are obese, this research is helpful.",
+    "speaker": null
+  },
+  {
+    "start": 247.68,
+    "end": 249.52,
+    "text": "Not only should it give them hope,",
+    "speaker": null
+  },
+  {
+    "start": 249.52,
+    "end": 253.04,
+    "text": "it could lead to the development of medicines to help them.",
+    "speaker": null
+  },
+  {
+    "start": 253.04,
+    "end": 256.639,
+    "text": "But as genes only play a part in our size and weight,",
+    "speaker": null
+  },
+  {
+    "start": 256.639,
+    "end": 258.959,
+    "text": "we should all eat a healthy diet and do some exercise,",
+    "speaker": null
+  },
+  {
+    "start": 258.959,
+    "end": 263.839,
+    "text": "and there is always new research about the best things to do and the right things to eat.",
+    "speaker": null
+  },
+  {
+    "start": 263.839,
+    "end": 267.279,
+    "text": "Recently, research published in the British Journal of Sports Medicine",
+    "speaker": null
+  },
+  {
+    "start": 267.279,
+    "end": 271.12,
+    "text": "said that bursts of high-intensity interval training",
+    "speaker": null
+  },
+  {
+    "start": 271.12,
+    "end": 275.519,
+    "text": "may be more effective for weight loss than longer, less intense workouts.",
+    "speaker": null
+  },
+  {
+    "start": 275.519,
+    "end": 278.719,
+    "text": "A burst is a sudden and short increase in something.",
+    "speaker": null
+  },
+  {
+    "start": 278.719,
+    "end": 284,
+    "text": "Even if diets don't help you lose weight, eating a balanced diet can certainly keep you healthy",
+    "speaker": null
+  },
+  {
+    "start": 284,
+    "end": 285.279,
+    "text": "and make you feel good.",
+    "speaker": null
+  },
+  {
+    "start": 285.359,
+    "end": 289.919,
+    "text": "And as I'm talking about diets, why don't I answer the question I asked you earlier?",
+    "speaker": null
+  },
+  {
+    "start": 290.479,
+    "end": 295.199,
+    "text": "What's the name of the popular diet in which you should avoid eating carbohydrates,",
+    "speaker": null
+  },
+  {
+    "start": 295.199,
+    "end": 298.479,
+    "text": "but you can have as much fat and protein as you want?",
+    "speaker": null
+  },
+  {
+    "start": 298.479,
+    "end": 303.679,
+    "text": "Is it A, the Mediterranean diet, B, the Atkins diet, or C, the Graham diet?",
+    "speaker": null
+  },
+  {
+    "start": 303.679,
+    "end": 306.719,
+    "text": "I said the Atkins diet.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 306.719,
+    "end": 307.679,
+    "text": "Woo-hoo, well done.",
+    "speaker": null
+  },
+  {
+    "start": 308.239,
+    "end": 313.439,
+    "text": "This well-known low-carb diet was developed by the American physician and cardiologist",
+    "speaker": null
+  },
+  {
+    "start": 313.439,
+    "end": 318.48,
+    "text": "Robert Atkins in the 1960s. Other low-carb diets are available.",
+    "speaker": null
+  },
+  {
+    "start": 318.48,
+    "end": 323.12,
+    "text": "Neil, I think it's time we've reminded ourselves of some of the vocabulary we've discussed today.",
+    "speaker": null
+  },
+  {
+    "start": 323.12,
+    "end": 329.519,
+    "text": "Good idea. Let's talk about Pornch, another name for a fat stomach that men like me and you have.",
+    "speaker": null
+  },
+  {
+    "start": 329.519,
+    "end": 335.12,
+    "text": "Ha, speak for yourself. I'm closer to skinny. A word to describe someone looking very thin",
+    "speaker": null
+  },
+  {
+    "start": 335.12,
+    "end": 341.199,
+    "text": "and sometimes ill. Our next word was willpower. If you have willpower, you can control your own",
+    "speaker": null
+  },
+  {
+    "start": 341.199,
+    "end": 345.199,
+    "text": "behaviour to achieve something. The next phrase comes to terms with something,",
+    "speaker": null
+  },
+  {
+    "start": 345.199,
+    "end": 349.279,
+    "text": "means you start to accept the difficult or unpleasant situation you are in.",
+    "speaker": null
+  },
+  {
+    "start": 349.279,
+    "end": 353.599,
+    "text": "If you're judgemental, you're quick to criticize people based on your own beliefs.",
+    "speaker": null
+  },
+  {
+    "start": 353.599,
+    "end": 357.919,
+    "text": "And finally, we mentioned a burst of high intensity interval training. A burst is a sudden and short increase in something.",
+    "speaker": "burstburst"
+  },
+  {
+    "start": 357.919,
+    "end": 360.8,
+    "text": "A burst is a sudden and short increase in something.",
+    "speaker": null
+  },
+  {
+    "start": 360.8,
+    "end": 364.639,
+    "text": "Well we've had a burst of vocabulary there and it's time to say goodbye. Please join us next time.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 364.639,
+    "end": 365.919,
+    "text": "Please join us next time.",
+    "speaker": null
+  },
+  {
+    "start": 365.919,
+    "end": 370.079,
+    "text": "And of course don't forget our website, bbclearningenglish.com. Goodbye.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 370.079,
+    "end": 370.56,
+    "text": "Bye!",
+    "speaker": "Dan"
+  },
+  {
+    "start": 371.199,
+    "end": 374.56,
+    "text": "6-minute English from the BBC.",
+    "speaker": null
+  }
+]

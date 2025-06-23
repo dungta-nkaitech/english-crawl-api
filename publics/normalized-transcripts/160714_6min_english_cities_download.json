@@ -1,0 +1,728 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.6,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.6,
+    "end": 11.759,
+    "text": "6Mute English from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 11.759,
+    "end": 14.56,
+    "text": "Hello and welcome to 6 Minute English. I'm Alice.",
+    "speaker": null
+  },
+  {
+    "start": 14.56,
+    "end": 15.599,
+    "text": "And I'm Neil.",
+    "speaker": null
+  },
+  {
+    "start": 15.599,
+    "end": 19.44,
+    "text": "Have you ever played Sim's City Neil, the city building computer game?",
+    "speaker": null
+  },
+  {
+    "start": 19.44,
+    "end": 21.92,
+    "text": "Yes, but I wasn't very good at it.",
+    "speaker": null
+  },
+  {
+    "start": 21.92,
+    "end": 25.44,
+    "text": "I didn't build enough houses which created a lot of homeless Sims,",
+    "speaker": null
+  },
+  {
+    "start": 25.44,
+    "end": 27.039,
+    "text": "those characters in the game.",
+    "speaker": null
+  },
+  {
+    "start": 27.039,
+    "end": 29.6,
+    "text": "And then I didn't deal effectively with a flood.",
+    "speaker": null
+  },
+  {
+    "start": 29.679,
+    "end": 33.359,
+    "text": "Really? Well, I suppose managing a city is quite a challenge.",
+    "speaker": null
+  },
+  {
+    "start": 33.359,
+    "end": 37.92,
+    "text": "Which is the subject of today's show, cities of the future.",
+    "speaker": null
+  },
+  {
+    "start": 37.92,
+    "end": 42,
+    "text": "An important subject as so many of us now live in urban areas.",
+    "speaker": null
+  },
+  {
+    "start": 42,
+    "end": 44.32,
+    "text": "I want to start with our quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 44.32,
+    "end": 49.84,
+    "text": "What is the percentage of the world's population that will be living in cities in 2050?",
+    "speaker": null
+  },
+  {
+    "start": 49.84,
+    "end": 52.079,
+    "text": "We are dealing with approximates here.",
+    "speaker": null
+  },
+  {
+    "start": 52.079,
+    "end": 58.079,
+    "text": "Is it a 10%, b 50% or c 70%.",
+    "speaker": null
+  },
+  {
+    "start": 58.079,
+    "end": 60.399,
+    "text": "I think that it's a 10%.",
+    "speaker": null
+  },
+  {
+    "start": 60.399,
+    "end": 64.319,
+    "text": "Well, we'll find out if you're right or wrong later on in the show.",
+    "speaker": null
+  },
+  {
+    "start": 64.319,
+    "end": 67.84,
+    "text": "Now, you've encountered a couple of issues that might face urban planners",
+    "speaker": null
+  },
+  {
+    "start": 67.84,
+    "end": 71.679,
+    "text": "when designing a city Neil, housing and dealing with a flood.",
+    "speaker": null
+  },
+  {
+    "start": 71.679,
+    "end": 73.039,
+    "text": "Can you think of any others?",
+    "speaker": null
+  },
+  {
+    "start": 73.039,
+    "end": 77.519,
+    "text": "Yes, having decent cycle lanes, good transport networks are very important.",
+    "speaker": null
+  },
+  {
+    "start": 77.519,
+    "end": 78.64,
+    "text": "Yes, indeed.",
+    "speaker": null
+  },
+  {
+    "start": 78.64,
+    "end": 83.519,
+    "text": "And if people could get around easily on foot or by bike or by public transport,",
+    "speaker": null
+  },
+  {
+    "start": 83.519,
+    "end": 88,
+    "text": "roads would be less congested or overcrowded and less polluted.",
+    "speaker": null
+  },
+  {
+    "start": 88.64,
+    "end": 90.959,
+    "text": "That sounds rather utopian to me, though.",
+    "speaker": null
+  },
+  {
+    "start": 90.959,
+    "end": 94.48,
+    "text": "A utopia is an imaginary place where everything is perfect.",
+    "speaker": null
+  },
+  {
+    "start": 95.12,
+    "end": 97.28,
+    "text": "But Copenhagen is pretty utopian, Alice.",
+    "speaker": null
+  },
+  {
+    "start": 97.28,
+    "end": 98.799,
+    "text": "The air is clean.",
+    "speaker": null
+  },
+  {
+    "start": 98.799,
+    "end": 100.159,
+    "text": "There are bike lanes everywhere.",
+    "speaker": null
+  },
+  {
+    "start": 100.159,
+    "end": 101.84,
+    "text": "That sounds fantastic.",
+    "speaker": null
+  },
+  {
+    "start": 101.84,
+    "end": 105.599,
+    "text": "But what about somewhere like Beijing with its constant smog",
+    "speaker": null
+  },
+  {
+    "start": 105.599,
+    "end": 107.599,
+    "text": "or air pollution hanging over the city?",
+    "speaker": null
+  },
+  {
+    "start": 108.159,
+    "end": 109.92,
+    "text": "A lot of people ride bikes there, too.",
+    "speaker": null
+  },
+  {
+    "start": 110.48,
+    "end": 113.359,
+    "text": "So which city is going to be the model for the future?",
+    "speaker": null
+  },
+  {
+    "start": 113.359,
+    "end": 116.56,
+    "text": "Maybe like the future Los Angeles in the movie Blade Runner,",
+    "speaker": null
+  },
+  {
+    "start": 116.56,
+    "end": 121.2,
+    "text": "you know, glittery high rises, gigantic neon billboards flying cars.",
+    "speaker": null
+  },
+  {
+    "start": 121.2,
+    "end": 125.439,
+    "text": "Well, today's Los Angeles has terrible urban sprawl and traffic problems.",
+    "speaker": null
+  },
+  {
+    "start": 125.439,
+    "end": 130.64,
+    "text": "Um, urban sprawl is the way a city spreads into undeveloped land around it.",
+    "speaker": null
+  },
+  {
+    "start": 130.64,
+    "end": 132.24,
+    "text": "Often without planning permission.",
+    "speaker": null
+  },
+  {
+    "start": 132.24,
+    "end": 135.92,
+    "text": "Hmm, Dr. Janice Pellman can explain why this happens.",
+    "speaker": null
+  },
+  {
+    "start": 135.92,
+    "end": 138.96,
+    "text": "She is the founder and president of the mega cities project",
+    "speaker": null
+  },
+  {
+    "start": 138.96,
+    "end": 141.68,
+    "text": "non-profit organisation in Rio de Janeiro,",
+    "speaker": null
+  },
+  {
+    "start": 141.68,
+    "end": 144.879,
+    "text": "and knows a lot about urban sprawl in Brazilian cities.",
+    "speaker": null
+  },
+  {
+    "start": 145.84,
+    "end": 151.039,
+    "text": "People are coming massively into the cities which have no housing",
+    "speaker": null
+  },
+  {
+    "start": 151.039,
+    "end": 152.319,
+    "text": "that's affordable to them.",
+    "speaker": null
+  },
+  {
+    "start": 152.319,
+    "end": 155.519,
+    "text": "So they can't rent and they can't buy and they end up building their own",
+    "speaker": null
+  },
+  {
+    "start": 156,
+    "end": 158.799,
+    "text": "communities and houses on unoccupied land.",
+    "speaker": null
+  },
+  {
+    "start": 159.439,
+    "end": 162.479,
+    "text": "And these communities are becoming in some places.",
+    "speaker": null
+  },
+  {
+    "start": 162.479,
+    "end": 164.879,
+    "text": "The majority, not the minority.",
+    "speaker": null
+  },
+  {
+    "start": 164.879,
+    "end": 166.4,
+    "text": "off the grid",
+    "speaker": "Neil"
+  },
+  {
+    "start": 166.4,
+    "end": 171.199,
+    "text": "So they're not often serviced by either the social services,",
+    "speaker": null
+  },
+  {
+    "start": 171.199,
+    "end": 175.599,
+    "text": "but also many of them don't have water sanitation and electricity.",
+    "speaker": null
+  },
+  {
+    "start": 176.959,
+    "end": 181.839,
+    "text": "People migrate or move from the countryside to the city to get better opportunities",
+    "speaker": null
+  },
+  {
+    "start": 181.839,
+    "end": 183.839,
+    "text": "but end up with nowhere to live.",
+    "speaker": null
+  },
+  {
+    "start": 184.399,
+    "end": 187.359,
+    "text": "So they build their own housing on unoccupied land.",
+    "speaker": null
+  },
+  {
+    "start": 187.919,
+    "end": 192.239,
+    "text": "These shantytowns pour communities where the houses are built out of cheap materials",
+    "speaker": null
+  },
+  {
+    "start": 192.239,
+    "end": 196.319,
+    "text": "like corrugated iron and plastic sheeting are often off the grid.",
+    "speaker": null
+  },
+  {
+    "start": 196.319,
+    "end": 199.679,
+    "text": "Which means they don't have an electricity or water supply",
+    "speaker": null
+  },
+  {
+    "start": 199.76,
+    "end": 202.08,
+    "text": "or access to healthcare and education.",
+    "speaker": null
+  },
+  {
+    "start": 202.879,
+    "end": 206.08,
+    "text": "And these communities are growing so the problem's getting bigger.",
+    "speaker": null
+  },
+  {
+    "start": 206.08,
+    "end": 208.159,
+    "text": "So are there any solutions, Alice?",
+    "speaker": null
+  },
+  {
+    "start": 208.159,
+    "end": 211.439,
+    "text": "Well, it's all about improving the infrastructure.",
+    "speaker": null
+  },
+  {
+    "start": 211.439,
+    "end": 215.2,
+    "text": "That's the basic facilities a town or city needs, for example,",
+    "speaker": null
+  },
+  {
+    "start": 215.2,
+    "end": 218.719,
+    "text": "communication, transport, water and electricity.",
+    "speaker": null
+  },
+  {
+    "start": 219.2,
+    "end": 221.92,
+    "text": "But this shouldn't only mean improving housing conditions,",
+    "speaker": null
+  },
+  {
+    "start": 221.92,
+    "end": 226,
+    "text": "but also promoting education and employment among the inhabitants",
+    "speaker": null
+  },
+  {
+    "start": 226,
+    "end": 227.76,
+    "text": "and building better communities.",
+    "speaker": null
+  },
+  {
+    "start": 227.759,
+    "end": 230.479,
+    "text": "That sounds like a real headache for the urban planners.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 230.479,
+    "end": 231.919,
+    "text": "You're right there.",
+    "speaker": null
+  },
+  {
+    "start": 231.919,
+    "end": 234.959,
+    "text": "And one thing urban planners are talking about at the moment",
+    "speaker": null
+  },
+  {
+    "start": 234.959,
+    "end": 237.359,
+    "text": "is creating smart cities.",
+    "speaker": null
+  },
+  {
+    "start": 237.359,
+    "end": 241.199,
+    "text": "John Rossant, founder and chairman of the Nonprofit Organization,",
+    "speaker": null
+  },
+  {
+    "start": 241.199,
+    "end": 243.84,
+    "text": "New Cities Foundation, explains what it is.",
+    "speaker": null
+  },
+  {
+    "start": 245.039,
+    "end": 249.519,
+    "text": "I think, you know, generally it's accepted that cloud computing,",
+    "speaker": null
+  },
+  {
+    "start": 249.519,
+    "end": 253.599,
+    "text": "ubiquitous internet, robust 5G networks, etc.",
+    "speaker": null
+  },
+  {
+    "start": 253.599,
+    "end": 257.439,
+    "text": "will will transform our cities, whether they're in the global south",
+    "speaker": null
+  },
+  {
+    "start": 257.519,
+    "end": 259.759,
+    "text": "or the developed world.",
+    "speaker": null
+  },
+  {
+    "start": 259.759,
+    "end": 266.079,
+    "text": "And, you know, where technology is really a game changer, I think, in urbanization.",
+    "speaker": null
+  },
+  {
+    "start": 267.519,
+    "end": 270.72,
+    "text": "John Rossant there. What's ubiquitous, Alice?",
+    "speaker": "ubiquitous"
+  },
+  {
+    "start": 270.72,
+    "end": 272.56,
+    "text": "It means available everywhere.",
+    "speaker": null
+  },
+  {
+    "start": 273.199,
+    "end": 277.04,
+    "text": "So the idea behind smart cities is to use technology",
+    "speaker": null
+  },
+  {
+    "start": 277.04,
+    "end": 280.959,
+    "text": "to collect large amounts of data about how a city is performing.",
+    "speaker": null
+  },
+  {
+    "start": 280.959,
+    "end": 283.12,
+    "text": "And that will be a game changer,",
+    "speaker": null
+  },
+  {
+    "start": 283.12,
+    "end": 286.24,
+    "text": "significantly affecting the way our cities function.",
+    "speaker": null
+  },
+  {
+    "start": 286.24,
+    "end": 287.6,
+    "text": "Hope for the future, Alice.",
+    "speaker": null
+  },
+  {
+    "start": 287.6,
+    "end": 288.96,
+    "text": "Fingers crossed.",
+    "speaker": null
+  },
+  {
+    "start": 288.96,
+    "end": 293.12,
+    "text": "Now, I think it's time for the answer to today's quiz question, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 293.12,
+    "end": 296.24,
+    "text": "I asked, what is the percentage of the world's population",
+    "speaker": null
+  },
+  {
+    "start": 296.24,
+    "end": 299.439,
+    "text": "that will be living in cities in 2050?",
+    "speaker": null
+  },
+  {
+    "start": 299.439,
+    "end": 302.4,
+    "text": "And remember I said we're dealing with approximates here?",
+    "speaker": null
+  },
+  {
+    "start": 302.4,
+    "end": 308.56,
+    "text": "Is it a 10%, the 50% or C 70%?",
+    "speaker": null
+  },
+  {
+    "start": 308.56,
+    "end": 310.56,
+    "text": "And I said a) 10%.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 310.56,
+    "end": 313.68,
+    "text": "Yes, and you underestimated their Neil.",
+    "speaker": null
+  },
+  {
+    "start": 313.68,
+    "end": 318.16,
+    "text": "The right answer is actually C 70%.",
+    "speaker": null
+  },
+  {
+    "start": 318.16,
+    "end": 321.36,
+    "text": "This, according to a report by the United Nations,",
+    "speaker": null
+  },
+  {
+    "start": 321.36,
+    "end": 325.36,
+    "text": "today 54% of the world's population lives in urban areas.",
+    "speaker": null
+  },
+  {
+    "start": 325.36,
+    "end": 326.56,
+    "text": "A lot really!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 326.56,
+    "end": 326.879,
+    "text": "Yeah.",
+    "speaker": "Alice"
+  },
+  {
+    "start": 326.879,
+    "end": 328.56,
+    "text": "Well, I know we're running out of time,",
+    "speaker": null
+  },
+  {
+    "start": 328.56,
+    "end": 331.04,
+    "text": "so let me repeat the words we learned today.",
+    "speaker": null
+  },
+  {
+    "start": 331.04,
+    "end": 333.28,
+    "text": "They were congested.",
+    "speaker": null
+  },
+  {
+    "start": 334.319,
+    "end": 335.519,
+    "text": "utopia",
+    "speaker": "Neil"
+  },
+  {
+    "start": 336.48,
+    "end": 337.519,
+    "text": "smog",
+    "speaker": "Neil"
+  },
+  {
+    "start": 338.56,
+    "end": 340.079,
+    "text": "urban sprawl",
+    "speaker": "Neil"
+  },
+  {
+    "start": 341.199,
+    "end": 342.24,
+    "text": "migrate",
+    "speaker": "Neil"
+  },
+  {
+    "start": 343.199,
+    "end": 344.24,
+    "text": "shanty towns",
+    "speaker": "Neil"
+  },
+  {
+    "start": 345.28,
+    "end": 346.16,
+    "text": "Off the grid.",
+    "speaker": null
+  },
+  {
+    "start": 347.439,
+    "end": 348.4,
+    "text": "infrastructure",
+    "speaker": "Neil"
+  },
+  {
+    "start": 350.079,
+    "end": 351.12,
+    "text": "ubiquitous",
+    "speaker": "Neil"
+  },
+  {
+    "start": 352.4,
+    "end": 353.199,
+    "text": "game changer",
+    "speaker": "Neil"
+  },
+  {
+    "start": 354.48,
+    "end": 357.28,
+    "text": "Well, that's the end of this edition of 6 Minute English.",
+    "speaker": null
+  },
+  {
+    "start": 357.28,
+    "end": 358.96,
+    "text": "Join us again soon.",
+    "speaker": null
+  },
+  {
+    "start": 358.96,
+    "end": 360.72,
+    "text": "Meanwhile, visit our website,",
+    "speaker": null
+  },
+  {
+    "start": 360.72,
+    "end": 362.879,
+    "text": "bbclearningenglish.com,",
+    "speaker": null
+  },
+  {
+    "start": 362.879,
+    "end": 364.72,
+    "text": "where you'll find guides to grammar,",
+    "speaker": null
+  },
+  {
+    "start": 364.72,
+    "end": 368.879,
+    "text": "exercises, videos and articles to read and improve your English.",
+    "speaker": null
+  },
+  {
+    "start": 368.879,
+    "end": 369.36,
+    "text": "Bye!",
+    "speaker": "Both"
+  },
+  {
+    "start": 369.36,
+    "end": 369.84,
+    "text": "Bye-bye.",
+    "speaker": null
+  },
+  {
+    "start": 372.24,
+    "end": 374.48,
+    "text": "From BBC Learning English.",
+    "speaker": null
+  }
+]

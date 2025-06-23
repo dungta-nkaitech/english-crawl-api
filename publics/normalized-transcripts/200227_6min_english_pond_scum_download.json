@@ -1,0 +1,440 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.52,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 13.679,
+    "end": 17.44,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 17.44,
+    "end": 18.32,
+    "text": "And I’m Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 18.32,
+    "end": 23.199,
+    "text": "In this program, we'll be looking at an unusual food called microalgae,",
+    "speaker": null
+  },
+  {
+    "start": 23.199,
+    "end": 28.719,
+    "text": "and asking whether eating algae might be better for our health and the health of the planet.",
+    "speaker": null
+  },
+  {
+    "start": 28.719,
+    "end": 32.879,
+    "text": "And of course, we'll be looking at some of the related vocabulary along the way.",
+    "speaker": null
+  },
+  {
+    "start": 32.879,
+    "end": 36.079,
+    "text": "Yuck. I'm not sure about eating algae, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 36.079,
+    "end": 38.719,
+    "text": "Yuck! I’m not sure about eating algae, Neil! I mean, what’s the strangest thing you’ve ever eaten?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 38.719,
+    "end": 44,
+    "text": "Well, I once tried fried stick insects in Thailand, and I've had ants as well,",
+    "speaker": null
+  },
+  {
+    "start": 44,
+    "end": 46,
+    "text": "that were from Colombia.",
+    "speaker": null
+  },
+  {
+    "start": 46,
+    "end": 49.759,
+    "text": "Uh, okay, yeah. Both fairly strange for us here in the UK,",
+    "speaker": null
+  },
+  {
+    "start": 49.759,
+    "end": 52.239,
+    "text": "but what about pond scum, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 52.32,
+    "end": 57.039,
+    "text": "Pond scum. Pond scum is the slang name for microalgae,",
+    "speaker": null
+  },
+  {
+    "start": 57.039,
+    "end": 62.4,
+    "text": "green plant organisms such as spirulina, which grow in water, like ponds,",
+    "speaker": null
+  },
+  {
+    "start": 62.4,
+    "end": 65.599,
+    "text": "and look a bit slimy or scummy before being dried.",
+    "speaker": null
+  },
+  {
+    "start": 65.599,
+    "end": 69.12,
+    "text": "Here, we're talking about edible algae, meaning it's okay to eat.",
+    "speaker": null
+  },
+  {
+    "start": 69.84,
+    "end": 74.879,
+    "text": "More than okay. In fact, these types of food algae are actually good for your body.",
+    "speaker": null
+  },
+  {
+    "start": 75.52,
+    "end": 81.04,
+    "text": "Microalgae, like spirulina and clorella, are packed full of proteins, vitamins,",
+    "speaker": null
+  },
+  {
+    "start": 81.12,
+    "end": 86.4,
+    "text": "and antioxidants. Because they are so healthy, they're having a moment right now,",
+    "speaker": null
+  },
+  {
+    "start": 86.4,
+    "end": 89.44,
+    "text": "meaning they are becoming more well-known and popular.",
+    "speaker": null
+  },
+  {
+    "start": 89.44,
+    "end": 95.36,
+    "text": "Yes, microalgae is trending just now and for good reasons, which we'll find out about later.",
+    "speaker": null
+  },
+  {
+    "start": 95.36,
+    "end": 98.08,
+    "text": "But first, let me ask you our quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 98.08,
+    "end": 100.719,
+    "text": "What do the following three things have in common?",
+    "speaker": null
+  },
+  {
+    "start": 100.719,
+    "end": 104.08,
+    "text": "Oceans, snow, and my garden patio.",
+    "speaker": null
+  },
+  {
+    "start": 105.2,
+    "end": 107.76,
+    "text": "Is it, hey, they are all good places to relax?",
+    "speaker": null
+  },
+  {
+    "start": 108.4,
+    "end": 113.6,
+    "text": "c) They are all places where microalgae grow",
+    "speaker": "Neil"
+  },
+  {
+    "start": 113.6,
+    "end": 121.12,
+    "text": "Okay, well, I know that oceans and snow are made up of water, but your garden patio,",
+    "speaker": null
+  },
+  {
+    "start": 121.12,
+    "end": 124.08,
+    "text": "did your barbecue get rained off again, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 124.08,
+    "end": 125.36,
+    "text": "Not quite, Sam.",
+    "speaker": null
+  },
+  {
+    "start": 125.36,
+    "end": 128,
+    "text": "Well, hopefully you'll know by the end of the program.",
+    "speaker": null
+  },
+  {
+    "start": 128,
+    "end": 132.96,
+    "text": "Now, I mentioned before that microalgae is sometimes called a superfood.",
+    "speaker": null
+  },
+  {
+    "start": 132.96,
+    "end": 138.24,
+    "text": "A type of food which is essentially full of healthy vitamins, minerals, and nutrients.",
+    "speaker": null
+  },
+  {
+    "start": 138.24,
+    "end": 142,
+    "text": "But microalgae is not the first superfood to become popular.",
+    "speaker": null
+  },
+  {
+    "start": 142,
+    "end": 148.4,
+    "text": "That's right. In the early 2010s, many juice bars started popping up in places around the world",
+    "speaker": null
+  },
+  {
+    "start": 148.4,
+    "end": 153.84,
+    "text": "selling green smoothies. Energy drinks made by blending healthy ingredients like",
+    "speaker": null
+  },
+  {
+    "start": 153.84,
+    "end": 159.439,
+    "text": "kale, chard, and spinach. The recent trend for microalgae and spirulina",
+    "speaker": null
+  },
+  {
+    "start": 159.52,
+    "end": 166.319,
+    "text": "has been promoted in part by big drinks companies wanting to sell the latest brightly coloured smoothies.",
+    "speaker": null
+  },
+  {
+    "start": 166.319,
+    "end": 172.639,
+    "text": "And more and more, spirulina is also being used as a cooking ingredient – in hot dogs and meatballs – and as a protein-rich substitute for eggs in pasta and mayonnaise.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 172.639,
+    "end": 176.639,
+    "text": "and as a protein rich substitute for eggs in pasta and mayonnaise.",
+    "speaker": null
+  },
+  {
+    "start": 177.28,
+    "end": 183.039,
+    "text": "But as well as all these health benefits, there's another advantage to microalgae superfoods,",
+    "speaker": null
+  },
+  {
+    "start": 183.039,
+    "end": 185.919,
+    "text": "one that could potentially benefit the whole planet.",
+    "speaker": null
+  },
+  {
+    "start": 186.239,
+    "end": 191.199,
+    "text": "BBC Radio 4's The Food Programme, as Professor Alison Smith,",
+    "speaker": null
+  },
+  {
+    "start": 191.199,
+    "end": 195.199,
+    "text": "head of Plant Sciences at Cambridge University, to explain.",
+    "speaker": null
+  },
+  {
+    "start": 196.159,
+    "end": 201.839,
+    "text": "As the population of the world increases and the land that's available for agriculture",
+    "speaker": null
+  },
+  {
+    "start": 201.839,
+    "end": 207.919,
+    "text": "is becoming stretched, there's an interest in trying to increase productivity by other means,",
+    "speaker": null
+  },
+  {
+    "start": 207.919,
+    "end": 210.959,
+    "text": "so sustainable intensification of agriculture is one way.",
+    "speaker": null
+  },
+  {
+    "start": 211.68,
+    "end": 218.24,
+    "text": "So food security is an issue, making sure enough nutritionally rich food is produced to feed",
+    "speaker": null
+  },
+  {
+    "start": 218.24,
+    "end": 223.92,
+    "text": "the growing world population. Alison Smith says the amount of agricultural land available for",
+    "speaker": null
+  },
+  {
+    "start": 223.92,
+    "end": 229.52,
+    "text": "growing food is becoming stretched, meaning there are not enough resources, in this case,",
+    "speaker": null
+  },
+  {
+    "start": 229.52,
+    "end": 235.52,
+    "text": "farmland to meet everyone's needs. Yes, and she mentions that one possible solution is",
+    "speaker": null
+  },
+  {
+    "start": 235.6,
+    "end": 242.16,
+    "text": "sustainable intensification of agriculture, which means increasing food production in ways",
+    "speaker": null
+  },
+  {
+    "start": 242.16,
+    "end": 248.8,
+    "text": "which don't damage the environment or use new land. Well, we know that microalgae are superfoods,",
+    "speaker": null
+  },
+  {
+    "start": 248.8,
+    "end": 254.16,
+    "text": "Well, we know that microalgae are superfoods, nutritionally rich in vitamins and protein, but how do they help reduce the need for agricultural land? Alison Smith explains:",
+    "speaker": "Neil"
+  },
+  {
+    "start": 254.16,
+    "end": 261.84,
+    "text": "land? Alison Smith explains. They can be grown in all sorts of locations in water, in the oceans,",
+    "speaker": null
+  },
+  {
+    "start": 262.079,
+    "end": 270,
+    "text": "in ponds, lakes and so on, even on your patio and on snow. So one of the possibilities is to produce",
+    "speaker": null
+  },
+  {
+    "start": 270,
+    "end": 276.159,
+    "text": "these organisms in cities and towns because they don't need the open landscape to be grown.",
+    "speaker": null
+  },
+  {
+    "start": 276.719,
+    "end": 281.599,
+    "text": "I think I’ve spotted the answer to your quiz question, Neil.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 281.599,
+    "end": 288.799,
+    "text": "snow and my patio have in common. A, they're all good places to relax. B, they're all very cold.",
+    "speaker": null
+  },
+  {
+    "start": 289.36,
+    "end": 296.48,
+    "text": "C, they are all places where microalgae grow. The answer is C, places where microalgae can grow.",
+    "speaker": null
+  },
+  {
+    "start": 297.04,
+    "end": 302.72,
+    "text": "What an amazing plant. I think I'm going to stop calling it Ponscum and use the correct",
+    "speaker": null
+  },
+  {
+    "start": 302.72,
+    "end": 309.36,
+    "text": "scientific name Professor Smith mentioned, organisms. Today's program was all about microalgae,",
+    "speaker": null
+  },
+  {
+    "start": 309.36,
+    "end": 316.16,
+    "text": "like spirulina, a green edible food algae, which some people call Ponscum, although scientifically",
+    "speaker": null
+  },
+  {
+    "start": 316.16,
+    "end": 322.32,
+    "text": "speaking, it's an organism, meaning an animal or plant life form. Yes, and this plant life form is",
+    "speaker": null
+  },
+  {
+    "start": 322.32,
+    "end": 328.72,
+    "text": "Yes, and this plant life form is also called a superfood, because it’s especially rich in vitamins, minerals and nutrients which promote good health.",
+    "speaker": "superfood"
+  },
+  {
+    "start": 328.72,
+    "end": 334.879,
+    "text": "promote good health. Superfoods are having a moment right now, meaning they're becoming more popular",
+    "speaker": null
+  },
+  {
+    "start": 334.879,
+    "end": 341.36,
+    "text": "or trending because they're so healthy. And another benefit of microalgae is that it grows almost",
+    "speaker": null
+  },
+  {
+    "start": 341.36,
+    "end": 347.439,
+    "text": "anywhere. So it doesn't use much agricultural land, which is becoming stretched, meaning there's",
+    "speaker": null
+  },
+  {
+    "start": 347.439,
+    "end": 353.52,
+    "text": "not enough of it to meet the world's food needs. Sustainable intensification is another possible",
+    "speaker": null
+  },
+  {
+    "start": 353.52,
+    "end": 358.96,
+    "text": "solution to this problem because it is a way of increasing food production without harming the",
+    "speaker": null
+  },
+  {
+    "start": 358.96,
+    "end": 364.4,
+    "text": "environment or using new land. Don't forget you can find lots more learning materials and",
+    "speaker": null
+  },
+  {
+    "start": 364.4,
+    "end": 370.96,
+    "text": "topical vocabulary on our website at bbclearningenglish.com and please join us again soon. Bye for now.",
+    "speaker": null
+  },
+  {
+    "start": 370.959,
+    "end": 378.319,
+    "text": "Bye!",
+    "speaker": "Neil"
+  }
+]

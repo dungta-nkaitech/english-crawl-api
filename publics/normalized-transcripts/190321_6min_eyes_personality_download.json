@@ -1,0 +1,746 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.32,
+    "text": "6-Mate English",
+    "speaker": null
+  },
+  {
+    "start": 8.32,
+    "end": 10.56,
+    "text": "From BBC Learning English",
+    "speaker": null
+  },
+  {
+    "start": 12.56,
+    "end": 15.04,
+    "text": "Hello and welcome to 6 Minute English. I'm Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 15.04,
+    "end": 16.08,
+    "text": "And I'm Rob.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 16.08,
+    "end": 20.8,
+    "text": "Now, Rob, would you say that you are an introvert or an extrovert?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 20.8,
+    "end": 22.719,
+    "text": "Hmm, what a good question.",
+    "speaker": null
+  },
+  {
+    "start": 22.719,
+    "end": 26,
+    "text": "Well, extroverts are confident in their personality,",
+    "speaker": null
+  },
+  {
+    "start": 26,
+    "end": 29.6,
+    "text": "their outgoing and comfortable in social situations.",
+    "speaker": null
+  },
+  {
+    "start": 29.6,
+    "end": 33.039,
+    "text": "So I would have to say that if anything, I'm the opposite.",
+    "speaker": null
+  },
+  {
+    "start": 33.039,
+    "end": 36.16,
+    "text": "I'm more of an introvert, I'm really quite shy.",
+    "speaker": null
+  },
+  {
+    "start": 36.16,
+    "end": 38.96,
+    "text": "I feel uncomfortable in social situations.",
+    "speaker": null
+  },
+  {
+    "start": 38.96,
+    "end": 41.92,
+    "text": "For example, if I go to a party where I don't know anyone,",
+    "speaker": null
+  },
+  {
+    "start": 41.92,
+    "end": 45.2,
+    "text": "I usually feel very embarrassed and I find it impossible",
+    "speaker": null
+  },
+  {
+    "start": 45.2,
+    "end": 47.439,
+    "text": "to start conversations with strangers.",
+    "speaker": null
+  },
+  {
+    "start": 47.439,
+    "end": 50.159,
+    "text": "But you do all of this on the radio and videos",
+    "speaker": null
+  },
+  {
+    "start": 50.159,
+    "end": 52.4,
+    "text": "for BBC Learning English, don't you?",
+    "speaker": null
+  },
+  {
+    "start": 52.4,
+    "end": 55.92,
+    "text": "Some would say you have to be an extrovert to do what we do.",
+    "speaker": null
+  },
+  {
+    "start": 55.92,
+    "end": 58.96,
+    "text": "Oh, well, maybe I'm pretending to be an extrovert.",
+    "speaker": null
+  },
+  {
+    "start": 59.039,
+    "end": 62.799,
+    "text": "Ah! Well, maybe I’m pretending to be an extrovert to hide the fact that I’m an introvert. It’s quite a common thing, you know.",
+    "speaker": "extrovertintrovert"
+  },
+  {
+    "start": 62.799,
+    "end": 66.32,
+    "text": "Well, it might not be so easy to hide in the future",
+    "speaker": null
+  },
+  {
+    "start": 66.32,
+    "end": 68.96,
+    "text": "because researchers have developed a computer program",
+    "speaker": null
+  },
+  {
+    "start": 68.96,
+    "end": 72.64,
+    "text": "that can tell your personality from looking at where you look",
+    "speaker": null
+  },
+  {
+    "start": 72.64,
+    "end": 74.319,
+    "text": "by tracking your eye movements.",
+    "speaker": null
+  },
+  {
+    "start": 74.319,
+    "end": 77.2,
+    "text": "Wow, that sounds pretty high-tech and scary.",
+    "speaker": null
+  },
+  {
+    "start": 77.2,
+    "end": 79.04,
+    "text": "Well, we'll learn more shortly.",
+    "speaker": null
+  },
+  {
+    "start": 79.04,
+    "end": 82.24,
+    "text": "But first, a question on the topic of clever computers.",
+    "speaker": null
+  },
+  {
+    "start": 82.96,
+    "end": 86.719,
+    "text": "The letters AI stand for artificial intelligence.",
+    "speaker": null
+  },
+  {
+    "start": 86.719,
+    "end": 89.519,
+    "text": "But what are the letters AI?",
+    "speaker": null
+  },
+  {
+    "start": 89.519,
+    "end": 94.959,
+    "text": "Are they A, an abbreviation, B, an acronym, or C, an initialism?",
+    "speaker": null
+  },
+  {
+    "start": 95.76,
+    "end": 97.92,
+    "text": "Okay, I thought that was going to be easy,",
+    "speaker": null
+  },
+  {
+    "start": 97.92,
+    "end": 100.959,
+    "text": "OK, I thought that was going to be easy, but I think it’s an abbreviation, isn’t it?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 100.959,
+    "end": 104.4,
+    "text": "Well, you'll have to wait until the end of the program to find out.",
+    "speaker": null
+  },
+  {
+    "start": 104.4,
+    "end": 108.4,
+    "text": "Sabrina Hopper is a researcher at the University of Stuttgart.",
+    "speaker": null
+  },
+  {
+    "start": 108.4,
+    "end": 112.4,
+    "text": "She was interviewed on the BBC Radio program all in the mind.",
+    "speaker": null
+  },
+  {
+    "start": 112.4,
+    "end": 116,
+    "text": "She spoke about an experiment in which they tracked the eye movements",
+    "speaker": null
+  },
+  {
+    "start": 116,
+    "end": 118.239,
+    "text": "of people in real situations.",
+    "speaker": null
+  },
+  {
+    "start": 118.239,
+    "end": 120.719,
+    "text": "This is what she said about the research.",
+    "speaker": null
+  },
+  {
+    "start": 120.719,
+    "end": 124.4,
+    "text": "Was she confident the experiment would work in the real world?",
+    "speaker": null
+  },
+  {
+    "start": 125.68,
+    "end": 129.36,
+    "text": "The main finding in our study is that it's possible at all",
+    "speaker": null
+  },
+  {
+    "start": 129.36,
+    "end": 133.68,
+    "text": "to just look at eye movements and then predict something about their personality.",
+    "speaker": null
+  },
+  {
+    "start": 133.68,
+    "end": 136.159,
+    "text": "And before our study, it was not clear at all",
+    "speaker": null
+  },
+  {
+    "start": 136.159,
+    "end": 138.24,
+    "text": "if this would be possible from eye movements",
+    "speaker": null
+  },
+  {
+    "start": 138.24,
+    "end": 140.4,
+    "text": "in such an unconstrained real-world setting.",
+    "speaker": null
+  },
+  {
+    "start": 142,
+    "end": 144.56,
+    "text": "So, was she confident this would work?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 144.56,
+    "end": 145.68,
+    "text": "No, not really.",
+    "speaker": null
+  },
+  {
+    "start": 145.68,
+    "end": 148.479,
+    "text": "She said that before the study, it wasn't clear",
+    "speaker": null
+  },
+  {
+    "start": 148.479,
+    "end": 152.08,
+    "text": "if it would be possible in an unconstrained real-world setting.",
+    "speaker": null
+  },
+  {
+    "start": 152.64,
+    "end": 156,
+    "text": "Unconstrained here means that there wasn't strict control",
+    "speaker": null
+  },
+  {
+    "start": 156,
+    "end": 158.319,
+    "text": "over the conditions of the experiment.",
+    "speaker": null
+  },
+  {
+    "start": 158.319,
+    "end": 162.08,
+    "text": "It took place in the real world, so not in a laboratory.",
+    "speaker": null
+  },
+  {
+    "start": 162.08,
+    "end": 165.28,
+    "text": "The result of the experiment or the finding, as she called it,",
+    "speaker": null
+  },
+  {
+    "start": 165.28,
+    "end": 167.28,
+    "text": "was that by following eye movements,",
+    "speaker": null
+  },
+  {
+    "start": 167.28,
+    "end": 171.759,
+    "text": "a computer program was able to work out the personality of the subjects.",
+    "speaker": null
+  },
+  {
+    "start": 171.759,
+    "end": 172.64,
+    "text": "Let's listen again.",
+    "speaker": null
+  },
+  {
+    "start": 173.359,
+    "end": 177.039,
+    "text": "The main finding in our study is that it's possible at all",
+    "speaker": null
+  },
+  {
+    "start": 177.039,
+    "end": 181.359,
+    "text": "to just look at eye movements and then predict something about their personality.",
+    "speaker": null
+  },
+  {
+    "start": 181.359,
+    "end": 183.839,
+    "text": "And before our study, it was not clear at all",
+    "speaker": null
+  },
+  {
+    "start": 183.839,
+    "end": 185.919,
+    "text": "if this would be possible from eye movements",
+    "speaker": null
+  },
+  {
+    "start": 185.919,
+    "end": 188.079,
+    "text": "in such an unconstrained real-world setting.",
+    "speaker": null
+  },
+  {
+    "start": 188.879,
+    "end": 191.119,
+    "text": "So how does the software work, for example?",
+    "speaker": null
+  },
+  {
+    "start": 191.119,
+    "end": 195.919,
+    "text": "So how does the software work, for example, what are the differences in the eye movements of extroverts compared to introverts?",
+    "speaker": "extrovertsintroverts"
+  },
+  {
+    "start": 197.039,
+    "end": 199.839,
+    "text": "We still don't really know in detail what makes the difference.",
+    "speaker": null
+  },
+  {
+    "start": 199.84,
+    "end": 203.039,
+    "text": "We can only tell that there are differences and that we know",
+    "speaker": null
+  },
+  {
+    "start": 203.039,
+    "end": 206,
+    "text": "computer programs that can pick up those differences.",
+    "speaker": null
+  },
+  {
+    "start": 206.64,
+    "end": 210.879,
+    "text": "Maybe extrovert people look up a lot because they want to look at people's faces,",
+    "speaker": null
+  },
+  {
+    "start": 210.879,
+    "end": 215.12,
+    "text": "whereas some super introvert person maybe just dares at their own shoes",
+    "speaker": null
+  },
+  {
+    "start": 215.12,
+    "end": 217.439,
+    "text": "if you want to take the extreme examples.",
+    "speaker": null
+  },
+  {
+    "start": 217.439,
+    "end": 220.08,
+    "text": "So probably it somehow changes case,",
+    "speaker": null
+  },
+  {
+    "start": 220.08,
+    "end": 222.56,
+    "text": "but we only know that this information is there",
+    "speaker": null
+  },
+  {
+    "start": 222.56,
+    "end": 225.599,
+    "text": "and somehow our program figured out how to extract it.",
+    "speaker": null
+  },
+  {
+    "start": 225.759,
+    "end": 228.319,
+    "text": "So how does it work?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 228.319,
+    "end": 230.4,
+    "text": "Well, that's the strange thing.",
+    "speaker": null
+  },
+  {
+    "start": 230.4,
+    "end": 234.319,
+    "text": "She said that she didn't really know, at least not in detail.",
+    "speaker": null
+  },
+  {
+    "start": 234.319,
+    "end": 237.759,
+    "text": "She did say that our personality somehow changes gaze.",
+    "speaker": null
+  },
+  {
+    "start": 238.319,
+    "end": 240.799,
+    "text": "Gaze is another word for looking at something.",
+    "speaker": null
+  },
+  {
+    "start": 240.799,
+    "end": 243.28,
+    "text": "So maybe we gaze in different ways,",
+    "speaker": null
+  },
+  {
+    "start": 243.28,
+    "end": 245.28,
+    "text": "depending on our personality.",
+    "speaker": null
+  },
+  {
+    "start": 245.28,
+    "end": 247.199,
+    "text": "Extroverts may look up more,",
+    "speaker": null
+  },
+  {
+    "start": 247.199,
+    "end": 250.159,
+    "text": "and introverts like me may look down more.",
+    "speaker": null
+  },
+  {
+    "start": 250.159,
+    "end": 254.639,
+    "text": "Yes, it was interesting that she said that she didn't know how it did it,",
+    "speaker": null
+  },
+  {
+    "start": 254.639,
+    "end": 257.439,
+    "text": "but the program somehow managed to figure it out.",
+    "speaker": null
+  },
+  {
+    "start": 258,
+    "end": 260.159,
+    "text": "The phrase will verb to figure something out",
+    "speaker": null
+  },
+  {
+    "start": 260.159,
+    "end": 262.079,
+    "text": "means to understand or realize something.",
+    "speaker": null
+  },
+  {
+    "start": 262.8,
+    "end": 264.8,
+    "text": "Time to review today's vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 264.8,
+    "end": 267.599,
+    "text": "But first, let's have the answer to the quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 267.599,
+    "end": 271.039,
+    "text": "I asked, what are the letters A-I?",
+    "speaker": null
+  },
+  {
+    "start": 271.039,
+    "end": 277.039,
+    "text": "Are they A and abbreviation B and acronym C and initialism?",
+    "speaker": null
+  },
+  {
+    "start": 277.039,
+    "end": 278.319,
+    "text": "Rob, what did you say?",
+    "speaker": "figure it outto figure something out"
+  },
+  {
+    "start": 278.319,
+    "end": 280.719,
+    "text": "I said A and abbreviation.",
+    "speaker": null
+  },
+  {
+    "start": 280.719,
+    "end": 282.24,
+    "text": "Well, sorry, no.",
+    "speaker": null
+  },
+  {
+    "start": 282.72,
+    "end": 284.56,
+    "text": "A-I is C, so to speak.",
+    "speaker": null
+  },
+  {
+    "start": 284.56,
+    "end": 286.4,
+    "text": "It's an initialism.",
+    "speaker": null
+  },
+  {
+    "start": 286.4,
+    "end": 289.36,
+    "text": "It's the first letters of the words artificial intelligence,",
+    "speaker": null
+  },
+  {
+    "start": 289.36,
+    "end": 293.12,
+    "text": "but it's not pronounced like a new word, just the initial letters.",
+    "speaker": null
+  },
+  {
+    "start": 293.92,
+    "end": 297.199,
+    "text": "Right, time now to review today's vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 297.199,
+    "end": 299.6,
+    "text": "Yes, we had the word extrovert.",
+    "speaker": null
+  },
+  {
+    "start": 299.6,
+    "end": 303.28,
+    "text": "This describes someone who has a very outgoing personality.",
+    "speaker": null
+  },
+  {
+    "start": 303.28,
+    "end": 306.48,
+    "text": "An extrovert is confident and socially comfortable.",
+    "speaker": null
+  },
+  {
+    "start": 306.48,
+    "end": 309.439,
+    "text": "By contrast, an introvert is someone who is shy",
+    "speaker": null
+  },
+  {
+    "start": 309.519,
+    "end": 311.839,
+    "text": "and not comfortable in social situations",
+    "speaker": null
+  },
+  {
+    "start": 311.839,
+    "end": 314.24,
+    "text": "and doesn't like being the center of attention.",
+    "speaker": null
+  },
+  {
+    "start": 314.24,
+    "end": 318.399,
+    "text": "Our report today talked about the findings of some new research.",
+    "speaker": null
+  },
+  {
+    "start": 318.399,
+    "end": 320.639,
+    "text": "A finding is something that has been learned,",
+    "speaker": null
+  },
+  {
+    "start": 320.639,
+    "end": 322.72,
+    "text": "discovered, or indeed found out.",
+    "speaker": null
+  },
+  {
+    "start": 322.72,
+    "end": 325.12,
+    "text": "It is the conclusion that is reached.",
+    "speaker": null
+  },
+  {
+    "start": 325.12,
+    "end": 328.24,
+    "text": "Then we had unconstrained to describe the experiment",
+    "speaker": null
+  },
+  {
+    "start": 328.24,
+    "end": 331.12,
+    "text": "which was not carried out in a controlled environment.",
+    "speaker": null
+  },
+  {
+    "start": 331.12,
+    "end": 335.04,
+    "text": "So unconstrained means not limited or restricted.",
+    "speaker": null
+  },
+  {
+    "start": 335.04,
+    "end": 336.72,
+    "text": "Our next word was gaze.",
+    "speaker": null
+  },
+  {
+    "start": 337.04,
+    "end": 340.08,
+    "text": "Our next word was gaze. This is a word that means 'our way of looking at something'.",
+    "speaker": "gaze"
+  },
+  {
+    "start": 340.08,
+    "end": 342.08,
+    "text": "Yes, the findings of the research",
+    "speaker": null
+  },
+  {
+    "start": 342.08,
+    "end": 345.28,
+    "text": "Yes, the findings of the research suggest that our personality can affect our gaze.",
+    "speaker": "findings gaze"
+  },
+  {
+    "start": 345.28,
+    "end": 348.64,
+    "text": "And this was something the computer was able to figure out.",
+    "speaker": null
+  },
+  {
+    "start": 348.64,
+    "end": 351.12,
+    "text": "To figure out means to study something",
+    "speaker": null
+  },
+  {
+    "start": 351.12,
+    "end": 354.32,
+    "text": "and reach an answer to a particular question or problem.",
+    "speaker": null
+  },
+  {
+    "start": 354.32,
+    "end": 356.72,
+    "text": "Right! Well, you know what I’ve just figured out?",
+    "speaker": "figured out"
+  },
+  {
+    "start": 356.72,
+    "end": 357.84,
+    "text": "Do tell!",
+    "speaker": "Rob"
+  },
+  {
+    "start": 357.84,
+    "end": 361.2,
+    "text": "It's time to bring this edition of 6 Minute English to an end.",
+    "speaker": null
+  },
+  {
+    "start": 361.2,
+    "end": 362.56,
+    "text": "We hope you can join us again,",
+    "speaker": null
+  },
+  {
+    "start": 362.56,
+    "end": 365.36,
+    "text": "but until then we are BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 365.36,
+    "end": 368.96,
+    "text": "and you can find us on social media, online and on our app.",
+    "speaker": null
+  },
+  {
+    "start": 368.96,
+    "end": 370.24,
+    "text": "Bye for now. Bye-bye.",
+    "speaker": null
+  }
+]

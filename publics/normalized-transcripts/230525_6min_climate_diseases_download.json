@@ -1,0 +1,320 @@
+[
+  {
+    "start": 0,
+    "end": 7,
+    "text": "This is a download from BBC Learning English. To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 7,
+    "end": 20,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Beth.",
+    "speaker": "Beth"
+  },
+  {
+    "start": 20,
+    "end": 27,
+    "text": "And I'm Neil. Here at 6 Minute English, we discussed animals adapting their behaviour",
+    "speaker": null
+  },
+  {
+    "start": 27,
+    "end": 34,
+    "text": "in response to climate change in earlier programmes. But we didn't focus on one species in detail.",
+    "speaker": null
+  },
+  {
+    "start": 34,
+    "end": 41,
+    "text": "So in this programme, we'll take a look at an especially unwelcome insect, the mosquito.",
+    "speaker": null
+  },
+  {
+    "start": 41,
+    "end": 47,
+    "text": "Every year, mosquito-borne diseases kill around three-quarters of a million globally, with most deaths occurring in children under five.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 47,
+    "end": 50,
+    "text": "with most deaths occurring in children under five.",
+    "speaker": null
+  },
+  {
+    "start": 51,
+    "end": 57,
+    "text": "With warming temperatures, mosquitoes are now spreading to new areas, including Europe.",
+    "speaker": null
+  },
+  {
+    "start": 57,
+    "end": 65,
+    "text": "We'll hear about dengue fever, one of the diseases they bring, and as usual, we'll learn some useful new vocabulary as well.",
+    "speaker": null
+  },
+  {
+    "start": 65,
+    "end": 68,
+    "text": "But first, I have a question for you, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 68,
+    "end": 76,
+    "text": "Dengue isn't the only sickness mosquito spread, so which of the following is also a mosquito-borne disease?",
+    "speaker": null
+  },
+  {
+    "start": 77,
+    "end": 83,
+    "text": "Is it A, Ebola, B, cholera, or C, malaria?",
+    "speaker": null
+  },
+  {
+    "start": 83,
+    "end": 86,
+    "text": "I think the answer is c) malaria.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 86,
+    "end": 90,
+    "text": "Okay, Neil, we'll find out later in the programme.",
+    "speaker": null
+  },
+  {
+    "start": 90,
+    "end": 99,
+    "text": "One country at the forefront of the problem is Indonesia, which in recent years has seen a surge in dengue-related deaths.",
+    "speaker": null
+  },
+  {
+    "start": 99,
+    "end": 105,
+    "text": "Here's Dr. Jerry Ariani, a pediatrician in the Indonesian capital Jakarta,",
+    "speaker": null
+  },
+  {
+    "start": 105,
+    "end": 110,
+    "text": "speaking with BBC World Service programme, the climate question.",
+    "speaker": null
+  },
+  {
+    "start": 114,
+    "end": 119,
+    "text": "Fever and muscle aches are common symptoms for a viral infection.",
+    "speaker": null
+  },
+  {
+    "start": 119,
+    "end": 124,
+    "text": "But if they're accompanied by other symptoms, for example, red spots on the skin,",
+    "speaker": null
+  },
+  {
+    "start": 124,
+    "end": 130,
+    "text": "or maybe there is a fever that lasts for three days, we can suspect that it's dengue fever.",
+    "speaker": null
+  },
+  {
+    "start": 130,
+    "end": 135,
+    "text": "Day 5 to 7 is the critical window for a dengue fever patient.",
+    "speaker": null
+  },
+  {
+    "start": 135,
+    "end": 143,
+    "text": "Sometimes parents don't know about this critical window, and when they bring the child to the hospital, it's difficult for us to help.",
+    "speaker": null
+  },
+  {
+    "start": 143,
+    "end": 151,
+    "text": "Dr. Ariani describes the symptoms of dengue, the signs that indicate the presence of a disease in your body.",
+    "speaker": null
+  },
+  {
+    "start": 151,
+    "end": 157,
+    "text": "These include fever, when your body temperature is higher than normal, and your heart beats very fast.",
+    "speaker": null
+  },
+  {
+    "start": 157,
+    "end": 161,
+    "text": "Dengue is not fatal, if you receive treatment quickly.",
+    "speaker": null
+  },
+  {
+    "start": 161,
+    "end": 169,
+    "text": "There is a critical window between days 5 and 7 of the infection, when a patient needs treatment to survive.",
+    "speaker": null
+  },
+  {
+    "start": 169,
+    "end": 178,
+    "text": "A critical window refers to a limited period of time, during which action must be taken to achieve a certain result.",
+    "speaker": null
+  },
+  {
+    "start": 178,
+    "end": 185,
+    "text": "In any case, in Indonesia, have now grown over 150,000 and many blamed climate change.",
+    "speaker": null
+  },
+  {
+    "start": 185,
+    "end": 193,
+    "text": "Periods of drought, when little rain falls, force people to collect drinking water in buckets, giving mosquitoes places to breed.",
+    "speaker": null
+  },
+  {
+    "start": 193,
+    "end": 199,
+    "text": "According to Professor Manisha Kulkarni, an epidemiologist from the University of Ottawa,",
+    "speaker": null
+  },
+  {
+    "start": 199,
+    "end": 210,
+    "text": "higher temperatures also mean higher rates of replication, something she explains to Paul Connelly, presenter of BBC World Services, the climate question.",
+    "speaker": null
+  },
+  {
+    "start": 210,
+    "end": 220,
+    "text": "The higher the temperature, the quicker that the mosquito can actually replicate that virus within its body, and then be able to transmit it back to another host when it bites.",
+    "speaker": "host"
+  },
+  {
+    "start": 220,
+    "end": 227,
+    "text": "Manisha also talked about the link between poverty and dengue, which is an important part of this jigsaw, isn't it?",
+    "speaker": null
+  },
+  {
+    "start": 227,
+    "end": 237,
+    "text": "Because as more and more people move to cities and live in cramped conditions with poor sanitation, then more and more people are exposed to dengue, so there's something of a dumb and no effect here.",
+    "speaker": null
+  },
+  {
+    "start": 237,
+    "end": 246,
+    "text": "Dengue spreads when an infected mosquito bites a host, an animal that another animal lives on or uses for food.",
+    "speaker": null
+  },
+  {
+    "start": 246,
+    "end": 251,
+    "text": "And Professor Kulkarni is concerned about poverty as much as climate change.",
+    "speaker": null
+  },
+  {
+    "start": 251,
+    "end": 259,
+    "text": "She calls it an important part of the jigsaw, an idiom meaning a part of a complicated situation that helps you understand it.",
+    "speaker": null
+  },
+  {
+    "start": 259,
+    "end": 266,
+    "text": "Poverty forces many Indonesians to move into crowded cities with poor sanitation.",
+    "speaker": null
+  },
+  {
+    "start": 266,
+    "end": 277,
+    "text": "These provide the perfect breeding ground for mosquitoes creating a domino effect, a situation in which something bad happens causing further negative consequences.",
+    "speaker": null
+  },
+  {
+    "start": 277,
+    "end": 286,
+    "text": "The domino effect means that dengue is spreading not just in Asia, but in parts of the world which didn't have it before, including France, Spain and Italy.",
+    "speaker": null
+  },
+  {
+    "start": 286,
+    "end": 306,
+    "text": "The domino effect means that dengue is spreading not just in Asia, but in parts of the world which didn’t have it before, including France, Spain, and Italy. But the news isn’t all bad.  Fortunately, technology is getting better at slowing the spread, including early warning systems that can predict dengue outbreaks months in advance, and the ongoing work to produce a vaccine. All of which, hopefully, mean an end to dengue, and similar diseases… speaking of which, Beth, what was the answer to your question?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 306,
+    "end": 309,
+    "text": "Speaking of which, Beth, what was the answer to your question?",
+    "speaker": null
+  },
+  {
+    "start": 309,
+    "end": 314,
+    "text": "I asked you to name another mosquito-borne disease, besides dengue.",
+    "speaker": "Beth"
+  },
+  {
+    "start": 314,
+    "end": 316,
+    "text": "And I said malaria.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 316,
+    "end": 318,
+    "text": "Which was the correct answer.",
+    "speaker": null
+  },
+  {
+    "start": 318,
+    "end": 324,
+    "text": "Dengue, malaria and yellow fever are all diseases spread by mosquitoes.",
+    "speaker": null
+  },
+  {
+    "start": 324,
+    "end": 333,
+    "text": "Which was the correct answer! Dengue, malaria, and yellow fever are all diseases spread by mosquitoes. Right, let’s recap the vocabulary we’ve learned from this programme, starting with symptom – a sign of the presence of a disease in your body.",
+    "speaker": "symptom"
+  },
+  {
+    "start": 333,
+    "end": 338,
+    "text": "A fever is a medical condition which increases your body temperature and heartbeat.",
+    "speaker": "fever"
+  },
+  {
+    "start": 338,
+    "end": 345,
+    "text": "A critical window is a limited period of time during which action must be taken to achieve the desired outcome.",
+    "speaker": "critical window"
+  },
+  {
+    "start": 345,
+    "end": 355,
+    "text": "The word host has several meanings, but in biology it’s a plant or animal that another plant or animal lives on as a parasite or uses for food.",
+    "speaker": "host"
+  },
+  {
+    "start": 355,
+    "end": 363,
+    "text": "The idiom part of the jigsaw or part of the puzzle means a part of a complicated situation that helps you to understand it.",
+    "speaker": null
+  },
+  {
+    "start": 363,
+    "end": 371,
+    "text": "And finally, one negative event causing another, which in turn causes another, can be called a domino effect. Once again, our six minutes are up. Goodbye!",
+    "speaker": "domino effect"
+  },
+  {
+    "start": 371,
+    "end": 374,
+    "text": "Once again, our six minutes are up. Goodbye.",
+    "speaker": null
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 13.519,
+    "end": 18.16,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Rob.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 18.16,
+    "end": 19.76,
+    "text": "And I’m Georgina.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 19.76,
+    "end": 23.44,
+    "text": "In this program, we're looking for utopia.",
+    "speaker": null
+  },
+  {
+    "start": 23.44,
+    "end": 27.92,
+    "text": "You mean a perfect world – a place where everyone lives together in harmony.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 27.92,
+    "end": 29.92,
+    "text": "Does that kind of place exist, Rob?",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 29.92,
+    "end": 34.88,
+    "text": "Hmm, probably not. But it's something we aspire to create.",
+    "speaker": null
+  },
+  {
+    "start": 34.88,
+    "end": 39.28,
+    "text": "Umm probably not, but it’s something we aspire to create – a happy place where everyone is cared for and nobody goes without.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 39.28,
+    "end": 42.8,
+    "text": "Well let me know if you find it, and I’ll head there straight away.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 42.8,
+    "end": 47.439,
+    "text": "Well, one place that is trying to be like that is the Dutch city of Amsterdam.",
+    "speaker": null
+  },
+  {
+    "start": 47.439,
+    "end": 52.4,
+    "text": "We're going to be finding out what they're doing with the help of some doughnuts.",
+    "speaker": null
+  },
+  {
+    "start": 52.4,
+    "end": 56,
+    "text": "But first, Georgina, I have a perfect question for you.",
+    "speaker": null
+  },
+  {
+    "start": 56,
+    "end": 59.92,
+    "text": "According to the 2020 United Nations World Happiness Report,",
+    "speaker": null
+  },
+  {
+    "start": 59.92,
+    "end": 62.64,
+    "text": "which country is the world's happiest?",
+    "speaker": null
+  },
+  {
+    "start": 63.359,
+    "end": 68.319,
+    "text": "Is it A Finland, B Singapore or C Austria?",
+    "speaker": null
+  },
+  {
+    "start": 68.319,
+    "end": 72.799,
+    "text": "That’s tricky, but I imagine that - if only for the scenery - it’s a) Finland.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 73.28,
+    "end": 77.359,
+    "text": "Okay, Georgina, I'll tell you if you are right or wrong later on.",
+    "speaker": null
+  },
+  {
+    "start": 78.159,
+    "end": 84.319,
+    "text": "OK, Georgina, I’ll tell you if you are right or wrong later on. Anyway, let’s get back to Amsterdam – a city that’s doing its best to use creative ideas to be sustainable.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 84.319,
+    "end": 90.399,
+    "text": "sustainable. That's right and it's using the concept of a ring doughnut to use as a model for",
+    "speaker": null
+  },
+  {
+    "start": 90.399,
+    "end": 95.759,
+    "text": "its sustainability. Economist Kate Rayworth, who we will hear from shortly,",
+    "speaker": null
+  },
+  {
+    "start": 95.759,
+    "end": 100.719,
+    "text": "describes this as a picture of 21st century prosperity for humanity.",
+    "speaker": null
+  },
+  {
+    "start": 101.679,
+    "end": 108.079,
+    "text": "Now, thinking of this ring doughnut, the idea is not to leave anyone in the hole in the middle",
+    "speaker": null
+  },
+  {
+    "start": 108.079,
+    "end": 114.239,
+    "text": "falling short on the essentials of life. But at the same time, not going beyond the outer ring,",
+    "speaker": null
+  },
+  {
+    "start": 114.319,
+    "end": 119.679,
+    "text": "because there we put so much pressure on our planetary home, it can cause climate change.",
+    "speaker": null
+  },
+  {
+    "start": 120.399,
+    "end": 124.799,
+    "text": "So, here is Kate Rayworth speaking on the BBC World Service programme,",
+    "speaker": null
+  },
+  {
+    "start": 124.799,
+    "end": 131.12,
+    "text": "People Fixing the World, talking about how Amsterdam is trying to fit into this doughnut approach.",
+    "speaker": null
+  },
+  {
+    "start": 132.56,
+    "end": 138.24,
+    "text": "Amsterdam has started with a goal of saying we want to be thriving, inclusive, regenerative city",
+    "speaker": null
+  },
+  {
+    "start": 138.24,
+    "end": 143.28,
+    "text": "for all residents while respecting planetary boundaries. That's like saying we want our city",
+    "speaker": null
+  },
+  {
+    "start": 143.28,
+    "end": 150.64,
+    "text": "to live in the doughnut. And that changes how you build. You don't bring in more new raw materials",
+    "speaker": null
+  },
+  {
+    "start": 150.64,
+    "end": 154,
+    "text": "from across the other side of the world. You say, right, how do we reuse the construction",
+    "speaker": null
+  },
+  {
+    "start": 154,
+    "end": 159.599,
+    "text": "materials that are already in our city to build new buildings? How do we change the way that people",
+    "speaker": null
+  },
+  {
+    "start": 159.599,
+    "end": 165.28,
+    "text": "travel? Start asking very different questions from the outdated economic mindset that they were taught",
+    "speaker": null
+  },
+  {
+    "start": 165.28,
+    "end": 171.52,
+    "text": "before. Interesting stuff from Kate Rayworth there. The people of Amsterdam are trying to live",
+    "speaker": null
+  },
+  {
+    "start": 171.52,
+    "end": 177.04,
+    "text": "within the doughnut. Their aim is to live and look after each other without harming the planet.",
+    "speaker": null
+  },
+  {
+    "start": 177.76,
+    "end": 183.68,
+    "text": "It's a big aim, but they want their city to be thriving, so growing and being successful.",
+    "speaker": null
+  },
+  {
+    "start": 183.68,
+    "end": 189.68,
+    "text": "And it wants to be inclusive, including everyone and treating them equally. This is beginning to",
+    "speaker": null
+  },
+  {
+    "start": 189.68,
+    "end": 195.6,
+    "text": "sound like utopia, Rob. To achieve this, Kate talked about using locally sourced materials for",
+    "speaker": null
+  },
+  {
+    "start": 195.84,
+    "end": 201.84,
+    "text": "building and thinking about how people travel around, basically making it a sustainable city.",
+    "speaker": null
+  },
+  {
+    "start": 201.84,
+    "end": 207.359,
+    "text": "It’s about people thinking differently and not doing things in the same way they’ve always been done. It involves changing the way people think, or their mindset.",
+    "speaker": "mindset"
+  },
+  {
+    "start": 207.359,
+    "end": 214.24,
+    "text": "done. It involves changing the way people think or their mindset. Another idea from the Netherlands",
+    "speaker": null
+  },
+  {
+    "start": 214.24,
+    "end": 220.479,
+    "text": "that fits the doughnut model is the making of recycled jeans. The people fixing the world programme",
+    "speaker": null
+  },
+  {
+    "start": 220.479,
+    "end": 225.599,
+    "text": "visited a company where old jeans were mixed with new organic cotton to make new ones.",
+    "speaker": null
+  },
+  {
+    "start": 226.159,
+    "end": 232.239,
+    "text": "The new ones might not be affordable for everyone, but they do reduce cotton production and the use of chemicals and water. The process creates jobs too.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 232.239,
+    "end": 236.639,
+    "text": "and the use of chemicals and water. The process creates jobs too.",
+    "speaker": null
+  },
+  {
+    "start": 236.639,
+    "end": 243.199,
+    "text": "Well, let's hear from Bert Van Son, CEO of Mudgeens. Listen to why he tries to work within the doughnut",
+    "speaker": null
+  },
+  {
+    "start": 243.199,
+    "end": 250,
+    "text": "model. If you take the doughnut economy and you see the inside of the circles, if you break that",
+    "speaker": null
+  },
+  {
+    "start": 250,
+    "end": 254.639,
+    "text": "boundary, mistreat people and you have people making your jeans, but they don't have any social",
+    "speaker": null
+  },
+  {
+    "start": 254.639,
+    "end": 260.959,
+    "text": "security or any liberty or any medical care or those kind of things, you will never be able to",
+    "speaker": null
+  },
+  {
+    "start": 260.959,
+    "end": 266.639,
+    "text": "make nice jeans. It has to become human again, making clothing.",
+    "speaker": null
+  },
+  {
+    "start": 266.639,
+    "end": 273.36,
+    "text": "Bert Van Son sees the benefit of the doughnut economy by treating people fairly and with respect.",
+    "speaker": null
+  },
+  {
+    "start": 273.36,
+    "end": 279.439,
+    "text": "The opposite is to mistreat. He thinks they should have things such as social security,",
+    "speaker": null
+  },
+  {
+    "start": 279.439,
+    "end": 283.759,
+    "text": "And social security is a payment system by governments that helps people live a reasonable life.",
+    "speaker": "social security"
+  },
+  {
+    "start": 283.759,
+    "end": 290.399,
+    "text": "And he says you can’t make ‘nice’ jeans without being human – he doesn’t just mean being a person, but being someone with compassion, feelings and respect for others.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 290.399,
+    "end": 294.24,
+    "text": "but being someone with compassion, feelings and respect for others.",
+    "speaker": null
+  },
+  {
+    "start": 294.24,
+    "end": 299.92,
+    "text": "Hmm, all this from a doughnut. Hopefully this will lead to a happier city and country.",
+    "speaker": null
+  },
+  {
+    "start": 300.48,
+    "end": 304,
+    "text": "But for now, what is the happiest country in the world, Georgina?",
+    "speaker": null
+  },
+  {
+    "start": 304,
+    "end": 310,
+    "text": "Yes, you asked me earlier according to the 2020 United Nations World Happiness Report,",
+    "speaker": null
+  },
+  {
+    "start": 310,
+    "end": 316.079,
+    "text": "which country has been named the world's happiest? And I said Finland, come on, make me happy and",
+    "speaker": null
+  },
+  {
+    "start": 316.079,
+    "end": 323.12,
+    "text": "tell me I'm right. Well, happily you are correct, well done. Finland is top of the list for the third",
+    "speaker": null
+  },
+  {
+    "start": 323.12,
+    "end": 329.279,
+    "text": "year in a row, with Denmark coming in second. But before you head off there, we need to recap some of",
+    "speaker": null
+  },
+  {
+    "start": 329.279,
+    "end": 336,
+    "text": "the vocabulary we've discussed today. Of course, we've been discussing utopia, a perfect place where",
+    "speaker": null
+  },
+  {
+    "start": 336,
+    "end": 342.239,
+    "text": "everyone lives together in harmony. Thriving describes something that is growing and successful,",
+    "speaker": null
+  },
+  {
+    "start": 342.239,
+    "end": 348.719,
+    "text": "and inclusive means including everyone and treating them equally. We also mentioned mindset,",
+    "speaker": null
+  },
+  {
+    "start": 348.719,
+    "end": 354.559,
+    "text": "that describes the fixed thoughts and attitudes someone has. To mistreat someone is to treat them",
+    "speaker": null
+  },
+  {
+    "start": 354.56,
+    "end": 360.639,
+    "text": "badly or cruelly. And social security is a payment system by governments that helps people live",
+    "speaker": null
+  },
+  {
+    "start": 360.639,
+    "end": 365.92,
+    "text": "a reasonable life. Okay, well that's all for this programme. We'll see you again soon for more",
+    "speaker": null
+  },
+  {
+    "start": 365.92,
+    "end": 371.12,
+    "text": "trending topics and vocabulary here at 6 Minute English. Bye for now. Bye!",
+    "speaker": null
+  }
+]

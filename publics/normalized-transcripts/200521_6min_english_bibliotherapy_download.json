@@ -1,0 +1,560 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.6,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.6,
+    "end": 8.24,
+    "text": "6 Minute English",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 10.88,
+    "text": "From BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 12.72,
+    "end": 16.559,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 16.559,
+    "end": 17.839,
+    "text": "And I’m Georgina.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 17.839,
+    "end": 20.559,
+    "text": "What type of books do you like to read, Georgina?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 20.559,
+    "end": 22.96,
+    "text": "I love reading crime fiction.",
+    "speaker": null
+  },
+  {
+    "start": 22.96,
+    "end": 28,
+    "text": "You know detective stories by authors like Ruth Vendel or Agatha Christie.",
+    "speaker": null
+  },
+  {
+    "start": 28,
+    "end": 30.079,
+    "text": "Really? Do you find them relaxing?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 30.079,
+    "end": 34.96,
+    "text": "I wouldn't say relaxing exactly, but I get really involved in the story,",
+    "speaker": null
+  },
+  {
+    "start": 34.96,
+    "end": 39.92,
+    "text": "I wouldn’t say relaxing exactly, but I get really involved in the story – trying to work out who the murderer is... then finding out on the last page.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 39.92,
+    "end": 45.2,
+    "text": "That's interesting because today we'll be looking at how books can help us relax",
+    "speaker": null
+  },
+  {
+    "start": 45.2,
+    "end": 48.079,
+    "text": "and feel more alive during troubled times.",
+    "speaker": null
+  },
+  {
+    "start": 48.079,
+    "end": 52.719,
+    "text": "We'll be finding out how reading is one of the best ways to find relief from the pressures",
+    "speaker": null
+  },
+  {
+    "start": 52.719,
+    "end": 53.92,
+    "text": "of modern life.",
+    "speaker": null
+  },
+  {
+    "start": 53.92,
+    "end": 57.2,
+    "text": "Neil, are you talking about ‘Bibliotherapy’?",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 58,
+    "end": 60.08,
+    "text": "Amazing detective skills, Georgina.",
+    "speaker": null
+  },
+  {
+    "start": 60.08,
+    "end": 61.04,
+    "text": "Exactly.",
+    "speaker": null
+  },
+  {
+    "start": 61.04,
+    "end": 66,
+    "text": "Bibliotherapy is the prescription of books as a remedy to sickness.",
+    "speaker": null
+  },
+  {
+    "start": 66,
+    "end": 70.96,
+    "text": "It's been around since 2013, when the UK charity Reading Agency",
+    "speaker": null
+  },
+  {
+    "start": 70.96,
+    "end": 74.4,
+    "text": "published a list of books that doctors could offer to patients,",
+    "speaker": null
+  },
+  {
+    "start": 74.4,
+    "end": 78.56,
+    "text": "tackling topics from depression, to dementia, to chronic pain.",
+    "speaker": null
+  },
+  {
+    "start": 78.56,
+    "end": 83.84,
+    "text": "Since then, 1.2 million readers have borrowed the scheme's books from libraries. It's so successful that it's about to be extended to children as well.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 83.84,
+    "end": 88.32,
+    "text": "It's so successful that it's about to be extended to children as well.",
+    "speaker": null
+  },
+  {
+    "start": 88.32,
+    "end": 91.92,
+    "text": "I wonder which books have been most popular over that time.",
+    "speaker": null
+  },
+  {
+    "start": 91.92,
+    "end": 94.8,
+    "text": "In fact, that's my quiz question for today.",
+    "speaker": null
+  },
+  {
+    "start": 94.8,
+    "end": 98.079,
+    "text": "What is the best-selling book of all time?",
+    "speaker": null
+  },
+  {
+    "start": 98.079,
+    "end": 102.4,
+    "text": "a) Harry Potter and the Philosopher’s Stone…",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 102.4,
+    "end": 105.439,
+    "text": "b) A Tale of Two Cities by Charles Dickens, or",
+    "speaker": "Neil"
+  },
+  {
+    "start": 105.439,
+    "end": 109.28,
+    "text": "Or C, Don Quixote by Miguel Desavantes?",
+    "speaker": null
+  },
+  {
+    "start": 109.28,
+    "end": 111.68,
+    "text": "I’ll say a) Harry Potter.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 111.76,
+    "end": 114.48,
+    "text": "Okay, well, we'll find out later if you are right.",
+    "speaker": null
+  },
+  {
+    "start": 115.36,
+    "end": 118.96,
+    "text": "In bibliotherapy, people meet up to read together.",
+    "speaker": null
+  },
+  {
+    "start": 118.96,
+    "end": 123.84,
+    "text": "Professor Philip Davis, who runs these reading groups, believes they help the participants",
+    "speaker": null
+  },
+  {
+    "start": 123.84,
+    "end": 125.6,
+    "text": "come more alive.",
+    "speaker": null
+  },
+  {
+    "start": 125.6,
+    "end": 130.719,
+    "text": "Here he is speaking to BBC Radio 4's You and Yours about what he's discovered.",
+    "speaker": null
+  },
+  {
+    "start": 132.4,
+    "end": 138.48,
+    "text": "Above all, that it's not to do with scanning, with quick reading when they're reading literature.",
+    "speaker": null
+  },
+  {
+    "start": 138.479,
+    "end": 141.759,
+    "text": "If they're just scanning, if you're just looking for information,",
+    "speaker": null
+  },
+  {
+    "start": 141.759,
+    "end": 144.959,
+    "text": "you go fast, it's very easy, it's automatic.",
+    "speaker": null
+  },
+  {
+    "start": 144.959,
+    "end": 149.759,
+    "text": "But when literature begins to do something more complicated than that,",
+    "speaker": null
+  },
+  {
+    "start": 149.759,
+    "end": 152.799,
+    "text": "in an area that emotionally you care about,",
+    "speaker": null
+  },
+  {
+    "start": 152.799,
+    "end": 156.959,
+    "text": "the brain begins to work from different parts, from a different hemisphere,",
+    "speaker": null
+  },
+  {
+    "start": 156.959,
+    "end": 158.399,
+    "text": "and it gets excited.",
+    "speaker": null
+  },
+  {
+    "start": 158.399,
+    "end": 160.719,
+    "text": "It gets pre-emotional.",
+    "speaker": null
+  },
+  {
+    "start": 160.719,
+    "end": 163.759,
+    "text": "You can see the brain coming to life,",
+    "speaker": null
+  },
+  {
+    "start": 163.759,
+    "end": 168.399,
+    "text": "and it's that life that is important in terms of these reading groups.",
+    "speaker": null
+  },
+  {
+    "start": 170.879,
+    "end": 173.039,
+    "text": "One type of reading is scanning.",
+    "speaker": null
+  },
+  {
+    "start": 173.039,
+    "end": 179.919,
+    "text": "One type of reading is scanning – reading quickly in order to find specific information or skimming the page to get a general understanding.",
+    "speaker": "scanning"
+  },
+  {
+    "start": 179.919,
+    "end": 183.28,
+    "text": "But the real therapy happens when a group reads literature.",
+    "speaker": null
+  },
+  {
+    "start": 184,
+    "end": 189.28,
+    "text": "Written works such as novels, poems or plays, which are thought to have artistic merit.",
+    "speaker": null
+  },
+  {
+    "start": 189.84,
+    "end": 195.68,
+    "text": "When group members read literature, their brains get excited and start working from a different",
+    "speaker": null
+  },
+  {
+    "start": 195.68,
+    "end": 203.199,
+    "text": "hemisphere, a word meaning half a sphere, usually half the earth, or in this case the human brain.",
+    "speaker": null
+  },
+  {
+    "start": 203.199,
+    "end": 208.8,
+    "text": "Reading literature in this way makes both the left and right hemisphere of the brain come to life,",
+    "speaker": null
+  },
+  {
+    "start": 209.439,
+    "end": 212.96,
+    "text": "start to be activated again after a quiet period.",
+    "speaker": null
+  },
+  {
+    "start": 212.96,
+    "end": 218.24,
+    "text": "And it's this coming to life that proves the therapeutic effects of bibliotherapy.",
+    "speaker": null
+  },
+  {
+    "start": 218.32,
+    "end": 223.36,
+    "text": "And it’s this 'coming to life' that proves the therapeutic effects of ‘Bibliotherapy’. Here’s Professor Davis again explaining how the benefits of group reading are observed.",
+    "speaker": "coming to life"
+  },
+  {
+    "start": 224.56,
+    "end": 226.159,
+    "text": "There are two methods really.",
+    "speaker": null
+  },
+  {
+    "start": 226.159,
+    "end": 233.28,
+    "text": "You can have easy G where you put electrodes on the scalp and it measures electricity so that you",
+    "speaker": null
+  },
+  {
+    "start": 233.28,
+    "end": 239.04,
+    "text": "can have a print off of a graph of the sudden leaps that can happen at particular moments in",
+    "speaker": null
+  },
+  {
+    "start": 239.04,
+    "end": 245.92,
+    "text": "reading a poem or short story, or you can go into the scanner, the FMIRI, and there the blood flow,",
+    "speaker": null
+  },
+  {
+    "start": 245.919,
+    "end": 252.799,
+    "text": "the oxygen indicates again changes in the configuration of the brain as it takes in this new stimulus.",
+    "speaker": null
+  },
+  {
+    "start": 254.159,
+    "end": 258.959,
+    "text": "The benefits of reading literature with others can be felt by group members as they begin",
+    "speaker": null
+  },
+  {
+    "start": 258.959,
+    "end": 265.12,
+    "text": "to feel more alive and able to cope with life's ups and downs, but they can also be measured",
+    "speaker": null
+  },
+  {
+    "start": 265.12,
+    "end": 268.479,
+    "text": "scientifically by recording brain wave activity.",
+    "speaker": null
+  },
+  {
+    "start": 268.479,
+    "end": 274.079,
+    "text": "This can be done by carefully attaching metal wires called electrodes to the reader’s scalp – the skin under the hair on the head.",
+    "speaker": "scalp"
+  },
+  {
+    "start": 274.079,
+    "end": 276.479,
+    "text": "The skin under the hair on the head.",
+    "speaker": null
+  },
+  {
+    "start": 276.479,
+    "end": 280.8,
+    "text": "Brain activity is then measured by giving the reader a stimulus,",
+    "speaker": null
+  },
+  {
+    "start": 280.8,
+    "end": 283.759,
+    "text": "something that encourages activity in people.",
+    "speaker": null
+  },
+  {
+    "start": 283.759,
+    "end": 286.959,
+    "text": "In this case, it could be a poem or novel to read.",
+    "speaker": null
+  },
+  {
+    "start": 286.959,
+    "end": 290.639,
+    "text": "Or something really stimulating – like a detective story!",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 290.639,
+    "end": 294.399,
+    "text": "Or a work of literature, which reminds me of today's quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 294.879,
+    "end": 298.479,
+    "text": "Or a work of literature – which reminds me of today’s quiz question. I asked you to name the most popular book of all time, and you said…",
+    "speaker": "literature"
+  },
+  {
+    "start": 298.56,
+    "end": 301.68,
+    "text": "a) Harry Potter and the Philosopher’s Stone by J K Rowling",
+    "speaker": "Neil"
+  },
+  {
+    "start": 301.68,
+    "end": 306.16,
+    "text": "which is definitely the most popular book in the 21st century,",
+    "speaker": null
+  },
+  {
+    "start": 306.16,
+    "end": 313.68,
+    "text": "but number one of all time, selling over 500 million copies, is seeing savante's don Quixote,",
+    "speaker": null
+  },
+  {
+    "start": 313.68,
+    "end": 315.28,
+    "text": "and there's even a detective in it.",
+    "speaker": null
+  },
+  {
+    "start": 315.84,
+    "end": 321.2,
+    "text": "Today, we’ve been discussing the therapeutic effects of meeting up with others in a reading group to read literature – writing of artistic value, such as stories and poetry.",
+    "speaker": "literature"
+  },
+  {
+    "start": 321.2,
+    "end": 326.879,
+    "text": "to read literature, writing of artistic values such as stories and poetry.",
+    "speaker": null
+  },
+  {
+    "start": 326.959,
+    "end": 330.879,
+    "text": "In contrast to scanning, reading quickly to find facts,",
+    "speaker": null
+  },
+  {
+    "start": 330.879,
+    "end": 334.079,
+    "text": "reading groups use literature as a stimulus,",
+    "speaker": null
+  },
+  {
+    "start": 334.079,
+    "end": 337.04,
+    "text": "something that encourages activity in people.",
+    "speaker": null
+  },
+  {
+    "start": 337.04,
+    "end": 340.56,
+    "text": "Reading stimulates both the left and right hemispheres,",
+    "speaker": null
+  },
+  {
+    "start": 340.56,
+    "end": 344.399,
+    "text": "the two halves of the brain and increases emotional activity,",
+    "speaker": null
+  },
+  {
+    "start": 344.399,
+    "end": 346.56,
+    "text": "which can be measured on the scalp.",
+    "speaker": null
+  },
+  {
+    "start": 346.56,
+    "end": 349.199,
+    "text": "The skin under the hair on a reader's head.",
+    "speaker": null
+  },
+  {
+    "start": 349.199,
+    "end": 354,
+    "text": "All of which helps people dealing with trauma to come to life – feel active and more alive after a quiet period.",
+    "speaker": "come to life"
+  },
+  {
+    "start": 354,
+    "end": 356.639,
+    "text": "and more alive after a quiet period.",
+    "speaker": null
+  },
+  {
+    "start": 356.719,
+    "end": 358.879,
+    "text": "Right, that’s it – I’m off to the library!",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 359.759,
+    "end": 360.719,
+    "text": "If only you could.",
+    "speaker": null
+  },
+  {
+    "start": 361.279,
+    "end": 366.159,
+    "text": "If only you could… Thanks for listening and remember you can find many more stimulating topics and vocabulary here at 6 Minute English on BBC Learning English. Bye for now.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 366.159,
+    "end": 370.159,
+    "text": "here at 6 Minute English on BBC Learning English. Bye for now.",
+    "speaker": null
+  },
+  {
+    "start": 370.159,
+    "end": 370.8,
+    "text": "Bye!",
+    "speaker": "Georgina"
+  }
+]

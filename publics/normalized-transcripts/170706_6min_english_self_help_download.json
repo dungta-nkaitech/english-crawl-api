@@ -1,0 +1,578 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 12.32,
+    "text": "6 Minute English from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 12.32,
+    "end": 17.679,
+    "text": "Welcome to 6 Minute English. I'm Neil, and today we're going to improve ourselves.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 17.679,
+    "end": 20.96,
+    "text": "Aha, how could we possibly get any better?",
+    "speaker": null
+  },
+  {
+    "start": 20.96,
+    "end": 26.24,
+    "text": "I'm Rob and yesterday's topic is self-help and the self-help industry.",
+    "speaker": null
+  },
+  {
+    "start": 26.24,
+    "end": 28.32,
+    "text": "What do we mean by self-help?",
+    "speaker": null
+  },
+  {
+    "start": 28.32,
+    "end": 33.52,
+    "text": "What do we mean by self-help? Well, it means trying to improve yourself – psychologically, economically or in other ways – without seeking official help.",
+    "speaker": "self-help"
+  },
+  {
+    "start": 33.52,
+    "end": 35.679,
+    "text": "without seeking official help.",
+    "speaker": null
+  },
+  {
+    "start": 35.679,
+    "end": 41.28,
+    "text": "For example, bookshops these days are full of titles which claim to boost your self-confidence, your wealth, your love life… or your career!",
+    "speaker": "Rob"
+  },
+  {
+    "start": 41.28,
+    "end": 44.079,
+    "text": "your wealth, your love life or your career.",
+    "speaker": null
+  },
+  {
+    "start": 44.079,
+    "end": 48.64,
+    "text": "Yes, in just seven days! There's a clear demand for this kind of thing – the self-help industry is worth $10bn in the US alone.",
+    "speaker": "self-help"
+  },
+  {
+    "start": 48.64,
+    "end": 53.359,
+    "text": "The self-help industry is worth $10 billion in the US alone.",
+    "speaker": null
+  },
+  {
+    "start": 54,
+    "end": 60.079,
+    "text": "That's a lot. That includes things like gym memberships, diet plans and life coaching apps.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 60.079,
+    "end": 65.28,
+    "text": "We'll be looking at why. But first, the self-help industry has been around for a long time. Which of these well-known books was published first?",
+    "speaker": "self-help"
+  },
+  {
+    "start": 65.28,
+    "end": 68.56,
+    "text": "Which of these well-known books was published first?",
+    "speaker": null
+  },
+  {
+    "start": 68.56,
+    "end": 72.239,
+    "text": "a) How to Win Friends and Influence People",
+    "speaker": "self-help"
+  },
+  {
+    "start": 72.239,
+    "end": 75.039,
+    "text": "b) Think and Grow Rich",
+    "speaker": "self-help"
+  },
+  {
+    "start": 75.039,
+    "end": 77.519,
+    "text": "c) The Law of Attraction",
+    "speaker": "self-help"
+  },
+  {
+    "start": 77.519,
+    "end": 79.439,
+    "text": "Hmm, could do us some help here.",
+    "speaker": null
+  },
+  {
+    "start": 80.239,
+    "end": 84,
+    "text": "I'll go for the first one, How to Win Friends and Influence People.",
+    "speaker": null
+  },
+  {
+    "start": 84.64,
+    "end": 89.759,
+    "text": "Okay, well, before we go further, let's take a trip around a bookshop in Manchester",
+    "speaker": null
+  },
+  {
+    "start": 89.759,
+    "end": 93.2,
+    "text": "to find out which self-help books are selling well.",
+    "speaker": null
+  },
+  {
+    "start": 93.2,
+    "end": 97.12,
+    "text": "Let's listen to Emma Marshall, a manager at Waterston's bookshop.",
+    "speaker": null
+  },
+  {
+    "start": 97.12,
+    "end": 98.079,
+    "text": "What's popular now?",
+    "speaker": null
+  },
+  {
+    "start": 99.12,
+    "end": 102.479,
+    "text": "At the moment, we're in the tidying up and getting rid of things, Trend.",
+    "speaker": null
+  },
+  {
+    "start": 102.479,
+    "end": 106.319,
+    "text": "But before that, we saw Colour Again, which became a huge thing.",
+    "speaker": null
+  },
+  {
+    "start": 106.399,
+    "end": 110.559,
+    "text": "It's kind of dwindling now, because these sorts of trends come in and then they go.",
+    "speaker": null
+  },
+  {
+    "start": 110.559,
+    "end": 115.359,
+    "text": "Like last year, we saw Huger, which is the Danish art of living well, apparently.",
+    "speaker": null
+  },
+  {
+    "start": 115.359,
+    "end": 117.28,
+    "text": "So we're taking from all sorts of cultures.",
+    "speaker": null
+  },
+  {
+    "start": 117.28,
+    "end": 121.199,
+    "text": "And so I think right now, the trend is clearly about slowing down in your life.",
+    "speaker": null
+  },
+  {
+    "start": 122.56,
+    "end": 125.28,
+    "text": "Emma says there are a couple of trends right now.",
+    "speaker": null
+  },
+  {
+    "start": 125.28,
+    "end": 129.359,
+    "text": "Emma says there are a couple of trends right now. A trend, here, means something new which is popular for a period of time.",
+    "speaker": "trendstrend"
+  },
+  {
+    "start": 129.359,
+    "end": 133.439,
+    "text": "Yes, so she mentioned tidying up and getting rid of things. Would you buy a book about tidying up, Neil?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 133.439,
+    "end": 135.599,
+    "text": "Would you buy a book about tidying up, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 135.84,
+    "end": 139.359,
+    "text": "I'd be more likely to buy a book about it than actually tidy up.",
+    "speaker": null
+  },
+  {
+    "start": 139.359,
+    "end": 143.199,
+    "text": "I'd be more likely to buy a book about it than actually tidy up! She also mentioned a current trend about slowing down in our lives.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 143.199,
+    "end": 144.799,
+    "text": "Well, I can agree with that.",
+    "speaker": null
+  },
+  {
+    "start": 144.799,
+    "end": 147.599,
+    "text": "And previous trends included colouring in.",
+    "speaker": null
+  },
+  {
+    "start": 147.599,
+    "end": 151.759,
+    "text": "I can agree with that! And previous trends included colouring-in – these books have black and white outline pictures that you fill in with colours.",
+    "speaker": "trends"
+  },
+  {
+    "start": 151.759,
+    "end": 154.799,
+    "text": "I used to do that as a child. Very therapeutic!",
+    "speaker": "therapeutic"
+  },
+  {
+    "start": 154.799,
+    "end": 158.159,
+    "text": "Therapeutic – making you feel more relaxed and less anxious – it's related to the word therapy…",
+    "speaker": "Therapeutic"
+  },
+  {
+    "start": 158.799,
+    "end": 160.959,
+    "text": "It's related to the word therapy.",
+    "speaker": null
+  },
+  {
+    "start": 160.959,
+    "end": 164.799,
+    "text": "Although the colouring in trend is dwindling, it's becoming weaker.",
+    "speaker": null
+  },
+  {
+    "start": 164.88,
+    "end": 166.8,
+    "text": "They're selling fewer colouring in books.",
+    "speaker": null
+  },
+  {
+    "start": 167.6,
+    "end": 172.48,
+    "text": "So trends calm and go, but the industry is going from strength to strength.",
+    "speaker": null
+  },
+  {
+    "start": 173.2,
+    "end": 177.439,
+    "text": "To go from strength to strength means to remain strong, or get even stronger! Why?",
+    "speaker": "To go from strength to strength"
+  },
+  {
+    "start": 178.08,
+    "end": 178.4,
+    "text": "Why?",
+    "speaker": null
+  },
+  {
+    "start": 179.12,
+    "end": 185.28,
+    "text": "Dr Jennifer Wilde, a psychologist from Oxford University, believes that the internet is a big factor.",
+    "speaker": null
+  },
+  {
+    "start": 185.84,
+    "end": 188.48,
+    "text": "We've got used to searching for solutions online,",
+    "speaker": null
+  },
+  {
+    "start": 188.48,
+    "end": 192.56,
+    "text": "We've got used to searching for solutions online, and now these solutions even include how to fix or improve our lives.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 193.039,
+    "end": 198.479,
+    "text": "And psychologist Caroline Beaton, writing on Forbes.com, said she believes that millennials are a big factor.",
+    "speaker": "millennials"
+  },
+  {
+    "start": 198.479,
+    "end": 199.52,
+    "text": "are a big factor.",
+    "speaker": null
+  },
+  {
+    "start": 200,
+    "end": 201.759,
+    "text": "How do we define the term millennial?",
+    "speaker": null
+  },
+  {
+    "start": 202.4,
+    "end": 208.56,
+    "text": "Also known as Generation Why, are people born between the mid-1980s and early 2000s?",
+    "speaker": null
+  },
+  {
+    "start": 208.56,
+    "end": 212.96,
+    "text": "It's a common term in the news, often because people born in this time in the West are",
+    "speaker": null
+  },
+  {
+    "start": 212.96,
+    "end": 215.199,
+    "text": "seen to have certain characteristics.",
+    "speaker": null
+  },
+  {
+    "start": 215.84,
+    "end": 219.599,
+    "text": "Yes, they're sometimes described as lazy and obsessed with themselves.",
+    "speaker": null
+  },
+  {
+    "start": 219.599,
+    "end": 221.68,
+    "text": "And while that's not necessarily true,",
+    "speaker": null
+  },
+  {
+    "start": 221.68,
+    "end": 225.12,
+    "text": "Caroline Beaton says millennials are highly self-critical.",
+    "speaker": null
+  },
+  {
+    "start": 225.919,
+    "end": 231.68,
+    "text": "Self-critical. They are aware of their own faults, which also means they're more likely to spend",
+    "speaker": null
+  },
+  {
+    "start": 231.68,
+    "end": 237.439,
+    "text": "time or money on self-help. She says they spend twice as much as Generation X's.",
+    "speaker": null
+  },
+  {
+    "start": 237.439,
+    "end": 242.639,
+    "text": "Generation X refers to people born between the late 1960s and around 1980.",
+    "speaker": null
+  },
+  {
+    "start": 242.639,
+    "end": 248.56,
+    "text": "And one more possible reason why the self-help industry does well, it's very resistant to recessions.",
+    "speaker": null
+  },
+  {
+    "start": 249.12,
+    "end": 254.96,
+    "text": "When the economy does badly, as we say, it goes into recession, people are perhaps even more likely",
+    "speaker": null
+  },
+  {
+    "start": 254.96,
+    "end": 257.6,
+    "text": "to reach for self-help to improve their situation.",
+    "speaker": null
+  },
+  {
+    "start": 258.24,
+    "end": 264.48,
+    "text": "So there we are. Now, let's go back to another recession – the Great Depression of the 1930s in America – and to my question about which self-help book was published first?",
+    "speaker": "self-help"
+  },
+  {
+    "start": 264.48,
+    "end": 268.72,
+    "text": "America. And to my question about which self-help book was published first?",
+    "speaker": null
+  },
+  {
+    "start": 268.72,
+    "end": 272.639,
+    "text": "Well – I said a) How to Win Friends and Influence People.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 273.12,
+    "end": 276.639,
+    "text": "In fact, two of these books were published in the late 1930s.",
+    "speaker": null
+  },
+  {
+    "start": 276.639,
+    "end": 282,
+    "text": "How to win friends and influence people by Dale Carnegie was first in 1936.",
+    "speaker": null
+  },
+  {
+    "start": 282,
+    "end": 288.079,
+    "text": "It has since sold over 30 million copies. Think and grow rich by Napoleon Hill was published",
+    "speaker": null
+  },
+  {
+    "start": 288.079,
+    "end": 292.879,
+    "text": "in 1937 and is believed to have sold over 100 million copies.",
+    "speaker": null
+  },
+  {
+    "start": 292.879,
+    "end": 295.439,
+    "text": "That's a lot of self-help. Have you read either of them?",
+    "speaker": null
+  },
+  {
+    "start": 295.439,
+    "end": 298.24,
+    "text": "I haven't read either of them but, perhaps, I should",
+    "speaker": "Neil"
+  },
+  {
+    "start": 298.24,
+    "end": 302.719,
+    "text": "Well, before we rush home and improve ourselves, let's improve our vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 302.72,
+    "end": 308.08,
+    "text": "Of course – today we had: self-help - the activity of improving yourself – physically, mentally or in other ways – often through courses and books.",
+    "speaker": "self-help"
+  },
+  {
+    "start": 308.08,
+    "end": 311.2,
+    "text": "mentally or in other ways, often through courses and books.",
+    "speaker": null
+  },
+  {
+    "start": 311.68,
+    "end": 316.56,
+    "text": "There are lots of trends in the self-help industry. And we also see trends in fashion, in music, in popular culture… Like the trend for men to grow beards.",
+    "speaker": "trendsself-helptrendstrend"
+  },
+  {
+    "start": 316.56,
+    "end": 320.88,
+    "text": "in music, in popular culture, like the trend for men to grow beards.",
+    "speaker": null
+  },
+  {
+    "start": 320.88,
+    "end": 321.92,
+    "text": "Are you talking about me?",
+    "speaker": null
+  },
+  {
+    "start": 322.64,
+    "end": 327.76,
+    "text": "Are you talking about me? Anyway, I think the beard trend is dwindling. It's getting smaller, less influential.",
+    "speaker": "dwindling"
+  },
+  {
+    "start": 327.76,
+    "end": 331.12,
+    "text": "Really? Hmm. I'll stroke my beard here.",
+    "speaker": null
+  },
+  {
+    "start": 331.12,
+    "end": 334.56,
+    "text": "I think that's very therapeutic. It makes me relax and feel good.",
+    "speaker": null
+  },
+  {
+    "start": 334.56,
+    "end": 338.879,
+    "text": "Maybe you're right. What about our next phrase – to go from strength to strength?",
+    "speaker": "go from strength to strength"
+  },
+  {
+    "start": 338.879,
+    "end": 342.72,
+    "text": "Well, you could say a business is going from strength to strength,",
+    "speaker": null
+  },
+  {
+    "start": 342.72,
+    "end": 344.72,
+    "text": "if it's earning a lot of money. Indeed.",
+    "speaker": null
+  },
+  {
+    "start": 344.72,
+    "end": 347.36,
+    "text": "Indeed. And what about our term for young people – millennial. Are you a millennial, Rob?",
+    "speaker": "millennialmillennial"
+  },
+  {
+    "start": 347.36,
+    "end": 348.959,
+    "text": "Are you a millennial, Rob?",
+    "speaker": null
+  },
+  {
+    "start": 348.959,
+    "end": 352.879,
+    "text": "Didn't quite scrape in there. I'm still a generation X, okay.",
+    "speaker": null
+  },
+  {
+    "start": 352.879,
+    "end": 356.48,
+    "text": "But I do like to think I'm in touch with what millennials do,",
+    "speaker": null
+  },
+  {
+    "start": 356.48,
+    "end": 360.079,
+    "text": "which includes having lots of different social media accounts.",
+    "speaker": null
+  },
+  {
+    "start": 360.159,
+    "end": 363.839,
+    "text": "Just like us – do look up BBC Learning English on Facebook, Twitter, Instagram and YouTube.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 363.839,
+    "end": 366.319,
+    "text": "Twitter, Instagram and YouTube.",
+    "speaker": null
+  },
+  {
+    "start": 366.319,
+    "end": 368.399,
+    "text": "And good luck with your self-improvement!",
+    "speaker": "Rob"
+  },
+  {
+    "start": 368.399,
+    "end": 369.199,
+    "text": "Goodbye. Bye.",
+    "speaker": null
+  }
+]

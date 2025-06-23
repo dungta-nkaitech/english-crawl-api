@@ -1,0 +1,386 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 13.519,
+    "end": 17.92,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Rob.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 17.92,
+    "end": 18.879,
+    "text": "And I’m Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 18.879,
+    "end": 24.32,
+    "text": "Now, Sam, look into my eyes! You are feeling sleepy! Relax!",
+    "speaker": "Rob"
+  },
+  {
+    "start": 24.32,
+    "end": 27.92,
+    "text": "What's he doing, Rob? Trying to hypnotise me?",
+    "speaker": null
+  },
+  {
+    "start": 28,
+    "end": 33.52,
+    "text": "Well, since hypnotism is the topic of this programme, I thought I’d give it a try! So how do you feel, Sam? Are you under my spell?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 33.52,
+    "end": 36.24,
+    "text": "So, how do you feel, Sam? Are you under my spell?",
+    "speaker": null
+  },
+  {
+    "start": 36.24,
+    "end": 42.48,
+    "text": "Hmm, I don't think so, Rob. It's not so easy to put me into a hypnostic trance.",
+    "speaker": null
+  },
+  {
+    "start": 43.12,
+    "end": 50.32,
+    "text": "Hmmm, I don’t think so, Rob. It’s not so easy to put me into a hypnotic trance – that’s the word to describe the state of mind of someone who’s been hypnotised and isn’t completely in control.",
+    "speaker": "trance"
+  },
+  {
+    "start": 50.32,
+    "end": 54.56,
+    "text": "Ah, you mean like those stage magicians who trick people into",
+    "speaker": null
+  },
+  {
+    "start": 54.56,
+    "end": 58,
+    "text": "clucking like a chicken or playing an imaginary violin.",
+    "speaker": null
+  },
+  {
+    "start": 58,
+    "end": 62.16,
+    "text": "Yes, some hypnotists make people do silly things for entertainment,",
+    "speaker": null
+  },
+  {
+    "start": 62.16,
+    "end": 67.6,
+    "text": "Yes, some hypnotists make people do silly things for entertainment but hypnotism has real benefits as well - curing phobias, for example.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 67.6,
+    "end": 73.76,
+    "text": "Er, maybe so, but for other people, the very idea of a hypnotic trance is nonsense.",
+    "speaker": null
+  },
+  {
+    "start": 73.76,
+    "end": 79.92,
+    "text": "Maybe so, but for other people the very idea of a hypnotic trance is nonsense. And even if hypnotism is real, why would you let a complete stranger inside your head?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 79.92,
+    "end": 83.04,
+    "text": "Don’t worry, Rob. I won’t make you cluck like a chicken!",
+    "speaker": "Sam"
+  },
+  {
+    "start": 83.12,
+    "end": 90.32,
+    "text": "Oh, please don't. At least not before my quiz question, which is about a well-known 20th-century hypnotist.",
+    "speaker": null
+  },
+  {
+    "start": 91.04,
+    "end": 97.2,
+    "text": "One of the first Europeans to hypnotise people, this man became so famous that his name is forever",
+    "speaker": null
+  },
+  {
+    "start": 97.2,
+    "end": 105.76,
+    "text": "associated with hypnotic trances. But, who was he? Was it a Sigmund Freud, B. Franz Mesmer,",
+    "speaker": null
+  },
+  {
+    "start": 105.76,
+    "end": 110.8,
+    "text": "or C. Harry Houdini? Well, people want to quit smoking,",
+    "speaker": null
+  },
+  {
+    "start": 110.879,
+    "end": 117.519,
+    "text": "Well, people who want to quit smoking sometimes use a kind of therapy involving hypnotism, so maybe it’s a) Sigmund Freud!",
+    "speaker": "Sam"
+  },
+  {
+    "start": 118.479,
+    "end": 122.319,
+    "text": "Okay, we'll find out if that's right at the end of the programme.",
+    "speaker": null
+  },
+  {
+    "start": 123.2,
+    "end": 127.679,
+    "text": "One question that's often asked is whether anyone can be hypnotised,",
+    "speaker": null
+  },
+  {
+    "start": 127.679,
+    "end": 133.199,
+    "text": "or are there people, maybe like you, Sam, who are less hypnotizable than others?",
+    "speaker": null
+  },
+  {
+    "start": 133.199,
+    "end": 139.28,
+    "text": "Professor Amiraz is a psychiatrist at the Brain Institute in Orange County, California.",
+    "speaker": null
+  },
+  {
+    "start": 139.84,
+    "end": 147.599,
+    "text": "According to him, there are two things which explain what makes one person more or less hypnotizable",
+    "speaker": null
+  },
+  {
+    "start": 147.599,
+    "end": 152.639,
+    "text": "than another. As he told BBC World Service programme, the wife actor.",
+    "speaker": null
+  },
+  {
+    "start": 152.639,
+    "end": 155.039,
+    "text": "And listen out for the first thing he mentions:",
+    "speaker": "Rob"
+  },
+  {
+    "start": 156.159,
+    "end": 160.08,
+    "text": "Initially, people thought that if you're very intelligent, you're likely to be less",
+    "speaker": null
+  },
+  {
+    "start": 160.08,
+    "end": 164.56,
+    "text": "suggestible. If you are male, you're likely to be less suggestible than if you're female.",
+    "speaker": null
+  },
+  {
+    "start": 165.52,
+    "end": 171.36,
+    "text": "In fact, it’s about two things. First, absorption…",
+    "speaker": "Nicola Kelly"
+  },
+  {
+    "start": 171.36,
+    "end": 176.479,
+    "text": "Your ability to get engrossed. In a particular activity, we all know people who are capable of",
+    "speaker": null
+  },
+  {
+    "start": 176.479,
+    "end": 182.08,
+    "text": "reading a book and losing track of time. We know the same thing about people who are watching a film",
+    "speaker": null
+  },
+  {
+    "start": 182.08,
+    "end": 186.719,
+    "text": "and beginning to cry, having all these emotional reactions, again, getting very much sucked into",
+    "speaker": null
+  },
+  {
+    "start": 186.719,
+    "end": 193.439,
+    "text": "the scene and being riveted. People often think you can be easily hypnotised if you are",
+    "speaker": null
+  },
+  {
+    "start": 193.439,
+    "end": 200.639,
+    "text": "suggestible or easily influenced by others. In fact, hypnotism is about two things.",
+    "speaker": null
+  },
+  {
+    "start": 200.639,
+    "end": 208.96,
+    "text": "Did you hear the first thing, Sam? Yes, it's getting absorbed. So absorbed that you lose track of time.",
+    "speaker": null
+  },
+  {
+    "start": 208.96,
+    "end": 213.919,
+    "text": "Yes - it’s getting absorbed; so absorbed that you lose track of time - become so occupied with something that you are unaware of the passing time.",
+    "speaker": "lose track of time -"
+  },
+  {
+    "start": 213.919,
+    "end": 218.24,
+    "text": "And getting absorbed can also mean you get sucked into something.",
+    "speaker": null
+  },
+  {
+    "start": 218.24,
+    "end": 222.24,
+    "text": "And getting absorbed can also mean you get sucked into something - become involved in a situation when you do not want to be involved.",
+    "speaker": "get sucked into something"
+  },
+  {
+    "start": 222.24,
+    "end": 228.719,
+    "text": "Stage hypnotists often speak in soothing, gentle ways to help this process of getting someone",
+    "speaker": null
+  },
+  {
+    "start": 228.719,
+    "end": 235.52,
+    "text": "absorbed or sacked in. But according to Professor Razz, there's a second important part to being",
+    "speaker": null
+  },
+  {
+    "start": 235.52,
+    "end": 242.64,
+    "text": "hypnotised. Attention. Listen to the definition of attention. Professor Razz gives to BBC World",
+    "speaker": null
+  },
+  {
+    "start": 242.64,
+    "end": 251.6,
+    "text": "Service Program the wife actor. The ability to get focused, to concentrate and hone in on particular",
+    "speaker": null
+  },
+  {
+    "start": 251.599,
+    "end": 258.159,
+    "text": "select pieces of information to the exclusion of others. Besides the relaxed,",
+    "speaker": null
+  },
+  {
+    "start": 258.159,
+    "end": 265.04,
+    "text": "Besides the relaxed, dream-like feeling of being absorbed, what’s also needed is the concentration to hone in on something, in other words, to give it your full attention.",
+    "speaker": "hone in on something"
+  },
+  {
+    "start": 265.04,
+    "end": 271.04,
+    "text": "In other words, to give it your full attention. What you hone in on could be the way the",
+    "speaker": null
+  },
+  {
+    "start": 271.04,
+    "end": 278.079,
+    "text": "What you hone in on could be the way the hypnotist speaks, like how Rob said, “Look into my eyes!” at the beginning of the programme.",
+    "speaker": "hone in on"
+  },
+  {
+    "start": 278.079,
+    "end": 283.839,
+    "text": "Or it could be some other object, like a moving finger, a pendulum or a swinging watch that some hypnotists use.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 283.839,
+    "end": 288.24,
+    "text": "that some hypnotists use. Well, I don't feel hypnotised or open.",
+    "speaker": null
+  },
+  {
+    "start": 288.24,
+    "end": 294.799,
+    "text": "Well, I don’t feel hypnotised, Rob, but I’m certainly focused on one thing – my lunch! So come on, tell me – what's the correct answer to the quiz question?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 294.799,
+    "end": 301.36,
+    "text": "the quiz question? Okay Sam, I asked you which hypnotist was so famous that his name became used",
+    "speaker": null
+  },
+  {
+    "start": 301.36,
+    "end": 306.959,
+    "text": "as a verb. And what did you say? I guess it was a Sigmund Freud. It was a good guess,",
+    "speaker": null
+  },
+  {
+    "start": 306.959,
+    "end": 313.519,
+    "text": "but the correct answer was B, a German doctor called Franz Mesmer. Of course. And the word",
+    "speaker": null
+  },
+  {
+    "start": 313.519,
+    "end": 320.719,
+    "text": "Of course! And the word named after him was… mesmerised – to have your attention completely fixed so that you can’t think of anything else.",
+    "speaker": "mesmerised"
+  },
+  {
+    "start": 320.719,
+    "end": 327.12,
+    "text": "of anything else. Well, that might be a problem if you want to remember this vocabulary. So let's",
+    "speaker": null
+  },
+  {
+    "start": 327.12,
+    "end": 333.679,
+    "text": "recap the words we've learned, starting with trance, a state of consciousness in which you are not",
+    "speaker": null
+  },
+  {
+    "start": 333.68,
+    "end": 340.959,
+    "text": "Someone who is suggestible is easily influenced by other people.",
+    "speaker": "suggestible"
+  },
+  {
+    "start": 340.959,
+    "end": 346.96,
+    "text": "When you lose track of time, you become so absorbed with something that you are unaware of time passing.",
+    "speaker": "lose track of time"
+  },
+  {
+    "start": 346.96,
+    "end": 352.8,
+    "text": "And you might get sucked in - become involved in a situation that you don’t want to.",
+    "speaker": "get sucked in -"
+  },
+  {
+    "start": 353.439,
+    "end": 359.36,
+    "text": "Hypnotism also depends on concentration and the ability to hone in on something - to give something your full attention…",
+    "speaker": "hone in on something -"
+  },
+  {
+    "start": 359.36,
+    "end": 365.52,
+    "text": "something your full attention. Until you're mesmerised, you have your attention completely fixed",
+    "speaker": null
+  },
+  {
+    "start": 365.52,
+    "end": 371.439,
+    "text": "so that you cannot think of anything else. That's all for this hypnotic journey. Bye for now. Bye bye.",
+    "speaker": null
+  }
+]

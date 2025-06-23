@@ -1,0 +1,614 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 11.439,
+    "text": "6 Minute English from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 12.56,
+    "end": 15.839,
+    "text": "Hello and welcome to 6 Minute English. I'm Alice…",
+    "speaker": "Alice"
+  },
+  {
+    "start": 15.839,
+    "end": 19.519,
+    "text": "And I'm Neil. So Alice, what's your ideal place to be?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 19.519,
+    "end": 23.92,
+    "text": "Oh, curled up on the sofa with a good book in front of a log fire.",
+    "speaker": null
+  },
+  {
+    "start": 23.92,
+    "end": 25.92,
+    "text": "Last night it was very cold.",
+    "speaker": null
+  },
+  {
+    "start": 25.92,
+    "end": 29.76,
+    "text": "Well, for me, lying in a hammock under a palm tree on a tropical beach with a cool breeze. I don't like when it's too hot.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 29.76,
+    "end": 32.96,
+    "text": "with a cool breeze. I don't like it when it's too hot.",
+    "speaker": null
+  },
+  {
+    "start": 32.96,
+    "end": 37.2,
+    "text": "Hmm, yes, true. Humans don't cope well with extremes of temperature,",
+    "speaker": null
+  },
+  {
+    "start": 37.2,
+    "end": 42.8,
+    "text": "but some species do. The subject of today's show is extremophiles.",
+    "speaker": null
+  },
+  {
+    "start": 42.8,
+    "end": 48.88,
+    "text": "These are microorganisms that have adapted to live in what we would consider to be extreme conditions.",
+    "speaker": null
+  },
+  {
+    "start": 48.88,
+    "end": 54.4,
+    "text": "For example, living in near-boiling acidic water, or frozen at the bottom of an Antarctic lake.",
+    "speaker": null
+  },
+  {
+    "start": 54.4,
+    "end": 57.439,
+    "text": "Those do sound like pretty extreme conditions.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 57.439,
+    "end": 62.239,
+    "text": "Yes, the thing is, what sounds hostile, or unfriendly to us,",
+    "speaker": null
+  },
+  {
+    "start": 62.239,
+    "end": 64.799,
+    "text": "are perfect environments for extremophiles,",
+    "speaker": null
+  },
+  {
+    "start": 64.799,
+    "end": 67.679,
+    "text": "and in fact, they wouldn't survive without them.",
+    "speaker": null
+  },
+  {
+    "start": 67.679,
+    "end": 71.679,
+    "text": "Now, are you tough enough to face up to today's quiz question, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 71.679,
+    "end": 72.719,
+    "text": "I think so.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 72.719,
+    "end": 74.319,
+    "text": "All right, then here goes.",
+    "speaker": null
+  },
+  {
+    "start": 74.319,
+    "end": 78,
+    "text": "Which US National Park is home to geeseers,",
+    "speaker": null
+  },
+  {
+    "start": 78,
+    "end": 81.599,
+    "text": "or hot springs that shoot hot water and steam into the air,",
+    "speaker": null
+  },
+  {
+    "start": 81.599,
+    "end": 83.759,
+    "text": "which have extremophiles living in them?",
+    "speaker": null
+  },
+  {
+    "start": 83.84,
+    "end": 86.16,
+    "text": "a) Grand Canyon?",
+    "speaker": "geysers"
+  },
+  {
+    "start": 86.16,
+    "end": 90.8,
+    "text": "b) Death Valley National Park?",
+    "speaker": "geysers"
+  },
+  {
+    "start": 90.8,
+    "end": 93.6,
+    "text": "That's easy - it has to be c) Yellowstone.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 93.6,
+    "end": 98.8,
+    "text": "Okay, well, we'll find out if you got the answer right later on in the show.",
+    "speaker": null
+  },
+  {
+    "start": 98.8,
+    "end": 100.64,
+    "text": "But moving on now, Neil,",
+    "speaker": null
+  },
+  {
+    "start": 100.64,
+    "end": 105.439,
+    "text": "did you know that extremophiles belong to an entirely different group of living things",
+    "speaker": null
+  },
+  {
+    "start": 105.439,
+    "end": 107.2,
+    "text": "to other animals and plants?",
+    "speaker": null
+  },
+  {
+    "start": 107.2,
+    "end": 110.32,
+    "text": "No. I imagined extremophiles would be like insects, because insects are pretty tough, aren't they?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 110.32,
+    "end": 112.4,
+    "text": "because insects are pretty tough, aren't they?",
+    "speaker": null
+  },
+  {
+    "start": 112.56,
+    "end": 113.76,
+    "text": "Yes, that's true.",
+    "speaker": null
+  },
+  {
+    "start": 113.76,
+    "end": 117.04,
+    "text": "But remember, extremophiles are microorganisms.",
+    "speaker": null
+  },
+  {
+    "start": 117.04,
+    "end": 118.64,
+    "text": "They're really tiny.",
+    "speaker": null
+  },
+  {
+    "start": 118.64,
+    "end": 120.64,
+    "text": "Let's listen to Ian Crawford,",
+    "speaker": null
+  },
+  {
+    "start": 120.64,
+    "end": 124.88,
+    "text": "professor of planetary science and astrobiology at Birkbeck University of London.",
+    "speaker": null
+  },
+  {
+    "start": 125.6,
+    "end": 130.159,
+    "text": "He tells us how in the 1970s, a scientist called Carl Wurzer",
+    "speaker": null
+  },
+  {
+    "start": 130.159,
+    "end": 134.48,
+    "text": "identified a new kingdom of living things that he called archaea,",
+    "speaker": null
+  },
+  {
+    "start": 134.48,
+    "end": 136.159,
+    "text": "meaning ancient ones.",
+    "speaker": null
+  },
+  {
+    "start": 136.159,
+    "end": 138.159,
+    "text": "The extremophiles belong to this group.",
+    "speaker": null
+  },
+  {
+    "start": 138.56,
+    "end": 144.24,
+    "text": "Well, the old tree of life idea basically talked about empires,",
+    "speaker": null
+  },
+  {
+    "start": 144.24,
+    "end": 146.639,
+    "text": "if you like, of plants and animals.",
+    "speaker": null
+  },
+  {
+    "start": 146.639,
+    "end": 148.639,
+    "text": "And the things that we can see essentially,",
+    "speaker": null
+  },
+  {
+    "start": 148.639,
+    "end": 151.519,
+    "text": "we put a great deal of emphasis on large organisms",
+    "speaker": null
+  },
+  {
+    "start": 151.519,
+    "end": 155.039,
+    "text": "and the traditional distinction in biology between botany and zoology.",
+    "speaker": null
+  },
+  {
+    "start": 155.039,
+    "end": 157.84,
+    "text": "What it really did was say, that's all wrong.",
+    "speaker": null
+  },
+  {
+    "start": 157.84,
+    "end": 160.4,
+    "text": "There's really only three major groups in life.",
+    "speaker": null
+  },
+  {
+    "start": 160.4,
+    "end": 162.56,
+    "text": "There's the archaea, the bacteria,",
+    "speaker": null
+  },
+  {
+    "start": 162.56,
+    "end": 164.8,
+    "text": "and the eukaryotes, which is all of this complex life.",
+    "speaker": null
+  },
+  {
+    "start": 164.88,
+    "end": 169.28,
+    "text": "And so it kind of put humans into a small corner of the tree of life",
+    "speaker": null
+  },
+  {
+    "start": 169.28,
+    "end": 171.04,
+    "text": "mixed to plants and whatever else.",
+    "speaker": null
+  },
+  {
+    "start": 171.04,
+    "end": 174.32,
+    "text": "It kind of squashes us again out of being the center of the universe.",
+    "speaker": null
+  },
+  {
+    "start": 175.52,
+    "end": 180.48,
+    "text": "So botany is the study of plant life, and zoology is the study of animal life. But maybe you can explain 'archaea', and 'eukaryotes', Alice.",
+    "speaker": "botanyzoology"
+  },
+  {
+    "start": 180.48,
+    "end": 184,
+    "text": "But maybe you can explain archaea and eukaryotes, Alice.",
+    "speaker": null
+  },
+  {
+    "start": 184,
+    "end": 188.32,
+    "text": "archaea are a group of single-celled microbes similar to bacteria,",
+    "speaker": null
+  },
+  {
+    "start": 188.32,
+    "end": 190.32,
+    "text": "but different to all other known types.",
+    "speaker": null
+  },
+  {
+    "start": 191.039,
+    "end": 197.28,
+    "text": "Eukaryote is the scientific term for organisms with a much larger or more complex type of cell.",
+    "speaker": null
+  },
+  {
+    "start": 197.28,
+    "end": 200.239,
+    "text": "And this group includes all animals, plants, and fungi.",
+    "speaker": null
+  },
+  {
+    "start": 200.719,
+    "end": 203.759,
+    "text": "But why are archaea so important?",
+    "speaker": null
+  },
+  {
+    "start": 203.759,
+    "end": 206.56,
+    "text": "Why do they need a whole biological domain to themselves?",
+    "speaker": null
+  },
+  {
+    "start": 206.56,
+    "end": 210.159,
+    "text": "Are we humans, gets squashed up in one domain with plants and fungi?",
+    "speaker": null
+  },
+  {
+    "start": 210.959,
+    "end": 216.159,
+    "text": "Well, Neil, it's likely they've been living on our planet ever since the Earth became habitable,",
+    "speaker": null
+  },
+  {
+    "start": 216.159,
+    "end": 217.84,
+    "text": "and that's billions of years.",
+    "speaker": null
+  },
+  {
+    "start": 218.64,
+    "end": 223.28,
+    "text": "And they are still living and thriving in a whole range of different environments today.",
+    "speaker": null
+  },
+  {
+    "start": 223.28,
+    "end": 226.24,
+    "text": "And when something is thriving it means it's doing well! So tell us about where they live, Alice.",
+    "speaker": "thriving"
+  },
+  {
+    "start": 226.24,
+    "end": 228.48,
+    "text": "So tell us about where they live, Alice.",
+    "speaker": null
+  },
+  {
+    "start": 229.199,
+    "end": 234.159,
+    "text": "Some live in hydrothermal vents, holes in the ocean floor, hundreds of meters down,",
+    "speaker": null
+  },
+  {
+    "start": 234.159,
+    "end": 236.56,
+    "text": "where there's lots of pressure and no sunlight.",
+    "speaker": null
+  },
+  {
+    "start": 237.28,
+    "end": 241.36,
+    "text": "And mineral-rich superheated water is coming out of the Earth's crust,",
+    "speaker": null
+  },
+  {
+    "start": 241.36,
+    "end": 243.12,
+    "text": "and then flowing out through these holes.",
+    "speaker": null
+  },
+  {
+    "start": 243.12,
+    "end": 246.319,
+    "text": "I see. Well, what about cold-loving extramophiles?",
+    "speaker": null
+  },
+  {
+    "start": 246.879,
+    "end": 252,
+    "text": "Well, scientists have found them in hidden lakes trapped beneath ice sheets hundreds of meters thick",
+    "speaker": null
+  },
+  {
+    "start": 252,
+    "end": 256.399,
+    "text": "in Antarctica. It takes days to drill through the ice to reach the water.",
+    "speaker": null
+  },
+  {
+    "start": 256.399,
+    "end": 258.48,
+    "text": "And how do they survive down there?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 258.48,
+    "end": 264.159,
+    "text": "Well, these microbes have found a way of getting energy from certain minerals like iron and sulfur,",
+    "speaker": null
+  },
+  {
+    "start": 264.159,
+    "end": 265.36,
+    "text": "present in the water.",
+    "speaker": null
+  },
+  {
+    "start": 265.36,
+    "end": 267.6,
+    "text": "Hmm, that sounds clever from microbes.",
+    "speaker": null
+  },
+  {
+    "start": 267.6,
+    "end": 269.12,
+    "text": "How do they figure that out?",
+    "speaker": null
+  },
+  {
+    "start": 269.12,
+    "end": 272.8,
+    "text": "It isn't a question of cleverness, it's a question of adaptation.",
+    "speaker": null
+  },
+  {
+    "start": 273.36,
+    "end": 276.639,
+    "text": "Extramophiles are extremely well adapted to their environment,",
+    "speaker": null
+  },
+  {
+    "start": 276.639,
+    "end": 280.4,
+    "text": "and they appeared on Earth much earlier than more complex life forms.",
+    "speaker": null
+  },
+  {
+    "start": 280.4,
+    "end": 285.439,
+    "text": "Let's hear from Nick Lane, reader in Evolutionary Biochemistry at University College London.",
+    "speaker": null
+  },
+  {
+    "start": 286.8,
+    "end": 290.24,
+    "text": "The origin of the eukaryotic cello, say it seems to have happened once,",
+    "speaker": null
+  },
+  {
+    "start": 290.24,
+    "end": 293.04,
+    "text": "it took about two billion years before that happened.",
+    "speaker": null
+  },
+  {
+    "start": 293.04,
+    "end": 296.24,
+    "text": "Then there was a kind of great leap forward at the cellular level,",
+    "speaker": null
+  },
+  {
+    "start": 296.24,
+    "end": 299.28,
+    "text": "but another billion years went by before we see animals.",
+    "speaker": null
+  },
+  {
+    "start": 300,
+    "end": 304.399,
+    "text": "So basically, the animal kingdom is much newer than the archaeian kingdom.",
+    "speaker": null
+  },
+  {
+    "start": 304.399,
+    "end": 309.279,
+    "text": "Indeed. And now it's time for the answer to today's quiz question, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 309.279,
+    "end": 315.279,
+    "text": "I asked, which US National Park is home to geese that have extramophiles living in them?",
+    "speaker": null
+  },
+  {
+    "start": 315.279,
+    "end": 321.279,
+    "text": "Is it a, Grand Canyon, B, Death Valley National Park, or C, Yellowstone?",
+    "speaker": null
+  },
+  {
+    "start": 321.279,
+    "end": 324.239,
+    "text": "And I said c) Yellowstone. I must be right.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 324.239,
+    "end": 328.399,
+    "text": "Yes, Neil, you are right. It's Yellowstone National Park.",
+    "speaker": null
+  },
+  {
+    "start": 328.959,
+    "end": 333.759,
+    "text": "Every year, scientists discover remarkable new microbes in Yellowstone's hot springs,",
+    "speaker": null
+  },
+  {
+    "start": 333.759,
+    "end": 337.439,
+    "text": "with implications for medicine, agriculture and energy,",
+    "speaker": null
+  },
+  {
+    "start": 337.439,
+    "end": 341.279,
+    "text": "as well as offering clues to the formation of the earliest life on Earth.",
+    "speaker": null
+  },
+  {
+    "start": 342,
+    "end": 345.519,
+    "text": "Very interesting. Now, here are the words we heard today:",
+    "speaker": "Neil"
+  },
+  {
+    "start": 346.319,
+    "end": 357.679,
+    "text": "Extramophiles, hostile, geezers, microorganisms, botany, zoology, archaea,",
+    "speaker": null
+  },
+  {
+    "start": 358.719,
+    "end": 363.679,
+    "text": "eukaryote, thriving, hydrothermal vents.",
+    "speaker": null
+  },
+  {
+    "start": 363.679,
+    "end": 366.079,
+    "text": "And that's the end of today's Sixth and It English.",
+    "speaker": null
+  },
+  {
+    "start": 366.079,
+    "end": 368.319,
+    "text": "Don't forget to join us again soon. Bye.",
+    "speaker": null
+  },
+  {
+    "start": 368.319,
+    "end": 368.719,
+    "text": "Bye!",
+    "speaker": "Both"
+  }
+]

@@ -1,0 +1,764 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.32,
+    "text": "6 Minute English.",
+    "speaker": null
+  },
+  {
+    "start": 8.32,
+    "end": 10.72,
+    "text": "From BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 12.8,
+    "end": 15.679,
+    "text": "Hello. This is 6 Minute English, I'm Georgina.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 15.679,
+    "end": 16.879,
+    "text": "And I'm Rob.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 16.879,
+    "end": 18.879,
+    "text": "What do you do when you’re tired, Rob?",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 18.879,
+    "end": 21.6,
+    "text": "Oh, well, I go to bed.",
+    "speaker": null
+  },
+  {
+    "start": 21.6,
+    "end": 23.12,
+    "text": "Before that?",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 23.12,
+    "end": 25.359,
+    "text": "Erm, I clean my teeth?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 25.359,
+    "end": 28.32,
+    "text": "But what does your body do to tell you you’re tired?",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 28.32,
+    "end": 32.399,
+    "text": "Right, well these days I just kind of fall asleep in front of the TV.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 32.399,
+    "end": 34.56,
+    "text": "Yes, but okay, what am I doing now?",
+    "speaker": null
+  },
+  {
+    "start": 34.56,
+    "end": 38.96,
+    "text": "Oh, yes, hang on, yes, you sit me off.",
+    "speaker": null
+  },
+  {
+    "start": 41.2,
+    "end": 42.159,
+    "text": "Yawning.",
+    "speaker": null
+  },
+  {
+    "start": 42.159,
+    "end": 45.92,
+    "text": "Yes, yawning is a sign that we're tired or bored.",
+    "speaker": null
+  },
+  {
+    "start": 45.92,
+    "end": 48.24,
+    "text": "Are you tired or bored now?",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 48.24,
+    "end": 49.92,
+    "text": "No, not particularly.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 49.92,
+    "end": 51.439,
+    "text": "So, why did you just yawn?",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 52.079,
+    "end": 54,
+    "text": "Well, because you did.",
+    "speaker": null
+  },
+  {
+    "start": 54,
+    "end": 56.96,
+    "text": "That's the thing about yorns, they are contagious.",
+    "speaker": null
+  },
+  {
+    "start": 56.96,
+    "end": 59.52,
+    "text": "They can spread from one person to another.",
+    "speaker": null
+  },
+  {
+    "start": 59.52,
+    "end": 62.24,
+    "text": "And that's what we're looking at in this program.",
+    "speaker": null
+  },
+  {
+    "start": 62.24,
+    "end": 64.239,
+    "text": "But first, today's question.",
+    "speaker": null
+  },
+  {
+    "start": 64.239,
+    "end": 67.2,
+    "text": "What biological function does yawning have?",
+    "speaker": null
+  },
+  {
+    "start": 67.2,
+    "end": 69.2,
+    "text": "Essentially, why do we yawn?",
+    "speaker": null
+  },
+  {
+    "start": 69.2,
+    "end": 71.92,
+    "text": "A: To take in more oxygen",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 71.92,
+    "end": 75.12,
+    "text": "B: To get rid of carbon dioxide from our body",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 75.12,
+    "end": 77.04,
+    "text": "C: No one really knows",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 77.04,
+    "end": 78.159,
+    "text": "What do you think, Rob?",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 78.159,
+    "end": 79.2,
+    "text": "Oh, I know this.",
+    "speaker": null
+  },
+  {
+    "start": 79.2,
+    "end": 81.52,
+    "text": "We yawn to take in more oxygen.",
+    "speaker": null
+  },
+  {
+    "start": 81.52,
+    "end": 83.28,
+    "text": "I'm pretty sure that's it.",
+    "speaker": null
+  },
+  {
+    "start": 83.28,
+    "end": 85.92,
+    "text": "Okay, we'll see if you're correct at the end of the program.",
+    "speaker": null
+  },
+  {
+    "start": 86.64,
+    "end": 90.32,
+    "text": "John Dury is a researcher from Sussex University.",
+    "speaker": null
+  },
+  {
+    "start": 90.32,
+    "end": 93.519,
+    "text": "On the BBC Radio 4 series All in the Mind,",
+    "speaker": null
+  },
+  {
+    "start": 93.519,
+    "end": 97.04,
+    "text": "he spoke about yawning and why it is contagious.",
+    "speaker": null
+  },
+  {
+    "start": 97.04,
+    "end": 100.96,
+    "text": "Which animal, does he mention, will also capture yawn from its owner?",
+    "speaker": null
+  },
+  {
+    "start": 102.079,
+    "end": 106.64,
+    "text": "Yawning is actually a difficult case when it comes to these contagious behaviours.",
+    "speaker": null
+  },
+  {
+    "start": 106.64,
+    "end": 108.56,
+    "text": "It is the most contagious behaviour.",
+    "speaker": null
+  },
+  {
+    "start": 108.56,
+    "end": 109.84,
+    "text": "And it's meant to be automatic.",
+    "speaker": null
+  },
+  {
+    "start": 109.84,
+    "end": 111.92,
+    "text": "It's something that you can't stop.",
+    "speaker": null
+  },
+  {
+    "start": 111.92,
+    "end": 114.24,
+    "text": "Dogs yawn when they're own is yawn.",
+    "speaker": null
+  },
+  {
+    "start": 114.319,
+    "end": 115.92,
+    "text": "Animals yawn to each other.",
+    "speaker": null
+  },
+  {
+    "start": 115.92,
+    "end": 118.479,
+    "text": "It happens whether you want to or not.",
+    "speaker": null
+  },
+  {
+    "start": 118.479,
+    "end": 121.28,
+    "text": "These kinds of effects have been found for other kinds of behaviour.",
+    "speaker": null
+  },
+  {
+    "start": 121.28,
+    "end": 124.719,
+    "text": "So really, we were trying to push it as far as we could",
+    "speaker": null
+  },
+  {
+    "start": 124.719,
+    "end": 129.12,
+    "text": "and see if there's a cognitive element to this implement behaviour.",
+    "speaker": null
+  },
+  {
+    "start": 130.319,
+    "end": 133.199,
+    "text": "Which animal might yawn when its owner does?",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 133.199,
+    "end": 134.079,
+    "text": "Dogs.",
+    "speaker": null
+  },
+  {
+    "start": 134.079,
+    "end": 136.639,
+    "text": "Dogs! Dogs can catch a yawn from their owners.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 136.639,
+    "end": 139.599,
+    "text": "Yes, yawning is a very contagious behaviour.",
+    "speaker": null
+  },
+  {
+    "start": 139.599,
+    "end": 142.4,
+    "text": "The use of the word behaviour here is interesting.",
+    "speaker": null
+  },
+  {
+    "start": 143.2,
+    "end": 146.719,
+    "text": "Normally it is an accountable noun to describe the way we act,",
+    "speaker": null
+  },
+  {
+    "start": 146.719,
+    "end": 149.2,
+    "text": "either in a good or a bad way.",
+    "speaker": null
+  },
+  {
+    "start": 149.2,
+    "end": 154.56,
+    "text": "We talk about, for example, dogs or children's behaviour being good or bad.",
+    "speaker": null
+  },
+  {
+    "start": 154.56,
+    "end": 159.36,
+    "text": "But it's also used as an uncountable noun when we're talking about a particular action",
+    "speaker": null
+  },
+  {
+    "start": 159.36,
+    "end": 163.36,
+    "text": "that, for example, an animal makes in particular situations.",
+    "speaker": null
+  },
+  {
+    "start": 163.36,
+    "end": 168.879,
+    "text": "These behaviours are often not conscious but are an automatic response to a situation.",
+    "speaker": null
+  },
+  {
+    "start": 169.519,
+    "end": 174.479,
+    "text": "And the researchers were looking to see if there was a cognitive side to the behaviour,",
+    "speaker": null
+  },
+  {
+    "start": 174.479,
+    "end": 177.199,
+    "text": "which means they were looking at the mental process.",
+    "speaker": null
+  },
+  {
+    "start": 177.199,
+    "end": 180.079,
+    "text": "What is happening in the mind to make us yawn?",
+    "speaker": null
+  },
+  {
+    "start": 180.079,
+    "end": 182.24,
+    "text": "Particularly when someone else yawns.",
+    "speaker": null
+  },
+  {
+    "start": 182.24,
+    "end": 183.199,
+    "text": "Let’s listen again.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 184.24,
+    "end": 188.8,
+    "text": "Yawning is actually a difficult case when it comes to these contagious behaviours.",
+    "speaker": null
+  },
+  {
+    "start": 188.8,
+    "end": 190.719,
+    "text": "It is the most contagious behaviour.",
+    "speaker": null
+  },
+  {
+    "start": 190.719,
+    "end": 191.919,
+    "text": "It is meant to be automatic.",
+    "speaker": null
+  },
+  {
+    "start": 191.919,
+    "end": 194.079,
+    "text": "It's something that you can't stop.",
+    "speaker": null
+  },
+  {
+    "start": 194.079,
+    "end": 196.319,
+    "text": "Dogs yawn when their owner is yawn.",
+    "speaker": null
+  },
+  {
+    "start": 196.319,
+    "end": 197.68,
+    "text": "Animals yawn to each other.",
+    "speaker": null
+  },
+  {
+    "start": 197.84,
+    "end": 200.56,
+    "text": "It happens whether you want to or not.",
+    "speaker": null
+  },
+  {
+    "start": 200.56,
+    "end": 203.36,
+    "text": "These kind of effects have been found for other kinds of behaviours.",
+    "speaker": null
+  },
+  {
+    "start": 203.36,
+    "end": 206.879,
+    "text": "So really we were trying to push it as far as we could",
+    "speaker": null
+  },
+  {
+    "start": 206.879,
+    "end": 211.28,
+    "text": "and see if there's a cognitive element to this implement behaviour.",
+    "speaker": null
+  },
+  {
+    "start": 212.08,
+    "end": 216.719,
+    "text": "The research discovered that contagious yawning is connected with our social group and how close we feel to the people in it. Here’s John Drury again.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 216.719,
+    "end": 218.96,
+    "text": "and how close we feel to the people in it.",
+    "speaker": null
+  },
+  {
+    "start": 219.6,
+    "end": 220.96,
+    "text": "Here's John Dury again.",
+    "speaker": null
+  },
+  {
+    "start": 222.08,
+    "end": 225.04,
+    "text": "So the more that you identify with the in-group target,",
+    "speaker": null
+  },
+  {
+    "start": 225.12,
+    "end": 228.079,
+    "text": "the more likely you are to copy their behaviour.",
+    "speaker": null
+  },
+  {
+    "start": 228.079,
+    "end": 232.079,
+    "text": "What we do when we see a behaviour is at some level we're making a judgment",
+    "speaker": null
+  },
+  {
+    "start": 232.079,
+    "end": 234.959,
+    "text": "about whether the person exhibiting that behaviour,",
+    "speaker": null
+  },
+  {
+    "start": 234.959,
+    "end": 239.359,
+    "text": "whether it's an emotion or a scratching behaviour or anything,",
+    "speaker": null
+  },
+  {
+    "start": 239.359,
+    "end": 240.159,
+    "text": "is relevant.",
+    "speaker": null
+  },
+  {
+    "start": 240.159,
+    "end": 244.159,
+    "text": "Just their behaviour indicate to us how we should behave.",
+    "speaker": null
+  },
+  {
+    "start": 245.12,
+    "end": 250.56,
+    "text": "So essentially yawning is more contagious if we identify with the person who yawns first.",
+    "speaker": null
+  },
+  {
+    "start": 250.56,
+    "end": 252.959,
+    "text": "If we feel close to and belong in,",
+    "speaker": null
+  },
+  {
+    "start": 253.04,
+    "end": 256.079,
+    "text": "the same group as a person who exhibits the behaviour,",
+    "speaker": null
+  },
+  {
+    "start": 256.079,
+    "end": 259.68,
+    "text": "the person who does the yawning, we are likely to yawn too.",
+    "speaker": null
+  },
+  {
+    "start": 260.319,
+    "end": 263.6,
+    "text": "So you're less likely to yawn if a stranger yawns",
+    "speaker": null
+  },
+  {
+    "start": 263.6,
+    "end": 266.96,
+    "text": "So, you are less likely to yawn if a stranger yawns than if someone in your close family or circle of friends yawns.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 267.519,
+    "end": 268.48,
+    "text": "Let's listen again.",
+    "speaker": null
+  },
+  {
+    "start": 269.6,
+    "end": 272,
+    "text": "So the more that you identify with the in-group target,",
+    "speaker": null
+  },
+  {
+    "start": 272.56,
+    "end": 275.6,
+    "text": "the more likely you are to copy their behaviour.",
+    "speaker": null
+  },
+  {
+    "start": 275.6,
+    "end": 279.6,
+    "text": "What we do when we see a behaviour is at some level we're making a judgment",
+    "speaker": null
+  },
+  {
+    "start": 279.6,
+    "end": 282.48,
+    "text": "about whether the person exhibiting that behaviour,",
+    "speaker": null
+  },
+  {
+    "start": 282.48,
+    "end": 286.879,
+    "text": "whether it's an emotion or a scratching behaviour or anything,",
+    "speaker": null
+  },
+  {
+    "start": 286.879,
+    "end": 287.68,
+    "text": "is relevant.",
+    "speaker": null
+  },
+  {
+    "start": 287.68,
+    "end": 291.68,
+    "text": "Just their behaviour indicate to us how we should behave.",
+    "speaker": null
+  },
+  {
+    "start": 292.8,
+    "end": 295.28,
+    "text": "Right, before we review the vocabulary,",
+    "speaker": null
+  },
+  {
+    "start": 295.28,
+    "end": 296.879,
+    "text": "let's have the answer to our quiz.",
+    "speaker": null
+  },
+  {
+    "start": 297.52,
+    "end": 298.72,
+    "text": "Why do we yawn?",
+    "speaker": null
+  },
+  {
+    "start": 298.72,
+    "end": 301.439,
+    "text": "A: To take in more oxygen",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 301.439,
+    "end": 304.64,
+    "text": "B: To get rid of carbon dioxide from our body",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 304.64,
+    "end": 306.96,
+    "text": "C: No one really knows",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 306.96,
+    "end": 308.4,
+    "text": "Rob, what did you say?",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 308.399,
+    "end": 312.079,
+    "text": "Well, I was pretty sure it was A to take in more oxygen.",
+    "speaker": null
+  },
+  {
+    "start": 312.079,
+    "end": 315.439,
+    "text": "There is, in fact, no clear biological reason for yawning that is agreed upon. So no one really knows.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 315.439,
+    "end": 318.159,
+    "text": "that is agreed upon, so no one really knows.",
+    "speaker": null
+  },
+  {
+    "start": 318.719,
+    "end": 321.039,
+    "text": "We've been talking about yawning,",
+    "speaker": null
+  },
+  {
+    "start": 321.039,
+    "end": 324,
+    "text": "the action of opening our mouths wide open",
+    "speaker": null
+  },
+  {
+    "start": 324,
+    "end": 327.359,
+    "text": "and stretching our ear drums when tired or bored.",
+    "speaker": null
+  },
+  {
+    "start": 327.359,
+    "end": 329.839,
+    "text": "Yawning can also be contagious,",
+    "speaker": null
+  },
+  {
+    "start": 329.839,
+    "end": 332.56,
+    "text": "Yawning can also be contagious. This means it can pass from one person to another.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 333.12,
+    "end": 336,
+    "text": "And a yawn can be described as a behaviour,",
+    "speaker": null
+  },
+  {
+    "start": 336,
+    "end": 338.879,
+    "text": "a particular kind of automatic action in response",
+    "speaker": null
+  },
+  {
+    "start": 338.879,
+    "end": 340.879,
+    "text": "to a particular situation.",
+    "speaker": null
+  },
+  {
+    "start": 340.879,
+    "end": 344.56,
+    "text": "The word cognitive is related to our mental processes - the way our minds work.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 344.56,
+    "end": 346.48,
+    "text": "the way our minds work.",
+    "speaker": null
+  },
+  {
+    "start": 346.48,
+    "end": 349.439,
+    "text": "If you identify with a particular group,",
+    "speaker": null
+  },
+  {
+    "start": 349.439,
+    "end": 352.879,
+    "text": "you feel close to that group and feel you belong in that group.",
+    "speaker": null
+  },
+  {
+    "start": 352.879,
+    "end": 355.279,
+    "text": "And finally, to exhibit a behaviour,",
+    "speaker": null
+  },
+  {
+    "start": 355.279,
+    "end": 357.6,
+    "text": "is to actually do that particular behaviour.",
+    "speaker": null
+  },
+  {
+    "start": 358.399,
+    "end": 361.92,
+    "text": "And before we all start yawning, it's time for us to go.",
+    "speaker": null
+  },
+  {
+    "start": 361.92,
+    "end": 365.519,
+    "text": "Do join us again soon and you can always find us online",
+    "speaker": null
+  },
+  {
+    "start": 365.519,
+    "end": 368.879,
+    "text": "on social media and on the BBC Learning English app.",
+    "speaker": null
+  },
+  {
+    "start": 368.879,
+    "end": 369.839,
+    "text": "Bye for now.",
+    "speaker": null
+  },
+  {
+    "start": 369.839,
+    "end": 370.479,
+    "text": "Bye bye.",
+    "speaker": null
+  }
+]

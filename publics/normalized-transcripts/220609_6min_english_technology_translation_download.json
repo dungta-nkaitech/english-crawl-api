@@ -1,0 +1,398 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 13.759,
+    "end": 18.16,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I'm Rob.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 18.16,
+    "end": 23.679,
+    "text": "And I'm Sam. Rob, I'm writing a letter to a friend in Spain and I need some help. Do you know the Spanish for, 'it's raining'?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 23.679,
+    "end": 26.56,
+    "text": "Do you know the Spanish for its raining?",
+    "speaker": null
+  },
+  {
+    "start": 26.559,
+    "end": 32.239,
+    "text": "Don't worry, I have this new app… I just hold up my phone, scan the word I want translated, uh, 'esta lloviendo', is the Spanish for, 'it's raining'.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 32.239,
+    "end": 36.32,
+    "text": "Esther Yoviendo is the Spanish for its raining.",
+    "speaker": null
+  },
+  {
+    "start": 36.32,
+    "end": 41.2,
+    "text": "Amazing. In this programme, we're discussing language technologies,",
+    "speaker": null
+  },
+  {
+    "start": 41.2,
+    "end": 44.399,
+    "text": "computers that can translate between languages.",
+    "speaker": null
+  },
+  {
+    "start": 44.399,
+    "end": 49.759,
+    "text": "Modern software like Google Translate has transformed how we learn foreign languages.",
+    "speaker": null
+  },
+  {
+    "start": 49.759,
+    "end": 54.879,
+    "text": "Bringing us closer to a world where language is no longer a barrier to communication.",
+    "speaker": null
+  },
+  {
+    "start": 55.12,
+    "end": 59.12,
+    "text": "How well do these computers know what we really mean to say?",
+    "speaker": null
+  },
+  {
+    "start": 59.12,
+    "end": 64.079,
+    "text": "Well, later we'll find out exactly what machines can and can't translate.",
+    "speaker": null
+  },
+  {
+    "start": 64.079,
+    "end": 67.04,
+    "text": "And, as usual, we'll be learning some new vocabulary as well.",
+    "speaker": null
+  },
+  {
+    "start": 67.6,
+    "end": 73.439,
+    "text": "But first, I have a question for you, Sam. The translation app I use just now is very recent.",
+    "speaker": null
+  },
+  {
+    "start": 73.439,
+    "end": 79.76,
+    "text": "But there's a long history of computer mis-translations, times when computers got it badly wrong.",
+    "speaker": null
+  },
+  {
+    "start": 80.24,
+    "end": 86.8,
+    "text": "In 1987, the American airline Braniff ran television adverts promoting the all-leather seats",
+    "speaker": null
+  },
+  {
+    "start": 86.8,
+    "end": 93.28,
+    "text": "installed on their flights to Mexico. But how was its fly-in leather advertising slogan",
+    "speaker": null
+  },
+  {
+    "start": 93.28,
+    "end": 96.8,
+    "text": "mis-translated into Spanish? Did the adverts say,",
+    "speaker": null
+  },
+  {
+    "start": 96.8,
+    "end": 102.56,
+    "text": "A, fly in lava? B, fly on a cow? Or C, fly naked?",
+    "speaker": null
+  },
+  {
+    "start": 102.56,
+    "end": 107.36,
+    "text": "Hmm, I have a feeling it might be, c) fly naked.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 107.439,
+    "end": 111.04,
+    "text": "Okay, Sam, I'll reveal the correct answer later in the program.",
+    "speaker": null
+  },
+  {
+    "start": 111.76,
+    "end": 115.68,
+    "text": "Computer software used to rely on rules-based translation,",
+    "speaker": null
+  },
+  {
+    "start": 115.68,
+    "end": 118.239,
+    "text": "applying the grammar rules of one language to another.",
+    "speaker": null
+  },
+  {
+    "start": 118.799,
+    "end": 124.4,
+    "text": "That work fine for simple words and phrases, but what happens when a translator comes across",
+    "speaker": null
+  },
+  {
+    "start": 124.4,
+    "end": 130.24,
+    "text": "more complex language? For example, metaphors, expressions used to describe one thing",
+    "speaker": null
+  },
+  {
+    "start": 130.24,
+    "end": 132.159,
+    "text": "by comparing it to another.",
+    "speaker": null
+  },
+  {
+    "start": 132.24,
+    "end": 136.4,
+    "text": "Lane Green is a language journalist and the author of the book,",
+    "speaker": null
+  },
+  {
+    "start": 136.4,
+    "end": 142.879,
+    "text": "Talk on the Wild Side. Here he explains to BBC Radio 4 program, Word of Mouth,",
+    "speaker": null
+  },
+  {
+    "start": 142.879,
+    "end": 148.079,
+    "text": "how apps like Google Translate allow users to manually translate metaphors.",
+    "speaker": null
+  },
+  {
+    "start": 149.12,
+    "end": 155.12,
+    "text": "If I say it's raining cats and dogs, and it literally translates Estadio Yendo,",
+    "speaker": null
+  },
+  {
+    "start": 155.12,
+    "end": 159.759,
+    "text": "Berros Yatos in Spanish, that won't make any sense. But I think somebody at Google will have",
+    "speaker": null
+  },
+  {
+    "start": 159.759,
+    "end": 164.239,
+    "text": "inputted the phrase, yo, yo he accantaros, which is the phrase,",
+    "speaker": null
+  },
+  {
+    "start": 164.239,
+    "end": 169.039,
+    "text": "it's raining pictures or it's raining jugs of water, so that the whole chunk,",
+    "speaker": null
+  },
+  {
+    "start": 169.039,
+    "end": 174.319,
+    "text": "raining cats and dogs, is translated into the equivalent metaphor in Spanish.",
+    "speaker": null
+  },
+  {
+    "start": 174.959,
+    "end": 178.959,
+    "text": "Lane wants to translate the phrase, it's raining cats and dogs,",
+    "speaker": null
+  },
+  {
+    "start": 178.959,
+    "end": 182.56,
+    "text": "something that people sometimes say when it's raining heavily.",
+    "speaker": null
+  },
+  {
+    "start": 182.56,
+    "end": 188,
+    "text": "It wouldn't make sense to translate this phrase into another language literally, word by word.",
+    "speaker": null
+  },
+  {
+    "start": 188.4,
+    "end": 195.439,
+    "text": "One solution is to translate the whole idiom as a chunk or a large part of text or language.",
+    "speaker": null
+  },
+  {
+    "start": 196.319,
+    "end": 200.96,
+    "text": "This works for phrases and idioms that people regularly use in the same way,",
+    "speaker": null
+  },
+  {
+    "start": 200.96,
+    "end": 206,
+    "text": "because they can be taught to a computer. But what happens when someone like a poet",
+    "speaker": null
+  },
+  {
+    "start": 206,
+    "end": 209.199,
+    "text": "writes a completely new sentence which has never been written before?",
+    "speaker": null
+  },
+  {
+    "start": 210,
+    "end": 214.159,
+    "text": "Lane Green thinks that even the smartest software couldn't deal with that,",
+    "speaker": null
+  },
+  {
+    "start": 214.159,
+    "end": 219.12,
+    "text": "as he told Michael Rosen, poet and presenter of BBC Radio 4's Word of Mouth.",
+    "speaker": null
+  },
+  {
+    "start": 244.799,
+    "end": 251.199,
+    "text": "With our brief red dot, Gordexes can try to come up with phrases that will flimax the computer",
+    "speaker": null
+  },
+  {
+    "start": 251.199,
+    "end": 257.92,
+    "text": "and so keep our jobs. When we say machines learn a language, we really mean they have been trained",
+    "speaker": null
+  },
+  {
+    "start": 257.92,
+    "end": 264.639,
+    "text": "to identify patterns in millions and millions of translations. Computers can only learn by",
+    "speaker": null
+  },
+  {
+    "start": 264.639,
+    "end": 270.48,
+    "text": "wrote, by memory, in order to repeat information rather than to properly understand it.",
+    "speaker": null
+  },
+  {
+    "start": 271.12,
+    "end": 277.2,
+    "text": "This kind of wrote learning can be easily automated, done by machines instead of humans.",
+    "speaker": null
+  },
+  {
+    "start": 277.2,
+    "end": 281.36,
+    "text": "But it's completely different from human learning requiring creative thinking,",
+    "speaker": null
+  },
+  {
+    "start": 281.36,
+    "end": 285.68,
+    "text": "which would flimax or confuse even the most sophisticated machine.",
+    "speaker": null
+  },
+  {
+    "start": 285.68,
+    "end": 292.48,
+    "text": "Bad news for translation software, but good news for humans who use different languages in their jobs - like us!",
+    "speaker": "roteautomatedflummox"
+  },
+  {
+    "start": 292.48,
+    "end": 297.52,
+    "text": "like us. Yes, if only Branif Airlines had relied on human translators,",
+    "speaker": null
+  },
+  {
+    "start": 297.519,
+    "end": 302.56,
+    "text": "they might have avoided an embarrassing situation. Ah, in your question, you asked how",
+    "speaker": null
+  },
+  {
+    "start": 302.56,
+    "end": 310,
+    "text": "Branif's television advertisement Fly in Leather was translated into Spanish. I guess it was",
+    "speaker": null
+  },
+  {
+    "start": 310,
+    "end": 317.439,
+    "text": "mis-translated as Fly Naked. Which was the correct answer? Branif translated its Fly in",
+    "speaker": null
+  },
+  {
+    "start": 317.439,
+    "end": 323.359,
+    "text": "Leather slogan as Fly in Quero, which sounds like Spanish slang for Fly Naked.",
+    "speaker": null
+  },
+  {
+    "start": 324.16,
+    "end": 328.96,
+    "text": "Okay, let's recap the vocabulary from this program about language translations,",
+    "speaker": null
+  },
+  {
+    "start": 328.96,
+    "end": 332.72,
+    "text": "which are automated, done by machines instead of humans.",
+    "speaker": null
+  },
+  {
+    "start": 333.84,
+    "end": 340.4,
+    "text": "Often found in poetry, a metaphor is a way of describing something by reference to something else.",
+    "speaker": "metaphor"
+  },
+  {
+    "start": 340.4,
+    "end": 344.8,
+    "text": "When it's raining heavily you might use the idiom, it's raining cats and dogs!",
+    "speaker": "it's raining cats and dogs"
+  },
+  {
+    "start": 345.439,
+    "end": 347.759,
+    "text": "A chunk is a large part of something.",
+    "speaker": "chunk"
+  },
+  {
+    "start": 348.399,
+    "end": 354.319,
+    "text": "Rote learning involves memorising information which you repeat but don't really understand.",
+    "speaker": "Rote"
+  },
+  {
+    "start": 355.039,
+    "end": 360,
+    "text": "And finally, if someone is flummoxed, they're so confused that they don't know what to do!",
+    "speaker": "flummoxed"
+  },
+  {
+    "start": 361.199,
+    "end": 366.879,
+    "text": "Once again our six minutes are up! Join us again soon for more trending topics and useful vocabulary here at 6 Minute English. Goodbye for now!",
+    "speaker": "flummoxed"
+  },
+  {
+    "start": 366.879,
+    "end": 371.12,
+    "text": "vocabulary here at Six Minute English. But goodbye for now. Bye.",
+    "speaker": null
+  }
+]

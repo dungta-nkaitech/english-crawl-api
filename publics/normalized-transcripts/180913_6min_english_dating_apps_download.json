@@ -1,0 +1,686 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.24,
+    "text": "6 Minute English",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 10.64,
+    "text": "From BBC Learning English",
+    "speaker": null
+  },
+  {
+    "start": 13.439,
+    "end": 15.599,
+    "text": "Hello and welcome to 6 Minute English. I'm Dan.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 15.599,
+    "end": 18.24,
+    "text": "And hello, I'm Rob.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 18.24,
+    "end": 22.32,
+    "text": "In today's program, we're going to be looking at what our brains are doing",
+    "speaker": null
+  },
+  {
+    "start": 22.32,
+    "end": 24.4,
+    "text": "when we're using dating apps.",
+    "speaker": null
+  },
+  {
+    "start": 24.4,
+    "end": 27.12,
+    "text": "Now, Rob, have you ever used a dating app?",
+    "speaker": null
+  },
+  {
+    "start": 27.76,
+    "end": 29.92,
+    "text": "No way, I would never use one.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 29.92,
+    "end": 30.72,
+    "text": "Mmm.",
+    "speaker": null
+  },
+  {
+    "start": 30.72,
+    "end": 33.92,
+    "text": "Hmm, so Rob, can you explain, when talking about dating apps, what we mean by swipe left and swipe right?",
+    "speaker": "swipeswipe"
+  },
+  {
+    "start": 33.92,
+    "end": 36.719,
+    "text": "What we mean by swipe left and swipe right?",
+    "speaker": null
+  },
+  {
+    "start": 36.719,
+    "end": 42.079,
+    "text": "Ah, yes, these are not new words, but technology has given them new meaning.",
+    "speaker": null
+  },
+  {
+    "start": 42.079,
+    "end": 47.6,
+    "text": "To swipe is the movement of your finger on a smartphone to change the screen you're looking at.",
+    "speaker": null
+  },
+  {
+    "start": 47.6,
+    "end": 50.079,
+    "text": "So, imagine turning the page in a book.",
+    "speaker": null
+  },
+  {
+    "start": 50.079,
+    "end": 51.92,
+    "text": "Well, on a phone, you swipe.",
+    "speaker": null
+  },
+  {
+    "start": 52.48,
+    "end": 56.56,
+    "text": "In some dating apps, they show you pictures of people you might find attractive.",
+    "speaker": null
+  },
+  {
+    "start": 56.56,
+    "end": 58.56,
+    "text": "If you do like them, you swipe right.",
+    "speaker": null
+  },
+  {
+    "start": 58.56,
+    "end": 60.719,
+    "text": "If you don't like them, you swipe left.",
+    "speaker": null
+  },
+  {
+    "start": 60.719,
+    "end": 64.719,
+    "text": "We will dig deeper into this topic shortly, but first a question.",
+    "speaker": null
+  },
+  {
+    "start": 64.719,
+    "end": 70,
+    "text": "We will dig deeper into this topic shortly, but first, a question. In the UK, approximately how many marriages start with the couple meeting online? Is it:",
+    "speaker": "Dan"
+  },
+  {
+    "start": 70.64,
+    "end": 76.8,
+    "text": "Is it A, 1 in 3, B, 1 in 4, or C, 1 in 5?",
+    "speaker": null
+  },
+  {
+    "start": 76.8,
+    "end": 77.52,
+    "text": "What do you think?",
+    "speaker": "Dan"
+  },
+  {
+    "start": 78.32,
+    "end": 83.92,
+    "text": "Mmm, well, all of those seem quite high to me, so I'm going to guess in the middle, 1 in 4.",
+    "speaker": null
+  },
+  {
+    "start": 84,
+    "end": 87.359,
+    "text": "Well, we'll find out if you'll write later in the program.",
+    "speaker": null
+  },
+  {
+    "start": 87.359,
+    "end": 91.84,
+    "text": "Now, Alice Gray is a science communicator and blogger.",
+    "speaker": null
+  },
+  {
+    "start": 91.84,
+    "end": 96.48,
+    "text": "Recently, she was a guest on BBC Radio 4's Women's Hour program,",
+    "speaker": null
+  },
+  {
+    "start": 96.48,
+    "end": 101.359,
+    "text": "and she was asked about what goes on in our brains when we use dating apps,",
+    "speaker": null
+  },
+  {
+    "start": 101.359,
+    "end": 104.4,
+    "text": "compared to when we meet people in real life.",
+    "speaker": null
+  },
+  {
+    "start": 104.4,
+    "end": 106.079,
+    "text": "What difference does she say there is?",
+    "speaker": null
+  },
+  {
+    "start": 106.719,
+    "end": 110.96,
+    "text": "It was very easy to think that just with these instantaneous swipe left, swipe right,",
+    "speaker": null
+  },
+  {
+    "start": 111.039,
+    "end": 115.839,
+    "text": "that the process in our brain of how we pick out a suitable mate would be very different,",
+    "speaker": null
+  },
+  {
+    "start": 115.839,
+    "end": 119.039,
+    "text": "when actually it's really similar to how we do it in person.",
+    "speaker": null
+  },
+  {
+    "start": 120.079,
+    "end": 124.799,
+    "text": "So, she says that what goes on in our brains is actually very similar.",
+    "speaker": null
+  },
+  {
+    "start": 124.799,
+    "end": 128.319,
+    "text": "Online, we make decisions very quickly about who we like.",
+    "speaker": null
+  },
+  {
+    "start": 128.319,
+    "end": 130.799,
+    "text": "These decisions are almost immediate.",
+    "speaker": null
+  },
+  {
+    "start": 130.799,
+    "end": 133.28,
+    "text": "She used the adjective instantaneous for this.",
+    "speaker": null
+  },
+  {
+    "start": 133.919,
+    "end": 136.959,
+    "text": "So, we make these instantaneous decisions,",
+    "speaker": null
+  },
+  {
+    "start": 136.959,
+    "end": 140.079,
+    "text": "then choose to swipe left or swipe right.",
+    "speaker": null
+  },
+  {
+    "start": 140.16,
+    "end": 142.08,
+    "text": "In real life, we do the same thing.",
+    "speaker": null
+  },
+  {
+    "start": 142.08,
+    "end": 145.2,
+    "text": "We know almost immediately when we see someone,",
+    "speaker": null
+  },
+  {
+    "start": 145.2,
+    "end": 147.36,
+    "text": "if we find them attractive or not.",
+    "speaker": null
+  },
+  {
+    "start": 147.36,
+    "end": 150.88,
+    "text": "Although, of course, in digital dating, once you've swiped left,",
+    "speaker": null
+  },
+  {
+    "start": 150.88,
+    "end": 155.439,
+    "text": "you will never see that person again, and you won't have the chance to meet.",
+    "speaker": null
+  },
+  {
+    "start": 155.439,
+    "end": 159.76,
+    "text": "In the real world, you could meet someone you don't find attractive instantaneously,",
+    "speaker": null
+  },
+  {
+    "start": 159.76,
+    "end": 163.439,
+    "text": "and then get to know them and find that you do quite like them.",
+    "speaker": null
+  },
+  {
+    "start": 163.439,
+    "end": 167.92,
+    "text": "Yes, this is true, but then possibly they won't like you,",
+    "speaker": null
+  },
+  {
+    "start": 168,
+    "end": 170.399,
+    "text": "and then you have to deal with rejection.",
+    "speaker": null
+  },
+  {
+    "start": 170.399,
+    "end": 173.439,
+    "text": "Rejection is when someone doesn't find you attractive,",
+    "speaker": null
+  },
+  {
+    "start": 173.439,
+    "end": 176.639,
+    "text": "and they don't want to spend time with you or get to know you.",
+    "speaker": null
+  },
+  {
+    "start": 176.639,
+    "end": 182.479,
+    "text": "So what's the difference in our brains between online rejection and real life rejection? Here's Alice Gray again.",
+    "speaker": "rejectionrejection"
+  },
+  {
+    "start": 183.439,
+    "end": 184.799,
+    "text": "Here's Alice Gray again.",
+    "speaker": null
+  },
+  {
+    "start": 185.679,
+    "end": 192.479,
+    "text": "We see that a lot of the patterns associated with rejection in real life and rejection on",
+    "speaker": null
+  },
+  {
+    "start": 192.56,
+    "end": 194.719,
+    "text": "dating apps are similar.",
+    "speaker": null
+  },
+  {
+    "start": 194.719,
+    "end": 199.84,
+    "text": "It's just the exposure to the rate of the amount of rejection you get on dating apps is a lot",
+    "speaker": null
+  },
+  {
+    "start": 199.84,
+    "end": 202,
+    "text": "higher than the ones in real life.",
+    "speaker": null
+  },
+  {
+    "start": 202,
+    "end": 205.759,
+    "text": "So, in real life, you'll have time to sort of compute the rejection,",
+    "speaker": null
+  },
+  {
+    "start": 205.759,
+    "end": 208.479,
+    "text": "get over a little bit, just yourself off and get on with it,",
+    "speaker": null
+  },
+  {
+    "start": 208.479,
+    "end": 211.439,
+    "text": "whereas the rate of rejection on dating apps is so high,",
+    "speaker": null
+  },
+  {
+    "start": 211.439,
+    "end": 215.039,
+    "text": "it's often hard to cope with one coming in after another.",
+    "speaker": null
+  },
+  {
+    "start": 216,
+    "end": 221.679,
+    "text": "So, she says that our brain's response to real life and online rejection is quite similar, but in the digital world you can be rejected many more times.",
+    "speaker": "rejection"
+  },
+  {
+    "start": 221.68,
+    "end": 225.599,
+    "text": "but in the digital world, you can be rejected many more times.",
+    "speaker": null
+  },
+  {
+    "start": 225.599,
+    "end": 229.439,
+    "text": "In real life, you have a bit more time to recover from the rejection,",
+    "speaker": null
+  },
+  {
+    "start": 229.439,
+    "end": 231.68,
+    "text": "to get over it, as she says.",
+    "speaker": null
+  },
+  {
+    "start": 231.68,
+    "end": 237.439,
+    "text": "You can dust yourself off, which is a way of saying that you think positively to make yourself feel better.",
+    "speaker": null
+  },
+  {
+    "start": 238.159,
+    "end": 240.4,
+    "text": "Imagine falling over on the ground.",
+    "speaker": null
+  },
+  {
+    "start": 240.4,
+    "end": 243.92,
+    "text": "When you get up, you might be covered in dust and dirt.",
+    "speaker": null
+  },
+  {
+    "start": 243.92,
+    "end": 248.719,
+    "text": "You need to dust yourself off to make yourself ready again before you carry on.",
+    "speaker": null
+  },
+  {
+    "start": 248.96,
+    "end": 252.639,
+    "text": "In the online world, though, you don't have that time.",
+    "speaker": null
+  },
+  {
+    "start": 252.639,
+    "end": 255.52,
+    "text": "Online dating apps can lead to many rejections,",
+    "speaker": null
+  },
+  {
+    "start": 255.52,
+    "end": 258.48,
+    "text": "and psychologically, that can be difficult to manage.",
+    "speaker": null
+  },
+  {
+    "start": 259.12,
+    "end": 263.04,
+    "text": "Another way of saying difficult to manage is difficult to cope with.",
+    "speaker": null
+  },
+  {
+    "start": 263.68,
+    "end": 265.92,
+    "text": "Well, we don't want you to reject us,",
+    "speaker": null
+  },
+  {
+    "start": 265.92,
+    "end": 269.439,
+    "text": "so time now to give you the answer to that quiz question,",
+    "speaker": null
+  },
+  {
+    "start": 269.439,
+    "end": 271.439,
+    "text": "before a recap of today's vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 272.319,
+    "end": 278.24,
+    "text": "I asked in the UK, approximately how many marriages start with a couple meeting online?",
+    "speaker": null
+  },
+  {
+    "start": 278.72,
+    "end": 283.2,
+    "text": "Is it a, 1 in 3, b, 1 in 4, or c, 1 in 5?",
+    "speaker": null
+  },
+  {
+    "start": 284,
+    "end": 288.08,
+    "text": "So I said b, 1 in 4, 25%. Was I right?",
+    "speaker": null
+  },
+  {
+    "start": 288.08,
+    "end": 291.12,
+    "text": "Sorry, Rob. The answer is a, 1 in 3.",
+    "speaker": null
+  },
+  {
+    "start": 291.12,
+    "end": 292.16,
+    "text": "Does that surprise you?",
+    "speaker": null
+  },
+  {
+    "start": 292.16,
+    "end": 295.68,
+    "text": "Yes, it does, I didn't think it would be that high.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 295.68,
+    "end": 297.04,
+    "text": "It's a sign of the time, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 297.04,
+    "end": 298.88,
+    "text": "Digital world, digital dating.",
+    "speaker": null
+  },
+  {
+    "start": 299.44,
+    "end": 301.12,
+    "text": "Let's have a look at that vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 301.12,
+    "end": 304,
+    "text": "Okay. Well, we started with the verb to swipe.",
+    "speaker": null
+  },
+  {
+    "start": 304.56,
+    "end": 307.76,
+    "text": "The movement of our finger on a smartphone or tablet screen",
+    "speaker": null
+  },
+  {
+    "start": 307.759,
+    "end": 310.48,
+    "text": "to indicate whether we like someone or not.",
+    "speaker": null
+  },
+  {
+    "start": 310.48,
+    "end": 312,
+    "text": "Swipe right for like.",
+    "speaker": null
+  },
+  {
+    "start": 312,
+    "end": 313.759,
+    "text": "Swipe left if you don't like.",
+    "speaker": null
+  },
+  {
+    "start": 313.759,
+    "end": 316.8,
+    "text": "Our decisions on whether we find someone attractive or not",
+    "speaker": null
+  },
+  {
+    "start": 316.8,
+    "end": 318.959,
+    "text": "are often instantaneous.",
+    "speaker": null
+  },
+  {
+    "start": 318.959,
+    "end": 321.759,
+    "text": "This adjective means immediate at once.",
+    "speaker": null
+  },
+  {
+    "start": 322.399,
+    "end": 326.399,
+    "text": "Rejection is when you let someone know that you are not interested in them, you don't want to be romantically involved with them.",
+    "speaker": "Rejection"
+  },
+  {
+    "start": 326.399,
+    "end": 329.039,
+    "text": "You don't want to be romantically involved with them.",
+    "speaker": null
+  },
+  {
+    "start": 329.039,
+    "end": 332.399,
+    "text": "If you are rejected, you might need some time to feel better.",
+    "speaker": null
+  },
+  {
+    "start": 332.399,
+    "end": 336.079,
+    "text": "And for this, you can use the phrasal verb get over.",
+    "speaker": null
+  },
+  {
+    "start": 336.079,
+    "end": 339.359,
+    "text": "It can take some time to get over a rejection.",
+    "speaker": null
+  },
+  {
+    "start": 339.359,
+    "end": 340.399,
+    "text": "Yeah, I know.",
+    "speaker": null
+  },
+  {
+    "start": 340.399,
+    "end": 343.599,
+    "text": "Now, being positive and optimistic after a rejection",
+    "speaker": null
+  },
+  {
+    "start": 343.599,
+    "end": 346.639,
+    "text": "can be described as dusting yourself off.",
+    "speaker": null
+  },
+  {
+    "start": 346.639,
+    "end": 349.68,
+    "text": "But having many rejections can be difficult to cope with,",
+    "speaker": null
+  },
+  {
+    "start": 349.68,
+    "end": 351.919,
+    "text": "which means it can be difficult to manage.",
+    "speaker": null
+  },
+  {
+    "start": 351.919,
+    "end": 353.759,
+    "text": "Difficult to keep positive.",
+    "speaker": null
+  },
+  {
+    "start": 353.759,
+    "end": 356.24,
+    "text": "Well, we hope you don't swipe left on this program",
+    "speaker": null
+  },
+  {
+    "start": 356.24,
+    "end": 357.919,
+    "text": "and that you'll join us again next time.",
+    "speaker": null
+  },
+  {
+    "start": 357.919,
+    "end": 360.879,
+    "text": "Remember, you can find us on Instagram, Facebook, Twitter,",
+    "speaker": null
+  },
+  {
+    "start": 360.879,
+    "end": 363.12,
+    "text": "YouTube and of course our website,",
+    "speaker": null
+  },
+  {
+    "start": 363.12,
+    "end": 365.12,
+    "text": "bbclearningenglish.com.",
+    "speaker": null
+  },
+  {
+    "start": 365.12,
+    "end": 368.079,
+    "text": "And don't forget our new BBC Learning English app.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 368.079,
+    "end": 369.36,
+    "text": "Oh, good idea.",
+    "speaker": null
+  },
+  {
+    "start": 369.36,
+    "end": 370.56,
+    "text": "See you soon.",
+    "speaker": null
+  },
+  {
+    "start": 370.56,
+    "end": 371.12,
+    "text": "Bye.",
+    "speaker": null
+  },
+  {
+    "start": 371.12,
+    "end": 372.079,
+    "text": "Bye-bye.",
+    "speaker": null
+  }
+]

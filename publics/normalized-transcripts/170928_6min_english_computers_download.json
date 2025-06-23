@@ -1,0 +1,506 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 11.519,
+    "text": "6 Minute English from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 12.48,
+    "end": 18.08,
+    "text": "Welcome to 6 Minute English, where we bring you an intelligent topic and six related items of vocabulary. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 18.08,
+    "end": 25.12,
+    "text": "I'm Neil and I'm Tim and today we are talking about AI or artificial intelligence.",
+    "speaker": null
+  },
+  {
+    "start": 25.12,
+    "end": 30.96,
+    "text": "Artificial intelligence is the ability of machines to copy human intelligent behaviour.",
+    "speaker": null
+  },
+  {
+    "start": 30.96,
+    "end": 36.24,
+    "text": "For example, an intelligent machine can learn from its own mistakes and make decisions based",
+    "speaker": null
+  },
+  {
+    "start": 36.24,
+    "end": 38,
+    "text": "on what's happened in the past.",
+    "speaker": null
+  },
+  {
+    "start": 38,
+    "end": 42.96,
+    "text": "There’s a lot of talk about AI these days, Neil, but it’s still just science fiction, isn’t it?",
+    "speaker": "Tim"
+  },
+  {
+    "start": 43.52,
+    "end": 46.079,
+    "text": "That's not true. AI is everywhere.",
+    "speaker": null
+  },
+  {
+    "start": 46.079,
+    "end": 50.719,
+    "text": "Machine thinking is in our homes, offices, schools and hospitals.",
+    "speaker": null
+  },
+  {
+    "start": 50.719,
+    "end": 54,
+    "text": "Computer algorithms are helping us drive our cars.",
+    "speaker": null
+  },
+  {
+    "start": 54,
+    "end": 57.2,
+    "text": "They're diagnosing what's wrong with us in hospitals.",
+    "speaker": null
+  },
+  {
+    "start": 57.2,
+    "end": 59.039,
+    "text": "They're marking student essays.",
+    "speaker": null
+  },
+  {
+    "start": 59.039,
+    "end": 61.52,
+    "text": "They're telling us what to read on our smartphones.",
+    "speaker": null
+  },
+  {
+    "start": 61.52,
+    "end": 64.64,
+    "text": "Well, that really does sound like science fiction – but it’s happening already, you say, Neil?",
+    "speaker": "Tim"
+  },
+  {
+    "start": 64.64,
+    "end": 66.719,
+    "text": "But it's happening already, you say, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 66.719,
+    "end": 68.56,
+    "text": "It's definitely happening, Tim.",
+    "speaker": null
+  },
+  {
+    "start": 68.56,
+    "end": 74.48,
+    "text": "And an algorithm, by the way, is a set of steps a computer follows in order to solve a problem.",
+    "speaker": null
+  },
+  {
+    "start": 74.48,
+    "end": 78.24,
+    "text": "So can you tell me what was the name of the computer",
+    "speaker": null
+  },
+  {
+    "start": 78.479,
+    "end": 84.479,
+    "text": "which famously beat world chess champion Gary Kasparov using algorithms in 1997?",
+    "speaker": null
+  },
+  {
+    "start": 84.479,
+    "end": 89.839,
+    "text": "Was it A, how? B, alpha 60 or C, deep blue?",
+    "speaker": null
+  },
+  {
+    "start": 89.839,
+    "end": 93.839,
+    "text": "I’ll say Deep Blue. Although I’m just guessing.",
+    "speaker": "Tim"
+  },
+  {
+    "start": 93.839,
+    "end": 95.759,
+    "text": "Was it an educated guess, Tim?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 95.759,
+    "end": 97.28,
+    "text": "I know a bit about chess…",
+    "speaker": "Tim"
+  },
+  {
+    "start": 97.28,
+    "end": 102.879,
+    "text": "An educated guess is based on knowledge and experience and is therefore likely to be correct. Well, we’ll find out later on how educated your guess was in this case, Tim!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 102.879,
+    "end": 106.959,
+    "text": "Well, we'll find out later on how educated your guess was in this case, Tim.",
+    "speaker": null
+  },
+  {
+    "start": 106.959,
+    "end": 111.039,
+    "text": "Indeed. But getting back to AI and what machines can do.",
+    "speaker": null
+  },
+  {
+    "start": 111.679,
+    "end": 115.519,
+    "text": "Are they any good at solving real-life problems?",
+    "speaker": null
+  },
+  {
+    "start": 115.519,
+    "end": 118.479,
+    "text": "Computers think in zeros and ones, don't they?",
+    "speaker": null
+  },
+  {
+    "start": 118.479,
+    "end": 122.319,
+    "text": "That sounds like a pretty limited language when it comes to life experience.",
+    "speaker": null
+  },
+  {
+    "start": 122.319,
+    "end": 126.079,
+    "text": "You would be surprised at what those zeros and ones can do, Tim.",
+    "speaker": null
+  },
+  {
+    "start": 126.079,
+    "end": 129.919,
+    "text": "Although you're right that AI does have its limitations at the moment.",
+    "speaker": null
+  },
+  {
+    "start": 129.919,
+    "end": 134.879,
+    "text": "And if something has its limitations, there's a limit on what it can do or how good it can be.",
+    "speaker": null
+  },
+  {
+    "start": 134.96,
+    "end": 139.68,
+    "text": "Okay. Well, now it might be a good time to listen to Zubin Bachramani,",
+    "speaker": null
+  },
+  {
+    "start": 139.68,
+    "end": 143.439,
+    "text": "professor of information engineering at the University of Cambridge,",
+    "speaker": null
+  },
+  {
+    "start": 143.439,
+    "end": 148.159,
+    "text": "and Deputy Director of the Leverhulmer Center for the Future of Intelligence.",
+    "speaker": null
+  },
+  {
+    "start": 148.799,
+    "end": 152.56,
+    "text": "He's talking about what limitations AI has at the moment.",
+    "speaker": null
+  },
+  {
+    "start": 154.479,
+    "end": 159.599,
+    "text": "I think it's very interesting how many of the things that we take for granted,",
+    "speaker": null
+  },
+  {
+    "start": 159.599,
+    "end": 163.68,
+    "text": "we humans take for granted as being sort of things we don't even think about, like,",
+    "speaker": null
+  },
+  {
+    "start": 163.68,
+    "end": 170.08,
+    "text": "how do we walk, how do we reach, how do we recognize our mother, all these things.",
+    "speaker": null
+  },
+  {
+    "start": 170.08,
+    "end": 173.84,
+    "text": "When you start to think about how to implement them on a computer,",
+    "speaker": null
+  },
+  {
+    "start": 173.84,
+    "end": 181.28,
+    "text": "you realize that it's those things that are incredibly difficult to get computers to do,",
+    "speaker": null
+  },
+  {
+    "start": 181.28,
+    "end": 185.68,
+    "text": "and that's where the current cutting edge of research is.",
+    "speaker": null
+  },
+  {
+    "start": 187.439,
+    "end": 191.36,
+    "text": "If we take something for granted, we don't realize how important something is.",
+    "speaker": null
+  },
+  {
+    "start": 191.36,
+    "end": 193.92,
+    "text": "You sometimes take me for granted, I think, Neil.",
+    "speaker": "Tim"
+  },
+  {
+    "start": 194.64,
+    "end": 198.16,
+    "text": "No – I never take you for granted, Tim! You’re far too important for that!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 198.88,
+    "end": 204.56,
+    "text": "Good to hear. So things we take for granted are doing everyday tasks,",
+    "speaker": null
+  },
+  {
+    "start": 204.56,
+    "end": 208.24,
+    "text": "like walking, picking something up, or recognizing somebody.",
+    "speaker": null
+  },
+  {
+    "start": 208.96,
+    "end": 212.88,
+    "text": "We implement or perform these things without thinking,",
+    "speaker": null
+  },
+  {
+    "start": 213.36,
+    "end": 218,
+    "text": "whereas it's cutting edge research to try and program a machine to do them.",
+    "speaker": null
+  },
+  {
+    "start": 218,
+    "end": 220.879,
+    "text": "Cutting edge means very new and advanced.",
+    "speaker": null
+  },
+  {
+    "start": 220.879,
+    "end": 225.52,
+    "text": "It's interesting, isn't it, that over 10 years ago, a computer beat a chess grandmaster,",
+    "speaker": null
+  },
+  {
+    "start": 225.52,
+    "end": 230.08,
+    "text": "but the same computer would find it incredibly difficult to pick up a chess piece.",
+    "speaker": null
+  },
+  {
+    "start": 230.08,
+    "end": 235.84,
+    "text": "I know. It’s very strange. But now you’ve reminded me that we need the answer to today’s question.",
+    "speaker": "Tim"
+  },
+  {
+    "start": 235.84,
+    "end": 243.759,
+    "text": "which was, what was the name of the computer which famously beat world chess champion Gary Kasparov in 1997?",
+    "speaker": null
+  },
+  {
+    "start": 243.84,
+    "end": 247.679,
+    "text": "Now you said deep blue Tim, and that was the right answer.",
+    "speaker": null
+  },
+  {
+    "start": 247.679,
+    "end": 252.159,
+    "text": "You see, my educated guess was based on knowledge and experience!",
+    "speaker": "Tim"
+  },
+  {
+    "start": 252.159,
+    "end": 254.56,
+    "text": "Oh, maybe you were just lucky.",
+    "speaker": null
+  },
+  {
+    "start": 255.28,
+    "end": 261.519,
+    "text": "So the IBM Supercomputer deep blue played against US World Chess champion Gary Kasparov in two",
+    "speaker": null
+  },
+  {
+    "start": 261.519,
+    "end": 267.36,
+    "text": "chess matches. The first match was played in Philadelphia in 1996 and was won by Kasparov.",
+    "speaker": null
+  },
+  {
+    "start": 267.36,
+    "end": 272.08,
+    "text": "The second was played in New York City in 1997 and won by deep blue.",
+    "speaker": null
+  },
+  {
+    "start": 272.08,
+    "end": 278.639,
+    "text": "The 1997 match was the first defeat of a reigning world chess champion by a computer under tournament",
+    "speaker": null
+  },
+  {
+    "start": 278.639,
+    "end": 286.4,
+    "text": "conditions. Let's go through the words we learned today. First up was artificial intelligence or AI,",
+    "speaker": null
+  },
+  {
+    "start": 286.4,
+    "end": 290.4,
+    "text": "the ability of machines to copy human intelligent behavior.",
+    "speaker": null
+  },
+  {
+    "start": 290.4,
+    "end": 293.439,
+    "text": "“There are AI programs that can write poetry.”",
+    "speaker": "Neil"
+  },
+  {
+    "start": 293.439,
+    "end": 296.08,
+    "text": "Do you have any examples you can recite?",
+    "speaker": "Tim"
+  },
+  {
+    "start": 296.159,
+    "end": 297.519,
+    "text": "Afraid I don't.",
+    "speaker": null
+  },
+  {
+    "start": 297.519,
+    "end": 302.56,
+    "text": "Number two, an algorithm is a set of steps a computer follows in order to solve a problem.",
+    "speaker": null
+  },
+  {
+    "start": 302.56,
+    "end": 307.68,
+    "text": "For example, Google changes its search algorithm hundreds of times every year.",
+    "speaker": null
+  },
+  {
+    "start": 307.68,
+    "end": 314.24,
+    "text": "The adjective is algorithmic – for example, “Google has made many algorithmic changes.”",
+    "speaker": "Tim"
+  },
+  {
+    "start": 314.24,
+    "end": 319.839,
+    "text": "Number three – if something has ‘limitations’ – there’s a limit on what it can do or how good it can be. “Our show has certain limitations – for example, it’s only six minutes long!”",
+    "speaker": "Neil"
+  },
+  {
+    "start": 320.639,
+    "end": 325.279,
+    "text": "Our show has certain limitations. For example, it's only six minutes long.",
+    "speaker": null
+  },
+  {
+    "start": 325.279,
+    "end": 332.079,
+    "text": "That’s right – there’s only time to present six vocabulary items. Short but sweet!",
+    "speaker": "Tim"
+  },
+  {
+    "start": 332.639,
+    "end": 337.759,
+    "text": "Okay, the next item is take something for granted, which is when we don't realise how important",
+    "speaker": null
+  },
+  {
+    "start": 337.759,
+    "end": 345.439,
+    "text": "something is. We take our smartphones for granted these days, but before 1995, hardly anyone owned one.",
+    "speaker": null
+  },
+  {
+    "start": 345.439,
+    "end": 350,
+    "text": "Number five – ‘to implement’ – means to perform a task, or take action.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 350,
+    "end": 352.639,
+    "text": "“Neil implemented some changes to the show.”",
+    "speaker": "Tim"
+  },
+  {
+    "start": 352.639,
+    "end": 356.24,
+    "text": "The final item is ‘cutting edge’ – new and advanced – “This software is cutting edge.”",
+    "speaker": "Neil"
+  },
+  {
+    "start": 356.24,
+    "end": 358.079,
+    "text": "This software is cutting edge.",
+    "speaker": null
+  },
+  {
+    "start": 358.079,
+    "end": 361.12,
+    "text": "“The software uses cutting edge technology.”",
+    "speaker": "Tim"
+  },
+  {
+    "start": 361.12,
+    "end": 365.12,
+    "text": "Okay, that's all we have time for in today's cutting edge show,",
+    "speaker": null
+  },
+  {
+    "start": 365.12,
+    "end": 369.439,
+    "text": "OK – that’s all we have time for on today’s cutting edge show. But please check out our Instagram, Twitter, Facebook and YouTube pages.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 369.439,
+    "end": 370.639,
+    "text": "Bye bye, goodbye.",
+    "speaker": null
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 10.88,
+    "text": "6 Minute English from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 12.96,
+    "end": 17.679,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Rob.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 17.679,
+    "end": 18.8,
+    "text": "And I’m Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 18.8,
+    "end": 24.32,
+    "text": "When it comes to US presidential elections, some are more dramatic than others.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 24.32,
+    "end": 28.8,
+    "text": "But few elections have been as controversial as this November’s contest between current President Trump and his Democratic rival, Joe Biden.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 28.8,
+    "end": 33.28,
+    "text": "between current president Trump and his Democratic rival Joe Biden.",
+    "speaker": null
+  },
+  {
+    "start": 33.28,
+    "end": 35.92,
+    "text": "In America, where many votes are cast digitally,",
+    "speaker": null
+  },
+  {
+    "start": 35.92,
+    "end": 38.96,
+    "text": "there is a risk of cyber attacks on election day.",
+    "speaker": null
+  },
+  {
+    "start": 38.96,
+    "end": 43.52,
+    "text": "And with so much depending on the result, US election officials are worried.",
+    "speaker": null
+  },
+  {
+    "start": 43.52,
+    "end": 48.24,
+    "text": "In this programme, we'll be hearing about plans to prevent election cyber attacks,",
+    "speaker": null
+  },
+  {
+    "start": 48.24,
+    "end": 53.04,
+    "text": "which involve election officials working with a very unusual group of people.",
+    "speaker": null
+  },
+  {
+    "start": 53.76,
+    "end": 55.2,
+    "text": "Volunteer hackers.",
+    "speaker": null
+  },
+  {
+    "start": 56,
+    "end": 59.84,
+    "text": "Volunteers are people who work willingly without being paid.",
+    "speaker": null
+  },
+  {
+    "start": 59.84,
+    "end": 64.56,
+    "text": "… and hackers are people who break into computer systems without permission in order to find information or do something illegal.",
+    "speaker": "hackers"
+  },
+  {
+    "start": 64.56,
+    "end": 67.84,
+    "text": "in order to find information or do something illegal.",
+    "speaker": null
+  },
+  {
+    "start": 67.84,
+    "end": 73.84,
+    "text": "But cyber attacks from hackers are not the only threat to fair and democratic elections.",
+    "speaker": null
+  },
+  {
+    "start": 73.84,
+    "end": 78.879,
+    "text": "In 2000, the presidential race between Al Gore and George W. Bush",
+    "speaker": null
+  },
+  {
+    "start": 78.879,
+    "end": 82.159,
+    "text": "ended in recounts and disputes over missing votes.",
+    "speaker": null
+  },
+  {
+    "start": 82.799,
+    "end": 86.319,
+    "text": "George Bush became the first modern president to win the election,",
+    "speaker": null
+  },
+  {
+    "start": 86.319,
+    "end": 90.319,
+    "text": "despite gaining fewer popular votes than his opponent.",
+    "speaker": null
+  },
+  {
+    "start": 90.319,
+    "end": 91.92,
+    "text": "But how many fewer?",
+    "speaker": null
+  },
+  {
+    "start": 91.92,
+    "end": 93.519,
+    "text": "That's our quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 93.519,
+    "end": 99.759,
+    "text": "How many fewer votes did Bush win than Gore in the 2000 American presidential election?",
+    "speaker": null
+  },
+  {
+    "start": 99.759,
+    "end": 106.319,
+    "text": "Was it a half a million votes, b a million votes, or c two million votes?",
+    "speaker": null
+  },
+  {
+    "start": 106.319,
+    "end": 108.319,
+    "text": "I’ll say b) a million votes.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 109.12,
+    "end": 110.959,
+    "text": "Okay, we'll find out later.",
+    "speaker": null
+  },
+  {
+    "start": 111.599,
+    "end": 116.879,
+    "text": "Now the projects Sam mentioned where official administrators team up with expert volunteers",
+    "speaker": null
+  },
+  {
+    "start": 116.879,
+    "end": 121.519,
+    "text": "to keep the election secure is called the election cyber surge.",
+    "speaker": null
+  },
+  {
+    "start": 121.519,
+    "end": 127.439,
+    "text": "The BBC World Service programme Digital Planet met up with project organiser Maya",
+    "speaker": null
+  },
+  {
+    "start": 127.439,
+    "end": 132.079,
+    "text": "Warman to discuss the importance of keeping the election free from interference.",
+    "speaker": null
+  },
+  {
+    "start": 133.28,
+    "end": 137.199,
+    "text": "Any attempt to manipulate or interfere with election infrastructures,",
+    "speaker": null
+  },
+  {
+    "start": 137.199,
+    "end": 142.639,
+    "text": "the machines, or the information sets that determine who is eligible to vote and where",
+    "speaker": null
+  },
+  {
+    "start": 142.639,
+    "end": 143.919,
+    "text": "undermines the right to vote.",
+    "speaker": null
+  },
+  {
+    "start": 143.919,
+    "end": 149.599,
+    "text": "And it puts burdens on voters and it impacts public confidence and high profile elections,",
+    "speaker": null
+  },
+  {
+    "start": 149.599,
+    "end": 151.28,
+    "text": "especially like the one coming up,",
+    "speaker": null
+  },
+  {
+    "start": 151.28,
+    "end": 153.359,
+    "text": "heightened the types of risks that we're talking about.",
+    "speaker": null
+  },
+  {
+    "start": 154.399,
+    "end": 160.959,
+    "text": "You can only vote in an election if you're eligible, qualified by having the necessary requirements,",
+    "speaker": null
+  },
+  {
+    "start": 160.959,
+    "end": 164.879,
+    "text": "for example, being a US citizen who's aged 18 or over.",
+    "speaker": null
+  },
+  {
+    "start": 164.879,
+    "end": 171.68,
+    "text": "It's up to each of the 8,000 local jurisdictions around the United States to keep their area free",
+    "speaker": null
+  },
+  {
+    "start": 171.68,
+    "end": 174,
+    "text": "from cyber attacks and misinformation.",
+    "speaker": null
+  },
+  {
+    "start": 174.719,
+    "end": 179.439,
+    "text": "Risks which have increased because the coming election is so high profile,",
+    "speaker": null
+  },
+  {
+    "start": 179.439,
+    "end": 184.079,
+    "text": "attracting a lot of attention and interest from newspapers and the public.",
+    "speaker": null
+  },
+  {
+    "start": 184.079,
+    "end": 192.159,
+    "text": "The cyber surge project to put expert volunteers in touch with local officials aims to prevent these risks.",
+    "speaker": null
+  },
+  {
+    "start": 192.159,
+    "end": 196.56,
+    "text": "It covers everything from making sure administrators are using the latest",
+    "speaker": null
+  },
+  {
+    "start": 196.56,
+    "end": 200.479,
+    "text": "antivirus software to more serious threats from troublemakers.",
+    "speaker": null
+  },
+  {
+    "start": 200.479,
+    "end": 203.199,
+    "text": "Now that's got me thinking, actually Rob.",
+    "speaker": null
+  },
+  {
+    "start": 203.199,
+    "end": 207.599,
+    "text": "Suppose I'm a troublemaker who wants to influence the election result.",
+    "speaker": null
+  },
+  {
+    "start": 207.599,
+    "end": 212.8,
+    "text": "So I sign up as a volunteer and gain access to all kinds of information.",
+    "speaker": null
+  },
+  {
+    "start": 212.8,
+    "end": 216.479,
+    "text": "How do we know that the volunteers who sign up are trustworthy?",
+    "speaker": null
+  },
+  {
+    "start": 216.479,
+    "end": 221.599,
+    "text": "That's a good question, Sam, and one that BBC World Service program digital planet",
+    "speaker": null
+  },
+  {
+    "start": 221.599,
+    "end": 222.96,
+    "text": "put to Maya Warman.",
+    "speaker": null
+  },
+  {
+    "start": 224.159,
+    "end": 229.12,
+    "text": "The expectation is not that the volunteer will have the keys to the castle by any means.",
+    "speaker": null
+  },
+  {
+    "start": 229.12,
+    "end": 233.599,
+    "text": "More that they will have an open dialogue with an election administrator who wants to know more",
+    "speaker": null
+  },
+  {
+    "start": 233.599,
+    "end": 237.439,
+    "text": "to explore cybersecurity enhancements in general or specifically.",
+    "speaker": null
+  },
+  {
+    "start": 238.639,
+    "end": 245.12,
+    "text": "Volunteers are carefully selected according to their experience and skills in cyber security.",
+    "speaker": null
+  },
+  {
+    "start": 245.12,
+    "end": 250.24,
+    "text": "Measures that help organizations and countries keep their computer information safe",
+    "speaker": null
+  },
+  {
+    "start": 250.24,
+    "end": 253.92,
+    "text": "against crimes and attacks carried out through the internet.",
+    "speaker": null
+  },
+  {
+    "start": 253.92,
+    "end": 258.56,
+    "text": "Volunteers share their expert advice by talking with election officials.",
+    "speaker": null
+  },
+  {
+    "start": 258.56,
+    "end": 264.24,
+    "text": "They won't be given access to sensitive information so they won't have the keys to the castle.",
+    "speaker": null
+  },
+  {
+    "start": 264.24,
+    "end": 270,
+    "text": "An idiom meaning to possess information or knowledge which gives the possessor access to power.",
+    "speaker": null
+  },
+  {
+    "start": 270,
+    "end": 276.16,
+    "text": "All of which means that the 2020 election result will, hopefully, be accepted by everyone.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 276.16,
+    "end": 278.56,
+    "text": "Unlike the situation 20 years ago.",
+    "speaker": null
+  },
+  {
+    "start": 278.639,
+    "end": 285.04,
+    "text": "Ah, you mean our quiz question roll about the 2000 US presidential election which George W. Bush",
+    "speaker": null
+  },
+  {
+    "start": 285.04,
+    "end": 288.639,
+    "text": "won despite securing fewer votes than his opponent?",
+    "speaker": null
+  },
+  {
+    "start": 288.639,
+    "end": 293.04,
+    "text": "I asked you how many fewer votes bush one than Al Gore that year.",
+    "speaker": null
+  },
+  {
+    "start": 293.04,
+    "end": 295.6,
+    "text": "And I said b) a million votes.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 295.6,
+    "end": 301.519,
+    "text": "But in fact, it was even closer – just a) half a million votes in Florida.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 301.519,
+    "end": 302.56,
+    "text": "Hmm.",
+    "speaker": null
+  },
+  {
+    "start": 302.56,
+    "end": 308.319,
+    "text": "In this program we've been looking ahead to the US presidential elections and its cyber security.",
+    "speaker": null
+  },
+  {
+    "start": 308.8,
+    "end": 315.28,
+    "text": "In this programme we’ve been looking ahead to the US presidential elections and its cybersecurity – measures taken to protect countries and their computer information against online crimes and attacks.",
+    "speaker": "cybersecurity –"
+  },
+  {
+    "start": 315.28,
+    "end": 320.24,
+    "text": "The cyber surge project aims to put officials in touch with volunteers,",
+    "speaker": null
+  },
+  {
+    "start": 320.24,
+    "end": 325.12,
+    "text": "people who work for free, who also happen to be expert hackers,",
+    "speaker": null
+  },
+  {
+    "start": 325.12,
+    "end": 328.56,
+    "text": "people who break into computer systems without permission.",
+    "speaker": null
+  },
+  {
+    "start": 328.56,
+    "end": 334.24,
+    "text": "But the idea isn’t to commit election crime – rather to prevent it by making sure only those who are eligible – or qualified - to vote, do so.",
+    "speaker": "eligible"
+  },
+  {
+    "start": 334.319,
+    "end": 339.28,
+    "text": "only those who are eligible or qualified to vote do so.",
+    "speaker": null
+  },
+  {
+    "start": 339.28,
+    "end": 345.759,
+    "text": "The project was set up because the November 2020 election has become so high profile,",
+    "speaker": null
+  },
+  {
+    "start": 345.759,
+    "end": 350.16,
+    "text": "attracting a lot of attention and interest from the public and the media.",
+    "speaker": null
+  },
+  {
+    "start": 350.16,
+    "end": 354.96,
+    "text": "And of course the volunteers themselves are carefully chosen to be in partial experts",
+    "speaker": null
+  },
+  {
+    "start": 354.96,
+    "end": 359.28,
+    "text": "who give advice without holding the keys to the castle.",
+    "speaker": null
+  },
+  {
+    "start": 359.28,
+    "end": 363.28,
+    "text": "An idiom about possessing information which gives access to power.",
+    "speaker": null
+  },
+  {
+    "start": 363.279,
+    "end": 367.199,
+    "text": "What’s certain is that the world will be watching this election, so if you’re eligible, remember to vote.",
+    "speaker": "eligible,"
+  },
+  {
+    "start": 367.199,
+    "end": 370.239,
+    "text": "So if you're eligible remember to vote.",
+    "speaker": null
+  },
+  {
+    "start": 370.239,
+    "end": 372.799,
+    "text": "And remember to join us again soon. Bye for now!",
+    "speaker": "Sam"
+  },
+  {
+    "start": 372.799,
+    "end": 373.599,
+    "text": "Bye for now.",
+    "speaker": null
+  },
+  {
+    "start": 373.599,
+    "end": 374.319,
+    "text": "Bye bye!",
+    "speaker": "Rob"
+  }
+]

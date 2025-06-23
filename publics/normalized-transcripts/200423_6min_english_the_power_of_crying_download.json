@@ -1,0 +1,710 @@
+[
+  {
+    "start": 0,
+    "end": 3.2,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.2,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 12.679,
+    "end": 16.16,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 16.16,
+    "end": 16.76,
+    "text": "I'm Neil.",
+    "speaker": null
+  },
+  {
+    "start": 16.76,
+    "end": 17.719,
+    "text": "And I’m Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 17.719,
+    "end": 19.719,
+    "text": "Do you cry easily, Sam?",
+    "speaker": null
+  },
+  {
+    "start": 19.719,
+    "end": 21.839,
+    "text": "Do you cry easily, Sam? I mean, when was the last time you cried?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 21.839,
+    "end": 23.12,
+    "text": "Let me think.",
+    "speaker": null
+  },
+  {
+    "start": 23.12,
+    "end": 25.839,
+    "text": "Last week, watching a movie, probably.",
+    "speaker": null
+  },
+  {
+    "start": 25.839,
+    "end": 28.08,
+    "text": "I was watching a really dramatic film,",
+    "speaker": null
+  },
+  {
+    "start": 28.079,
+    "end": 31.719,
+    "text": "and in one scene, the heroine gets separated from her children.",
+    "speaker": null
+  },
+  {
+    "start": 31.719,
+    "end": 34.239,
+    "text": "I just burst out crying.",
+    "speaker": null
+  },
+  {
+    "start": 34.239,
+    "end": 35.079,
+    "text": "How about you, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 35.079,
+    "end": 37.039,
+    "text": "When was the last time you cried?",
+    "speaker": null
+  },
+  {
+    "start": 37.039,
+    "end": 39.759,
+    "text": "Men don’t cry, Sam.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 39.759,
+    "end": 41.039,
+    "text": "Oh, come on, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 41.039,
+    "end": 43.439,
+    "text": "That's a bit stereotypical, isn't it?",
+    "speaker": null
+  },
+  {
+    "start": 43.439,
+    "end": 45.92,
+    "text": "The idea that men don't show their emotions",
+    "speaker": null
+  },
+  {
+    "start": 45.92,
+    "end": 48.399,
+    "text": "and women cry all the time?",
+    "speaker": null
+  },
+  {
+    "start": 48.399,
+    "end": 50.56,
+    "text": "Well, that's an interesting point, Sam,",
+    "speaker": null
+  },
+  {
+    "start": 50.56,
+    "end": 54.039,
+    "text": "because in today's programme, we're discussing crying.",
+    "speaker": null
+  },
+  {
+    "start": 54.039,
+    "end": 56.679,
+    "text": "We'll be investigating the reasons why we cry",
+    "speaker": null
+  },
+  {
+    "start": 56.679,
+    "end": 59.56,
+    "text": "and looking at some of the differences between men and women",
+    "speaker": null
+  },
+  {
+    "start": 59.56,
+    "end": 62.64,
+    "text": "and between crying in public and in private.",
+    "speaker": null
+  },
+  {
+    "start": 62.64,
+    "end": 66.599,
+    "text": "And of course, we'll be learning some related vocabulary along the way.",
+    "speaker": null
+  },
+  {
+    "start": 66.599,
+    "end": 70.96,
+    "text": "I guess it's kind of true that women do cry more than men.",
+    "speaker": null
+  },
+  {
+    "start": 70.96,
+    "end": 74.319,
+    "text": "People often think crying is only about painful feelings,",
+    "speaker": null
+  },
+  {
+    "start": 74.319,
+    "end": 76.319,
+    "text": "but we also cry to show joy",
+    "speaker": null
+  },
+  {
+    "start": 76.319,
+    "end": 81.079,
+    "text": "and when we're moved by something beautiful, like music or a painting.",
+    "speaker": null
+  },
+  {
+    "start": 81.079,
+    "end": 84.4,
+    "text": "So maybe women are just more in touch with their feelings",
+    "speaker": null
+  },
+  {
+    "start": 84.4,
+    "end": 86.159,
+    "text": "and that's why they cry more.",
+    "speaker": null
+  },
+  {
+    "start": 86.159,
+    "end": 89.799,
+    "text": "Well, actually, Sam, that brings me to our quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 89.799,
+    "end": 92.159,
+    "text": "According to a study from 2017,",
+    "speaker": null
+  },
+  {
+    "start": 92.159,
+    "end": 94.439,
+    "text": "conducted in the UK, on average,",
+    "speaker": null
+  },
+  {
+    "start": 94.439,
+    "end": 97.039,
+    "text": "how many times a year do women cry?",
+    "speaker": null
+  },
+  {
+    "start": 97.039,
+    "end": 102.039,
+    "text": "Is it A, 52, B, 72, or C, 102?",
+    "speaker": null
+  },
+  {
+    "start": 102.039,
+    "end": 105.039,
+    "text": "Hmm, what's a tricky question, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 105.039,
+    "end": 108.28,
+    "text": "I mean, there's so many different reasons why people cry",
+    "speaker": null
+  },
+  {
+    "start": 108.28,
+    "end": 112.64,
+    "text": "and what makes me cry might make someone else laugh.",
+    "speaker": null
+  },
+  {
+    "start": 112.68,
+    "end": 116.799,
+    "text": "I think some of my female friends probably cry around once a week,",
+    "speaker": null
+  },
+  {
+    "start": 116.799,
+    "end": 120.4,
+    "text": "so I'll guess the answer is A, 52.",
+    "speaker": null
+  },
+  {
+    "start": 120.4,
+    "end": 123.2,
+    "text": "Okay, Sam, we'll find out later if you were right.",
+    "speaker": null
+  },
+  {
+    "start": 123.2,
+    "end": 126.92,
+    "text": "Now, while it may be true that men cry less often,",
+    "speaker": null
+  },
+  {
+    "start": 126.92,
+    "end": 131.759,
+    "text": "it also seems that they feel less embarrassed about crying in public.",
+    "speaker": null
+  },
+  {
+    "start": 131.759,
+    "end": 136.639,
+    "text": "This may be because of differences in how men and women think others",
+    "speaker": null
+  },
+  {
+    "start": 136.639,
+    "end": 139.879,
+    "text": "will view their public displays of emotion.",
+    "speaker": null
+  },
+  {
+    "start": 139.919,
+    "end": 142.519,
+    "text": "Here's BBC Radio 4's Women's Hour,",
+    "speaker": null
+  },
+  {
+    "start": 142.519,
+    "end": 147.719,
+    "text": "speaking to therapists Joanna Cross about the issue of crying at work.",
+    "speaker": null
+  },
+  {
+    "start": 150,
+    "end": 151.159,
+    "text": "So let's take the workplace.",
+    "speaker": null
+  },
+  {
+    "start": 151.159,
+    "end": 154.039,
+    "text": "If you've got somebody who seems to cry regularly,",
+    "speaker": null
+  },
+  {
+    "start": 154.039,
+    "end": 156.439,
+    "text": "I think that's not helpful for the individual,",
+    "speaker": null
+  },
+  {
+    "start": 156.439,
+    "end": 161.079,
+    "text": "because then if they cry over something that really is important to them,",
+    "speaker": null
+  },
+  {
+    "start": 161.079,
+    "end": 164.4,
+    "text": "they might not be taken seriously or they get a label.",
+    "speaker": null
+  },
+  {
+    "start": 164.4,
+    "end": 167.719,
+    "text": "But I do think crying is often a build-up of frustration",
+    "speaker": null
+  },
+  {
+    "start": 167.759,
+    "end": 169.879,
+    "text": "and undelt with situations.",
+    "speaker": null
+  },
+  {
+    "start": 169.879,
+    "end": 171.919,
+    "text": "And it's a bit of a final straw moment.",
+    "speaker": null
+  },
+  {
+    "start": 173.56,
+    "end": 178.28,
+    "text": "So people who regularly cry at work risk not being taken seriously – not being treated as deserving attention or respect.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 178.28,
+    "end": 181.56,
+    "text": "not being treated as deserving attention or respect.",
+    "speaker": null
+  },
+  {
+    "start": 181.56,
+    "end": 187.12,
+    "text": "And they might even get a label – become thought of as having a particular character whether that’s true or not. Here’s Joanna Cross again:",
+    "speaker": "Sam"
+  },
+  {
+    "start": 187.12,
+    "end": 189.28,
+    "text": "whether that's true or not.",
+    "speaker": null
+  },
+  {
+    "start": 189.28,
+    "end": 190.759,
+    "text": "Here's Joanna Cross again.",
+    "speaker": null
+  },
+  {
+    "start": 192.52,
+    "end": 195.24,
+    "text": "You build up your resentment, your lack of boundaries,",
+    "speaker": null
+  },
+  {
+    "start": 195.24,
+    "end": 197.479,
+    "text": "not being able to say, no,",
+    "speaker": null
+  },
+  {
+    "start": 197.479,
+    "end": 199.479,
+    "text": "and then somebody says, can you make a cup of tea",
+    "speaker": null
+  },
+  {
+    "start": 199.479,
+    "end": 201.319,
+    "text": "and you suddenly find yourself wheezing?",
+    "speaker": null
+  },
+  {
+    "start": 201.319,
+    "end": 203.319,
+    "text": "And everybody says, what's wrong with her?",
+    "speaker": null
+  },
+  {
+    "start": 203.319,
+    "end": 208.199,
+    "text": "You know, but actually that's often a backlog of situations.",
+    "speaker": null
+  },
+  {
+    "start": 210.399,
+    "end": 215.879,
+    "text": "So a common reason for crying at work seems to be a build-up of resentment.",
+    "speaker": null
+  },
+  {
+    "start": 215.879,
+    "end": 219.079,
+    "text": "Feelings of anger when you think you've been treated unfairly",
+    "speaker": null
+  },
+  {
+    "start": 219.079,
+    "end": 222,
+    "text": "or have been forced to accept something you don't like.",
+    "speaker": null
+  },
+  {
+    "start": 222,
+    "end": 226.12,
+    "text": "When left undelt with, these feelings can create a backlog",
+    "speaker": null
+  },
+  {
+    "start": 226.12,
+    "end": 231.12,
+    "text": "and accumulation of issues that you should have dealt with before, but didn't.",
+    "speaker": null
+  },
+  {
+    "start": 231.12,
+    "end": 233.48,
+    "text": "Right. And then, like Joanna says,",
+    "speaker": null
+  },
+  {
+    "start": 233.48,
+    "end": 236.439,
+    "text": "someone asks you to do something very simple and easy,",
+    "speaker": null
+  },
+  {
+    "start": 236.439,
+    "end": 240.84,
+    "text": "like make a cup of tea, and you start weeping another word for crying.",
+    "speaker": null
+  },
+  {
+    "start": 240.84,
+    "end": 243.879,
+    "text": "That's a good example of a final straw moment,",
+    "speaker": null
+  },
+  {
+    "start": 243.879,
+    "end": 246.36,
+    "text": "a term which comes from the expression,",
+    "speaker": null
+  },
+  {
+    "start": 246.36,
+    "end": 249.24,
+    "text": "the straw that broke the camel's back.",
+    "speaker": null
+  },
+  {
+    "start": 249.24,
+    "end": 251.96,
+    "text": "The final straw means a further problem,",
+    "speaker": null
+  },
+  {
+    "start": 251.96,
+    "end": 254.68,
+    "text": "which itself might be insignificant,",
+    "speaker": null
+  },
+  {
+    "start": 254.68,
+    "end": 257.319,
+    "text": "but which finally makes you want to give up.",
+    "speaker": null
+  },
+  {
+    "start": 257.319,
+    "end": 260.199,
+    "text": "I hope this programme won’t be the final straw for us, Sam.",
+    "speaker": "final straw"
+  },
+  {
+    "start": 260.199,
+    "end": 261.56,
+    "text": "I doubt it, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 261.56,
+    "end": 267.56,
+    "text": "I doubt it, Neil. The only time I cry at work is when you used to bring in your onion sandwiches for lunch. In fact, I can feel a tear rolling down my cheek right now…",
+    "speaker": "Sam"
+  },
+  {
+    "start": 267.56,
+    "end": 271.8,
+    "text": "In fact, I can feel a tear rolling down my cheek right now.",
+    "speaker": null
+  },
+  {
+    "start": 271.8,
+    "end": 274.68,
+    "text": "Ah, so that counts as one of your cries, Sam.",
+    "speaker": null
+  },
+  {
+    "start": 274.68,
+    "end": 279.879,
+    "text": "Ah, so that counts as one of your cries, Sam. Remember, I asked you on average how many times a year women in the UK cry – and you said?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 279.879,
+    "end": 282.519,
+    "text": "I said, A52.",
+    "speaker": null
+  },
+  {
+    "start": 282.519,
+    "end": 285.319,
+    "text": "Well, don’t cry when I tell you that you were wrong. The actual answer was c) 72 times a year.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 285.319,
+    "end": 288.279,
+    "text": "The actual answer was 72 times a year.",
+    "speaker": null
+  },
+  {
+    "start": 288.279,
+    "end": 290.759,
+    "text": "Which, on average, is more than men,",
+    "speaker": null
+  },
+  {
+    "start": 290.759,
+    "end": 295.24,
+    "text": "but less than parents of newborn babies, both mothers and fathers,",
+    "speaker": null
+  },
+  {
+    "start": 295.24,
+    "end": 298.279,
+    "text": "they cry almost as much as their babies.",
+    "speaker": null
+  },
+  {
+    "start": 298.279,
+    "end": 302.759,
+    "text": "Today, we’ve been talking about crying – or weeping, as it’s sometimes called.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 302.759,
+    "end": 307.399,
+    "text": "People who often cry at work risk not being taken seriously – not treated as deserving of attention or respect.",
+    "speaker": "being taken seriously"
+  },
+  {
+    "start": 307.399,
+    "end": 311.319,
+    "text": "not treated as deserving of attention or respect.",
+    "speaker": null
+  },
+  {
+    "start": 311.399,
+    "end": 313.639,
+    "text": "This means they might get a label,",
+    "speaker": null
+  },
+  {
+    "start": 313.639,
+    "end": 316.92,
+    "text": "becoming known as someone with a particular kind of personality,",
+    "speaker": null
+  },
+  {
+    "start": 316.92,
+    "end": 319.48,
+    "text": "even though that may not be true.",
+    "speaker": null
+  },
+  {
+    "start": 319.48,
+    "end": 323.48,
+    "text": "But crying is also a healthy way of expressing emotions.",
+    "speaker": null
+  },
+  {
+    "start": 323.48,
+    "end": 325.48,
+    "text": "It can help deal with resentments,",
+    "speaker": null
+  },
+  {
+    "start": 325.48,
+    "end": 329.719,
+    "text": "feelings of anger that you have been treated unfairly.",
+    "speaker": null
+  },
+  {
+    "start": 329.719,
+    "end": 331.8,
+    "text": "If we don't deal with these feelings in some way,",
+    "speaker": null
+  },
+  {
+    "start": 331.8,
+    "end": 333.879,
+    "text": "they can grow into a backlog,",
+    "speaker": null
+  },
+  {
+    "start": 333.879,
+    "end": 338.839,
+    "text": "an accumulation of unresolved issues that you now need to deal with.",
+    "speaker": null
+  },
+  {
+    "start": 338.919,
+    "end": 342.359,
+    "text": "And if you don't deal with them, you might become a ticking bomb,",
+    "speaker": null
+  },
+  {
+    "start": 342.359,
+    "end": 344.279,
+    "text": "waiting to explode.",
+    "speaker": null
+  },
+  {
+    "start": 344.279,
+    "end": 348.039,
+    "text": "Then anything someone says to you can become the final straw.",
+    "speaker": null
+  },
+  {
+    "start": 348.039,
+    "end": 351.56,
+    "text": "The last small problem, which makes you want to give up,",
+    "speaker": null
+  },
+  {
+    "start": 351.56,
+    "end": 353.079,
+    "text": "and maybe start crying.",
+    "speaker": null
+  },
+  {
+    "start": 355.559,
+    "end": 357,
+    "text": "What's the masoniel?",
+    "speaker": null
+  },
+  {
+    "start": 357,
+    "end": 358.279,
+    "text": "What’s the matter, Neil? Was it something I said?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 359.239,
+    "end": 362.199,
+    "text": "No, sir, I'm crying because it's the end of the programme.",
+    "speaker": null
+  },
+  {
+    "start": 363,
+    "end": 367,
+    "text": "Well, don't worry, because we'll be back soon for another edition of",
+    "speaker": null
+  },
+  {
+    "start": 367,
+    "end": 368.199,
+    "text": "Six Minute English.",
+    "speaker": null
+  },
+  {
+    "start": 368.199,
+    "end": 369.079,
+    "text": "Bye-bye for now.",
+    "speaker": null
+  },
+  {
+    "start": 369.72,
+    "end": 370.199,
+    "text": "Bye.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 371.72,
+    "end": 377.56,
+    "text": "Six-year-old English from the BBC.",
+    "speaker": null
+  }
+]

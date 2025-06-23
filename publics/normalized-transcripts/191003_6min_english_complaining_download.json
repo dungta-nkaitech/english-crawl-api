@@ -1,0 +1,548 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.24,
+    "text": "6MtEnglish",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 11.12,
+    "text": "from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 12.4,
+    "end": 15.12,
+    "text": "Hello, this is 6 Minute English. I'm Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 15.12,
+    "end": 16.08,
+    "text": "And I'm Rob.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 16.08,
+    "end": 18.559,
+    "text": "Are you good at complaining, Rob?",
+    "speaker": null
+  },
+  {
+    "start": 18.559,
+    "end": 21.519,
+    "text": "Of course not, I'm British.",
+    "speaker": null
+  },
+  {
+    "start": 21.519,
+    "end": 24.48,
+    "text": "I never complain, even when I get terrible service,",
+    "speaker": null
+  },
+  {
+    "start": 24.48,
+    "end": 26.16,
+    "text": "it's just too embarrassing.",
+    "speaker": null
+  },
+  {
+    "start": 26.719,
+    "end": 29.92,
+    "text": "Well, you might be in a minority now,",
+    "speaker": null
+  },
+  {
+    "start": 29.92,
+    "end": 33.759,
+    "text": "as it seems we British are complaining more than we used to.",
+    "speaker": null
+  },
+  {
+    "start": 33.759,
+    "end": 37.92,
+    "text": "We'll look at this topic a little more after this week's quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 37.92,
+    "end": 42.96,
+    "text": "The oldest recorded complaint is on a stone tablet in the British Museum.",
+    "speaker": null
+  },
+  {
+    "start": 42.96,
+    "end": 45.2,
+    "text": "It's nearly 4,000 years old.",
+    "speaker": null
+  },
+  {
+    "start": 46,
+    "end": 48.159,
+    "text": "What was the complaint about?",
+    "speaker": null
+  },
+  {
+    "start": 48.159,
+    "end": 54,
+    "text": "a) An incorrect number of goats that were delivered after being bought at market",
+    "speaker": "Sam"
+  },
+  {
+    "start": 54.079,
+    "end": 57.759,
+    "text": "b) The quality of copper bars that were supplied, or",
+    "speaker": "Sam"
+  },
+  {
+    "start": 58.48,
+    "end": 62.64,
+    "text": "c) The non-payment of a bill for a banquet",
+    "speaker": "Sam"
+  },
+  {
+    "start": 62.64,
+    "end": 63.679,
+    "text": "What do you think, Rob?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 63.679,
+    "end": 65.84,
+    "text": "I'm just going to guess at the goats.",
+    "speaker": null
+  },
+  {
+    "start": 66.64,
+    "end": 70.879,
+    "text": "Someone bought a load of goats and fewer were delivered than were bought.",
+    "speaker": null
+  },
+  {
+    "start": 70.879,
+    "end": 72.799,
+    "text": "That sounds good, but it's just a guess.",
+    "speaker": null
+  },
+  {
+    "start": 72.799,
+    "end": 73.439,
+    "text": "Mm-hmm.",
+    "speaker": null
+  },
+  {
+    "start": 73.439,
+    "end": 77.039,
+    "text": "Okay, well, I will reveal the answer later in the programme,",
+    "speaker": null
+  },
+  {
+    "start": 77.039,
+    "end": 79.519,
+    "text": "and don't complain if you get it wrong.",
+    "speaker": null
+  },
+  {
+    "start": 80.319,
+    "end": 85.119,
+    "text": "You and yours is a BBC Radio programme about consumer affairs.",
+    "speaker": null
+  },
+  {
+    "start": 85.119,
+    "end": 89.599,
+    "text": "On a recent programme, they discuss the topic of complaining and customer service,",
+    "speaker": null
+  },
+  {
+    "start": 89.599,
+    "end": 95.039,
+    "text": "with Giles Hawke, from an organisation called the Institute of Customer Service.",
+    "speaker": null
+  },
+  {
+    "start": 95.039,
+    "end": 97.12,
+    "text": "He talks about different sectors.",
+    "speaker": null
+  },
+  {
+    "start": 97.759,
+    "end": 100.64,
+    "text": "A sector is a particular area of business.",
+    "speaker": null
+  },
+  {
+    "start": 101.28,
+    "end": 107.439,
+    "text": "Which sectors does he say have most problems when it comes to keeping the complaining",
+    "speaker": null
+  },
+  {
+    "start": 107.519,
+    "end": 108.799,
+    "text": "customers satisfied?",
+    "speaker": null
+  },
+  {
+    "start": 110.239,
+    "end": 114.48,
+    "text": "The sectors that probably have more problems in the UK average",
+    "speaker": null
+  },
+  {
+    "start": 114.48,
+    "end": 119.759,
+    "text": "are public services, telecommunications, transport and service sector.",
+    "speaker": null
+  },
+  {
+    "start": 119.759,
+    "end": 122.719,
+    "text": "And they're probably some inherent challenges within those sectors.",
+    "speaker": null
+  },
+  {
+    "start": 122.719,
+    "end": 125.28,
+    "text": "They maybe have more impact on a day-to-day basis.",
+    "speaker": null
+  },
+  {
+    "start": 126,
+    "end": 131.599,
+    "text": "Those sectors which are performing well, travel is performing well, retail is performing well,",
+    "speaker": null
+  },
+  {
+    "start": 131.599,
+    "end": 133.12,
+    "text": "leisure appears to be performing well.",
+    "speaker": null
+  },
+  {
+    "start": 133.759,
+    "end": 138,
+    "text": "So, which sectors are not keeping the customer satisfied?",
+    "speaker": "sectors"
+  },
+  {
+    "start": 138,
+    "end": 145.039,
+    "text": "He says that public services, telecoms, transport and the service sector have most problems.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 145.039,
+    "end": 149.84,
+    "text": "And he says that these sectors may have inherent challenges. What does he mean by that?",
+    "speaker": "inherent"
+  },
+  {
+    "start": 149.84,
+    "end": 151.84,
+    "text": "And what does he mean by that?",
+    "speaker": null
+  },
+  {
+    "start": 151.84,
+    "end": 157.92,
+    "text": "Well, some sectors by their nature are more complicated and more likely to cause problems for customers.",
+    "speaker": null
+  },
+  {
+    "start": 158.719,
+    "end": 163.599,
+    "text": "Public services, for example, often don't have enough money or enough staff.",
+    "speaker": null
+  },
+  {
+    "start": 163.599,
+    "end": 169.039,
+    "text": "Telecommunication systems, such as your internet connection, are very complicated and sometimes",
+    "speaker": null
+  },
+  {
+    "start": 169.039,
+    "end": 172.719,
+    "text": "go wrong. And bad weather can affect transport and so on.",
+    "speaker": null
+  },
+  {
+    "start": 172.719,
+    "end": 177.599,
+    "text": "So, an inherent problem is a problem that is part of the nature of the thing itself.",
+    "speaker": null
+  },
+  {
+    "start": 178.399,
+    "end": 181.359,
+    "text": "So, those sectors are not performing well.",
+    "speaker": null
+  },
+  {
+    "start": 181.359,
+    "end": 187.039,
+    "text": "We usually think of the word perform when we're talking about actors or musicians.",
+    "speaker": null
+  },
+  {
+    "start": 187.12,
+    "end": 194,
+    "text": "But in a business sense, to perform well or badly means to be successful or not.",
+    "speaker": null
+  },
+  {
+    "start": 194,
+    "end": 200.56,
+    "text": "And according to Giles Hawke, travel and retail are performing well in terms of customer service.",
+    "speaker": null
+  },
+  {
+    "start": 201.28,
+    "end": 206.079,
+    "text": "Giles Hawke goes on to talk about how people are actually making their complaints, but are modern methods taking over from the traditional letter or phone call?",
+    "speaker": "sectorsperformingperformperformperforming"
+  },
+  {
+    "start": 206.079,
+    "end": 210.959,
+    "text": "but are modern methods taking over from the traditional letter or phone call?",
+    "speaker": null
+  },
+  {
+    "start": 211.92,
+    "end": 218.48,
+    "text": "We still see over 58% of complaints are made by phone or by letter.",
+    "speaker": null
+  },
+  {
+    "start": 218.48,
+    "end": 223.28,
+    "text": "So, you know, the more traditional methods of making a complaint are still dominant.",
+    "speaker": null
+  },
+  {
+    "start": 223.28,
+    "end": 228.48,
+    "text": "But we are seeing social media rise, although it's still a very small part of how people complain.",
+    "speaker": null
+  },
+  {
+    "start": 228.48,
+    "end": 233.2,
+    "text": "And it tends to be used as an escalation point of people aren't getting what they want",
+    "speaker": null
+  },
+  {
+    "start": 233.2,
+    "end": 234.56,
+    "text": "dealt within the first instance.",
+    "speaker": null
+  },
+  {
+    "start": 235.6,
+    "end": 239.68,
+    "text": "So, are people using modern methods more than traditional ones?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 239.76,
+    "end": 245.68,
+    "text": "Actually, no. He says that phoning or writing a letter are still dominant.",
+    "speaker": null
+  },
+  {
+    "start": 245.68,
+    "end": 250.64,
+    "text": "This means they are still the main most-used methods for making a complaint.",
+    "speaker": null
+  },
+  {
+    "start": 250.64,
+    "end": 255.599,
+    "text": "Where people are turning to social media is if their complaint is not dealt with.",
+    "speaker": null
+  },
+  {
+    "start": 255.599,
+    "end": 260.399,
+    "text": "To deal with something means to sort it, to fix it.",
+    "speaker": null
+  },
+  {
+    "start": 260.399,
+    "end": 264.8,
+    "text": "And if you complain and it's not dealt with, then he says,",
+    "speaker": null
+  },
+  {
+    "start": 264.8,
+    "end": 268.399,
+    "text": "people turn to social media as a form of escalation.",
+    "speaker": null
+  },
+  {
+    "start": 268.479,
+    "end": 272.239,
+    "text": "When you escalate a complaint, you take it to a higher level.",
+    "speaker": null
+  },
+  {
+    "start": 272.239,
+    "end": 276.639,
+    "text": "Putting your complaint on social media means that a lot more people are going to see it,",
+    "speaker": null
+  },
+  {
+    "start": 276.639,
+    "end": 280.239,
+    "text": "and it might encourage a company to deal with the complaint.",
+    "speaker": null
+  },
+  {
+    "start": 280.239,
+    "end": 285.599,
+    "text": "Right, well, before we receive any complaints, let's review today's vocabulary",
+    "speaker": null
+  },
+  {
+    "start": 285.599,
+    "end": 290.399,
+    "text": "after the answer to the question, which was about a 4,000 year old complaint.",
+    "speaker": null
+  },
+  {
+    "start": 291.039,
+    "end": 296.959,
+    "text": "Was the complaint about A, an incorrect number of goats that were delivered after being",
+    "speaker": null
+  },
+  {
+    "start": 296.959,
+    "end": 301.759,
+    "text": "bought at market? B, the quality of copper bars that were supplied,",
+    "speaker": null
+  },
+  {
+    "start": 302.399,
+    "end": 307.359,
+    "text": "c) The non-payment of a bill for a banquet.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 307.359,
+    "end": 309.759,
+    "text": "I went for a). I went for the goats.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 309.759,
+    "end": 316.959,
+    "text": "Sorry, it was actually a complaint about the quality of copper ingots or bars that were supplied.",
+    "speaker": null
+  },
+  {
+    "start": 317.519,
+    "end": 322.639,
+    "text": "If you knew that, very well done. If you guessed right, also very well done.",
+    "speaker": null
+  },
+  {
+    "start": 322.639,
+    "end": 324.639,
+    "text": "No shame to get that one wrong.",
+    "speaker": null
+  },
+  {
+    "start": 324.639,
+    "end": 326,
+    "text": "And no complaints from me!",
+    "speaker": "Rob"
+  },
+  {
+    "start": 326,
+    "end": 328.959,
+    "text": "Mm-hmm. Right, now to vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 328.959,
+    "end": 334,
+    "text": "We had sectors which are particular areas of business in the economy.",
+    "speaker": null
+  },
+  {
+    "start": 334,
+    "end": 337.68,
+    "text": "Something that is inherent is a natural part of something.",
+    "speaker": null
+  },
+  {
+    "start": 337.68,
+    "end": 343.039,
+    "text": "Something that is inherent is a natural part of something. It’s usually used to describe a problem or risk that is an unavoidable part of something.",
+    "speaker": "inherent"
+  },
+  {
+    "start": 343.039,
+    "end": 347.839,
+    "text": "How successful a company is can be described as how well it's performing.",
+    "speaker": null
+  },
+  {
+    "start": 347.839,
+    "end": 352.56,
+    "text": "And if something is dominant, it means it is the strongest or most used.",
+    "speaker": null
+  },
+  {
+    "start": 352.639,
+    "end": 356.48,
+    "text": "And if a company doesn't deal with or try to fix a problem,",
+    "speaker": null
+  },
+  {
+    "start": 356.48,
+    "end": 360.48,
+    "text": "the customer might take the complaint to the next level on social media,",
+    "speaker": null
+  },
+  {
+    "start": 360.48,
+    "end": 362.8,
+    "text": "which would mean an escalation.",
+    "speaker": null
+  },
+  {
+    "start": 362.8,
+    "end": 365.12,
+    "text": "Thank you, Rob. That's all from six minute English.",
+    "speaker": null
+  },
+  {
+    "start": 365.12,
+    "end": 369.279,
+    "text": "Thank you, Rob. That’s all from 6 Minute English this time. Do join us again soon and don’t forget to check us out online. Bye bye!",
+    "speaker": "Sam"
+  },
+  {
+    "start": 369.279,
+    "end": 370.24,
+    "text": "Bye-bye. Bye.",
+    "speaker": null
+  }
+]

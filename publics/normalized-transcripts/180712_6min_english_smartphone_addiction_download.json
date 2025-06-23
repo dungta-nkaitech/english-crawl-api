@@ -1,0 +1,884 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.279,
+    "text": "6 Minute English.",
+    "speaker": null
+  },
+  {
+    "start": 8.279,
+    "end": 10.88,
+    "text": "From BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 13.2,
+    "end": 15.88,
+    "text": "Hello, welcome to 6 Minute English. I'm Rob.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 15.88,
+    "end": 17.16,
+    "text": "And I'm Catherine.",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 17.16,
+    "end": 20.64,
+    "text": "So, Catherine, how long do you spend on your smartphone?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 20.64,
+    "end": 21.92,
+    "text": "My smartphone?",
+    "speaker": null
+  },
+  {
+    "start": 21.92,
+    "end": 23.64,
+    "text": "Hmm, not that long.",
+    "speaker": null
+  },
+  {
+    "start": 23.64,
+    "end": 26.839,
+    "text": "Were they only about 18 or 19 hours?",
+    "speaker": null
+  },
+  {
+    "start": 26.839,
+    "end": 29.48,
+    "text": "No, sorry, I meant in a day, not in a week.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 30.16,
+    "end": 32.52,
+    "text": "That's what I meant to, Rob, a day.",
+    "speaker": null
+  },
+  {
+    "start": 32.52,
+    "end": 33.32,
+    "text": "Oh, wow.",
+    "speaker": null
+  },
+  {
+    "start": 33.32,
+    "end": 35.799,
+    "text": "Oh wow, so you’ve even got it right here…",
+    "speaker": "Rob"
+  },
+  {
+    "start": 35.799,
+    "end": 37.2,
+    "text": "Yeah, got it now, Rob?",
+    "speaker": null
+  },
+  {
+    "start": 37.2,
+    "end": 40.96,
+    "text": "Yes, I should actually tell you that I suffer from FOMO.",
+    "speaker": null
+  },
+  {
+    "start": 40.96,
+    "end": 42.24,
+    "text": "FOMO?",
+    "speaker": "FOMO"
+  },
+  {
+    "start": 42.24,
+    "end": 45,
+    "text": "FOMO, fear of missing out.",
+    "speaker": null
+  },
+  {
+    "start": 45,
+    "end": 47.92,
+    "text": "Something cool or interesting might be happening somewhere, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 47.92,
+    "end": 49.799,
+    "text": "And I want to be sure I catch it.",
+    "speaker": null
+  },
+  {
+    "start": 49.799,
+    "end": 53.079,
+    "text": "So, I have to keep checking my phone to make sure, you know,",
+    "speaker": null
+  },
+  {
+    "start": 53.079,
+    "end": 54.88,
+    "text": "I don't miss out on anything.",
+    "speaker": null
+  },
+  {
+    "start": 54.88,
+    "end": 57.6,
+    "text": "Ah, so we could call you a FUBBA.",
+    "speaker": null
+  },
+  {
+    "start": 58.48,
+    "end": 60.76,
+    "text": "Hello, I said so, you're a FUBBA,",
+    "speaker": null
+  },
+  {
+    "start": 60.76,
+    "end": 63.32,
+    "text": "someone who ignores other people",
+    "speaker": null
+  },
+  {
+    "start": 63.32,
+    "end": 65.079,
+    "text": "because you'd rather look at your phone.",
+    "speaker": null
+  },
+  {
+    "start": 65.079,
+    "end": 67.359,
+    "text": "Hmm, yeah, yeah, that's right.",
+    "speaker": null
+  },
+  {
+    "start": 67.359,
+    "end": 68.76,
+    "text": "Yeah.",
+    "speaker": null
+  },
+  {
+    "start": 68.76,
+    "end": 70.799,
+    "text": "Sounds like you have a bit of a problem there, Catherine,",
+    "speaker": null
+  },
+  {
+    "start": 70.799,
+    "end": 72.599,
+    "text": "but you're not the only one.",
+    "speaker": null
+  },
+  {
+    "start": 72.599,
+    "end": 76.599,
+    "text": "According to one recent survey, half of teenagers in the USA",
+    "speaker": null
+  },
+  {
+    "start": 76.599,
+    "end": 79.64,
+    "text": "feel like they're addicted to their mobile phones.",
+    "speaker": null
+  },
+  {
+    "start": 79.64,
+    "end": 81.079,
+    "text": "If you're addicted to something,",
+    "speaker": null
+  },
+  {
+    "start": 81.079,
+    "end": 84.359,
+    "text": "you have a physical or mental need to keep on doing it.",
+    "speaker": null
+  },
+  {
+    "start": 84.359,
+    "end": 85.64,
+    "text": "You can't stop doing it.",
+    "speaker": null
+  },
+  {
+    "start": 85.64,
+    "end": 90.04,
+    "text": "You often hear about people being addicted to drugs or alcohol,",
+    "speaker": null
+  },
+  {
+    "start": 90.04,
+    "end": 94.2,
+    "text": "but you can be addicted to other things too, like mobile phones.",
+    "speaker": null
+  },
+  {
+    "start": 94.2,
+    "end": 97.56,
+    "text": "So, Catherine, do you think you're addicted to your phone?",
+    "speaker": null
+  },
+  {
+    "start": 97.56,
+    "end": 100.159,
+    "text": "How long could you go without it?",
+    "speaker": null
+  },
+  {
+    "start": 100.159,
+    "end": 101,
+    "text": "Catherine?",
+    "speaker": null
+  },
+  {
+    "start": 101,
+    "end": 102,
+    "text": "Catherine?",
+    "speaker": null
+  },
+  {
+    "start": 102,
+    "end": 103,
+    "text": "Yeah.",
+    "speaker": null
+  },
+  {
+    "start": 103,
+    "end": 104,
+    "text": "Sorry, sorry, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 104,
+    "end": 105,
+    "text": "Yes.",
+    "speaker": null
+  },
+  {
+    "start": 105,
+    "end": 107.079,
+    "text": "Well, I think if I went more than a minute,",
+    "speaker": null
+  },
+  {
+    "start": 107.079,
+    "end": 109.079,
+    "text": "I'd probably get sort of sweaty palms",
+    "speaker": null
+  },
+  {
+    "start": 109.079,
+    "end": 111.28,
+    "text": "and I think I'd stop feeling a bit panicky.",
+    "speaker": null
+  },
+  {
+    "start": 111.28,
+    "end": 112.28,
+    "text": "Do you?",
+    "speaker": null
+  },
+  {
+    "start": 112.28,
+    "end": 113.28,
+    "text": "Yeah.",
+    "speaker": null
+  },
+  {
+    "start": 113.28,
+    "end": 116.2,
+    "text": "Well, if I can distract you just for a few minutes,",
+    "speaker": null
+  },
+  {
+    "start": 116.2,
+    "end": 119.04,
+    "text": "can we look at this topic in more detail, please?",
+    "speaker": null
+  },
+  {
+    "start": 119.04,
+    "end": 120.96,
+    "text": "Let's start with a quiz question first, though.",
+    "speaker": null
+  },
+  {
+    "start": 120.96,
+    "end": 125.24,
+    "text": "In what year did the term smartphone first appear in print?",
+    "speaker": null
+  },
+  {
+    "start": 125.24,
+    "end": 130.719,
+    "text": "Was it A, 1995, B, 2000 or C, 2005?",
+    "speaker": null
+  },
+  {
+    "start": 130.719,
+    "end": 131.56,
+    "text": "What do you think?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 131.56,
+    "end": 133.4,
+    "text": "OK, you've got my full attention now, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 133.4,
+    "end": 134.4,
+    "text": "Good.",
+    "speaker": null
+  },
+  {
+    "start": 134.4,
+    "end": 137.12,
+    "text": "And I think it's 2000, but actually, can I just have a quick look",
+    "speaker": null
+  },
+  {
+    "start": 137.12,
+    "end": 138.439,
+    "text": "on my phone to check the answer?",
+    "speaker": null
+  },
+  {
+    "start": 138.439,
+    "end": 140.159,
+    "text": "No, no, no, no, that would be cheating.",
+    "speaker": null
+  },
+  {
+    "start": 140.159,
+    "end": 142.08,
+    "text": "Well, for you, maybe not for the listeners.",
+    "speaker": null
+  },
+  {
+    "start": 142.08,
+    "end": 143.08,
+    "text": "Spoilsport.",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 143.719,
+    "end": 147.2,
+    "text": "Right, Jean Twenge is a psychologist",
+    "speaker": null
+  },
+  {
+    "start": 147.2,
+    "end": 150.28,
+    "text": "who was written about the damage she feels smartphones",
+    "speaker": null
+  },
+  {
+    "start": 150.28,
+    "end": 152.12,
+    "text": "are doing to society.",
+    "speaker": null
+  },
+  {
+    "start": 152.12,
+    "end": 155.56,
+    "text": "She has written that smartphones have probably led to an increase",
+    "speaker": null
+  },
+  {
+    "start": 155.56,
+    "end": 158.32,
+    "text": "in mental health problems for teenagers.",
+    "speaker": null
+  },
+  {
+    "start": 158.32,
+    "end": 161.12,
+    "text": "We're going to hear from her now, speaking to the BBC.",
+    "speaker": null
+  },
+  {
+    "start": 161.12,
+    "end": 165.04,
+    "text": "What does she say is one of the dangers of using our phones?",
+    "speaker": null
+  },
+  {
+    "start": 165.04,
+    "end": 168.88,
+    "text": "Hi, everybody's had that experience of reading your new speed",
+    "speaker": null
+  },
+  {
+    "start": 168.88,
+    "end": 171.92,
+    "text": "too much, compulsively checking your phone",
+    "speaker": null
+  },
+  {
+    "start": 171.919,
+    "end": 176.319,
+    "text": "if you're waiting for a text or getting really into social media",
+    "speaker": null
+  },
+  {
+    "start": 176.319,
+    "end": 178.519,
+    "text": "and then kind of looking up and realizing",
+    "speaker": null
+  },
+  {
+    "start": 178.519,
+    "end": 181.279,
+    "text": "that an hour has passed.",
+    "speaker": null
+  },
+  {
+    "start": 181.279,
+    "end": 183.599,
+    "text": "So what danger does she mention?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 183.599,
+    "end": 186.639,
+    "text": "Well, she said that we can get so involved in our phones",
+    "speaker": null
+  },
+  {
+    "start": 186.639,
+    "end": 189.079,
+    "text": "that we don't notice a time passing.",
+    "speaker": null
+  },
+  {
+    "start": 189.079,
+    "end": 193.959,
+    "text": "And when we finally look up, we realize that maybe an hour has gone.",
+    "speaker": null
+  },
+  {
+    "start": 193.959,
+    "end": 196.159,
+    "text": "And I must say I find that to be true for me,",
+    "speaker": null
+  },
+  {
+    "start": 196.159,
+    "end": 198.719,
+    "text": "especially when I'm watching videos online.",
+    "speaker": null
+  },
+  {
+    "start": 198.719,
+    "end": 200.799,
+    "text": "They pull you in with more and more videos.",
+    "speaker": null
+  },
+  {
+    "start": 200.8,
+    "end": 204.24,
+    "text": "And I've spent ages just getting lost in video after video.",
+    "speaker": null
+  },
+  {
+    "start": 204.24,
+    "end": 206.719,
+    "text": "Well that's not a problem if you're looking at our YouTube site, of course - there's lots to see there.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 206.719,
+    "end": 208.24,
+    "text": "of course, there's lots to see there.",
+    "speaker": null
+  },
+  {
+    "start": 208.24,
+    "end": 210.08,
+    "text": "Yeah, BBC Learning English, no problem.",
+    "speaker": null
+  },
+  {
+    "start": 210.08,
+    "end": 212.32,
+    "text": "You can watch as many as you like.",
+    "speaker": null
+  },
+  {
+    "start": 212.32,
+    "end": 216.08,
+    "text": "Well, she talks about checking our phones compulsively.",
+    "speaker": null
+  },
+  {
+    "start": 216.08,
+    "end": 219.52,
+    "text": "If you do something compulsively, you can't really control it.",
+    "speaker": null
+  },
+  {
+    "start": 219.52,
+    "end": 222.08,
+    "text": "It's a feature of being addicted to something.",
+    "speaker": null
+  },
+  {
+    "start": 222.08,
+    "end": 224.48,
+    "text": "You feel you have to do it again and again.",
+    "speaker": null
+  },
+  {
+    "start": 224.48,
+    "end": 226.8,
+    "text": "Some tech companies, though, are now looking",
+    "speaker": null
+  },
+  {
+    "start": 226.8,
+    "end": 230,
+    "text": "at building in timers to apps, which will warn us",
+    "speaker": null
+  },
+  {
+    "start": 230,
+    "end": 232.24,
+    "text": "when we have spent too long on them.",
+    "speaker": null
+  },
+  {
+    "start": 232.24,
+    "end": 235.439,
+    "text": "Just deem twinge, think this will be a good idea.",
+    "speaker": null
+  },
+  {
+    "start": 235.439,
+    "end": 238.719,
+    "text": "It might mean that people look at social media less frequently",
+    "speaker": null
+  },
+  {
+    "start": 238.719,
+    "end": 242.639,
+    "text": "and that they do what it really should be used for,",
+    "speaker": null
+  },
+  {
+    "start": 242.639,
+    "end": 244.52,
+    "text": "which is to keep in touch with people,",
+    "speaker": null
+  },
+  {
+    "start": 244.52,
+    "end": 248.8,
+    "text": "but then put it away and go see some of those people in person",
+    "speaker": null
+  },
+  {
+    "start": 248.8,
+    "end": 250.319,
+    "text": "or get them a phone call.",
+    "speaker": null
+  },
+  {
+    "start": 250.319,
+    "end": 253.28,
+    "text": "So, does she think it’s a good idea?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 253.28,
+    "end": 255.96,
+    "text": "Well, she doesn't say so directly,",
+    "speaker": null
+  },
+  {
+    "start": 255.96,
+    "end": 258.079,
+    "text": "but we can guess from her answer that she does,",
+    "speaker": null
+  },
+  {
+    "start": 258.079,
+    "end": 262.24,
+    "text": "because she says these timers will make people spend more time",
+    "speaker": null
+  },
+  {
+    "start": 262.24,
+    "end": 264.079,
+    "text": "in face-to-face interaction,",
+    "speaker": null
+  },
+  {
+    "start": 264.079,
+    "end": 266.24,
+    "text": "which a lot of people think would be a good thing.",
+    "speaker": null
+  },
+  {
+    "start": 266.24,
+    "end": 270.639,
+    "text": "Yes, she said we should be using it for keeping in touch with people,",
+    "speaker": null
+  },
+  {
+    "start": 270.639,
+    "end": 273.839,
+    "text": "which means contacting people, communicating with them,",
+    "speaker": null
+  },
+  {
+    "start": 273.839,
+    "end": 277.599,
+    "text": "and also encouraging us to do that communication in person.",
+    "speaker": null
+  },
+  {
+    "start": 277.599,
+    "end": 280.799,
+    "text": "If you do something in person, then you physically do it.",
+    "speaker": null
+  },
+  {
+    "start": 280.799,
+    "end": 283.68,
+    "text": "You go somewhere yourself or see some on yourself.",
+    "speaker": null
+  },
+  {
+    "start": 283.68,
+    "end": 286.799,
+    "text": "You don't do it online or through your smartphone.",
+    "speaker": null
+  },
+  {
+    "start": 286.879,
+    "end": 289.52,
+    "text": "Which nicely brings us back to our quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 289.52,
+    "end": 293.12,
+    "text": "When was the term smartphone first used in print?",
+    "speaker": null
+  },
+  {
+    "start": 293.12,
+    "end": 296.4,
+    "text": "1995, 2000 or 2005?",
+    "speaker": null
+  },
+  {
+    "start": 296.4,
+    "end": 297.759,
+    "text": "What did you say, Catherine?",
+    "speaker": null
+  },
+  {
+    "start": 297.759,
+    "end": 302.4,
+    "text": "I think I said 2005, without looking it up on my phone, Rob!",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 302.4,
+    "end": 304.4,
+    "text": "That's good to know, but maybe looking at your phone",
+    "speaker": null
+  },
+  {
+    "start": 304.4,
+    "end": 307.68,
+    "text": "would have helped, because the answer was 1995.",
+    "speaker": null
+  },
+  {
+    "start": 307.68,
+    "end": 308.48,
+    "text": "Yeah.",
+    "speaker": null
+  },
+  {
+    "start": 308.48,
+    "end": 310.4,
+    "text": "But well done to anybody who did know that.",
+    "speaker": null
+  },
+  {
+    "start": 310.4,
+    "end": 312.879,
+    "text": "Yeah, well done to anyone who looked it up on their phone",
+    "speaker": null
+  },
+  {
+    "start": 312.879,
+    "end": 314.16,
+    "text": "and got the right answer.",
+    "speaker": null
+  },
+  {
+    "start": 314.64,
+    "end": 318.32,
+    "text": "Mmm, right, before logging off let’s review today’s vocabulary.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 318.32,
+    "end": 322.88,
+    "text": "OK, we have FOMO, an acronym that means fear of missing out,",
+    "speaker": null
+  },
+  {
+    "start": 322.88,
+    "end": 324.72,
+    "text": "something that I get quite a lot.",
+    "speaker": null
+  },
+  {
+    "start": 324.72,
+    "end": 326.88,
+    "text": "And that also makes you a fubber,",
+    "speaker": null
+  },
+  {
+    "start": 326.88,
+    "end": 329.36,
+    "text": "people who ignore the real people around them",
+    "speaker": null
+  },
+  {
+    "start": 329.36,
+    "end": 331.6,
+    "text": "because they're concentrating on their phones.",
+    "speaker": null
+  },
+  {
+    "start": 331.6,
+    "end": 334.72,
+    "text": "Yes, I do think I'm probably addicted to my phone.",
+    "speaker": null
+  },
+  {
+    "start": 334.72,
+    "end": 337.76,
+    "text": "I have a psychological and physical need to have it.",
+    "speaker": null
+  },
+  {
+    "start": 337.76,
+    "end": 339.84,
+    "text": "My smartphone is my drug.",
+    "speaker": null
+  },
+  {
+    "start": 339.84,
+    "end": 340.32,
+    "text": "Wow.",
+    "speaker": null
+  },
+  {
+    "start": 340.32,
+    "end": 341.92,
+    "text": "And you look at it compulsively.",
+    "speaker": null
+  },
+  {
+    "start": 341.92,
+    "end": 343.28,
+    "text": "You can't stop looking at it.",
+    "speaker": null
+  },
+  {
+    "start": 343.279,
+    "end": 345.279,
+    "text": "You do it again and again, don't you?",
+    "speaker": null
+  },
+  {
+    "start": 345.279,
+    "end": 346.959,
+    "text": "You're sadly true, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 346.959,
+    "end": 349.439,
+    "text": "To keep in touch with someone is to contact them",
+    "speaker": null
+  },
+  {
+    "start": 349.439,
+    "end": 351.599,
+    "text": "and share your news regularly.",
+    "speaker": null
+  },
+  {
+    "start": 351.599,
+    "end": 354.719,
+    "text": "And if you do that yourself by actually meeting them,",
+    "speaker": null
+  },
+  {
+    "start": 354.719,
+    "end": 356.959,
+    "text": "then you're doing it in person.",
+    "speaker": null
+  },
+  {
+    "start": 356.959,
+    "end": 359.279,
+    "text": "And that brings us to the end of today's program.",
+    "speaker": null
+  },
+  {
+    "start": 359.279,
+    "end": 363.039,
+    "text": "Don't forget, you can find us on the usual social media platforms,",
+    "speaker": null
+  },
+  {
+    "start": 363.039,
+    "end": 365.679,
+    "text": "Facebook, Twitter, Instagram and YouTube,",
+    "speaker": null
+  },
+  {
+    "start": 365.679,
+    "end": 368.879,
+    "text": "and on our website at bbclearningenglish.com.",
+    "speaker": null
+  },
+  {
+    "start": 368.879,
+    "end": 369.679,
+    "text": "Bye for now.",
+    "speaker": null
+  },
+  {
+    "start": 369.679,
+    "end": 370.879,
+    "text": "Bye!",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 373.279,
+    "end": 376.079,
+    "text": "From BBC Learning English.",
+    "speaker": null
+  }
+]

@@ -1,0 +1,560 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.24,
+    "text": "6M8English",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 10.88,
+    "text": "from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 13.12,
+    "end": 17.76,
+    "text": "Welcome to 6 Minute English, the programme where we explore an interesting topic and bring you six items of useful vocabulary. I'm Catherine.",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 17.76,
+    "end": 20.96,
+    "text": "and bring you six items of useful vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 20.96,
+    "end": 21.839,
+    "text": "I'm Catherine.",
+    "speaker": null
+  },
+  {
+    "start": 21.839,
+    "end": 22.8,
+    "text": "And I'm Rob.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 22.8,
+    "end": 24.8,
+    "text": "I have a question for you, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 24.8,
+    "end": 29.359,
+    "text": "I have a question for you, Rob: how would you feel about having therapy from a robot?",
+    "speaker": "therapy"
+  },
+  {
+    "start": 29.359,
+    "end": 30.96,
+    "text": "Oh, I'm not too sure about that.",
+    "speaker": null
+  },
+  {
+    "start": 30.96,
+    "end": 32.32,
+    "text": "You'll need to tell me more.",
+    "speaker": null
+  },
+  {
+    "start": 32.32,
+    "end": 37.119,
+    "text": "But first things first, the word therapy refers to a kind of treatment",
+    "speaker": null
+  },
+  {
+    "start": 37.119,
+    "end": 39.039,
+    "text": "that helps someone feel better,",
+    "speaker": null
+  },
+  {
+    "start": 39.039,
+    "end": 41.439,
+    "text": "including treatment for mental health issues.",
+    "speaker": null
+  },
+  {
+    "start": 41.439,
+    "end": 44.64,
+    "text": "Someone who delivers therapy is called a therapist.",
+    "speaker": null
+  },
+  {
+    "start": 44.64,
+    "end": 48.719,
+    "text": "We'll find out more about this robot therapist in just a moment.",
+    "speaker": null
+  },
+  {
+    "start": 48.719,
+    "end": 55.039,
+    "text": "But first, Rob, I've got a question for you about the scale of mental health issues globally.",
+    "speaker": null
+  },
+  {
+    "start": 55.039,
+    "end": 63.519,
+    "text": "So, roughly, how many people do you think experience mental health issues at some point during their lifetime?",
+    "speaker": null
+  },
+  {
+    "start": 63.519,
+    "end": 70.719,
+    "text": "Is it a one in ten people, b one in four, or c one in three?",
+    "speaker": null
+  },
+  {
+    "start": 70.719,
+    "end": 75.599,
+    "text": "I'll go for one in four, but I know whichever answer is right – it's a big issue. How might a robot therapist help?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 75.599,
+    "end": 77.519,
+    "text": "How might a robot therapist help?",
+    "speaker": null
+  },
+  {
+    "start": 77.519,
+    "end": 81.359,
+    "text": "We're not talking about a robot in the Star Wars sense.",
+    "speaker": null
+  },
+  {
+    "start": 81.359,
+    "end": 84.319,
+    "text": "So there's no flashing lights and mechanical arms, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 84.399,
+    "end": 88.639,
+    "text": "It's actually an app in your smartphone that talks to you,",
+    "speaker": null
+  },
+  {
+    "start": 88.639,
+    "end": 91.359,
+    "text": "and it's called woebot.",
+    "speaker": null
+  },
+  {
+    "start": 91.359,
+    "end": 93.679,
+    "text": "Ah, so it has a sense of humour.",
+    "speaker": null
+  },
+  {
+    "start": 93.679,
+    "end": 98.559,
+    "text": "Woe means sadness, so this is a woebot, not a robot.",
+    "speaker": null
+  },
+  {
+    "start": 98.559,
+    "end": 105.199,
+    "text": "And it was developed by psychologist Dr. Allison Darcy from Stanford University in the US.",
+    "speaker": null
+  },
+  {
+    "start": 105.199,
+    "end": 109.759,
+    "text": "Here she is talking to the BBC Radio Programme all in the mind.",
+    "speaker": null
+  },
+  {
+    "start": 109.759,
+    "end": 113.679,
+    "text": "Well, after you start an initial conversation with a robot and he'll take you through",
+    "speaker": null
+  },
+  {
+    "start": 113.68,
+    "end": 117.36,
+    "text": "sort of what he can do and what he can't do, he'll just essentially check in with you every day",
+    "speaker": null
+  },
+  {
+    "start": 117.36,
+    "end": 120.72,
+    "text": "and just give you a sort of figurative tap on the shoulder and say,",
+    "speaker": null
+  },
+  {
+    "start": 120.72,
+    "end": 122.32,
+    "text": "hey, Claudia, how are you doing?",
+    "speaker": null
+  },
+  {
+    "start": 122.32,
+    "end": 124.24,
+    "text": "What's going on in your day? How do you feel?",
+    "speaker": null
+  },
+  {
+    "start": 124.24,
+    "end": 127.2,
+    "text": "So if you say, like, I'm really, really stressed out,",
+    "speaker": null
+  },
+  {
+    "start": 127.2,
+    "end": 130.56,
+    "text": "woebot might offer to help talk you through something.",
+    "speaker": null
+  },
+  {
+    "start": 131.92,
+    "end": 135.92,
+    "text": "Woebot checks in with you every day and asks you how you are.",
+    "speaker": "checks in with"
+  },
+  {
+    "start": 135.92,
+    "end": 140.96,
+    "text": "So here, to check in with someone doesn't mean to register at a hotel with that person.",
+    "speaker": null
+  },
+  {
+    "start": 141.04,
+    "end": 146.24,
+    "text": "So here, to check in with someone doesn't mean to register at a hotel with that person! It's an informal way of saying you talk to someone in order to report or find out information.",
+    "speaker": "check in with"
+  },
+  {
+    "start": 146.24,
+    "end": 149.52,
+    "text": "And this usage is more common in the United States.",
+    "speaker": null
+  },
+  {
+    "start": 149.52,
+    "end": 154.159,
+    "text": "And this usage is more common in the United States. So for example: \"I can't meet you today, Rob, but I'll check in with you tomorrow to see how the project is getting on.\"",
+    "speaker": "check in with"
+  },
+  {
+    "start": 154.159,
+    "end": 155.92,
+    "text": "how the project's getting on.",
+    "speaker": null
+  },
+  {
+    "start": 155.92,
+    "end": 158.8,
+    "text": "So this robot checks in with you every day.",
+    "speaker": null
+  },
+  {
+    "start": 158.8,
+    "end": 163.36,
+    "text": "So, this robot checks in with you every day. It tracks your mood and talks to you about your emotions, using a technique called cognitive behavioural therapy.",
+    "speaker": "checks in withtherapy"
+  },
+  {
+    "start": 163.36,
+    "end": 165.6,
+    "text": "Cognitive Behavioral Therapy.",
+    "speaker": null
+  },
+  {
+    "start": 165.6,
+    "end": 170.319,
+    "text": "Cognitive Behavioral Therapy is a common therapeutic technique",
+    "speaker": null
+  },
+  {
+    "start": 170.319,
+    "end": 174.56,
+    "text": "Cognitive behavioural therapy is a common therapeutic technique that helps people deal with problems by changing the way they think.",
+    "speaker": "therapy"
+  },
+  {
+    "start": 174.56,
+    "end": 178,
+    "text": "That all sounds great, but does Woebot actually work?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 178,
+    "end": 182.479,
+    "text": "They've done some trials which show that it can be more effective than simply reading",
+    "speaker": null
+  },
+  {
+    "start": 182.479,
+    "end": 188.479,
+    "text": "information about mental health, but they haven't compared woebot to a real therapist",
+    "speaker": null
+  },
+  {
+    "start": 188.479,
+    "end": 190.639,
+    "text": "due to ethical concerns.",
+    "speaker": null
+  },
+  {
+    "start": 190.639,
+    "end": 195.519,
+    "text": "Yes, it could be unethical to deny a real patient access to a human therapist for the sake of a trial. Ethical basically means 'morally right'.",
+    "speaker": "unethicalEthical"
+  },
+  {
+    "start": 195.519,
+    "end": 197.199,
+    "text": "for the sake of a trial.",
+    "speaker": null
+  },
+  {
+    "start": 197.199,
+    "end": 199.919,
+    "text": "Ethical basically means morally right.",
+    "speaker": null
+  },
+  {
+    "start": 199.919,
+    "end": 202.639,
+    "text": "And another concern is privacy.",
+    "speaker": null
+  },
+  {
+    "start": 202.639,
+    "end": 207.759,
+    "text": "And another concern is privacy. People who use apps like this are not protected by strong privacy laws.",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 207.759,
+    "end": 213.519,
+    "text": "Despite these fears, digital therapy is booming and woebot is just one of an increasing number",
+    "speaker": null
+  },
+  {
+    "start": 213.519,
+    "end": 215.279,
+    "text": "of electronic services.",
+    "speaker": null
+  },
+  {
+    "start": 215.279,
+    "end": 220.959,
+    "text": "One reason for this could be using an app carries less stigma than maybe seeing a human therapist.",
+    "speaker": null
+  },
+  {
+    "start": 220.959,
+    "end": 225.679,
+    "text": "And stigma refers to the negative associations that people have about something,",
+    "speaker": null
+  },
+  {
+    "start": 225.679,
+    "end": 228.719,
+    "text": "especially when these associations are not fair.",
+    "speaker": null
+  },
+  {
+    "start": 229.28,
+    "end": 233.439,
+    "text": "Even though mental health is now being talked about more openly than before,",
+    "speaker": null
+  },
+  {
+    "start": 234.159,
+    "end": 239.36,
+    "text": "some people do still see mental health issues and therapy negatively.",
+    "speaker": null
+  },
+  {
+    "start": 239.36,
+    "end": 244.159,
+    "text": "Whatever you think of robot therapy, Dr Darcy believes that in the modern world,",
+    "speaker": null
+  },
+  {
+    "start": 244.159,
+    "end": 249.36,
+    "text": "people need to self-reflect more, which means thinking deeply about yourself in order to",
+    "speaker": null
+  },
+  {
+    "start": 249.36,
+    "end": 251.28,
+    "text": "understand the reasons behind your feelings.",
+    "speaker": null
+  },
+  {
+    "start": 251.919,
+    "end": 255.759,
+    "text": "The world that we live in right now is very noisy, particularly digitally.",
+    "speaker": null
+  },
+  {
+    "start": 256.159,
+    "end": 261.279,
+    "text": "Since we've had these little computers in our pockets with us everywhere we go,",
+    "speaker": null
+  },
+  {
+    "start": 261.279,
+    "end": 265.519,
+    "text": "there aren't that many opportunities for real silence or self-reflection.",
+    "speaker": null
+  },
+  {
+    "start": 265.519,
+    "end": 270.959,
+    "text": "Even a commute on the tube might have been a moment to just take a second to yourself,",
+    "speaker": null
+  },
+  {
+    "start": 270.959,
+    "end": 276.319,
+    "text": "but now that void can be filled always with super-engaging content by looking at your phone.",
+    "speaker": null
+  },
+  {
+    "start": 276.959,
+    "end": 280.56,
+    "text": "Darcy believes that we don't have much time for self-reflection,",
+    "speaker": null
+  },
+  {
+    "start": 280.56,
+    "end": 285.039,
+    "text": "Darcy believes that we don't have much time for self-reflection because there are so many distractions in life – especially smartphones!",
+    "speaker": "self-reflection"
+  },
+  {
+    "start": 285.12,
+    "end": 289.36,
+    "text": "After discussing all this – would you actually try a therapy app like this?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 289.36,
+    "end": 292.08,
+    "text": "Yes I would, actually – I think it might be quite helpful.",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 292.08,
+    "end": 294.879,
+    "text": "And how about the question you asked me at the beginning of the programme: how many people experience mental health issues?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 294.879,
+    "end": 298.08,
+    "text": "How many people experience mental health issues?",
+    "speaker": null
+  },
+  {
+    "start": 298.08,
+    "end": 304.879,
+    "text": "The answer was one in four, according to the World Health Organization and the World Federation for Mental Health.",
+    "speaker": null
+  },
+  {
+    "start": 305.439,
+    "end": 312,
+    "text": "But the WHO say that as many as two-thirds of people never seek help from a health professional",
+    "speaker": null
+  },
+  {
+    "start": 312.079,
+    "end": 315.279,
+    "text": "with stigma being one of the main reasons.",
+    "speaker": null
+  },
+  {
+    "start": 315.279,
+    "end": 320.24,
+    "text": "And just there we had the word stigma again. Let's now run through the other words we learned today.",
+    "speaker": null
+  },
+  {
+    "start": 320.24,
+    "end": 326.959,
+    "text": "So we had WHO, meaning sadness. I'm full of WHO, WHO is me!",
+    "speaker": null
+  },
+  {
+    "start": 326.959,
+    "end": 332.319,
+    "text": "Maybe you need some therapy – that's the process of receiving treatment for a particular health issue, especially mental health illness.",
+    "speaker": "therapy"
+  },
+  {
+    "start": 332.319,
+    "end": 334.079,
+    "text": "especially mental health illness.",
+    "speaker": null
+  },
+  {
+    "start": 334.079,
+    "end": 340,
+    "text": "And we had to check in with someone. After we finished this programme I need to check in with the boss",
+    "speaker": null
+  },
+  {
+    "start": 340,
+    "end": 341.519,
+    "text": "about my new project.",
+    "speaker": null
+  },
+  {
+    "start": 341.519,
+    "end": 345.92,
+    "text": "We also had self-reflection – that's the process of thinking deeply about yourself.",
+    "speaker": "self-reflection"
+  },
+  {
+    "start": 346.8,
+    "end": 353.519,
+    "text": "And finally we had ethical. If you describe something as ethical, you mean it's morally right.",
+    "speaker": "ethicalethical"
+  },
+  {
+    "start": 353.519,
+    "end": 359.6,
+    "text": "So, WHO, stigma, therapy, check in with self-reflection and ethical.",
+    "speaker": null
+  },
+  {
+    "start": 359.6,
+    "end": 363.759,
+    "text": "That's it for this edition of Six Minute English. We'll leave you to self-reflect.",
+    "speaker": null
+  },
+  {
+    "start": 363.759,
+    "end": 368.48,
+    "text": "And after you've done that, do visit our Facebook, Twitter, Instagram and YouTube pages.",
+    "speaker": null
+  },
+  {
+    "start": 368.48,
+    "end": 371.2,
+    "text": "And of course our website. Bye for now. Bye bye.",
+    "speaker": null
+  }
+]

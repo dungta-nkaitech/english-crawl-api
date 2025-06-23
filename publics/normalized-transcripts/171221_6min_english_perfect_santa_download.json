@@ -1,0 +1,704 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.6,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 7.6,
+    "end": 9.519,
+    "text": "Six-minute English.",
+    "speaker": null
+  },
+  {
+    "start": 9.519,
+    "end": 11.839,
+    "text": "From BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 12.88,
+    "end": 14.96,
+    "text": "Hello and welcome to Six Minute English.",
+    "speaker": null
+  },
+  {
+    "start": 14.96,
+    "end": 19.199,
+    "text": "Hello and welcome to 6 Minute English. I'm Neil and joining me today is Dan who is looking very jolly.",
+    "speaker": "jolly"
+  },
+  {
+    "start": 19.199,
+    "end": 22.96,
+    "text": "Of course I'm looking jolly – meaning happy and smiley; it's my favourite time of the year.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 22.96,
+    "end": 24.96,
+    "text": "It's my favourite time of the year.",
+    "speaker": null
+  },
+  {
+    "start": 24.96,
+    "end": 29.12,
+    "text": "Ah yes, all that food, all those presents, all that fun.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 29.679,
+    "end": 33.2,
+    "text": "Forget the food and fun – Christmas is all about the presents!",
+    "speaker": "Dan"
+  },
+  {
+    "start": 33.2,
+    "end": 38.399,
+    "text": "I'm not sure that's quite the spirit – the real meaning of something.",
+    "speaker": "spirit"
+  },
+  {
+    "start": 38.399,
+    "end": 42.64,
+    "text": "Well, Neil, I was actually talking about giving presents, not getting them.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 42.64,
+    "end": 44.64,
+    "text": "Ah, sorry Dan, I misjudged you.",
+    "speaker": null
+  },
+  {
+    "start": 45.359,
+    "end": 50.56,
+    "text": "As you enjoy giving presents so much, I'm very pleased to have you with me in this Six Minute English.",
+    "speaker": null
+  },
+  {
+    "start": 50.56,
+    "end": 54.159,
+    "text": "Our topic, what makes the perfect Santa?",
+    "speaker": null
+  },
+  {
+    "start": 54.719,
+    "end": 58.96,
+    "text": "We'll have six items of vocabulary for you and of course our quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 59.279,
+    "end": 60.399,
+    "text": "Are you ready?",
+    "speaker": null
+  },
+  {
+    "start": 60.399,
+    "end": 61.439,
+    "text": "Hit me.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 61.439,
+    "end": 62.799,
+    "text": "Okay, here we go.",
+    "speaker": null
+  },
+  {
+    "start": 62.799,
+    "end": 65.439,
+    "text": "How many Santas are there in the world?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 65.439,
+    "end": 67.92,
+    "text": "a) 1,500",
+    "speaker": "Neil"
+  },
+  {
+    "start": 68.799,
+    "end": 73.2,
+    "text": "c) 15 million",
+    "speaker": "Neil"
+  },
+  {
+    "start": 73.84,
+    "end": 77.519,
+    "text": "Well, I know there are a lot, but 15 million must be wrong.",
+    "speaker": null
+  },
+  {
+    "start": 78.479,
+    "end": 82.719,
+    "text": "1,500 seems too few, so I'll go for 15,000.",
+    "speaker": null
+  },
+  {
+    "start": 83.439,
+    "end": 86.239,
+    "text": "Well, we'll see if you're right at the end of the programme.",
+    "speaker": null
+  },
+  {
+    "start": 86.879,
+    "end": 91.679,
+    "text": "Now, Dan, you seem like a strong candidate for a job as Santa.",
+    "speaker": null
+  },
+  {
+    "start": 91.679,
+    "end": 92.56,
+    "text": "Have you considered it?",
+    "speaker": null
+  },
+  {
+    "start": 93.119,
+    "end": 94.319,
+    "text": "I'd love to.",
+    "speaker": null
+  },
+  {
+    "start": 94.319,
+    "end": 97.119,
+    "text": "I'd love to! A candidate is a person competing for a job.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 97.759,
+    "end": 103.519,
+    "text": "And what do you think is a key part of being Santa, or Father Christmas, as we also called him in the UK?",
+    "speaker": null
+  },
+  {
+    "start": 104.079,
+    "end": 105.84,
+    "text": "As you said, being jolly.",
+    "speaker": null
+  },
+  {
+    "start": 106.56,
+    "end": 107.439,
+    "text": "That's right.",
+    "speaker": null
+  },
+  {
+    "start": 107.439,
+    "end": 112,
+    "text": "And let's listen now to James Lovell, who runs a Santa school at his company,",
+    "speaker": null
+  },
+  {
+    "start": 112,
+    "end": 113.679,
+    "text": "Ministry of Fun in London.",
+    "speaker": null
+  },
+  {
+    "start": 113.679,
+    "end": 115.519,
+    "text": "What does he say is the key?",
+    "speaker": null
+  },
+  {
+    "start": 116.959,
+    "end": 121.919,
+    "text": "A perfect ho ho ho is a key part of being a Father Christmas.",
+    "speaker": null
+  },
+  {
+    "start": 121.919,
+    "end": 126.719,
+    "text": "So, ho ho ho, and it needs to just reinforce the fact that you are the jollyest person on the planet.",
+    "speaker": null
+  },
+  {
+    "start": 126.719,
+    "end": 132.959,
+    "text": "So, I like to reach down into my tummy, tap it, and with a big smile on my face, go, ho ho ho ho!",
+    "speaker": null
+  },
+  {
+    "start": 133.759,
+    "end": 136.079,
+    "text": "The perfect ho ho ho.",
+    "speaker": null
+  },
+  {
+    "start": 136.079,
+    "end": 140.56,
+    "text": "You need that to reinforce the fact you are the jollyest person in the world.",
+    "speaker": null
+  },
+  {
+    "start": 140.56,
+    "end": 144.079,
+    "text": "To reinforce means to make something stronger. Ho ho ho!",
+    "speaker": "Dan"
+  },
+  {
+    "start": 144.56,
+    "end": 146.4,
+    "text": "Ho ho ho ho!",
+    "speaker": null
+  },
+  {
+    "start": 146.4,
+    "end": 150.64,
+    "text": "Wow, Dan! You're very convincing. Are you sure you've never done this before?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 150.64,
+    "end": 152.48,
+    "text": "I haven't, but I want to.",
+    "speaker": null
+  },
+  {
+    "start": 152.48,
+    "end": 153.36,
+    "text": "It feels good.",
+    "speaker": null
+  },
+  {
+    "start": 153.92,
+    "end": 155.52,
+    "text": "Ho ho ho!",
+    "speaker": null
+  },
+  {
+    "start": 156.56,
+    "end": 159.2,
+    "text": "It could be the ideal career move for you, Dan.",
+    "speaker": null
+  },
+  {
+    "start": 159.76,
+    "end": 162.56,
+    "text": "But, you know what, I bet it's not all fun.",
+    "speaker": null
+  },
+  {
+    "start": 163.12,
+    "end": 164.96,
+    "text": "Hmm, maybe not.",
+    "speaker": null
+  },
+  {
+    "start": 164.96,
+    "end": 167.04,
+    "text": "I think there would be a lot of pressure to perform.",
+    "speaker": null
+  },
+  {
+    "start": 167.6,
+    "end": 172.48,
+    "text": "Pressure is the feeling of worry you can get when you're expected to deal with a difficult situation.",
+    "speaker": null
+  },
+  {
+    "start": 172.56,
+    "end": 175.28,
+    "text": "Yes, think of all the children you have to impress.",
+    "speaker": null
+  },
+  {
+    "start": 175.28,
+    "end": 176.239,
+    "text": "Pressure indeed.",
+    "speaker": null
+  },
+  {
+    "start": 176.799,
+    "end": 180.56,
+    "text": "Now let's hear from James Lovell again who runs a Santa school in London.",
+    "speaker": null
+  },
+  {
+    "start": 183.519,
+    "end": 187.12,
+    "text": "The portraying Father Christmas is not an easy job because when you're dressed as Father Christmas",
+    "speaker": null
+  },
+  {
+    "start": 187.12,
+    "end": 191.12,
+    "text": "you have a huge responsibility to recreate the magic of the real Santa in every way.",
+    "speaker": null
+  },
+  {
+    "start": 191.12,
+    "end": 194.399,
+    "text": "You need to look good, you need to have lots to say, I need to be incredibly jolly,",
+    "speaker": null
+  },
+  {
+    "start": 194.399,
+    "end": 196.079,
+    "text": "and you need to have magical eyes.",
+    "speaker": null
+  },
+  {
+    "start": 196.079,
+    "end": 198,
+    "text": "So it seems I was right.",
+    "speaker": null
+  },
+  {
+    "start": 198,
+    "end": 201.679,
+    "text": "Portraying Father Christmas is not an easy job.",
+    "speaker": null
+  },
+  {
+    "start": 201.76,
+    "end": 204.48,
+    "text": "Portraying meaning playing the part of.",
+    "speaker": null
+  },
+  {
+    "start": 204.48,
+    "end": 205.76,
+    "text": "Why can actor does?",
+    "speaker": null
+  },
+  {
+    "start": 205.76,
+    "end": 211.2,
+    "text": "He says there's a huge responsibility to recreate the magic of the real Santa. To recreate means to make something exist again.",
+    "speaker": "recreate"
+  },
+  {
+    "start": 211.2,
+    "end": 214.24,
+    "text": "To recreate means to make something exist again.",
+    "speaker": null
+  },
+  {
+    "start": 214.24,
+    "end": 218.8,
+    "text": "All those kids expecting that magical moment – and it's all down to you as Santa! Hmm I'm beginning to have second thoughts about this career change…",
+    "speaker": "Dan"
+  },
+  {
+    "start": 219.36,
+    "end": 222.879,
+    "text": "Hmm, I'm beginning to have second thoughts about this career change.",
+    "speaker": null
+  },
+  {
+    "start": 222.879,
+    "end": 224.56,
+    "text": "Could you handle the pressure?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 224.56,
+    "end": 225.92,
+    "text": "I'm not sure I could.",
+    "speaker": null
+  },
+  {
+    "start": 225.92,
+    "end": 231.12,
+    "text": "I'm not sure I could! Portraying Father Christmas might be a challenge too far – despite my ho ho ho!",
+    "speaker": "Dan"
+  },
+  {
+    "start": 232,
+    "end": 234.8,
+    "text": "Now it's time to find out the answer to our quiz question. I asked how many Santas there are in the world?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 234.8,
+    "end": 237.599,
+    "text": "I asked how many Santa's there are in the world?",
+    "speaker": null
+  },
+  {
+    "start": 238.319,
+    "end": 245.04,
+    "text": "A, 1500, B, 15,000, C, 15 million.",
+    "speaker": null
+  },
+  {
+    "start": 245.599,
+    "end": 248,
+    "text": "I said b) 15,000",
+    "speaker": "Dan"
+  },
+  {
+    "start": 248,
+    "end": 250.719,
+    "text": "And you were wrong.",
+    "speaker": null
+  },
+  {
+    "start": 250.719,
+    "end": 252.96,
+    "text": "I'm afraid it was a trick question.",
+    "speaker": null
+  },
+  {
+    "start": 252.96,
+    "end": 255.52,
+    "text": "There is of course only one Santa.",
+    "speaker": null
+  },
+  {
+    "start": 255.52,
+    "end": 257.519,
+    "text": "Ah, that's not fair.",
+    "speaker": null
+  },
+  {
+    "start": 257.519,
+    "end": 258.24,
+    "text": "Sorry.",
+    "speaker": null
+  },
+  {
+    "start": 259.36,
+    "end": 261.36,
+    "text": "Sorry! Shall we have a recap of the vocabulary?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 261.759,
+    "end": 262.8,
+    "text": "Yes, please.",
+    "speaker": null
+  },
+  {
+    "start": 262.8,
+    "end": 264.24,
+    "text": "Yes please – that would make me jolly again.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 264.959,
+    "end": 267.12,
+    "text": "Jolly, meaning happy and smiley. What makes you jolly, Dan?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 267.68,
+    "end": 269.28,
+    "text": "What makes you jolly, Dan?",
+    "speaker": null
+  },
+  {
+    "start": 269.28,
+    "end": 270.48,
+    "text": "Christmas, of course.",
+    "speaker": null
+  },
+  {
+    "start": 271.36,
+    "end": 277.439,
+    "text": "Christmas of course! Now Neil, I have to say, cheating me out of that quiz question was really not in the spirit of 6 Minute English. We are always nice to each other.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 277.439,
+    "end": 278.96,
+    "text": "of six-minute English.",
+    "speaker": null
+  },
+  {
+    "start": 278.96,
+    "end": 280.56,
+    "text": "We're always nice to each other.",
+    "speaker": null
+  },
+  {
+    "start": 280.56,
+    "end": 282.56,
+    "text": "Ah, yes, you're probably right.",
+    "speaker": null
+  },
+  {
+    "start": 282.56,
+    "end": 285.6,
+    "text": "Spirit here has the sense of something's real meaning.",
+    "speaker": null
+  },
+  {
+    "start": 286.16,
+    "end": 289.68,
+    "text": "The spirit of six-minute English is friendly educational fun,",
+    "speaker": null
+  },
+  {
+    "start": 289.68,
+    "end": 291.28,
+    "text": "not cheating your colleagues.",
+    "speaker": null
+  },
+  {
+    "start": 291.359,
+    "end": 293.119,
+    "text": "Glad we've got that straight.",
+    "speaker": null
+  },
+  {
+    "start": 293.119,
+    "end": 294.879,
+    "text": "Our next word is candidate.",
+    "speaker": null
+  },
+  {
+    "start": 294.879,
+    "end": 298.799,
+    "text": "Until you made me think about how hard it is to be a good Santa,",
+    "speaker": null
+  },
+  {
+    "start": 298.799,
+    "end": 301.839,
+    "text": "I thought I'd be a strong candidate for the job.",
+    "speaker": null
+  },
+  {
+    "start": 301.839,
+    "end": 304.479,
+    "text": "A candidate is a person competing for a job. Next we had reinforce.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 305.199,
+    "end": 307.519,
+    "text": "Next, we had reinforce.",
+    "speaker": null
+  },
+  {
+    "start": 307.519,
+    "end": 310.559,
+    "text": "Reinforce means to make something stronger.",
+    "speaker": null
+  },
+  {
+    "start": 310.559,
+    "end": 316.079,
+    "text": "Repeating the vocabulary in six-minute English reinforces your ability to remember it.",
+    "speaker": null
+  },
+  {
+    "start": 316.079,
+    "end": 316.879,
+    "text": "That's right.",
+    "speaker": null
+  },
+  {
+    "start": 316.879,
+    "end": 319.839,
+    "text": "That's right – and it puts you under less pressure when you're speaking English if you have a good range of vocabulary.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 319.839,
+    "end": 321.839,
+    "text": "if you have a good range of vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 322.319,
+    "end": 327.839,
+    "text": "Pressure is the feeling of worry you can get when you're expected to deal with a difficult situation,",
+    "speaker": null
+  },
+  {
+    "start": 327.839,
+    "end": 329.359,
+    "text": "like pretending to be Santa.",
+    "speaker": null
+  },
+  {
+    "start": 329.919,
+    "end": 333.759,
+    "text": "Yes, there's lots of pressure involved in portraying somebody else.",
+    "speaker": null
+  },
+  {
+    "start": 333.759,
+    "end": 337.439,
+    "text": "Portraying, meaning playing the part of someone – like an actor does. It can be very difficult to get it right.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 337.439,
+    "end": 339.759,
+    "text": "It can be very difficult to get it right.",
+    "speaker": null
+  },
+  {
+    "start": 339.759,
+    "end": 345.439,
+    "text": "Yep, it's a real skill to be able to recreate the look and character of another person. Recreate meaning to make something exist again.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 345.439,
+    "end": 348.879,
+    "text": "Recreate, meaning to make something exist again.",
+    "speaker": null
+  },
+  {
+    "start": 349.6,
+    "end": 354,
+    "text": "Well, we'll try our best to recreate a positive learning experience for you all next time",
+    "speaker": null
+  },
+  {
+    "start": 354,
+    "end": 354.959,
+    "text": "on six-minute English.",
+    "speaker": null
+  },
+  {
+    "start": 355.759,
+    "end": 360.639,
+    "text": "Until then, don't forget to check out our YouTube, Facebook, Twitter and Instagram pages.",
+    "speaker": null
+  },
+  {
+    "start": 360.639,
+    "end": 363.839,
+    "text": "And a happy new year to all of our listeners.",
+    "speaker": null
+  },
+  {
+    "start": 363.839,
+    "end": 364.8,
+    "text": "Goodbye!",
+    "speaker": "Dan"
+  },
+  {
+    "start": 364.8,
+    "end": 365.439,
+    "text": "Goodbye.",
+    "speaker": null
+  },
+  {
+    "start": 366.639,
+    "end": 368.639,
+    "text": "Ho, ho, ho!",
+    "speaker": null
+  },
+  {
+    "start": 368.639,
+    "end": 373.919,
+    "text": "Six-minute English from BBCLearningEnglish.com",
+    "speaker": null
+  }
+]

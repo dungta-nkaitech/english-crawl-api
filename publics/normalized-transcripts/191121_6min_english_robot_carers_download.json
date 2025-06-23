@@ -1,0 +1,638 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 13.519,
+    "end": 18.16,
+    "text": "Hello. This is 6 Minute English. I'm Rob. And joining me to do this is Sam.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 18.16,
+    "end": 19.039,
+    "text": "Hello.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 19.039,
+    "end": 22.6,
+    "text": "In this program, we're talking about robots.",
+    "speaker": null
+  },
+  {
+    "start": 22.6,
+    "end": 24.719,
+    "text": "Robots can perform many tasks,",
+    "speaker": null
+  },
+  {
+    "start": 24.719,
+    "end": 29.199,
+    "text": "but they're now being introduced in social care to operators' carers",
+    "speaker": null
+  },
+  {
+    "start": 29.199,
+    "end": 31.519,
+    "text": "to look after the sick and elderly.",
+    "speaker": null
+  },
+  {
+    "start": 31.519,
+    "end": 35.28,
+    "text": "We'll be discussing the positive and negative issues around this,",
+    "speaker": null
+  },
+  {
+    "start": 35.28,
+    "end": 39.039,
+    "text": "but first, let's set you a question to answer, Sam. Are you ready for this?",
+    "speaker": null
+  },
+  {
+    "start": 39.039,
+    "end": 40.32,
+    "text": "Fire away.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 40.32,
+    "end": 44.399,
+    "text": "Do you know in which year was the first commercial robot built? Was it in …",
+    "speaker": "Rob"
+  },
+  {
+    "start": 44.399,
+    "end": 47.359,
+    "text": "Was it in a 1944,",
+    "speaker": null
+  },
+  {
+    "start": 47.359,
+    "end": 52,
+    "text": "b)    1954, or",
+    "speaker": "Rob"
+  },
+  {
+    "start": 52,
+    "end": 57.2,
+    "text": "They're not brand new inventions, so I'll go for 1954.",
+    "speaker": null
+  },
+  {
+    "start": 57.2,
+    "end": 62,
+    "text": "OK, well, I'll tell you if you're right or wrong at the end of the program.",
+    "speaker": null
+  },
+  {
+    "start": 62,
+    "end": 65.2,
+    "text": "So let's talk more about robots, and specifically,",
+    "speaker": null
+  },
+  {
+    "start": 65.2,
+    "end": 67.84,
+    "text": "ones that are designed to care for people.",
+    "speaker": null
+  },
+  {
+    "start": 67.84,
+    "end": 73.68,
+    "text": "Traditionally, it's humans working as nurses or carers who take care of elderly people.",
+    "speaker": null
+  },
+  {
+    "start": 73.68,
+    "end": 77.6,
+    "text": "Those people who are too old or too unwell to look after themselves.",
+    "speaker": null
+  },
+  {
+    "start": 77.6,
+    "end": 82.159,
+    "text": "But finding enough carers to look after people is a problem.",
+    "speaker": null
+  },
+  {
+    "start": 82.159,
+    "end": 86.48,
+    "text": "There are more people needing care than there are people who can help.",
+    "speaker": null
+  },
+  {
+    "start": 86.56,
+    "end": 91.84,
+    "text": "And recently in the UK, the government announced a £34 million fund",
+    "speaker": null
+  },
+  {
+    "start": 91.84,
+    "end": 96,
+    "text": "to help develop robots to look after us in our later years.",
+    "speaker": null
+  },
+  {
+    "start": 96.64,
+    "end": 99.12,
+    "text": "Well, robot carers are being developed,",
+    "speaker": null
+  },
+  {
+    "start": 99.12,
+    "end": 104,
+    "text": "but can they really learn enough empathy to take care of the elderly and unwell?",
+    "speaker": null
+  },
+  {
+    "start": 104,
+    "end": 107.76,
+    "text": "Empathy is the ability to understand how someone feels",
+    "speaker": null
+  },
+  {
+    "start": 107.76,
+    "end": 111.52,
+    "text": "Empathy is the ability to understand how someone feels by imagining what it would be like to be in that person's situation.",
+    "speaker": "Empathy"
+  },
+  {
+    "start": 112.239,
+    "end": 116.879,
+    "text": "Well, let's hear about one of those new robots now called Peppa.",
+    "speaker": null
+  },
+  {
+    "start": 116.879,
+    "end": 122.159,
+    "text": "Abbey Herne Nagath is a research assistant at the University of Bedfordshire.",
+    "speaker": null
+  },
+  {
+    "start": 122.159,
+    "end": 126.079,
+    "text": "She spoke to BBC Radio 4's You and Yours programme",
+    "speaker": null
+  },
+  {
+    "start": 126.079,
+    "end": 130.079,
+    "text": "and explained how Peppa is first introduced to someone in a care home.",
+    "speaker": null
+  },
+  {
+    "start": 130.719,
+    "end": 134.639,
+    "text": "We just bring the robot to their room, and we talk about what Peppa can't do,",
+    "speaker": null
+  },
+  {
+    "start": 134.639,
+    "end": 138.56,
+    "text": "which is important, so he can't provide physical assistance in any way.",
+    "speaker": null
+  },
+  {
+    "start": 138.56,
+    "end": 140.96,
+    "text": "It does have hands, it can wave.",
+    "speaker": null
+  },
+  {
+    "start": 141.04,
+    "end": 144.96,
+    "text": "When you ask for privacy, it does turn around and sort of cover its eyes with its hands,",
+    "speaker": null
+  },
+  {
+    "start": 144.96,
+    "end": 146.159,
+    "text": "but that's the most it does.",
+    "speaker": null
+  },
+  {
+    "start": 146.159,
+    "end": 148.48,
+    "text": "It doesn't grip anything, it doesn't move anything,",
+    "speaker": null
+  },
+  {
+    "start": 148.48,
+    "end": 152.159,
+    "text": "because we're more interested to see how it works as a companion,",
+    "speaker": null
+  },
+  {
+    "start": 152.159,
+    "end": 155.76,
+    "text": "having something there to talk to, to converse with, to interact with.",
+    "speaker": null
+  },
+  {
+    "start": 156.319,
+    "end": 160,
+    "text": "So, Abbey described how the robot is introduced to someone.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 160.719,
+    "end": 166.319,
+    "text": "She was keen to point out that this robot has limitations, things it can't do.",
+    "speaker": null
+  },
+  {
+    "start": 167.039,
+    "end": 172,
+    "text": "It can wave or turn round when a person needs privacy to be private,",
+    "speaker": null
+  },
+  {
+    "start": 172,
+    "end": 174.799,
+    "text": "but it can't provide physical assistance.",
+    "speaker": null
+  },
+  {
+    "start": 175.439,
+    "end": 179.68,
+    "text": "This means it can't help someone by touching or feeling them.",
+    "speaker": null
+  },
+  {
+    "start": 179.68,
+    "end": 181.759,
+    "text": "But that's okay, Abbey says.",
+    "speaker": null
+  },
+  {
+    "start": 181.759,
+    "end": 185.12,
+    "text": "This robot is designed to be a companion,",
+    "speaker": null
+  },
+  {
+    "start": 185.12,
+    "end": 187.439,
+    "text": "someone who is with you to keep you company,",
+    "speaker": null
+  },
+  {
+    "start": 187.439,
+    "end": 191.039,
+    "text": "a friend in other words that you can converse or talk with.",
+    "speaker": null
+  },
+  {
+    "start": 191.039,
+    "end": 195.519,
+    "text": "Well, having a companion is a good way to stop people getting lonely,",
+    "speaker": null
+  },
+  {
+    "start": 195.52,
+    "end": 198.159,
+    "text": "but surely a human is better for that.",
+    "speaker": null
+  },
+  {
+    "start": 198.8,
+    "end": 202.08,
+    "text": "Surely they understand you better than a robot ever can.",
+    "speaker": null
+  },
+  {
+    "start": 202.719,
+    "end": 206.64,
+    "text": "Well, innovation means that robots are becoming cleverer all the time.",
+    "speaker": null
+  },
+  {
+    "start": 207.28,
+    "end": 212.08,
+    "text": "And as we've mentioned, in the UK alone, there's a growing elderly population",
+    "speaker": null
+  },
+  {
+    "start": 212.08,
+    "end": 215.52,
+    "text": "of more than 100,000 care assistant vacancies.",
+    "speaker": null
+  },
+  {
+    "start": 215.52,
+    "end": 216.719,
+    "text": "Who's going to do all the work?",
+    "speaker": null
+  },
+  {
+    "start": 217.6,
+    "end": 220.32,
+    "text": "I think we should hear from Dr. Sarah Wooden,",
+    "speaker": null
+  },
+  {
+    "start": 220.32,
+    "end": 224.32,
+    "text": "a health researcher in independent living from Leeds University,",
+    "speaker": null
+  },
+  {
+    "start": 224.319,
+    "end": 227.919,
+    "text": "who also spoke to the BBC's UN Joer's programme.",
+    "speaker": null
+  },
+  {
+    "start": 228.56,
+    "end": 233.199,
+    "text": "She seems more realistic about the introduction of robot carers.",
+    "speaker": null
+  },
+  {
+    "start": 234,
+    "end": 238.799,
+    "text": "I think there are problems if we consider robots as replacement for people.",
+    "speaker": null
+  },
+  {
+    "start": 238.799,
+    "end": 240.959,
+    "text": "We know that money is tight.",
+    "speaker": null
+  },
+  {
+    "start": 241.599,
+    "end": 245.519,
+    "text": "If robots become mass produced, they could be large institutions",
+    "speaker": null
+  },
+  {
+    "start": 245.519,
+    "end": 250.879,
+    "text": "where people might be housed and abandoned to robots.",
+    "speaker": null
+  },
+  {
+    "start": 250.879,
+    "end": 256.24,
+    "text": "I do think questions of ethics need to come into the growth and jobs agenda as well,",
+    "speaker": null
+  },
+  {
+    "start": 256.24,
+    "end": 258.56,
+    "text": "because sometimes they're treated very separately.",
+    "speaker": null
+  },
+  {
+    "start": 258.56,
+    "end": 262.319,
+    "text": "OK, so Sarah Wooden suggests that when money is tight,",
+    "speaker": null
+  },
+  {
+    "start": 262.319,
+    "end": 264.079,
+    "text": "meaning there's only just enough,",
+    "speaker": null
+  },
+  {
+    "start": 264.079,
+    "end": 267.68,
+    "text": "making robots in large quantities or mass produced",
+    "speaker": null
+  },
+  {
+    "start": 267.68,
+    "end": 270.639,
+    "text": "might be a cheaper option than using humans.",
+    "speaker": null
+  },
+  {
+    "start": 270.639,
+    "end": 273.6,
+    "text": "And she says people might be abandoned to robots.",
+    "speaker": null
+  },
+  {
+    "start": 273.6,
+    "end": 279.04,
+    "text": "Abandoned means left alone in a place, usually forever.",
+    "speaker": "Abandoned"
+  },
+  {
+    "start": 279.6,
+    "end": 284.08,
+    "text": "So she says it might be possible that someone ends up being forgotten",
+    "speaker": null
+  },
+  {
+    "start": 284.08,
+    "end": 286.56,
+    "text": "and only having a robot to care for them.",
+    "speaker": null
+  },
+  {
+    "start": 287.2,
+    "end": 289.76,
+    "text": "So is this right, ethically?",
+    "speaker": null
+  },
+  {
+    "start": 289.76,
+    "end": 291.92,
+    "text": "Yes, well, she mentions ethics.",
+    "speaker": null
+  },
+  {
+    "start": 291.92,
+    "end": 293.92,
+    "text": "That's what is morally right,",
+    "speaker": null
+  },
+  {
+    "start": 293.92,
+    "end": 297.36,
+    "text": "and that needs to be considered as part of the jobs agenda.",
+    "speaker": null
+  },
+  {
+    "start": 297.36,
+    "end": 300.72,
+    "text": "So we shouldn't just consider what job vacancies need filling,",
+    "speaker": null
+  },
+  {
+    "start": 300.72,
+    "end": 302.56,
+    "text": "but who and how it should be done.",
+    "speaker": null
+  },
+  {
+    "start": 303.2,
+    "end": 304.64,
+    "text": "And earlier, I asked you, Sam,",
+    "speaker": null
+  },
+  {
+    "start": 304.64,
+    "end": 308.32,
+    "text": "did you know in which year was the first commercial robot built?",
+    "speaker": null
+  },
+  {
+    "start": 308.399,
+    "end": 311.12,
+    "text": "When you said, I said 1954.",
+    "speaker": null
+  },
+  {
+    "start": 311.12,
+    "end": 314.56,
+    "text": "Well you didn’t need a robot to help you there because you are right. Well done!",
+    "speaker": "Rob"
+  },
+  {
+    "start": 314.56,
+    "end": 315.759,
+    "text": "Yay. Well done.",
+    "speaker": null
+  },
+  {
+    "start": 316.48,
+    "end": 319.199,
+    "text": "Now let's do something a robot can't do yet,",
+    "speaker": null
+  },
+  {
+    "start": 319.199,
+    "end": 322.319,
+    "text": "and that's recap of the vocabulary we've highlighted today.",
+    "speaker": null
+  },
+  {
+    "start": 322.319,
+    "end": 323.92,
+    "text": "Starting with empathy.",
+    "speaker": null
+  },
+  {
+    "start": 324.56,
+    "end": 328.079,
+    "text": "Empathy is the ability to understand how someone feels",
+    "speaker": null
+  },
+  {
+    "start": 328.079,
+    "end": 332.24,
+    "text": "by imagining what it would be like to be in that person's situation.",
+    "speaker": null
+  },
+  {
+    "start": 332.24,
+    "end": 336.639,
+    "text": "Physical assistance describes helping someone by touching them.",
+    "speaker": "Physical assistance"
+  },
+  {
+    "start": 336.639,
+    "end": 338.56,
+    "text": "We also mentioned a companion.",
+    "speaker": null
+  },
+  {
+    "start": 338.56,
+    "end": 341.36,
+    "text": "We also mention a companion – that’s someone who is with you and keeps you company.",
+    "speaker": "companion"
+  },
+  {
+    "start": 341.36,
+    "end": 343.439,
+    "text": "Our next word was tight.",
+    "speaker": null
+  },
+  {
+    "start": 343.439,
+    "end": 346.159,
+    "text": "In the context of money, when money is tight,",
+    "speaker": null
+  },
+  {
+    "start": 346.159,
+    "end": 348.079,
+    "text": "it means there's not enough.",
+    "speaker": null
+  },
+  {
+    "start": 348.079,
+    "end": 351.439,
+    "text": "Abandoned means left alone in a place, usually forever.",
+    "speaker": null
+  },
+  {
+    "start": 351.439,
+    "end": 354.24,
+    "text": "And finally, we discuss the word ethics.",
+    "speaker": null
+  },
+  {
+    "start": 354.24,
+    "end": 358,
+    "text": "We hear a lot about business ethics or medical ethics,",
+    "speaker": null
+  },
+  {
+    "start": 358,
+    "end": 361.279,
+    "text": "and it means the study of what is morally right.",
+    "speaker": null
+  },
+  {
+    "start": 361.279,
+    "end": 362.879,
+    "text": "Okay, thank you, Sam.",
+    "speaker": null
+  },
+  {
+    "start": 363.279,
+    "end": 365.439,
+    "text": "Well, we've managed to get through six minutes English",
+    "speaker": null
+  },
+  {
+    "start": 365.519,
+    "end": 367.04,
+    "text": "without the aid of a robot.",
+    "speaker": null
+  },
+  {
+    "start": 367.759,
+    "end": 370,
+    "text": "That's all for now, but please join us again soon.",
+    "speaker": null
+  },
+  {
+    "start": 370,
+    "end": 371.519,
+    "text": "Goodbye. Bye-bye, everyone.",
+    "speaker": null
+  },
+  {
+    "start": 372.719,
+    "end": 379.68,
+    "text": "Six-nate English from BBC Learning English.",
+    "speaker": null
+  }
+]

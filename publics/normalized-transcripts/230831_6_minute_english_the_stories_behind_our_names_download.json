@@ -1,0 +1,602 @@
+[
+  {
+    "start": 0,
+    "end": 7,
+    "text": "6 Minute English from the BBC",
+    "speaker": null
+  },
+  {
+    "start": 7,
+    "end": 11.16,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 11.16,
+    "end": 12.28,
+    "text": "And I’m Beth.",
+    "speaker": "Beth"
+  },
+  {
+    "start": 12.28,
+    "end": 15.439,
+    "text": "Names tell us a lot about a person.",
+    "speaker": null
+  },
+  {
+    "start": 15.439,
+    "end": 17.44,
+    "text": "Many names have meanings.",
+    "speaker": null
+  },
+  {
+    "start": 17.44,
+    "end": 19.64,
+    "text": "Paul, for example, means humble.",
+    "speaker": null
+  },
+  {
+    "start": 19.64,
+    "end": 24.44,
+    "text": "And the name Anna originated from a Hebrew word meaning graceful.",
+    "speaker": null
+  },
+  {
+    "start": 24.44,
+    "end": 27.679,
+    "text": "Our name is an important part of our identity.",
+    "speaker": null
+  },
+  {
+    "start": 27.679,
+    "end": 32.479,
+    "text": "If you hear someone shout your name in the street, you automatically turn to look.",
+    "speaker": null
+  },
+  {
+    "start": 32.479,
+    "end": 38.32,
+    "text": "But names also reveal cultural and family connections, which give us a sense of our history",
+    "speaker": null
+  },
+  {
+    "start": 38.32,
+    "end": 39.799,
+    "text": "and our place in the world.",
+    "speaker": null
+  },
+  {
+    "start": 39.799,
+    "end": 46.2,
+    "text": "In this programme, we'll be meeting a writer whose name combines two very different sides of her identity,",
+    "speaker": null
+  },
+  {
+    "start": 46.2,
+    "end": 48.76,
+    "text": "one English and the other, Indian.",
+    "speaker": null
+  },
+  {
+    "start": 48.76,
+    "end": 55.48,
+    "text": "Sheila Banagee was born in Hayes, West London, to parents from the East Indian state of Bengal.",
+    "speaker": null
+  },
+  {
+    "start": 55.479,
+    "end": 59.719,
+    "text": "We'll be hearing about Sheila's research into her name and family history.",
+    "speaker": null
+  },
+  {
+    "start": 59.719,
+    "end": 64.12,
+    "text": "And as usual, we'll be learning some useful new vocabulary as well.",
+    "speaker": null
+  },
+  {
+    "start": 64.12,
+    "end": 67.079,
+    "text": "But first, I have a question for you, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 67.079,
+    "end": 71.599,
+    "text": "As every parent knows, choosing your child's name isn't easy.",
+    "speaker": null
+  },
+  {
+    "start": 71.599,
+    "end": 78.039,
+    "text": "Names go in and out of fashion, and a name that was popular one year soon becomes old-fashioned.",
+    "speaker": null
+  },
+  {
+    "start": 78.039,
+    "end": 83.56,
+    "text": "So what was the most popular name for baby girls in the UK last year?",
+    "speaker": null
+  },
+  {
+    "start": 83.6,
+    "end": 90.079,
+    "text": "Was it A, Florence, B, Olivia, or C, Amelia?",
+    "speaker": null
+  },
+  {
+    "start": 90.079,
+    "end": 93.48,
+    "text": "Hmm, I’ll guess it was Olivia.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 93.48,
+    "end": 97.56,
+    "text": "Okay, Neil, we'll find out the answer later in the programme.",
+    "speaker": null
+  },
+  {
+    "start": 97.56,
+    "end": 105.24,
+    "text": "Sheila Banagee's name came out of her parents' journey from British India to West London in the 1950s.",
+    "speaker": null
+  },
+  {
+    "start": 105.24,
+    "end": 108.92,
+    "text": "Here, she tells BBC Radio 4 programme Word of Mouth",
+    "speaker": null
+  },
+  {
+    "start": 108.92,
+    "end": 113.2,
+    "text": "how reflecting on this journey inspired her new book What's in a Name,",
+    "speaker": null
+  },
+  {
+    "start": 113.2,
+    "end": 117.28,
+    "text": "which blends her own life story with history and politics.",
+    "speaker": null
+  },
+  {
+    "start": 117.28,
+    "end": 120.6,
+    "text": "As soon as I started thinking about it, you know, this name Sheila,",
+    "speaker": null
+  },
+  {
+    "start": 120.6,
+    "end": 124.4,
+    "text": "which is, you know, it's a seven-year-old girl living in Hayes called Sheila.",
+    "speaker": null
+  },
+  {
+    "start": 124.4,
+    "end": 126.159,
+    "text": "There's a very typical English name.",
+    "speaker": null
+  },
+  {
+    "start": 126.159,
+    "end": 128.159,
+    "text": "You know, what's that name doing there?",
+    "speaker": null
+  },
+  {
+    "start": 128.159,
+    "end": 135,
+    "text": "And if you start to pull up that, the threads lead you to the story of my Bengali parents' migration over here",
+    "speaker": null
+  },
+  {
+    "start": 135,
+    "end": 139.64,
+    "text": "to mass migration from the colonies after the war to this country.",
+    "speaker": null
+  },
+  {
+    "start": 139.639,
+    "end": 144.639,
+    "text": "And then Banagee contains all these stories about colonialism and cost.",
+    "speaker": null
+  },
+  {
+    "start": 144.639,
+    "end": 148.319,
+    "text": "Her parents wanted their daughter to feel safe in London,",
+    "speaker": null
+  },
+  {
+    "start": 148.319,
+    "end": 152.079,
+    "text": "so they gave her a typical English name, Sheila.",
+    "speaker": null
+  },
+  {
+    "start": 152.079,
+    "end": 158.159,
+    "text": "If something is typical, it shows the usual features of a particular type of person or thing.",
+    "speaker": null
+  },
+  {
+    "start": 158.159,
+    "end": 160.639,
+    "text": "It's a good example of that type.",
+    "speaker": null
+  },
+  {
+    "start": 160.639,
+    "end": 165.479,
+    "text": "She may have had a typical English name, but with dark skin and hair,",
+    "speaker": null
+  },
+  {
+    "start": 165.519,
+    "end": 170.439,
+    "text": "Sheila didn't look like some people's image of a typical English girl.",
+    "speaker": null
+  },
+  {
+    "start": 170.439,
+    "end": 172.879,
+    "text": "Wanting to find out more about her culture,",
+    "speaker": null
+  },
+  {
+    "start": 172.879,
+    "end": 177.12,
+    "text": "Sheila started to pull the threads behind her family story.",
+    "speaker": null
+  },
+  {
+    "start": 177.12,
+    "end": 179.159,
+    "text": "Pulling the threads is an idiom,",
+    "speaker": null
+  },
+  {
+    "start": 179.159,
+    "end": 181.879,
+    "text": "meaning to investigate deeper into something,",
+    "speaker": null
+  },
+  {
+    "start": 181.879,
+    "end": 184.839,
+    "text": "revealing the hidden connections behind it.",
+    "speaker": null
+  },
+  {
+    "start": 184.839,
+    "end": 188.159,
+    "text": "What Sheila discovered was a story of mass migration,",
+    "speaker": null
+  },
+  {
+    "start": 188.159,
+    "end": 194.079,
+    "text": "periods in history when large groups of people moved from one geographical area to another.",
+    "speaker": null
+  },
+  {
+    "start": 194.08,
+    "end": 196.96,
+    "text": "Mass migrations have happened throughout history",
+    "speaker": null
+  },
+  {
+    "start": 196.96,
+    "end": 199.32,
+    "text": "in the 1950s and 1960s,",
+    "speaker": null
+  },
+  {
+    "start": 199.32,
+    "end": 201.2,
+    "text": "many South Asian families,",
+    "speaker": null
+  },
+  {
+    "start": 201.2,
+    "end": 205.52,
+    "text": "including Sheila's migrated West to cities in the UK.",
+    "speaker": null
+  },
+  {
+    "start": 205.52,
+    "end": 208.32,
+    "text": "But this is just one half of the story.",
+    "speaker": null
+  },
+  {
+    "start": 208.32,
+    "end": 210.4,
+    "text": "Sheila's family name, Banagee,",
+    "speaker": null
+  },
+  {
+    "start": 210.4,
+    "end": 214.04,
+    "text": "reflects her roots in the Bengali culture of East India,",
+    "speaker": null
+  },
+  {
+    "start": 214.04,
+    "end": 218.8,
+    "text": "where surnames tell a lot about a person's social status or caste.",
+    "speaker": null
+  },
+  {
+    "start": 218.8,
+    "end": 223.52,
+    "text": "Here Sheila explain more to BBC Radio 4 programme, Wed of Mouth.",
+    "speaker": null
+  },
+  {
+    "start": 223.56,
+    "end": 227.04,
+    "text": "It is an Indian name, but actually it's not my real name.",
+    "speaker": null
+  },
+  {
+    "start": 227.04,
+    "end": 229.8,
+    "text": "You've got names like Banagee Mukaji Chatterjee,",
+    "speaker": null
+  },
+  {
+    "start": 229.8,
+    "end": 232.04,
+    "text": "which nowadays people hear over here,",
+    "speaker": null
+  },
+  {
+    "start": 232.04,
+    "end": 236.76,
+    "text": "but Banagee is an anglicised form of my original name,",
+    "speaker": null
+  },
+  {
+    "start": 236.76,
+    "end": 238.96,
+    "text": "which would have been Bondobantar,",
+    "speaker": null
+  },
+  {
+    "start": 238.96,
+    "end": 243.52,
+    "text": "and it's a name that was changed by the British when they went over there,",
+    "speaker": null
+  },
+  {
+    "start": 243.52,
+    "end": 247.6,
+    "text": "because they really basically couldn't be bothered to pronounce it or couldn't pronounce it.",
+    "speaker": null
+  },
+  {
+    "start": 247.6,
+    "end": 250.32,
+    "text": "And for me, it's always been a very mixed name,",
+    "speaker": null
+  },
+  {
+    "start": 250.319,
+    "end": 255.28,
+    "text": "because it signifies that we were colonial subjects,",
+    "speaker": null
+  },
+  {
+    "start": 255.28,
+    "end": 258.24,
+    "text": "and so it's a tricky name to be carrying around.",
+    "speaker": null
+  },
+  {
+    "start": 259.319,
+    "end": 263.36,
+    "text": "Sheila's surname is actually pronounced Bondobantar,",
+    "speaker": null
+  },
+  {
+    "start": 263.36,
+    "end": 266.639,
+    "text": "but during colonial times the name became anglicised.",
+    "speaker": null
+  },
+  {
+    "start": 266.639,
+    "end": 269.519,
+    "text": "It was changed to sound more English.",
+    "speaker": null
+  },
+  {
+    "start": 269.519,
+    "end": 270.68,
+    "text": "This happened a lot.",
+    "speaker": null
+  },
+  {
+    "start": 270.68,
+    "end": 274.519,
+    "text": "The surname's Chatterbantar became Chatterjee,",
+    "speaker": null
+  },
+  {
+    "start": 274.519,
+    "end": 277.439,
+    "text": "and Mukobantar became Mukaji,",
+    "speaker": null
+  },
+  {
+    "start": 277.439,
+    "end": 280.24,
+    "text": "either because the British rulers couldn't pronounce them,",
+    "speaker": null
+  },
+  {
+    "start": 280.24,
+    "end": 282.079,
+    "text": "or because they couldn't be bothered.",
+    "speaker": null
+  },
+  {
+    "start": 282.079,
+    "end": 284,
+    "text": "They didn't make the effort.",
+    "speaker": null
+  },
+  {
+    "start": 284,
+    "end": 287.879,
+    "text": "Sheila feels her anglicised surname has always been tricky,",
+    "speaker": null
+  },
+  {
+    "start": 287.879,
+    "end": 293.36,
+    "text": "difficult to use, because of the association with colonialism and oppression.",
+    "speaker": null
+  },
+  {
+    "start": 293.36,
+    "end": 295.319,
+    "text": "Ironically, it was London,",
+    "speaker": null
+  },
+  {
+    "start": 295.319,
+    "end": 297.079,
+    "text": "the capital of the British Empire,",
+    "speaker": null
+  },
+  {
+    "start": 297.079,
+    "end": 302.16,
+    "text": "that in modern times became the destination for migrants from all over the world.",
+    "speaker": null
+  },
+  {
+    "start": 302.16,
+    "end": 305.84,
+    "text": "OK, it's time to reveal the answer to your question, Beth.",
+    "speaker": null
+  },
+  {
+    "start": 305.84,
+    "end": 309.28,
+    "text": "What was the most popular girl's name in 2022?",
+    "speaker": null
+  },
+  {
+    "start": 309.279,
+    "end": 311.319,
+    "text": "I guessed it was Olivia.",
+    "speaker": null
+  },
+  {
+    "start": 311.319,
+    "end": 314.319,
+    "text": "Which was the correct answer.",
+    "speaker": null
+  },
+  {
+    "start": 314.319,
+    "end": 320.559,
+    "text": "In 2022, Olivia remained the most popular girl's name for the sixth year in a row,",
+    "speaker": null
+  },
+  {
+    "start": 320.559,
+    "end": 325.199,
+    "text": "and was given to 3649 baby girls.",
+    "speaker": null
+  },
+  {
+    "start": 325.199,
+    "end": 330.039,
+    "text": "OK, let's recap the vocabulary from this programme starting with Typical,",
+    "speaker": null
+  },
+  {
+    "start": 330.039,
+    "end": 334.959,
+    "text": "containing the most usual features of a particular type of person or thing.",
+    "speaker": null
+  },
+  {
+    "start": 334.959,
+    "end": 336.679,
+    "text": "If you pull the threads of something,",
+    "speaker": null
+  },
+  {
+    "start": 336.68,
+    "end": 340.92,
+    "text": "If you pull the threads of something, you investigate it more deeply to find the hidden stories behind it.",
+    "speaker": "pull the threads"
+  },
+  {
+    "start": 340.92,
+    "end": 346.68,
+    "text": "Mass migration is the historical movement of large groups of people from one place to another.",
+    "speaker": "Mass migration"
+  },
+  {
+    "start": 346.68,
+    "end": 348.6,
+    "text": "If something is anglicised,",
+    "speaker": null
+  },
+  {
+    "start": 348.6,
+    "end": 351.72,
+    "text": "If something is anglicised it’s changed to sound or appear English.",
+    "speaker": "anglicised"
+  },
+  {
+    "start": 351.72,
+    "end": 354.16,
+    "text": "If you can’t be bothered to do something, you don’t make the effort to do it.",
+    "speaker": "be bothered"
+  },
+  {
+    "start": 354.16,
+    "end": 355.92,
+    "text": "you don't make the effort to do it.",
+    "speaker": null
+  },
+  {
+    "start": 355.92,
+    "end": 358.04,
+    "text": "And finally, if something is tricky,",
+    "speaker": null
+  },
+  {
+    "start": 358.04,
+    "end": 361.519,
+    "text": "it's difficult to manage and requires careful use.",
+    "speaker": null
+  },
+  {
+    "start": 361.519,
+    "end": 363.24,
+    "text": "Once again, our six minutes are up.",
+    "speaker": null
+  },
+  {
+    "start": 363.24,
+    "end": 364.84,
+    "text": "Goodbye for now. Bye.",
+    "speaker": null
+  },
+  {
+    "start": 366.68,
+    "end": 368.68,
+    "text": "English from the BBC.",
+    "speaker": null
+  }
+]

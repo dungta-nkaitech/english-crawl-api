@@ -1,0 +1,680 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 12.32,
+    "text": "6MooT English from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 12.32,
+    "end": 15.599,
+    "text": "Hello and welcome to 6 Minute English. I'm Alice…",
+    "speaker": "Alice"
+  },
+  {
+    "start": 15.599,
+    "end": 16.879,
+    "text": "… And I'm Rob.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 16.879,
+    "end": 19.76,
+    "text": "So it's nearly exam time again.",
+    "speaker": null
+  },
+  {
+    "start": 19.76,
+    "end": 24,
+    "text": "So, it's nearly exam time again. And the subject of today's show is how to prepare well for an exam.",
+    "speaker": "Alice"
+  },
+  {
+    "start": 24,
+    "end": 26.16,
+    "text": "I've got some great tips, actually, Alice.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 26.16,
+    "end": 27.44,
+    "text": "Oh, have you really?",
+    "speaker": null
+  },
+  {
+    "start": 27.44,
+    "end": 30.16,
+    "text": "Have you really? Can you remind me what grades you got at school?",
+    "speaker": "Alice"
+  },
+  {
+    "start": 30.16,
+    "end": 32.64,
+    "text": "Yes, well, oh, oh, oh, oh, what was it?",
+    "speaker": null
+  },
+  {
+    "start": 32.64,
+    "end": 36.719,
+    "text": "So, you didn't get very good grades.",
+    "speaker": "Alice"
+  },
+  {
+    "start": 36.719,
+    "end": 39.6,
+    "text": "I probably should have started revising earlier.",
+    "speaker": null
+  },
+  {
+    "start": 39.6,
+    "end": 41.76,
+    "text": "But my learning strategies were very good.",
+    "speaker": null
+  },
+  {
+    "start": 41.76,
+    "end": 45.359,
+    "text": "Oh, really? Well, when you revise for an exam,",
+    "speaker": null
+  },
+  {
+    "start": 45.359,
+    "end": 47.6,
+    "text": "you study information you learnt before.",
+    "speaker": null
+  },
+  {
+    "start": 48.159,
+    "end": 51.68,
+    "text": "Okay, Rob, I'd love to hear more about your learning strategies,",
+    "speaker": null
+  },
+  {
+    "start": 51.68,
+    "end": 54.719,
+    "text": "but first, here's today's quiz question for you.",
+    "speaker": null
+  },
+  {
+    "start": 54.799,
+    "end": 62,
+    "text": "What's the word for a system such as use of special poems or rhymes to help you remember something?",
+    "speaker": null
+  },
+  {
+    "start": 62,
+    "end": 68.879,
+    "text": "Is it a, pneumatics, b, nomonics, or c, hypnotics?",
+    "speaker": null
+  },
+  {
+    "start": 68.879,
+    "end": 71.84,
+    "text": "I'll go for b, nomonics.",
+    "speaker": null
+  },
+  {
+    "start": 71.84,
+    "end": 75.92,
+    "text": "Well, we'll find out whether you got the answer right or not later on in the show.",
+    "speaker": null
+  },
+  {
+    "start": 75.92,
+    "end": 79.439,
+    "text": "Now, according to current scientific research,",
+    "speaker": null
+  },
+  {
+    "start": 79.439,
+    "end": 83.759,
+    "text": "some study methods popular with students aren't actually very effective.",
+    "speaker": null
+  },
+  {
+    "start": 84.16,
+    "end": 88.24,
+    "text": "Don't tell me – putting your textbook under your pillow at night doesn't work.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 88.8,
+    "end": 90.4,
+    "text": "Did you try doing that, Rob?",
+    "speaker": "Alice"
+  },
+  {
+    "start": 90.4,
+    "end": 93.12,
+    "text": "Yes, I did, but without much success.",
+    "speaker": null
+  },
+  {
+    "start": 93.12,
+    "end": 95.439,
+    "text": "Yes, I did, but without much success. Maybe I was using the wrong kind of pillow?!",
+    "speaker": "Rob"
+  },
+  {
+    "start": 95.439,
+    "end": 100.08,
+    "text": "Well, and let's talk about more conventional methods than the book under the pillow one.",
+    "speaker": null
+  },
+  {
+    "start": 100.88,
+    "end": 107.04,
+    "text": "These include summarising, highlighting, or underlining text to help you remember it.",
+    "speaker": null
+  },
+  {
+    "start": 107.04,
+    "end": 109.439,
+    "text": "I do love a pack of highlighting pens, though.",
+    "speaker": null
+  },
+  {
+    "start": 109.439,
+    "end": 110.719,
+    "text": "Oh, yes, me too.",
+    "speaker": null
+  },
+  {
+    "start": 110.799,
+    "end": 114.319,
+    "text": "And actually, highlighting text was one of my top tips.",
+    "speaker": null
+  },
+  {
+    "start": 114.799,
+    "end": 117.519,
+    "text": "But I used to get so absorbed with the highlighting.",
+    "speaker": null
+  },
+  {
+    "start": 117.519,
+    "end": 120.239,
+    "text": "I'm not sure I was actually learning anything useful.",
+    "speaker": null
+  },
+  {
+    "start": 120.239,
+    "end": 122.319,
+    "text": "My notebooks were works of art, though.",
+    "speaker": null
+  },
+  {
+    "start": 122.319,
+    "end": 125.76,
+    "text": "Yes, and that's the point made by John Dunlussky,",
+    "speaker": null
+  },
+  {
+    "start": 125.76,
+    "end": 130.24,
+    "text": "John Dunlosky, Professor of Psychology at Kent State University in the US",
+    "speaker": "INSERT"
+  },
+  {
+    "start": 130.24,
+    "end": 134.319,
+    "text": "who says that you need to do more than just highlight information.",
+    "speaker": null
+  },
+  {
+    "start": 134.319,
+    "end": 136.4,
+    "text": "You need to test yourself on it.",
+    "speaker": null
+  },
+  {
+    "start": 136.4,
+    "end": 137.68,
+    "text": "Let's hear from him now.",
+    "speaker": null
+  },
+  {
+    "start": 137.68,
+    "end": 144.159,
+    "text": "Students who can basically test themselves or try to retrieve material from their memory",
+    "speaker": null
+  },
+  {
+    "start": 144.159,
+    "end": 147.68,
+    "text": "are going to learn that material in the long run a lot better.",
+    "speaker": null
+  },
+  {
+    "start": 147.68,
+    "end": 152.64,
+    "text": "So, for instance, maybe you start by reading a textbook using your favourite highlighter and favourite colours.",
+    "speaker": null
+  },
+  {
+    "start": 152.64,
+    "end": 156.719,
+    "text": "But then you go back and make flashcards of all the critical concepts.",
+    "speaker": null
+  },
+  {
+    "start": 156.719,
+    "end": 161.28,
+    "text": "And instead of just rereading those, you basically try to test yourself on them.",
+    "speaker": null
+  },
+  {
+    "start": 161.28,
+    "end": 164.4,
+    "text": "Professor John Dunlussky there.",
+    "speaker": null
+  },
+  {
+    "start": 164.96,
+    "end": 169.039,
+    "text": "So he says trying to memorize the material isn't enough.",
+    "speaker": null
+  },
+  {
+    "start": 169.039,
+    "end": 170.879,
+    "text": "You need to do something with it.",
+    "speaker": null
+  },
+  {
+    "start": 170.879,
+    "end": 175.52,
+    "text": "For example, making flashcards of critical or important concepts",
+    "speaker": null
+  },
+  {
+    "start": 175.52,
+    "end": 177.28,
+    "text": "and then testing yourself on them.",
+    "speaker": null
+  },
+  {
+    "start": 177.28,
+    "end": 179.68,
+    "text": "By repeatedly testing yourself on something,",
+    "speaker": null
+  },
+  {
+    "start": 179.68,
+    "end": 184.8,
+    "text": "you strengthen the pathways between neurons or nerve cells in the brain.",
+    "speaker": null
+  },
+  {
+    "start": 184.8,
+    "end": 189.439,
+    "text": "And the more often you do this, the easier it becomes to retrieve information.",
+    "speaker": null
+  },
+  {
+    "start": 189.439,
+    "end": 192.159,
+    "text": "And retrieve means to get something back.",
+    "speaker": "retrieve"
+  },
+  {
+    "start": 192.24,
+    "end": 193.359,
+    "text": "That's right.",
+    "speaker": null
+  },
+  {
+    "start": 193.359,
+    "end": 197.12,
+    "text": "When you repeatedly test yourself over a longer period of time,",
+    "speaker": null
+  },
+  {
+    "start": 197.12,
+    "end": 199.759,
+    "text": "for example, over months or weeks,",
+    "speaker": null
+  },
+  {
+    "start": 199.759,
+    "end": 202.319,
+    "text": "distributed practice",
+    "speaker": "Rob"
+  },
+  {
+    "start": 202.319,
+    "end": 205.84,
+    "text": "And psychologists believe this is a very effective way to learn.",
+    "speaker": null
+  },
+  {
+    "start": 205.84,
+    "end": 208.24,
+    "text": "It sounds like hard work, though, doesn't it?",
+    "speaker": null
+  },
+  {
+    "start": 208.24,
+    "end": 210.56,
+    "text": "I prefer the cramming method,",
+    "speaker": null
+  },
+  {
+    "start": 210.56,
+    "end": 215.439,
+    "text": "which means to try and learn lots of information in a short period of time.",
+    "speaker": null
+  },
+  {
+    "start": 215.439,
+    "end": 217.68,
+    "text": "For example, the night before the exam.",
+    "speaker": null
+  },
+  {
+    "start": 217.68,
+    "end": 219.039,
+    "text": "I don't know, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 219.12,
+    "end": 221.679,
+    "text": "We don't cram to learn other things,",
+    "speaker": null
+  },
+  {
+    "start": 221.679,
+    "end": 226,
+    "text": "like music or dancing or football or language learning.",
+    "speaker": null
+  },
+  {
+    "start": 226,
+    "end": 228.959,
+    "text": "It's far more effective to join a conversation class",
+    "speaker": null
+  },
+  {
+    "start": 228.959,
+    "end": 230.959,
+    "text": "and practice speaking every week",
+    "speaker": null
+  },
+  {
+    "start": 230.959,
+    "end": 235.199,
+    "text": "than to practice for hours in front of the mirror the night before your oral exam.",
+    "speaker": null
+  },
+  {
+    "start": 235.199,
+    "end": 236.799,
+    "text": "That's a good point.",
+    "speaker": null
+  },
+  {
+    "start": 236.799,
+    "end": 240.319,
+    "text": "In fact, I used to sing irregular French verbs to myself",
+    "speaker": null
+  },
+  {
+    "start": 240.319,
+    "end": 243.919,
+    "text": "every day in the shower for weeks before my French exam.",
+    "speaker": null
+  },
+  {
+    "start": 243.919,
+    "end": 246.719,
+    "text": "And that helped me remember them more easily.",
+    "speaker": null
+  },
+  {
+    "start": 246.719,
+    "end": 247.519,
+    "text": "Excellent.",
+    "speaker": null
+  },
+  {
+    "start": 247.6,
+    "end": 251.28,
+    "text": "Making different types of associations with what you're trying to learn,",
+    "speaker": null
+  },
+  {
+    "start": 251.28,
+    "end": 255.12,
+    "text": "for example, musical associations is meant to be effective.",
+    "speaker": null
+  },
+  {
+    "start": 255.12,
+    "end": 259.36,
+    "text": "Let's listen now to Professor Danowski talking about visual associations.",
+    "speaker": null
+  },
+  {
+    "start": 260.4,
+    "end": 264,
+    "text": "I would encourage students as they're reading to try to elaborate mentally",
+    "speaker": null
+  },
+  {
+    "start": 264,
+    "end": 268.639,
+    "text": "using images as they're reading to kind of develop a more vivid picture of what they're reading.",
+    "speaker": null
+  },
+  {
+    "start": 268.639,
+    "end": 272.4,
+    "text": "Again, that'll help quite a bit for some kinds of studies, maybe history and so forth,",
+    "speaker": null
+  },
+  {
+    "start": 272.4,
+    "end": 274.639,
+    "text": "and a little bit less so for more conceptual studies.",
+    "speaker": null
+  },
+  {
+    "start": 275.519,
+    "end": 280.319,
+    "text": "And if you elaborate on something, it means you add more information – in this case, mental pictures.",
+    "speaker": "elaborate"
+  },
+  {
+    "start": 280.319,
+    "end": 282.8,
+    "text": "In this case, mental pictures.",
+    "speaker": null
+  },
+  {
+    "start": 282.8,
+    "end": 286.879,
+    "text": "So creating mental pictures is useful for some subjects,",
+    "speaker": null
+  },
+  {
+    "start": 286.879,
+    "end": 290.879,
+    "text": "like history or languages, but conceptual subjects,",
+    "speaker": null
+  },
+  {
+    "start": 290.879,
+    "end": 295.759,
+    "text": "ones based on abstract ideas rather than things like maths, for example,",
+    "speaker": null
+  },
+  {
+    "start": 295.759,
+    "end": 299.519,
+    "text": "it might not be so easy to associate ideas with pictures.",
+    "speaker": null
+  },
+  {
+    "start": 299.519,
+    "end": 301.519,
+    "text": "Now, what about Albert Einstein?",
+    "speaker": null
+  },
+  {
+    "start": 301.519,
+    "end": 304.159,
+    "text": "Now what about Albert Einstein? People say he was a very visual thinker.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 304.16,
+    "end": 305.92,
+    "text": "Well, you've got me there, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 305.92,
+    "end": 311.04,
+    "text": "I don't know the answer to that, but I can give you the answer to today's quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 311.04,
+    "end": 313.76,
+    "text": "I asked, what's the word for a system,",
+    "speaker": null
+  },
+  {
+    "start": 313.76,
+    "end": 318.4,
+    "text": "such as use of special poems or rhymes, to help you remember something?",
+    "speaker": null
+  },
+  {
+    "start": 318.4,
+    "end": 324.879,
+    "text": "Is it A, pneumatics, B, pneumonics, or C, hypnotics?",
+    "speaker": null
+  },
+  {
+    "start": 324.879,
+    "end": 326.4,
+    "text": "I said pneumonics.",
+    "speaker": null
+  },
+  {
+    "start": 326.4,
+    "end": 328.8,
+    "text": "And you were right!",
+    "speaker": "Alice"
+  },
+  {
+    "start": 328.8,
+    "end": 329.52,
+    "text": "Great!",
+    "speaker": "Rob"
+  },
+  {
+    "start": 329.52,
+    "end": 330.32,
+    "text": "Well done.",
+    "speaker": null
+  },
+  {
+    "start": 330.319,
+    "end": 333.599,
+    "text": "Research on pneumonics suggests they are a good strategy",
+    "speaker": null
+  },
+  {
+    "start": 333.599,
+    "end": 335.599,
+    "text": "for learning certain kinds of things,",
+    "speaker": null
+  },
+  {
+    "start": 335.599,
+    "end": 337.759,
+    "text": "like how to spell difficult words.",
+    "speaker": null
+  },
+  {
+    "start": 337.759,
+    "end": 341.279,
+    "text": "For example, the first letters of this sentence.",
+    "speaker": null
+  },
+  {
+    "start": 341.279,
+    "end": 346.48,
+    "text": "Big elephants cause accidents under small elephants,",
+    "speaker": null
+  },
+  {
+    "start": 346.48,
+    "end": 348.48,
+    "text": "spells because.",
+    "speaker": null
+  },
+  {
+    "start": 348.48,
+    "end": 351.839,
+    "text": "Now, do you think you can remember the words we heard today, Rob?",
+    "speaker": null
+  },
+  {
+    "start": 351.839,
+    "end": 359.519,
+    "text": "We heard revise critical neurons retrieve distributed",
+    "speaker": null
+  },
+  {
+    "start": 359.519,
+    "end": 364.879,
+    "text": "practice, cramming, elaborate, conceptual.",
+    "speaker": null
+  },
+  {
+    "start": 364.879,
+    "end": 367.439,
+    "text": "Well, that's the end of today's six-minute English.",
+    "speaker": null
+  },
+  {
+    "start": 367.439,
+    "end": 369.199,
+    "text": "Remember to join us again soon.",
+    "speaker": null
+  },
+  {
+    "start": 369.199,
+    "end": 369.68,
+    "text": "Bye.",
+    "speaker": "Both"
+  },
+  {
+    "start": 369.68,
+    "end": 370.479,
+    "text": "Bye-bye.",
+    "speaker": null
+  },
+  {
+    "start": 370.479,
+    "end": 374.079,
+    "text": "Six-minute English from the BBC.",
+    "speaker": null
+  }
+]

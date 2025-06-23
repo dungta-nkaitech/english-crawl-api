@@ -1,0 +1,692 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.6,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.6,
+    "end": 8.24,
+    "text": "6-Mate English",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 10.88,
+    "text": "from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 12.64,
+    "end": 14.96,
+    "text": "Hello. This is 6 Minute English. I'm Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 14.96,
+    "end": 15.919,
+    "text": "And I'm Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 15.919,
+    "end": 19.12,
+    "text": "Now Sam, I assume that you know your alphabet.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 19.12,
+    "end": 22.24,
+    "text": "Of course, Neil, you mean my ABCs?",
+    "speaker": null
+  },
+  {
+    "start": 22.24,
+    "end": 24.719,
+    "text": "Of course, Neil – you mean my ABCs? We learn that at a very young age, you know?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 24.719,
+    "end": 28.32,
+    "text": "Sorry to sound patronising, but you do know why the letters in the alphabet",
+    "speaker": null
+  },
+  {
+    "start": 28.32,
+    "end": 30.24,
+    "text": "are in that particular order.",
+    "speaker": null
+  },
+  {
+    "start": 30.24,
+    "end": 32.88,
+    "text": "No, I don’t. That’s really interesting. Why?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 32.88,
+    "end": 35.359,
+    "text": "I don't know either. I was hoping you might.",
+    "speaker": null
+  },
+  {
+    "start": 35.359,
+    "end": 39.6,
+    "text": "But seriously, no one really knows how the order became established.",
+    "speaker": null
+  },
+  {
+    "start": 39.6,
+    "end": 43.92,
+    "text": "However, some research has shown that if your surname, your family name,",
+    "speaker": null
+  },
+  {
+    "start": 43.92,
+    "end": 46.96,
+    "text": "begins with a letter later in the alphabet,",
+    "speaker": null
+  },
+  {
+    "start": 46.96,
+    "end": 50.64,
+    "text": "you could be at a disadvantage at school and in life.",
+    "speaker": null
+  },
+  {
+    "start": 50.64,
+    "end": 52.719,
+    "text": "Before we get into that, though, a question.",
+    "speaker": null
+  },
+  {
+    "start": 53.439,
+    "end": 57.2,
+    "text": "Where does the alphabet come from in its earliest form?",
+    "speaker": null
+  },
+  {
+    "start": 57.28,
+    "end": 61.76,
+    "text": "Was it A ancient Egypt, B ancient Greece or C ancient Rome?",
+    "speaker": null
+  },
+  {
+    "start": 61.76,
+    "end": 63.28,
+    "text": "What do you think, Sam?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 63.28,
+    "end": 68.079,
+    "text": "Well, we refer to the English alphabet as having Roman characters, so I’m going with Ancient Rome.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 68.079,
+    "end": 70.56,
+    "text": "so I'm going with ancient Rome.",
+    "speaker": null
+  },
+  {
+    "start": 70.56,
+    "end": 73.359,
+    "text": "Okay, well, I'll have the answer later in the programme.",
+    "speaker": null
+  },
+  {
+    "start": 74,
+    "end": 77.12,
+    "text": "In the BBC Radio programme, Fries English Delight,",
+    "speaker": null
+  },
+  {
+    "start": 77.12,
+    "end": 82.719,
+    "text": "there was a feature about the alphabet and how it can have a negative impact on your school life.",
+    "speaker": null
+  },
+  {
+    "start": 82.719,
+    "end": 85.359,
+    "text": "Can you remember all those years ago when you were at school?",
+    "speaker": null
+  },
+  {
+    "start": 85.92,
+    "end": 89.68,
+    "text": "What's the first thing that the teacher would do at the beginning of the day?",
+    "speaker": null
+  },
+  {
+    "start": 89.68,
+    "end": 94.079,
+    "text": "She would take the register, or that's what we call it in the UK.",
+    "speaker": null
+  },
+  {
+    "start": 94.079,
+    "end": 96.56,
+    "text": "You can also call it the roll call.",
+    "speaker": null
+  },
+  {
+    "start": 96.56,
+    "end": 100,
+    "text": "Yes, this is when the teacher calls out the names to the students",
+    "speaker": null
+  },
+  {
+    "start": 100,
+    "end": 101.519,
+    "text": "to check that they are all there.",
+    "speaker": null
+  },
+  {
+    "start": 102.079,
+    "end": 104.879,
+    "text": "This is where the problem starts, according to,",
+    "speaker": null
+  },
+  {
+    "start": 104.879,
+    "end": 109.359,
+    "text": "ironically, Professor Jeffrey Zack's from the University of Colorado.",
+    "speaker": null
+  },
+  {
+    "start": 109.84,
+    "end": 114.56,
+    "text": "The further down that list your name is, the less noticed you are by the teacher.",
+    "speaker": null
+  },
+  {
+    "start": 114.64,
+    "end": 115.68,
+    "text": "Why is that?",
+    "speaker": null
+  },
+  {
+    "start": 115.68,
+    "end": 116.96,
+    "text": "Here's Professor Zack's.",
+    "speaker": null
+  },
+  {
+    "start": 118.4,
+    "end": 120.64,
+    "text": "When it begins, people are paying attention.",
+    "speaker": null
+  },
+  {
+    "start": 121.2,
+    "end": 126,
+    "text": "As it proceeds, first, the people who are already called,",
+    "speaker": null
+  },
+  {
+    "start": 126,
+    "end": 130,
+    "text": "they no longer have any need to take the thing seriously.",
+    "speaker": null
+  },
+  {
+    "start": 130.8,
+    "end": 132.96,
+    "text": "And the people who are waiting to be called,",
+    "speaker": null
+  },
+  {
+    "start": 132.96,
+    "end": 134.8,
+    "text": "their attention is wandering as well.",
+    "speaker": null
+  },
+  {
+    "start": 134.8,
+    "end": 137.52,
+    "text": "And so, as you make your way through the roll call,",
+    "speaker": null
+  },
+  {
+    "start": 137.52,
+    "end": 141.599,
+    "text": "somehow the intensity of the engagement diminishes.",
+    "speaker": null
+  },
+  {
+    "start": 141.759,
+    "end": 144.159,
+    "text": "So, what is the problem?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 144.159,
+    "end": 147.28,
+    "text": "Well, it's a lot to do with paying attention.",
+    "speaker": null
+  },
+  {
+    "start": 147.28,
+    "end": 150.4,
+    "text": "This means concentrating on something.",
+    "speaker": null
+  },
+  {
+    "start": 150.4,
+    "end": 154.799,
+    "text": "At the beginning of the roll call, everyone is paying attention.",
+    "speaker": null
+  },
+  {
+    "start": 154.799,
+    "end": 156.479,
+    "text": "They are quiet and listening.",
+    "speaker": null
+  },
+  {
+    "start": 156.479,
+    "end": 158.879,
+    "text": "But after the first names are called,",
+    "speaker": null
+  },
+  {
+    "start": 158.879,
+    "end": 161.439,
+    "text": "those students don't need to pay attention anymore.",
+    "speaker": null
+  },
+  {
+    "start": 161.439,
+    "end": 164.639,
+    "text": "So, they lose a bit of interest in what comes next.",
+    "speaker": null
+  },
+  {
+    "start": 164.639,
+    "end": 168.4,
+    "text": "And the students later in the list are also now distracted.",
+    "speaker": null
+  },
+  {
+    "start": 168.4,
+    "end": 171.599,
+    "text": "And the teacher, he more herself, is not so focused.",
+    "speaker": null
+  },
+  {
+    "start": 171.599,
+    "end": 175.36,
+    "text": "And by the end of the list, the relationship between the teacher",
+    "speaker": null
+  },
+  {
+    "start": 175.36,
+    "end": 178.56,
+    "text": "and the students whose names are being called later",
+    "speaker": null
+  },
+  {
+    "start": 178.56,
+    "end": 181.92,
+    "text": "is not as strong as those at the beginning of the list.",
+    "speaker": null
+  },
+  {
+    "start": 181.92,
+    "end": 187.2,
+    "text": "Professor Zack describes this by saying that the intensity of the engagement diminishes.",
+    "speaker": null
+  },
+  {
+    "start": 187.2,
+    "end": 189.68,
+    "text": "Diminishes means gets weaker.",
+    "speaker": null
+  },
+  {
+    "start": 189.68,
+    "end": 193.599,
+    "text": "And the intensity of the engagement is the strength of the communication,",
+    "speaker": null
+  },
+  {
+    "start": 193.599,
+    "end": 196.159,
+    "text": "the level of enthusiasm for being involved.",
+    "speaker": null
+  },
+  {
+    "start": 196.96,
+    "end": 199.28,
+    "text": "So, this is the start of the disadvantage",
+    "speaker": null
+  },
+  {
+    "start": 199.28,
+    "end": 203.199,
+    "text": "which can subtly affect students throughout their school years and after.",
+    "speaker": null
+  },
+  {
+    "start": 203.84,
+    "end": 207.759,
+    "text": "This was discovered after some research in the US in the 1950s.",
+    "speaker": null
+  },
+  {
+    "start": 207.759,
+    "end": 210.319,
+    "text": "So, what were these disadvantages?",
+    "speaker": null
+  },
+  {
+    "start": 210.319,
+    "end": 212,
+    "text": "His Professor Zack's again.",
+    "speaker": null
+  },
+  {
+    "start": 213.12,
+    "end": 216.56,
+    "text": "They were less likely to have enjoyed their high school courses.",
+    "speaker": null
+  },
+  {
+    "start": 216.56,
+    "end": 218.56,
+    "text": "Graduated from college if they applied,",
+    "speaker": null
+  },
+  {
+    "start": 218.56,
+    "end": 220.56,
+    "text": "they were more likely to drop out.",
+    "speaker": null
+  },
+  {
+    "start": 220.56,
+    "end": 225.68,
+    "text": "They had first jobs in occupations that paid less.",
+    "speaker": null
+  },
+  {
+    "start": 225.76,
+    "end": 228.879,
+    "text": "They were more likely to go to the military.",
+    "speaker": null
+  },
+  {
+    "start": 228.879,
+    "end": 232.879,
+    "text": "And they were more likely to have jobs whose prestige was lower.",
+    "speaker": null
+  },
+  {
+    "start": 234,
+    "end": 236.24,
+    "text": "So what disadvantages did they have?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 236.24,
+    "end": 240.96,
+    "text": "Well, Professor Zack says that the research showed they enjoyed school less,",
+    "speaker": null
+  },
+  {
+    "start": 240.96,
+    "end": 247.2,
+    "text": "were less successful academically and more likely to drop out of college or university.",
+    "speaker": null
+  },
+  {
+    "start": 247.2,
+    "end": 250.719,
+    "text": "This means that they left the course before it was finished.",
+    "speaker": null
+  },
+  {
+    "start": 250.719,
+    "end": 253.68,
+    "text": "And he also said that they were more likely to find jobs",
+    "speaker": null
+  },
+  {
+    "start": 253.68,
+    "end": 255.92,
+    "text": "that had a lower prestige.",
+    "speaker": null
+  },
+  {
+    "start": 255.92,
+    "end": 259.84,
+    "text": "This means the jobs weren't seen as high status or desirable.",
+    "speaker": null
+  },
+  {
+    "start": 259.84,
+    "end": 260.72,
+    "text": "Let's listen again.",
+    "speaker": null
+  },
+  {
+    "start": 261.759,
+    "end": 265.12,
+    "text": "They were less likely to have enjoyed their high school courses.",
+    "speaker": null
+  },
+  {
+    "start": 265.12,
+    "end": 267.12,
+    "text": "Graduated from college if they applied.",
+    "speaker": null
+  },
+  {
+    "start": 267.12,
+    "end": 269.199,
+    "text": "They were more likely to drop out.",
+    "speaker": null
+  },
+  {
+    "start": 269.199,
+    "end": 274.24,
+    "text": "They had first jobs in occupations that paid less.",
+    "speaker": null
+  },
+  {
+    "start": 274.24,
+    "end": 277.28,
+    "text": "They were more likely to go to the military.",
+    "speaker": null
+  },
+  {
+    "start": 277.28,
+    "end": 281.28,
+    "text": "And they were more likely to have jobs whose prestige was lower.",
+    "speaker": null
+  },
+  {
+    "start": 282.239,
+    "end": 285.599,
+    "text": "Well, Professor Zack seems to have done okay.",
+    "speaker": null
+  },
+  {
+    "start": 285.599,
+    "end": 287.039,
+    "text": "Even with that surname.",
+    "speaker": null
+  },
+  {
+    "start": 287.039,
+    "end": 290.239,
+    "text": "Indeed, I guess this doesn't apply to everyone.",
+    "speaker": null
+  },
+  {
+    "start": 290.239,
+    "end": 293.519,
+    "text": "Right, well, before we remind ourselves of our vocabulary,",
+    "speaker": null
+  },
+  {
+    "start": 293.519,
+    "end": 295.599,
+    "text": "let's get the answer to the question.",
+    "speaker": null
+  },
+  {
+    "start": 295.599,
+    "end": 299.439,
+    "text": "Where does the alphabet come from in its earliest form?",
+    "speaker": null
+  },
+  {
+    "start": 299.439,
+    "end": 305.279,
+    "text": "Was it A, Ancient Egypt, B, Ancient Greece or C, Ancient Rome? Sam, what did you say?",
+    "speaker": null
+  },
+  {
+    "start": 305.279,
+    "end": 307.759,
+    "text": "Pretty sure it’s Ancient Rome.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 307.759,
+    "end": 309.279,
+    "text": "What does your surname begin with?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 309.599,
+    "end": 311.439,
+    "text": "A 'B', actually.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 311.439,
+    "end": 313.199,
+    "text": "Well, you're wrong, I'm afraid.",
+    "speaker": null
+  },
+  {
+    "start": 313.199,
+    "end": 315.279,
+    "text": "It's actually Ancient Egypt.",
+    "speaker": null
+  },
+  {
+    "start": 315.279,
+    "end": 317.839,
+    "text": "So well done to everyone who got that.",
+    "speaker": null
+  },
+  {
+    "start": 317.839,
+    "end": 320.639,
+    "text": "Okay, now it's time for our vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 320.639,
+    "end": 323.279,
+    "text": "Yes. To pay attention to something",
+    "speaker": null
+  },
+  {
+    "start": 323.279,
+    "end": 327.279,
+    "text": "Yes – to pay attention to something means to concentrate on something, to not be distracted.",
+    "speaker": "to pay attentionto"
+  },
+  {
+    "start": 327.279,
+    "end": 330.479,
+    "text": "Then there was the phrase the intensity of the engagement,",
+    "speaker": null
+  },
+  {
+    "start": 330.479,
+    "end": 335.839,
+    "text": "Then there was the phrase the intensity of the engagement, which is another way of saying the strength of the relationship, interaction and communication.",
+    "speaker": "theintensityof the engagement"
+  },
+  {
+    "start": 335.839,
+    "end": 338.639,
+    "text": "And if your surname comes at the end of the alphabet,",
+    "speaker": null
+  },
+  {
+    "start": 338.719,
+    "end": 344.159,
+    "text": "you may find that the intensity of engagement with the teacher diminishes.",
+    "speaker": null
+  },
+  {
+    "start": 344.159,
+    "end": 346.639,
+    "text": "Diminishes means get weaker.",
+    "speaker": null
+  },
+  {
+    "start": 346.639,
+    "end": 350.8,
+    "text": "If you drop out from a course, it means that you leave it before it’s finished.",
+    "speaker": "drop out"
+  },
+  {
+    "start": 350.8,
+    "end": 354.8,
+    "text": "And the prestige of a job is the respect it has.",
+    "speaker": null
+  },
+  {
+    "start": 354.8,
+    "end": 359.599,
+    "text": "If it's as seen as important or desirable, then it has higher prestige.",
+    "speaker": null
+  },
+  {
+    "start": 359.599,
+    "end": 362.24,
+    "text": "Okay, thank you, Sam. That's all from six minute English.",
+    "speaker": null
+  },
+  {
+    "start": 362.24,
+    "end": 364.24,
+    "text": "We hope you can join us again soon.",
+    "speaker": null
+  },
+  {
+    "start": 364.24,
+    "end": 367.36,
+    "text": "You can find us at BBC Learning English online,",
+    "speaker": null
+  },
+  {
+    "start": 367.36,
+    "end": 369.12,
+    "text": "on social media and on our app.",
+    "speaker": null
+  },
+  {
+    "start": 369.12,
+    "end": 370.879,
+    "text": "Bye bye everyone!",
+    "speaker": "Sam"
+  }
+]

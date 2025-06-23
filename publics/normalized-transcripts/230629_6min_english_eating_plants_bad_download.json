@@ -1,0 +1,458 @@
+[
+  {
+    "start": 0,
+    "end": 7,
+    "text": "This is a download from BBC Learning English. To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 18,
+    "end": 22,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 22,
+    "end": 23,
+    "text": "And I’m Rob.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 23,
+    "end": 27,
+    "text": "Many people these days choose not to eat meat,",
+    "speaker": null
+  },
+  {
+    "start": 27,
+    "end": 31,
+    "text": "and for vegetarians eating animals is wrong.",
+    "speaker": null
+  },
+  {
+    "start": 31,
+    "end": 36,
+    "text": "But what about digging up a carrot or picking apples from a tree? Is that wrong too?",
+    "speaker": null
+  },
+  {
+    "start": 36,
+    "end": 41,
+    "text": "I don't think so, Neil. Plants aren't alive in the same way as animals, are they?",
+    "speaker": null
+  },
+  {
+    "start": 41,
+    "end": 46,
+    "text": "They can't think or feel pain, and even vegetarians need to eat something.",
+    "speaker": null
+  },
+  {
+    "start": 46,
+    "end": 50,
+    "text": "Fruit, vegetables, rice beans, they all come from plants.",
+    "speaker": null
+  },
+  {
+    "start": 50,
+    "end": 54,
+    "text": "It's true that plants don't have brains or nerves,",
+    "speaker": null
+  },
+  {
+    "start": 54,
+    "end": 60,
+    "text": "but according to some scientists, they're much more than passive things rooted in the ground.",
+    "speaker": null
+  },
+  {
+    "start": 60,
+    "end": 67,
+    "text": "Plants can learn and remember, they solve problems, and can even recognise other plants in their family.",
+    "speaker": null
+  },
+  {
+    "start": 67,
+    "end": 72,
+    "text": "So, given the amazing things plants do, is it right to eat them?",
+    "speaker": null
+  },
+  {
+    "start": 72,
+    "end": 74,
+    "text": "That's what we'll be discussing in this programme.",
+    "speaker": null
+  },
+  {
+    "start": 74,
+    "end": 79,
+    "text": "And as usual, we'll be learning some new useful vocabulary as well.",
+    "speaker": null
+  },
+  {
+    "start": 79,
+    "end": 82,
+    "text": "But first, I have a question for you, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 82,
+    "end": 87,
+    "text": "Anyone who's seen cows grazing knows it's usually animals that eat plants.",
+    "speaker": null
+  },
+  {
+    "start": 87,
+    "end": 92,
+    "text": "But some plants have turned the evolutionary tables to eat animals instead.",
+    "speaker": null
+  },
+  {
+    "start": 92,
+    "end": 97,
+    "text": "So, which tropical plant is famous for trapping insects to eat?",
+    "speaker": null
+  },
+  {
+    "start": 97,
+    "end": 104,
+    "text": "Is it A, the corpse flower, B, the American skunk cabbage, or C, the Venus fly trap?",
+    "speaker": null
+  },
+  {
+    "start": 104,
+    "end": 107,
+    "text": "I think it’s c) the Venus fly trap.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 107,
+    "end": 111,
+    "text": "Ok, Neil, we'll find out if that's the right answer later in the programme.",
+    "speaker": null
+  },
+  {
+    "start": 111,
+    "end": 116,
+    "text": "Plants have been on the planet for hundreds of millions of years longer than humans",
+    "speaker": null
+  },
+  {
+    "start": 116,
+    "end": 120,
+    "text": "and have used that time to evolve special skills.",
+    "speaker": null
+  },
+  {
+    "start": 120,
+    "end": 124,
+    "text": "Here's Professor Rick Carbon, a biologist at the University of California,",
+    "speaker": null
+  },
+  {
+    "start": 124,
+    "end": 132,
+    "text": "explaining more to James Wong, botanist and presenter of BBC Radio 4 programme, is eating plants wrong.",
+    "speaker": null
+  },
+  {
+    "start": 132,
+    "end": 137,
+    "text": "Without eyes, plants can perceive a lot of information about light.",
+    "speaker": null
+  },
+  {
+    "start": 137,
+    "end": 142,
+    "text": "Without noses, plants can perceive chemical information.",
+    "speaker": null
+  },
+  {
+    "start": 142,
+    "end": 145,
+    "text": "Without ears, plants can perceive sounds.",
+    "speaker": null
+  },
+  {
+    "start": 145,
+    "end": 151,
+    "text": "And so, we've come to realise that plants are very perceptive about what's going on in their environments.",
+    "speaker": null
+  },
+  {
+    "start": 151,
+    "end": 157,
+    "text": "You could argue for example that plants can perceive most of the senses that humans can.",
+    "speaker": "James Wong"
+  },
+  {
+    "start": 157,
+    "end": 159,
+    "text": "I would agree with that and then some…",
+    "speaker": "and then some"
+  },
+  {
+    "start": 159,
+    "end": 161,
+    "text": "What do you mean, and then some?",
+    "speaker": null
+  },
+  {
+    "start": 161,
+    "end": 168,
+    "text": "Anyone who's had a dog knows that dogs have a much keener sense of smell than humans do.",
+    "speaker": null
+  },
+  {
+    "start": 168,
+    "end": 175,
+    "text": "Anyone who's had a dog knows that dogs have a much keener sense of smell than humans do, and we're now learning that plants are very responsive to chemicals in their environment.",
+    "speaker": "keener"
+  },
+  {
+    "start": 175,
+    "end": 180,
+    "text": "Even without ears, eyes or a nose, plants are very perceptive.",
+    "speaker": null
+  },
+  {
+    "start": 180,
+    "end": 182,
+    "text": "They notice things around them.",
+    "speaker": null
+  },
+  {
+    "start": 182,
+    "end": 187,
+    "text": "In fact, Professor Carbon says that plants perceive as much as humans and then some,",
+    "speaker": null
+  },
+  {
+    "start": 187,
+    "end": 194,
+    "text": "an idiom meaning and even more, which is used to emphasise that what you mentioned before was an understatement.",
+    "speaker": null
+  },
+  {
+    "start": 194,
+    "end": 196,
+    "text": "For example, Bill Gates is rich.",
+    "speaker": null
+  },
+  {
+    "start": 196,
+    "end": 198,
+    "text": "And then some.",
+    "speaker": null
+  },
+  {
+    "start": 198,
+    "end": 204,
+    "text": "Like dogs, plants have a keen sense of smell, which they use to detect chemicals in the air.",
+    "speaker": null
+  },
+  {
+    "start": 204,
+    "end": 207,
+    "text": "Here, keen means powerful and intense.",
+    "speaker": null
+  },
+  {
+    "start": 207,
+    "end": 213,
+    "text": "Okay, so plants can see light and smell the air, but does that mean they're intelligent?",
+    "speaker": null
+  },
+  {
+    "start": 213,
+    "end": 214,
+    "text": "Maybe so.",
+    "speaker": null
+  },
+  {
+    "start": 214,
+    "end": 222,
+    "text": "Studies modelled on the famous Pavlov's dog experiment have trained pea seedlings to find the quickest route to light through a maze,",
+    "speaker": null
+  },
+  {
+    "start": 222,
+    "end": 224,
+    "text": "and remember it, evidence of memory.",
+    "speaker": null
+  },
+  {
+    "start": 224,
+    "end": 231,
+    "text": "In another experiment, potted plants were lined up with routes joining them like a chain of people holding hands.",
+    "speaker": null
+  },
+  {
+    "start": 231,
+    "end": 238,
+    "text": "The plants talk to each other, passing a long information about water and air temperature through their routes.",
+    "speaker": null
+  },
+  {
+    "start": 238,
+    "end": 246,
+    "text": "Like children playing a game where a message is passed on in a whisper through a chain of people becoming distorted in the process,",
+    "speaker": null
+  },
+  {
+    "start": 246,
+    "end": 249,
+    "text": "Distorted means changed from its original form.",
+    "speaker": "Distorted"
+  },
+  {
+    "start": 249,
+    "end": 256,
+    "text": "All this takes brain power, and there's clearly evidence that plants might have some kind of intelligence.",
+    "speaker": null
+  },
+  {
+    "start": 256,
+    "end": 259,
+    "text": "So given all of this, is it wrong to eat them?",
+    "speaker": null
+  },
+  {
+    "start": 259,
+    "end": 266,
+    "text": "That's what James Wong asked Michael Marder, professor of philosophy at the University of the Bass Country,",
+    "speaker": null
+  },
+  {
+    "start": 266,
+    "end": 271,
+    "text": "for his BBC Radio 4 program is eating plants wrong.",
+    "speaker": null
+  },
+  {
+    "start": 271,
+    "end": 273,
+    "text": "Is it wrong to eat plants?",
+    "speaker": "James Wong"
+  },
+  {
+    "start": 273,
+    "end": 281,
+    "text": "It is not in of itself wrong to eat plants, but we have to do so while keeping in mind the context in which we're doing this.",
+    "speaker": null
+  },
+  {
+    "start": 281,
+    "end": 287,
+    "text": "We have to first of all think about what kinds of plants we're eating, what are the parts of those plants?",
+    "speaker": null
+  },
+  {
+    "start": 287,
+    "end": 295,
+    "text": "Are we in fact destroying the entire living being, or just taking certain of its parts such as fruits and leaves",
+    "speaker": null
+  },
+  {
+    "start": 295,
+    "end": 301,
+    "text": "that are not essential to it that can actually fall off without doing harm to the whole organism?",
+    "speaker": null
+  },
+  {
+    "start": 301,
+    "end": 310,
+    "text": "Professor Marder says that eating plants is not wrong in and of itself, when considered alone without taking anything else into account.",
+    "speaker": null
+  },
+  {
+    "start": 310,
+    "end": 318,
+    "text": "But he thinks it's important to remember the context, the situation or circumstances in which something happens.",
+    "speaker": null
+  },
+  {
+    "start": 318,
+    "end": 325,
+    "text": "Picking an apple, for example, is okay because it doesn't kill the tree itself, which can go on to produce more fruit.",
+    "speaker": null
+  },
+  {
+    "start": 325,
+    "end": 331,
+    "text": "It seems plants really are clever – but do they know the answer to your question, Rob?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 331,
+    "end": 336,
+    "text": "Yes, I asked you to name the famous insect eating tropical plant.",
+    "speaker": null
+  },
+  {
+    "start": 336,
+    "end": 338,
+    "text": "And I said it was the Venus flytrap.",
+    "speaker": null
+  },
+  {
+    "start": 338,
+    "end": 341,
+    "text": "Which was the correct answer, well done Neil.",
+    "speaker": null
+  },
+  {
+    "start": 341,
+    "end": 346,
+    "text": "Okay, let's recap the vocabulary we've learned, starting with the adjective perceptive.",
+    "speaker": null
+  },
+  {
+    "start": 346,
+    "end": 349,
+    "text": "Quick to notice and understand things.",
+    "speaker": null
+  },
+  {
+    "start": 349,
+    "end": 356,
+    "text": "The idiom, and then some means ‘and even more’ and is used to show that something has been understated.",
+    "speaker": "and then some"
+  },
+  {
+    "start": 356,
+    "end": 361,
+    "text": "A keen sense of smell, sight or hearing, is powerful and intense.",
+    "speaker": "keen ,"
+  },
+  {
+    "start": 361,
+    "end": 365,
+    "text": "Distorted means changed from its original form.",
+    "speaker": null
+  },
+  {
+    "start": 365,
+    "end": 372,
+    "text": "The phrase in and of itself means when considered alone, without taking anything else into account.",
+    "speaker": "in and of itself"
+  },
+  {
+    "start": 372,
+    "end": 377,
+    "text": "And finally, the context is the general situation in which something happens. Once again, our six minutes are up. Goodbye!",
+    "speaker": "context"
+  },
+  {
+    "start": 377,
+    "end": 379,
+    "text": "Once again, our six minutes are up. Goodbye.",
+    "speaker": null
+  },
+  {
+    "start": 379,
+    "end": 380,
+    "text": "Goodbye!",
+    "speaker": "Rob"
+  }
+]

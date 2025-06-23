@@ -1,0 +1,476 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.6,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.6,
+    "end": 12.56,
+    "text": "6M8English from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 12.56,
+    "end": 15.759,
+    "text": "Hello, this is 6 Minute English and I'm Catherine.",
+    "speaker": null
+  },
+  {
+    "start": 15.759,
+    "end": 16.8,
+    "text": "And I'm Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 16.8,
+    "end": 20.4,
+    "text": "No, Sam. What can you tell us about crypto currencies?",
+    "speaker": null
+  },
+  {
+    "start": 21.28,
+    "end": 25.92,
+    "text": "The word is a combination of crypto from cryptography,",
+    "speaker": null
+  },
+  {
+    "start": 25.92,
+    "end": 30.24,
+    "text": "which is to do with using clever software codes to protect",
+    "speaker": null
+  },
+  {
+    "start": 30.24,
+    "end": 33.92,
+    "text": "computer information and systems and currency,",
+    "speaker": null
+  },
+  {
+    "start": 33.92,
+    "end": 36.32,
+    "text": "which is the money of a particular country.",
+    "speaker": null
+  },
+  {
+    "start": 36.32,
+    "end": 40.16,
+    "text": "So cryptocurrency very simply means code money.",
+    "speaker": null
+  },
+  {
+    "start": 40.88,
+    "end": 45.359,
+    "text": "We usually think of money as notes and coins, which come from a country's bank,",
+    "speaker": null
+  },
+  {
+    "start": 45.359,
+    "end": 48.799,
+    "text": "but a cryptocurrency doesn't have physical money.",
+    "speaker": null
+  },
+  {
+    "start": 48.799,
+    "end": 52.96,
+    "text": "It's purely digital and is not controlled by banks or governments,",
+    "speaker": null
+  },
+  {
+    "start": 52.96,
+    "end": 57.12,
+    "text": "but by the people who have it and very complex computer codes.",
+    "speaker": null
+  },
+  {
+    "start": 57.759,
+    "end": 60,
+    "text": "Perhaps the most well-known is Bitcoin.",
+    "speaker": null
+  },
+  {
+    "start": 60,
+    "end": 63.6,
+    "text": "Well, you seem to know a fair bit about crypto currency actually.",
+    "speaker": null
+  },
+  {
+    "start": 64.48,
+    "end": 69.04,
+    "text": "Anyway, now a new player is joined in the digital money system",
+    "speaker": null
+  },
+  {
+    "start": 69.04,
+    "end": 74,
+    "text": "as Facebook have announced they are launching their own digital currency.",
+    "speaker": null
+  },
+  {
+    "start": 74,
+    "end": 79.04,
+    "text": "They're calling it Libra and we'll be finding a little bit more about this topic in the program.",
+    "speaker": null
+  },
+  {
+    "start": 79.12,
+    "end": 80.72,
+    "text": "But first, a question.",
+    "speaker": null
+  },
+  {
+    "start": 80.72,
+    "end": 85.6,
+    "text": "Now, Sam, you mentioned Bitcoin as a well-known cryptocurrency.",
+    "speaker": null
+  },
+  {
+    "start": 85.6,
+    "end": 90.719,
+    "text": "It was in fact the first cryptocurrency, but when was Bitcoin created?",
+    "speaker": null
+  },
+  {
+    "start": 90.719,
+    "end": 97.12,
+    "text": "Was it a 2008, b 2009 or c 2010?",
+    "speaker": null
+  },
+  {
+    "start": 97.12,
+    "end": 98.88,
+    "text": "I’m going to say 2010.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 98.88,
+    "end": 102,
+    "text": "Okay. Well, I'll reveal the answer later in the program.",
+    "speaker": null
+  },
+  {
+    "start": 102.4,
+    "end": 108.56,
+    "text": "Now, Jemay McKelley is a financial journalist and she was talking on BBC",
+    "speaker": null
+  },
+  {
+    "start": 108.56,
+    "end": 113.519,
+    "text": "Radio Program Money Box Live about the planned for Libra.",
+    "speaker": null
+  },
+  {
+    "start": 113.519,
+    "end": 120.48,
+    "text": "She says it's not really a cryptocurrency because it's actually backed up by a number of real currencies.",
+    "speaker": null
+  },
+  {
+    "start": 120.48,
+    "end": 122.719,
+    "text": "So which currencies does she mention?",
+    "speaker": null
+  },
+  {
+    "start": 123.92,
+    "end": 129.52,
+    "text": "A cryptocurrency is normally subject to the whims of crypto markets, which are notoriously",
+    "speaker": null
+  },
+  {
+    "start": 129.52,
+    "end": 134.319,
+    "text": "volatile, whereas Libra is kept stable by being backed up by a basket of currencies.",
+    "speaker": null
+  },
+  {
+    "start": 134.319,
+    "end": 137.92,
+    "text": "In this case, the dollar or the pound, the euro in this which, Frank,",
+    "speaker": null
+  },
+  {
+    "start": 138.56,
+    "end": 143.12,
+    "text": "so which currencies did she say were backing up a Libra, Sam?",
+    "speaker": null
+  },
+  {
+    "start": 143.12,
+    "end": 149.039,
+    "text": "She said that the dollar, the pound, the euro and Swiss, Frank, were the currencies that would",
+    "speaker": null
+  },
+  {
+    "start": 149.039,
+    "end": 150.64,
+    "text": "be backing up Libra.",
+    "speaker": null
+  },
+  {
+    "start": 150.64,
+    "end": 154.08,
+    "text": "And this is different from regular crypto currencies, isn't it?",
+    "speaker": null
+  },
+  {
+    "start": 154.08,
+    "end": 160.08,
+    "text": "Yes, cryptocurrencies are completely independent of financial institutions and other currencies.",
+    "speaker": "cryptocurrenciescurrencies"
+  },
+  {
+    "start": 160.08,
+    "end": 162.24,
+    "text": "And this can make them risky, can’t it?",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 162.24,
+    "end": 167.759,
+    "text": "Yes. She says that cryptocurrency markets are notoriously volatile,",
+    "speaker": null
+  },
+  {
+    "start": 167.759,
+    "end": 171.199,
+    "text": "something that is volatile can change very quickly.",
+    "speaker": null
+  },
+  {
+    "start": 171.199,
+    "end": 177.519,
+    "text": "When it comes to currency, it means that its value can go up or down by a large amount",
+    "speaker": null
+  },
+  {
+    "start": 177.519,
+    "end": 179.759,
+    "text": "over a very short period of time.",
+    "speaker": null
+  },
+  {
+    "start": 179.759,
+    "end": 185.28,
+    "text": "And it's described as notoriously volatile because this has actually happened a few times",
+    "speaker": null
+  },
+  {
+    "start": 185.28,
+    "end": 192,
+    "text": "in the past. Something that's notorious is well known or famous, but for a negative reason.",
+    "speaker": null
+  },
+  {
+    "start": 192,
+    "end": 197.12,
+    "text": "So the value of a currency going up and down in a volatile way, that's not positive.",
+    "speaker": null
+  },
+  {
+    "start": 197.12,
+    "end": 202.8,
+    "text": "If you want to take the risk you could make a lot of money, but you could also lose a lot of money - more than you invested.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 202.8,
+    "end": 208.8,
+    "text": "money more than you invested. So why are crypto currencies so volatile?",
+    "speaker": null
+  },
+  {
+    "start": 208.8,
+    "end": 214.08,
+    "text": "Most currencies are reasonably stable. This is the opposite of volatile.",
+    "speaker": null
+  },
+  {
+    "start": 214.08,
+    "end": 217.12,
+    "text": "They don't change a lot over a short period of time.",
+    "speaker": null
+  },
+  {
+    "start": 217.12,
+    "end": 223.2,
+    "text": "There can be big changes, but usually governments and banks control currencies to prevent it.",
+    "speaker": null
+  },
+  {
+    "start": 223.2,
+    "end": 226.48,
+    "text": "Cryptocurrencies don't have those controls.",
+    "speaker": null
+  },
+  {
+    "start": 226.479,
+    "end": 232.719,
+    "text": "What Jamei McKelley said was that they're subject to the whims of the crypto markets.",
+    "speaker": null
+  },
+  {
+    "start": 232.719,
+    "end": 237.759,
+    "text": "A whim is an unpredictable or irrational decision or trend.",
+    "speaker": null
+  },
+  {
+    "start": 237.759,
+    "end": 244.479,
+    "text": "And if you are subject to the whims of something or someone, it means that metaphorically,",
+    "speaker": null
+  },
+  {
+    "start": 244.479,
+    "end": 251.439,
+    "text": "you're a passenger in a self-driving car which may decide just to drive off the edge of a cliff.",
+    "speaker": null
+  },
+  {
+    "start": 251.439,
+    "end": 256.079,
+    "text": "So it might be an exciting ride, but it could end in disaster.",
+    "speaker": null
+  },
+  {
+    "start": 256.56,
+    "end": 261.28,
+    "text": "Right, it’s time now to get the answer to the question I asked at the beginning of the programme. Bitcoin was the first cryptocurrency, but when was it created? Was it:",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 261.28,
+    "end": 268.24,
+    "text": "Bitcoin was the first cryptocurrency, but when was it created? Was it a 2008,",
+    "speaker": null
+  },
+  {
+    "start": 268.24,
+    "end": 271.84,
+    "text": "B 2009, C 2010?",
+    "speaker": null
+  },
+  {
+    "start": 271.84,
+    "end": 274.56,
+    "text": "I said 2010, but I’m not really sure.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 274.56,
+    "end": 280.96,
+    "text": "And you're absolutely wrong. The correct answer is 2009, so no look for you this time.",
+    "speaker": null
+  },
+  {
+    "start": 280.96,
+    "end": 284.319,
+    "text": "But congratulations to everyone who did get that right.",
+    "speaker": null
+  },
+  {
+    "start": 284.319,
+    "end": 289.04,
+    "text": "Well anyway, let's round off today with a review of today's vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 289.599,
+    "end": 295.92,
+    "text": "First off there is cryptography which is the use of special codes to keep computer systems and content safe.",
+    "speaker": "cryptography"
+  },
+  {
+    "start": 295.92,
+    "end": 301.68,
+    "text": "and contents safe. A currency is the money of a particular country. For example, in the UK,",
+    "speaker": null
+  },
+  {
+    "start": 301.68,
+    "end": 306.959,
+    "text": "we have the pound in the US that is a dollar, and in many countries in Europe, the currency is",
+    "speaker": null
+  },
+  {
+    "start": 306.959,
+    "end": 313.439,
+    "text": "the euro. Cryptocurrency is a combination of cryptography and currency, and it's used for a",
+    "speaker": null
+  },
+  {
+    "start": 313.439,
+    "end": 320.319,
+    "text": "Cryptocurrency is a combination of cryptography and currency and it’s used for a finance system that is based on secure digital coins that are not connected to banks or governments.",
+    "speaker": "Cryptocurrency cryptographycurrency"
+  },
+  {
+    "start": 321.04,
+    "end": 327.439,
+    "text": "We then had the expression subject to the whims of. Whims are unpredictable decisions,",
+    "speaker": null
+  },
+  {
+    "start": 327.439,
+    "end": 333.519,
+    "text": "and if you're subject to them, it means you can't control them. You have no choice but to go",
+    "speaker": null
+  },
+  {
+    "start": 333.519,
+    "end": 340.399,
+    "text": "in the direction those whims lead. This means that the value of cryptocurrencies are notoriously",
+    "speaker": null
+  },
+  {
+    "start": 340.399,
+    "end": 346.879,
+    "text": "This means that the value of cryptocurrencies are notoriously volatile. They have a history of going up or down in value by large amounts and very quickly. And that’s not good.",
+    "speaker": "notoriously volatile"
+  },
+  {
+    "start": 346.879,
+    "end": 352,
+    "text": "And that's not good. Well, it might be good if it goes up. True. But if you want less risk,",
+    "speaker": null
+  },
+  {
+    "start": 352,
+    "end": 357.679,
+    "text": "But if you want less risk, if you want your currency to be the opposite of volatile, if you want it, in other words, to be stable, then maybe cryptocurrencies are not for you.",
+    "speaker": "volatilestablecryptocurrencies"
+  },
+  {
+    "start": 357.679,
+    "end": 364.639,
+    "text": "then maybe crypto currencies are not for you. Well, we are subject to the whims of our schedule,",
+    "speaker": null
+  },
+  {
+    "start": 364.639,
+    "end": 370,
+    "text": "which means our six minutes are up. We look forward to your company again soon. Bye for now.",
+    "speaker": null
+  },
+  {
+    "start": 370,
+    "end": 371.6,
+    "text": "Bye!",
+    "speaker": "Catherine"
+  },
+  {
+    "start": 371.6,
+    "end": 374.8,
+    "text": "Six-minute English from the BBC.",
+    "speaker": null
+  }
+]

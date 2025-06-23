@@ -1,0 +1,398 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.6,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 12.56,
+    "end": 16.48,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 16.48,
+    "end": 20.559,
+    "text": "And I’m Sam – still working from home, as you can hear. But for many, the return to the office has begun.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 20.559,
+    "end": 24.24,
+    "text": "But for many, the return to the office has begun.",
+    "speaker": null
+  },
+  {
+    "start": 24.24,
+    "end": 29.679,
+    "text": "And to make things safe, new thermal cameras are being installed in some workplaces. They measure body temperature to screen for coronavirus.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 30,
+    "end": 34.159,
+    "text": "they measure body temperature to screen for coronavirus.",
+    "speaker": null
+  },
+  {
+    "start": 34.159,
+    "end": 40.799,
+    "text": "After weeks of working at home the return to the office is slowly getting underway in a number of countries.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 40.799,
+    "end": 46.159,
+    "text": "countries. But workplaces are having to change in this coronavirus era.",
+    "speaker": null
+  },
+  {
+    "start": 46.159,
+    "end": 52.079,
+    "text": "Lots of companies are rushing to install technology to make offices and workplaces safer.",
+    "speaker": null
+  },
+  {
+    "start": 52.799,
+    "end": 59.28,
+    "text": "Sensors that monitor our movements, smartphone apps that alert us if we get too close to workmates,",
+    "speaker": null
+  },
+  {
+    "start": 59.28,
+    "end": 63.84,
+    "text": "and even devices that take our temperature could all become the new normal.",
+    "speaker": null
+  },
+  {
+    "start": 64.48,
+    "end": 69.76,
+    "text": "That's a phrase we hear a lot these days, meaning a previously unfamiliar situation that has",
+    "speaker": null
+  },
+  {
+    "start": 69.76,
+    "end": 76.079,
+    "text": "become usual and expected. In this programme, we'll take a look at how this technology works,",
+    "speaker": null
+  },
+  {
+    "start": 76.079,
+    "end": 79.84,
+    "text": "and ask if it really is the answer we're looking for.",
+    "speaker": null
+  },
+  {
+    "start": 79.84,
+    "end": 85.599,
+    "text": "But first, today's quiz question. The thermal cameras I mentioned screen for coronavirus",
+    "speaker": null
+  },
+  {
+    "start": 85.599,
+    "end": 91.039,
+    "text": "by recording skin temperature in the area of the body, which most closely resembles the",
+    "speaker": null
+  },
+  {
+    "start": 91.039,
+    "end": 99.839,
+    "text": "internal body temperature. But which area is that? Is it A, the I, B, the ear, or see the nose?",
+    "speaker": null
+  },
+  {
+    "start": 99.839,
+    "end": 102.079,
+    "text": "I'll say A, the I.",
+    "speaker": null
+  },
+  {
+    "start": 102.079,
+    "end": 104.959,
+    "text": "Okay, Sam. We'll find out later if you were right.",
+    "speaker": null
+  },
+  {
+    "start": 105.599,
+    "end": 111.599,
+    "text": "Now, as employees slowly return to work, tech companies are busy finding ways for them to do so",
+    "speaker": null
+  },
+  {
+    "start": 111.599,
+    "end": 118.319,
+    "text": "safely. One such company, MicroShare, is managed by Charles Pomell. He spoke to the BBC World",
+    "speaker": null
+  },
+  {
+    "start": 118.319,
+    "end": 122,
+    "text": "Service programme TechTent to explain a possible solution.",
+    "speaker": null
+  },
+  {
+    "start": 123.28,
+    "end": 129.039,
+    "text": "So the technology that we are offering is using Bluetooth wristbands or tags that people are",
+    "speaker": null
+  },
+  {
+    "start": 129.039,
+    "end": 133.919,
+    "text": "wearing within the workplace, which detects proximity events. When the proximity event has been",
+    "speaker": null
+  },
+  {
+    "start": 133.919,
+    "end": 140.639,
+    "text": "recorded, it's been saved by the company in case they need to further down the line, retrace the",
+    "speaker": null
+  },
+  {
+    "start": 140.639,
+    "end": 145.759,
+    "text": "steps of a certain person who has been declared as infected and inform anyone else they may have",
+    "speaker": null
+  },
+  {
+    "start": 145.759,
+    "end": 153.359,
+    "text": "been in contact with. One important way to control coronavirus involves contact tracing. This means",
+    "speaker": null
+  },
+  {
+    "start": 153.359,
+    "end": 158.879,
+    "text": "that someone who tests positive for the disease informs everyone else they've been in contact with.",
+    "speaker": null
+  },
+  {
+    "start": 159.439,
+    "end": 165.759,
+    "text": "MicroShare's system for this uses Bluetooth. Technology that allows computers, mobile phones and",
+    "speaker": null
+  },
+  {
+    "start": 165.759,
+    "end": 170.639,
+    "text": "other devices to communicate with each other without being connected by wires.",
+    "speaker": null
+  },
+  {
+    "start": 170.639,
+    "end": 178.239,
+    "text": "Employees wear Bluetooth wristbands which register when workers come into close proximity – how near a person is to another person.",
+    "speaker": "Bluetoothproximity"
+  },
+  {
+    "start": 178.239,
+    "end": 184.399,
+    "text": "How nearer person is to another person. Anyone who has been close to a workmate will then know",
+    "speaker": null
+  },
+  {
+    "start": 184.399,
+    "end": 190.639,
+    "text": "Anyone who has been close to a workmate will then know they have to take action if that person is found to have coronavirus later down the line – in the future.",
+    "speaker": "down the line"
+  },
+  {
+    "start": 190.639,
+    "end": 196,
+    "text": "Wearing wristbands, monitoring data on smartphones and being recorded by cameras – it all feels like quite a big invasion of privacy, doesn’t it?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 196.639,
+    "end": 200.719,
+    "text": "it all feels like quite a big invasion of privacy, doesn't it?",
+    "speaker": null
+  },
+  {
+    "start": 201.199,
+    "end": 207.039,
+    "text": "It certainly does. And although some argue that such measures are necessary in these unprecedented",
+    "speaker": null
+  },
+  {
+    "start": 207.039,
+    "end": 212.879,
+    "text": "times, others are worried about the possible consequences. Here's human rights lawyer Ravie",
+    "speaker": null
+  },
+  {
+    "start": 212.879,
+    "end": 218.799,
+    "text": "Nyke with a warning. From a human rights perspective, you have to try to ask, are you trying to use",
+    "speaker": null
+  },
+  {
+    "start": 218.8,
+    "end": 223.68,
+    "text": "tech for tech's sake? Is this actually going to facilitate an understanding of who is safe to go",
+    "speaker": null
+  },
+  {
+    "start": 223.68,
+    "end": 228.88,
+    "text": "back to work or not? And if not, what's the necessity of this? Because it's such a significant",
+    "speaker": null
+  },
+  {
+    "start": 228.88,
+    "end": 234.32,
+    "text": "interference with basic human rights, there has to be a high level of evidential justification",
+    "speaker": null
+  },
+  {
+    "start": 234.32,
+    "end": 237.04,
+    "text": "to deploy this type of technologies. And I just don't think it's there.",
+    "speaker": null
+  },
+  {
+    "start": 238.64,
+    "end": 243.92,
+    "text": "Ravie questions whether these devices will actually help identify who can return to work,",
+    "speaker": null
+  },
+  {
+    "start": 243.919,
+    "end": 249.519,
+    "text": "whether the technology is being used for its own sake. An expression meaning doing something",
+    "speaker": null
+  },
+  {
+    "start": 249.519,
+    "end": 253.359,
+    "text": "because it is interesting and enjoyable, not because you need to.",
+    "speaker": null
+  },
+  {
+    "start": 253.839,
+    "end": 259.199,
+    "text": "Ravie's work as a lawyer involves finding proof that something is right or wrong.",
+    "speaker": null
+  },
+  {
+    "start": 259.839,
+    "end": 265.519,
+    "text": "If people's human rights are being interfered with, he thinks there has to be evidential",
+    "speaker": null
+  },
+  {
+    "start": 265.519,
+    "end": 272.48,
+    "text": "justification. Explanation of the reasons why something is the right thing to do based on evidence.",
+    "speaker": null
+  },
+  {
+    "start": 273.04,
+    "end": 279.12,
+    "text": "Like the evidence from screening body temperature. Which brings us back to today's quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 279.12,
+    "end": 284.8,
+    "text": "…which bring us back to today’s quiz question. Remember I asked you which part of the body is scanned by thermal cameras to measure body temperature.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 285.52,
+    "end": 289.04,
+    "text": "And I said A, the eye. And you were absolutely right.",
+    "speaker": null
+  },
+  {
+    "start": 290.64,
+    "end": 295.92,
+    "text": "And you were absolutely right! There’s a small area of the eye close to the tear ducts which is the most accurate part of the skin for measuring body temperature.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 295.92,
+    "end": 301.68,
+    "text": "skin for measuring body temperature. Oh well there you go. We've been discussing how thermal",
+    "speaker": null
+  },
+  {
+    "start": 301.68,
+    "end": 308.4,
+    "text": "cameras and other workplace devices being used to prevent coronavirus are becoming the new normal,",
+    "speaker": null
+  },
+  {
+    "start": 308.4,
+    "end": 312.879,
+    "text": "a previously unfamiliar situation that is becoming normalized.",
+    "speaker": null
+  },
+  {
+    "start": 312.879,
+    "end": 318.96,
+    "text": "Some of these devices are wristbands with Bluetooth technology allowing computers and smartphones",
+    "speaker": null
+  },
+  {
+    "start": 318.96,
+    "end": 324.879,
+    "text": "to communicate remotely without wires. They can identify work colleagues who have been in close",
+    "speaker": null
+  },
+  {
+    "start": 324.879,
+    "end": 330.319,
+    "text": "proximity in other words near to each other. That will be helpful if one of them tests positive",
+    "speaker": null
+  },
+  {
+    "start": 330.319,
+    "end": 335.519,
+    "text": "That will be helpful if one of them tests positive for coronavirus further down the line – at some point in the future.",
+    "speaker": "down the line"
+  },
+  {
+    "start": 335.519,
+    "end": 340.719,
+    "text": "The coronavirus pandemic has caused massive changes in workplaces around the world,",
+    "speaker": null
+  },
+  {
+    "start": 340.719,
+    "end": 346.639,
+    "text": "but some critics are concerned that contact tracing technology is being used for its own sake",
+    "speaker": null
+  },
+  {
+    "start": 346.639,
+    "end": 351.519,
+    "text": "because it's interesting and enjoyable to do rather than being absolutely necessary.",
+    "speaker": null
+  },
+  {
+    "start": 351.519,
+    "end": 357.6,
+    "text": "And since much of the new tech invades personal privacy, it should only be introduced with",
+    "speaker": null
+  },
+  {
+    "start": 357.68,
+    "end": 364.16,
+    "text": "evidential justification. Explanation of why it is the right thing to do based on evidence.",
+    "speaker": null
+  },
+  {
+    "start": 364.8,
+    "end": 370.16,
+    "text": "Unfortunately that's all we've got time for, but remember to join us again. Bye for now. Bye.",
+    "speaker": null
+  }
+]

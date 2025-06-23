@@ -1,0 +1,752 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.6,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.6,
+    "end": 8.24,
+    "text": "6 Minute English",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 11.12,
+    "text": "from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 12.4,
+    "end": 16.32,
+    "text": "Hello and welcome to 6 Minute English. I'm Sophie…",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 16.32,
+    "end": 20.08,
+    "text": "And I'm Neil. I was watching the news the other day, Sophie.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 20.08,
+    "end": 21.679,
+    "text": "Learn anything interesting?",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 21.679,
+    "end": 26.24,
+    "text": "Yes actually. UK scientists have been authorised by the government",
+    "speaker": null
+  },
+  {
+    "start": 26.24,
+    "end": 29.92,
+    "text": "to genetically modify human embryos for research.",
+    "speaker": null
+  },
+  {
+    "start": 30.4,
+    "end": 34.8,
+    "text": "What they can't do though is implant modified embryos into women.",
+    "speaker": null
+  },
+  {
+    "start": 34.8,
+    "end": 36.96,
+    "text": "They talked a lot about gene editing.",
+    "speaker": null
+  },
+  {
+    "start": 36.96,
+    "end": 39.28,
+    "text": "Can you explain to us what gene editing is?",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 39.28,
+    "end": 43.84,
+    "text": "Um, I think this means there are these letters in a code,",
+    "speaker": null
+  },
+  {
+    "start": 43.84,
+    "end": 47.84,
+    "text": "A, B, C, something. I can't remember exactly.",
+    "speaker": null
+  },
+  {
+    "start": 47.84,
+    "end": 52.96,
+    "text": "Gene editing is the ability to manipulate or control DNA.",
+    "speaker": null
+  },
+  {
+    "start": 52.96,
+    "end": 56.48,
+    "text": "And in case you didn't know, DNA is short for",
+    "speaker": null
+  },
+  {
+    "start": 56.479,
+    "end": 58.959,
+    "text": "Deoxyribonuclic Acid.",
+    "speaker": null
+  },
+  {
+    "start": 58.959,
+    "end": 62,
+    "text": "This is a substance in the cells of animals and plants",
+    "speaker": null
+  },
+  {
+    "start": 62,
+    "end": 64.239,
+    "text": "that contains genetic information.",
+    "speaker": null
+  },
+  {
+    "start": 64.239,
+    "end": 67.759,
+    "text": "And a gene is part of the DNA in the cell that controls",
+    "speaker": null
+  },
+  {
+    "start": 67.759,
+    "end": 71.2,
+    "text": "the physical development and behaviour of a plant",
+    "speaker": null
+  },
+  {
+    "start": 71.2,
+    "end": 74.479,
+    "text": "or animal and is passed on from its parents.",
+    "speaker": null
+  },
+  {
+    "start": 74.479,
+    "end": 77.12,
+    "text": "Phew! Thanks for the science lesson, Sophie.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 77.12,
+    "end": 78,
+    "text": "You're welcome.",
+    "speaker": null
+  },
+  {
+    "start": 78,
+    "end": 79.92,
+    "text": "Now here's a question for you.",
+    "speaker": null
+  },
+  {
+    "start": 79.92,
+    "end": 83.519,
+    "text": "Which science fiction film anticipates gene editing",
+    "speaker": null
+  },
+  {
+    "start": 83.519,
+    "end": 88.079,
+    "text": "in a dystopian society where humans are genetically engineered?",
+    "speaker": null
+  },
+  {
+    "start": 88.079,
+    "end": 90.719,
+    "text": "a) Robocop",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 90.719,
+    "end": 94.159,
+    "text": "or c) Blade Runner",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 94.159,
+    "end": 96.56,
+    "text": "Hmm, I don't really understand the question,",
+    "speaker": null
+  },
+  {
+    "start": 96.56,
+    "end": 99.84,
+    "text": "but I'm going to say C, Blade Runner.",
+    "speaker": null
+  },
+  {
+    "start": 99.84,
+    "end": 100.959,
+    "text": "dystopian",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 100.959,
+    "end": 104,
+    "text": "Dystopian means an imaginary society",
+    "speaker": null
+  },
+  {
+    "start": 104,
+    "end": 106.64,
+    "text": "where people aren't happy and afraid.",
+    "speaker": null
+  },
+  {
+    "start": 106.64,
+    "end": 110.319,
+    "text": "Well, moving on, let's listen to BBC Journalist",
+    "speaker": null
+  },
+  {
+    "start": 110.319,
+    "end": 114.559,
+    "text": "Fergus Walsh talking about how gene editing works.",
+    "speaker": null
+  },
+  {
+    "start": 114.559,
+    "end": 118.079,
+    "text": "Think of gene editing as a molecular satnav.",
+    "speaker": null
+  },
+  {
+    "start": 118.079,
+    "end": 120.959,
+    "text": "It scans the DNA searching for the error.",
+    "speaker": null
+  },
+  {
+    "start": 120.959,
+    "end": 125.199,
+    "text": "Then it uses molecular scissors to snip through both strands",
+    "speaker": null
+  },
+  {
+    "start": 125.199,
+    "end": 127.439,
+    "text": "which switches off the faulty gene.",
+    "speaker": null
+  },
+  {
+    "start": 127.439,
+    "end": 132.719,
+    "text": "Or it can repair the code by inserting a healthy copy of the gene.",
+    "speaker": null
+  },
+  {
+    "start": 132.719,
+    "end": 135.599,
+    "text": "These techniques raise the prospect of treating",
+    "speaker": null
+  },
+  {
+    "start": 135.599,
+    "end": 138.4,
+    "text": "even curing some genetic diseases.",
+    "speaker": null
+  },
+  {
+    "start": 138.4,
+    "end": 140.079,
+    "text": "And it's not science fiction.",
+    "speaker": null
+  },
+  {
+    "start": 140.639,
+    "end": 145.12,
+    "text": "So DNA is a set of instructions for how our bodies work.",
+    "speaker": null
+  },
+  {
+    "start": 145.12,
+    "end": 148.639,
+    "text": "Written using a chemical code of four letters,",
+    "speaker": null
+  },
+  {
+    "start": 148.639,
+    "end": 151.519,
+    "text": "A, T, C, G.",
+    "speaker": null
+  },
+  {
+    "start": 151.519,
+    "end": 153.919,
+    "text": "But sometimes the code contains mistakes.",
+    "speaker": null
+  },
+  {
+    "start": 153.919,
+    "end": 156.799,
+    "text": "Yes, you find spelling mistakes by scanning",
+    "speaker": null
+  },
+  {
+    "start": 156.799,
+    "end": 158.799,
+    "text": "or searching through the DNA.",
+    "speaker": null
+  },
+  {
+    "start": 158.799,
+    "end": 161.599,
+    "text": "Then you snip or cut out the mistake",
+    "speaker": null
+  },
+  {
+    "start": 161.599,
+    "end": 165.919,
+    "text": "or faulty gene from the code using molecular scissors.",
+    "speaker": null
+  },
+  {
+    "start": 165.919,
+    "end": 169.12,
+    "text": "Faulty, by the way, means something that isn't working properly.",
+    "speaker": null
+  },
+  {
+    "start": 169.2,
+    "end": 171.2,
+    "text": "Like the faulty breaks on my bike.",
+    "speaker": null
+  },
+  {
+    "start": 171.2,
+    "end": 173.2,
+    "text": "That sounds really dangerous, Neil!",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 173.2,
+    "end": 176,
+    "text": "Yeah, but I'm more worried about my faulty genes.",
+    "speaker": null
+  },
+  {
+    "start": 176,
+    "end": 179.68,
+    "text": "Yeah, but I'm more worried about my faulty genes. I might have all sorts of genetic mistakes inside me.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 179.68,
+    "end": 181.439,
+    "text": "That wouldn't surprise me.",
+    "speaker": null
+  },
+  {
+    "start": 181.439,
+    "end": 184.08,
+    "text": "But you've actually touched on a serious point.",
+    "speaker": null
+  },
+  {
+    "start": 184.08,
+    "end": 186.4,
+    "text": "Latest research suggests all our bodies",
+    "speaker": null
+  },
+  {
+    "start": 186.4,
+    "end": 188.56,
+    "text": "do contain genetic mistakes,",
+    "speaker": null
+  },
+  {
+    "start": 188.56,
+    "end": 190.879,
+    "text": "some of which could cause disease.",
+    "speaker": null
+  },
+  {
+    "start": 190.879,
+    "end": 194.159,
+    "text": "And as reporter Fergus Walsh said at the end of the clip,",
+    "speaker": null
+  },
+  {
+    "start": 194.159,
+    "end": 196.96,
+    "text": "gene editing could be important for treating",
+    "speaker": null
+  },
+  {
+    "start": 196.96,
+    "end": 200.56,
+    "text": "or even curing inherited genetic diseases.",
+    "speaker": null
+  },
+  {
+    "start": 200.56,
+    "end": 204.8,
+    "text": "For patients with blood, immune, muscle or skin disorders,",
+    "speaker": null
+  },
+  {
+    "start": 204.8,
+    "end": 207.52,
+    "text": "it offers the possibility that their faulty cells",
+    "speaker": null
+  },
+  {
+    "start": 207.52,
+    "end": 211.92,
+    "text": "could be removed or changed in the lab and then put back.",
+    "speaker": null
+  },
+  {
+    "start": 211.92,
+    "end": 215.2,
+    "text": "That does sound amazing, but is there a catch?",
+    "speaker": null
+  },
+  {
+    "start": 215.2,
+    "end": 218.24,
+    "text": "And that means a problem or drawback.",
+    "speaker": null
+  },
+  {
+    "start": 218.24,
+    "end": 221.76,
+    "text": "Yes, some people think that if editing the genes",
+    "speaker": null
+  },
+  {
+    "start": 221.76,
+    "end": 224.719,
+    "text": "of a human embryo is allowed for curing disease,",
+    "speaker": null
+  },
+  {
+    "start": 224.719,
+    "end": 227.599,
+    "text": "this will lead to editing the genes of embryos",
+    "speaker": null
+  },
+  {
+    "start": 227.599,
+    "end": 230,
+    "text": "for reasons other than health.",
+    "speaker": null
+  },
+  {
+    "start": 230,
+    "end": 232.24,
+    "text": "Let's listen to Marcy Dinovsky,",
+    "speaker": null
+  },
+  {
+    "start": 232.24,
+    "end": 235.039,
+    "text": "Executive Director of the Center for Genetics",
+    "speaker": null
+  },
+  {
+    "start": 235.039,
+    "end": 237.199,
+    "text": "and Society in California,",
+    "speaker": null
+  },
+  {
+    "start": 237.199,
+    "end": 239.12,
+    "text": "talking about her concerns.",
+    "speaker": null
+  },
+  {
+    "start": 240.079,
+    "end": 241.12,
+    "text": "It's too risky.",
+    "speaker": null
+  },
+  {
+    "start": 241.12,
+    "end": 242,
+    "text": "We don't need it.",
+    "speaker": null
+  },
+  {
+    "start": 242,
+    "end": 244.159,
+    "text": "There are other ways to have healthy children.",
+    "speaker": null
+  },
+  {
+    "start": 244.159,
+    "end": 246.319,
+    "text": "And it would open the door, possibly,",
+    "speaker": null
+  },
+  {
+    "start": 246.319,
+    "end": 249.12,
+    "text": "to a world of genetic calves and have knots.",
+    "speaker": null
+  },
+  {
+    "start": 249.12,
+    "end": 250.639,
+    "text": "We don't need more inequality.",
+    "speaker": null
+  },
+  {
+    "start": 250.639,
+    "end": 252.639,
+    "text": "We don't need more discrimination in the world.",
+    "speaker": null
+  },
+  {
+    "start": 253.439,
+    "end": 256.479,
+    "text": "An embryo, by the way, is an animal or human",
+    "speaker": null
+  },
+  {
+    "start": 256.479,
+    "end": 259.12,
+    "text": "starting to develop inside its mother.",
+    "speaker": null
+  },
+  {
+    "start": 259.12,
+    "end": 261.839,
+    "text": "Marcy Dinovsky is against gene editing",
+    "speaker": null
+  },
+  {
+    "start": 261.839,
+    "end": 264.959,
+    "text": "because it may be used to create designer babies",
+    "speaker": null
+  },
+  {
+    "start": 264.959,
+    "end": 267.439,
+    "text": "or babies whose genes have been selected",
+    "speaker": null
+  },
+  {
+    "start": 267.439,
+    "end": 270.24,
+    "text": "to have certain desirable characteristics.",
+    "speaker": null
+  },
+  {
+    "start": 270.24,
+    "end": 274.399,
+    "text": "She says it may open the door or make it possible,",
+    "speaker": null
+  },
+  {
+    "start": 274.399,
+    "end": 278.479,
+    "text": "a situation where embryos are genetically enhanced",
+    "speaker": null
+  },
+  {
+    "start": 278.479,
+    "end": 280.959,
+    "text": "or improved to be more intelligent",
+    "speaker": null
+  },
+  {
+    "start": 280.959,
+    "end": 283.519,
+    "text": "or physically stronger, for example.",
+    "speaker": null
+  },
+  {
+    "start": 283.519,
+    "end": 286.239,
+    "text": "And this will lead to more discrimination in the world,",
+    "speaker": null
+  },
+  {
+    "start": 286.239,
+    "end": 289.439,
+    "text": "And this will lead to more discrimination in the world – which means treating some people less fairly than others…",
+    "speaker": "discrimination"
+  },
+  {
+    "start": 289.439,
+    "end": 291.359,
+    "text": "Which is something that science fiction",
+    "speaker": null
+  },
+  {
+    "start": 291.359,
+    "end": 293.519,
+    "text": "has been predicting for many years.",
+    "speaker": null
+  },
+  {
+    "start": 293.519,
+    "end": 297.519,
+    "text": "It's that dystopian society we were discussing earlier, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 297.519,
+    "end": 300.159,
+    "text": "Which science-fiction film anticipates",
+    "speaker": null
+  },
+  {
+    "start": 300.159,
+    "end": 302.959,
+    "text": "gene editing in a dystopian society",
+    "speaker": null
+  },
+  {
+    "start": 302.959,
+    "end": 305.839,
+    "text": "where humans are genetically engineered?",
+    "speaker": null
+  },
+  {
+    "start": 305.839,
+    "end": 309.519,
+    "text": "Is it a Robocop, B, Gatica,",
+    "speaker": null
+  },
+  {
+    "start": 309.519,
+    "end": 311.519,
+    "text": "or C, Blade Runner?",
+    "speaker": null
+  },
+  {
+    "start": 311.519,
+    "end": 314.159,
+    "text": "And I said c) Blade Runner.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 314.159,
+    "end": 315.68,
+    "text": "Sorry, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 315.68,
+    "end": 317.919,
+    "text": "It was B, Gatica.",
+    "speaker": null
+  },
+  {
+    "start": 317.919,
+    "end": 320.319,
+    "text": "This 1997 sci-fi film",
+    "speaker": null
+  },
+  {
+    "start": 320.319,
+    "end": 322.799,
+    "text": "centers on the character Vincent Freeman,",
+    "speaker": null
+  },
+  {
+    "start": 322.799,
+    "end": 324.959,
+    "text": "who wasn't genetically engineered,",
+    "speaker": null
+  },
+  {
+    "start": 324.959,
+    "end": 329.439,
+    "text": "but is able to buy the genetic identity of another man",
+    "speaker": null
+  },
+  {
+    "start": 329.439,
+    "end": 333.359,
+    "text": "in order to pursue his dream of traveling into space.",
+    "speaker": null
+  },
+  {
+    "start": 333.359,
+    "end": 336.319,
+    "text": "The film's title uses the letters",
+    "speaker": null
+  },
+  {
+    "start": 336.319,
+    "end": 340.719,
+    "text": "G, A, T, and C, which are the four chemical codes",
+    "speaker": null
+  },
+  {
+    "start": 340.719,
+    "end": 342.959,
+    "text": "making up DNA.",
+    "speaker": null
+  },
+  {
+    "start": 342.959,
+    "end": 347.199,
+    "text": "Now here are today's words:",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 347.199,
+    "end": 354.399,
+    "text": "Manipulate, DNA, gene dystopian, scanning,",
+    "speaker": null
+  },
+  {
+    "start": 354.399,
+    "end": 359.439,
+    "text": "snip, faulty, catch embryo.",
+    "speaker": null
+  },
+  {
+    "start": 359.439,
+    "end": 362.48,
+    "text": "designer babies",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 362.48,
+    "end": 365.36,
+    "text": "discrimination",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 365.36,
+    "end": 367.6,
+    "text": "Well, that's the end of today's 6 Minute English. Please do join us again soon!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 367.6,
+    "end": 369.28,
+    "text": "Please do join us again soon.",
+    "speaker": null
+  },
+  {
+    "start": 369.28,
+    "end": 369.84,
+    "text": "Goodbye.",
+    "speaker": null
+  },
+  {
+    "start": 369.84,
+    "end": 371.28,
+    "text": "Bye.",
+    "speaker": "Both"
+  }
+]

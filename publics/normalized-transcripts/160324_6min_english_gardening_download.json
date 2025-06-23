@@ -1,0 +1,692 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.24,
+    "text": "6 Minute English",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 10.88,
+    "text": "from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 11.919,
+    "end": 15.12,
+    "text": "Hello and welcome to 6 Minute English. I'm Sophie…",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 15.12,
+    "end": 18.16,
+    "text": "And I'm Neil… What did you do at the weekend, Sophie?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 18.16,
+    "end": 19.92,
+    "text": "I did a spot of gardening.",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 19.92,
+    "end": 21.359,
+    "text": "So you're a keen gardener?",
+    "speaker": null
+  },
+  {
+    "start": 21.359,
+    "end": 26,
+    "text": "Yes, I am, Neil. And gardening is the subject of today's show! Now why don't we start with a quiz question?",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 26,
+    "end": 28.96,
+    "text": "Now, why don't we start with a quiz question?",
+    "speaker": null
+  },
+  {
+    "start": 28.96,
+    "end": 29.679,
+    "text": "Good idea.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 29.679,
+    "end": 34.32,
+    "text": "What percentage of people in the UK said that gardening makes them happier, according to a survey conducted by the Royal Horticultural Society? Is it…",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 34.32,
+    "end": 38.64,
+    "text": "according to a survey conducted by the Royal Horticultural Society?",
+    "speaker": null
+  },
+  {
+    "start": 38.64,
+    "end": 45.6,
+    "text": "Is it a 22% b 52% or c 82%?",
+    "speaker": null
+  },
+  {
+    "start": 45.6,
+    "end": 47.2,
+    "text": "Well, I'll guess: b) 52%.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 47.2,
+    "end": 48.719,
+    "text": "b) 52%",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 48.719,
+    "end": 51.76,
+    "text": "Well, we'll find out later on if you got it right or not. So, does gardening make you happy, Neil?",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 52.48,
+    "end": 55.6,
+    "text": "So, does gardening make you happy, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 55.6,
+    "end": 58.32,
+    "text": "Well, I tried to grow some tomatoes once,",
+    "speaker": null
+  },
+  {
+    "start": 58.32,
+    "end": 61.28,
+    "text": "and to be honest, it made me rather anxious.",
+    "speaker": null
+  },
+  {
+    "start": 61.28,
+    "end": 63.759,
+    "text": "All the leaves curled up and then dropped off.",
+    "speaker": null
+  },
+  {
+    "start": 63.759,
+    "end": 65.599,
+    "text": "Did you get any tomatoes?",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 65.599,
+    "end": 66.4,
+    "text": "No.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 66.4,
+    "end": 68.879,
+    "text": "So, you don't have green fingers then.",
+    "speaker": null
+  },
+  {
+    "start": 70,
+    "end": 72.079,
+    "text": "Why are you looking at your fingers, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 72.079,
+    "end": 76.079,
+    "text": "I wasn't asking whether you literally have green fingers.",
+    "speaker": null
+  },
+  {
+    "start": 76.96,
+    "end": 81.28,
+    "text": "Having green fingers means a natural ability for growing plants.",
+    "speaker": null
+  },
+  {
+    "start": 82.24,
+    "end": 85.039,
+    "text": "It's funny you should say gardening makes you anxious,",
+    "speaker": null
+  },
+  {
+    "start": 85.04,
+    "end": 88.32,
+    "text": "because other people find it calming and relaxing.",
+    "speaker": null
+  },
+  {
+    "start": 88.32,
+    "end": 90.24,
+    "text": "Do they? Do you?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 90.24,
+    "end": 91.2,
+    "text": "Yes, I do.",
+    "speaker": null
+  },
+  {
+    "start": 91.84,
+    "end": 94.48,
+    "text": "Yes, I do. Being in the fresh air, in all weathers, communing with nature…",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 94.48,
+    "end": 96.16,
+    "text": "communing with nature",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 97.2,
+    "end": 99.04,
+    "text": "Sounds very unpleasant!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 99.04,
+    "end": 100.16,
+    "text": "in all weathers",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 100.16,
+    "end": 103.04,
+    "text": "means something you do in all types of weather.",
+    "speaker": null
+  },
+  {
+    "start": 103.04,
+    "end": 105.92,
+    "text": "Rain, snow, sunshine,",
+    "speaker": null
+  },
+  {
+    "start": 105.92,
+    "end": 109.68,
+    "text": "and communing with nature means feeling close to nature",
+    "speaker": null
+  },
+  {
+    "start": 109.68,
+    "end": 111.36,
+    "text": "and being part of it.",
+    "speaker": null
+  },
+  {
+    "start": 111.359,
+    "end": 115.28,
+    "text": "Well, when I tried communing with nature, my hands got all scratched.",
+    "speaker": null
+  },
+  {
+    "start": 115.28,
+    "end": 118,
+    "text": "I got stung by nasty, creepy crawlies,",
+    "speaker": null
+  },
+  {
+    "start": 118,
+    "end": 120.799,
+    "text": "and I even got soil up my nose.",
+    "speaker": null
+  },
+  {
+    "start": 120.799,
+    "end": 122.48,
+    "text": "I didn't enjoy it at all.",
+    "speaker": null
+  },
+  {
+    "start": 122.48,
+    "end": 125.2,
+    "text": "Try wearing protective clothing next time,",
+    "speaker": null
+  },
+  {
+    "start": 125.2,
+    "end": 127.2,
+    "text": "and maybe a nose plug too.",
+    "speaker": null
+  },
+  {
+    "start": 127.2,
+    "end": 130.079,
+    "text": "A creepy crawly is a small insect, by the way.",
+    "speaker": null
+  },
+  {
+    "start": 130.079,
+    "end": 132.719,
+    "text": "So do you like getting your hands dirty, Sophie?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 132.719,
+    "end": 134.319,
+    "text": "Yes, I love it.",
+    "speaker": null
+  },
+  {
+    "start": 134.319,
+    "end": 137.28,
+    "text": "And it turns out there might be a good reason for this.",
+    "speaker": null
+  },
+  {
+    "start": 137.28,
+    "end": 138.96,
+    "text": "Dr. Christopher Lowry,",
+    "speaker": null
+  },
+  {
+    "start": 139.12,
+    "end": 141.04,
+    "text": "from the University of Colorado,",
+    "speaker": null
+  },
+  {
+    "start": 141.04,
+    "end": 145.2,
+    "text": "conducted an experiment to test whether soil gives us a natural high,",
+    "speaker": null
+  },
+  {
+    "start": 145.2,
+    "end": 148.56,
+    "text": "meaning to make us happy without taking drugs.",
+    "speaker": null
+  },
+  {
+    "start": 148.56,
+    "end": 150.319,
+    "text": "He injected a bacterium,",
+    "speaker": null
+  },
+  {
+    "start": 150.319,
+    "end": 152,
+    "text": "commonly found in soil,",
+    "speaker": null
+  },
+  {
+    "start": 152,
+    "end": 155.28,
+    "text": "into mice to see what effect this would have on them.",
+    "speaker": null
+  },
+  {
+    "start": 155.28,
+    "end": 158.08,
+    "text": "Let's hear what he said in this BBC programme.",
+    "speaker": null
+  },
+  {
+    "start": 159.439,
+    "end": 162.24,
+    "text": "Rodents like mice and rats are very good swimmers,",
+    "speaker": null
+  },
+  {
+    "start": 162.24,
+    "end": 164.719,
+    "text": "and it was found many years ago that",
+    "speaker": null
+  },
+  {
+    "start": 164.719,
+    "end": 166.719,
+    "text": "if you treat animals with antidepressant drugs,",
+    "speaker": null
+  },
+  {
+    "start": 166.8,
+    "end": 170.24,
+    "text": "and then put the animals in just a beaker of water,",
+    "speaker": null
+  },
+  {
+    "start": 170.24,
+    "end": 173.759,
+    "text": "it would cause the animals to swim for longer periods of time.",
+    "speaker": null
+  },
+  {
+    "start": 173.759,
+    "end": 176.639,
+    "text": "After injecting the mice with a bacterium,",
+    "speaker": null
+  },
+  {
+    "start": 176.639,
+    "end": 179.28,
+    "text": "Dr. Lowry placed them in a cup of water.",
+    "speaker": null
+  },
+  {
+    "start": 179.28,
+    "end": 182.159,
+    "text": "These mice that had been injected with a bacterium",
+    "speaker": null
+  },
+  {
+    "start": 182.159,
+    "end": 186.159,
+    "text": "swam during a six-minute test for a longer period of time,",
+    "speaker": null
+  },
+  {
+    "start": 186.159,
+    "end": 188.479,
+    "text": "then animals that just got a placebo.",
+    "speaker": null
+  },
+  {
+    "start": 189.599,
+    "end": 192.479,
+    "text": "So, the bacterium had a similar effect on the mice",
+    "speaker": null
+  },
+  {
+    "start": 192.479,
+    "end": 194.879,
+    "text": "as an antidepressant drug might.",
+    "speaker": null
+  },
+  {
+    "start": 194.879,
+    "end": 199.759,
+    "text": "When we dig in the soil, we ingest or absorb the bacterium",
+    "speaker": null
+  },
+  {
+    "start": 199.759,
+    "end": 202.479,
+    "text": "through our lungs or cuts in our skin.",
+    "speaker": null
+  },
+  {
+    "start": 202.479,
+    "end": 206.4,
+    "text": "A placebo, by the way, is a substance with no physical effects",
+    "speaker": null
+  },
+  {
+    "start": 206.4,
+    "end": 208.159,
+    "text": "that is used when testing a drug.",
+    "speaker": null
+  },
+  {
+    "start": 208.96,
+    "end": 213.039,
+    "text": "So, here, one group of mice were injected with the bacterium,",
+    "speaker": null
+  },
+  {
+    "start": 213.039,
+    "end": 215.439,
+    "text": "and another group were injected with the placebo.",
+    "speaker": null
+  },
+  {
+    "start": 216,
+    "end": 220.159,
+    "text": "And since the mice seemed happier when treated with soil bacteria,",
+    "speaker": null
+  },
+  {
+    "start": 220.159,
+    "end": 222.24,
+    "text": "there's a good chance we were too.",
+    "speaker": null
+  },
+  {
+    "start": 222.32,
+    "end": 226.08,
+    "text": "Let's move on and hear about how gardening can be therapeutic,",
+    "speaker": null
+  },
+  {
+    "start": 226.08,
+    "end": 228.4,
+    "text": "or used to try and treat addiction.",
+    "speaker": null
+  },
+  {
+    "start": 228.4,
+    "end": 233.6,
+    "text": "Here's Scott Stevenson, a recovering alcoholic who is learning to garden to help cure him.",
+    "speaker": null
+  },
+  {
+    "start": 247.12,
+    "end": 249.84,
+    "text": "So, Scott Stevenson was expelled from school.",
+    "speaker": null
+  },
+  {
+    "start": 249.92,
+    "end": 252.8,
+    "text": "He was forced to leave with no qualifications,",
+    "speaker": null
+  },
+  {
+    "start": 252.8,
+    "end": 256.48,
+    "text": "but with the help of a support group he now has an NVQ",
+    "speaker": null
+  },
+  {
+    "start": 256.48,
+    "end": 260.8,
+    "text": "that's a national vocational qualification here in Britain in gardening.",
+    "speaker": null
+  },
+  {
+    "start": 260.8,
+    "end": 264.079,
+    "text": "That's right. At a centre in the UK,",
+    "speaker": null
+  },
+  {
+    "start": 264.079,
+    "end": 268.72,
+    "text": "recovering alcoholics have been given the opportunity to plant, grow,",
+    "speaker": null
+  },
+  {
+    "start": 268.72,
+    "end": 270.879,
+    "text": "and even sell their produce.",
+    "speaker": null
+  },
+  {
+    "start": 270.879,
+    "end": 275.199,
+    "text": "These addicts are literally breaking their addiction by breaking the soil.",
+    "speaker": null
+  },
+  {
+    "start": 275.199,
+    "end": 276.8,
+    "text": "Nicely phrased, Sophie!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 276.8,
+    "end": 277.439,
+    "text": "Thank you.",
+    "speaker": null
+  },
+  {
+    "start": 278.399,
+    "end": 282.719,
+    "text": "Thank you! Now, are you ready, Neil, for the answer to today's quiz question?",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 282.719,
+    "end": 283.68,
+    "text": "I am.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 283.68,
+    "end": 289.6,
+    "text": "I asked, what percentage of people in the UK said that gardening makes them happier,",
+    "speaker": null
+  },
+  {
+    "start": 289.6,
+    "end": 294,
+    "text": "according to a survey conducted by the Royal Horticultural Society?",
+    "speaker": null
+  },
+  {
+    "start": 294,
+    "end": 301.04,
+    "text": "Is it A, 22%, B, 52%, or C, 82%.",
+    "speaker": null
+  },
+  {
+    "start": 301.04,
+    "end": 303.519,
+    "text": "I guess B, 52%, I'm wrong, aren't I?",
+    "speaker": null
+  },
+  {
+    "start": 303.519,
+    "end": 306.159,
+    "text": "Oh, you are Neil, I'm sorry.",
+    "speaker": null
+  },
+  {
+    "start": 306.16,
+    "end": 310.64,
+    "text": "The percentage of people who really enjoy gardening is much higher.",
+    "speaker": null
+  },
+  {
+    "start": 310.64,
+    "end": 312.8,
+    "text": "You should have chosen option C.",
+    "speaker": null
+  },
+  {
+    "start": 312.8,
+    "end": 316.48,
+    "text": "A survey from the Royal Horticultural Society has shown",
+    "speaker": null
+  },
+  {
+    "start": 316.48,
+    "end": 319.52,
+    "text": "that Brits truly are a nation of gardeners,",
+    "speaker": null
+  },
+  {
+    "start": 319.52,
+    "end": 323.44,
+    "text": "with 82% saying it makes them feel happier.",
+    "speaker": null
+  },
+  {
+    "start": 323.44,
+    "end": 328.48,
+    "text": "The results also revealed that 70% said that given the choice,",
+    "speaker": null
+  },
+  {
+    "start": 328.48,
+    "end": 331.76,
+    "text": "they would prefer to spend their working day in the garden",
+    "speaker": null
+  },
+  {
+    "start": 331.839,
+    "end": 337.039,
+    "text": "with just 9% opting for an office and 21% undecided.",
+    "speaker": null
+  },
+  {
+    "start": 337.039,
+    "end": 339.12,
+    "text": "Well, I'm with the 9% I'm afraid.",
+    "speaker": null
+  },
+  {
+    "start": 339.839,
+    "end": 342.24,
+    "text": "Well, I'm with the 9% I'm afraid. Now can we hear the words we learned today, Sophie?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 342.879,
+    "end": 346.879,
+    "text": "They are green fingers in all weather's,",
+    "speaker": null
+  },
+  {
+    "start": 347.839,
+    "end": 351.279,
+    "text": "communing with nature, creepy crawly,",
+    "speaker": null
+  },
+  {
+    "start": 352.399,
+    "end": 358.399,
+    "text": "natural high, ingest, placebo, therapeutic,",
+    "speaker": null
+  },
+  {
+    "start": 359.359,
+    "end": 362.079,
+    "text": "expelled",
+    "speaker": "Sophie"
+  },
+  {
+    "start": 362.079,
+    "end": 364.239,
+    "text": "Well, that's the end of today's 6 Minute English.",
+    "speaker": null
+  },
+  {
+    "start": 364.239,
+    "end": 367.199,
+    "text": "Now, go back outside, Sophie, get your hands dirty.",
+    "speaker": null
+  },
+  {
+    "start": 367.199,
+    "end": 369.199,
+    "text": "Please do join us again soon. Goodbye.",
+    "speaker": null
+  },
+  {
+    "start": 369.199,
+    "end": 369.839,
+    "text": "Bye.",
+    "speaker": "Both"
+  }
+]

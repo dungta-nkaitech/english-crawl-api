@@ -1,0 +1,740 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 12.679,
+    "end": 16.519,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 16.519,
+    "end": 17.92,
+    "text": "And I’m Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 17.92,
+    "end": 20.4,
+    "text": "Sam, what blood type are you?",
+    "speaker": null
+  },
+  {
+    "start": 20.4,
+    "end": 25.64,
+    "text": "Ah, you mean the different groups used to classify humans by blood – types A, B, AB and O. I think I’m type O. How about you, Neil?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 25.64,
+    "end": 30.12,
+    "text": "Types A, B, A, B and O.",
+    "speaker": null
+  },
+  {
+    "start": 30.12,
+    "end": 32.399,
+    "text": "I think I'm type O.",
+    "speaker": null
+  },
+  {
+    "start": 32.399,
+    "end": 33.88,
+    "text": "How about you, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 33.88,
+    "end": 37.439,
+    "text": "Well, it may sound strange but actually I don’t know.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 37.439,
+    "end": 40.719,
+    "text": "Hmm, yeah, lots of Westerners don't know their blood type.",
+    "speaker": null
+  },
+  {
+    "start": 40.719,
+    "end": 45.84,
+    "text": "But in parts of Asia, blood groups are a topic of daily conversation.",
+    "speaker": null
+  },
+  {
+    "start": 45.84,
+    "end": 49.24,
+    "text": "People select romantic partners based on blood type",
+    "speaker": null
+  },
+  {
+    "start": 49.24,
+    "end": 53.159,
+    "text": "and different blood groups are associated with different personalities.",
+    "speaker": null
+  },
+  {
+    "start": 53.159,
+    "end": 56.399,
+    "text": "In this programme, we'll be finding out all about blood,",
+    "speaker": null
+  },
+  {
+    "start": 56.399,
+    "end": 58.759,
+    "text": "why humans have different blood types,",
+    "speaker": null
+  },
+  {
+    "start": 58.759,
+    "end": 63.879,
+    "text": "and whether blood is something more than just a way of pumping oxygen around your body.",
+    "speaker": null
+  },
+  {
+    "start": 63.879,
+    "end": 67.28,
+    "text": "And of course, we'll be learning some new vocabulary as well.",
+    "speaker": null
+  },
+  {
+    "start": 67.28,
+    "end": 70.56,
+    "text": "Now, Neil, I have an interesting fact for you.",
+    "speaker": null
+  },
+  {
+    "start": 70.56,
+    "end": 74.479,
+    "text": "Did you know that many Japanese pop stars' websites",
+    "speaker": null
+  },
+  {
+    "start": 74.479,
+    "end": 80.079,
+    "text": "will feature their blood type alongside information like their age and hobbies?",
+    "speaker": null
+  },
+  {
+    "start": 80.12,
+    "end": 84.28,
+    "text": "I didn't say them, but Japanese culture is certainly interested in blood.",
+    "speaker": null
+  },
+  {
+    "start": 84.28,
+    "end": 88.84,
+    "text": "There's even a word, brujara, meaning blood harassment,",
+    "speaker": null
+  },
+  {
+    "start": 88.84,
+    "end": 91.759,
+    "text": "which is used to describe hostility towards people",
+    "speaker": null
+  },
+  {
+    "start": 91.759,
+    "end": 94.679,
+    "text": "from a certain blood group considered to be selfish.",
+    "speaker": null
+  },
+  {
+    "start": 94.679,
+    "end": 95.959,
+    "text": "But which group?",
+    "speaker": null
+  },
+  {
+    "start": 95.959,
+    "end": 98.039,
+    "text": "That's my quiz question for today.",
+    "speaker": null
+  },
+  {
+    "start": 98.039,
+    "end": 102.12,
+    "text": "Which blood types may fall victim to brujara?",
+    "speaker": null
+  },
+  {
+    "start": 102.12,
+    "end": 107.359,
+    "text": "Is it A, blood type A, B, blood type B,",
+    "speaker": null
+  },
+  {
+    "start": 107.359,
+    "end": 110.2,
+    "text": "c) blood type O?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 110.2,
+    "end": 113.319,
+    "text": "I’ll say a) blood type A.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 113.319,
+    "end": 116.079,
+    "text": "OK, Sam, we'll find out the answer later.",
+    "speaker": null
+  },
+  {
+    "start": 116.079,
+    "end": 119.319,
+    "text": "Now, as we've heard, blood is a big deal in Japan.",
+    "speaker": null
+  },
+  {
+    "start": 119.319,
+    "end": 122.48,
+    "text": "Mane Chesterton from BBC World Service Programme,",
+    "speaker": null
+  },
+  {
+    "start": 122.48,
+    "end": 124.64,
+    "text": "Crowd Science, travel to Tokyo,",
+    "speaker": null
+  },
+  {
+    "start": 124.64,
+    "end": 126.56,
+    "text": "where she asked Japanese translators,",
+    "speaker": null
+  },
+  {
+    "start": 126.56,
+    "end": 129.8,
+    "text": "Chia Kobayashi, to explain more.",
+    "speaker": null
+  },
+  {
+    "start": 129.8,
+    "end": 134.319,
+    "text": "For blood type A, generally, it is thought they are perfectionists,",
+    "speaker": null
+  },
+  {
+    "start": 134.319,
+    "end": 139.519,
+    "text": "more detailed-oriented, pretty much a good-at-precise type of job.",
+    "speaker": null
+  },
+  {
+    "start": 139.519,
+    "end": 143.199,
+    "text": "And that makes them good at helping others,",
+    "speaker": null
+  },
+  {
+    "start": 143.199,
+    "end": 146.759,
+    "text": "and good at teamwork, and respect rules and customs.",
+    "speaker": null
+  },
+  {
+    "start": 146.759,
+    "end": 149.039,
+    "text": "That's a typical blood type.",
+    "speaker": null
+  },
+  {
+    "start": 149.039,
+    "end": 154,
+    "text": "40% of Japan's population are sensitive anxious type A's.",
+    "speaker": null
+  },
+  {
+    "start": 154,
+    "end": 157.68,
+    "text": "30% are curious and stubborn, generous type O's,",
+    "speaker": null
+  },
+  {
+    "start": 157.68,
+    "end": 160.359,
+    "text": "10% are creative A, B's,",
+    "speaker": null
+  },
+  {
+    "start": 160.359,
+    "end": 163.759,
+    "text": "but woe-betied the 20% type B,",
+    "speaker": null
+  },
+  {
+    "start": 163.759,
+    "end": 168.359,
+    "text": "because they have a far less desirable personality, apparently.",
+    "speaker": null
+  },
+  {
+    "start": 168.359,
+    "end": 170.359,
+    "text": "According to Japanese tradition,",
+    "speaker": null
+  },
+  {
+    "start": 170.359,
+    "end": 173.479,
+    "text": "blood type A's are perfectionists,",
+    "speaker": null
+  },
+  {
+    "start": 173.479,
+    "end": 175.84,
+    "text": "people who want everything to be perfect",
+    "speaker": null
+  },
+  {
+    "start": 175.84,
+    "end": 179.039,
+    "text": "and demand the highest standards possible.",
+    "speaker": null
+  },
+  {
+    "start": 179.039,
+    "end": 182.799,
+    "text": "This contrasts with type O's who are considered to be stubborn,",
+    "speaker": null
+  },
+  {
+    "start": 182.799,
+    "end": 185.519,
+    "text": "people who are determined to do what they want",
+    "speaker": null
+  },
+  {
+    "start": 185.519,
+    "end": 187.519,
+    "text": "and refuse to change their mind.",
+    "speaker": null
+  },
+  {
+    "start": 187.519,
+    "end": 189.919,
+    "text": "But it's unfortunate blood type B's",
+    "speaker": null
+  },
+  {
+    "start": 189.919,
+    "end": 192.479,
+    "text": "who have the least desirable personality,",
+    "speaker": null
+  },
+  {
+    "start": 192.519,
+    "end": 194.599,
+    "text": "selfish and independent.",
+    "speaker": null
+  },
+  {
+    "start": 194.599,
+    "end": 196.919,
+    "text": "Woe-betied the type B's",
+    "speaker": null
+  },
+  {
+    "start": 196.919,
+    "end": 199.679,
+    "text": "remarks the presenter, Manny Chesterton.",
+    "speaker": null
+  },
+  {
+    "start": 199.679,
+    "end": 201.759,
+    "text": "An informal British expression",
+    "speaker": null
+  },
+  {
+    "start": 201.759,
+    "end": 205.039,
+    "text": "said when they will be trouble ahead for someone.",
+    "speaker": null
+  },
+  {
+    "start": 205.039,
+    "end": 207.56,
+    "text": "In this case, poor type B's.",
+    "speaker": null
+  },
+  {
+    "start": 208.759,
+    "end": 210.879,
+    "text": "But apart from customs and traditions,",
+    "speaker": null
+  },
+  {
+    "start": 210.879,
+    "end": 214.159,
+    "text": "But apart from customs and traditions, is there actually any science behind these beliefs?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 214.159,
+    "end": 217.199,
+    "text": "Well, not according to Dr Emma Pomoraya",
+    "speaker": null
+  },
+  {
+    "start": 217.199,
+    "end": 220.159,
+    "text": "Cambridge University's archaeology department.",
+    "speaker": null
+  },
+  {
+    "start": 220.199,
+    "end": 222.4,
+    "text": "She thinks that, like horoscopes,",
+    "speaker": null
+  },
+  {
+    "start": 222.4,
+    "end": 224.96,
+    "text": "there's no scientific basis for a connection",
+    "speaker": null
+  },
+  {
+    "start": 224.96,
+    "end": 227.479,
+    "text": "between blood types and personalities.",
+    "speaker": null
+  },
+  {
+    "start": 227.479,
+    "end": 231.24,
+    "text": "Which makes me wonder what exactly blood types are.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 231.24,
+    "end": 233.599,
+    "text": "Blood types are kinds of stickers",
+    "speaker": null
+  },
+  {
+    "start": 233.599,
+    "end": 237.519,
+    "text": "or chemical markers which support our immune system.",
+    "speaker": null
+  },
+  {
+    "start": 237.519,
+    "end": 240.28,
+    "text": "The organs, cells and processes",
+    "speaker": null
+  },
+  {
+    "start": 240.28,
+    "end": 244.4,
+    "text": "which protect the human body from infection and illness.",
+    "speaker": null
+  },
+  {
+    "start": 244.4,
+    "end": 247.199,
+    "text": "Those chemical markers can identify foreign bodies",
+    "speaker": null
+  },
+  {
+    "start": 247.199,
+    "end": 248.56,
+    "text": "like pathogens,",
+    "speaker": null
+  },
+  {
+    "start": 248.64,
+    "end": 251.759,
+    "text": "small organisms such as a virus or bacteria",
+    "speaker": null
+  },
+  {
+    "start": 251.759,
+    "end": 253.479,
+    "text": "that can cause disease.",
+    "speaker": null
+  },
+  {
+    "start": 253.479,
+    "end": 256.12,
+    "text": "The variety of blood types seems to be a result",
+    "speaker": null
+  },
+  {
+    "start": 256.12,
+    "end": 257.92,
+    "text": "of different bodily responses",
+    "speaker": null
+  },
+  {
+    "start": 257.92,
+    "end": 261.12,
+    "text": "to different disease-causing pathogens.",
+    "speaker": null
+  },
+  {
+    "start": 261.12,
+    "end": 263.639,
+    "text": "Which explains why blood of the same type",
+    "speaker": null
+  },
+  {
+    "start": 263.639,
+    "end": 266.16,
+    "text": "is needed in blood transfusions.",
+    "speaker": null
+  },
+  {
+    "start": 266.16,
+    "end": 269.84,
+    "text": "Medical procedures in which blood is taken from one person",
+    "speaker": null
+  },
+  {
+    "start": 269.84,
+    "end": 272.319,
+    "text": "and put into another person's body.",
+    "speaker": null
+  },
+  {
+    "start": 272.319,
+    "end": 275.759,
+    "text": "Often after an accident or during an operation.",
+    "speaker": null
+  },
+  {
+    "start": 275.759,
+    "end": 278.36,
+    "text": "And explains the high demand for type O blood which can be given to anyone.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 278.36,
+    "end": 280.759,
+    "text": "which can be given to anyone.",
+    "speaker": null
+  },
+  {
+    "start": 280.759,
+    "end": 282.639,
+    "text": "Ah, generous typos.",
+    "speaker": null
+  },
+  {
+    "start": 282.639,
+    "end": 285.24,
+    "text": "Like me, I always knew I was special.",
+    "speaker": null
+  },
+  {
+    "start": 285.24,
+    "end": 290.439,
+    "text": "Ah, generous type Os – like me. I always knew I was special… and curious and stubborn, wasn’t that the type O personality?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 290.439,
+    "end": 291.439,
+    "text": "Oh yes.",
+    "speaker": null
+  },
+  {
+    "start": 291.439,
+    "end": 294.92,
+    "text": "Today's quiz question was about blood type personalities.",
+    "speaker": null
+  },
+  {
+    "start": 294.92,
+    "end": 297.36,
+    "text": "I asked you which undesirable blood type",
+    "speaker": null
+  },
+  {
+    "start": 297.36,
+    "end": 299.68,
+    "text": "is considered selfish in Japan.",
+    "speaker": null
+  },
+  {
+    "start": 299.68,
+    "end": 302.72,
+    "text": "I said a) blood type A.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 302.72,
+    "end": 306.84,
+    "text": "But as we’ve heard, it’s actually b) blood type B.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 306.879,
+    "end": 307.839,
+    "text": "Never mind.",
+    "speaker": null
+  },
+  {
+    "start": 307.839,
+    "end": 311.839,
+    "text": "I'll settle for being curious, stubborn and generous.",
+    "speaker": null
+  },
+  {
+    "start": 311.839,
+    "end": 315.519,
+    "text": "In today's program, we've been talking all about blood types",
+    "speaker": null
+  },
+  {
+    "start": 315.519,
+    "end": 317.839,
+    "text": "and personalities in Japan.",
+    "speaker": null
+  },
+  {
+    "start": 317.839,
+    "end": 321.479,
+    "text": "Blood type A people are thought of as perfectionists,",
+    "speaker": null
+  },
+  {
+    "start": 321.479,
+    "end": 324.439,
+    "text": "people who want everything to be perfect.",
+    "speaker": null
+  },
+  {
+    "start": 324.439,
+    "end": 327,
+    "text": "Unlike type O's who are considered stubborn,",
+    "speaker": null
+  },
+  {
+    "start": 327,
+    "end": 329.959,
+    "text": "Unlike type Os who are considered stubborn – determined to get their own way and unwilling to change.",
+    "speaker": "stubborn"
+  },
+  {
+    "start": 329.959,
+    "end": 332.919,
+    "text": "And woe be tied, selfish type B's.",
+    "speaker": null
+  },
+  {
+    "start": 332.919,
+    "end": 334.959,
+    "text": "An informal expression said,",
+    "speaker": null
+  },
+  {
+    "start": 334.959,
+    "end": 337.199,
+    "text": "when they will be trouble for someone,",
+    "speaker": null
+  },
+  {
+    "start": 337.199,
+    "end": 341.159,
+    "text": "or if they will be punished for doing a particular thing.",
+    "speaker": null
+  },
+  {
+    "start": 341.159,
+    "end": 345.319,
+    "text": "Scientifically speaking, blood types help support our immune system,",
+    "speaker": null
+  },
+  {
+    "start": 345.319,
+    "end": 348.039,
+    "text": "the organs and cellular processes,",
+    "speaker": null
+  },
+  {
+    "start": 348.039,
+    "end": 351.759,
+    "text": "which protect the human body from infection.",
+    "speaker": null
+  },
+  {
+    "start": 351.759,
+    "end": 354.439,
+    "text": "They also help identify foreign pathogens,",
+    "speaker": null
+  },
+  {
+    "start": 354.439,
+    "end": 357.599,
+    "text": "small organisms such as a virus or bacteria",
+    "speaker": null
+  },
+  {
+    "start": 357.599,
+    "end": 359.279,
+    "text": "that can cause a disease.",
+    "speaker": null
+  },
+  {
+    "start": 359.279,
+    "end": 361.799,
+    "text": "And explain why the same blood type is needed",
+    "speaker": null
+  },
+  {
+    "start": 361.799,
+    "end": 364.039,
+    "text": "for a successful blood transfusion.",
+    "speaker": null
+  },
+  {
+    "start": 364.04,
+    "end": 366.48,
+    "text": "And that's the procedure in which blood is transferred",
+    "speaker": null
+  },
+  {
+    "start": 366.48,
+    "end": 369.96,
+    "text": "from one person's body to another during an operation.",
+    "speaker": null
+  },
+  {
+    "start": 369.96,
+    "end": 372.04,
+    "text": "And that's all we have time for today.",
+    "speaker": null
+  },
+  {
+    "start": 372.04,
+    "end": 372.96,
+    "text": "Bye bye for now.",
+    "speaker": null
+  },
+  {
+    "start": 372.96,
+    "end": 373.8,
+    "text": "Goodbye.",
+    "speaker": null
+  },
+  {
+    "start": 375.319,
+    "end": 380.32,
+    "text": "6-Mute English from BBC Learning English.",
+    "speaker": null
+  }
+]

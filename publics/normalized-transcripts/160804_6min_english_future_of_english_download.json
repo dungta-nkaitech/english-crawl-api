@@ -1,0 +1,548 @@
+[
+  {
+    "start": 0,
+    "end": 5.6,
+    "text": "This is a download from BBC Learning English. To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.6,
+    "end": 11.439,
+    "text": "6 Minute English from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 11.439,
+    "end": 14.4,
+    "text": "Hello and welcome to 6 Minute English. I'm Alice…",
+    "speaker": "Alice"
+  },
+  {
+    "start": 14.4,
+    "end": 19.839,
+    "text": "And I'm Neil. So Alice, can you think of an example of how the English we speak is changing?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 19.839,
+    "end": 23.679,
+    "text": "Yes, I can – teenagers saying 'like' all the time…",
+    "speaker": "Alice"
+  },
+  {
+    "start": 23.679,
+    "end": 25.679,
+    "text": "Oh, that's, like, really like annoying, like?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 25.679,
+    "end": 27.44,
+    "text": "Yeah, like. Yeah, like.",
+    "speaker": null
+  },
+  {
+    "start": 27.44,
+    "end": 33.039,
+    "text": "Well, the subject of today's show is how and why the English language is changing.",
+    "speaker": null
+  },
+  {
+    "start": 33.039,
+    "end": 39.439,
+    "text": "And teenagers definitely have their own code, including text speak when they're on the internet or using their phones.",
+    "speaker": null
+  },
+  {
+    "start": 40.32,
+    "end": 48.159,
+    "text": "FOMO, FOMO, B-B-A-E, PLOS, PLOS. Do you have any idea what those terms mean?",
+    "speaker": null
+  },
+  {
+    "start": 48.159,
+    "end": 54.799,
+    "text": "I've got no idea what you're talking about, Alice. They're pretty baffling – and that means 'hard to understand'. But that's the idea, isn't it? We oldies aren't supposed to understand!",
+    "speaker": "baffling"
+  },
+  {
+    "start": 54.879,
+    "end": 58.64,
+    "text": "But that's the idea, isn't it? We oldies aren't supposed to understand.",
+    "speaker": null
+  },
+  {
+    "start": 58.64,
+    "end": 66.799,
+    "text": "Yes, exactly. Apparently, PLOS means parents looking over shoulder, which proves your point.",
+    "speaker": null
+  },
+  {
+    "start": 67.439,
+    "end": 73.039,
+    "text": "Text speak is a lot to do with inventing cool new terms and these change quickly.",
+    "speaker": null
+  },
+  {
+    "start": 73.039,
+    "end": 78.56,
+    "text": "In a year or even six months' time, words that were once popular have disappeared completely.",
+    "speaker": null
+  },
+  {
+    "start": 78.56,
+    "end": 84.4,
+    "text": "Okay, I have a quiz question forming in my mind, Alice. So, I hope you're feeling up to the challenge.",
+    "speaker": null
+  },
+  {
+    "start": 84.4,
+    "end": 93.52,
+    "text": "Can you tell me what kinds of words are slow to change? Is it A? Nouns, B, pronouns or C adjectives?",
+    "speaker": null
+  },
+  {
+    "start": 93.52,
+    "end": 99.84,
+    "text": "I think it's a) nouns. The way we name things probably doesn't change that quickly.",
+    "speaker": "Alice"
+  },
+  {
+    "start": 99.84,
+    "end": 106.24,
+    "text": "We shall find out if you're right or wrong later on in the show, but let's think about English grammar for a minute.",
+    "speaker": null
+  },
+  {
+    "start": 106.24,
+    "end": 108.4,
+    "text": "What changes are occurring here?",
+    "speaker": null
+  },
+  {
+    "start": 108.4,
+    "end": 113.68,
+    "text": "I noticed you said shall, there, Neil. And to my ear, that sounds pretty old-fashioned.",
+    "speaker": null
+  },
+  {
+    "start": 113.68,
+    "end": 119.36,
+    "text": "And you're right, Alice. The modal verb shall is on the way out, meaning it's disappearing.",
+    "speaker": null
+  },
+  {
+    "start": 119.36,
+    "end": 120.64,
+    "text": "Why do you think that is?",
+    "speaker": null
+  },
+  {
+    "start": 120.64,
+    "end": 124.4,
+    "text": "Well, perhaps it's because Will sounds more natural these days.",
+    "speaker": null
+  },
+  {
+    "start": 124.4,
+    "end": 130.719,
+    "text": "Let's listen to linguist basarts talking to writer and presenter Michael Rosen on the BBC Radio 4 program",
+    "speaker": null
+  },
+  {
+    "start": 130.719,
+    "end": 132.8,
+    "text": "Word of Mouth for his explanation.",
+    "speaker": null
+  },
+  {
+    "start": 134,
+    "end": 138.96,
+    "text": "MR: Why would we lose 'shall'? I mean, if especially as we hold it in the interrogative. We say, you know, 'Shall we go swimming'?",
+    "speaker": "Presenter Michael Rosen and Bas Aarts, Professor of English linguistics at University College London"
+  },
+  {
+    "start": 138.96,
+    "end": 140.24,
+    "text": "you know, shall we go swimming?",
+    "speaker": null
+  },
+  {
+    "start": 140.32,
+    "end": 145.6,
+    "text": "BA: Well, because it's in competition with 'will'. If you have two words that more or less express the same meaning, one of the two is going to be pushed out of the language. And in this case, it's 'shall'.",
+    "speaker": "Presenter Michael Rosen and Bas Aarts, Professor of English linguistics at University College London"
+  },
+  {
+    "start": 146.56,
+    "end": 150.159,
+    "text": "one of the two is going to be pushed out of the language. And in this case, it shall.",
+    "speaker": null
+  },
+  {
+    "start": 151.6,
+    "end": 155.04,
+    "text": "Basarts there. And interrogative means a question.",
+    "speaker": null
+  },
+  {
+    "start": 155.04,
+    "end": 159.68,
+    "text": "So it's not just in nature that we get survival of a fittest, you know, the struggle for life.",
+    "speaker": null
+  },
+  {
+    "start": 159.68,
+    "end": 164.64,
+    "text": "It happens in language too. Similar words are competing with each other and some lose,",
+    "speaker": null
+  },
+  {
+    "start": 164.64,
+    "end": 167.28,
+    "text": "while others win out or succeed after a fight.",
+    "speaker": null
+  },
+  {
+    "start": 167.919,
+    "end": 171.28,
+    "text": "Do you know of any other modal verbs that are on their way out, Alice?",
+    "speaker": null
+  },
+  {
+    "start": 171.28,
+    "end": 174.08,
+    "text": "Yes – 'must' is declining rapidly.",
+    "speaker": "Alice"
+  },
+  {
+    "start": 174.08,
+    "end": 175.039,
+    "text": "And why is that?",
+    "speaker": null
+  },
+  {
+    "start": 175.039,
+    "end": 181.92,
+    "text": "Well, must sounds authoritarian and people are choosing to express obligation or having a duty to do",
+    "speaker": null
+  },
+  {
+    "start": 181.92,
+    "end": 183.92,
+    "text": "something in different ways.",
+    "speaker": null
+  },
+  {
+    "start": 183.92,
+    "end": 188.159,
+    "text": "Okay, authoritarian means demanding that people obey you. For example,",
+    "speaker": null
+  },
+  {
+    "start": 188.879,
+    "end": 192.639,
+    "text": "Alice, you must move on to the next point now.",
+    "speaker": null
+  },
+  {
+    "start": 192.639,
+    "end": 194.8,
+    "text": "Oh, you scared me a bit, Daniel.",
+    "speaker": null
+  },
+  {
+    "start": 194.8,
+    "end": 199.68,
+    "text": "Exactly. I can see why people are showing away from or avoiding must.",
+    "speaker": null
+  },
+  {
+    "start": 199.68,
+    "end": 203.28,
+    "text": "It sounds nicer to soften obligation by saying things like,",
+    "speaker": null
+  },
+  {
+    "start": 203.28,
+    "end": 206.32,
+    "text": "you might want to move on to the next point now, Alice.",
+    "speaker": null
+  },
+  {
+    "start": 206.32,
+    "end": 208,
+    "text": "Okay, then, I shall.",
+    "speaker": null
+  },
+  {
+    "start": 208.96,
+    "end": 214.8,
+    "text": "Let's talk about tenses. Progressive tenses formed from the verb B and the suffix",
+    "speaker": null
+  },
+  {
+    "start": 214.8,
+    "end": 221.36,
+    "text": "in are usually used for ongoing situations. For example, I'm doing the show with Neil at the moment.",
+    "speaker": null
+  },
+  {
+    "start": 221.92,
+    "end": 225.04,
+    "text": "But its use has been increasing rapidly.",
+    "speaker": null
+  },
+  {
+    "start": 225.04,
+    "end": 228.4,
+    "text": "Let's listen to Michael Rosen and Bassart's again talking about this.",
+    "speaker": null
+  },
+  {
+    "start": 229.92,
+    "end": 236.4,
+    "text": "BA: It started increasing dramatically in the 19th century and has continued to rise in the present day.",
+    "speaker": "Presenter Michael Rosen and Bas Aarts, Professor of English linguistics at University College London"
+  },
+  {
+    "start": 236.4,
+    "end": 238.64,
+    "text": "MR: I think that's a cue for me to say, 'I'm loving it', is that right?",
+    "speaker": "Presenter Michael Rosen and Bas Aarts, Professor of English linguistics at University College London"
+  },
+  {
+    "start": 238.64,
+    "end": 242.08,
+    "text": "Right. Well, that is one of the constructions that is coming in.",
+    "speaker": null
+  },
+  {
+    "start": 242.08,
+    "end": 246.48,
+    "text": "I mean, I sometimes call it the big Mac progressive because of course, McDonald's used that.",
+    "speaker": null
+  },
+  {
+    "start": 246.959,
+    "end": 251.28,
+    "text": "In this segment of the BBC Radio 4 program word of mouth,",
+    "speaker": null
+  },
+  {
+    "start": 251.28,
+    "end": 255.199,
+    "text": "Michael Rosen quotes the progressive form, I'm loving it.",
+    "speaker": null
+  },
+  {
+    "start": 255.199,
+    "end": 259.68,
+    "text": "A slogan used by an American fast food chain in its advertising campaign.",
+    "speaker": null
+  },
+  {
+    "start": 259.68,
+    "end": 265.92,
+    "text": "The verb love is a state verb. It expresses a state of being as opposed to doing",
+    "speaker": null
+  },
+  {
+    "start": 265.92,
+    "end": 270.319,
+    "text": "and is traditionally used in the simple form. For example, I love it.",
+    "speaker": null
+  },
+  {
+    "start": 270.319,
+    "end": 274.879,
+    "text": "But these days, people are using state verbs in the progressive more and more.",
+    "speaker": null
+  },
+  {
+    "start": 274.959,
+    "end": 277.04,
+    "text": "I'm hearing what you're saying, Alice.",
+    "speaker": null
+  },
+  {
+    "start": 277.04,
+    "end": 280.719,
+    "text": "Now, I think it's time for the answer to today's quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 280.719,
+    "end": 284,
+    "text": "I asked you what kinds of words are slow to change?",
+    "speaker": null
+  },
+  {
+    "start": 284,
+    "end": 287.839,
+    "text": "Is it A nouns, B pronouns or C adjectives?",
+    "speaker": null
+  },
+  {
+    "start": 287.839,
+    "end": 290.24,
+    "text": "I said a) nouns.",
+    "speaker": "Alice"
+  },
+  {
+    "start": 290.24,
+    "end": 293.04,
+    "text": "And you were wrong, Alice.",
+    "speaker": null
+  },
+  {
+    "start": 293.839,
+    "end": 299.04,
+    "text": "According to Professor Mark Pagel, evolutionary biologist at Reading University in the UK,",
+    "speaker": null
+  },
+  {
+    "start": 299.04,
+    "end": 302.879,
+    "text": "pronouns like I and you and we evolve slowly.",
+    "speaker": null
+  },
+  {
+    "start": 302.959,
+    "end": 307.68,
+    "text": "A thousand years ago, we would be using similar or sometimes identical sounds.",
+    "speaker": null
+  },
+  {
+    "start": 307.68,
+    "end": 310.56,
+    "text": "Similarly, number words evolved very slowly.",
+    "speaker": null
+  },
+  {
+    "start": 310.56,
+    "end": 315.439,
+    "text": "Our ancestors were using related sounds a thousand or perhaps even two thousand years ago.",
+    "speaker": null
+  },
+  {
+    "start": 316.079,
+    "end": 319.6,
+    "text": "Whereas nouns and adjectives get replaced quite rapidly.",
+    "speaker": null
+  },
+  {
+    "start": 319.6,
+    "end": 324.8,
+    "text": "And in 500 years or so, we'll probably be using different words to the ones we use now.",
+    "speaker": null
+  },
+  {
+    "start": 324.8,
+    "end": 327.439,
+    "text": "Well, I got that completely wrong then.",
+    "speaker": null
+  },
+  {
+    "start": 327.439,
+    "end": 330.48,
+    "text": "Well, I got that completely wrong then! Who knew that one, two, three would have such staying power?",
+    "speaker": "Alice"
+  },
+  {
+    "start": 330.56,
+    "end": 336.56,
+    "text": "I suppose numbers are pretty fundamental to our day-to-day lives – sort of part of who we are.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 336.56,
+    "end": 340.64,
+    "text": "Okay, let's hear the hopefully more permanent words we learned today.",
+    "speaker": null
+  },
+  {
+    "start": 340.64,
+    "end": 343.6,
+    "text": "They were baffling on the way out.",
+    "speaker": null
+  },
+  {
+    "start": 344.319,
+    "end": 345.04,
+    "text": "interrogative",
+    "speaker": "Neil"
+  },
+  {
+    "start": 345.92,
+    "end": 346.48,
+    "text": "win out",
+    "speaker": "Neil"
+  },
+  {
+    "start": 347.2,
+    "end": 347.92,
+    "text": "obligation",
+    "speaker": "Neil"
+  },
+  {
+    "start": 348.96,
+    "end": 349.92,
+    "text": "authoritarian",
+    "speaker": "Neil"
+  },
+  {
+    "start": 351.2,
+    "end": 352.24,
+    "text": "shying away from",
+    "speaker": "Neil"
+  },
+  {
+    "start": 353.2,
+    "end": 353.92,
+    "text": "progressive",
+    "speaker": "Neil"
+  },
+  {
+    "start": 355.2,
+    "end": 355.84,
+    "text": "stative",
+    "speaker": "Neil"
+  },
+  {
+    "start": 356.799,
+    "end": 359.359,
+    "text": "Well, that's the end of today's six-minute English.",
+    "speaker": null
+  },
+  {
+    "start": 359.359,
+    "end": 362.079,
+    "text": "To recap, we're enjoying the progressive tense.",
+    "speaker": null
+  },
+  {
+    "start": 362.639,
+    "end": 366.319,
+    "text": "And we're loving 'will' and 'should', but avoiding 'shall' and 'must'. Don't forget to join us again soon!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 366.959,
+    "end": 368.56,
+    "text": "Don't forget to join us again soon.",
+    "speaker": null
+  },
+  {
+    "start": 368.56,
+    "end": 369.12,
+    "text": "Goodbye.",
+    "speaker": null
+  },
+  {
+    "start": 369.12,
+    "end": 369.519,
+    "text": "Bye!",
+    "speaker": "Both"
+  }
+]

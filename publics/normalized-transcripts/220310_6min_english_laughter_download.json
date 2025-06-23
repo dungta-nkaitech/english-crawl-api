@@ -1,0 +1,656 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 11.2,
+    "text": "6 Minute English from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 13.2,
+    "end": 17.6,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 17.6,
+    "end": 19.12,
+    "text": "And I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 19.12,
+    "end": 21.12,
+    "text": "Have you heard this, Doke Neil?",
+    "speaker": null
+  },
+  {
+    "start": 21.12,
+    "end": 24.48,
+    "text": "Have you heard this joke, Neil? Question: what’s a rat’s favourite game?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 24.48,
+    "end": 27.679,
+    "text": "I don’t know, Sam, what is a rat’s favourite game?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 27.679,
+    "end": 28.879,
+    "text": "Hide and squeak!",
+    "speaker": "Sam"
+  },
+  {
+    "start": 29.839,
+    "end": 30.879,
+    "text": "Ha-ha-ha! Very funny!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 30.879,
+    "end": 35.6,
+    "text": "Well, I’m glad you’re laughing because, as we’ll be finding out in this programme, laughter is good for you! In fact, laughter is often called ‘the best medicine’.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 35.6,
+    "end": 41.439,
+    "text": "laughter is good for you. In fact, laughter is often called the best medicine.",
+    "speaker": null
+  },
+  {
+    "start": 41.439,
+    "end": 44.159,
+    "text": "And it seems that's really true, medically speaking.",
+    "speaker": null
+  },
+  {
+    "start": 44.719,
+    "end": 48.48,
+    "text": "Laughing releases anti-stress endorphins into the body,",
+    "speaker": null
+  },
+  {
+    "start": 48.48,
+    "end": 52.799,
+    "text": "and there's evidence that people who laugh recover more quickly from illness,",
+    "speaker": null
+  },
+  {
+    "start": 52.799,
+    "end": 54,
+    "text": "including Covid.",
+    "speaker": null
+  },
+  {
+    "start": 54,
+    "end": 57.28,
+    "text": "Laughing is an essential part of what makes us human.",
+    "speaker": null
+  },
+  {
+    "start": 57.28,
+    "end": 61.12,
+    "text": "Babies cry straight from birth, but the next sound they make,",
+    "speaker": null
+  },
+  {
+    "start": 61.12,
+    "end": 64.48,
+    "text": "often as young as two or three months, is laughter.",
+    "speaker": null
+  },
+  {
+    "start": 64.48,
+    "end": 67.76,
+    "text": "And who can hear a baby laugh without laughing themselves? Laughter is catching.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 67.76,
+    "end": 69.2,
+    "text": "Laughter is catching.",
+    "speaker": null
+  },
+  {
+    "start": 69.2,
+    "end": 73.599,
+    "text": "But before we start tickling off any bones, I have a quiz question for you, Neil,",
+    "speaker": null
+  },
+  {
+    "start": 73.599,
+    "end": 75.92,
+    "text": "and it's no laughing matter.",
+    "speaker": null
+  },
+  {
+    "start": 75.92,
+    "end": 78.159,
+    "text": "Laughter can be a serious business.",
+    "speaker": null
+  },
+  {
+    "start": 78.159,
+    "end": 83.92,
+    "text": "In fact, there's a scientific field of study into laughter and its effects on the human body.",
+    "speaker": null
+  },
+  {
+    "start": 84.56,
+    "end": 87.12,
+    "text": "But what is this study called?",
+    "speaker": null
+  },
+  {
+    "start": 87.12,
+    "end": 94.079,
+    "text": "Is it A, GIGLOGY, B, GELOTOLOGY or C, GIFOLOGY?",
+    "speaker": null
+  },
+  {
+    "start": 94.079,
+    "end": 96,
+    "text": "Did you make those words up, Sam?",
+    "speaker": null
+  },
+  {
+    "start": 96,
+    "end": 97.6,
+    "text": "They sound a bit funny to me.",
+    "speaker": null
+  },
+  {
+    "start": 97.6,
+    "end": 101.52,
+    "text": "I'll say the study of laughter is called B, GELOTOLOGY.",
+    "speaker": null
+  },
+  {
+    "start": 101.52,
+    "end": 105.76,
+    "text": "Okay, Neil, but you'll be laughing on the other side of your face if you're wrong.",
+    "speaker": null
+  },
+  {
+    "start": 106.56,
+    "end": 110.32,
+    "text": "Anyway, we'll find out the correct answer later in the programme.",
+    "speaker": null
+  },
+  {
+    "start": 110.32,
+    "end": 114.32,
+    "text": "Someone who's an expert in the study of laughing, whatever it's called,",
+    "speaker": null
+  },
+  {
+    "start": 114.399,
+    "end": 118.559,
+    "text": "is Cognitive Neuroscientists, Professor Sophie Scott.",
+    "speaker": null
+  },
+  {
+    "start": 118.559,
+    "end": 120.639,
+    "text": "Here she explains to David Edmunds,",
+    "speaker": null
+  },
+  {
+    "start": 120.639,
+    "end": 124.079,
+    "text": "presenter of BBC World Service programme The Big Idea,",
+    "speaker": null
+  },
+  {
+    "start": 124.079,
+    "end": 125.919,
+    "text": "exactly how a laugh is produced.",
+    "speaker": null
+  },
+  {
+    "start": 130,
+    "end": 132.24,
+    "text": "Laughing is a variation of breathing.",
+    "speaker": null
+  },
+  {
+    "start": 133.12,
+    "end": 135.759,
+    "text": "Like breathing, it involves the ribcage.",
+    "speaker": null
+  },
+  {
+    "start": 135.759,
+    "end": 137.919,
+    "text": "When you laugh, you get these very, very large,",
+    "speaker": null
+  },
+  {
+    "start": 138.799,
+    "end": 141.84,
+    "text": "very fast contractions of the ribcage.",
+    "speaker": null
+  },
+  {
+    "start": 141.84,
+    "end": 144,
+    "text": "And it's a very primitive way of making a sound.",
+    "speaker": null
+  },
+  {
+    "start": 144,
+    "end": 147.039,
+    "text": "So you're really just squeezing air out in big bouts.",
+    "speaker": null
+  },
+  {
+    "start": 147.039,
+    "end": 149.919,
+    "text": "Each of those individual squeezes gives you both a huff sound.",
+    "speaker": null
+  },
+  {
+    "start": 151.84,
+    "end": 156.719,
+    "text": "The ha ha sound you make when you laugh comes from your ribcage.",
+    "speaker": null
+  },
+  {
+    "start": 156.719,
+    "end": 159.84,
+    "text": "A structure made of bones, called ribs,",
+    "speaker": null
+  },
+  {
+    "start": 159.84,
+    "end": 163.12,
+    "text": "in your chest which protects the heart and lungs.",
+    "speaker": null
+  },
+  {
+    "start": 163.12,
+    "end": 167.199,
+    "text": "The ribcage works like a drum to amplify a laugh.",
+    "speaker": null
+  },
+  {
+    "start": 167.199,
+    "end": 171.199,
+    "text": "It's the reason why jokes are sometimes called rib ticklers.",
+    "speaker": null
+  },
+  {
+    "start": 171.199,
+    "end": 175.359,
+    "text": "Professor Scott calls this a very primitive way of making sounds because it’s simple, natural and essentially human.",
+    "speaker": "primitive"
+  },
+  {
+    "start": 175.359,
+    "end": 178.879,
+    "text": "because it's simple, natural and essentially human.",
+    "speaker": null
+  },
+  {
+    "start": 178.879,
+    "end": 183.28,
+    "text": "The word primitive can be used to describe anything relating to the basic way",
+    "speaker": null
+  },
+  {
+    "start": 183.28,
+    "end": 186.639,
+    "text": "humans lived at their early stages of development.",
+    "speaker": null
+  },
+  {
+    "start": 186.639,
+    "end": 189.439,
+    "text": "Before money, machines or writing were invented.",
+    "speaker": null
+  },
+  {
+    "start": 190.079,
+    "end": 193.12,
+    "text": "Primitive human noises like crying and laughing",
+    "speaker": null
+  },
+  {
+    "start": 193.12,
+    "end": 196.239,
+    "text": "linked to a universal human experience.",
+    "speaker": null
+  },
+  {
+    "start": 196.239,
+    "end": 200.879,
+    "text": "And this can be seen in the large number of words we use to talk about them.",
+    "speaker": null
+  },
+  {
+    "start": 200.879,
+    "end": 206,
+    "text": "In English, chuckle, giggle, turtle, cackle and giggle,",
+    "speaker": null
+  },
+  {
+    "start": 206,
+    "end": 208.639,
+    "text": "all describe different types of laughter.",
+    "speaker": null
+  },
+  {
+    "start": 208.639,
+    "end": 211.519,
+    "text": "Right, so how would you describe a ‘giggle’, Sam?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 211.519,
+    "end": 212.24,
+    "text": "Hmm.",
+    "speaker": null
+  },
+  {
+    "start": 212.24,
+    "end": 217.28,
+    "text": "I'd say a giggle is laughing in a quiet but uncontrolled way,",
+    "speaker": null
+  },
+  {
+    "start": 217.28,
+    "end": 221.12,
+    "text": "I’d say a giggle is laughing in a quiet but uncontrolled way, like a child who finds something very funny or feels embarrassed.",
+    "speaker": "giggle"
+  },
+  {
+    "start": 221.12,
+    "end": 225.599,
+    "text": "Unlike a giggle, which is when you blast out a very loud laugh,",
+    "speaker": null
+  },
+  {
+    "start": 225.599,
+    "end": 228.56,
+    "text": "often it's something stupid or rude someone has said.",
+    "speaker": null
+  },
+  {
+    "start": 229.199,
+    "end": 232.08,
+    "text": "But humans aren't the only animals to laugh.",
+    "speaker": null
+  },
+  {
+    "start": 232.08,
+    "end": 236,
+    "text": "We belong to the same family as other primates like chimpanzees,",
+    "speaker": null
+  },
+  {
+    "start": 236,
+    "end": 239.12,
+    "text": "gorillas and orangutans, all of whom laugh.",
+    "speaker": null
+  },
+  {
+    "start": 239.12,
+    "end": 243.68,
+    "text": "Even rat tickle each other and make squeaky noises like laughter when they play.",
+    "speaker": null
+  },
+  {
+    "start": 244.24,
+    "end": 249.12,
+    "text": "Here's Professor Scott again to take up the story for BBC World Service Program,",
+    "speaker": null
+  },
+  {
+    "start": 249.12,
+    "end": 250.08,
+    "text": "The Big Idea.",
+    "speaker": null
+  },
+  {
+    "start": 251.28,
+    "end": 253.36,
+    "text": "Play's a very important behaviour for mammals,",
+    "speaker": null
+  },
+  {
+    "start": 253.36,
+    "end": 256.879,
+    "text": "all mammals play when they're juveniles and some mammals play their whole lives.",
+    "speaker": null
+  },
+  {
+    "start": 256.959,
+    "end": 260.639,
+    "text": "And laughter's a sort of an invitation to play to sign that you're playing.",
+    "speaker": null
+  },
+  {
+    "start": 262.319,
+    "end": 267.279,
+    "text": "Professor Scott says laughter is an important social tool for all mammals.",
+    "speaker": null
+  },
+  {
+    "start": 267.279,
+    "end": 272.399,
+    "text": "Animals, including humans, dogs and whales, which give birth to live young,",
+    "speaker": null
+  },
+  {
+    "start": 272.399,
+    "end": 275.92,
+    "text": "rather than laying eggs, and who feed their young with milk.",
+    "speaker": null
+  },
+  {
+    "start": 275.92,
+    "end": 279.6,
+    "text": "By laughing, young mammals, sometimes called juveniles,",
+    "speaker": null
+  },
+  {
+    "start": 279.6,
+    "end": 281.439,
+    "text": "signal that they want to play.",
+    "speaker": null
+  },
+  {
+    "start": 281.439,
+    "end": 286.079,
+    "text": "And young rats who don't laugh back are more likely to get a bite than a giggle,",
+    "speaker": null
+  },
+  {
+    "start": 286.159,
+    "end": 288.719,
+    "text": "and a rat bite is nothing to laugh about.",
+    "speaker": null
+  },
+  {
+    "start": 289.199,
+    "end": 292.159,
+    "text": "What a lot of facts we've learnt about laughter, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 292.159,
+    "end": 294.959,
+    "text": "Yes, we could almost be experts on laughter.",
+    "speaker": null
+  },
+  {
+    "start": 294.959,
+    "end": 297.599,
+    "text": "Gapologists, isn't that what you called them, sir?",
+    "speaker": null
+  },
+  {
+    "start": 297.599,
+    "end": 298.319,
+    "text": "Ah, yes.",
+    "speaker": null
+  },
+  {
+    "start": 298.319,
+    "end": 302.639,
+    "text": "Ah yes, in my quiz question I asked you to name the scientific study of laughter and its effects on the body.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 302.639,
+    "end": 304.639,
+    "text": "and its effects on the body.",
+    "speaker": null
+  },
+  {
+    "start": 304.639,
+    "end": 308.319,
+    "text": "I'm almost certain it's not gigglogy or gapology,",
+    "speaker": null
+  },
+  {
+    "start": 308.319,
+    "end": 310.799,
+    "text": "so the answer must be...",
+    "speaker": null
+  },
+  {
+    "start": 310.799,
+    "end": 312.079,
+    "text": "Gelatology!",
+    "speaker": null
+  },
+  {
+    "start": 312.079,
+    "end": 314.319,
+    "text": "The correct answer, well done, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 314.319,
+    "end": 316.079,
+    "text": "I knew you were good for a laugh.",
+    "speaker": null
+  },
+  {
+    "start": 316.079,
+    "end": 319.279,
+    "text": "Okay, let's recap the vocabulary from the programme",
+    "speaker": null
+  },
+  {
+    "start": 319.279,
+    "end": 321.68,
+    "text": "before you think up any more terrible jokes.",
+    "speaker": null
+  },
+  {
+    "start": 322.24,
+    "end": 325.199,
+    "text": "First, we had ribcage, the structure in your chest,",
+    "speaker": null
+  },
+  {
+    "start": 325.199,
+    "end": 328.56,
+    "text": "which is made of ribs, and produces the sound of laughter.",
+    "speaker": null
+  },
+  {
+    "start": 328.56,
+    "end": 333.279,
+    "text": "The adjective primitive relates to the simple, natural way humans lived in their early stages of development.",
+    "speaker": "primitive"
+  },
+  {
+    "start": 333.279,
+    "end": 335.279,
+    "text": "in the early stages of development.",
+    "speaker": null
+  },
+  {
+    "start": 335.279,
+    "end": 338.159,
+    "text": "There are different types of laughter, including giggles - childlike laughter in a quiet but uncontrolled way.",
+    "speaker": "giggles"
+  },
+  {
+    "start": 338.159,
+    "end": 341.519,
+    "text": "childlike laughter, in a quiet but uncontrolled way.",
+    "speaker": null
+  },
+  {
+    "start": 341.519,
+    "end": 345.919,
+    "text": "And gaffors, when you laugh out loud, often at something someone has said.",
+    "speaker": null
+  },
+  {
+    "start": 345.919,
+    "end": 348.319,
+    "text": "Mammals are animals, including humans,",
+    "speaker": null
+  },
+  {
+    "start": 348.319,
+    "end": 351.839,
+    "text": "Mammals are animals, including humans, which give birth to live young and feed them with milk.",
+    "speaker": "Mammals"
+  },
+  {
+    "start": 351.839,
+    "end": 357.12,
+    "text": "And finally, a young animal which is not fully grown can be called a juvenile.",
+    "speaker": "juvenile."
+  },
+  {
+    "start": 357.12,
+    "end": 360.879,
+    "text": "Well, it’s been a laugh a minute, Sam, but unfortunately our six minutes are up.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 361.599,
+    "end": 364.159,
+    "text": "Join us again soon for more trending topics,",
+    "speaker": null
+  },
+  {
+    "start": 364.159,
+    "end": 367.919,
+    "text": "useful vocabulary, and who knows, maybe some terrible jokes,",
+    "speaker": null
+  },
+  {
+    "start": 367.919,
+    "end": 370.319,
+    "text": "here at six minutes English. Bye for now.",
+    "speaker": null
+  },
+  {
+    "start": 370.319,
+    "end": 371.12,
+    "text": "Goodbye!",
+    "speaker": "Neil"
+  }
+]

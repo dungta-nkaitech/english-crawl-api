@@ -1,0 +1,908 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.6,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.6,
+    "end": 8.24,
+    "text": "6-Mute English",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 11.279,
+    "text": "From BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 11.279,
+    "end": 13.04,
+    "text": "Hello and welcome to 6 Minute English,",
+    "speaker": null
+  },
+  {
+    "start": 13.04,
+    "end": 14.88,
+    "text": "the show that brings you an interesting topic,",
+    "speaker": null
+  },
+  {
+    "start": 14.88,
+    "end": 18.48,
+    "text": "authentic listening practice and six new items of vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 18.48,
+    "end": 20,
+    "text": "I'm Dan and I'm Neil.",
+    "speaker": null
+  },
+  {
+    "start": 20,
+    "end": 22.64,
+    "text": "And I'm Neil. We’ll be discussing the rise of those little graphics we call emojis and emoticons.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 22.64,
+    "end": 24.8,
+    "text": "we call emojis and emoticons.",
+    "speaker": null
+  },
+  {
+    "start": 24.8,
+    "end": 27.839,
+    "text": "You know, I think emojis are a vital tool for communication. And actually, they’re not that new, either.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 27.839,
+    "end": 29.76,
+    "text": "and actually they're not that new either.",
+    "speaker": null
+  },
+  {
+    "start": 29.839,
+    "end": 30.48,
+    "text": "Oh really?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 30.48,
+    "end": 33.92,
+    "text": "Well, that’s the perfect opportunity to ask this week’s question. When was the first emoticon used? Was it?",
+    "speaker": "Dan"
+  },
+  {
+    "start": 33.92,
+    "end": 35.84,
+    "text": "When was the first emoticon used?",
+    "speaker": null
+  },
+  {
+    "start": 35.84,
+    "end": 41.679,
+    "text": "Was it A, 1606, B, 1862 or C, 1982?",
+    "speaker": null
+  },
+  {
+    "start": 41.679,
+    "end": 43.439,
+    "text": "It must be 1982. I’ll go with c).",
+    "speaker": "Neil"
+  },
+  {
+    "start": 43.439,
+    "end": 44.719,
+    "text": "I'll go with C.",
+    "speaker": null
+  },
+  {
+    "start": 44.719,
+    "end": 47.6,
+    "text": "We'll find out if you'll write or wrong later in the program.",
+    "speaker": null
+  },
+  {
+    "start": 47.6,
+    "end": 51.2,
+    "text": "You know, I think we should clear one thing up before we go any further: what’s the difference between an emoticon and an emoji?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 51.2,
+    "end": 54.64,
+    "text": "What's the difference between an emoticon and an emoji?",
+    "speaker": null
+  },
+  {
+    "start": 54.64,
+    "end": 55.359,
+    "text": "Good point.",
+    "speaker": null
+  },
+  {
+    "start": 55.359,
+    "end": 56.96,
+    "text": "emoticons came first.",
+    "speaker": null
+  },
+  {
+    "start": 57.039,
+    "end": 60.16,
+    "text": "They're the images made using normal keys on a keyboard.",
+    "speaker": null
+  },
+  {
+    "start": 60.16,
+    "end": 62.399,
+    "text": "Usually punctuation, letters and numbers.",
+    "speaker": null
+  },
+  {
+    "start": 62.399,
+    "end": 68,
+    "text": "For example, a colon, two dots followed by the curved line of a closed bracket is a...",
+    "speaker": null
+  },
+  {
+    "start": 68,
+    "end": 68.96,
+    "text": "A smiley face.",
+    "speaker": null
+  },
+  {
+    "start": 68.96,
+    "end": 69.84,
+    "text": "Hey!",
+    "speaker": null
+  },
+  {
+    "start": 69.84,
+    "end": 73.359,
+    "text": "A smiley face. Something you use in way too many of your emails!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 73.359,
+    "end": 74.64,
+    "text": "Well, thanks.",
+    "speaker": null
+  },
+  {
+    "start": 74.64,
+    "end": 77.439,
+    "text": "Whereas an emoji is something completely different,",
+    "speaker": null
+  },
+  {
+    "start": 77.439,
+    "end": 78.96,
+    "text": "it's an actual image.",
+    "speaker": null
+  },
+  {
+    "start": 78.96,
+    "end": 81.2,
+    "text": "It could be a simple yellow smiley face",
+    "speaker": null
+  },
+  {
+    "start": 81.2,
+    "end": 83.04,
+    "text": "or something like the dancing lady",
+    "speaker": null
+  },
+  {
+    "start": 83.04,
+    "end": 84.4,
+    "text": "or even a bowl of noodles.",
+    "speaker": null
+  },
+  {
+    "start": 84.48,
+    "end": 85.04,
+    "text": "Ah, yes.",
+    "speaker": null
+  },
+  {
+    "start": 85.04,
+    "end": 87.44,
+    "text": "All those little images we have in our phones.",
+    "speaker": null
+  },
+  {
+    "start": 87.44,
+    "end": 88.88,
+    "text": "But you'll have to convince me.",
+    "speaker": null
+  },
+  {
+    "start": 88.88,
+    "end": 91.12,
+    "text": "Why do people use them so much?",
+    "speaker": null
+  },
+  {
+    "start": 91.12,
+    "end": 93.6,
+    "text": "Well, let's listen to Professor Viv Evans.",
+    "speaker": null
+  },
+  {
+    "start": 93.6,
+    "end": 96,
+    "text": "He wrote a book called The Emoji Code.",
+    "speaker": null
+  },
+  {
+    "start": 96,
+    "end": 101.28,
+    "text": "They enable us to express emotion and empathy in digital communication.",
+    "speaker": null
+  },
+  {
+    "start": 101.28,
+    "end": 105.28,
+    "text": "Increasingly, what we're finding is that digital communication is taking over",
+    "speaker": null
+  },
+  {
+    "start": 105.28,
+    "end": 107.68,
+    "text": "from certain aspects of face-to-face interaction.",
+    "speaker": null
+  },
+  {
+    "start": 108.32,
+    "end": 110.32,
+    "text": "In the UK today, for example,",
+    "speaker": null
+  },
+  {
+    "start": 110.32,
+    "end": 113.84,
+    "text": "adults spend 22 hours online on average,",
+    "speaker": null
+  },
+  {
+    "start": 113.92,
+    "end": 114.719,
+    "text": "each week.",
+    "speaker": null
+  },
+  {
+    "start": 114.719,
+    "end": 117.04,
+    "text": "One of the reasons emoji is so interesting",
+    "speaker": null
+  },
+  {
+    "start": 117.04,
+    "end": 121.52,
+    "text": "is they really do enable us to express our emotional selves much more effectively.",
+    "speaker": null
+  },
+  {
+    "start": 121.52,
+    "end": 122.159,
+    "text": "Oh, OK.",
+    "speaker": null
+  },
+  {
+    "start": 122.159,
+    "end": 125.04,
+    "text": "So he used a very useful word, empathy.",
+    "speaker": null
+  },
+  {
+    "start": 125.04,
+    "end": 128.96,
+    "text": "Ok so he used a very useful word - empathy. It means ‘the ability to show you understand someone else’s feelings’. Ok – tell me more Dan.",
+    "speaker": "empathy"
+  },
+  {
+    "start": 128.96,
+    "end": 130.48,
+    "text": "OK, tell me more, Dan.",
+    "speaker": null
+  },
+  {
+    "start": 130.48,
+    "end": 131.12,
+    "text": "Yes.",
+    "speaker": null
+  },
+  {
+    "start": 131.12,
+    "end": 134.64,
+    "text": "Adding an emoticon can show you understand and express emotion",
+    "speaker": null
+  },
+  {
+    "start": 134.64,
+    "end": 137.039,
+    "text": "and show empathy more clearly.",
+    "speaker": null
+  },
+  {
+    "start": 137.039,
+    "end": 142,
+    "text": "In digital communication, we lack the visual signals we have in face-to-face interaction,",
+    "speaker": null
+  },
+  {
+    "start": 142,
+    "end": 143.039,
+    "text": "as he says.",
+    "speaker": null
+  },
+  {
+    "start": 143.039,
+    "end": 146.719,
+    "text": "Interaction, meaning when people or things communicate with each other.",
+    "speaker": null
+  },
+  {
+    "start": 146.719,
+    "end": 150.799,
+    "text": "Interaction, meaning ‘when people or things communicate with each other’. We can also interact with things like machines, computers and social media.",
+    "speaker": "Interactioninteract"
+  },
+  {
+    "start": 150.799,
+    "end": 151.359,
+    "text": "Yes.",
+    "speaker": null
+  },
+  {
+    "start": 151.359,
+    "end": 157.039,
+    "text": "Yes, Professor Evans says 60% of information when we’re talking to each other comes from non-verbal cues.",
+    "speaker": "non-verbalcues"
+  },
+  {
+    "start": 157.039,
+    "end": 158.56,
+    "text": "Wow, that's a lot.",
+    "speaker": null
+  },
+  {
+    "start": 158.56,
+    "end": 161.439,
+    "text": "Wow, that’s a lot. A cue is a signal that you need to do something.",
+    "speaker": "cue"
+  },
+  {
+    "start": 161.439,
+    "end": 164.56,
+    "text": "For example, an actor goes on stage after their cue.",
+    "speaker": "cue"
+  },
+  {
+    "start": 164.56,
+    "end": 168.479,
+    "text": "And non-verbal means without using spoken language.",
+    "speaker": null
+  },
+  {
+    "start": 168.479,
+    "end": 171.84,
+    "text": "So here in the studio, there are lots of other non-verbal signals",
+    "speaker": null
+  },
+  {
+    "start": 171.84,
+    "end": 174.479,
+    "text": "about how we're feeling, non-verbal cues.",
+    "speaker": null
+  },
+  {
+    "start": 174.479,
+    "end": 179.28,
+    "text": "For example, my facial expression, my body language, the look in my eyes, Dan.",
+    "speaker": null
+  },
+  {
+    "start": 179.28,
+    "end": 182.24,
+    "text": "There's a glint of rage in there somewhere, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 182.24,
+    "end": 185.039,
+    "text": "OK, so let's apply this to digital communication.",
+    "speaker": null
+  },
+  {
+    "start": 185.039,
+    "end": 188.48,
+    "text": "Imagine I sent you a text saying, I hit my finger with a hammer.",
+    "speaker": null
+  },
+  {
+    "start": 188.48,
+    "end": 190,
+    "text": "How would you respond?",
+    "speaker": null
+  },
+  {
+    "start": 190,
+    "end": 191.039,
+    "text": "Well, it depends.",
+    "speaker": null
+  },
+  {
+    "start": 191.039,
+    "end": 192.64,
+    "text": "Well, it depends. Did you hurt yourself badly?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 192.64,
+    "end": 195.52,
+    "text": "If I followed it with a sad face emoji, then…?",
+    "speaker": "Dan"
+  },
+  {
+    "start": 195.52,
+    "end": 198.24,
+    "text": "Then I guess I know you hurt yourself.",
+    "speaker": null
+  },
+  {
+    "start": 198.24,
+    "end": 199.12,
+    "text": "I'll pull you.",
+    "speaker": null
+  },
+  {
+    "start": 199.12,
+    "end": 201.599,
+    "text": "But if I followed it with a laughing emoji,",
+    "speaker": null
+  },
+  {
+    "start": 201.599,
+    "end": 204.319,
+    "text": "But if I followed it with a laughing emoji – the one with the tears coming out because I’m laughing so much?",
+    "speaker": "Dan"
+  },
+  {
+    "start": 204.319,
+    "end": 208,
+    "text": "Then I’d probably reply saying how stupid and clumsy you are!",
+    "speaker": "clumsy"
+  },
+  {
+    "start": 208,
+    "end": 209.12,
+    "text": "Exactly.",
+    "speaker": null
+  },
+  {
+    "start": 209.12,
+    "end": 212.4,
+    "text": "Without adding the emoji, it's hard to know my emotional state.",
+    "speaker": null
+  },
+  {
+    "start": 212.4,
+    "end": 216.159,
+    "text": "The emoji is the non-verbal cue, like my facial expression.",
+    "speaker": null
+  },
+  {
+    "start": 216.159,
+    "end": 219.12,
+    "text": "By the way, is there an emoji meaning clumsy?",
+    "speaker": null
+  },
+  {
+    "start": 219.12,
+    "end": 221.36,
+    "text": "Clumsy means physically awkward.",
+    "speaker": null
+  },
+  {
+    "start": 221.36,
+    "end": 224.56,
+    "text": "Someone whose clumsy falls over a lot and drops things.",
+    "speaker": null
+  },
+  {
+    "start": 224.56,
+    "end": 227.68,
+    "text": "Anyway, you were saying emoticons aren't as new as I think.",
+    "speaker": null
+  },
+  {
+    "start": 227.76,
+    "end": 229.599,
+    "text": "Yes, I asked when they were invented. Is it a)1606, b)1862 or c)1982?",
+    "speaker": "Dan"
+  },
+  {
+    "start": 229.599,
+    "end": 234.8,
+    "text": "Is it A, 1606, B, 1862, or C, 1982?",
+    "speaker": null
+  },
+  {
+    "start": 234.8,
+    "end": 236.56,
+    "text": "I said 1982.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 236.56,
+    "end": 239.36,
+    "text": "Well, in fact, a witty speech Abraham Lincoln reprinted",
+    "speaker": null
+  },
+  {
+    "start": 239.36,
+    "end": 243.76,
+    "text": "in a newspaper as far back as 1862 included a semi-colon",
+    "speaker": null
+  },
+  {
+    "start": 243.76,
+    "end": 245.2,
+    "text": "with closed brackets.",
+    "speaker": null
+  },
+  {
+    "start": 245.2,
+    "end": 246.319,
+    "text": "Like a winking face?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 246.319,
+    "end": 247.36,
+    "text": "Exactly.",
+    "speaker": null
+  },
+  {
+    "start": 247.36,
+    "end": 250.879,
+    "text": "Although people think this was sadly just a typographical error,",
+    "speaker": null
+  },
+  {
+    "start": 250.879,
+    "end": 253.84,
+    "text": "or what we normally call a typo, a typo,",
+    "speaker": null
+  },
+  {
+    "start": 253.84,
+    "end": 257.6,
+    "text": "A typo – a spelling mistake made when typing too fast or carelessly.",
+    "speaker": "typo"
+  },
+  {
+    "start": 257.6,
+    "end": 261.28,
+    "text": "The official birth of emoticons is usually given as 1982",
+    "speaker": null
+  },
+  {
+    "start": 261.28,
+    "end": 265.04,
+    "text": "when a US professor instructed his students to use smiley faces",
+    "speaker": null
+  },
+  {
+    "start": 265.04,
+    "end": 267.2,
+    "text": "to indicate jokes in a digital communication.",
+    "speaker": null
+  },
+  {
+    "start": 267.92,
+    "end": 270.24,
+    "text": "Wow, so they're over 30 years old.",
+    "speaker": null
+  },
+  {
+    "start": 270.24,
+    "end": 272.08,
+    "text": "Maybe I should start using them.",
+    "speaker": null
+  },
+  {
+    "start": 272.08,
+    "end": 274.879,
+    "text": "Let's round up with another look at today's words.",
+    "speaker": null
+  },
+  {
+    "start": 274.879,
+    "end": 275.68,
+    "text": "Sure.",
+    "speaker": null
+  },
+  {
+    "start": 275.68,
+    "end": 277.92,
+    "text": "The first word we had was empathy.",
+    "speaker": null
+  },
+  {
+    "start": 277.92,
+    "end": 279.28,
+    "text": "Do you have a lot of empathy, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 279.28,
+    "end": 282.56,
+    "text": "Yes, I think I'm quite good at understanding other people's feelings.",
+    "speaker": null
+  },
+  {
+    "start": 282.56,
+    "end": 284.4,
+    "text": "My friends tell me that anyway.",
+    "speaker": null
+  },
+  {
+    "start": 284.4,
+    "end": 286.96,
+    "text": "It's important to empathize with your colleagues too.",
+    "speaker": null
+  },
+  {
+    "start": 287.039,
+    "end": 288.479,
+    "text": "That's not what I saw in your eyes.",
+    "speaker": null
+  },
+  {
+    "start": 289.199,
+    "end": 292.399,
+    "text": "That’s not what I saw in your eyes! Yes, empathy is an important part of all human interaction.",
+    "speaker": "empathyinteraction"
+  },
+  {
+    "start": 292.399,
+    "end": 293.359,
+    "text": "Nicely done.",
+    "speaker": null
+  },
+  {
+    "start": 293.359,
+    "end": 296.479,
+    "text": "Nicely done. If two people interact, it means they ‘communicate with each other and react to each other’. It’s a pretty broad term.",
+    "speaker": "interact"
+  },
+  {
+    "start": 296.479,
+    "end": 297.919,
+    "text": "and react to each other.",
+    "speaker": null
+  },
+  {
+    "start": 297.919,
+    "end": 299.519,
+    "text": "It's a pretty broad term.",
+    "speaker": null
+  },
+  {
+    "start": 299.519,
+    "end": 303.759,
+    "text": "We could also talk about the way children interact with the internet way too much.",
+    "speaker": null
+  },
+  {
+    "start": 304.079,
+    "end": 307.599,
+    "text": "Next up, we had non-verbal meaning without spoken language.",
+    "speaker": null
+  },
+  {
+    "start": 307.599,
+    "end": 309.12,
+    "text": "When I first travelled to Poland,",
+    "speaker": null
+  },
+  {
+    "start": 309.12,
+    "end": 313.039,
+    "text": "I used a lot of non-verbal communication to get my message across.",
+    "speaker": null
+  },
+  {
+    "start": 313.039,
+    "end": 315.839,
+    "text": "Hand movements, counting with fingers, things like that.",
+    "speaker": null
+  },
+  {
+    "start": 315.919,
+    "end": 316.879,
+    "text": "Next word, Dan?",
+    "speaker": null
+  },
+  {
+    "start": 316.879,
+    "end": 317.599,
+    "text": "Next word.",
+    "speaker": null
+  },
+  {
+    "start": 317.599,
+    "end": 318.399,
+    "text": "Aha!",
+    "speaker": null
+  },
+  {
+    "start": 318.399,
+    "end": 321.279,
+    "text": "That is my cue to say the next word, which is, in fact,",
+    "speaker": null
+  },
+  {
+    "start": 321.279,
+    "end": 322.079,
+    "text": "cue.",
+    "speaker": null
+  },
+  {
+    "start": 322.079,
+    "end": 324,
+    "text": "A cue is a signal to do something.",
+    "speaker": null
+  },
+  {
+    "start": 324,
+    "end": 326.879,
+    "text": "A commander could give his officer a cue to attack.",
+    "speaker": null
+  },
+  {
+    "start": 326.879,
+    "end": 329.519,
+    "text": "Or I could give you a cue to sing a song?",
+    "speaker": null
+  },
+  {
+    "start": 329.519,
+    "end": 330.079,
+    "text": "No thanks.",
+    "speaker": null
+  },
+  {
+    "start": 330.079,
+    "end": 332.639,
+    "text": "I'll stick with defining words, thank you.",
+    "speaker": null
+  },
+  {
+    "start": 332.639,
+    "end": 335.519,
+    "text": "Like clumsy, meaning physically awkward.",
+    "speaker": null
+  },
+  {
+    "start": 335.519,
+    "end": 338.239,
+    "text": "I'd have to say, Dan, you're a sporty guy,",
+    "speaker": null
+  },
+  {
+    "start": 338.239,
+    "end": 339.359,
+    "text": "a talented footballer.",
+    "speaker": null
+  },
+  {
+    "start": 339.359,
+    "end": 340.559,
+    "text": "You're not clumsy at all.",
+    "speaker": null
+  },
+  {
+    "start": 340.559,
+    "end": 342.719,
+    "text": "Well, that's what I thought until I broke my leg",
+    "speaker": null
+  },
+  {
+    "start": 342.719,
+    "end": 345.039,
+    "text": "after a clumsy opponent ran into me.",
+    "speaker": null
+  },
+  {
+    "start": 345.28,
+    "end": 346.319,
+    "text": "Ouch!",
+    "speaker": null
+  },
+  {
+    "start": 346.319,
+    "end": 347.92,
+    "text": "Finally, we had type.",
+    "speaker": null
+  },
+  {
+    "start": 349.2,
+    "end": 351.52,
+    "text": "Oh, no hang on, that's not right.",
+    "speaker": null
+  },
+  {
+    "start": 351.52,
+    "end": 353.28,
+    "text": "It should say, typo.",
+    "speaker": null
+  },
+  {
+    "start": 353.28,
+    "end": 356.24,
+    "text": "A typo is a mistake in a written document",
+    "speaker": null
+  },
+  {
+    "start": 356.24,
+    "end": 358,
+    "text": "or a digital file or message.",
+    "speaker": null
+  },
+  {
+    "start": 358,
+    "end": 360.56,
+    "text": "Always check your scripts for typos before reading them, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 360.56,
+    "end": 362.48,
+    "text": "And that's the end of today's 6 Minute English.",
+    "speaker": null
+  },
+  {
+    "start": 362.48,
+    "end": 364,
+    "text": "Please join us again soon.",
+    "speaker": null
+  },
+  {
+    "start": 364,
+    "end": 365.68,
+    "text": "And we are on social media too,",
+    "speaker": null
+  },
+  {
+    "start": 365.68,
+    "end": 367.84,
+    "text": "Facebook, Twitter, Instagram and YouTube.",
+    "speaker": null
+  },
+  {
+    "start": 367.84,
+    "end": 368.72,
+    "text": "See you there.",
+    "speaker": null
+  },
+  {
+    "start": 368.72,
+    "end": 369.52,
+    "text": "Bye!",
+    "speaker": "Both"
+  }
+]

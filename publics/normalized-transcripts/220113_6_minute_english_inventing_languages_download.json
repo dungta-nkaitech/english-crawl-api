@@ -1,0 +1,752 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.279,
+    "text": "6 Minute English.",
+    "speaker": null
+  },
+  {
+    "start": 8.279,
+    "end": 10.88,
+    "text": "From BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 13.64,
+    "end": 16.64,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 16.64,
+    "end": 17.559,
+    "text": "I'm Sam.",
+    "speaker": null
+  },
+  {
+    "start": 17.559,
+    "end": 19.76,
+    "text": "And I’m Neil. How are you today, Sam?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 19.76,
+    "end": 22,
+    "text": "Thanks for asking Neil, I’m fine… not!",
+    "speaker": "Sam"
+  },
+  {
+    "start": 22,
+    "end": 23.16,
+    "text": "Not.",
+    "speaker": null
+  },
+  {
+    "start": 23.16,
+    "end": 26.08,
+    "text": "Sorry, so are you fine? Or not…?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 26.08,
+    "end": 28.519,
+    "text": "Oh, did I confuse you? My bad!",
+    "speaker": "Sam"
+  },
+  {
+    "start": 28.519,
+    "end": 32.6,
+    "text": "Ah, Sam is speaking English, just a very modern type of English.",
+    "speaker": null
+  },
+  {
+    "start": 32.6,
+    "end": 35.479,
+    "text": "For example, saying, my bad instead of my fault,",
+    "speaker": null
+  },
+  {
+    "start": 35.479,
+    "end": 37.759,
+    "text": "as a way of accepting that she's wrong.",
+    "speaker": null
+  },
+  {
+    "start": 37.759,
+    "end": 40.439,
+    "text": "Or adding not at the end of a sentence to show,",
+    "speaker": null
+  },
+  {
+    "start": 40.439,
+    "end": 43.56,
+    "text": "I really mean the opposite of what I said.",
+    "speaker": null
+  },
+  {
+    "start": 43.56,
+    "end": 46,
+    "text": "Both are examples of small changes in English,",
+    "speaker": null
+  },
+  {
+    "start": 46,
+    "end": 48.96,
+    "text": "which have happened naturally over the last decade or two.",
+    "speaker": null
+  },
+  {
+    "start": 48.96,
+    "end": 52.439,
+    "text": "Changes like these happen, because unlike, say, Latin,",
+    "speaker": null
+  },
+  {
+    "start": 52.439,
+    "end": 54.48,
+    "text": "which no one speaks day to day,",
+    "speaker": null
+  },
+  {
+    "start": 54.48,
+    "end": 56.6,
+    "text": "English is a living language.",
+    "speaker": null
+  },
+  {
+    "start": 56.6,
+    "end": 60.12,
+    "text": "A language people speak and use in their ordinary lives.",
+    "speaker": null
+  },
+  {
+    "start": 60.12,
+    "end": 64.56,
+    "text": "New bits of English are invented as people use the language in new ways.",
+    "speaker": null
+  },
+  {
+    "start": 64.56,
+    "end": 69.28,
+    "text": "But what happens when a language comes from an entirely different galaxy?",
+    "speaker": null
+  },
+  {
+    "start": 69.28,
+    "end": 73.2,
+    "text": "Somewhere like Cronos, home planet of the Klingon.",
+    "speaker": null
+  },
+  {
+    "start": 73.2,
+    "end": 76.159,
+    "text": "Yes, when sci-fi TV show Star Trek",
+    "speaker": null
+  },
+  {
+    "start": 76.159,
+    "end": 78.96,
+    "text": "introduced alien characters called Klingons,",
+    "speaker": null
+  },
+  {
+    "start": 78.96,
+    "end": 82.76,
+    "text": "the makers needed to invent a whole new language, Klingon.",
+    "speaker": null
+  },
+  {
+    "start": 82.76,
+    "end": 86.48,
+    "text": "Entirely made up and unrelated to any human language,",
+    "speaker": null
+  },
+  {
+    "start": 86.48,
+    "end": 89.24,
+    "text": "Klingon has developed a life of its own.",
+    "speaker": null
+  },
+  {
+    "start": 89.24,
+    "end": 92.48,
+    "text": "Today, you can even study it at university.",
+    "speaker": null
+  },
+  {
+    "start": 92.48,
+    "end": 95.4,
+    "text": "So, Neil, my quiz question is this.",
+    "speaker": null
+  },
+  {
+    "start": 95.4,
+    "end": 101.159,
+    "text": "In 2010, Klingon became the first invented language to do what?",
+    "speaker": null
+  },
+  {
+    "start": 101.159,
+    "end": 104.28,
+    "text": "a)      have its own dictionary?,",
+    "speaker": "Sam"
+  },
+  {
+    "start": 104.28,
+    "end": 109.6,
+    "text": "B, have an opera written, or C, be recognised as an official language",
+    "speaker": null
+  },
+  {
+    "start": 109.6,
+    "end": 111.52,
+    "text": "by the United Nations?",
+    "speaker": null
+  },
+  {
+    "start": 111.52,
+    "end": 114.96,
+    "text": "Every language needs vocabulary, so I'll say A, Klingon,",
+    "speaker": null
+  },
+  {
+    "start": 114.959,
+    "end": 118.559,
+    "text": "I guessed it was the first invented language to have its own dictionary.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 118.559,
+    "end": 121.879,
+    "text": "Okay, Neil, I'll reveal the answer later in the programme.",
+    "speaker": null
+  },
+  {
+    "start": 121.879,
+    "end": 125.559,
+    "text": "Klingon isn't the only made up language invented for the movies.",
+    "speaker": null
+  },
+  {
+    "start": 125.559,
+    "end": 127.959,
+    "text": "David Peterson is the creator of Dothraki,",
+    "speaker": null
+  },
+  {
+    "start": 127.959,
+    "end": 131.719,
+    "text": "a language used in the fantasy TV show Game of Thrones.",
+    "speaker": null
+  },
+  {
+    "start": 131.719,
+    "end": 133.199,
+    "text": "From his home in Los Angeles,",
+    "speaker": null
+  },
+  {
+    "start": 133.199,
+    "end": 138.56,
+    "text": "David spoke to Michael Rosen, presenter of BBC Radio 4 programme Word of Mouth.",
+    "speaker": null
+  },
+  {
+    "start": 138.56,
+    "end": 140.519,
+    "text": "They discussed St. Hildegard,",
+    "speaker": null
+  },
+  {
+    "start": 140.519,
+    "end": 144.519,
+    "text": "who created the very first made up language in the 12th century.",
+    "speaker": null
+  },
+  {
+    "start": 144.56,
+    "end": 148.48,
+    "text": "What she had was an entire list of nouns, a whole list of nouns.",
+    "speaker": null
+  },
+  {
+    "start": 148.48,
+    "end": 151,
+    "text": "Many of them godly, many of them not.",
+    "speaker": null
+  },
+  {
+    "start": 151,
+    "end": 155.439,
+    "text": "And she would drop them into songs using Latin grammar,",
+    "speaker": null
+  },
+  {
+    "start": 155.439,
+    "end": 156.68,
+    "text": "and other Latin words.",
+    "speaker": null
+  },
+  {
+    "start": 156.68,
+    "end": 161.32,
+    "text": "And so, it's not a language proper as the way that we understand it now.",
+    "speaker": null
+  },
+  {
+    "start": 161.32,
+    "end": 163.12,
+    "text": "Because really, when we talk about a language,",
+    "speaker": null
+  },
+  {
+    "start": 163.12,
+    "end": 165.32,
+    "text": "it's not just the vocabulary, it's the grammar.",
+    "speaker": null
+  },
+  {
+    "start": 165.32,
+    "end": 168.36,
+    "text": "Nevertheless, we still kind of look on her",
+    "speaker": null
+  },
+  {
+    "start": 168.36,
+    "end": 172.36,
+    "text": "as the patron saint of modern Klingon.",
+    "speaker": null
+  },
+  {
+    "start": 172.4,
+    "end": 176.52,
+    "text": "St. Hildegard invented new nouns, but used Latin grammar.",
+    "speaker": null
+  },
+  {
+    "start": 176.52,
+    "end": 180.32,
+    "text": "So David doesn't think her invention is a proper language.",
+    "speaker": null
+  },
+  {
+    "start": 180.32,
+    "end": 184.64,
+    "text": "Nevertheless, St. Hildegard is considered the patron saint of made up languages.",
+    "speaker": null
+  },
+  {
+    "start": 184.64,
+    "end": 187.84,
+    "text": "The patron saint of something refers to a Christian saint",
+    "speaker": null
+  },
+  {
+    "start": 187.84,
+    "end": 191.04,
+    "text": "who is believed to give special help to a particular activity.",
+    "speaker": null
+  },
+  {
+    "start": 191.04,
+    "end": 193.92,
+    "text": "Here, the activity is inventing a conlang,",
+    "speaker": null
+  },
+  {
+    "start": 193.92,
+    "end": 195.88,
+    "text": "short for constructed language,",
+    "speaker": null
+  },
+  {
+    "start": 195.88,
+    "end": 199.8,
+    "text": "artificially invented languages like Klingon and Dothraki.",
+    "speaker": null
+  },
+  {
+    "start": 199.84,
+    "end": 202.88,
+    "text": "Another famous, constructed language, Esperanto,",
+    "speaker": null
+  },
+  {
+    "start": 202.88,
+    "end": 208.28,
+    "text": "was invented in 1887 by Polish doctor Ludwig Zamenhof.",
+    "speaker": null
+  },
+  {
+    "start": 208.28,
+    "end": 212.12,
+    "text": "He wanted to make it easier for people who spoke different languages",
+    "speaker": null
+  },
+  {
+    "start": 212.12,
+    "end": 213.92,
+    "text": "to communicate with each other.",
+    "speaker": null
+  },
+  {
+    "start": 213.92,
+    "end": 217.84,
+    "text": "Listen, as David Peterson speaks Esperanto with Michael Rosen",
+    "speaker": null
+  },
+  {
+    "start": 217.84,
+    "end": 222.8,
+    "text": "and tests how much he understands for BBC Radio 4 program, Word of Mouth.",
+    "speaker": null
+  },
+  {
+    "start": 222.8,
+    "end": 226.48,
+    "text": "You are an English speaker from Western Europe.",
+    "speaker": null
+  },
+  {
+    "start": 226.519,
+    "end": 231.599,
+    "text": "And in the 19th century, Universal meant able to be understood",
+    "speaker": null
+  },
+  {
+    "start": 231.599,
+    "end": 234.519,
+    "text": "by people from Western Europe.",
+    "speaker": null
+  },
+  {
+    "start": 234.519,
+    "end": 237.759,
+    "text": "And so, for example to say, ‘I speak Esperanto’, ‘mi parolas Esperanton’.",
+    "speaker": "th"
+  },
+  {
+    "start": 237.759,
+    "end": 240.199,
+    "text": "mi parolaise, Esperanto.",
+    "speaker": null
+  },
+  {
+    "start": 240.199,
+    "end": 241.719,
+    "text": "Yes, I might have got that one.",
+    "speaker": null
+  },
+  {
+    "start": 241.719,
+    "end": 245.839,
+    "text": "The pal bit from its Latin root and me, obviously.",
+    "speaker": null
+  },
+  {
+    "start": 245.839,
+    "end": 246.799,
+    "text": "Try me again.",
+    "speaker": null
+  },
+  {
+    "start": 246.799,
+    "end": 248.599,
+    "text": "Kiel vi fertas.",
+    "speaker": null
+  },
+  {
+    "start": 248.599,
+    "end": 250.919,
+    "text": "Who is my father? No.",
+    "speaker": null
+  },
+  {
+    "start": 250.919,
+    "end": 252.56,
+    "text": "Where am I traveling?",
+    "speaker": null
+  },
+  {
+    "start": 252.56,
+    "end": 254.839,
+    "text": "No, I got stuck on that one.",
+    "speaker": null
+  },
+  {
+    "start": 254.879,
+    "end": 258.36,
+    "text": "Like Spanish, Italian and other modern European languages,",
+    "speaker": null
+  },
+  {
+    "start": 258.36,
+    "end": 260.72,
+    "text": "Esperanto is based on Latin.",
+    "speaker": null
+  },
+  {
+    "start": 260.72,
+    "end": 263.439,
+    "text": "Michael guessed the meaning of the Esperanto word,",
+    "speaker": null
+  },
+  {
+    "start": 263.439,
+    "end": 266.079,
+    "text": "parolellas, from its Latin root,",
+    "speaker": null
+  },
+  {
+    "start": 266.079,
+    "end": 268.72,
+    "text": "the origin or source of a language.",
+    "speaker": null
+  },
+  {
+    "start": 268.72,
+    "end": 271.92,
+    "text": "But the second sentence of Esperanto isn't so easy.",
+    "speaker": null
+  },
+  {
+    "start": 271.92,
+    "end": 274,
+    "text": "Michael gets stuck on that one.",
+    "speaker": null
+  },
+  {
+    "start": 274,
+    "end": 276.36,
+    "text": "He can't answer because it's too difficult.",
+    "speaker": null
+  },
+  {
+    "start": 276.36,
+    "end": 278.8,
+    "text": "I think I'd probably get stuck on that as well.",
+    "speaker": null
+  },
+  {
+    "start": 278.8,
+    "end": 281.68,
+    "text": "But at least, Esperanto was invented for humans,",
+    "speaker": null
+  },
+  {
+    "start": 281.68,
+    "end": 283.959,
+    "text": "not alien creatures from outer space.",
+    "speaker": null
+  },
+  {
+    "start": 283.959,
+    "end": 285.959,
+    "text": "And speaking of creatures from outer space,",
+    "speaker": null
+  },
+  {
+    "start": 285.959,
+    "end": 288.68,
+    "text": "And speaking of creatures from outer space, did I get the right answer to your quiz question, Sam?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 288.68,
+    "end": 291.719,
+    "text": "Ah, so I asked Neil about an unusual first",
+    "speaker": null
+  },
+  {
+    "start": 291.719,
+    "end": 295.239,
+    "text": "achieved by the made up alien language, Klingon.",
+    "speaker": null
+  },
+  {
+    "start": 295.239,
+    "end": 297.599,
+    "text": "I guess it was the first invented language",
+    "speaker": null
+  },
+  {
+    "start": 297.599,
+    "end": 299.12,
+    "text": "to have its own dictionary.",
+    "speaker": null
+  },
+  {
+    "start": 299.12,
+    "end": 301.879,
+    "text": "Which was the wrong answer I'm afraid, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 301.879,
+    "end": 304.719,
+    "text": "Incredibly, the correct answer was B.",
+    "speaker": null
+  },
+  {
+    "start": 304.719,
+    "end": 307.919,
+    "text": "In 2010, a company of Dutch musicians and singers",
+    "speaker": null
+  },
+  {
+    "start": 307.919,
+    "end": 311.359,
+    "text": "performed the first ever Klingon Opera.",
+    "speaker": null
+  },
+  {
+    "start": 311.359,
+    "end": 313.12,
+    "text": "The story must have been hard to follow,",
+    "speaker": null
+  },
+  {
+    "start": 313.12,
+    "end": 316.36,
+    "text": "but I'm sure the singing was out of this world.",
+    "speaker": null
+  },
+  {
+    "start": 316.36,
+    "end": 319.36,
+    "text": "Magica, that's Klingon for great, apparently.",
+    "speaker": null
+  },
+  {
+    "start": 319.36,
+    "end": 322.56,
+    "text": "OK, let's recap the vocabulary from our discussion",
+    "speaker": null
+  },
+  {
+    "start": 322.56,
+    "end": 324.759,
+    "text": "about invented languages, also called",
+    "speaker": null
+  },
+  {
+    "start": 324.759,
+    "end": 327.519,
+    "text": "constructed languages or conlangs for short.",
+    "speaker": null
+  },
+  {
+    "start": 327.519,
+    "end": 329.28,
+    "text": "A living language, like English,",
+    "speaker": null
+  },
+  {
+    "start": 329.28,
+    "end": 331.24,
+    "text": "is a language that people still speak",
+    "speaker": null
+  },
+  {
+    "start": 331.24,
+    "end": 333.28,
+    "text": "and use in their ordinary lives.",
+    "speaker": null
+  },
+  {
+    "start": 333.28,
+    "end": 336.439,
+    "text": "The phrase, my bad, originated in the United States,",
+    "speaker": null
+  },
+  {
+    "start": 336.439,
+    "end": 339.199,
+    "text": "but is also used in Britain as an informal way",
+    "speaker": null
+  },
+  {
+    "start": 339.199,
+    "end": 340.879,
+    "text": "to say, my fault.",
+    "speaker": null
+  },
+  {
+    "start": 340.879,
+    "end": 343.68,
+    "text": "Or to tell someone that you've made a mistake.",
+    "speaker": null
+  },
+  {
+    "start": 343.68,
+    "end": 347.079,
+    "text": "A patron saint is someone believed to give special help and protection to a particular activity.",
+    "speaker": "patron saint"
+  },
+  {
+    "start": 347.079,
+    "end": 349.639,
+    "text": "and protection to a particular activity.",
+    "speaker": null
+  },
+  {
+    "start": 349.639,
+    "end": 352.879,
+    "text": "The root of a language means its origin or source.",
+    "speaker": null
+  },
+  {
+    "start": 352.879,
+    "end": 355.36,
+    "text": "And finally, if you get stuck on something,",
+    "speaker": null
+  },
+  {
+    "start": 355.36,
+    "end": 358.519,
+    "text": "And finally, if you get stuck on something, you’re unable to complete it because it’s too difficult.",
+    "speaker": "get stuck on something"
+  },
+  {
+    "start": 358.519,
+    "end": 360.319,
+    "text": "That's all the time we have for this programme",
+    "speaker": null
+  },
+  {
+    "start": 360.319,
+    "end": 362.04,
+    "text": "about invented languages.",
+    "speaker": null
+  },
+  {
+    "start": 362.04,
+    "end": 367.04,
+    "text": "Gis-Ravido Baldao, that's Esperanto for See You Again Soon.",
+    "speaker": null
+  },
+  {
+    "start": 367.04,
+    "end": 370.839,
+    "text": "In other words, Kepler, which is how Klingon say goodbye, I think.",
+    "speaker": null
+  },
+  {
+    "start": 370.839,
+    "end": 372.479,
+    "text": "Kepler. Kepler.",
+    "speaker": null
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "start": 0,
+    "end": 7.679,
+    "text": "6-Mute English from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 7.679,
+    "end": 11.759,
+    "text": "Hello, this is 6-minute English from BBC Learning English. I'm Neil.",
+    "speaker": null
+  },
+  {
+    "start": 11.759,
+    "end": 13.12,
+    "text": "And I’m Rob.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 13.12,
+    "end": 17.6,
+    "text": "Now, I'm sure most of us have interacted with a chatbot.",
+    "speaker": null
+  },
+  {
+    "start": 17.6,
+    "end": 22.559,
+    "text": "These are bits of computer technology that respond to text with text",
+    "speaker": null
+  },
+  {
+    "start": 22.559,
+    "end": 26.16,
+    "text": "or respond to your voice. You ask it a question,",
+    "speaker": null
+  },
+  {
+    "start": 26.16,
+    "end": 28.8,
+    "text": "and usually it comes up with an answer.",
+    "speaker": null
+  },
+  {
+    "start": 28.8,
+    "end": 31.6,
+    "text": "Yes, it's almost like talking to another human,",
+    "speaker": null
+  },
+  {
+    "start": 31.6,
+    "end": 35.92,
+    "text": "but of course it's not. It's just a clever piece of technology.",
+    "speaker": null
+  },
+  {
+    "start": 35.92,
+    "end": 39.679,
+    "text": "It's becoming more sophisticated, more advanced and complex,",
+    "speaker": null
+  },
+  {
+    "start": 39.679,
+    "end": 42.96,
+    "text": "but could they replace real human interaction altogether?",
+    "speaker": null
+  },
+  {
+    "start": 42.96,
+    "end": 48.4,
+    "text": "We'll discuss that more in a moment and find out if chatbots really think for themselves.",
+    "speaker": null
+  },
+  {
+    "start": 48.96,
+    "end": 51.519,
+    "text": "But first, I have a question for you, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 51.519,
+    "end": 57.12,
+    "text": "The first computer program that allowed some kind of plausible conversation between humans and",
+    "speaker": null
+  },
+  {
+    "start": 57.119,
+    "end": 62.559,
+    "text": "machines was invented in 1966. But what was it called?",
+    "speaker": null
+  },
+  {
+    "start": 62.559,
+    "end": 68.799,
+    "text": "Was it a Alexa, b, Eliza or c, Parry?",
+    "speaker": null
+  },
+  {
+    "start": 68.799,
+    "end": 73.28,
+    "text": "It’s not Alexa – that’s too new – so I’ll guess c) PARRY.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 73.28,
+    "end": 76,
+    "text": "I'll reveal the answer at the end of the program.",
+    "speaker": null
+  },
+  {
+    "start": 76.799,
+    "end": 82.159,
+    "text": "Now, the old chatbots of the 1960s and 70s were quite basic,",
+    "speaker": null
+  },
+  {
+    "start": 82.159,
+    "end": 86.799,
+    "text": "but more recently, the technology is able to predict the next word",
+    "speaker": null
+  },
+  {
+    "start": 86.799,
+    "end": 92.319,
+    "text": "that is likely to be used in a sentence, and it learns words and sentence structures.",
+    "speaker": null
+  },
+  {
+    "start": 92.319,
+    "end": 97.92,
+    "text": "It's clever stuff. I've experienced using them when talking to my bank or when I have problems",
+    "speaker": null
+  },
+  {
+    "start": 97.92,
+    "end": 104.799,
+    "text": "trying to book a ticket on a website. I no longer phone a human. I speak to a virtual assistant instead.",
+    "speaker": null
+  },
+  {
+    "start": 105.28,
+    "end": 109.759,
+    "text": "Probably the most well-known chatbot at the moment is chatGTP.",
+    "speaker": null
+  },
+  {
+    "start": 109.759,
+    "end": 114.4,
+    "text": "It is. The claim is that it's able to answer anything you ask it.",
+    "speaker": null
+  },
+  {
+    "start": 114.48,
+    "end": 120,
+    "text": "This includes writing students essays. Now, this is something that was discussed on the BBC",
+    "speaker": null
+  },
+  {
+    "start": 120,
+    "end": 126.96,
+    "text": "Radio 4 program, Word of Mouth. Emily M. Bender, professor of computational linguistics at the",
+    "speaker": null
+  },
+  {
+    "start": 126.96,
+    "end": 132.96,
+    "text": "University of Washington, explained why it's dangerous to always trust what a chatbot is telling us.",
+    "speaker": null
+  },
+  {
+    "start": 133.52,
+    "end": 141.599,
+    "text": "We tend to react to grammatical, fluent coherence-seeming text as authoritative and reliable",
+    "speaker": null
+  },
+  {
+    "start": 141.599,
+    "end": 147.439,
+    "text": "and valuable. We need to be on guard against that because what's coming out of chatGPT is none of that.",
+    "speaker": null
+  },
+  {
+    "start": 147.439,
+    "end": 153.12,
+    "text": "So, Professor Bender says that well-written text that is coherent, that means it's clear,",
+    "speaker": null
+  },
+  {
+    "start": 153.12,
+    "end": 159.439,
+    "text": "carefully considered and sensible, makes us think what we are reading is reliable and authoritative.",
+    "speaker": null
+  },
+  {
+    "start": 159.439,
+    "end": 162.959,
+    "text": "So, it's respected, accurate and important sounding.",
+    "speaker": null
+  },
+  {
+    "start": 162.959,
+    "end": 169.199,
+    "text": "Yes, chatbots might appear to write in this way, but really, they are just predicting one word after",
+    "speaker": null
+  },
+  {
+    "start": 169.199,
+    "end": 175.679,
+    "text": "another based on what they have learned. We should therefore be on guard, be careful and alert",
+    "speaker": null
+  },
+  {
+    "start": 175.679,
+    "end": 182.479,
+    "text": "about the accuracy of what we are being told. One concern is that chatbots, a form of artificial",
+    "speaker": null
+  },
+  {
+    "start": 182.479,
+    "end": 188.399,
+    "text": "intelligence, work a bit like a human brain in the way it can learn and process information.",
+    "speaker": null
+  },
+  {
+    "start": 188.399,
+    "end": 192.879,
+    "text": "They're able to learn from experience, something called deep learning.",
+    "speaker": null
+  },
+  {
+    "start": 192.879,
+    "end": 198.719,
+    "text": "A cognitive psychologist and computer scientist called Jeffrey Hinton recently said he feared",
+    "speaker": null
+  },
+  {
+    "start": 198.719,
+    "end": 204.4,
+    "text": "that chatbots could soon overtake the level of information that a human brain holds.",
+    "speaker": null
+  },
+  {
+    "start": 204.4,
+    "end": 206.159,
+    "text": "That's a bit scary, isn't it?",
+    "speaker": null
+  },
+  {
+    "start": 206.159,
+    "end": 212.4,
+    "text": "Hmm, but for now, chatbots can be useful for practical information, but sometimes we start to believe",
+    "speaker": null
+  },
+  {
+    "start": 212.4,
+    "end": 218.639,
+    "text": "they are human and we interact with them in a human-like way. This can make us believe them even more.",
+    "speaker": null
+  },
+  {
+    "start": 218.639,
+    "end": 224.56,
+    "text": "Professor Emma Bender, speaking on the BBC's Word of Mouth program, explains why we might feel like that.",
+    "speaker": null
+  },
+  {
+    "start": 225.12,
+    "end": 231.599,
+    "text": "I think what's going on there is the kinds of answers you get depend on the questions you put in",
+    "speaker": null
+  },
+  {
+    "start": 231.599,
+    "end": 236.879,
+    "text": "because it's doing likely next word, likely next word, and so if as the human interacting with",
+    "speaker": null
+  },
+  {
+    "start": 236.879,
+    "end": 242.56,
+    "text": "this machine, you start asking questions about how do you feel, you know, chatbot? And what do you",
+    "speaker": null
+  },
+  {
+    "start": 242.56,
+    "end": 248,
+    "text": "think of this? And what are your goals? You can provoke it to say things that sound like what a",
+    "speaker": null
+  },
+  {
+    "start": 248,
+    "end": 253.759,
+    "text": "sentient entity would say. We are really primed to imagine a mind behind language whenever we",
+    "speaker": null
+  },
+  {
+    "start": 253.759,
+    "end": 258.24,
+    "text": "encounter language. And so we really have to account for that when we're making decisions about these.",
+    "speaker": null
+  },
+  {
+    "start": 259.519,
+    "end": 266.319,
+    "text": "So although a chatbot might sound human, we really just ask it things to get a reaction. We provoke it.",
+    "speaker": null
+  },
+  {
+    "start": 266.319,
+    "end": 273.199,
+    "text": "And it answers only with words it's learned to use before, not because it has come up with a clever answer.",
+    "speaker": null
+  },
+  {
+    "start": 273.199,
+    "end": 279.839,
+    "text": "But it does sound like a sentient entity. Sentient describes a living thing that experiences feelings.",
+    "speaker": null
+  },
+  {
+    "start": 280.56,
+    "end": 286.479,
+    "text": "As Professor Bender says, we imagine that when something speaks there is a mind behind it. But sorry, Neil, they are not your friend, they are just machines!",
+    "speaker": "Rob"
+  },
+  {
+    "start": 286.479,
+    "end": 290.319,
+    "text": "But sorry Neil, they are not your friend, they're just machines.",
+    "speaker": null
+  },
+  {
+    "start": 290.319,
+    "end": 297.199,
+    "text": "Yes, it's strange then that we sometimes give chatbots names, Alexa, Siri, had earlier I asked you",
+    "speaker": null
+  },
+  {
+    "start": 297.199,
+    "end": 302.239,
+    "text": "what the name was for the first ever chatbot. And I guess it was Perry, was I right?",
+    "speaker": null
+  },
+  {
+    "start": 303.039,
+    "end": 308.879,
+    "text": "You guessed wrong, I'm afraid. Perry was an early form of chatbot from 1972.",
+    "speaker": null
+  },
+  {
+    "start": 308.879,
+    "end": 315.759,
+    "text": "But the correct answer was Eliza. It was considered to be the first chatbot as it was called then",
+    "speaker": null
+  },
+  {
+    "start": 315.759,
+    "end": 321.519,
+    "text": "and was developed by Joseph Weisenbaum at Massachusetts Institute of Technology.",
+    "speaker": null
+  },
+  {
+    "start": 321.519,
+    "end": 327.199,
+    "text": "Fascinating stuff. Okay, now let's recap some of the vocabulary we highlighted in this program,",
+    "speaker": null
+  },
+  {
+    "start": 327.199,
+    "end": 333.279,
+    "text": "starting with sophisticated, which can describe technology that is advanced and complex.",
+    "speaker": null
+  },
+  {
+    "start": 333.279,
+    "end": 337.68,
+    "text": "Something that is coherent is clear, carefully considered and sensible.",
+    "speaker": "coherent"
+  },
+  {
+    "start": 337.68,
+    "end": 342.4,
+    "text": "Athorotative means respected, accurate and important sounding.",
+    "speaker": null
+  },
+  {
+    "start": 342.4,
+    "end": 346.24,
+    "text": "When you are on guard, you must be careful and alert about something.",
+    "speaker": null
+  },
+  {
+    "start": 346.24,
+    "end": 352.319,
+    "text": "It could be the accuracy of what you see or hear, or just being aware of the dangers around you.",
+    "speaker": null
+  },
+  {
+    "start": 352.319,
+    "end": 356.8,
+    "text": "To provoke means to do something that causes a reaction from someone.",
+    "speaker": "provoke"
+  },
+  {
+    "start": 356.8,
+    "end": 362,
+    "text": "Sentient describes something that experiences feelings – so it’s something that is living. Once again, our six minutes are up. Goodbye.",
+    "speaker": "Sentient"
+  },
+  {
+    "start": 362.72,
+    "end": 366.079,
+    "text": "Once again, our six minutes are up. Goodbye. Bye for now.",
+    "speaker": null
+  },
+  {
+    "start": 367.68,
+    "end": 372.079,
+    "text": "It's me, English from BBCLearningEnglish.com.",
+    "speaker": null
+  }
+]

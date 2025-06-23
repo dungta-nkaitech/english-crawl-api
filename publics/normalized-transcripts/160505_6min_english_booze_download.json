@@ -1,0 +1,500 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 12.08,
+    "text": "6 Minute English from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 12.08,
+    "end": 15.359,
+    "text": "Hello and welcome to 6 Minute English. I'm Alice…",
+    "speaker": "Alice"
+  },
+  {
+    "start": 15.359,
+    "end": 16.8,
+    "text": "And I'm Rob…",
+    "speaker": "Rob"
+  },
+  {
+    "start": 16.8,
+    "end": 19.839,
+    "text": "You look very pale, Rob. Are you OK?",
+    "speaker": "Alice"
+  },
+  {
+    "start": 19.839,
+    "end": 25.12,
+    "text": "Well, I was a rather boozy wedding party last night and I had a bit too much champagne.",
+    "speaker": null
+  },
+  {
+    "start": 25.12,
+    "end": 25.92,
+    "text": "Oh.",
+    "speaker": null
+  },
+  {
+    "start": 25.92,
+    "end": 28.32,
+    "text": "Do you know any good hangover cures?",
+    "speaker": null
+  },
+  {
+    "start": 28.32,
+    "end": 34.399,
+    "text": "A hangover is the headache and sickness you can feel after drinking too much alcohol.",
+    "speaker": null
+  },
+  {
+    "start": 34.399,
+    "end": 37.439,
+    "text": "And a cure is something that makes you better.",
+    "speaker": null
+  },
+  {
+    "start": 37.439,
+    "end": 44.64,
+    "text": "Well, I'm tea total. I don't drink alcohol, so I'd say the best hangover cure is not to drink in the first place.",
+    "speaker": null
+  },
+  {
+    "start": 44.64,
+    "end": 47.12,
+    "text": "You don't believe in hair of the dog then?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 47.12,
+    "end": 53.519,
+    "text": "No, Rob, I don't. Hair of the dog is the belief that drinking more alcohol when you already have a hangover will make you feel better! And boozy means lots of alcohol.",
+    "speaker": "Hair of the dogboozy"
+  },
+  {
+    "start": 53.52,
+    "end": 55.28,
+    "text": "will make you feel better.",
+    "speaker": null
+  },
+  {
+    "start": 55.28,
+    "end": 58.48,
+    "text": "And boozy means lots of alcohol.",
+    "speaker": null
+  },
+  {
+    "start": 58.48,
+    "end": 61.52,
+    "text": "I can see I'm not going to get much sympathy from you.",
+    "speaker": null
+  },
+  {
+    "start": 61.52,
+    "end": 67.28,
+    "text": "I can see I'm not going to get much sympathy from you. So I'm going to take a couple of painkillers and let you tell everyone what the subject of today's show is.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 67.28,
+    "end": 70.96,
+    "text": "All right then. Well, it's drinking too much, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 70.96,
+    "end": 73.04,
+    "text": "And I have a question for you.",
+    "speaker": null
+  },
+  {
+    "start": 73.04,
+    "end": 77.439,
+    "text": "What is the name of the main process involved in producing alcohol?",
+    "speaker": null
+  },
+  {
+    "start": 77.439,
+    "end": 82.08,
+    "text": "Is it a fermentation, b, hydration,",
+    "speaker": null
+  },
+  {
+    "start": 82.079,
+    "end": 84.48,
+    "text": "Or c) purification?",
+    "speaker": "Alice"
+  },
+  {
+    "start": 84.48,
+    "end": 86.64,
+    "text": "OK, I know it has something to do with water.",
+    "speaker": null
+  },
+  {
+    "start": 86.64,
+    "end": 89.039,
+    "text": "So I want to go for b, hydration.",
+    "speaker": null
+  },
+  {
+    "start": 89.039,
+    "end": 91.84,
+    "text": "It rings a bell from my chemistry lessons at school.",
+    "speaker": null
+  },
+  {
+    "start": 91.84,
+    "end": 96.719,
+    "text": "Well, we'll find out later on in the show whether you were listening carefully in class, Rob.",
+    "speaker": "Alice"
+  },
+  {
+    "start": 96.719,
+    "end": 98.56,
+    "text": "Well, no comment.",
+    "speaker": null
+  },
+  {
+    "start": 99.759,
+    "end": 103.92,
+    "text": "Well, most people are aware of the links between smoking and cancer,",
+    "speaker": null
+  },
+  {
+    "start": 103.92,
+    "end": 109.2,
+    "text": "but fewer are aware that drinking alcohol is linked to an increased risk of future health problems.",
+    "speaker": null
+  },
+  {
+    "start": 109.2,
+    "end": 115.439,
+    "text": "The UK government is currently trying to raise awareness with their new guidelines on how much it's safe to drink.",
+    "speaker": null
+  },
+  {
+    "start": 115.439,
+    "end": 119.439,
+    "text": "Let's hear what Dr. Michael Mosley has to say about health risks.",
+    "speaker": null
+  },
+  {
+    "start": 120.96,
+    "end": 124.48,
+    "text": "Unfortunately, whatever level of alcohol you are drinking,",
+    "speaker": null
+  },
+  {
+    "start": 124.48,
+    "end": 128.48,
+    "text": "it is likely to increase your risk of some forms of cancer,",
+    "speaker": null
+  },
+  {
+    "start": 128.48,
+    "end": 134,
+    "text": "particularly breast cancer, but also other rare forms of cancer like head neck and throat.",
+    "speaker": null
+  },
+  {
+    "start": 134,
+    "end": 138.08,
+    "text": "The risks are quite low at moderate drinking, but they do rise rapidly.",
+    "speaker": null
+  },
+  {
+    "start": 139.839,
+    "end": 144.719,
+    "text": "So any drinking at all – even one small glass of wine with your evening meal – raises your risk of cancer? Is that right?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 144.719,
+    "end": 147.839,
+    "text": "raises your risk of cancer? Is that right?",
+    "speaker": null
+  },
+  {
+    "start": 147.839,
+    "end": 151.919,
+    "text": "Yes. And the health risk increases with the amount you drink.",
+    "speaker": "Alice"
+  },
+  {
+    "start": 151.919,
+    "end": 155.039,
+    "text": "But I thought wine was supposed to be good for you?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 155.039,
+    "end": 160.239,
+    "text": "It's a popular belief, but medical evidence doesn't seem to support this view. Let's listen to Dr Michael Moseley again on this.",
+    "speaker": "Alice"
+  },
+  {
+    "start": 160.239,
+    "end": 162.639,
+    "text": "Let's listen to Dr. Michael Mosley again on this.",
+    "speaker": null
+  },
+  {
+    "start": 163.839,
+    "end": 168,
+    "text": "Now, there's long been this idea that there is this marvelous stuff in Red Wine called Resveratol,",
+    "speaker": null
+  },
+  {
+    "start": 168,
+    "end": 170.479,
+    "text": "which is said to reduce your risk of all sorts of things.",
+    "speaker": null
+  },
+  {
+    "start": 170.479,
+    "end": 175.68,
+    "text": "Unfortunately, the amount you would have to consume would be so huge that the",
+    "speaker": null
+  },
+  {
+    "start": 175.68,
+    "end": 179.28,
+    "text": "downsides of drinking Red Wine would swiftly overwhelm them.",
+    "speaker": null
+  },
+  {
+    "start": 180.08,
+    "end": 182.879,
+    "text": "And the downside of something means the disadvantages. Now Alice, what's your favourite tipple?",
+    "speaker": "downside"
+  },
+  {
+    "start": 182.879,
+    "end": 184.96,
+    "text": "Now, Alice, what's your favourite tip-all?",
+    "speaker": null
+  },
+  {
+    "start": 184.96,
+    "end": 188.879,
+    "text": "Oh, well, I don't have one, Rob, because I'm T total, remember?",
+    "speaker": null
+  },
+  {
+    "start": 189.52,
+    "end": 193.28,
+    "text": "A tip-all is another way of saying an alcoholic drink.",
+    "speaker": null
+  },
+  {
+    "start": 194.08,
+    "end": 199.039,
+    "text": "I enjoy beetroot and kale smoothies with a dash of turmeric and ground pepper.",
+    "speaker": null
+  },
+  {
+    "start": 199.039,
+    "end": 201.52,
+    "text": "Cale? Oh, yeah, that's disgusting.",
+    "speaker": null
+  },
+  {
+    "start": 202.159,
+    "end": 207.759,
+    "text": "Now, smoothie is a thick drink made of fruit or vegetables blended with milk or yogurt or water.",
+    "speaker": null
+  },
+  {
+    "start": 208.639,
+    "end": 212.719,
+    "text": "Well, I like sweet stuff. Maybe a banana smoothie with some honey,",
+    "speaker": null
+  },
+  {
+    "start": 212.719,
+    "end": 215.52,
+    "text": "but beetroot and kale, that sounds disgusting.",
+    "speaker": null
+  },
+  {
+    "start": 215.52,
+    "end": 218.24,
+    "text": "don't knock it until you've tried it",
+    "speaker": "Rob"
+  },
+  {
+    "start": 218.24,
+    "end": 221.36,
+    "text": "And that means to try something before you criticise it.",
+    "speaker": null
+  },
+  {
+    "start": 221.44,
+    "end": 226.4,
+    "text": "Okay, okay. But seriously, a glass of wine makes me happy and relaxed.",
+    "speaker": null
+  },
+  {
+    "start": 226.4,
+    "end": 230.4,
+    "text": "OK, OK, but seriously. A glass of wine makes me happy and relaxed. And there are health studies that suggest being happy is good for your health.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 230.4,
+    "end": 233.68,
+    "text": "That's true, but eating and drinking healthily makes me happy.",
+    "speaker": null
+  },
+  {
+    "start": 234.4,
+    "end": 240.96,
+    "text": "Now, moving on, it's important to put the risk of drinking alcohol or horrible vegetable smoothies.",
+    "speaker": null
+  },
+  {
+    "start": 240.96,
+    "end": 243.04,
+    "text": "In context.",
+    "speaker": null
+  },
+  {
+    "start": 243.04,
+    "end": 249.12,
+    "text": "Statistically, drinking alcohol regularly represents just under 1% lifetime risk of death,",
+    "speaker": null
+  },
+  {
+    "start": 249.12,
+    "end": 255.36,
+    "text": "but actually an hour of TV watching or eating a bacon sandwich a couple of times a week is more",
+    "speaker": null
+  },
+  {
+    "start": 255.36,
+    "end": 262,
+    "text": "dangerous. Well, that's what I like to hear. Though, what if I'm watching TV enjoying a beer and",
+    "speaker": null
+  },
+  {
+    "start": 262,
+    "end": 265.92,
+    "text": "a lovely bacon sandwich? Does that triple my lifetime risk of death?",
+    "speaker": null
+  },
+  {
+    "start": 265.92,
+    "end": 271.759,
+    "text": "Mmm, well, Rob, you better ask Professor David Spiegelhalter at the University of Cambridge that",
+    "speaker": null
+  },
+  {
+    "start": 271.759,
+    "end": 276.639,
+    "text": "question. I was quoting him earlier about the TV watching and the bacon sandwich.",
+    "speaker": null
+  },
+  {
+    "start": 276.879,
+    "end": 280.639,
+    "text": "He works with statistics, but this is for another programme.",
+    "speaker": null
+  },
+  {
+    "start": 281.199,
+    "end": 286.319,
+    "text": "Now, let's get on to the serious matter of today's quiz question. I asked,",
+    "speaker": null
+  },
+  {
+    "start": 286.879,
+    "end": 293.68,
+    "text": "what is the name of the main process involved in producing alcohol? Is it a fermentation,",
+    "speaker": null
+  },
+  {
+    "start": 294.399,
+    "end": 302.24,
+    "text": "B, hydration or C purification? Well, I said B, hydration. Though you were skeptical,",
+    "speaker": null
+  },
+  {
+    "start": 302.24,
+    "end": 306.399,
+    "text": "weren't you, Alice? Yes, and I was right to be skeptical.",
+    "speaker": null
+  },
+  {
+    "start": 306.399,
+    "end": 311.12,
+    "text": "Which means doubtful, because B is the wrong answer I'm afraid, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 311.839,
+    "end": 318.959,
+    "text": "The main process involved in producing alcohol is fermentation, which is the process in which yeast",
+    "speaker": null
+  },
+  {
+    "start": 318.959,
+    "end": 327.519,
+    "text": "or bacteria changes sugar into alcohol. Hydration is the process of making your body absorb water,",
+    "speaker": null
+  },
+  {
+    "start": 327.519,
+    "end": 332.079,
+    "text": "and purification is the act of removing some harmful things from something.",
+    "speaker": null
+  },
+  {
+    "start": 332.639,
+    "end": 339.599,
+    "text": "Actually, have this glass of water, Rob. Hydration is a good hangover cure, much better than",
+    "speaker": null
+  },
+  {
+    "start": 339.599,
+    "end": 344.399,
+    "text": "Now let's hear the words we learned today.",
+    "speaker": "Alice"
+  },
+  {
+    "start": 345.439,
+    "end": 355.039,
+    "text": "They are hangover, cure, tea total, hair of the dog, boozy, downside,",
+    "speaker": null
+  },
+  {
+    "start": 355.92,
+    "end": 362.4,
+    "text": "tipple, don't knock it until you've tried it, skeptical, fermentation.",
+    "speaker": null
+  },
+  {
+    "start": 363.28,
+    "end": 368.56,
+    "text": "Well, that's the end of today's six-minute English. Keep hydrated, and don't forget to join us again",
+    "speaker": null
+  },
+  {
+    "start": 368.56,
+    "end": 370.56,
+    "text": "soon. Bye-bye.",
+    "speaker": null
+  }
+]

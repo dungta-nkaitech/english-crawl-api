@@ -1,0 +1,632 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 12.08,
+    "text": "6 Minute English from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 14.24,
+    "end": 18.12,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 18.12,
+    "end": 19.28,
+    "text": "And Sam.",
+    "speaker": null
+  },
+  {
+    "start": 19.28,
+    "end": 23.96,
+    "text": "We often hear phrases such as dream big or reach for the stars",
+    "speaker": null
+  },
+  {
+    "start": 23.96,
+    "end": 26.8,
+    "text": "which reflect an optimistic view of life.",
+    "speaker": null
+  },
+  {
+    "start": 26.8,
+    "end": 28.56,
+    "text": "Are you an optimist, Sam?",
+    "speaker": null
+  },
+  {
+    "start": 28.599,
+    "end": 32.159,
+    "text": "I hope so! I try to see the positive side of life, even when something bad happens.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 32.159,
+    "end": 34.079,
+    "text": "even when something bad happens.",
+    "speaker": null
+  },
+  {
+    "start": 34.079,
+    "end": 37.28,
+    "text": "It sounds like you're a glass half full person.",
+    "speaker": null
+  },
+  {
+    "start": 37.28,
+    "end": 40,
+    "text": "It sounds like you’re a glass-half-full person – someone who always thinks that good things will happen.",
+    "speaker": "glass-half-fullperson"
+  },
+  {
+    "start": 40,
+    "end": 43.039,
+    "text": "How about you, Neil? Are you optimistic?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 43.039,
+    "end": 46.48,
+    "text": "Look, things go wrong all the time. That's a fact of life.",
+    "speaker": null
+  },
+  {
+    "start": 46.48,
+    "end": 49.92,
+    "text": "Look, things go wrong all the time - that’s a fact of life. Call me a pessimist if you like but I’m just being realistic.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 49.92,
+    "end": 53.519,
+    "text": "Hmm, it sounds like Neil is more of a glass half empty person,",
+    "speaker": null
+  },
+  {
+    "start": 53.519,
+    "end": 57.519,
+    "text": "but the truth is that the age-old debate between optimism",
+    "speaker": null
+  },
+  {
+    "start": 57.52,
+    "end": 60.32,
+    "text": "and pessimism is more complex than we think.",
+    "speaker": null
+  },
+  {
+    "start": 60.32,
+    "end": 63.76,
+    "text": "Yes, whether you're a sunny optimist or a gloomy pessimist,",
+    "speaker": null
+  },
+  {
+    "start": 63.76,
+    "end": 67.04,
+    "text": "maybe determined more by your birthplace and your age,",
+    "speaker": null
+  },
+  {
+    "start": 67.04,
+    "end": 70.159,
+    "text": "than your attitude, as we'll be finding out in this programme.",
+    "speaker": null
+  },
+  {
+    "start": 70.159,
+    "end": 72.64,
+    "text": "Great. I’ve got a good feeling about this, Neil!",
+    "speaker": "Sam"
+  },
+  {
+    "start": 72.64,
+    "end": 75.76,
+    "text": "But first, as usual, I have a question for you, Sam.",
+    "speaker": null
+  },
+  {
+    "start": 75.76,
+    "end": 80.4,
+    "text": "Psychologists define optimism as an attitude which overestimates",
+    "speaker": null
+  },
+  {
+    "start": 80.4,
+    "end": 82.96,
+    "text": "the chances of good things happening to you,",
+    "speaker": null
+  },
+  {
+    "start": 82.96,
+    "end": 86.64,
+    "text": "while underestimating the chances of bad things occurring.",
+    "speaker": null
+  },
+  {
+    "start": 86.719,
+    "end": 90.159,
+    "text": "So, what proportion of the British population do you think",
+    "speaker": null
+  },
+  {
+    "start": 90.159,
+    "end": 92.64,
+    "text": "describe themselves as optimistic?",
+    "speaker": null
+  },
+  {
+    "start": 92.64,
+    "end": 97.04,
+    "text": "Is it A, 20%, B, 50% or C, 80%?",
+    "speaker": null
+  },
+  {
+    "start": 97.04,
+    "end": 99.599,
+    "text": "Oh, to the largest, 80%.",
+    "speaker": null
+  },
+  {
+    "start": 99.599,
+    "end": 103.599,
+    "text": "Okay, Sam, we'll find out if your optimistic answer is the correct one",
+    "speaker": null
+  },
+  {
+    "start": 103.599,
+    "end": 104.799,
+    "text": "later in the programme.",
+    "speaker": null
+  },
+  {
+    "start": 104.799,
+    "end": 107.359,
+    "text": "Someone who probably wouldn't agree with you, though,",
+    "speaker": null
+  },
+  {
+    "start": 107.359,
+    "end": 110,
+    "text": "is BBC World Service listener Hannah.",
+    "speaker": null
+  },
+  {
+    "start": 110,
+    "end": 113.92,
+    "text": "Hannah grew up in Germany before moving to the United States.",
+    "speaker": null
+  },
+  {
+    "start": 113.92,
+    "end": 119.04,
+    "text": "She thinks Americans tend to be more optimistic than people back home in Germany,",
+    "speaker": null
+  },
+  {
+    "start": 119.04,
+    "end": 122.719,
+    "text": "as she told BBC World Service programme Crowdscience.",
+    "speaker": null
+  },
+  {
+    "start": 122.719,
+    "end": 125.519,
+    "text": "Well, I think the stereotypical perceptions of Germans",
+    "speaker": null
+  },
+  {
+    "start": 125.519,
+    "end": 127.439,
+    "text": "is that we're quite pessimistic,",
+    "speaker": null
+  },
+  {
+    "start": 127.439,
+    "end": 132.24,
+    "text": "and that kind of tends to come across as being a bit of a Debbie Downer.",
+    "speaker": null
+  },
+  {
+    "start": 132.24,
+    "end": 136,
+    "text": "When an actuality Germans just tend to be ever planners for all",
+    "speaker": null
+  },
+  {
+    "start": 136,
+    "end": 138.48,
+    "text": "eventual negative eventualities as well.",
+    "speaker": null
+  },
+  {
+    "start": 139.28,
+    "end": 143.84,
+    "text": "So, that's kind of us being pessimistic, but actually being cautious.",
+    "speaker": null
+  },
+  {
+    "start": 143.84,
+    "end": 147.039,
+    "text": "As opposed to, for example, what I've noticed in America",
+    "speaker": null
+  },
+  {
+    "start": 147.039,
+    "end": 150.079,
+    "text": "that a lot of people tend to be hyper optimistic,",
+    "speaker": null
+  },
+  {
+    "start": 150.079,
+    "end": 154.479,
+    "text": "I've always admired how Americans tend to be able to sugarcoat everything.",
+    "speaker": null
+  },
+  {
+    "start": 154.479,
+    "end": 159.039,
+    "text": "As a stereotypical pessimist, Hannah sometimes feels like a Debbie Downer.",
+    "speaker": null
+  },
+  {
+    "start": 159.039,
+    "end": 164.159,
+    "text": "This expression is American slang for someone who makes others feel bad",
+    "speaker": null
+  },
+  {
+    "start": 164.159,
+    "end": 167.28,
+    "text": "by focusing on the depressing aspects of things.",
+    "speaker": null
+  },
+  {
+    "start": 167.28,
+    "end": 170.56,
+    "text": "Americans, on the other hand, are typically seen as optimists,",
+    "speaker": null
+  },
+  {
+    "start": 170.56,
+    "end": 175.199,
+    "text": "Americans, on the other hand, are typically seen as optimists who tend to sugarcoat things – make things seem better than they really are.",
+    "speaker": "sugarcoat"
+  },
+  {
+    "start": 175.199,
+    "end": 178.879,
+    "text": "According to Hannah, many Americans are hyper optimistic.",
+    "speaker": null
+  },
+  {
+    "start": 178.879,
+    "end": 184.319,
+    "text": "She uses the prefix hyper to say that there is too much of a certain quality.",
+    "speaker": null
+  },
+  {
+    "start": 184.8,
+    "end": 187.759,
+    "text": "Hyper-sensitive people are too sensitive.",
+    "speaker": null
+  },
+  {
+    "start": 187.759,
+    "end": 190.4,
+    "text": "A hyper-optimist is too optimistic.",
+    "speaker": null
+  },
+  {
+    "start": 190.4,
+    "end": 195.439,
+    "text": "Besides your country of birth, age is another consideration in the optimism debate.",
+    "speaker": null
+  },
+  {
+    "start": 195.52,
+    "end": 198,
+    "text": "When we're young, we have our whole life ahead of us,",
+    "speaker": null
+  },
+  {
+    "start": 198,
+    "end": 202.079,
+    "text": "and it's easier to optimistically believe that everything's going to be all right.",
+    "speaker": null
+  },
+  {
+    "start": 202.079,
+    "end": 206.8,
+    "text": "The belief that everything's going to be fine is called the optimism bias.",
+    "speaker": null
+  },
+  {
+    "start": 206.8,
+    "end": 209.759,
+    "text": "It isn't fixed, but changes as we age.",
+    "speaker": null
+  },
+  {
+    "start": 209.759,
+    "end": 212.719,
+    "text": "Something new a scientist, Professor Tally Sherrett,",
+    "speaker": null
+  },
+  {
+    "start": 212.719,
+    "end": 216.079,
+    "text": "explained to BBC World Service Programme Crowd Science.",
+    "speaker": null
+  },
+  {
+    "start": 216.079,
+    "end": 219.36,
+    "text": "So, it's quite high in kids and teenagers.",
+    "speaker": null
+  },
+  {
+    "start": 219.36,
+    "end": 221.439,
+    "text": "They think, oh, everything's going to be fine, you know.",
+    "speaker": null
+  },
+  {
+    "start": 221.439,
+    "end": 225.759,
+    "text": "And then it goes down, down, down, and it hits rock bottom in your midlife,",
+    "speaker": null
+  },
+  {
+    "start": 225.759,
+    "end": 228.96,
+    "text": "at which point the optimism bias is relatively small,",
+    "speaker": null
+  },
+  {
+    "start": 228.96,
+    "end": 233.759,
+    "text": "and then it starts climbing up again, and it's quite high in the elderly population.",
+    "speaker": null
+  },
+  {
+    "start": 233.759,
+    "end": 239.439,
+    "text": "And that goes absolutely against our view of the grumpy old man or woman.",
+    "speaker": null
+  },
+  {
+    "start": 239.439,
+    "end": 243.759,
+    "text": "After starting out high in children, the optimism bias hits rock bottom.",
+    "speaker": null
+  },
+  {
+    "start": 243.759,
+    "end": 246.4,
+    "text": "The lowest possible level in middle age.",
+    "speaker": null
+  },
+  {
+    "start": 246.4,
+    "end": 248.4,
+    "text": "Often because of work pressures,",
+    "speaker": null
+  },
+  {
+    "start": 248.4,
+    "end": 251.84,
+    "text": "family responsibilities, or caring for elderly parents.",
+    "speaker": null
+  },
+  {
+    "start": 251.84,
+    "end": 255.52,
+    "text": "But optimism seems to increase again as we get older.",
+    "speaker": null
+  },
+  {
+    "start": 255.52,
+    "end": 260.8,
+    "text": "This is surprising as it goes against the image we have of the grumpy old man,",
+    "speaker": null
+  },
+  {
+    "start": 260.8,
+    "end": 266.48,
+    "text": "a phrase to describe someone who complains a lot, is moody, and gets easily annoyed.",
+    "speaker": null
+  },
+  {
+    "start": 266.48,
+    "end": 271.92,
+    "text": "Optimistic women, meanwhile, can look forward to longer, healthy lives.",
+    "speaker": null
+  },
+  {
+    "start": 271.92,
+    "end": 275.439,
+    "text": "Good news for you then, Sam, that I'm sticking with my pessimism.",
+    "speaker": null
+  },
+  {
+    "start": 275.519,
+    "end": 280.16,
+    "text": "If I anticipate things going wrong, then I don't get disappointed when they do.",
+    "speaker": null
+  },
+  {
+    "start": 280.16,
+    "end": 283.68,
+    "text": "That's actually a fairly positive way of looking at things, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 283.68,
+    "end": 288.48,
+    "text": "But I'm not sure if most people would agree with you, or maybe they would.",
+    "speaker": null
+  },
+  {
+    "start": 288.48,
+    "end": 290.56,
+    "text": "It depends on the answer to your question.",
+    "speaker": null
+  },
+  {
+    "start": 290.56,
+    "end": 296.24,
+    "text": "Right. I asked Sam what proportion of British people describe themselves as optimistic.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 296.24,
+    "end": 299.92,
+    "text": "And optimistically, I said it was c) 80 percent.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 299.92,
+    "end": 302.159,
+    "text": "Which was… the correct answer!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 302.16,
+    "end": 303.84,
+    "text": "Of course it was.",
+    "speaker": null
+  },
+  {
+    "start": 303.84,
+    "end": 308.64,
+    "text": "Whether you expect good or bad things to happen to you, you're probably right.",
+    "speaker": null
+  },
+  {
+    "start": 308.64,
+    "end": 311.84,
+    "text": "So why not focus on the sunny side of life, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 311.84,
+    "end": 313.84,
+    "text": "That way you've got nothing to lose.",
+    "speaker": null
+  },
+  {
+    "start": 313.84,
+    "end": 317.2,
+    "text": "Okay, let's recap the vocabulary from this program, Sam.",
+    "speaker": null
+  },
+  {
+    "start": 317.2,
+    "end": 319.68,
+    "text": "You're certainly a glass half full person,",
+    "speaker": null
+  },
+  {
+    "start": 319.68,
+    "end": 322.32,
+    "text": "someone with an optimistic attitude to life.",
+    "speaker": null
+  },
+  {
+    "start": 322.32,
+    "end": 324.879,
+    "text": "And you're something of a Debbie Downer.",
+    "speaker": null
+  },
+  {
+    "start": 324.879,
+    "end": 330.879,
+    "text": "And you’re something of a Debbie Downer - American slang for someone who brings everyone down by talking about the negative side of things.",
+    "speaker": "Debbie Downer"
+  },
+  {
+    "start": 330.879,
+    "end": 335.199,
+    "text": "If you sugarcoat something, you make it appear more positive than it really is.",
+    "speaker": "sugarcoat"
+  },
+  {
+    "start": 335.92,
+    "end": 342.48,
+    "text": "The prefix hyper is used before an adjective to show having too much of that quality, for example hypercritical means being too critical.",
+    "speaker": "hyper"
+  },
+  {
+    "start": 342.48,
+    "end": 346.8,
+    "text": "For example, hypercritical means being too critical.",
+    "speaker": null
+  },
+  {
+    "start": 346.8,
+    "end": 351.12,
+    "text": "If something hits rock bottom it reaches its lowest possible level.",
+    "speaker": "rock bottom"
+  },
+  {
+    "start": 351.12,
+    "end": 357.199,
+    "text": "And finally, the phrase grumpy old man can be used to describe someone who always complains, is intolerant and gets annoyed easily… a bit like Neil!",
+    "speaker": "grumpy old man"
+  },
+  {
+    "start": 357.279,
+    "end": 360.479,
+    "text": "is intolerant and gets annoyed easily.",
+    "speaker": null
+  },
+  {
+    "start": 360.479,
+    "end": 361.519,
+    "text": "A bit like Neil.",
+    "speaker": null
+  },
+  {
+    "start": 361.519,
+    "end": 363.279,
+    "text": "Thank you very much.",
+    "speaker": null
+  },
+  {
+    "start": 363.279,
+    "end": 368,
+    "text": "Unfortunately our six minutes are up, but join us again soon for more trending topics and useful vocabulary here at 6 Minute English. Goodbye for now!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 368,
+    "end": 371.12,
+    "text": "and useful vocabulary here at six minute English.",
+    "speaker": null
+  },
+  {
+    "start": 371.12,
+    "end": 372.159,
+    "text": "Goodbye for now.",
+    "speaker": null
+  },
+  {
+    "start": 372.159,
+    "end": 373.12,
+    "text": "Bye!",
+    "speaker": "Sam"
+  }
+]

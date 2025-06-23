@@ -1,0 +1,698 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.24,
+    "text": "6M8English",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 11.12,
+    "text": "from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 12.32,
+    "end": 15.2,
+    "text": "Hello, I'm Neil and welcome to 6 Minute English",
+    "speaker": null
+  },
+  {
+    "start": 15.2,
+    "end": 19.839,
+    "text": "where we bring you an interesting topic and six related items of vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 19.839,
+    "end": 24.24,
+    "text": "But there should be two of us and my co-presenter Rob hasn't arrived.",
+    "speaker": null
+  },
+  {
+    "start": 25.839,
+    "end": 28.24,
+    "text": "Rob, Rob, you're late.",
+    "speaker": null
+  },
+  {
+    "start": 28.719,
+    "end": 29.839,
+    "text": "Am I?",
+    "speaker": null
+  },
+  {
+    "start": 29.839,
+    "end": 31.279,
+    "text": "Am I? What's the time?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 31.279,
+    "end": 32.719,
+    "text": "It's time to start the show.",
+    "speaker": null
+  },
+  {
+    "start": 32.719,
+    "end": 34.32,
+    "text": "It's time to start the show. Do you actually own a watch?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 34.32,
+    "end": 36.32,
+    "text": "No. I rely on my internal clock – it's pretty good.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 36.32,
+    "end": 37.519,
+    "text": "It's pretty good.",
+    "speaker": null
+  },
+  {
+    "start": 37.519,
+    "end": 39.119,
+    "text": "Er, no, it isn't.",
+    "speaker": null
+  },
+  {
+    "start": 39.119,
+    "end": 40.159,
+    "text": "You're late.",
+    "speaker": null
+  },
+  {
+    "start": 40.159,
+    "end": 41.359,
+    "text": "But I'm usually on time.",
+    "speaker": null
+  },
+  {
+    "start": 41.359,
+    "end": 46.799,
+    "text": "But I'm usually on time. Now today, we're talking about what would happen to the world if all the clocks stopped.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 46.799,
+    "end": 49.599,
+    "text": "It seems like that wouldn't worry you too much, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 49.599,
+    "end": 50.56,
+    "text": "You're right.",
+    "speaker": null
+  },
+  {
+    "start": 50.56,
+    "end": 52.159,
+    "text": "I think we're slaves to time.",
+    "speaker": null
+  },
+  {
+    "start": 52.159,
+    "end": 54.159,
+    "text": "We've got digital clocks on everything.",
+    "speaker": null
+  },
+  {
+    "start": 54.159,
+    "end": 56.959,
+    "text": "Smartphones, computers, microwaves, bus stops.",
+    "speaker": null
+  },
+  {
+    "start": 57.039,
+    "end": 59.039,
+    "text": "It's hard to get away from it.",
+    "speaker": null
+  },
+  {
+    "start": 59.039,
+    "end": 63.439,
+    "text": "Did you know the word time is the most common noun in the English language,",
+    "speaker": null
+  },
+  {
+    "start": 63.439,
+    "end": 65.439,
+    "text": "according to the Oxford English Dictionary?",
+    "speaker": null
+  },
+  {
+    "start": 65.439,
+    "end": 67.439,
+    "text": "Oh, well, I didn't know that, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 67.439,
+    "end": 69.439,
+    "text": "But good timekeeping is extremely important.",
+    "speaker": null
+  },
+  {
+    "start": 69.439,
+    "end": 73.439,
+    "text": "There are so many things to share during a day and so many deadlines to meet.",
+    "speaker": null
+  },
+  {
+    "start": 73.439,
+    "end": 75.439,
+    "text": "Tick tock, tick tock.",
+    "speaker": null
+  },
+  {
+    "start": 75.439,
+    "end": 78.64,
+    "text": "Well, before we run out of time, Neil, and that means use it all up,",
+    "speaker": null
+  },
+  {
+    "start": 78.64,
+    "end": 80.159,
+    "text": "let's have a quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 80.159,
+    "end": 84.159,
+    "text": "Can you tell me what the word clock originally referred to?",
+    "speaker": null
+  },
+  {
+    "start": 84.159,
+    "end": 86,
+    "text": "Is it a appendulum?",
+    "speaker": null
+  },
+  {
+    "start": 86.799,
+    "end": 89.2,
+    "text": "Be a bell or see a dial?",
+    "speaker": null
+  },
+  {
+    "start": 89.76,
+    "end": 94.96,
+    "text": "A pendulum is a stick with a weight on the end that swings regularly from side to side.",
+    "speaker": null
+  },
+  {
+    "start": 94.96,
+    "end": 97.519,
+    "text": "And a dial is the round part of a clock,",
+    "speaker": null
+  },
+  {
+    "start": 97.519,
+    "end": 99.599,
+    "text": "but there are dials on loads of things.",
+    "speaker": null
+  },
+  {
+    "start": 99.599,
+    "end": 101.28,
+    "text": "They aren't just on clocks.",
+    "speaker": null
+  },
+  {
+    "start": 101.28,
+    "end": 103.68,
+    "text": "And a bell is, well, a bell.",
+    "speaker": null
+  },
+  {
+    "start": 107.84,
+    "end": 108.719,
+    "text": "Well, hurry up, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 108.719,
+    "end": 111.2,
+    "text": "Well, hurry up, Neil – you're wasting time with all these explanations!",
+    "speaker": "Rob"
+  },
+  {
+    "start": 111.2,
+    "end": 112.799,
+    "text": "That's cheeky coming from you, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 112.799,
+    "end": 115.12,
+    "text": "That's cheeky coming from you, Rob. I think the answer is probably 'bell'.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 115.12,
+    "end": 119.6,
+    "text": "Well, you could be right, because not all timepieces go tick tock.",
+    "speaker": null
+  },
+  {
+    "start": 119.6,
+    "end": 125.04,
+    "text": "Well, you could be right – because not all timepieces go tick tock. In fact, mechanical clocks and watches are quite recent in the history of timekeeping.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 125.04,
+    "end": 127.84,
+    "text": "Mechanical means to do with machines.",
+    "speaker": null
+  },
+  {
+    "start": 127.84,
+    "end": 131.28,
+    "text": "So in the past, before people had mechanical timepieces,",
+    "speaker": null
+  },
+  {
+    "start": 131.28,
+    "end": 135.439,
+    "text": "how did they know when to arrive at work, for example, or when to finish?",
+    "speaker": null
+  },
+  {
+    "start": 135.439,
+    "end": 139.2,
+    "text": "They would have looked up at the sky, and observed how the position of the sun, the moon, and the stars changed as time passed.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 139.2,
+    "end": 142.159,
+    "text": "the moon and the stars changed as time passed.",
+    "speaker": null
+  },
+  {
+    "start": 142.159,
+    "end": 143.84,
+    "text": "That doesn't sound very precise!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 143.92,
+    "end": 144.56,
+    "text": "Precisely.",
+    "speaker": null
+  },
+  {
+    "start": 144.56,
+    "end": 146.719,
+    "text": "It means accurate or exact.",
+    "speaker": null
+  },
+  {
+    "start": 146.719,
+    "end": 149.36,
+    "text": "It was precise enough for many people.",
+    "speaker": null
+  },
+  {
+    "start": 149.36,
+    "end": 153.84,
+    "text": "Let's listen to the director of the museum of the history of science in Oxford,",
+    "speaker": null
+  },
+  {
+    "start": 153.84,
+    "end": 156.48,
+    "text": "Dr. Silke Ackerman, talking about this.",
+    "speaker": null
+  },
+  {
+    "start": 158.24,
+    "end": 165.52,
+    "text": "We certainly gain precision, but we completely get devolved or divorced from where time",
+    "speaker": null
+  },
+  {
+    "start": 165.52,
+    "end": 166.96,
+    "text": "originally came from.",
+    "speaker": null
+  },
+  {
+    "start": 166.96,
+    "end": 170.159,
+    "text": "The time we use was based on the movement of the sun.",
+    "speaker": null
+  },
+  {
+    "start": 171.12,
+    "end": 178.879,
+    "text": "And it's roughly still in sync, but for many societies, it wasn't at all relevant to know",
+    "speaker": null
+  },
+  {
+    "start": 178.879,
+    "end": 180.24,
+    "text": "that it's four o'clock.",
+    "speaker": null
+  },
+  {
+    "start": 180.24,
+    "end": 186.96,
+    "text": "They needed to know how much daylight have I got left or when is the prayer time I need to observe",
+    "speaker": null
+  },
+  {
+    "start": 187.68,
+    "end": 189.759,
+    "text": "for completely different reasons.",
+    "speaker": null
+  },
+  {
+    "start": 189.759,
+    "end": 194.879,
+    "text": "And whilst precision is wonderful, it's also very much a straight jacket.",
+    "speaker": null
+  },
+  {
+    "start": 194.879,
+    "end": 201.039,
+    "text": "Everybody is dominated by looking at the watch or smartphone all the time when you observe people.",
+    "speaker": null
+  },
+  {
+    "start": 201.039,
+    "end": 203.12,
+    "text": "So we've basically become a slave to time.",
+    "speaker": null
+  },
+  {
+    "start": 205.039,
+    "end": 209.28,
+    "text": "So in the past, they had different reasons for wanting to know the time, is that it?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 209.28,
+    "end": 214.719,
+    "text": "Yes – in ancient times, people were concerned about the changing of the seasons and how this affected them. When it was time to plants crops, or when to harvest them. When the rainy season was going to start…",
+    "speaker": "Rob"
+  },
+  {
+    "start": 214.719,
+    "end": 219.359,
+    "text": "When it was time to plant crops or when to harvest them, when the rainy season was going to start.",
+    "speaker": null
+  },
+  {
+    "start": 219.359,
+    "end": 224.479,
+    "text": "Now you mention it in the Muslim world, the start of Ramadan is traditionally calculated",
+    "speaker": null
+  },
+  {
+    "start": 224.479,
+    "end": 227.759,
+    "text": "by the rising of the present moon, which changes every year.",
+    "speaker": null
+  },
+  {
+    "start": 228.239,
+    "end": 231.84,
+    "text": "And you can't calculate that with modern methods of timekeeping.",
+    "speaker": null
+  },
+  {
+    "start": 231.84,
+    "end": 233.439,
+    "text": "You're catching on Neil.",
+    "speaker": null
+  },
+  {
+    "start": 233.439,
+    "end": 237.439,
+    "text": "Now what does Dr. Akhamam mean when she says precision is a straight jacket?",
+    "speaker": null
+  },
+  {
+    "start": 237.439,
+    "end": 243.359,
+    "text": "She means that always wanting to be precise about time can limit what we do in a way that is damaging.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 243.839,
+    "end": 246.399,
+    "text": "So we need to take our time – relax a bit… That's my philosophy for life.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 246.399,
+    "end": 248.319,
+    "text": "That's my philosophy for life.",
+    "speaker": null
+  },
+  {
+    "start": 248.319,
+    "end": 250.719,
+    "text": "But we are seriously running out of time now Rob.",
+    "speaker": null
+  },
+  {
+    "start": 250.719,
+    "end": 253.759,
+    "text": "But we are seriously running out of time now, Rob – so please hurry up and tell us the answer to today's quiz question.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 254.959,
+    "end": 258.639,
+    "text": "Okay, well the answer is bell, so you are right Neil.",
+    "speaker": null
+  },
+  {
+    "start": 258.639,
+    "end": 263.599,
+    "text": "The word clock is derived from the Celtic words Claggen and clocker, meaning bell.",
+    "speaker": null
+  },
+  {
+    "start": 264.48,
+    "end": 268.719,
+    "text": "A silent instrument that doesn't have a bell has traditionally been known as a timepiece.",
+    "speaker": null
+  },
+  {
+    "start": 269.279,
+    "end": 273.92,
+    "text": "But today, a clock refers to any device for measuring and displaying the time.",
+    "speaker": null
+  },
+  {
+    "start": 273.92,
+    "end": 277.68,
+    "text": "Well moving on quickly, let's go through the words we learned today.",
+    "speaker": null
+  },
+  {
+    "start": 277.68,
+    "end": 280.8,
+    "text": "First up was run out of time or use it all up.",
+    "speaker": null
+  },
+  {
+    "start": 280.8,
+    "end": 282.959,
+    "text": "You can run out of pretty much anything.",
+    "speaker": null
+  },
+  {
+    "start": 283.039,
+    "end": 284.879,
+    "text": "Oh no, we've run out of sugar.",
+    "speaker": null
+  },
+  {
+    "start": 284.879,
+    "end": 286.56,
+    "text": "Who's going to the shop to buy some more?",
+    "speaker": null
+  },
+  {
+    "start": 287.359,
+    "end": 288.799,
+    "text": "Number two pendulum.",
+    "speaker": null
+  },
+  {
+    "start": 288.799,
+    "end": 294.399,
+    "text": "Number two – 'pendulum' – a stick with a weight on the end that swings regularly from side to side, controlling the movement of a clock.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 294.399,
+    "end": 297.199,
+    "text": "'The pendulum on my Grandfather Clock has stopped swinging.'",
+    "speaker": "Rob"
+  },
+  {
+    "start": 297.199,
+    "end": 298.159,
+    "text": "Sorry to hear that Rob.",
+    "speaker": null
+  },
+  {
+    "start": 299.12,
+    "end": 302.399,
+    "text": "Number three, a dial is the round part of a clock.",
+    "speaker": null
+  },
+  {
+    "start": 302.399,
+    "end": 306.799,
+    "text": "But more generally refers to a round instrument that shows you the amount of something.",
+    "speaker": null
+  },
+  {
+    "start": 306.799,
+    "end": 309.199,
+    "text": "For example, heat, pressure or speed.",
+    "speaker": null
+  },
+  {
+    "start": 310.079,
+    "end": 312.399,
+    "text": "The hands move slowly around the clock dial.",
+    "speaker": null
+  },
+  {
+    "start": 313.199,
+    "end": 316.799,
+    "text": "Fones used to have dials that you'd turn to make a phone call.",
+    "speaker": null
+  },
+  {
+    "start": 316.799,
+    "end": 317.68,
+    "text": "Here's the verb.",
+    "speaker": null
+  },
+  {
+    "start": 317.68,
+    "end": 320.159,
+    "text": "I dialed his number but he didn't answer.",
+    "speaker": null
+  },
+  {
+    "start": 321.199,
+    "end": 324.399,
+    "text": "Alfred Hitchcock made a film called dial M for murder.",
+    "speaker": null
+  },
+  {
+    "start": 325.359,
+    "end": 328.719,
+    "text": "Okay, number four is mechanical to do with machines.",
+    "speaker": null
+  },
+  {
+    "start": 329.359,
+    "end": 332.639,
+    "text": "Our plane was delayed because of a mechanical problem.",
+    "speaker": null
+  },
+  {
+    "start": 333.359,
+    "end": 336.879,
+    "text": "Number five, precise, which means accurate and exact.",
+    "speaker": null
+  },
+  {
+    "start": 336.879,
+    "end": 340.799,
+    "text": "Number five – 'precise' – which means accurate and exact. So 'What type of mechanical problem? Could you be more precise, Rob?'",
+    "speaker": "Neil"
+  },
+  {
+    "start": 340.799,
+    "end": 342.479,
+    "text": "No, I don't have time Neil.",
+    "speaker": null
+  },
+  {
+    "start": 342.56,
+    "end": 348.4,
+    "text": "Number six is straight jacket, which means limiting what somebody can do in a way that is damaging.",
+    "speaker": null
+  },
+  {
+    "start": 348.4,
+    "end": 354.16,
+    "text": "Which means limiting what somebody can do in a way that is damaging. It's also a jacket with long arms that are tied behind a person to stop them from behaving violently.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 354.16,
+    "end": 355.759,
+    "text": "Oh no, not the straight jacket.",
+    "speaker": null
+  },
+  {
+    "start": 355.759,
+    "end": 357.68,
+    "text": "'Oh, no, not the straitjacket! I promise I'll behave myself, Neil.'",
+    "speaker": "Rob"
+  },
+  {
+    "start": 357.68,
+    "end": 359.36,
+    "text": "Okay, if you really promise Rob.",
+    "speaker": null
+  },
+  {
+    "start": 364.08,
+    "end": 365.68,
+    "text": "Right, well we've run out of time.",
+    "speaker": null
+  },
+  {
+    "start": 365.68,
+    "end": 369.36,
+    "text": "Please check our Instagram, Twitter, Facebook and YouTube pages.",
+    "speaker": null
+  },
+  {
+    "start": 369.36,
+    "end": 370,
+    "text": "Goodbye!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 370,
+    "end": 370.4,
+    "text": "Bye-bye!",
+    "speaker": "Rob"
+  },
+  {
+    "start": 372.48,
+    "end": 374.72,
+    "text": "Don't English from the BBC.",
+    "speaker": null
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "start": 0,
+    "end": 7,
+    "text": "This is a download from BBC Learning English. To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 7,
+    "end": 14,
+    "text": "6 Minute English from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 14,
+    "end": 20,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Beth.",
+    "speaker": "Beth"
+  },
+  {
+    "start": 20,
+    "end": 27,
+    "text": "And I'm Neil. Phew, I've spent a day in meetings, then shopping, then collecting the kids from school.",
+    "speaker": null
+  },
+  {
+    "start": 27,
+    "end": 30,
+    "text": "I'm exhausted, Beth. What have you been doing today?",
+    "speaker": null
+  },
+  {
+    "start": 30,
+    "end": 35,
+    "text": "Oh, not much, just sitting around doing nothing… relaxing and kicking back!",
+    "speaker": "kicking back"
+  },
+  {
+    "start": 35,
+    "end": 38,
+    "text": "Lucky you, don't you have any work to do?",
+    "speaker": null
+  },
+  {
+    "start": 38,
+    "end": 42,
+    "text": "It may not look at Neil, but I'm actually as busy as a bee.",
+    "speaker": null
+  },
+  {
+    "start": 42,
+    "end": 47,
+    "text": "If you've seen nature documentaries about worker bees flying from flower to flower,",
+    "speaker": null
+  },
+  {
+    "start": 47,
+    "end": 51,
+    "text": "you probably think animals are always on the move.",
+    "speaker": null
+  },
+  {
+    "start": 51,
+    "end": 56,
+    "text": "But the surprising truth is, away from the cameras, most animals spend most of their time",
+    "speaker": null
+  },
+  {
+    "start": 56,
+    "end": 59,
+    "text": "doing absolutely nothing at all.",
+    "speaker": null
+  },
+  {
+    "start": 59,
+    "end": 62,
+    "text": "In the natural world where finding food and shelter is hard work,",
+    "speaker": null
+  },
+  {
+    "start": 62,
+    "end": 66,
+    "text": "why have some animals evolved to do nothing?",
+    "speaker": null
+  },
+  {
+    "start": 66,
+    "end": 71,
+    "text": "And if it's good enough for animals, would be lazy work for humans too.",
+    "speaker": null
+  },
+  {
+    "start": 71,
+    "end": 78,
+    "text": "That's what we'll be discussing in this programme, and as usual, we'll be learning some useful new vocabulary as well.",
+    "speaker": null
+  },
+  {
+    "start": 78,
+    "end": 83,
+    "text": "But first, let me work up the energy to ask you a question, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 83,
+    "end": 88,
+    "text": "Of course, some animals have a reputation for lounging about.",
+    "speaker": null
+  },
+  {
+    "start": 88,
+    "end": 92,
+    "text": "Lions, for example, can sleep up to 20 hours a day.",
+    "speaker": null
+  },
+  {
+    "start": 92,
+    "end": 96,
+    "text": "But what is the slowest moving animal on earth?",
+    "speaker": null
+  },
+  {
+    "start": 96,
+    "end": 104,
+    "text": "Is it A, the giant tortoise, B, the three-toed sloth, or C, the koala?",
+    "speaker": null
+  },
+  {
+    "start": 104,
+    "end": 108,
+    "text": "Well, I think it’s the three-toed sloth.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 108,
+    "end": 113,
+    "text": "Okay, Neil. I'll reveal the correct answer at the end of the programme.",
+    "speaker": null
+  },
+  {
+    "start": 113,
+    "end": 117,
+    "text": "Now, it's no surprise that lazy lions love relaxing,",
+    "speaker": null
+  },
+  {
+    "start": 117,
+    "end": 123,
+    "text": "but even animals with reputations for being busy spend time doing nothing.",
+    "speaker": null
+  },
+  {
+    "start": 123,
+    "end": 130,
+    "text": "Look carefully into an ants nest, and you'll see around half of them just sitting there motionless.",
+    "speaker": null
+  },
+  {
+    "start": 130,
+    "end": 135,
+    "text": "Here's Professor Dan Shabinow, an expert in insect behaviour,",
+    "speaker": null
+  },
+  {
+    "start": 135,
+    "end": 142,
+    "text": "discussing the lazy rock ant with Emily Knight, presenter of BBC Radio 4 programme NatureBang.",
+    "speaker": null
+  },
+  {
+    "start": 145,
+    "end": 151,
+    "text": "Dan's research has focused on ant colonies, a species called Temnor Thorax Regardless, or the rock ant.",
+    "speaker": null
+  },
+  {
+    "start": 151,
+    "end": 154,
+    "text": "I think ants are sort of a symbol of like, industriousness, you know.",
+    "speaker": null
+  },
+  {
+    "start": 154,
+    "end": 158,
+    "text": "They have this whole tiny little society going on that's kind of similar to ours.",
+    "speaker": null
+  },
+  {
+    "start": 158,
+    "end": 163,
+    "text": "Some idealised version of what humans might be if we could only like pull it together and all work together,",
+    "speaker": null
+  },
+  {
+    "start": 163,
+    "end": 170,
+    "text": "we could be as industrious as the ants, but then when you look at it, you know, roughly about half the colony is inactive at any given time.",
+    "speaker": null
+  },
+  {
+    "start": 172,
+    "end": 176,
+    "text": "We think ants are industrious or hard working.",
+    "speaker": null
+  },
+  {
+    "start": 176,
+    "end": 183,
+    "text": "We think ants are industrious, or hard-working. Groups of ants, called colonies, seem tiny, perfect societies where everyone works hard for the good of the group.",
+    "speaker": "industriouscolonies"
+  },
+  {
+    "start": 183,
+    "end": 186,
+    "text": "Then why are so many of them inactive?",
+    "speaker": null
+  },
+  {
+    "start": 186,
+    "end": 194,
+    "text": "One possible answer is that their reserve ants ready to step in if disease or disaster strike.",
+    "speaker": null
+  },
+  {
+    "start": 194,
+    "end": 198,
+    "text": "But could it simply be that they don't work because they don't need to?",
+    "speaker": null
+  },
+  {
+    "start": 198,
+    "end": 202,
+    "text": "Would you get out of bed on Monday morning if you didn't have to?",
+    "speaker": null
+  },
+  {
+    "start": 202,
+    "end": 206,
+    "text": "Maybe the ants can teach us a thing or two about relaxing. But wouldn't it get boring just sitting around all day?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 206,
+    "end": 209,
+    "text": "but wouldn't it get boring just sitting around all day?",
+    "speaker": null
+  },
+  {
+    "start": 209,
+    "end": 213,
+    "text": "Not according to psychologist Dr Sandy Mann.",
+    "speaker": null
+  },
+  {
+    "start": 213,
+    "end": 220,
+    "text": "She thinks being productive, working to produce a lot for the amount of resources we use is overrated.",
+    "speaker": null
+  },
+  {
+    "start": 220,
+    "end": 227,
+    "text": "Boredom has its benefits too, as she explained to BBC Radio 4 programme NatureBang.",
+    "speaker": null
+  },
+  {
+    "start": 227,
+    "end": 238,
+    "text": "Would humans have invented bread or beer or fire, you know, if we hadn't been bored and were wondering what will happen if we mix this with this?",
+    "speaker": null
+  },
+  {
+    "start": 238,
+    "end": 242,
+    "text": "Are all these sort of inventions the mother of boredom?",
+    "speaker": null
+  },
+  {
+    "start": 242,
+    "end": 247,
+    "text": "But in this world of constant stimulation switching off is harder than it's ever been.",
+    "speaker": "switching off"
+  },
+  {
+    "start": 247,
+    "end": 253,
+    "text": "That's why we're constantly swiping and scrolling and looking for the next big thing and the new thing and we get bored of things very quickly.",
+    "speaker": null
+  },
+  {
+    "start": 253,
+    "end": 260,
+    "text": "So it's a kind of paradox to get rid of this unpleasant state of boredom is actually to allow more boredom into your life.",
+    "speaker": null
+  },
+  {
+    "start": 260,
+    "end": 268,
+    "text": "Dr Mann doubts humans would have invented things without the curiosity that comes from being bored.",
+    "speaker": null
+  },
+  {
+    "start": 268,
+    "end": 271,
+    "text": "Boredom is the mother of invention.",
+    "speaker": null
+  },
+  {
+    "start": 271,
+    "end": 282,
+    "text": "Dr Mann doubts humans would have invented things without the curiosity that comes from being bored. Boredom is the mother of invention, an idea based on the famous proverb, necessity is the mother of invention, an idiom meaning that if you really need to do something, you will think of a way of doing it.",
+    "speaker": "necessity is the mother of invention"
+  },
+  {
+    "start": 282,
+    "end": 294,
+    "text": "Instead of fearing boredom we can open up to its benefits by switching off - stopping worrying or thinking about something and relaxing. Slowing down helps too - something we can definitely learn from our animal cousins.",
+    "speaker": "switching off"
+  },
+  {
+    "start": 294,
+    "end": 297,
+    "text": "Something we can definitely learn from our animal cousins.",
+    "speaker": null
+  },
+  {
+    "start": 297,
+    "end": 303,
+    "text": "I think now is a good time to reveal the answer to my question since we have nothing else to do.",
+    "speaker": null
+  },
+  {
+    "start": 303,
+    "end": 309,
+    "text": "You asked me to name the world’s slowest animal and I guessed it was the three-toed sloth. Was I right?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 309,
+    "end": 322,
+    "text": "That was the correct answer. With the top speed of 30 centimetres per minute, three-toed sloths move so slowly that algae grows on their coats.",
+    "speaker": null
+  },
+  {
+    "start": 322,
+    "end": 332,
+    "text": "Okay, let's recap the vocabulary we've learnt from this programme starting with the phrase kicking back to stop doing things and relax completely.",
+    "speaker": null
+  },
+  {
+    "start": 332,
+    "end": 336,
+    "text": "The adjective industrious means hard-working.",
+    "speaker": "industrious"
+  },
+  {
+    "start": 336,
+    "end": 343,
+    "text": "A colony is the name given to a group of certain animals including ants and some seabirds.",
+    "speaker": "colony"
+  },
+  {
+    "start": 343,
+    "end": 349,
+    "text": "Someone who is productive is able to produce a lot for the amount of resources they use.",
+    "speaker": "productive"
+  },
+  {
+    "start": 349,
+    "end": 357,
+    "text": "The proverb necessity is the mother of invention, means that if you really need to do something, you will think of a way of doing it.",
+    "speaker": "necessity is the mother of invention,"
+  },
+  {
+    "start": 357,
+    "end": 363,
+    "text": "And finally, to switch off means to stop worrying or thinking about something and relax.",
+    "speaker": null
+  },
+  {
+    "start": 363,
+    "end": 370,
+    "text": "Once again, our six minutes are up. It must be time to sit down, close your eyes and just do nothing.",
+    "speaker": null
+  },
+  {
+    "start": 370,
+    "end": 372,
+    "text": "Goodbye for now. Bye!",
+    "speaker": null
+  }
+]

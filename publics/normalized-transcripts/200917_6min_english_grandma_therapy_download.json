@@ -1,0 +1,524 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 15.12,
+    "end": 19.28,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 19.28,
+    "end": 20.48,
+    "text": "And I’m Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 20.48,
+    "end": 22.719,
+    "text": "Sam, have you ever heard the expression ‘a problem shared is a problem halved’?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 22.719,
+    "end": 25.359,
+    "text": "a problem shared is a problem halved?",
+    "speaker": null
+  },
+  {
+    "start": 25.359,
+    "end": 27.039,
+    "text": "Yes, Neil, I have.",
+    "speaker": null
+  },
+  {
+    "start": 27.039,
+    "end": 32.32,
+    "text": "Yes, Neil, I have. Doesn’t it mean that people often feel better after talking about their problems with someone?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 32.32,
+    "end": 37.92,
+    "text": "Right - in this programme we’ll be hearing the extraordinary story of how these ideas were taken up by a team of community grandmothers in Zimbabwe.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 37.92,
+    "end": 41.119,
+    "text": "by a team of community grandmothers in Zimbabwe.",
+    "speaker": null
+  },
+  {
+    "start": 41.119,
+    "end": 46.96,
+    "text": "Zimbabwe has over 14 million people, but fewer than 20 psychiatrists.",
+    "speaker": null
+  },
+  {
+    "start": 46.96,
+    "end": 51.2,
+    "text": "After years of economic turmoil, unemployment and HIV,",
+    "speaker": null
+  },
+  {
+    "start": 51.2,
+    "end": 53.519,
+    "text": "mental health is a huge challenge.",
+    "speaker": null
+  },
+  {
+    "start": 53.6,
+    "end": 59.359,
+    "text": "And doctors estimate that one in four Zimbabweans suffers from depression or anxiety.",
+    "speaker": null
+  },
+  {
+    "start": 59.359,
+    "end": 63.359,
+    "text": "When it proved impossible to find free space to use in hospitals,",
+    "speaker": null
+  },
+  {
+    "start": 63.359,
+    "end": 68.8,
+    "text": "psychiatrists Dr Dixon Chibander came up with the idea of turning public park benches",
+    "speaker": null
+  },
+  {
+    "start": 68.8,
+    "end": 70.48,
+    "text": "into spaces for therapy.",
+    "speaker": null
+  },
+  {
+    "start": 70.48,
+    "end": 76,
+    "text": "He recruited grandmothers who have both free time and plenty of life experience",
+    "speaker": null
+  },
+  {
+    "start": 76,
+    "end": 80.08,
+    "text": "to talk with individuals struggling with mental health issues like depression,",
+    "speaker": null
+  },
+  {
+    "start": 80.08,
+    "end": 81.92,
+    "text": "anxiety and trauma.",
+    "speaker": null
+  },
+  {
+    "start": 82,
+    "end": 86,
+    "text": "The grandmothers are drawn from the local community and trained over several weeks",
+    "speaker": null
+  },
+  {
+    "start": 86,
+    "end": 89.28,
+    "text": "in a talking therapy called CBT.",
+    "speaker": null
+  },
+  {
+    "start": 89.28,
+    "end": 93.12,
+    "text": "But what does that abbreviation CBT stand for?",
+    "speaker": null
+  },
+  {
+    "start": 93.12,
+    "end": 94.719,
+    "text": "That's my quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 94.719,
+    "end": 97.519,
+    "text": "a) Chatting Based Therapy?,",
+    "speaker": "Neil"
+  },
+  {
+    "start": 97.519,
+    "end": 103.2,
+    "text": "b) Conversation Brain Therapy?  or,",
+    "speaker": "Neil"
+  },
+  {
+    "start": 103.2,
+    "end": 107.439,
+    "text": "Well, I think I'll say C, cognitive behavioral therapy.",
+    "speaker": null
+  },
+  {
+    "start": 107.439,
+    "end": 109.439,
+    "text": "Okay, Sam, we'll find out later.",
+    "speaker": null
+  },
+  {
+    "start": 109.439,
+    "end": 115.2,
+    "text": "Now, although the recent history of Zimbabwe has left millions struggling with mental health issues,",
+    "speaker": null
+  },
+  {
+    "start": 115.2,
+    "end": 120.799,
+    "text": "at the start of his project, Dr Dixon Chibander was the only psychiatrist working in public health",
+    "speaker": null
+  },
+  {
+    "start": 120.799,
+    "end": 122.319,
+    "text": "in the whole country.",
+    "speaker": null
+  },
+  {
+    "start": 122.319,
+    "end": 128.079,
+    "text": "And as well as a lack of provision, many villages were suspicious of talking therapy,",
+    "speaker": null
+  },
+  {
+    "start": 128.079,
+    "end": 132.079,
+    "text": "preferring to rely on traditional faith healers instead.",
+    "speaker": null
+  },
+  {
+    "start": 132.079,
+    "end": 137.28,
+    "text": "Which is why when Kim Chakonezza of BBC World Services, the documentary podcast,",
+    "speaker": null
+  },
+  {
+    "start": 137.28,
+    "end": 143.52,
+    "text": "spoke to Dr Dixon Chibander, she started by asking him whether people were supportive of his idea.",
+    "speaker": null
+  },
+  {
+    "start": 144.479,
+    "end": 150.24,
+    "text": "Initially, there was a lot of skepticism, a lot of resistance, particularly from colleagues",
+    "speaker": null
+  },
+  {
+    "start": 150.24,
+    "end": 152.24,
+    "text": "who thought this was not evidence-based.",
+    "speaker": null
+  },
+  {
+    "start": 152.96,
+    "end": 154.96,
+    "text": "And it wasn't going to work.",
+    "speaker": null
+  },
+  {
+    "start": 154.96,
+    "end": 159.68,
+    "text": "The whole idea of training grandmothers, I mean, this has not been done anywhere else in the world.",
+    "speaker": null
+  },
+  {
+    "start": 159.68,
+    "end": 161.52,
+    "text": "So naturally, there was resistance.",
+    "speaker": null
+  },
+  {
+    "start": 162.08,
+    "end": 164,
+    "text": "Were you at all apprehensive?",
+    "speaker": "apprehensive"
+  },
+  {
+    "start": 164,
+    "end": 165.36,
+    "text": "I was, to be quite honest.",
+    "speaker": "Dr Dixon Chibanda"
+  },
+  {
+    "start": 165.84,
+    "end": 171.68,
+    "text": "At first, Dr Dixon Chibander's ideas were met with skepticism,",
+    "speaker": null
+  },
+  {
+    "start": 171.68,
+    "end": 175.92,
+    "text": "At first, Dr Dixon Chibanda’s ideas were met with scepticism – an attitude of doubting whether something is useful or true.",
+    "speaker": "scepticism"
+  },
+  {
+    "start": 175.92,
+    "end": 181.44,
+    "text": "Grammar benches were a totally new idea never seen before anywhere in the world,",
+    "speaker": null
+  },
+  {
+    "start": 181.44,
+    "end": 187.6,
+    "text": "‘Grandma benches’ were a totally new idea, never seen before anywhere in the world and so his colleagues naturally felt some resistance - refusal to accept a change or new idea.",
+    "speaker": "resistance"
+  },
+  {
+    "start": 187.6,
+    "end": 194.32,
+    "text": "Which left Dr Dixon Chibander feeling a little apprehensive, worried that something bad",
+    "speaker": null
+  },
+  {
+    "start": 194.319,
+    "end": 196.079,
+    "text": "was going to happen to his project.",
+    "speaker": null
+  },
+  {
+    "start": 197.039,
+    "end": 202.159,
+    "text": "Fortunately, as it turned out, Dr Dixon Chibander's apprehensions were wrong.",
+    "speaker": null
+  },
+  {
+    "start": 202.159,
+    "end": 206.879,
+    "text": "Grammothers are highly respected in Zimbabwean society, and as they started listening,",
+    "speaker": null
+  },
+  {
+    "start": 206.879,
+    "end": 209.759,
+    "text": "people began opening up and telling their stories.",
+    "speaker": null
+  },
+  {
+    "start": 210.239,
+    "end": 215.84,
+    "text": "The grammar benches have empowered over 50,000 people to deal with their life problems,",
+    "speaker": null
+  },
+  {
+    "start": 215.84,
+    "end": 220.479,
+    "text": "and Dr Dixon Chibander even has plans to move his idea online,",
+    "speaker": null
+  },
+  {
+    "start": 220.479,
+    "end": 223.84,
+    "text": "giving the world access to a virtual friendship bench.",
+    "speaker": null
+  },
+  {
+    "start": 224.4,
+    "end": 228.879,
+    "text": "Here he is again, explaining on the BBC World Service’s The Documentary Podcast why he believes his ideas have been so successful:",
+    "speaker": "Neil"
+  },
+  {
+    "start": 228.879,
+    "end": 232.079,
+    "text": "why he believes his ideas have been so successful.",
+    "speaker": null
+  },
+  {
+    "start": 233.12,
+    "end": 238.159,
+    "text": "It works because it's simple, it's cheap, and it's run by communities,",
+    "speaker": null
+  },
+  {
+    "start": 238.159,
+    "end": 244.639,
+    "text": "particularly grandmother's, who are in essence a resource in African communities.",
+    "speaker": null
+  },
+  {
+    "start": 244.639,
+    "end": 248.56,
+    "text": "You know, they are the custodians of local culture and wisdom.",
+    "speaker": null
+  },
+  {
+    "start": 248.56,
+    "end": 254,
+    "text": "That's why it works, and it, I guess, does away with Western concepts.",
+    "speaker": null
+  },
+  {
+    "start": 254.319,
+    "end": 258.48,
+    "text": "Which remove the stigma that is normally associated with mental illness.",
+    "speaker": null
+  },
+  {
+    "start": 259.439,
+    "end": 263.36,
+    "text": "Clients are willing to share their problems with the grandmother therapist",
+    "speaker": null
+  },
+  {
+    "start": 263.36,
+    "end": 266.719,
+    "text": "because they are respected as cultural custodians.",
+    "speaker": null
+  },
+  {
+    "start": 266.719,
+    "end": 270.24,
+    "text": "People with responsibility for taking care of something,",
+    "speaker": null
+  },
+  {
+    "start": 270.24,
+    "end": 273.519,
+    "text": "or trying to protect ideas or principles.",
+    "speaker": null
+  },
+  {
+    "start": 273.519,
+    "end": 276.719,
+    "text": "In this case, local customs and wisdom.",
+    "speaker": null
+  },
+  {
+    "start": 276.719,
+    "end": 281.519,
+    "text": "This helps do away with or remove the stigma attached to mental health.",
+    "speaker": null
+  },
+  {
+    "start": 281.599,
+    "end": 286.399,
+    "text": "Strong feelings of shame or disapproval, which most members of the community have towards",
+    "speaker": null
+  },
+  {
+    "start": 286.399,
+    "end": 289.199,
+    "text": "something, such as psychological illness.",
+    "speaker": null
+  },
+  {
+    "start": 289.199,
+    "end": 294.639,
+    "text": "For Zimbabwean suffering, domestic violence, and employment, and dealing with HIV,",
+    "speaker": null
+  },
+  {
+    "start": 294.639,
+    "end": 300.719,
+    "text": "For Zimbabweans suffering domestic violence, unemployment and dealing with HIV, having a grandmother to talk to really can change their perceptions about how problems can be managed.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 300.719,
+    "end": 306.879,
+    "text": "So it seems true that a problem shared is a problem halved, which reminds me of our quiz questions, Am.",
+    "speaker": null
+  },
+  {
+    "start": 307.12,
+    "end": 314.48,
+    "text": "Yes. You asked me what the talking therapy abbreviated to CBT stands for. And I said c) Cognitive Behavioural Therapy.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 314.48,
+    "end": 317.759,
+    "text": "see cognitive behavior or therapy.",
+    "speaker": null
+  },
+  {
+    "start": 317.759,
+    "end": 325.04,
+    "text": "Which is absolutely right! CBT – a way of managing problems by changing ways of thinking and behaving.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 325.04,
+    "end": 330.719,
+    "text": "So this week we've been hearing the inspiring story of Zimbabwean, Dr. Dixon Chabandas,",
+    "speaker": null
+  },
+  {
+    "start": 330.719,
+    "end": 332.639,
+    "text": "grandma bench therapy.",
+    "speaker": null
+  },
+  {
+    "start": 332.639,
+    "end": 338.8,
+    "text": "An idea which was initially met with skepticism, a doubtful attitude, and resistance,",
+    "speaker": null
+  },
+  {
+    "start": 338.8,
+    "end": 341.68,
+    "text": "refusal to change and accept new ideas.",
+    "speaker": null
+  },
+  {
+    "start": 341.68,
+    "end": 346.959,
+    "text": "Dr. Dixon Chabandas' feelings of apprehension worries that the project would fail.",
+    "speaker": null
+  },
+  {
+    "start": 346.959,
+    "end": 352.639,
+    "text": "Proof false when his team of grandmother therapists were treated as custodians or protectors",
+    "speaker": null
+  },
+  {
+    "start": 352.639,
+    "end": 359.199,
+    "text": "of wisdom and life experience, who really could help people suffering depression, poverty, and trauma.",
+    "speaker": null
+  },
+  {
+    "start": 359.199,
+    "end": 366.079,
+    "text": "The success of the project helped do away with or remove strong feelings of shame or disapproval",
+    "speaker": null
+  },
+  {
+    "start": 366.079,
+    "end": 370.719,
+    "text": "felt by many people regarding mental health, known as stigma.",
+    "speaker": null
+  },
+  {
+    "start": 370.719,
+    "end": 375.919,
+    "text": "To hear more inspiring, topical stories, rein us again soon here at 6 Minute English.",
+    "speaker": null
+  },
+  {
+    "start": 375.919,
+    "end": 376.719,
+    "text": "Bye for now.",
+    "speaker": null
+  },
+  {
+    "start": 376.719,
+    "end": 377.36,
+    "text": "Goodbye!",
+    "speaker": "Neil"
+  }
+]

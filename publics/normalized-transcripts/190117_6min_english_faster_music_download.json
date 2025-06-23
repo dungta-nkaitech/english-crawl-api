@@ -1,0 +1,710 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.24,
+    "text": "6M8English",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 10.88,
+    "text": "from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 12.4,
+    "end": 14.8,
+    "text": "Hello. Welcome to 6 Minute English, I'm Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 14.8,
+    "end": 16.08,
+    "text": "And hello, I'm Rob.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 16.08,
+    "end": 21.199,
+    "text": "Today we’re discussing music and the idea that songs are becoming faster. What music do you like, Rob?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 21.199,
+    "end": 22.719,
+    "text": "What music do you like, Rob?",
+    "speaker": null
+  },
+  {
+    "start": 22.719,
+    "end": 25.039,
+    "text": "Oh, me, I like rock music.",
+    "speaker": null
+  },
+  {
+    "start": 25.039,
+    "end": 27.199,
+    "text": "It has good vocals and it's loud.",
+    "speaker": null
+  },
+  {
+    "start": 27.199,
+    "end": 28.16,
+    "text": "How about you, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 28.16,
+    "end": 32.24,
+    "text": "Well, I like anything and I prefer streaming my music, actually.",
+    "speaker": null
+  },
+  {
+    "start": 32.24,
+    "end": 35.359,
+    "text": "No old-fashioned CDs to buy and load up.",
+    "speaker": null
+  },
+  {
+    "start": 35.359,
+    "end": 38.24,
+    "text": "It's easier to play and you can play it anywhere.",
+    "speaker": null
+  },
+  {
+    "start": 38.24,
+    "end": 41.359,
+    "text": "And streaming is where you listen or watch music",
+    "speaker": null
+  },
+  {
+    "start": 41.359,
+    "end": 44.64,
+    "text": "or videos directly from the internet as a continuous stream.",
+    "speaker": null
+  },
+  {
+    "start": 44.64,
+    "end": 48.799,
+    "text": "Did you know that some people believe that streaming music online is actually",
+    "speaker": null
+  },
+  {
+    "start": 48.799,
+    "end": 51.28,
+    "text": "changing the songs people write?",
+    "speaker": null
+  },
+  {
+    "start": 51.28,
+    "end": 54.24,
+    "text": "And it might be leading to songs getting faster.",
+    "speaker": null
+  },
+  {
+    "start": 54.24,
+    "end": 56.079,
+    "text": "Well, that's what we're discussing today.",
+    "speaker": null
+  },
+  {
+    "start": 56.159,
+    "end": 58.479,
+    "text": "Let's hope it doesn't happen to this programme,",
+    "speaker": null
+  },
+  {
+    "start": 58.479,
+    "end": 61.439,
+    "text": "otherwise we might become 3 Minute English.",
+    "speaker": null
+  },
+  {
+    "start": 61.439,
+    "end": 65.679,
+    "text": "But before it does, let's get on with our question for everyone to answer.",
+    "speaker": null
+  },
+  {
+    "start": 65.679,
+    "end": 68.799,
+    "text": "In 2017, Louise Fonzzi's summer hit,",
+    "speaker": null
+  },
+  {
+    "start": 68.799,
+    "end": 72.479,
+    "text": "Despacito, officially became the most stream song of all time.",
+    "speaker": null
+  },
+  {
+    "start": 72.479,
+    "end": 76.48,
+    "text": "Do you know approximately how many times it was streamed?",
+    "speaker": null
+  },
+  {
+    "start": 76.48,
+    "end": 82.079,
+    "text": "Is it A, 1.6 billion times, B, 3.6 billion times,",
+    "speaker": null
+  },
+  {
+    "start": 82.079,
+    "end": 85.359,
+    "text": "c)    4.6 billion times?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 85.359,
+    "end": 89.76,
+    "text": "I know the song was popular but 4.6 billion sounds too big – so I'll go for a) 1.6 billion.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 89.76,
+    "end": 92.799,
+    "text": "so I'll go for A, 1.6 billion.",
+    "speaker": null
+  },
+  {
+    "start": 92.799,
+    "end": 95.2,
+    "text": "OK, well, we'll find out later in the programme.",
+    "speaker": null
+  },
+  {
+    "start": 95.2,
+    "end": 98.879,
+    "text": "But now back to our discussion about how music producers are adapting",
+    "speaker": null
+  },
+  {
+    "start": 98.879,
+    "end": 100.959,
+    "text": "their songs for modern technology.",
+    "speaker": null
+  },
+  {
+    "start": 100.959,
+    "end": 104.48,
+    "text": "Researchers have found long instrumental introductions to pop songs",
+    "speaker": null
+  },
+  {
+    "start": 104.48,
+    "end": 106.56,
+    "text": "have become almost extinct.",
+    "speaker": null
+  },
+  {
+    "start": 106.56,
+    "end": 112,
+    "text": "Of course the aim of many pop songs is to be enjoyed by many – to be popular - but they also need to be a commercial success – they need to make money.",
+    "speaker": "commercial success"
+  },
+  {
+    "start": 112.079,
+    "end": 114.879,
+    "text": "but they also need to be a commercial success.",
+    "speaker": null
+  },
+  {
+    "start": 114.879,
+    "end": 116.079,
+    "text": "They need to make money.",
+    "speaker": null
+  },
+  {
+    "start": 116.079,
+    "end": 120.239,
+    "text": "Brendan Williams, a music producer and professor of music technology,",
+    "speaker": null
+  },
+  {
+    "start": 120.239,
+    "end": 123.12,
+    "text": "can explain what he thinks influences the songs.",
+    "speaker": null
+  },
+  {
+    "start": 123.12,
+    "end": 126.96,
+    "text": "Here he is speaking on BBC Radio 4's You and Yours programme.",
+    "speaker": null
+  },
+  {
+    "start": 128.24,
+    "end": 130.719,
+    "text": "I think that, you know, one of the things that's driving this,",
+    "speaker": null
+  },
+  {
+    "start": 130.719,
+    "end": 132.96,
+    "text": "there are a number of things.",
+    "speaker": null
+  },
+  {
+    "start": 132.96,
+    "end": 136.159,
+    "text": "They're all radio, they're all singles designed for radio playlists.",
+    "speaker": null
+  },
+  {
+    "start": 136.879,
+    "end": 141.36,
+    "text": "Radio playlists are extremely important factors in judging the success of a track",
+    "speaker": null
+  },
+  {
+    "start": 141.6,
+    "end": 144.4,
+    "text": "and obviously do feed into the kind of commercial success of a track.",
+    "speaker": null
+  },
+  {
+    "start": 145.6,
+    "end": 149.36,
+    "text": "So he mentions that radio playlists are important factors.",
+    "speaker": null
+  },
+  {
+    "start": 149.36,
+    "end": 153.2,
+    "text": "A playlist is a list of songs that a radio station plans to play,",
+    "speaker": null
+  },
+  {
+    "start": 153.84,
+    "end": 158.16,
+    "text": "and he says that radio playlists affect the commercial success of a song.",
+    "speaker": null
+  },
+  {
+    "start": 158.16,
+    "end": 160.56,
+    "text": "By the way, he called a song a track.",
+    "speaker": null
+  },
+  {
+    "start": 160.56,
+    "end": 162.56,
+    "text": "That's a recorded piece of music.",
+    "speaker": null
+  },
+  {
+    "start": 162.56,
+    "end": 164.64,
+    "text": "And notice how he used the word driving,",
+    "speaker": null
+  },
+  {
+    "start": 164.64,
+    "end": 167.2,
+    "text": "which means having a strong influence.",
+    "speaker": null
+  },
+  {
+    "start": 167.2,
+    "end": 170.16,
+    "text": "So getting a song played on the radio is important,",
+    "speaker": null
+  },
+  {
+    "start": 170.24,
+    "end": 174.24,
+    "text": "and it has to be made in a way that will suit the radio station's playlist.",
+    "speaker": null
+  },
+  {
+    "start": 174.24,
+    "end": 177.359,
+    "text": "Now, we know there are thousands of songs out there to listen to,",
+    "speaker": null
+  },
+  {
+    "start": 177.359,
+    "end": 179.519,
+    "text": "and plenty of ways to listen to them.",
+    "speaker": null
+  },
+  {
+    "start": 179.519,
+    "end": 184.24,
+    "text": "So how can record companies get someone to listen to their particular song?",
+    "speaker": null
+  },
+  {
+    "start": 184.24,
+    "end": 187.199,
+    "text": "Well, have a listen to Brendan Williams again to see what he thinks…",
+    "speaker": "Rob"
+  },
+  {
+    "start": 188.4,
+    "end": 191.759,
+    "text": "But then there's the influence of streaming services like Spotify,",
+    "speaker": null
+  },
+  {
+    "start": 191.759,
+    "end": 194.8,
+    "text": "where if a track isn't played for at least 30 seconds,",
+    "speaker": null
+  },
+  {
+    "start": 194.8,
+    "end": 196.24,
+    "text": "then it doesn't register a play.",
+    "speaker": null
+  },
+  {
+    "start": 196.24,
+    "end": 199.28,
+    "text": "Presenter: And if we don’t hear the vocals then we might not carry on listening. Is that the theory?",
+    "speaker": "register"
+  },
+  {
+    "start": 199.28,
+    "end": 200.24,
+    "text": "Absolutely, yeah.",
+    "speaker": null
+  },
+  {
+    "start": 200.24,
+    "end": 202.8,
+    "text": "Yeah, that's the theory is to get through, I guess,",
+    "speaker": null
+  },
+  {
+    "start": 202.8,
+    "end": 204.319,
+    "text": "to get into the meat of the song,",
+    "speaker": null
+  },
+  {
+    "start": 204.319,
+    "end": 207.28,
+    "text": "to hear the lyrical content and get through to that first chorus.",
+    "speaker": null
+  },
+  {
+    "start": 208.479,
+    "end": 211.68,
+    "text": "Well, it seems songs no longer have an intro,",
+    "speaker": null
+  },
+  {
+    "start": 211.68,
+    "end": 215.52,
+    "text": "the instrumental piece of music that's played before the singing begins.",
+    "speaker": null
+  },
+  {
+    "start": 215.52,
+    "end": 217.36,
+    "text": "In the old days, radio DJs,",
+    "speaker": null
+  },
+  {
+    "start": 217.36,
+    "end": 220.639,
+    "text": "disjockeys who played the records love to talk over that bit.",
+    "speaker": null
+  },
+  {
+    "start": 221.36,
+    "end": 223.92,
+    "text": "Now we need to get to the lyrical content.",
+    "speaker": null
+  },
+  {
+    "start": 223.92,
+    "end": 227.759,
+    "text": "That's the lyrics or the words to the song as soon as possible.",
+    "speaker": null
+  },
+  {
+    "start": 227.759,
+    "end": 233.519,
+    "text": "So the theory or idea is to present listeners with vocals and a chorus more quickly,",
+    "speaker": null
+  },
+  {
+    "start": 233.519,
+    "end": 235.679,
+    "text": "as it will make them want to continue listening.",
+    "speaker": null
+  },
+  {
+    "start": 235.679,
+    "end": 239.199,
+    "text": "That's because if a song isn't streamed for more than 30 seconds,",
+    "speaker": null
+  },
+  {
+    "start": 239.199,
+    "end": 241.199,
+    "text": "it doesn't register a play.",
+    "speaker": null
+  },
+  {
+    "start": 241.199,
+    "end": 243.919,
+    "text": "It doesn't get measured or recorded as a play,",
+    "speaker": null
+  },
+  {
+    "start": 243.919,
+    "end": 245.12,
+    "text": "so it doesn't make money.",
+    "speaker": null
+  },
+  {
+    "start": 245.919,
+    "end": 249.039,
+    "text": "So a song needs to hook the listener in quickly.",
+    "speaker": null
+  },
+  {
+    "start": 249.039,
+    "end": 253.12,
+    "text": "In other words, it needs to attract their attention and be easy to remember.",
+    "speaker": null
+  },
+  {
+    "start": 253.12,
+    "end": 255.12,
+    "text": "Another word for this is catchy.",
+    "speaker": null
+  },
+  {
+    "start": 255.12,
+    "end": 257.039,
+    "text": "Do you have any favourite catchy songs, Rob?",
+    "speaker": null
+  },
+  {
+    "start": 257.12,
+    "end": 261.439,
+    "text": "Oh, I do, I do. It's got to be happy by For Elle Williams, very catchy song.",
+    "speaker": null
+  },
+  {
+    "start": 261.439,
+    "end": 265.92,
+    "text": "Well, something that is always catchy in this programme is our quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 265.92,
+    "end": 270.08,
+    "text": "Earlier I mentioned that in 2017, Luis Fonzzi's summer hit,",
+    "speaker": null
+  },
+  {
+    "start": 270.08,
+    "end": 274,
+    "text": "Despacito, officially became the most streamed song of all time.",
+    "speaker": null
+  },
+  {
+    "start": 274.72,
+    "end": 277.759,
+    "text": "Did you know approximately how many times it was streamed?",
+    "speaker": null
+  },
+  {
+    "start": 277.759,
+    "end": 286.08,
+    "text": "Was it A1.6 billion times, B3.6 billion times, or C4.6 billion times?",
+    "speaker": null
+  },
+  {
+    "start": 286.079,
+    "end": 289.439,
+    "text": "And I went for a staggering 1.6 billion times.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 289.439,
+    "end": 291.12,
+    "text": "Well, it's not staggering enough, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 291.12,
+    "end": 295.279,
+    "text": "Well, it's not staggering enough, Rob. It was actually streamed 4.6 billion times.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 295.279,
+    "end": 296.24,
+    "text": "Amazing.",
+    "speaker": null
+  },
+  {
+    "start": 296.24,
+    "end": 299.519,
+    "text": "That's a number that we can only dream of for this programme.",
+    "speaker": null
+  },
+  {
+    "start": 299.519,
+    "end": 300.079,
+    "text": "Or is it?",
+    "speaker": null
+  },
+  {
+    "start": 300.879,
+    "end": 305.919,
+    "text": "Amazing. That's a number that we can only dream of for this programme – or is it?! Well Neil, shall we download to our memory, some of the vocabulary we've learnt today?",
+    "speaker": "Rob"
+  },
+  {
+    "start": 305.919,
+    "end": 309.68,
+    "text": "Streaming describes the activity of listening to or watching music,",
+    "speaker": null
+  },
+  {
+    "start": 309.68,
+    "end": 313.759,
+    "text": "Streaming describes the activity of listening or watching music, radio or videos directly from the internet as a continuous stream.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 313.839,
+    "end": 317.92,
+    "text": "Something that is a commercial success is popular and makes lots of money – like a new computer game or pop song.",
+    "speaker": "commercial success"
+  },
+  {
+    "start": 317.92,
+    "end": 319.92,
+    "text": "like a new computer game or pop song.",
+    "speaker": null
+  },
+  {
+    "start": 319.92,
+    "end": 321.36,
+    "text": "A good pop song, Rob.",
+    "speaker": null
+  },
+  {
+    "start": 321.36,
+    "end": 323.92,
+    "text": "A good pop song, Rob – not something annoying like Gangnam Style.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 323.92,
+    "end": 327.839,
+    "text": "Oh, well, that was a huge commercial success because it was catchy.",
+    "speaker": null
+  },
+  {
+    "start": 327.839,
+    "end": 331.839,
+    "text": "Well, that was a huge commercial success because it was catchy – a word that describes something that attracts attention and is easy to remember.",
+    "speaker": "catchy"
+  },
+  {
+    "start": 331.839,
+    "end": 333.36,
+    "text": "We also mentioned a playlist.",
+    "speaker": null
+  },
+  {
+    "start": 333.36,
+    "end": 336.319,
+    "text": "That's a list of songs that are radio station plans to play.",
+    "speaker": null
+  },
+  {
+    "start": 336.319,
+    "end": 342.159,
+    "text": "And we also use the same word, playlist, to describe a list of songs you compile yourself",
+    "speaker": null
+  },
+  {
+    "start": 342.159,
+    "end": 343.439,
+    "text": "on a streaming service.",
+    "speaker": null
+  },
+  {
+    "start": 343.839,
+    "end": 347.92,
+    "text": "We also heard the adjective driving, which in the context of our discussion means having a strong influence.",
+    "speaker": "driving"
+  },
+  {
+    "start": 347.92,
+    "end": 349.92,
+    "text": "means having a strong influence.",
+    "speaker": null
+  },
+  {
+    "start": 350.48,
+    "end": 352.56,
+    "text": "And we mentioned the verb to register.",
+    "speaker": null
+  },
+  {
+    "start": 352.56,
+    "end": 356.079,
+    "text": "If you register something, you record, count or measure it.",
+    "speaker": null
+  },
+  {
+    "start": 356.079,
+    "end": 359.039,
+    "text": "Like every download of this programme is registered.",
+    "speaker": null
+  },
+  {
+    "start": 359.039,
+    "end": 361.12,
+    "text": "But how do we download this programme, Rob?",
+    "speaker": null
+  },
+  {
+    "start": 361.12,
+    "end": 364.56,
+    "text": "By going to our website at bbclearningenglish.com.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 364.56,
+    "end": 368.959,
+    "text": "And we have an app too, download it from free and stream all of our content.",
+    "speaker": null
+  },
+  {
+    "start": 368.959,
+    "end": 369.839,
+    "text": "Bye for now.",
+    "speaker": "Rob"
+  },
+  {
+    "start": 369.839,
+    "end": 370.319,
+    "text": "Bye.",
+    "speaker": "Neil"
+  }
+]

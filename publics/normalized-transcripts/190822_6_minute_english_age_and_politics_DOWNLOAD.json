@@ -1,0 +1,602 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.24,
+    "text": "6 Minute English",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 10.56,
+    "text": "From BBC Learning English",
+    "speaker": null
+  },
+  {
+    "start": 13.439,
+    "end": 15.919,
+    "text": "Hello. This is 6 Minute English, I'm Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 15.919,
+    "end": 17.12,
+    "text": "And I'm Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 17.12,
+    "end": 19.679,
+    "text": "Sam, do you remember the first time you voted?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 19.679,
+    "end": 24.4,
+    "text": "No, I don't, but I remember being very keen to do it.",
+    "speaker": null
+  },
+  {
+    "start": 24.4,
+    "end": 28.08,
+    "text": "No I don’t, but I remember being very keen to do it. It would have been the first election after my 18th birthday.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 28.079,
+    "end": 32,
+    "text": "So, over the many, many, many years since then …",
+    "speaker": "Neil"
+  },
+  {
+    "start": 32,
+    "end": 35.119,
+    "text": "Not so much with the many, if you don't mind, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 35.119,
+    "end": 38.96,
+    "text": "In the very, very few years since then …",
+    "speaker": "Neil"
+  },
+  {
+    "start": 38.96,
+    "end": 40.32,
+    "text": "That’s more like it!",
+    "speaker": "Sam"
+  },
+  {
+    "start": 40.32,
+    "end": 44.479,
+    "text": "In the years since then, have your political views changed very much?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 44.479,
+    "end": 48.719,
+    "text": "I think my political views are a lot better in forms now.",
+    "speaker": null
+  },
+  {
+    "start": 48.719,
+    "end": 52.64,
+    "text": "I think the decisions I make are based on a better understanding",
+    "speaker": null
+  },
+  {
+    "start": 52.64,
+    "end": 54.159,
+    "text": "of the political situation,",
+    "speaker": null
+  },
+  {
+    "start": 54.239,
+    "end": 59.039,
+    "text": "but I still generally agree with the same things I did when I was younger, I think.",
+    "speaker": null
+  },
+  {
+    "start": 59.039,
+    "end": 60.959,
+    "text": "There is a belief that as we get older,",
+    "speaker": null
+  },
+  {
+    "start": 60.959,
+    "end": 64.64,
+    "text": "we become more right-wing in our political views and opinions.",
+    "speaker": null
+  },
+  {
+    "start": 64.64,
+    "end": 67.039,
+    "text": "Is this true? And if so, why?",
+    "speaker": null
+  },
+  {
+    "start": 67.039,
+    "end": 70.479,
+    "text": "We'll be finding out a little bit more about this, but first a question.",
+    "speaker": null
+  },
+  {
+    "start": 71.039,
+    "end": 75.92,
+    "text": "Right, let’s get the answer to our question. What was the first UK general election in which 18-year-olds could vote?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 75.92,
+    "end": 81.12,
+    "text": "Was it A, 1929, B, 1950, or C, 1970?",
+    "speaker": null
+  },
+  {
+    "start": 81.12,
+    "end": 83.12,
+    "text": "So when you reckon then, Sam?",
+    "speaker": null
+  },
+  {
+    "start": 83.439,
+    "end": 85.439,
+    "text": "Well, they were all before my time.",
+    "speaker": null
+  },
+  {
+    "start": 85.439,
+    "end": 88.96,
+    "text": "I'm going to say 1950, that sounds about right.",
+    "speaker": null
+  },
+  {
+    "start": 88.96,
+    "end": 92.24,
+    "text": "It was the decade in which teenagers were invented after all.",
+    "speaker": null
+  },
+  {
+    "start": 92.24,
+    "end": 95.359,
+    "text": "OK, well, I will reveal the answer later in the programme.",
+    "speaker": null
+  },
+  {
+    "start": 96.16,
+    "end": 100.32,
+    "text": "James Tilley is a professor of politics at the University of Oxford.",
+    "speaker": null
+  },
+  {
+    "start": 100.32,
+    "end": 104.719,
+    "text": "He appeared recently on BBC Radio 4's programme Analysis,",
+    "speaker": null
+  },
+  {
+    "start": 104.719,
+    "end": 107.36,
+    "text": "and was asked why, if it is true,",
+    "speaker": null
+  },
+  {
+    "start": 107.36,
+    "end": 110.32,
+    "text": "do we become more right-wing as we get older?",
+    "speaker": null
+  },
+  {
+    "start": 110.32,
+    "end": 111.76,
+    "text": "What does he think?",
+    "speaker": null
+  },
+  {
+    "start": 111.84,
+    "end": 116.4,
+    "text": "The question where the age effects are political views is a tricky one.",
+    "speaker": null
+  },
+  {
+    "start": 116.4,
+    "end": 118.64,
+    "text": "I think probably the most plausible explanation",
+    "speaker": null
+  },
+  {
+    "start": 118.64,
+    "end": 122.32,
+    "text": "is that people just generally become a bit more resistant to changes to get older,",
+    "speaker": null
+  },
+  {
+    "start": 122.32,
+    "end": 125.6,
+    "text": "and I think also that it tends to perhaps become less idealistic.",
+    "speaker": null
+  },
+  {
+    "start": 125.6,
+    "end": 127.76,
+    "text": "So, what reasons does he give?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 127.76,
+    "end": 132.159,
+    "text": "Well, he talks about what he thinks are the most plausible explanations.",
+    "speaker": null
+  },
+  {
+    "start": 132.8,
+    "end": 137.12,
+    "text": "Plausable is an adjective, which means something is believable.",
+    "speaker": null
+  },
+  {
+    "start": 137.12,
+    "end": 139.759,
+    "text": "It's reasonable, and it makes sense.",
+    "speaker": null
+  },
+  {
+    "start": 139.84,
+    "end": 142.799,
+    "text": "And what are the plausible explanations?",
+    "speaker": "plausible"
+  },
+  {
+    "start": 142.799,
+    "end": 145.759,
+    "text": "Well, he says that generally, as we get older,",
+    "speaker": null
+  },
+  {
+    "start": 145.759,
+    "end": 148.319,
+    "text": "we like to have more stability in our lives.",
+    "speaker": null
+  },
+  {
+    "start": 148.319,
+    "end": 149.679,
+    "text": "We don't like change.",
+    "speaker": null
+  },
+  {
+    "start": 149.679,
+    "end": 151.84,
+    "text": "In fact, we're resistant to change.",
+    "speaker": null
+  },
+  {
+    "start": 152.56,
+    "end": 154.639,
+    "text": "That means we're against change.",
+    "speaker": null
+  },
+  {
+    "start": 155.439,
+    "end": 158.799,
+    "text": "When we are younger, we might like the idea of revolution.",
+    "speaker": null
+  },
+  {
+    "start": 158.799,
+    "end": 160.479,
+    "text": "We might be very idealistic.",
+    "speaker": null
+  },
+  {
+    "start": 161.359,
+    "end": 167.359,
+    "text": "This means, for example, we might think that we can and should change the world to make things better.",
+    "speaker": null
+  },
+  {
+    "start": 167.92,
+    "end": 173.2,
+    "text": "This would cause big changes in the world, which when we are older and more settled in our lives,",
+    "speaker": null
+  },
+  {
+    "start": 173.2,
+    "end": 175.52,
+    "text": "do not seem like such a good idea.",
+    "speaker": null
+  },
+  {
+    "start": 175.52,
+    "end": 177.04,
+    "text": "Let’s listen again.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 177.04,
+    "end": 181.52,
+    "text": "The question where the age effects are political views is a tricky one.",
+    "speaker": null
+  },
+  {
+    "start": 181.52,
+    "end": 183.84,
+    "text": "I think probably the most plausible explanation",
+    "speaker": null
+  },
+  {
+    "start": 183.84,
+    "end": 187.44,
+    "text": "is that people just generally become a bit more resistant to changes to get older,",
+    "speaker": null
+  },
+  {
+    "start": 187.44,
+    "end": 190.32,
+    "text": "and I think also that it tends perhaps become less idealistic.",
+    "speaker": null
+  },
+  {
+    "start": 190.96,
+    "end": 196.56,
+    "text": "Professor Tilly goes on to explain more about why being resistant to change might lead people",
+    "speaker": null
+  },
+  {
+    "start": 196.64,
+    "end": 199.199,
+    "text": "to support more right-wing policies.",
+    "speaker": null
+  },
+  {
+    "start": 199.199,
+    "end": 204.879,
+    "text": "So if parties on the right represent a platform which is perhaps more favorable to the status quo,",
+    "speaker": null
+  },
+  {
+    "start": 204.879,
+    "end": 208.96,
+    "text": "it's perhaps more about pragmatism than it is about idealism,",
+    "speaker": null
+  },
+  {
+    "start": 208.96,
+    "end": 212.159,
+    "text": "then that might be more attractive to older people than younger people.",
+    "speaker": null
+  },
+  {
+    "start": 213.199,
+    "end": 216.159,
+    "text": "So, what is seen as the appeal of moving to the right?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 216.96,
+    "end": 221.439,
+    "text": "Political parties have a particular set of policies.",
+    "speaker": null
+  },
+  {
+    "start": 221.439,
+    "end": 223.92,
+    "text": "This is sometimes known as their platform.",
+    "speaker": null
+  },
+  {
+    "start": 224.559,
+    "end": 228.959,
+    "text": "Professor Tilly says that if their platforms support the status quo,",
+    "speaker": null
+  },
+  {
+    "start": 228.959,
+    "end": 231.679,
+    "text": "they might be more attractive to older people.",
+    "speaker": null
+  },
+  {
+    "start": 232.319,
+    "end": 238.719,
+    "text": "The status quo is a Latin phrase we use in English to refer to the situation as it is now,",
+    "speaker": null
+  },
+  {
+    "start": 238.719,
+    "end": 241.119,
+    "text": "that is one that is not going to change.",
+    "speaker": null
+  },
+  {
+    "start": 241.839,
+    "end": 248,
+    "text": "Traditionally, it's parties of the centre right that seem to be more supportive of the status quo.",
+    "speaker": null
+  },
+  {
+    "start": 248,
+    "end": 253.119,
+    "text": "So as we get older, he says our political views are less about idealism",
+    "speaker": null
+  },
+  {
+    "start": 253.12,
+    "end": 258.16,
+    "text": "and more about pragmatism. Pragmatism is being practical and realistic",
+    "speaker": null
+  },
+  {
+    "start": 258.16,
+    "end": 261.36,
+    "text": "about what can be achieved and how it can be achieved.",
+    "speaker": null
+  },
+  {
+    "start": 261.36,
+    "end": 266.72,
+    "text": "But of course this doesn’t apply to everyone and just because people seem to move more to the right as they get older doesn’t mean that they completely change their politics.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 266.72,
+    "end": 271.199,
+    "text": "as they get older doesn't mean that they completely change their politics.",
+    "speaker": null
+  },
+  {
+    "start": 271.199,
+    "end": 273.36,
+    "text": "Let's hear Professor Tilly again.",
+    "speaker": null
+  },
+  {
+    "start": 273.36,
+    "end": 279.04,
+    "text": "So if parties on the right represent a platform which is perhaps more favorable to the status quo,",
+    "speaker": null
+  },
+  {
+    "start": 279.04,
+    "end": 283.12,
+    "text": "it's perhaps more about pragmatism than it is about idealism,",
+    "speaker": null
+  },
+  {
+    "start": 283.12,
+    "end": 286.4,
+    "text": "then that might be more attractive to older people than younger people.",
+    "speaker": null
+  },
+  {
+    "start": 287.36,
+    "end": 290.24,
+    "text": "Right, let's get the answer to our question.",
+    "speaker": null
+  },
+  {
+    "start": 290.24,
+    "end": 294.56,
+    "text": "What was the first UK general election in which 18-year-olds could vote?",
+    "speaker": null
+  },
+  {
+    "start": 294.56,
+    "end": 301.68,
+    "text": "Was it A1929, B1950 or C1970? Sam, what did you say?",
+    "speaker": null
+  },
+  {
+    "start": 301.68,
+    "end": 303.759,
+    "text": "I thought it was 1950.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 303.759,
+    "end": 306,
+    "text": "Well, you're wrong, I'm afraid.",
+    "speaker": null
+  },
+  {
+    "start": 306,
+    "end": 308.8,
+    "text": "The correct answer is 1970.",
+    "speaker": null
+  },
+  {
+    "start": 308.879,
+    "end": 314.8,
+    "text": "18-year-olds have been allowed to vote in the UK since 1969 and the first general election after",
+    "speaker": null
+  },
+  {
+    "start": 314.8,
+    "end": 318.72,
+    "text": "that was in 1970. So a bit later than you thought, Sam.",
+    "speaker": null
+  },
+  {
+    "start": 318.72,
+    "end": 321.68,
+    "text": "But congratulations to anyone who did get that right.",
+    "speaker": null
+  },
+  {
+    "start": 322.24,
+    "end": 325.199,
+    "text": "Okay, let's remind ourselves of our vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 325.68,
+    "end": 330.4,
+    "text": "Yes, first we had plausible an adjective that means believable or possible.",
+    "speaker": null
+  },
+  {
+    "start": 330.96,
+    "end": 336.16,
+    "text": "Being resistant to something means you are against it and don’t want it to happen.",
+    "speaker": "resistant to"
+  },
+  {
+    "start": 336.24,
+    "end": 341.52,
+    "text": "If you're idealistic, you have a clear and simple moral view of how things should be.",
+    "speaker": null
+  },
+  {
+    "start": 341.52,
+    "end": 344.96,
+    "text": "This contrasts with one of our other words, pragmatism.",
+    "speaker": null
+  },
+  {
+    "start": 344.96,
+    "end": 350.24,
+    "text": "This contrasts with one of our other words, pragmatism, this noun is the idea of being realistic and practical about what can be achieved.",
+    "speaker": "pragmatism"
+  },
+  {
+    "start": 350.24,
+    "end": 355.12,
+    "text": "A platform can describe the policies and ideas of a political party or politician. And the status quo is the unchanging situation as it is now.",
+    "speaker": "platformthestatus quo"
+  },
+  {
+    "start": 355.76,
+    "end": 360.4,
+    "text": "and the status quo is the unchanging situation as it is now.",
+    "speaker": null
+  },
+  {
+    "start": 360.4,
+    "end": 364.08,
+    "text": "Okay, thank you, Sam. That's all from us in this program. Do join us again.",
+    "speaker": null
+  },
+  {
+    "start": 364.079,
+    "end": 369.519,
+    "text": "And if you can't wait, you can find lots more BBC Learning English online on social media and on our app.",
+    "speaker": null
+  },
+  {
+    "start": 369.519,
+    "end": 370.879,
+    "text": "Goodbye. Bye.",
+    "speaker": null
+  }
+]

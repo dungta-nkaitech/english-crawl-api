@@ -1,0 +1,764 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.24,
+    "text": "6-Mute English",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 10.56,
+    "text": "From BBC Learning English",
+    "speaker": null
+  },
+  {
+    "start": 13.2,
+    "end": 14.72,
+    "text": "Hello. I'm Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 14.72,
+    "end": 15.919,
+    "text": "Hello, I'm Dan.",
+    "speaker": null
+  },
+  {
+    "start": 17.359,
+    "end": 20.24,
+    "text": "Neil, aren't you going to say the welcome to 6-Mute English bit?",
+    "speaker": null
+  },
+  {
+    "start": 20.24,
+    "end": 21.839,
+    "text": "Hmm, maybe.",
+    "speaker": null
+  },
+  {
+    "start": 22.559,
+    "end": 24.24,
+    "text": "How's your mood today, Dan?",
+    "speaker": null
+  },
+  {
+    "start": 24.24,
+    "end": 25.12,
+    "text": "Feeling happy?",
+    "speaker": null
+  },
+  {
+    "start": 25.12,
+    "end": 26.48,
+    "text": "Oh, yes, very happy.",
+    "speaker": null
+  },
+  {
+    "start": 26.48,
+    "end": 27.679,
+    "text": "I've just had lunch.",
+    "speaker": null
+  },
+  {
+    "start": 27.679,
+    "end": 28.719,
+    "text": "What about you?",
+    "speaker": null
+  },
+  {
+    "start": 28.799,
+    "end": 32.479,
+    "text": "Well to be honest, I haven’t had the chance to eat yet and it’s making me a bit grumpy.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 32.479,
+    "end": 34.64,
+    "text": "and it's making me a bit grumpy.",
+    "speaker": null
+  },
+  {
+    "start": 34.64,
+    "end": 36.079,
+    "text": "Why haven’t you eaten?",
+    "speaker": "Dan"
+  },
+  {
+    "start": 36.079,
+    "end": 39.359,
+    "text": "Well, I was doing some research for today's topic,",
+    "speaker": null
+  },
+  {
+    "start": 39.359,
+    "end": 42.879,
+    "text": "which is all about feeling angry when you're hungry.",
+    "speaker": null
+  },
+  {
+    "start": 42.879,
+    "end": 44.239,
+    "text": "You know what I'm talking about?",
+    "speaker": null
+  },
+  {
+    "start": 44.239,
+    "end": 45.119,
+    "text": "Oh, yes.",
+    "speaker": null
+  },
+  {
+    "start": 45.119,
+    "end": 47.759,
+    "text": "We're talking about being hungry.",
+    "speaker": null
+  },
+  {
+    "start": 47.759,
+    "end": 49.519,
+    "text": "It's quite a new word, isn't it?",
+    "speaker": null
+  },
+  {
+    "start": 49.519,
+    "end": 52.159,
+    "text": "A combination of hungry and angry.",
+    "speaker": null
+  },
+  {
+    "start": 52.159,
+    "end": 54.48,
+    "text": "Yes, and angry is our topic.",
+    "speaker": null
+  },
+  {
+    "start": 54.48,
+    "end": 57.92,
+    "text": "But before we learn more about it, here's today's quiz.",
+    "speaker": null
+  },
+  {
+    "start": 58,
+    "end": 62.48,
+    "text": "English has quite a few words which are made by joining two different words together,",
+    "speaker": null
+  },
+  {
+    "start": 62.48,
+    "end": 67.84,
+    "text": "like, hungry, for example, brunch, motel, brexit.",
+    "speaker": null
+  },
+  {
+    "start": 67.84,
+    "end": 70.159,
+    "text": "What do we call these words?",
+    "speaker": null
+  },
+  {
+    "start": 70.159,
+    "end": 73.12,
+    "text": "a) Suitcase words",
+    "speaker": "Neil"
+  },
+  {
+    "start": 73.12,
+    "end": 75.359,
+    "text": "B, portmanteaux words?",
+    "speaker": null
+  },
+  {
+    "start": 75.359,
+    "end": 77.92,
+    "text": "c) Backpack words",
+    "speaker": "Neil"
+  },
+  {
+    "start": 78.64,
+    "end": 82.64,
+    "text": "Well, I think I know this one, so I'll keep the answer to myself.",
+    "speaker": null
+  },
+  {
+    "start": 82.64,
+    "end": 85.28,
+    "text": "I don't want to give away any spoilers.",
+    "speaker": null
+  },
+  {
+    "start": 85.28,
+    "end": 88.64,
+    "text": "What I do want to know is if hangar is a real thing",
+    "speaker": null
+  },
+  {
+    "start": 88.64,
+    "end": 94,
+    "text": "or is it just something that's been made up by grumpy people, like you?",
+    "speaker": null
+  },
+  {
+    "start": 94.96,
+    "end": 96.799,
+    "text": "Let's hear from Sophie Medlin,",
+    "speaker": null
+  },
+  {
+    "start": 96.799,
+    "end": 101.12,
+    "text": "who is a lecturer in nutrition and diatetics at King's College London.",
+    "speaker": null
+  },
+  {
+    "start": 101.12,
+    "end": 104.48,
+    "text": "Is hangar a real thing and where does the word come from?",
+    "speaker": null
+  },
+  {
+    "start": 105.12,
+    "end": 107.84,
+    "text": "We've long recognised that hunger",
+    "speaker": null
+  },
+  {
+    "start": 107.84,
+    "end": 110.319,
+    "text": "leads to irritability in science,",
+    "speaker": null
+  },
+  {
+    "start": 110.319,
+    "end": 113.599,
+    "text": "but the wonderful world of social media has merged the two words for us",
+    "speaker": null
+  },
+  {
+    "start": 113.839,
+    "end": 115.28,
+    "text": "and now we know it as hangar.",
+    "speaker": null
+  },
+  {
+    "start": 115.839,
+    "end": 120.159,
+    "text": "So is hangar a real thing and where does she say the word comes from?",
+    "speaker": null
+  },
+  {
+    "start": 120.159,
+    "end": 122.719,
+    "text": "According to Medlin, it is a real thing.",
+    "speaker": null
+  },
+  {
+    "start": 122.719,
+    "end": 128,
+    "text": "She says that science has recognised that hunger leads to irritability.",
+    "speaker": null
+  },
+  {
+    "start": 128,
+    "end": 132.159,
+    "text": "Irritability is a noun which means being easily annoyed,",
+    "speaker": null
+  },
+  {
+    "start": 132.159,
+    "end": 133.68,
+    "text": "not in a good mood.",
+    "speaker": null
+  },
+  {
+    "start": 133.68,
+    "end": 138.879,
+    "text": "And she says that it was the wonderful world of social media that joined the two words together. She used the verb merge. Merge, meaning join together.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 138.879,
+    "end": 142.959,
+    "text": "She used the verb merge, merge meaning join together.",
+    "speaker": null
+  },
+  {
+    "start": 143.759,
+    "end": 146.719,
+    "text": "I know social media is responsible for many things,",
+    "speaker": null
+  },
+  {
+    "start": 146.719,
+    "end": 151.039,
+    "text": "but the word hangry actually appeared in the 1990s.",
+    "speaker": null
+  },
+  {
+    "start": 151.039,
+    "end": 154.479,
+    "text": "So a little before the arrival of social media.",
+    "speaker": null
+  },
+  {
+    "start": 154.479,
+    "end": 158.319,
+    "text": "But it's certainly true that social media has made it more prominent.",
+    "speaker": null
+  },
+  {
+    "start": 158.319,
+    "end": 161.039,
+    "text": "Me right now, hashtag hangry.",
+    "speaker": null
+  },
+  {
+    "start": 161.68,
+    "end": 163.039,
+    "text": "Me, right now, hashtag hangry! Let’s listen to that clip again.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 163.759,
+    "end": 168.959,
+    "text": "We've long recognised that hunger leads to irritability in science,",
+    "speaker": null
+  },
+  {
+    "start": 168.959,
+    "end": 172.319,
+    "text": "but the wonderful world of social media has merged the two words for us",
+    "speaker": null
+  },
+  {
+    "start": 172.4,
+    "end": 173.919,
+    "text": "and now we know it as hangar.",
+    "speaker": null
+  },
+  {
+    "start": 174.719,
+    "end": 177.439,
+    "text": "So now we know that hangar is a real thing.",
+    "speaker": null
+  },
+  {
+    "start": 177.439,
+    "end": 179.599,
+    "text": "Let's learn a bit more about it.",
+    "speaker": null
+  },
+  {
+    "start": 179.599,
+    "end": 180.639,
+    "text": "Why does it happen?",
+    "speaker": null
+  },
+  {
+    "start": 180.639,
+    "end": 183.199,
+    "text": "Why do we get angry when we're hungry?",
+    "speaker": null
+  },
+  {
+    "start": 183.199,
+    "end": 185.039,
+    "text": "Here's Sophie Medlin again.",
+    "speaker": null
+  },
+  {
+    "start": 185.039,
+    "end": 188.319,
+    "text": "As the blood sugar stroke we increase our cortisol in adrenaline,",
+    "speaker": null
+  },
+  {
+    "start": 188.319,
+    "end": 190.56,
+    "text": "so I fight or flight hormones.",
+    "speaker": null
+  },
+  {
+    "start": 190.56,
+    "end": 192.639,
+    "text": "And those have an impact on our brain.",
+    "speaker": null
+  },
+  {
+    "start": 192.639,
+    "end": 197.199,
+    "text": "And the neuropeptide, the things that control our brain, the chemicals in our brain,",
+    "speaker": null
+  },
+  {
+    "start": 198.079,
+    "end": 199.84,
+    "text": "the ones that trigger for hunger,",
+    "speaker": null
+  },
+  {
+    "start": 199.84,
+    "end": 205.92,
+    "text": "the same ones that trigger for anger and also for rage and impulsive type behaviour.",
+    "speaker": null
+  },
+  {
+    "start": 205.92,
+    "end": 208.159,
+    "text": "So that's why you get that sort of same response.",
+    "speaker": null
+  },
+  {
+    "start": 209.039,
+    "end": 211.439,
+    "text": "So it’s all to do with blood sugar, isn’t it?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 211.439,
+    "end": 213.199,
+    "text": "Yep, it seems so.",
+    "speaker": null
+  },
+  {
+    "start": 213.199,
+    "end": 216.879,
+    "text": "When we're hungry, the level of sugar in our blood is lower,",
+    "speaker": null
+  },
+  {
+    "start": 216.879,
+    "end": 220.24,
+    "text": "and this causes an increase in particular hormones.",
+    "speaker": null
+  },
+  {
+    "start": 220.8,
+    "end": 226,
+    "text": "Hormones are the chemicals we make in our bodies that control certain biological",
+    "speaker": null
+  },
+  {
+    "start": 226,
+    "end": 227.599,
+    "text": "and psychological functions.",
+    "speaker": null
+  },
+  {
+    "start": 228.239,
+    "end": 232.96,
+    "text": "The hormones released when we are hungry are the same as our fight or flight hormones.",
+    "speaker": null
+  },
+  {
+    "start": 233.519,
+    "end": 238.959,
+    "text": "They are the hormones the body uses to prepare us to either fight or run away from a dangerous",
+    "speaker": null
+  },
+  {
+    "start": 238.959,
+    "end": 239.919,
+    "text": "situation.",
+    "speaker": null
+  },
+  {
+    "start": 239.919,
+    "end": 244.319,
+    "text": "When these hormones are increased, it can cause anger and rage. Rage is another word for being very angry.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 244.959,
+    "end": 249.039,
+    "text": "Rage is another word for being very angry.",
+    "speaker": null
+  },
+  {
+    "start": 249.039,
+    "end": 252.159,
+    "text": "And when we're angry we can behave impulsively.",
+    "speaker": null
+  },
+  {
+    "start": 252.159,
+    "end": 257.199,
+    "text": "And when we are angry we can behave impulsively. Impulsive behaviour is when we do things without thinking, without considering the consequences.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 257.279,
+    "end": 261.279,
+    "text": "So when we're hungry, this same emotions can run through us.",
+    "speaker": null
+  },
+  {
+    "start": 261.279,
+    "end": 267.12,
+    "text": "We can be angry and make poor decisions, and that is hangar.",
+    "speaker": null
+  },
+  {
+    "start": 267.12,
+    "end": 269.759,
+    "text": "Which brings us nicely to our quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 269.759,
+    "end": 275.12,
+    "text": "What do we call words like hangar that are made by joining two different words together?",
+    "speaker": null
+  },
+  {
+    "start": 275.12,
+    "end": 277.199,
+    "text": "Now you said you knew the answer, Dan.",
+    "speaker": null
+  },
+  {
+    "start": 277.199,
+    "end": 277.759,
+    "text": "I did!",
+    "speaker": "Dan"
+  },
+  {
+    "start": 278.399,
+    "end": 279.439,
+    "text": "What was it?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 279.439,
+    "end": 280.879,
+    "text": "Portmanto words.",
+    "speaker": null
+  },
+  {
+    "start": 280.879,
+    "end": 282.399,
+    "text": "And you are absolutely correct.",
+    "speaker": null
+  },
+  {
+    "start": 282.399,
+    "end": 284.56,
+    "text": "The answer is Portmanto words.",
+    "speaker": null
+  },
+  {
+    "start": 284.56,
+    "end": 286.159,
+    "text": "Congratulations if you knew that.",
+    "speaker": null
+  },
+  {
+    "start": 286.16,
+    "end": 287.04,
+    "text": "I did.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 287.04,
+    "end": 289.52,
+    "text": "All right then, smarty pants, no need to boast.",
+    "speaker": null
+  },
+  {
+    "start": 289.52,
+    "end": 292.4,
+    "text": "I can see that you're still a little bit hangry, Neil.",
+    "speaker": null
+  },
+  {
+    "start": 292.4,
+    "end": 295.84,
+    "text": "Yes, I'm hungry, and that's making me angry.",
+    "speaker": null
+  },
+  {
+    "start": 295.84,
+    "end": 300.56,
+    "text": "Yes, I’m hungry and that is making me angry! But I think I can hold on to get through a review of the rest of today’s vocabulary.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 300.56,
+    "end": 305.2,
+    "text": "Well, we also had the noun irritability, meaning getting annoyed very easily, just like…",
+    "speaker": "Dan"
+  },
+  {
+    "start": 305.92,
+    "end": 307.2,
+    "text": "Just like...",
+    "speaker": null
+  },
+  {
+    "start": 307.2,
+    "end": 308,
+    "text": "Don't!",
+    "speaker": null
+  },
+  {
+    "start": 308,
+    "end": 309.28,
+    "text": "Just don't.",
+    "speaker": null
+  },
+  {
+    "start": 309.28,
+    "end": 312.72,
+    "text": "Don’t, just don’t. Or I might just merge my fist with your face.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 312.72,
+    "end": 313.12,
+    "text": "Ouch!",
+    "speaker": null
+  },
+  {
+    "start": 313.84,
+    "end": 314.56,
+    "text": "Yes.",
+    "speaker": null
+  },
+  {
+    "start": 314.56,
+    "end": 315.12,
+    "text": "Merge.",
+    "speaker": null
+  },
+  {
+    "start": 315.199,
+    "end": 317.68,
+    "text": "Meaning, join different things together.",
+    "speaker": null
+  },
+  {
+    "start": 317.68,
+    "end": 320.72,
+    "text": "I can see your fight or flight hormones are kicking in.",
+    "speaker": null
+  },
+  {
+    "start": 320.72,
+    "end": 324.24,
+    "text": "Those chemicals in the body that prepare us for aggression or escape.",
+    "speaker": null
+  },
+  {
+    "start": 324.24,
+    "end": 326.8,
+    "text": "I haven't quite reached rage yet.",
+    "speaker": null
+  },
+  {
+    "start": 326.8,
+    "end": 330.879,
+    "text": "I haven’t quite reached rage yet. This was another of our words, rage, and it means a state of being very, very angry.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 331.6,
+    "end": 332.399,
+    "text": "Very...",
+    "speaker": null
+  },
+  {
+    "start": 332.399,
+    "end": 333.519,
+    "text": "Angry.",
+    "speaker": null
+  },
+  {
+    "start": 333.519,
+    "end": 335.759,
+    "text": "Our last word was impulsive.",
+    "speaker": null
+  },
+  {
+    "start": 335.759,
+    "end": 340.959,
+    "text": "This is an adjective to describe when we do things without really thinking about them.",
+    "speaker": null
+  },
+  {
+    "start": 340.959,
+    "end": 344.72,
+    "text": "We just do them without any control and without thinking about the consequences.",
+    "speaker": null
+  },
+  {
+    "start": 345.28,
+    "end": 346.24,
+    "text": "Now, I'm off.",
+    "speaker": null
+  },
+  {
+    "start": 346.24,
+    "end": 347.12,
+    "text": "I'm starving.",
+    "speaker": null
+  },
+  {
+    "start": 347.12,
+    "end": 349.759,
+    "text": "I've got to eat before I do something impulsive.",
+    "speaker": null
+  },
+  {
+    "start": 349.759,
+    "end": 351.12,
+    "text": "That's it for this programme.",
+    "speaker": null
+  },
+  {
+    "start": 351.12,
+    "end": 355.12,
+    "text": "For more, find us on Facebook, Twitter, Instagram, and our YouTube pages.",
+    "speaker": null
+  },
+  {
+    "start": 355.12,
+    "end": 358.72,
+    "text": "And of course, our website, BBCLearningEnglish.com,",
+    "speaker": null
+  },
+  {
+    "start": 358.72,
+    "end": 363.04,
+    "text": "where you can find all kinds of other programmes and videos and activities",
+    "speaker": null
+  },
+  {
+    "start": 363.04,
+    "end": 364.879,
+    "text": "to help you improve your English.",
+    "speaker": null
+  },
+  {
+    "start": 364.879,
+    "end": 366.72,
+    "text": "Thank you for joining us, and goodbye.",
+    "speaker": null
+  },
+  {
+    "start": 366.72,
+    "end": 367.519,
+    "text": "Bye!",
+    "speaker": "Dan"
+  }
+]

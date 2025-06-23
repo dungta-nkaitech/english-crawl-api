@@ -1,0 +1,404 @@
+[
+  {
+    "start": 0,
+    "end": 5.52,
+    "text": "This is a download from BBC Learning English. To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 13.359,
+    "end": 17.12,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 17.92,
+    "end": 25.199,
+    "text": "And I'm Sam. These days, our lives are filled with devices that were unimaginable only a few years ago.",
+    "speaker": null
+  },
+  {
+    "start": 25.199,
+    "end": 29.519,
+    "text": "The sorts of things you read about in science fiction novels that never thought you'd own.",
+    "speaker": null
+  },
+  {
+    "start": 30.079,
+    "end": 37.679,
+    "text": "Yes, like those robots that vacuum your floor or voice-activated lights – we call many of these things ‘smart tech’.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 37.679,
+    "end": 43.519,
+    "text": "smart tech. But while they can help with the little tasks at home, some people are wondering whether",
+    "speaker": null
+  },
+  {
+    "start": 43.519,
+    "end": 49.6,
+    "text": "they can help fight climate change. Yes, smart homes, regulating things like the temperature,",
+    "speaker": null
+  },
+  {
+    "start": 49.6,
+    "end": 56.56,
+    "text": "are a step in the right direction. Using AI to learn when the house is occupied and the optimal time",
+    "speaker": null
+  },
+  {
+    "start": 56.56,
+    "end": 61.679,
+    "text": "to fire up for heating is one way to limit wasteful use of resources.",
+    "speaker": null
+  },
+  {
+    "start": 62.4,
+    "end": 68.64,
+    "text": "The problem comes from the origin of the energy which powers these home systems. If it's fossil fuels",
+    "speaker": null
+  },
+  {
+    "start": 68.64,
+    "end": 74.159,
+    "text": "then digging them up an informal way of saying removing something from the earth and burning them",
+    "speaker": null
+  },
+  {
+    "start": 74.159,
+    "end": 79.76,
+    "text": "creates carbon emissions. I suppose that's why many people are trying to find more",
+    "speaker": null
+  },
+  {
+    "start": 79.76,
+    "end": 83.28,
+    "text": "I suppose that’s why many people are trying to find more renewable forms of energy to reduce their carbon footprint.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 84,
+    "end": 88.4,
+    "text": "Well, it's interesting that you mentioned carbon footprint because my question is about that",
+    "speaker": null
+  },
+  {
+    "start": 88.4,
+    "end": 95.2,
+    "text": "today. How many tons of carbon dioxide are humans responsible for emitting into the atmosphere",
+    "speaker": null
+  },
+  {
+    "start": 95.2,
+    "end": 102.719,
+    "text": "every year? Is it more than a 30 billion, b 40 billion or c 50 billion?",
+    "speaker": null
+  },
+  {
+    "start": 103.52,
+    "end": 109.04,
+    "text": "Well, Neil, that all sounds like a lot to me, but I’ll go straight down the middle and say b – 40 billion tonnes.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 109.2,
+    "end": 114.32,
+    "text": "40 billion tons. Okay, Sam will find out the correct answer at the end of the program.",
+    "speaker": null
+  },
+  {
+    "start": 114.96,
+    "end": 119.84,
+    "text": "So you mentioned earlier that people are looking into ways to use more renewable energy,",
+    "speaker": null
+  },
+  {
+    "start": 119.84,
+    "end": 123.04,
+    "text": "but there are also some problems with that form of energy production.",
+    "speaker": null
+  },
+  {
+    "start": 123.76,
+    "end": 129.92,
+    "text": "Yes – for example many of these technologies rely on certain weather conditions, which affect the level of energy production.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 129.92,
+    "end": 138.64,
+    "text": "the levels of energy production. Dr. NS Abu Harmad, CEO of H2Go, is working on a project in Orkney,",
+    "speaker": null
+  },
+  {
+    "start": 138.639,
+    "end": 143.679,
+    "text": "an island off the coast of Scotland, testing ways of storing renewable forms of energy.",
+    "speaker": null
+  },
+  {
+    "start": 144.479,
+    "end": 149.679,
+    "text": "Here she is on the BBC World Service Programme Crowd Science, speaking with Greia Jackson,",
+    "speaker": null
+  },
+  {
+    "start": 149.679,
+    "end": 153.119,
+    "text": "talking about the limitations of renewable energy sources.",
+    "speaker": null
+  },
+  {
+    "start": 154.399,
+    "end": 158.879,
+    "text": "Renewable energy is intermittent by its nature because we're dependent and relying on",
+    "speaker": null
+  },
+  {
+    "start": 159.679,
+    "end": 165.919,
+    "text": "the weather, when the sun shines and when the wind blows and these line nature are not 24",
+    "speaker": null
+  },
+  {
+    "start": 165.919,
+    "end": 170.319,
+    "text": "hour seven, reliable constant. And that means that demand doesn't always meet.",
+    "speaker": null
+  },
+  {
+    "start": 170.319,
+    "end": 176,
+    "text": "Supply renewables, it can mean that we get blackouts, but on the other hand, it means that when",
+    "speaker": null
+  },
+  {
+    "start": 176,
+    "end": 180.239,
+    "text": "the sun is up and we are producing all that power or when the wind is blowing and we're producing",
+    "speaker": null
+  },
+  {
+    "start": 180.239,
+    "end": 185.599,
+    "text": "power, we might not be able to use that energy. There's no demand for it. And so it's wasted.",
+    "speaker": null
+  },
+  {
+    "start": 186.719,
+    "end": 194.239,
+    "text": "So Dr. NS Abu Harmad said the renewable energy is intermittent, which means that something is not",
+    "speaker": null
+  },
+  {
+    "start": 194.24,
+    "end": 201.04,
+    "text": "continuous or has many breaks. She also said that because there isn't always a steady stream of",
+    "speaker": null
+  },
+  {
+    "start": 201.04,
+    "end": 208,
+    "text": "energy, we can get blackouts, periods of time without energy. People like Dr. NS Abu Harmad are",
+    "speaker": null
+  },
+  {
+    "start": 208,
+    "end": 213.04,
+    "text": "People like Dr Enass Abo-Hamed are trying to find solutions to make renewable energy storage devices – which would make the supply of energy more constant.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 213.04,
+    "end": 220.16,
+    "text": "supply of energy more constant. Smart tech can also help with this problem with renewable resources.",
+    "speaker": null
+  },
+  {
+    "start": 220.159,
+    "end": 225.28,
+    "text": "Now of course, not only can computers be used to design efficient models, but smart tech",
+    "speaker": null
+  },
+  {
+    "start": 225.28,
+    "end": 230.159,
+    "text": "can also be used to improve performance after things like wind turbines have been installed.",
+    "speaker": null
+  },
+  {
+    "start": 230.8,
+    "end": 236.079,
+    "text": "Here is Greia Jackson, Science Broadcaster and podcaster, speaking about how smart tech can",
+    "speaker": null
+  },
+  {
+    "start": 236.079,
+    "end": 240.56,
+    "text": "improve efficiency on BBC World Service Programme, Crowd Science.",
+    "speaker": null
+  },
+  {
+    "start": 241.599,
+    "end": 245.759,
+    "text": "Some engineers use something called a digital twin. This is really interesting actually.",
+    "speaker": null
+  },
+  {
+    "start": 245.759,
+    "end": 249.679,
+    "text": "This is where lots of sensors are attached to the wind turbine so it can be",
+    "speaker": null
+  },
+  {
+    "start": 250.239,
+    "end": 256,
+    "text": "modelled on a computer in real time. And then using machine learning, you can then simulate",
+    "speaker": null
+  },
+  {
+    "start": 256,
+    "end": 261.519,
+    "text": "what's happening to the wind turbine in specific weather conditions. And this is important",
+    "speaker": null
+  },
+  {
+    "start": 261.519,
+    "end": 265.519,
+    "text": "because it means they can make sure they're performing at their best.",
+    "speaker": null
+  },
+  {
+    "start": 265.519,
+    "end": 270.8,
+    "text": "Greia Jackson used the expression in real time, which means without delay or live.",
+    "speaker": null
+  },
+  {
+    "start": 271.759,
+    "end": 277.52,
+    "text": "And she also mentioned machine learning, which is the way computers change their behaviour",
+    "speaker": null
+  },
+  {
+    "start": 277.52,
+    "end": 284,
+    "text": "And she also said simulate – produce a computer model of something.",
+    "speaker": "simulate"
+  },
+  {
+    "start": 284.8,
+    "end": 289.84,
+    "text": "So while there are issues with the reliability of the source of renewable energy,",
+    "speaker": null
+  },
+  {
+    "start": 289.84,
+    "end": 295.439,
+    "text": "So, while there are issues with the reliability of the source of renewable energy, it’s clear that people are working on solutions such as energy storage to make sure there is always a supply.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 295.439,
+    "end": 301.519,
+    "text": "And that computers can be used to design and operate technology as efficiently as possible.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 302.24,
+    "end": 307.68,
+    "text": "Much in the same way that AI can be used in your home to make it run as efficiently as possible.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 308.319,
+    "end": 311.519,
+    "text": "Yes – all in the hope of reducing your carbon footprint.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 311.519,
+    "end": 313.839,
+    "text": "Which reminds me of your quiz question, Neil.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 314.48,
+    "end": 320.48,
+    "text": "Yes, in my quiz question, I asked Sam how many tons of carbon dioxide humans produce each year?",
+    "speaker": null
+  },
+  {
+    "start": 320.8,
+    "end": 324.08,
+    "text": "And I went for B, 40 billion tons.",
+    "speaker": null
+  },
+  {
+    "start": 324.08,
+    "end": 326.08,
+    "text": "Which is… the correct answer! Well done, Sam!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 326.8,
+    "end": 331.04,
+    "text": "Wow, I guess right. But all three of those numbers aren't really, really high.",
+    "speaker": null
+  },
+  {
+    "start": 331.92,
+    "end": 337.04,
+    "text": "Let's recap the vocabulary from today's programme about smart tech and climate change,",
+    "speaker": null
+  },
+  {
+    "start": 337.04,
+    "end": 343.52,
+    "text": "starting with dig something up. An informal expression, which means to remove something from the",
+    "speaker": null
+  },
+  {
+    "start": 343.52,
+    "end": 348.08,
+    "text": "Intermittent is used to describe something that is not continuous or steady.",
+    "speaker": "Intermittent"
+  },
+  {
+    "start": 348.879,
+    "end": 353.839,
+    "text": "Blackouts are periods of time without energy, for example electricity.",
+    "speaker": "Blackouts"
+  },
+  {
+    "start": 353.839,
+    "end": 356.719,
+    "text": "In real time means without delay or live.",
+    "speaker": "In real time"
+  },
+  {
+    "start": 356.719,
+    "end": 363.919,
+    "text": "Machine learning is the process by which computers learn and change behaviour based on data.",
+    "speaker": "Machine learning"
+  },
+  {
+    "start": 363.919,
+    "end": 367.759,
+    "text": "And finally, simulate means produce a computer model.",
+    "speaker": "simulate"
+  },
+  {
+    "start": 367.759,
+    "end": 370.639,
+    "text": "That’s all for this programme. Bye for now!",
+    "speaker": "Sam"
+  },
+  {
+    "start": 370.639,
+    "end": 371.919,
+    "text": "Goodbye!",
+    "speaker": "Neil"
+  }
+]

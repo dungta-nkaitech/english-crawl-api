@@ -1,0 +1,656 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 11.12,
+    "text": "6M8 English from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 13.359,
+    "end": 16.8,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 16.8,
+    "end": 17.6,
+    "text": "I'm Neil.",
+    "speaker": null
+  },
+  {
+    "start": 17.6,
+    "end": 18.96,
+    "text": "And I’m Georgina.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 18.96,
+    "end": 22.16,
+    "text": "This is the programme where we hope to add some colour to your life",
+    "speaker": null
+  },
+  {
+    "start": 22.16,
+    "end": 24.64,
+    "text": "by talking about an interesting subject",
+    "speaker": null
+  },
+  {
+    "start": 24.64,
+    "end": 27.44,
+    "text": "and teaching you some useful vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 27.44,
+    "end": 30.08,
+    "text": "And colour is what we’re talking about today. What’s your favourite colour, Neil?",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 30.08,
+    "end": 31.92,
+    "text": "What's your favourite colour, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 31.92,
+    "end": 35.28,
+    "text": "Ooh, I like green, a fresh, bold colour",
+    "speaker": null
+  },
+  {
+    "start": 35.28,
+    "end": 36.56,
+    "text": "that reminds me of nature.",
+    "speaker": null
+  },
+  {
+    "start": 37.2,
+    "end": 38.64,
+    "text": "It can have a calming effect.",
+    "speaker": null
+  },
+  {
+    "start": 39.359,
+    "end": 40.16,
+    "text": "And you?",
+    "speaker": null
+  },
+  {
+    "start": 40.16,
+    "end": 41.359,
+    "text": "It's got to be blue.",
+    "speaker": null
+  },
+  {
+    "start": 41.359,
+    "end": 45.28,
+    "text": "It’s got to be blue – it reminds me of the sea, the sky – and holidays, of course!",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 45.28,
+    "end": 47.84,
+    "text": "Color, no matter which one we prefer,",
+    "speaker": null
+  },
+  {
+    "start": 47.84,
+    "end": 49.2,
+    "text": "affect how we feel.",
+    "speaker": null
+  },
+  {
+    "start": 49.84,
+    "end": 51.68,
+    "text": "And we'll be talking about that soon.",
+    "speaker": null
+  },
+  {
+    "start": 52.32,
+    "end": 56.159,
+    "text": "But not before I challenge you to answer my quiz question, Georgina,",
+    "speaker": null
+  },
+  {
+    "start": 56.159,
+    "end": 57.599,
+    "text": "and it's a science question.",
+    "speaker": null
+  },
+  {
+    "start": 58.399,
+    "end": 61.199,
+    "text": "Do you know what the splitting of white light",
+    "speaker": null
+  },
+  {
+    "start": 61.199,
+    "end": 63.199,
+    "text": "into its different colours is called?",
+    "speaker": null
+  },
+  {
+    "start": 64,
+    "end": 70.56,
+    "text": "Is it A, dispersion, B, reflection, or C, refraction?",
+    "speaker": null
+  },
+  {
+    "start": 71.28,
+    "end": 74,
+    "text": "Mmm, well, I'm not a scientist, so I'll have to guess",
+    "speaker": null
+  },
+  {
+    "start": 74,
+    "end": 75.599,
+    "text": "c) refraction?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 76.319,
+    "end": 78.959,
+    "text": "Okay, I'll reveal the right answer later on.",
+    "speaker": null
+  },
+  {
+    "start": 79.84,
+    "end": 82.159,
+    "text": "But now, let's talk more about colour.",
+    "speaker": null
+  },
+  {
+    "start": 83.119,
+    "end": 85.599,
+    "text": "Colour can represent many different things,",
+    "speaker": null
+  },
+  {
+    "start": 85.599,
+    "end": 87.28,
+    "text": "depending on where you come from.",
+    "speaker": null
+  },
+  {
+    "start": 87.84,
+    "end": 90.079,
+    "text": "You can be green with envy,",
+    "speaker": null
+  },
+  {
+    "start": 90.079,
+    "end": 92.399,
+    "text": "wishing you had what someone else had.",
+    "speaker": null
+  },
+  {
+    "start": 92.399,
+    "end": 95.519,
+    "text": "And someone can feel blue, so feel depressed.",
+    "speaker": null
+  },
+  {
+    "start": 95.519,
+    "end": 98.239,
+    "text": "We choose colours to express ourselves in what we wear",
+    "speaker": null
+  },
+  {
+    "start": 98.239,
+    "end": 100.079,
+    "text": "or how we decorate our home.",
+    "speaker": null
+  },
+  {
+    "start": 100.079,
+    "end": 102.959,
+    "text": "The BBC Radio 4 programme, You and Yours,",
+    "speaker": null
+  },
+  {
+    "start": 102.959,
+    "end": 104.64,
+    "text": "has been talking about colour,",
+    "speaker": null
+  },
+  {
+    "start": 104.64,
+    "end": 106.799,
+    "text": "and whether it affects everyone's mood.",
+    "speaker": null
+  },
+  {
+    "start": 107.759,
+    "end": 110.4,
+    "text": "Karen Huller is a colour psychologist,",
+    "speaker": null
+  },
+  {
+    "start": 110.4,
+    "end": 112.4,
+    "text": "and a colour designer and consultant.",
+    "speaker": null
+  },
+  {
+    "start": 112.88,
+    "end": 114.96,
+    "text": "She explained how colour affects us.",
+    "speaker": null
+  },
+  {
+    "start": 117.359,
+    "end": 120.48,
+    "text": "It's the way that we take in the wavelengths of light,",
+    "speaker": null
+  },
+  {
+    "start": 120.48,
+    "end": 122.719,
+    "text": "because colour is wavelengths of light,",
+    "speaker": null
+  },
+  {
+    "start": 122.719,
+    "end": 124.56,
+    "text": "and it's how that comes in through our eye.",
+    "speaker": null
+  },
+  {
+    "start": 125.12,
+    "end": 128,
+    "text": "And then it goes into the part of our brain called the hypothalamus,",
+    "speaker": null
+  },
+  {
+    "start": 128.64,
+    "end": 132.08,
+    "text": "which governs our sleeping patterns, our hormones,",
+    "speaker": null
+  },
+  {
+    "start": 132.08,
+    "end": 135.759,
+    "text": "our behaviours, our appetite, it governs everything.",
+    "speaker": null
+  },
+  {
+    "start": 135.759,
+    "end": 137.84,
+    "text": "And so different colours and different frequencies",
+    "speaker": null
+  },
+  {
+    "start": 138,
+    "end": 139.439,
+    "text": "are different wavelengths of light.",
+    "speaker": null
+  },
+  {
+    "start": 139.439,
+    "end": 141.759,
+    "text": "We have different responses and different reactions to them.",
+    "speaker": null
+  },
+  {
+    "start": 144.08,
+    "end": 146.719,
+    "text": "So colour is wavelengths of light.",
+    "speaker": null
+  },
+  {
+    "start": 146.719,
+    "end": 150.48,
+    "text": "A wavelength is the distance between two waves of sound",
+    "speaker": null
+  },
+  {
+    "start": 150.48,
+    "end": 152.24,
+    "text": "or light that are next to each other.",
+    "speaker": null
+  },
+  {
+    "start": 153.36,
+    "end": 156.56,
+    "text": "As these wavelengths change, so does the colour we see.",
+    "speaker": null
+  },
+  {
+    "start": 157.759,
+    "end": 160.719,
+    "text": "Thanks to the Science Lesson, Karen also explained",
+    "speaker": null
+  },
+  {
+    "start": 160.719,
+    "end": 163.439,
+    "text": "that there's a part of our brain that controls.",
+    "speaker": null
+  },
+  {
+    "start": 163.439,
+    "end": 167.039,
+    "text": "She used the word govern, how we feel and how we behave.",
+    "speaker": null
+  },
+  {
+    "start": 167.039,
+    "end": 169.679,
+    "text": "And this can change depending on what colour we see.",
+    "speaker": null
+  },
+  {
+    "start": 170.56,
+    "end": 174.879,
+    "text": "Interesting stuff. Of course, colour can affect us differently.",
+    "speaker": null
+  },
+  {
+    "start": 174.879,
+    "end": 177.359,
+    "text": "Seeing red can make one person angry,",
+    "speaker": null
+  },
+  {
+    "start": 177.359,
+    "end": 180.239,
+    "text": "but someone else may just feel energized.",
+    "speaker": null
+  },
+  {
+    "start": 180.239,
+    "end": 184.959,
+    "text": "Homeware and furnishing manufacturers offer a whole spectrum all-ranged.",
+    "speaker": null
+  },
+  {
+    "start": 184.959,
+    "end": 188.239,
+    "text": "Of colours to choose to suit everyone's taste and mood,",
+    "speaker": null
+  },
+  {
+    "start": 188.239,
+    "end": 191.039,
+    "text": "but during the recent coronavirus pandemic,",
+    "speaker": null
+  },
+  {
+    "start": 191.039,
+    "end": 195.28,
+    "text": "there was a rise in demand for intense, bright shades and patterns.",
+    "speaker": null
+  },
+  {
+    "start": 195.28,
+    "end": 197.84,
+    "text": "This was referred to as happy design,",
+    "speaker": null
+  },
+  {
+    "start": 197.84,
+    "end": 200.319,
+    "text": "design that was meant to help lift our mood.",
+    "speaker": null
+  },
+  {
+    "start": 201.12,
+    "end": 205.759,
+    "text": "Yes, and Karen Hullert spoke a bit more about this on the UNIORS programme.",
+    "speaker": null
+  },
+  {
+    "start": 208,
+    "end": 213.039,
+    "text": "In the time when everyone was out and we were all working and we'd lived very, very busy lives,",
+    "speaker": null
+  },
+  {
+    "start": 213.599,
+    "end": 218.08,
+    "text": "quite often what people wanted, they wanted a very quiet sanctuary to come back to,",
+    "speaker": null
+  },
+  {
+    "start": 218.08,
+    "end": 222.719,
+    "text": "so they had very power colours or very low chromatic colours in their house,",
+    "speaker": null
+  },
+  {
+    "start": 222.719,
+    "end": 228.719,
+    "text": "low saturation, because that helped them unwind, it helped them relax and to feel very",
+    "speaker": null
+  },
+  {
+    "start": 228.719,
+    "end": 233.52,
+    "text": "soosed. But what I have found since the first lockdown is a lot of people,",
+    "speaker": null
+  },
+  {
+    "start": 233.52,
+    "end": 236.56,
+    "text": "because they're not getting that outside stimulation,",
+    "speaker": null
+  },
+  {
+    "start": 236.56,
+    "end": 239.039,
+    "text": "they're actually putting a lot of brighter colours in their home,",
+    "speaker": null
+  },
+  {
+    "start": 239.039,
+    "end": 243.439,
+    "text": "because they're trying to bring in that feeling that they would have got when they were out,",
+    "speaker": null
+  },
+  {
+    "start": 243.439,
+    "end": 244.879,
+    "text": "that excitement and that buzz.",
+    "speaker": null
+  },
+  {
+    "start": 247.36,
+    "end": 250.159,
+    "text": "It seems that in our normal busy working lives,",
+    "speaker": null
+  },
+  {
+    "start": 250.159,
+    "end": 255.28,
+    "text": "our homes were peaceful places and somewhere to relax, they were a sanctuary.",
+    "speaker": null
+  },
+  {
+    "start": 255.28,
+    "end": 258.8,
+    "text": "To create this relaxing space we use pale colours,",
+    "speaker": null
+  },
+  {
+    "start": 258.8,
+    "end": 261.36,
+    "text": "one set lack intensity like sky blue.",
+    "speaker": null
+  },
+  {
+    "start": 262,
+    "end": 265.36,
+    "text": "But during the recent lockdowns when we weren't outside much,",
+    "speaker": null
+  },
+  {
+    "start": 265.36,
+    "end": 269.6,
+    "text": "we tried to get that stimulation, that excitement or experience,",
+    "speaker": null
+  },
+  {
+    "start": 269.6,
+    "end": 273.439,
+    "text": "by decorating our homes with brighter colour, such as yellow.",
+    "speaker": null
+  },
+  {
+    "start": 274.639,
+    "end": 279.759,
+    "text": "Perhaps a little too bright for me, it's all about personal taste and the connections we",
+    "speaker": null
+  },
+  {
+    "start": 279.759,
+    "end": 285.039,
+    "text": "Hmmm, perhaps a little too bright for me! It is all about personal taste and the connections we make with the colours we see but it makes sense that brighter colours can certainly lift our mood.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 285.839,
+    "end": 290.959,
+    "text": "Now, earlier I asked you, Georgina, do you know what the splitting of white light into its different colours is called? Is it…",
+    "speaker": "Neil"
+  },
+  {
+    "start": 290.959,
+    "end": 297.759,
+    "text": "different colours is called? Is it A, dispersion, B, reflection or C, refraction?",
+    "speaker": null
+  },
+  {
+    "start": 298.56,
+    "end": 300.399,
+    "text": "And I said it was refraction.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 301.039,
+    "end": 306.399,
+    "text": "Sorry Georgina, that's wrong, it's actually called dispersion, back to school for you,",
+    "speaker": null
+  },
+  {
+    "start": 306.399,
+    "end": 309.519,
+    "text": "but not before we recap some of today's vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 310.079,
+    "end": 314.639,
+    "text": "Okay, firstly we can describe someone who wishes they had what someone else has",
+    "speaker": null
+  },
+  {
+    "start": 314.639,
+    "end": 316.159,
+    "text": "as being green with envy.",
+    "speaker": null
+  },
+  {
+    "start": 316.879,
+    "end": 322.079,
+    "text": "We also talked about a wavelength - the distance between two waves of sound or light that are next to each other.",
+    "speaker": "wavelength"
+  },
+  {
+    "start": 322.079,
+    "end": 323.679,
+    "text": "that are next to each other.",
+    "speaker": null
+  },
+  {
+    "start": 323.679,
+    "end": 326.079,
+    "text": "To govern means to control or influence.",
+    "speaker": "govern"
+  },
+  {
+    "start": 326.639,
+    "end": 329.919,
+    "text": "A sanctuary can be a peaceful or relaxing place,",
+    "speaker": null
+  },
+  {
+    "start": 329.919,
+    "end": 333.359,
+    "text": "A sanctuary can be a peaceful or relaxing place – in some cases it can be a safe place for someone in danger.",
+    "speaker": "sanctuary"
+  },
+  {
+    "start": 334.08,
+    "end": 339.36,
+    "text": "Stimulation describes the feeling of being excited, interested or enthused by something.",
+    "speaker": null
+  },
+  {
+    "start": 340,
+    "end": 344.56,
+    "text": "And pale describes a colour that lacks intensity, it's not very bright,",
+    "speaker": null
+  },
+  {
+    "start": 344.56,
+    "end": 347.92,
+    "text": "and for me they're much better than a bold bright yellow.",
+    "speaker": null
+  },
+  {
+    "start": 348.8,
+    "end": 351.439,
+    "text": "Well Georgina, thanks for showing your true colours.",
+    "speaker": null
+  },
+  {
+    "start": 352,
+    "end": 356.96,
+    "text": "Well, Georgina,  thanks for showing your true colours! That’s all for now, but we’ll be picking another topic to discuss out of the blue, next time.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 357.759,
+    "end": 362.72,
+    "text": "Don't forget you can hear other six minute English programmes and much more on our website",
+    "speaker": null
+  },
+  {
+    "start": 362.72,
+    "end": 364.96,
+    "text": "at BBCLearningEnglish.com.",
+    "speaker": null
+  },
+  {
+    "start": 364.96,
+    "end": 368.4,
+    "text": "And we're always posting stuff on our social media platforms.",
+    "speaker": null
+  },
+  {
+    "start": 368.4,
+    "end": 369.6,
+    "text": "Bye for now.",
+    "speaker": null
+  },
+  {
+    "start": 369.6,
+    "end": 370.56,
+    "text": "Goodbye.",
+    "speaker": "Neil"
+  }
+]

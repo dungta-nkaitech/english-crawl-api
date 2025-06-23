@@ -1,0 +1,830 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.24,
+    "text": "6 Minute English",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 10.64,
+    "text": "From BBC Learning English",
+    "speaker": null
+  },
+  {
+    "start": 13.519,
+    "end": 15.919,
+    "text": "Hello. This is 6 Minute English, I'm Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 15.919,
+    "end": 16.92,
+    "text": "And I'm Sam.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 16.92,
+    "end": 18.559,
+    "text": "It’s good to see you again, Sam.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 18.559,
+    "end": 19.44,
+    "text": "Really?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 19.44,
+    "end": 20.48,
+    "text": "Yeah, of course.",
+    "speaker": null
+  },
+  {
+    "start": 20.48,
+    "end": 23.039,
+    "text": "Yes, of course, can’t you tell by the way I’m smiling?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 23.039,
+    "end": 27.039,
+    "text": "Ah well, I find it difficult to tell if someone is really smiling or if it’s a fake smile.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 27.039,
+    "end": 28.719,
+    "text": "or if it's a fake smile.",
+    "speaker": null
+  },
+  {
+    "start": 28.799,
+    "end": 31.359,
+    "text": "Well, that's a coincidence because this programme",
+    "speaker": null
+  },
+  {
+    "start": 31.359,
+    "end": 35.119,
+    "text": "is all about how computers may be able to tell real smiles",
+    "speaker": null
+  },
+  {
+    "start": 35.119,
+    "end": 38.239,
+    "text": "from fake smiles better than humans can.",
+    "speaker": null
+  },
+  {
+    "start": 38.239,
+    "end": 40.799,
+    "text": "Before we get into that, though, a question.",
+    "speaker": null
+  },
+  {
+    "start": 40.799,
+    "end": 44.799,
+    "text": "The expressions that we can make with our face are controlled by muscles.",
+    "speaker": null
+  },
+  {
+    "start": 44.799,
+    "end": 47.359,
+    "text": "How many muscles do we have in our face?",
+    "speaker": null
+  },
+  {
+    "start": 47.359,
+    "end": 52.239,
+    "text": "Is it a 26, b 43 or c 62?",
+    "speaker": null
+  },
+  {
+    "start": 52.239,
+    "end": 53.599,
+    "text": "What do you think, Sam?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 53.599,
+    "end": 56.48,
+    "text": "No idea! But a lot, I’d guess, so I’m going with 62.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 56.48,
+    "end": 58.48,
+    "text": "So I'm going with 62.",
+    "speaker": null
+  },
+  {
+    "start": 58.559,
+    "end": 60.879,
+    "text": "OK, well, we'll see if you'll be smiling",
+    "speaker": null
+  },
+  {
+    "start": 60.879,
+    "end": 63.039,
+    "text": "or crying later in the programme.",
+    "speaker": null
+  },
+  {
+    "start": 63.039,
+    "end": 66.319,
+    "text": "Hassan Ugael is a professor of visual computing",
+    "speaker": null
+  },
+  {
+    "start": 66.319,
+    "end": 67.92,
+    "text": "at the University of Bradford.",
+    "speaker": null
+  },
+  {
+    "start": 67.92,
+    "end": 69.92,
+    "text": "He's been working on getting computers",
+    "speaker": null
+  },
+  {
+    "start": 69.92,
+    "end": 72.479,
+    "text": "to be able to recognise human emotions",
+    "speaker": null
+  },
+  {
+    "start": 72.479,
+    "end": 74.399,
+    "text": "from the expressions on our face.",
+    "speaker": null
+  },
+  {
+    "start": 75.12,
+    "end": 79.12,
+    "text": "Here he is speaking on the BBC Inside Science Radio programme.",
+    "speaker": null
+  },
+  {
+    "start": 79.12,
+    "end": 81.92,
+    "text": "How successful does he say they have been?",
+    "speaker": null
+  },
+  {
+    "start": 81.92,
+    "end": 84.64,
+    "text": "We've been working quite a lot on the human emotions",
+    "speaker": null
+  },
+  {
+    "start": 84.64,
+    "end": 88.239,
+    "text": "or the ideas how the facial muscle movement",
+    "speaker": null
+  },
+  {
+    "start": 88.319,
+    "end": 90.319,
+    "text": "which is reflected on the face,",
+    "speaker": null
+  },
+  {
+    "start": 90.319,
+    "end": 93.039,
+    "text": "through obviously computer, through video frames,",
+    "speaker": null
+  },
+  {
+    "start": 93.039,
+    "end": 95.28,
+    "text": "and trying to understand how these muscle movements",
+    "speaker": null
+  },
+  {
+    "start": 95.28,
+    "end": 98,
+    "text": "actually relate to facial expressions",
+    "speaker": null
+  },
+  {
+    "start": 98,
+    "end": 99.599,
+    "text": "and then from facial expressions,",
+    "speaker": null
+  },
+  {
+    "start": 99.599,
+    "end": 103.199,
+    "text": "trying to understand the emotions or to infer the emotions.",
+    "speaker": null
+  },
+  {
+    "start": 103.199,
+    "end": 105.359,
+    "text": "And we have been quite successful in doing that.",
+    "speaker": null
+  },
+  {
+    "start": 105.359,
+    "end": 108.879,
+    "text": "We have software that can actually look at somebody's face",
+    "speaker": null
+  },
+  {
+    "start": 108.879,
+    "end": 113.439,
+    "text": "in real time and then identify the series of emotions",
+    "speaker": null
+  },
+  {
+    "start": 113.439,
+    "end": 116.479,
+    "text": "that persons express in real time as well.",
+    "speaker": null
+  },
+  {
+    "start": 116.56,
+    "end": 119.52,
+    "text": "So, have they been successful in getting computers to identify emotions?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 119.52,
+    "end": 121.359,
+    "text": "to identify emotions?",
+    "speaker": null
+  },
+  {
+    "start": 121.359,
+    "end": 124.159,
+    "text": "Yes, he says they've been quite successful.",
+    "speaker": null
+  },
+  {
+    "start": 124.159,
+    "end": 126.159,
+    "text": "And what's interesting is that he says",
+    "speaker": null
+  },
+  {
+    "start": 126.159,
+    "end": 129.92,
+    "text": "that the computers can do it in real time.",
+    "speaker": null
+  },
+  {
+    "start": 129.92,
+    "end": 132.48,
+    "text": "This means that there's no delay.",
+    "speaker": null
+  },
+  {
+    "start": 132.48,
+    "end": 135.039,
+    "text": "They don't have to stop and analyse the data",
+    "speaker": null
+  },
+  {
+    "start": 135.039,
+    "end": 136.4,
+    "text": "or crunch the numbers.",
+    "speaker": null
+  },
+  {
+    "start": 136.4,
+    "end": 139.36,
+    "text": "They can do it as the person is talking.",
+    "speaker": null
+  },
+  {
+    "start": 139.36,
+    "end": 143.04,
+    "text": "The system uses video to analyse a person's expressions",
+    "speaker": null
+  },
+  {
+    "start": 143.04,
+    "end": 145.439,
+    "text": "and can then infer the emotions.",
+    "speaker": null
+  },
+  {
+    "start": 145.52,
+    "end": 148.4,
+    "text": "To infer something means to get an understanding of something",
+    "speaker": null
+  },
+  {
+    "start": 148.4,
+    "end": 151.039,
+    "text": "without actually being told directly.",
+    "speaker": null
+  },
+  {
+    "start": 151.039,
+    "end": 152.879,
+    "text": "So, you look at available information",
+    "speaker": null
+  },
+  {
+    "start": 152.879,
+    "end": 154.879,
+    "text": "and use your understanding and knowledge",
+    "speaker": null
+  },
+  {
+    "start": 154.879,
+    "end": 156.56,
+    "text": "to work out the meaning.",
+    "speaker": null
+  },
+  {
+    "start": 156.56,
+    "end": 159.039,
+    "text": "It's a bit like being a detective, isn't it?",
+    "speaker": null
+  },
+  {
+    "start": 159.039,
+    "end": 162.079,
+    "text": "You look at the clues and infer what happened",
+    "speaker": null
+  },
+  {
+    "start": 162.079,
+    "end": 164.24,
+    "text": "even if you don't have all the details.",
+    "speaker": null
+  },
+  {
+    "start": 164.24,
+    "end": 166.4,
+    "text": "Yes, and in this case, the computer looks",
+    "speaker": null
+  },
+  {
+    "start": 166.4,
+    "end": 168.56,
+    "text": "at how the movement of muscles in the face",
+    "speaker": null
+  },
+  {
+    "start": 168.56,
+    "end": 171.599,
+    "text": "or facial muscles show different emotions.",
+    "speaker": null
+  },
+  {
+    "start": 171.599,
+    "end": 173.599,
+    "text": "Here's Professor Ugeh again.",
+    "speaker": null
+  },
+  {
+    "start": 173.599,
+    "end": 176.319,
+    "text": "We've been working quite a lot on the human emotions",
+    "speaker": null
+  },
+  {
+    "start": 176.319,
+    "end": 179.919,
+    "text": "or the idea is how the facial muscle movement",
+    "speaker": null
+  },
+  {
+    "start": 179.919,
+    "end": 182,
+    "text": "which is reflected on the face",
+    "speaker": null
+  },
+  {
+    "start": 182,
+    "end": 184.719,
+    "text": "through obviously computer through video frames",
+    "speaker": null
+  },
+  {
+    "start": 184.719,
+    "end": 186.879,
+    "text": "and trying to understand how these muscle movements",
+    "speaker": null
+  },
+  {
+    "start": 186.879,
+    "end": 189.599,
+    "text": "actually relate to facial expressions",
+    "speaker": null
+  },
+  {
+    "start": 189.599,
+    "end": 191.199,
+    "text": "and then from facial expressions",
+    "speaker": null
+  },
+  {
+    "start": 191.199,
+    "end": 192.799,
+    "text": "trying to understand the emotions",
+    "speaker": null
+  },
+  {
+    "start": 192.799,
+    "end": 194.879,
+    "text": "or to infer the emotions.",
+    "speaker": null
+  },
+  {
+    "start": 194.879,
+    "end": 196.959,
+    "text": "And we have been quite successful in doing that.",
+    "speaker": null
+  },
+  {
+    "start": 196.959,
+    "end": 200.479,
+    "text": "We have software that can actually look at somebody's face",
+    "speaker": null
+  },
+  {
+    "start": 200.479,
+    "end": 205.039,
+    "text": "in real time and then identify the series of emotions",
+    "speaker": null
+  },
+  {
+    "start": 205.039,
+    "end": 207.919,
+    "text": "that person is expressing in real time as well.",
+    "speaker": null
+  },
+  {
+    "start": 207.919,
+    "end": 212.959,
+    "text": "So, how do the computers know what is a real or a fake smile?",
+    "speaker": null
+  },
+  {
+    "start": 212.959,
+    "end": 214.799,
+    "text": "The computers have to learn that first.",
+    "speaker": null
+  },
+  {
+    "start": 215.759,
+    "end": 219.599,
+    "text": "Here's Professor Ugeh again talking about how they do that.",
+    "speaker": null
+  },
+  {
+    "start": 219.599,
+    "end": 221.839,
+    "text": "We have a data set of real smiles",
+    "speaker": null
+  },
+  {
+    "start": 221.839,
+    "end": 223.839,
+    "text": "and we have a data set of fake smiles.",
+    "speaker": null
+  },
+  {
+    "start": 223.839,
+    "end": 226.159,
+    "text": "These real smiles are indeed smiles in a lab.",
+    "speaker": null
+  },
+  {
+    "start": 226.159,
+    "end": 228,
+    "text": "So, you put somebody on the chair",
+    "speaker": null
+  },
+  {
+    "start": 228.08,
+    "end": 230.56,
+    "text": "and then show some funny movies",
+    "speaker": null
+  },
+  {
+    "start": 230.56,
+    "end": 233.28,
+    "text": "and we expect the smiles are genuine smiles.",
+    "speaker": null
+  },
+  {
+    "start": 233.28,
+    "end": 236.24,
+    "text": "And similarly, we ask them to pretend they're smile",
+    "speaker": null
+  },
+  {
+    "start": 236.24,
+    "end": 238.159,
+    "text": "so these are what we call fake smiles.",
+    "speaker": null
+  },
+  {
+    "start": 238.159,
+    "end": 241.439,
+    "text": "So, what we do is we throw these into the machine",
+    "speaker": null
+  },
+  {
+    "start": 241.439,
+    "end": 243.199,
+    "text": "and then the machine figures out",
+    "speaker": null
+  },
+  {
+    "start": 243.199,
+    "end": 245.68,
+    "text": "what are the characteristics of a real smile",
+    "speaker": null
+  },
+  {
+    "start": 245.68,
+    "end": 247.92,
+    "text": "and what are the characteristics of a fake smile.",
+    "speaker": null
+  },
+  {
+    "start": 248.639,
+    "end": 251.759,
+    "text": "So, how do they get the data that the computers use",
+    "speaker": null
+  },
+  {
+    "start": 251.759,
+    "end": 254.4,
+    "text": "to see if your smile is fake or genuine,",
+    "speaker": null
+  },
+  {
+    "start": 254.4,
+    "end": 256.16,
+    "text": "which is another word which means real?",
+    "speaker": null
+  },
+  {
+    "start": 256.8,
+    "end": 259.52,
+    "text": "They induce real smiles in the lab",
+    "speaker": null
+  },
+  {
+    "start": 259.52,
+    "end": 261.52,
+    "text": "by showing people funny films.",
+    "speaker": null
+  },
+  {
+    "start": 262.08,
+    "end": 265.36,
+    "text": "This means that they make the smiles come naturally.",
+    "speaker": null
+  },
+  {
+    "start": 265.36,
+    "end": 269.52,
+    "text": "They assume that the smiles while watching the funny films are genuine.",
+    "speaker": null
+  },
+  {
+    "start": 269.52,
+    "end": 272,
+    "text": "And then they ask the people to pretend to smile",
+    "speaker": null
+  },
+  {
+    "start": 272,
+    "end": 276,
+    "text": "and the computer programme now has a database of real and fake smiles",
+    "speaker": null
+  },
+  {
+    "start": 276,
+    "end": 278,
+    "text": "and is able to figure out which is which.",
+    "speaker": null
+  },
+  {
+    "start": 278.64,
+    "end": 282.08,
+    "text": "Figure out means to calculate and come to an answer",
+    "speaker": "Sam"
+  },
+  {
+    "start": 282.08,
+    "end": 285.6,
+    "text": "Yes and apparently the system gets it right 90% of the time",
+    "speaker": null
+  },
+  {
+    "start": 285.68,
+    "end": 287.84,
+    "text": "which is much higher than we humans can.",
+    "speaker": null
+  },
+  {
+    "start": 288.56,
+    "end": 291.6,
+    "text": "Right, well, before we remind ourselves of our vocabulary,",
+    "speaker": null
+  },
+  {
+    "start": 291.6,
+    "end": 293.6,
+    "text": "let's get the answer to the question.",
+    "speaker": null
+  },
+  {
+    "start": 293.6,
+    "end": 296.32,
+    "text": "How many muscles do we have in our face?",
+    "speaker": null
+  },
+  {
+    "start": 296.32,
+    "end": 300.8,
+    "text": "Is it A, 26, B, 43 or C, 62?",
+    "speaker": null
+  },
+  {
+    "start": 300.8,
+    "end": 302.24,
+    "text": "Sam, are you going to be smiling? What did you say?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 302.24,
+    "end": 303.04,
+    "text": "What did you say?",
+    "speaker": null
+  },
+  {
+    "start": 303.04,
+    "end": 304.96,
+    "text": "Aha, so I thought 62.",
+    "speaker": null
+  },
+  {
+    "start": 304.96,
+    "end": 306.32,
+    "text": "So I thought 62! Am I smiling, Neil?",
+    "speaker": "Sam"
+  },
+  {
+    "start": 306.32,
+    "end": 311.76,
+    "text": "Sadly, you are not using different muscles for that sort of sad look.",
+    "speaker": null
+  },
+  {
+    "start": 312.879,
+    "end": 314.64,
+    "text": "Actually, the answer is 43.",
+    "speaker": null
+  },
+  {
+    "start": 314.719,
+    "end": 317.199,
+    "text": "Congratulations to anyone who got that right.",
+    "speaker": null
+  },
+  {
+    "start": 317.199,
+    "end": 318.639,
+    "text": "Now our vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 318.639,
+    "end": 322.56,
+    "text": "Yes, so facial is the adjective relating to face.",
+    "speaker": null
+  },
+  {
+    "start": 322.56,
+    "end": 324.399,
+    "text": "Then we had infer.",
+    "speaker": null
+  },
+  {
+    "start": 324.399,
+    "end": 329.039,
+    "text": "This verb means to understand something even when you don't have all the information",
+    "speaker": null
+  },
+  {
+    "start": 329.039,
+    "end": 332.56,
+    "text": "and you come to this understanding based on your experience and knowledge",
+    "speaker": null
+  },
+  {
+    "start": 332.56,
+    "end": 335.039,
+    "text": "or in the case of a computer, the programming.",
+    "speaker": null
+  },
+  {
+    "start": 335.68,
+    "end": 339.919,
+    "text": "And these computers work in real time which means that there's no delay",
+    "speaker": null
+  },
+  {
+    "start": 340.56,
+    "end": 343.36,
+    "text": "and they can tell a fake smile from a genuine one,",
+    "speaker": null
+  },
+  {
+    "start": 343.439,
+    "end": 346.08,
+    "text": "which means a real one, as the person is speaking.",
+    "speaker": null
+  },
+  {
+    "start": 346.56,
+    "end": 349.12,
+    "text": "They made people smile, or as the Professor said, they induced smiles by showing funny films.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 349.12,
+    "end": 352.4,
+    "text": "they induced smiles by showing funny films.",
+    "speaker": null
+  },
+  {
+    "start": 352.4,
+    "end": 358.56,
+    "text": "And the computer is able to figure out or calculate whether the smile is fake or genuine.",
+    "speaker": "Sam"
+  },
+  {
+    "start": 358.56,
+    "end": 359.84,
+    "text": "Okay, thank you, Sam.",
+    "speaker": null
+  },
+  {
+    "start": 359.84,
+    "end": 361.6,
+    "text": "That's all from six minute English today.",
+    "speaker": null
+  },
+  {
+    "start": 361.6,
+    "end": 363.52,
+    "text": "We look forward to your company next time.",
+    "speaker": null
+  },
+  {
+    "start": 363.52,
+    "end": 367.28,
+    "text": "And if you can't wait, you can find lots more from BBC Learning English online",
+    "speaker": null
+  },
+  {
+    "start": 367.28,
+    "end": 369.199,
+    "text": "on social media and on our app.",
+    "speaker": null
+  },
+  {
+    "start": 369.199,
+    "end": 370,
+    "text": "Goodbye.",
+    "speaker": null
+  },
+  {
+    "start": 370,
+    "end": 370.8,
+    "text": "Bye!",
+    "speaker": "Sam"
+  },
+  {
+    "start": 373.36,
+    "end": 375.6,
+    "text": "From BBC Learning English.",
+    "speaker": null
+  }
+]

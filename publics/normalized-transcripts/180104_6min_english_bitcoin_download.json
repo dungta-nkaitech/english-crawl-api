@@ -1,0 +1,854 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.24,
+    "text": "6 Minute English",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 10.56,
+    "text": "From BBC Learning English",
+    "speaker": null
+  },
+  {
+    "start": 12.24,
+    "end": 14.4,
+    "text": "Hello and welcome to 6 Minute English.",
+    "speaker": null
+  },
+  {
+    "start": 14.4,
+    "end": 16.879,
+    "text": "Hello and welcome to 6 Minute English. I'm Dan and joining me today is Neil. Hey Neil.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 16.879,
+    "end": 18.96,
+    "text": "Hello Dan. What’s on the agenda today?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 18.96,
+    "end": 20.559,
+    "text": "Well, I'll give you a clue.",
+    "speaker": null
+  },
+  {
+    "start": 20.559,
+    "end": 22.64,
+    "text": "It's something that makes the world go round,",
+    "speaker": null
+  },
+  {
+    "start": 22.64,
+    "end": 24.719,
+    "text": "but it doesn't really exist.",
+    "speaker": null
+  },
+  {
+    "start": 24.719,
+    "end": 27.6,
+    "text": "In fact, if we all stopped believing in it,",
+    "speaker": null
+  },
+  {
+    "start": 27.6,
+    "end": 29.76,
+    "text": "it would have no use at all.",
+    "speaker": null
+  },
+  {
+    "start": 30,
+    "end": 30.8,
+    "text": "What is it?",
+    "speaker": null
+  },
+  {
+    "start": 30.8,
+    "end": 32.159,
+    "text": "I haven’t got a clue!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 32.159,
+    "end": 33.679,
+    "text": "OK, how about this?",
+    "speaker": null
+  },
+  {
+    "start": 36.079,
+    "end": 38.079,
+    "text": "Money!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 38.079,
+    "end": 38.88,
+    "text": "Yep.",
+    "speaker": null
+  },
+  {
+    "start": 38.88,
+    "end": 40.399,
+    "text": "And not just any money,",
+    "speaker": null
+  },
+  {
+    "start": 40.399,
+    "end": 43.039,
+    "text": "Yep! And not just any money, we’re talking about crypto-currency.",
+    "speaker": "currency"
+  },
+  {
+    "start": 43.039,
+    "end": 45.439,
+    "text": "Currency is the money that's being used",
+    "speaker": null
+  },
+  {
+    "start": 45.439,
+    "end": 47.679,
+    "text": "in a given country at a certain time.",
+    "speaker": null
+  },
+  {
+    "start": 47.679,
+    "end": 49.6,
+    "text": "But what about the crypto part?",
+    "speaker": null
+  },
+  {
+    "start": 49.6,
+    "end": 53.519,
+    "text": "Well, crypto is a prefix, meaning hidden or secret.",
+    "speaker": null
+  },
+  {
+    "start": 53.519,
+    "end": 55.12,
+    "text": "It comes from the word cryptic,",
+    "speaker": null
+  },
+  {
+    "start": 55.12,
+    "end": 58.64,
+    "text": "which means mysterious or difficult to understand.",
+    "speaker": null
+  },
+  {
+    "start": 58.719,
+    "end": 61.439,
+    "text": "You may have heard about the most popular cryptocurrency",
+    "speaker": null
+  },
+  {
+    "start": 61.439,
+    "end": 63.679,
+    "text": "at the moment, the Bitcoin.",
+    "speaker": null
+  },
+  {
+    "start": 63.679,
+    "end": 65.359,
+    "text": "Well I’ve certainly heard the name, but I can’t say I know what it is.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 65.359,
+    "end": 67.28,
+    "text": "but I can't say I know what it is.",
+    "speaker": null
+  },
+  {
+    "start": 67.28,
+    "end": 69.28,
+    "text": "First, our quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 69.28,
+    "end": 72.96,
+    "text": "First our quiz question. When was the Bitcoin crypto-currency first created?",
+    "speaker": "Dan"
+  },
+  {
+    "start": 72.96,
+    "end": 78.319,
+    "text": "Is it A 2004, B 2009, or C 2013?",
+    "speaker": null
+  },
+  {
+    "start": 78.319,
+    "end": 81.519,
+    "text": "Well, I think 2004 may have been a little early,",
+    "speaker": null
+  },
+  {
+    "start": 81.519,
+    "end": 84.719,
+    "text": "and I think 2013 could be a little late,",
+    "speaker": null
+  },
+  {
+    "start": 84.719,
+    "end": 87.2,
+    "text": "so the smart money's on 2009.",
+    "speaker": null
+  },
+  {
+    "start": 87.2,
+    "end": 90,
+    "text": "We'll see if you'll write later on in the show.",
+    "speaker": null
+  },
+  {
+    "start": 90,
+    "end": 92.879,
+    "text": "So, Bitcoin, what do you know about it?",
+    "speaker": null
+  },
+  {
+    "start": 92.879,
+    "end": 94.96,
+    "text": "Well, I know it's a digital currency,",
+    "speaker": null
+  },
+  {
+    "start": 94.96,
+    "end": 97.92,
+    "text": "Well, I know it’s a digital currency…so presumably you can use it online to buy things?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 97.92,
+    "end": 102.32,
+    "text": "You are right on the money, which means correct, both times.",
+    "speaker": null
+  },
+  {
+    "start": 102.32,
+    "end": 106.64,
+    "text": "Bitcoin is just like any other currency, except for two things.",
+    "speaker": null
+  },
+  {
+    "start": 106.64,
+    "end": 109.76,
+    "text": "First, it's not printed by governments or banks,",
+    "speaker": null
+  },
+  {
+    "start": 109.76,
+    "end": 112.96,
+    "text": "which means that it's not legal tender.",
+    "speaker": null
+  },
+  {
+    "start": 112.96,
+    "end": 115.28,
+    "text": "Legal tender means the official money",
+    "speaker": null
+  },
+  {
+    "start": 115.28,
+    "end": 117.2,
+    "text": "that can be used within a country.",
+    "speaker": null
+  },
+  {
+    "start": 117.2,
+    "end": 120.719,
+    "text": "So that means we can't use it to pay taxes or settle debts, right?",
+    "speaker": null
+  },
+  {
+    "start": 120.719,
+    "end": 122,
+    "text": "Exactly.",
+    "speaker": null
+  },
+  {
+    "start": 122,
+    "end": 124.799,
+    "text": "Governments won't recognize it as an official currency,",
+    "speaker": null
+  },
+  {
+    "start": 124.799,
+    "end": 127.439,
+    "text": "although it acts just like one.",
+    "speaker": null
+  },
+  {
+    "start": 127.439,
+    "end": 130.4,
+    "text": "You can use it to buy items from anyone who will accept it",
+    "speaker": null
+  },
+  {
+    "start": 130.4,
+    "end": 133.12,
+    "text": "and its value fluctuates.",
+    "speaker": null
+  },
+  {
+    "start": 133.12,
+    "end": 135.84,
+    "text": "Fluxuates means changes in level or amount.",
+    "speaker": null
+  },
+  {
+    "start": 136.56,
+    "end": 138,
+    "text": "And what's the second thing?",
+    "speaker": null
+  },
+  {
+    "start": 138,
+    "end": 142.08,
+    "text": "Ah, the second thing is that Bitcoin is a digital currency,",
+    "speaker": null
+  },
+  {
+    "start": 142.16,
+    "end": 145.36,
+    "text": "meaning that with the exception of a few tokens,",
+    "speaker": null
+  },
+  {
+    "start": 145.36,
+    "end": 148.8,
+    "text": "it largely exists online only.",
+    "speaker": null
+  },
+  {
+    "start": 148.8,
+    "end": 152.16,
+    "text": "You can't carry a load of Bitcoins around in your pocket.",
+    "speaker": null
+  },
+  {
+    "start": 152.16,
+    "end": 154.8,
+    "text": "Well, that makes a nice change.",
+    "speaker": null
+  },
+  {
+    "start": 154.8,
+    "end": 156.08,
+    "text": "Oh, dear Neil.",
+    "speaker": null
+  },
+  {
+    "start": 156.08,
+    "end": 157.68,
+    "text": "Was that a money pun?",
+    "speaker": null
+  },
+  {
+    "start": 157.68,
+    "end": 158.24,
+    "text": "Terrible.",
+    "speaker": null
+  },
+  {
+    "start": 158.88,
+    "end": 163.28,
+    "text": "So, if it's a digital only currency, where do new ones come from?",
+    "speaker": null
+  },
+  {
+    "start": 163.28,
+    "end": 166.56,
+    "text": "So if it’s a digital only currency, where do new ones come from? Can’t I just say that I’ve got a million of them and make myself rich!?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 166.56,
+    "end": 167.68,
+    "text": "Well, no.",
+    "speaker": null
+  },
+  {
+    "start": 167.68,
+    "end": 171.76,
+    "text": "You see, even though Bitcoin is not regulated by a bank or government,",
+    "speaker": null
+  },
+  {
+    "start": 171.759,
+    "end": 175.439,
+    "text": "it still has a process that stops people from cheating.",
+    "speaker": null
+  },
+  {
+    "start": 175.439,
+    "end": 177.84,
+    "text": "There are only two ways to get Bitcoins.",
+    "speaker": null
+  },
+  {
+    "start": 177.84,
+    "end": 181.12,
+    "text": "You either trade them from someone or you go mining.",
+    "speaker": null
+  },
+  {
+    "start": 181.12,
+    "end": 183.359,
+    "text": "Ah, wait, I've heard about this.",
+    "speaker": null
+  },
+  {
+    "start": 183.359,
+    "end": 186.399,
+    "text": "This is when you use your computer to run calculations",
+    "speaker": null
+  },
+  {
+    "start": 186.399,
+    "end": 189.359,
+    "text": "which verify other Bitcoin transactions.",
+    "speaker": null
+  },
+  {
+    "start": 189.359,
+    "end": 192.719,
+    "text": "You get rewarded for this work by earning Bitcoins.",
+    "speaker": null
+  },
+  {
+    "start": 192.719,
+    "end": 194.799,
+    "text": "Yep, it's money for old rope,",
+    "speaker": null
+  },
+  {
+    "start": 194.799,
+    "end": 197.28,
+    "text": "Yep! It’s money for old rope, which means it’s an easy way to earn money.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 197.28,
+    "end": 199.759,
+    "text": "Wow! I’m going to start mining immediately!",
+    "speaker": "Neil"
+  },
+  {
+    "start": 199.759,
+    "end": 201.359,
+    "text": "Well, you wouldn't be the only one.",
+    "speaker": null
+  },
+  {
+    "start": 202.159,
+    "end": 205.439,
+    "text": "Bitcoins' value has recently gone up quite a lot",
+    "speaker": null
+  },
+  {
+    "start": 205.439,
+    "end": 208,
+    "text": "and this has caused a lot of interest.",
+    "speaker": null
+  },
+  {
+    "start": 208,
+    "end": 212.399,
+    "text": "In fact, one stock exchange in Chicago has begun trading",
+    "speaker": null
+  },
+  {
+    "start": 212.399,
+    "end": 214.479,
+    "text": "in Bitcoin futures contracts.",
+    "speaker": null
+  },
+  {
+    "start": 214.479,
+    "end": 215.759,
+    "text": "A futures contract? What’s that?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 215.759,
+    "end": 216.639,
+    "text": "What's that?",
+    "speaker": null
+  },
+  {
+    "start": 216.639,
+    "end": 221.039,
+    "text": "I'll let BBC correspondent Rory Ketlin-Jones explain that.",
+    "speaker": null
+  },
+  {
+    "start": 221.039,
+    "end": 225.439,
+    "text": "The futures contract, a bet on where the currency will be a month from now,",
+    "speaker": null
+  },
+  {
+    "start": 225.439,
+    "end": 228,
+    "text": "soared above $18,000.",
+    "speaker": null
+  },
+  {
+    "start": 228,
+    "end": 230,
+    "text": "That means investors believe Bitcoin,",
+    "speaker": null
+  },
+  {
+    "start": 230,
+    "end": 232.96,
+    "text": "which started the year worth under $1,000,",
+    "speaker": null
+  },
+  {
+    "start": 232.96,
+    "end": 237.28,
+    "text": "will continue to rise in value, albeit at a slower rate.",
+    "speaker": null
+  },
+  {
+    "start": 237.28,
+    "end": 240.4,
+    "text": "But at the big banks, there's still plenty of skepticism",
+    "speaker": null
+  },
+  {
+    "start": 240.4,
+    "end": 241.359,
+    "text": "about the currency.",
+    "speaker": null
+  },
+  {
+    "start": 242.479,
+    "end": 245.919,
+    "text": "Soared in this context means increased very quickly.",
+    "speaker": null
+  },
+  {
+    "start": 245.919,
+    "end": 250.079,
+    "text": "Soared in this context means increased very quickly. So, now big investors are betting on the value of Bitcoin in the future.",
+    "speaker": "Soared"
+  },
+  {
+    "start": 250.079,
+    "end": 254.24,
+    "text": "Yes, but he also mentioned that the banks have a lot of skepticism.",
+    "speaker": null
+  },
+  {
+    "start": 254.32,
+    "end": 257.199,
+    "text": "That's a doubt that something is real or true.",
+    "speaker": null
+  },
+  {
+    "start": 257.199,
+    "end": 260.24,
+    "text": "In this case, whether Bitcoin is reliable or not.",
+    "speaker": null
+  },
+  {
+    "start": 260.24,
+    "end": 262.639,
+    "text": "Maybe it's best I don't get involved then.",
+    "speaker": null
+  },
+  {
+    "start": 262.639,
+    "end": 265.519,
+    "text": "Maybe it’s best I don’t get involved then. After all, a fool and his money are soon parted.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 265.519,
+    "end": 268.48,
+    "text": "Well, you don't have to be skeptical about the answer to our quiz.",
+    "speaker": null
+  },
+  {
+    "start": 268.48,
+    "end": 270.319,
+    "text": "We know that for a fact.",
+    "speaker": null
+  },
+  {
+    "start": 270.319,
+    "end": 273.92,
+    "text": "I asked you when the Bitcoin cryptocurrency was first created.",
+    "speaker": null
+  },
+  {
+    "start": 273.92,
+    "end": 277.92,
+    "text": "A 2004, B 2009 or C 2013.",
+    "speaker": null
+  },
+  {
+    "start": 277.92,
+    "end": 279.68,
+    "text": "And I said 2009.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 279.68,
+    "end": 280.96,
+    "text": "And you were right.",
+    "speaker": null
+  },
+  {
+    "start": 280.96,
+    "end": 281.759,
+    "text": "Well done.",
+    "speaker": null
+  },
+  {
+    "start": 281.759,
+    "end": 283.6,
+    "text": "And you were right! Well done. Shall we go over the vocabulary again?",
+    "speaker": "Dan"
+  },
+  {
+    "start": 283.68,
+    "end": 285.04,
+    "text": "First, we had currency.",
+    "speaker": null
+  },
+  {
+    "start": 285.6,
+    "end": 288.8,
+    "text": "That's the money being used in a given country at a certain time.",
+    "speaker": null
+  },
+  {
+    "start": 288.8,
+    "end": 291.2,
+    "text": "Name three currencies and their countries, Dan.",
+    "speaker": null
+  },
+  {
+    "start": 291.2,
+    "end": 292,
+    "text": "OK.",
+    "speaker": null
+  },
+  {
+    "start": 292,
+    "end": 293.6,
+    "text": "But for Thailand,",
+    "speaker": null
+  },
+  {
+    "start": 293.6,
+    "end": 297.439,
+    "text": "Rupi for India, and my favourite, Metacal for Mozambique.",
+    "speaker": null
+  },
+  {
+    "start": 298.24,
+    "end": 299.76,
+    "text": "Next, we had cryptic.",
+    "speaker": null
+  },
+  {
+    "start": 299.76,
+    "end": 303.68,
+    "text": "Something which is cryptic is mysterious or difficult to understand.",
+    "speaker": null
+  },
+  {
+    "start": 303.68,
+    "end": 306.48,
+    "text": "For example, what do rich people need?",
+    "speaker": null
+  },
+  {
+    "start": 306.48,
+    "end": 307.36,
+    "text": "Poor people have.",
+    "speaker": null
+  },
+  {
+    "start": 307.36,
+    "end": 309.28,
+    "text": "And if you eat it, you die.",
+    "speaker": null
+  },
+  {
+    "start": 309.28,
+    "end": 311.36,
+    "text": "Hmm, a cryptic riddle indeed.",
+    "speaker": null
+  },
+  {
+    "start": 311.36,
+    "end": 312.48,
+    "text": "I'll have to think about that.",
+    "speaker": null
+  },
+  {
+    "start": 313.04,
+    "end": 314.96,
+    "text": "Then we had legal tender.",
+    "speaker": null
+  },
+  {
+    "start": 314.96,
+    "end": 317.68,
+    "text": "That's the official money that can be used within a country.",
+    "speaker": null
+  },
+  {
+    "start": 317.68,
+    "end": 320.64,
+    "text": "The euro is legal tender within Spain.",
+    "speaker": null
+  },
+  {
+    "start": 320.64,
+    "end": 323.2,
+    "text": "But what was the legal tender before that?",
+    "speaker": null
+  },
+  {
+    "start": 323.2,
+    "end": 324.72,
+    "text": "Wasn't it the per seater?",
+    "speaker": null
+  },
+  {
+    "start": 325.84,
+    "end": 327.52,
+    "text": "Then we had fluctuates.",
+    "speaker": null
+  },
+  {
+    "start": 327.52,
+    "end": 330.879,
+    "text": "If something fluctuates, it changes in amount or level.",
+    "speaker": null
+  },
+  {
+    "start": 330.879,
+    "end": 332.8,
+    "text": "The stock market fluctuates.",
+    "speaker": null
+  },
+  {
+    "start": 332.8,
+    "end": 335.2,
+    "text": "But my love for my family never does.",
+    "speaker": null
+  },
+  {
+    "start": 336,
+    "end": 339.439,
+    "text": "Then we had sword, which means increased very quickly.",
+    "speaker": null
+  },
+  {
+    "start": 339.439,
+    "end": 341.68,
+    "text": "It's used with this meaning in the context of money,",
+    "speaker": null
+  },
+  {
+    "start": 341.759,
+    "end": 343.12,
+    "text": "prices and statistics.",
+    "speaker": null
+  },
+  {
+    "start": 343.759,
+    "end": 345.84,
+    "text": "Finally, we had skepticism.",
+    "speaker": null
+  },
+  {
+    "start": 345.84,
+    "end": 349.28,
+    "text": "Skepticism is doubt that something is real or true.",
+    "speaker": null
+  },
+  {
+    "start": 350,
+    "end": 352.4,
+    "text": "What sort of things are people skeptical about, Neil?",
+    "speaker": null
+  },
+  {
+    "start": 353.04,
+    "end": 355.519,
+    "text": "Some people think that human activity",
+    "speaker": null
+  },
+  {
+    "start": 355.519,
+    "end": 357.759,
+    "text": "hasn't caused climate change.",
+    "speaker": null
+  },
+  {
+    "start": 357.759,
+    "end": 359.28,
+    "text": "They are skeptical.",
+    "speaker": null
+  },
+  {
+    "start": 359.28,
+    "end": 362,
+    "text": "And that brings us to the end of today's six-minute English.",
+    "speaker": null
+  },
+  {
+    "start": 362.56,
+    "end": 366.72,
+    "text": "Don't forget to check out our YouTube, Facebook, Twitter and Instagram pages.",
+    "speaker": null
+  },
+  {
+    "start": 366.72,
+    "end": 368.24,
+    "text": "And we'll see you next time.",
+    "speaker": null
+  },
+  {
+    "start": 368.24,
+    "end": 369.04,
+    "text": "Goodbye",
+    "speaker": "Neil"
+  },
+  {
+    "start": 369.04,
+    "end": 369.68,
+    "text": "Goodbye.",
+    "speaker": null
+  },
+  {
+    "start": 371.68,
+    "end": 375.439,
+    "text": "English from BBCLearningEnglish.com",
+    "speaker": null
+  }
+]

@@ -29,6 +29,7 @@
     "@supabase/supabase-js": "^2.50.0",
     "axios": "^1.10.0",
     "cheerio": "^1.1.0",
+    "fuzzball": "^2.2.2",
     "pg": "^8.16.2",
     "reflect-metadata": "^0.2.2",
     "rxjs": "^7.8.1",

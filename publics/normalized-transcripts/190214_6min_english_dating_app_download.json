@@ -1,0 +1,650 @@
+[
+  {
+    "start": 0,
+    "end": 3.12,
+    "text": "This is a download from BBC Learning English.",
+    "speaker": null
+  },
+  {
+    "start": 3.12,
+    "end": 5.679,
+    "text": "To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 5.679,
+    "end": 8.24,
+    "text": "6 Minute English",
+    "speaker": null
+  },
+  {
+    "start": 8.24,
+    "end": 10.88,
+    "text": "from BBCLearningEnglish.com",
+    "speaker": null
+  },
+  {
+    "start": 12.72,
+    "end": 15.359,
+    "text": "Hello. And welcome to 6 Minute English. I'm Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 15.359,
+    "end": 16.399,
+    "text": "And I'm Dan.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 16.399,
+    "end": 19.359,
+    "text": "Now then, Dan, what do you think of dating apps?",
+    "speaker": null
+  },
+  {
+    "start": 19.359,
+    "end": 23.199,
+    "text": "Now then, Dan. What do you think of dating apps - you know, apps on your phone that help you find a romantic partner?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 23.199,
+    "end": 25.92,
+    "text": "I can't say I've ever used them myself. How about you?",
+    "speaker": "Dan"
+  },
+  {
+    "start": 25.92,
+    "end": 27.28,
+    "text": "How about you?",
+    "speaker": null
+  },
+  {
+    "start": 27.28,
+    "end": 29.76,
+    "text": "Neither have I, but I've got friends who have, very successfully. Lots of weddings.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 29.839,
+    "end": 30.64,
+    "text": "very successfully.",
+    "speaker": null
+  },
+  {
+    "start": 31.44,
+    "end": 32.56,
+    "text": "Lots of weddings.",
+    "speaker": null
+  },
+  {
+    "start": 32.56,
+    "end": 33.2,
+    "text": "Great!",
+    "speaker": "Dan"
+  },
+  {
+    "start": 34.24,
+    "end": 39.28,
+    "text": "Now research shows that fewer than 5% of people who have used dating apps",
+    "speaker": null
+  },
+  {
+    "start": 39.28,
+    "end": 42.88,
+    "text": "actually go out on a date with someone they've met through them.",
+    "speaker": null
+  },
+  {
+    "start": 43.439,
+    "end": 47.04,
+    "text": "We'll find out the reasons for this shortly, but first a question.",
+    "speaker": null
+  },
+  {
+    "start": 47.04,
+    "end": 50.96,
+    "text": "Even though dating apps are not used as much as we might think,",
+    "speaker": null
+  },
+  {
+    "start": 50.96,
+    "end": 53.04,
+    "text": "they are still big business.",
+    "speaker": null
+  },
+  {
+    "start": 53.04,
+    "end": 54.64,
+    "text": "But do you know how big?",
+    "speaker": null
+  },
+  {
+    "start": 54.64,
+    "end": 58.16,
+    "text": "Around the world last year, how much was spent on them?",
+    "speaker": null
+  },
+  {
+    "start": 58.239,
+    "end": 61.039,
+    "text": "a) less than half a billion dollars",
+    "speaker": "Neil"
+  },
+  {
+    "start": 61.759,
+    "end": 66.879,
+    "text": "b) between half a billion and a billion dollars, or",
+    "speaker": "Neil"
+  },
+  {
+    "start": 66.879,
+    "end": 68.319,
+    "text": "Any ideas, Dan?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 68.319,
+    "end": 74.4,
+    "text": "Well, this is purely a guess, but let’s say over a billion dollars.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 74.4,
+    "end": 76.719,
+    "text": "Well, we'll have the answer at the end of the programme.",
+    "speaker": null
+  },
+  {
+    "start": 77.28,
+    "end": 82.239,
+    "text": "Elizabeth Tiniman's is a researcher who studied the use of a particular dating app.",
+    "speaker": null
+  },
+  {
+    "start": 82.239,
+    "end": 86.64,
+    "text": "She spoke on the BBC's You and Yours Radio programme on Radio 4.",
+    "speaker": null
+  },
+  {
+    "start": 87.359,
+    "end": 91.04,
+    "text": "Her study confirmed that comparatively few people who used the app",
+    "speaker": null
+  },
+  {
+    "start": 91.04,
+    "end": 93.2,
+    "text": "used it to arrange to meet up with someone.",
+    "speaker": null
+  },
+  {
+    "start": 93.84,
+    "end": 96.719,
+    "text": "She talked about the people's motives for using the app.",
+    "speaker": null
+  },
+  {
+    "start": 97.359,
+    "end": 99.599,
+    "text": "Motives is a word which means reasons.",
+    "speaker": null
+  },
+  {
+    "start": 100.4,
+    "end": 102.079,
+    "text": "So what were those motives?",
+    "speaker": null
+  },
+  {
+    "start": 103.92,
+    "end": 108.719,
+    "text": "We found from all the people that we surveyed that only slightly more than half of them",
+    "speaker": null
+  },
+  {
+    "start": 108.719,
+    "end": 110.64,
+    "text": "actually met up with someone.",
+    "speaker": null
+  },
+  {
+    "start": 110.64,
+    "end": 115.68,
+    "text": "So it doesn't look like a lot of people are using it to meet up,",
+    "speaker": null
+  },
+  {
+    "start": 115.68,
+    "end": 120.72,
+    "text": "but it makes sense because we also looked at why they were using a dating app.",
+    "speaker": null
+  },
+  {
+    "start": 120.72,
+    "end": 126.96,
+    "text": "And the most popular and most common motives were using it out of curiosity",
+    "speaker": null
+  },
+  {
+    "start": 126.96,
+    "end": 131.52,
+    "text": "and using it to pass time or entertainment.",
+    "speaker": null
+  },
+  {
+    "start": 131.52,
+    "end": 136.8,
+    "text": "So they're not actively using these dating apps to meet people.",
+    "speaker": null
+  },
+  {
+    "start": 136.8,
+    "end": 141.84,
+    "text": "Like swiping with friends is something that happens fairly often, especially among millennials.",
+    "speaker": null
+  },
+  {
+    "start": 142.8,
+    "end": 148.24,
+    "text": "Tiniman said that people used the app to pass the time and simply for entertainment.",
+    "speaker": null
+  },
+  {
+    "start": 148.24,
+    "end": 150.96,
+    "text": "What other motives did she mention, Dad?",
+    "speaker": null
+  },
+  {
+    "start": 150.96,
+    "end": 154.8,
+    "text": "Well, she said that people used it out of curiosity.",
+    "speaker": null
+  },
+  {
+    "start": 154.8,
+    "end": 161.039,
+    "text": "If you do something out of curiosity, you're just interested in seeing what it is and what it does.",
+    "speaker": null
+  },
+  {
+    "start": 161.039,
+    "end": 165.599,
+    "text": "Maybe you've heard about something and although you don't want to actually try it,",
+    "speaker": null
+  },
+  {
+    "start": 165.599,
+    "end": 168.64,
+    "text": "you do want to see what it's all about.",
+    "speaker": null
+  },
+  {
+    "start": 169.199,
+    "end": 173.199,
+    "text": "For example, when I was traveling once out of curiosity,",
+    "speaker": null
+  },
+  {
+    "start": 173.199,
+    "end": 177.759,
+    "text": "I went to see people bungee jumping, but it was never something I was going to do myself.",
+    "speaker": null
+  },
+  {
+    "start": 178.319,
+    "end": 181.599,
+    "text": "What's the lack of actual dating through the dating app?",
+    "speaker": null
+  },
+  {
+    "start": 181.599,
+    "end": 182.799,
+    "text": "A surprise?",
+    "speaker": null
+  },
+  {
+    "start": 182.799,
+    "end": 187.759,
+    "text": "No, she said that because they looked at the motives, the result makes sense. When something makes sense, it’s understandable, it’s not surprising.",
+    "speaker": "motivesmakes sensemakes sense"
+  },
+  {
+    "start": 188.479,
+    "end": 191.519,
+    "text": "When something makes sense, it's understandable.",
+    "speaker": null
+  },
+  {
+    "start": 191.519,
+    "end": 192.719,
+    "text": "It's not surprising.",
+    "speaker": null
+  },
+  {
+    "start": 193.68,
+    "end": 198.56,
+    "text": "There is another view as to why people are not using dating apps for actual dating.",
+    "speaker": null
+  },
+  {
+    "start": 199.439,
+    "end": 202.719,
+    "text": "This is Zoe Strympel, who is a dating historian.",
+    "speaker": null
+  },
+  {
+    "start": 203.28,
+    "end": 208,
+    "text": "She argues that because there is so much choice and so many opportunities to find a partner",
+    "speaker": null
+  },
+  {
+    "start": 208,
+    "end": 212.96,
+    "text": "through an app, it can make the dating process unpleasant and people get tired of it.",
+    "speaker": null
+  },
+  {
+    "start": 214.639,
+    "end": 216,
+    "text": "People are being horribly disillusioned.",
+    "speaker": null
+  },
+  {
+    "start": 216,
+    "end": 218.8,
+    "text": "I think people have also started to feel jaded.",
+    "speaker": null
+  },
+  {
+    "start": 218.8,
+    "end": 222.4,
+    "text": "People are feeling that they're aware that these relationships are often very callous,",
+    "speaker": null
+  },
+  {
+    "start": 222.4,
+    "end": 225.2,
+    "text": "and that's to do with the sort of incredible sense of choice.",
+    "speaker": null
+  },
+  {
+    "start": 226.48,
+    "end": 229.76,
+    "text": "She says that people feel disillusioned and jaded. What does she mean?",
+    "speaker": "disillusionedjaded."
+  },
+  {
+    "start": 230.4,
+    "end": 231.36,
+    "text": "What does she mean?",
+    "speaker": null
+  },
+  {
+    "start": 232,
+    "end": 236.4,
+    "text": "When you're disillusioned, it means you are happy with and disappointed by something,",
+    "speaker": null
+  },
+  {
+    "start": 236.4,
+    "end": 240.879,
+    "text": "because it isn't as good as it used to be, or it's not as good as you thought it was going to be.",
+    "speaker": null
+  },
+  {
+    "start": 241.599,
+    "end": 247.599,
+    "text": "If you have many experiences like that, you become jaded, which means you become bored and lose",
+    "speaker": null
+  },
+  {
+    "start": 247.599,
+    "end": 252.879,
+    "text": "She also commented that the dating experience can be callous.",
+    "speaker": "callous"
+  },
+  {
+    "start": 253.519,
+    "end": 259.04,
+    "text": "This means that emotionally it can be very tough and you have to be ready to accept rejection or to reject people yourself and this is not always done in the kindest way.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 259.04,
+    "end": 261.36,
+    "text": "or to reject people yourself.",
+    "speaker": null
+  },
+  {
+    "start": 261.92,
+    "end": 264.879,
+    "text": "And this is not always done in the kindest way.",
+    "speaker": null
+  },
+  {
+    "start": 265.199,
+    "end": 266.719,
+    "text": "Here's Zoe Strympel again.",
+    "speaker": null
+  },
+  {
+    "start": 268.319,
+    "end": 269.68,
+    "text": "People are being horribly disillusioned.",
+    "speaker": null
+  },
+  {
+    "start": 269.68,
+    "end": 272.399,
+    "text": "I think people have also started to feel jaded.",
+    "speaker": null
+  },
+  {
+    "start": 272.399,
+    "end": 276,
+    "text": "People are feeling that they're aware that these relationships are often very callous,",
+    "speaker": null
+  },
+  {
+    "start": 276.16,
+    "end": 278.8,
+    "text": "and that's to do with the sort of incredible sense of choice.",
+    "speaker": null
+  },
+  {
+    "start": 280,
+    "end": 282.319,
+    "text": "Okay, time to review today's vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 282.319,
+    "end": 285.6,
+    "text": "But first, let's have the answer to that quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 285.6,
+    "end": 288.639,
+    "text": "I asked how much was spent on dating apps last year?",
+    "speaker": null
+  },
+  {
+    "start": 288.639,
+    "end": 291.68,
+    "text": "a) less than half a billion dollars",
+    "speaker": "Neil"
+  },
+  {
+    "start": 291.68,
+    "end": 294.639,
+    "text": "b) between half a billion and a billion dollars, or",
+    "speaker": "Neil"
+  },
+  {
+    "start": 294.639,
+    "end": 296.56,
+    "text": "c) over a billion dollars?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 296.56,
+    "end": 297.519,
+    "text": "Dan, you said?",
+    "speaker": "Neil"
+  },
+  {
+    "start": 297.519,
+    "end": 300.24,
+    "text": "I said c) over a billion dollars.",
+    "speaker": "Dan"
+  },
+  {
+    "start": 300.24,
+    "end": 304.079,
+    "text": "Well, the total was just under 600 million dollars,",
+    "speaker": null
+  },
+  {
+    "start": 304.079,
+    "end": 308.639,
+    "text": "so the correct answer was B between half a billion and a billion dollars.",
+    "speaker": null
+  },
+  {
+    "start": 308.639,
+    "end": 310.159,
+    "text": "Good guess if you got that one right.",
+    "speaker": null
+  },
+  {
+    "start": 310.959,
+    "end": 313.759,
+    "text": "Right, now it's time to recap today's vocabulary.",
+    "speaker": null
+  },
+  {
+    "start": 313.759,
+    "end": 316.24,
+    "text": "Our first word was motives.",
+    "speaker": null
+  },
+  {
+    "start": 316.24,
+    "end": 318.879,
+    "text": "A motive is your reason for doing something.",
+    "speaker": null
+  },
+  {
+    "start": 318.879,
+    "end": 323.519,
+    "text": "If something makes sense, it's not a surprise, and you can understand it.",
+    "speaker": null
+  },
+  {
+    "start": 323.519,
+    "end": 326.24,
+    "text": "The next phrase was out of curiosity.",
+    "speaker": null
+  },
+  {
+    "start": 326.24,
+    "end": 328.879,
+    "text": "This is when you do something for no particular reason,",
+    "speaker": null
+  },
+  {
+    "start": 328.879,
+    "end": 331.919,
+    "text": "other than you are interested in seeing it or trying it.",
+    "speaker": null
+  },
+  {
+    "start": 331.919,
+    "end": 333.759,
+    "text": "Then we had disillusioned.",
+    "speaker": null
+  },
+  {
+    "start": 333.839,
+    "end": 337.68,
+    "text": "This is a feeling you get when something isn't as good as it used to be",
+    "speaker": null
+  },
+  {
+    "start": 337.68,
+    "end": 341.92,
+    "text": "or as good as you expected it to be, and you become disappointed by it.",
+    "speaker": null
+  },
+  {
+    "start": 341.92,
+    "end": 344.639,
+    "text": "And that can lead to your being jaded,",
+    "speaker": null
+  },
+  {
+    "start": 344.639,
+    "end": 347.92,
+    "text": "which is a feeling of dissatisfaction and boredom with something",
+    "speaker": null
+  },
+  {
+    "start": 347.92,
+    "end": 349.759,
+    "text": "that's been going on for a while.",
+    "speaker": null
+  },
+  {
+    "start": 349.759,
+    "end": 353.599,
+    "text": "And finally, there was callus, an adjective which means",
+    "speaker": null
+  },
+  {
+    "start": 353.599,
+    "end": 355.759,
+    "text": "uncaring and cold-hearted.",
+    "speaker": null
+  },
+  {
+    "start": 355.759,
+    "end": 358.48,
+    "text": "Well, I hope you aren't disillusioned with six-minute English,",
+    "speaker": null
+  },
+  {
+    "start": 358.48,
+    "end": 360.24,
+    "text": "and we'll join us again next time.",
+    "speaker": null
+  },
+  {
+    "start": 360.24,
+    "end": 363.68,
+    "text": "In the meantime, find BBCLearningEnglish.com online",
+    "speaker": null
+  },
+  {
+    "start": 363.68,
+    "end": 366.72,
+    "text": "and on social media and on our own app.",
+    "speaker": null
+  },
+  {
+    "start": 366.72,
+    "end": 369.28,
+    "text": "And before you ask, it's not a dating app.",
+    "speaker": null
+  },
+  {
+    "start": 369.28,
+    "end": 370.72,
+    "text": "Bye for now. Bye-bye.",
+    "speaker": null
+  }
+]

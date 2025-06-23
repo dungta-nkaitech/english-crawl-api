@@ -1,0 +1,410 @@
+[
+  {
+    "start": 0,
+    "end": 5.44,
+    "text": "This is a download from BBC Learning English. To find out more, visit our website.",
+    "speaker": null
+  },
+  {
+    "start": 12.64,
+    "end": 16.64,
+    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 16.64,
+    "end": 18.08,
+    "text": "And I’m Georgina.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 18.08,
+    "end": 23.44,
+    "text": "Covid-19 has changed everyday life for people in countries around the world.",
+    "speaker": null
+  },
+  {
+    "start": 23.44,
+    "end": 28.96,
+    "text": "Covid-19 has changed everyday life for people in countries around the world. But coronavirus wasn’t the first pandemic to cause mass sickness and disrupt daily life.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 28.96,
+    "end": 34.48,
+    "text": "Between 2002 and 2004, an outbreak of the disease known as SARS,",
+    "speaker": null
+  },
+  {
+    "start": 34.48,
+    "end": 40.16,
+    "text": "or severe acute respiratory syndrome, caused hundreds of deaths in southern China",
+    "speaker": null
+  },
+  {
+    "start": 40.16,
+    "end": 42.64,
+    "text": "before spreading to other parts of the world.",
+    "speaker": null
+  },
+  {
+    "start": 43.28,
+    "end": 47.2,
+    "text": "The virus that caused SARS survived by mutating,",
+    "speaker": null
+  },
+  {
+    "start": 47.2,
+    "end": 51.359,
+    "text": "changing as it reproduced itself in the bodies of infected people.",
+    "speaker": null
+  },
+  {
+    "start": 51.359,
+    "end": 56.159,
+    "text": "And this caused the virus to create strains, slight variations of the original.",
+    "speaker": null
+  },
+  {
+    "start": 56.719,
+    "end": 63.439,
+    "text": "Covid-19, the disease caused by the strain of the original SARS virus we are experiencing now, has been called SARS 2.",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 63.439,
+    "end": 65.359,
+    "text": "has been called SARS-2.",
+    "speaker": null
+  },
+  {
+    "start": 66.079,
+    "end": 69.84,
+    "text": "In this programme, we'll be looking at the origins of Covid-19,",
+    "speaker": null
+  },
+  {
+    "start": 69.84,
+    "end": 74.239,
+    "text": "and hearing new evidence about the scale of the threat we face from the disease.",
+    "speaker": null
+  },
+  {
+    "start": 74.239,
+    "end": 77.679,
+    "text": "And of course, we'll be learning some new vocabulary as well.",
+    "speaker": null
+  },
+  {
+    "start": 77.679,
+    "end": 80.159,
+    "text": "But first, it's time for our quiz question.",
+    "speaker": null
+  },
+  {
+    "start": 80.719,
+    "end": 85.679,
+    "text": "We know that white blood cells make up part of the immune system our body needs to fight",
+    "speaker": null
+  },
+  {
+    "start": 85.68,
+    "end": 91.92,
+    "text": "infectious diseases like Covid-19, but how many white blood cells per microleiter does the",
+    "speaker": null
+  },
+  {
+    "start": 91.92,
+    "end": 100.24,
+    "text": "average adult human need? Is it A, 7000, B, 17000, or C, 70000?",
+    "speaker": null
+  },
+  {
+    "start": 100.24,
+    "end": 106.32,
+    "text": "Hmm, in that case, I'd say more is better, so C, 70,000.",
+    "speaker": null
+  },
+  {
+    "start": 106.32,
+    "end": 109.2,
+    "text": "Okay, we'll find out the answer at the end of the programme.",
+    "speaker": null
+  },
+  {
+    "start": 109.2,
+    "end": 113.28,
+    "text": "Now, Georgina, you mentioned that the disease spreading across the world today",
+    "speaker": null
+  },
+  {
+    "start": 113.28,
+    "end": 116.56,
+    "text": "wasn't the first Covid-19 type disease.",
+    "speaker": null
+  },
+  {
+    "start": 116.56,
+    "end": 123.28,
+    "text": "That's right. In fact, a recent research project in China has identified over 700 different types",
+    "speaker": null
+  },
+  {
+    "start": 123.28,
+    "end": 129.52,
+    "text": "of coronavirus carried by bats. Some of these virus strains are thought to have already crossed",
+    "speaker": null
+  },
+  {
+    "start": 129.52,
+    "end": 134.4,
+    "text": "over to humans. Dr Peter Dasack of New York's Eco Health Alliance",
+    "speaker": null
+  },
+  {
+    "start": 134.4,
+    "end": 139.68,
+    "text": "thinks that new strains of the virus have the potential to cause future pandemics.",
+    "speaker": null
+  },
+  {
+    "start": 139.68,
+    "end": 145.12,
+    "text": "He spent years in the Chinese countryside looking for the coronavirus that could jump from",
+    "speaker": null
+  },
+  {
+    "start": 145.12,
+    "end": 150.879,
+    "text": "Here he is talking to the BBC World Service programme, Science in Action…",
+    "speaker": "Georgina"
+  },
+  {
+    "start": 151.92,
+    "end": 155.68,
+    "text": "It would have been great to have found the precursor to SARS-2, but what it would have been",
+    "speaker": null
+  },
+  {
+    "start": 155.68,
+    "end": 161.28,
+    "text": "even better is to have found it before SARS-2 emerged and raise the red flag on it and stop the",
+    "speaker": null
+  },
+  {
+    "start": 161.28,
+    "end": 167.12,
+    "text": "outbreak. But we didn't do that. What we were looking for were at the time, our hypothesis was that",
+    "speaker": null
+  },
+  {
+    "start": 167.12,
+    "end": 173.92,
+    "text": "SARS-1, the original SARS virus, which we all thought had disappeared, was still out there in bats",
+    "speaker": null
+  },
+  {
+    "start": 173.92,
+    "end": 179.28,
+    "text": "and that was what we were looking for. So we found a lot of SARS-1 related viruses.",
+    "speaker": null
+  },
+  {
+    "start": 180.159,
+    "end": 186.24,
+    "text": "Covid-19 may have been contained if scientists had known more about the disease as precursor.",
+    "speaker": null
+  },
+  {
+    "start": 186.24,
+    "end": 191.12,
+    "text": "That's a situation which existed before something and led to the development of that thing.",
+    "speaker": null
+  },
+  {
+    "start": 191.68,
+    "end": 195.759,
+    "text": "Here, the precursor of Covid-19 was the original SARS-1.",
+    "speaker": null
+  },
+  {
+    "start": 195.84,
+    "end": 200.56,
+    "text": "Any new cases of the virus would have been a red flag for another outbreak - a symbol of danger and that some action needs to be taken.",
+    "speaker": "red flag"
+  },
+  {
+    "start": 200.56,
+    "end": 206.879,
+    "text": "a symbol of danger that some action needs to be taken. Dr. Dasack believed that some form of SARS",
+    "speaker": null
+  },
+  {
+    "start": 206.879,
+    "end": 213.28,
+    "text": "remained in bats and based his investigations on this hypothesis, an idea which is suggested as a",
+    "speaker": null
+  },
+  {
+    "start": 213.28,
+    "end": 218.799,
+    "text": "possible explanation of something but which has not yet been proved correct. Another scientist",
+    "speaker": null
+  },
+  {
+    "start": 218.799,
+    "end": 223.359,
+    "text": "working to prevent new epidemics is the pathologist Professor Mary Falks.",
+    "speaker": null
+  },
+  {
+    "start": 223.36,
+    "end": 227.84,
+    "text": "The original SARS was treated as a respiratory disease which attacked the lungs.",
+    "speaker": null
+  },
+  {
+    "start": 228.4,
+    "end": 234.24,
+    "text": "But when working with infected patients, Professor Falks noticed that Covid-19 was damaging the",
+    "speaker": null
+  },
+  {
+    "start": 234.24,
+    "end": 241.92,
+    "text": "brain, blood and other organs as well. Clinicians have recognized that a lot of patients that have",
+    "speaker": null
+  },
+  {
+    "start": 241.92,
+    "end": 248.96,
+    "text": "Covid are exhibiting confusion, not necessarily aware of their environment appropriately,",
+    "speaker": null
+  },
+  {
+    "start": 249.04,
+    "end": 255.2,
+    "text": "some are having seizures. So there are some central nervous system abnormalities and as you know,",
+    "speaker": null
+  },
+  {
+    "start": 255.2,
+    "end": 260.96,
+    "text": "a lot of patients are exhibiting loss of sense of smell and that is a direct connection to the",
+    "speaker": null
+  },
+  {
+    "start": 260.96,
+    "end": 267.519,
+    "text": "brain as well. In some infected patients, coronavirus attacks the central nervous system,",
+    "speaker": null
+  },
+  {
+    "start": 267.519,
+    "end": 272.48,
+    "text": "In some infected patients coronavirus attacks the central nervous system - the body’s main system of nerve control consisting of the brain and spinal cord.",
+    "speaker": "central nervous system"
+  },
+  {
+    "start": 272.48,
+    "end": 276.96,
+    "text": "When severe, this can cause seizures, sudden violent attacks of an illness,",
+    "speaker": null
+  },
+  {
+    "start": 276.959,
+    "end": 282.56,
+    "text": "often affecting the heart or brain. It seems that Covid-19 type diseases are not going to",
+    "speaker": null
+  },
+  {
+    "start": 282.56,
+    "end": 287.919,
+    "text": "disappear anytime soon. Reminding us of the importance of the scientific research we've heard",
+    "speaker": null
+  },
+  {
+    "start": 287.919,
+    "end": 293.759,
+    "text": "And the importance of boosting your immunity… which reminds me of today’s quiz question.",
+    "speaker": "Neil"
+  },
+  {
+    "start": 293.759,
+    "end": 301.279,
+    "text": "You asked me how many white blood cells per microelita the human body has. I said C-70,000.",
+    "speaker": null
+  },
+  {
+    "start": 302.079,
+    "end": 306,
+    "text": "Well, if that was true, you've definitely boosted your immunity, Georgina,",
+    "speaker": null
+  },
+  {
+    "start": 306,
+    "end": 311.919,
+    "text": "because the correct answer is C, just 7,000. Today we've been discussing the strains or slight",
+    "speaker": null
+  },
+  {
+    "start": 311.919,
+    "end": 319.599,
+    "text": "variations of the virus, which causes Covid-19. Covid-19 has a previous disease called SARS as",
+    "speaker": null
+  },
+  {
+    "start": 319.599,
+    "end": 325.839,
+    "text": "Covid-19 has a previous disease called SARS as its precursor – a situation which existed before something and caused the development of that thing.",
+    "speaker": "precursor"
+  },
+  {
+    "start": 325.839,
+    "end": 330.959,
+    "text": "Researchers used the idea that the virus had passed to humans from bats as their hypothesis.",
+    "speaker": null
+  },
+  {
+    "start": 331.519,
+    "end": 338.159,
+    "text": "Possible explanation for something which has not yet been proved true. By identifying new virus",
+    "speaker": null
+  },
+  {
+    "start": 338.159,
+    "end": 345.199,
+    "text": "By identifying new virus strains, doctors hope unexplained cases can act as a red flag – a warning sign of danger, to prevent further outbreaks.",
+    "speaker": "strainsred flag"
+  },
+  {
+    "start": 345.199,
+    "end": 350.879,
+    "text": "further outbreaks. Knowing about new strains is increasingly important as we find out more about",
+    "speaker": null
+  },
+  {
+    "start": 350.879,
+    "end": 356.719,
+    "text": "how coronavirus attacks the body's central nervous system, the brain and spinal cord,",
+    "speaker": null
+  },
+  {
+    "start": 356.8,
+    "end": 362.16,
+    "text": "which in some patients can cause seizures. Sudden violent attacks of an illness,",
+    "speaker": null
+  },
+  {
+    "start": 362.16,
+    "end": 367.6,
+    "text": "especially affecting the heart or brain. So try to stay safe, wash your hands and remember to",
+    "speaker": null
+  },
+  {
+    "start": 367.6,
+    "end": 370.24,
+    "text": "join us again soon. Bye for now. Bye!",
+    "speaker": null
+  }
+]
