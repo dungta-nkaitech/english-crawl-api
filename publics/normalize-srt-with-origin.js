@@ -11,14 +11,16 @@ if (!fs.existsSync(outputFolder)) fs.mkdirSync(outputFolder);
 function timeStringToSeconds(str) {
   const [h, m, rest] = str.split(':');
   const [s, ms] = rest.split(',');
-  return parseInt(h) * 3600 + parseInt(m) * 60 + parseInt(s) + parseInt(ms) / 1000;
+  return (
+    parseInt(h) * 3600 + parseInt(m) * 60 + parseInt(s) + parseInt(ms) / 1000
+  );
 }
 
 function parseSrt(srtContent) {
   return srtContent
     .replace(/\r\n/g, '\n')
     .split('\n\n')
-    .map(block => {
+    .map((block) => {
       const lines = block.split('\n').filter(Boolean);
       if (lines.length < 3) return null;
       const [startStr, endStr] = lines[1].split(' --> ');
@@ -65,7 +67,7 @@ function simpleRatio(a, b) {
 }
 
 // === MAIN
-fs.readdirSync(srtFolder).forEach(file => {
+fs.readdirSync(srtFolder).forEach((file) => {
   if (!file.endsWith('.srt')) return;
 
   const base = file.replace('.srt', '');
@@ -82,7 +84,7 @@ fs.readdirSync(srtFolder).forEach(file => {
   const originData = JSON.parse(fs.readFileSync(originPath, 'utf-8'));
 
   const used = new Set();
-  const result = srtData.map(segment => {
+  const result = srtData.map((segment) => {
     const matchIdx = fuzzyMatch(segment.text, originData, used);
     let text = segment.text;
     let speaker = null;
