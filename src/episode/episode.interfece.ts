@@ -1,17 +1,14 @@
-export interface Episode {
+export interface IEpisode {
   id: string;
-  slug: string;
+  episodeUrl: string;
   title: string;
   description?: string;
   thumbnailUrl?: string;
   audioUrl?: string;
   pdfUrl?: string;
-  publishedAt?: string;
-  createdAt?: string;
-  updatedAt?: string;
 }
 
-export interface Transcript {
+export interface ITranscript {
   id: string;
   episodeId: string;
   order: number;
@@ -21,7 +18,7 @@ export interface Transcript {
   endTime: number;
 }
 
-export interface VocabItem {
+export interface IVocabItem {
   id: string;
   episodeId: string;
   word: string;

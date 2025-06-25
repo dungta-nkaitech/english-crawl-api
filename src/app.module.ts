@@ -6,9 +6,11 @@ import { AppService } from './app.service';
 import { CrawlerModule } from './crawler/crawler.module';
 import { BbcController } from './crawler/bbc.controller';
 import { BbcModule } from './crawler/bbc.module';
+import { EpisodeModule } from './episode/episode.module';
 
 @Module({
   imports: [
+    EpisodeModule,
     BbcModule,
     CrawlerModule,
     ConfigModule.forRoot({ isGlobal: true }),
