@@ -1,527 +1,615 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 8.24,
-    "text": "6 Minute English.",
-    "speaker": null
+    "text": " 6 Minute English",
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.64,
     "text": "From BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.439,
     "end": 16.719,
-    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
-    "speaker": "Neil"
+    "text": "Hello, this is 6 Minute English from BBC Learning English.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 16.719,
     "end": 17.359,
     "text": "I'm Neil.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 17.359,
     "end": 18.24,
-    "text": "And I’m Sam.",
-    "speaker": "Sam"
+    "text": "And I'm Sam.",
+    "speaker": null
   },
   {
+    "order": 7,
     "start": 18.24,
     "end": 22.64,
     "text": "In this program, we'll be looking at some of the many dangers facing humanity,",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 22.64,
     "end": 27.92,
     "text": "from climate change and global pandemics to asteroid impacts and nuclear war.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 9,
     "start": 28,
     "end": 32.079,
     "text": "We'll be finding out whether human civilization can survive these risks",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 32.079,
     "end": 34.96,
     "text": "and looking at some of the related vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 34.96,
     "end": 39.6,
     "text": "Do you really think humans could become extinct and end up as dead as the dodo?",
-    "speaker": "Sam"
+    "speaker": null
   },
   {
+    "order": 12,
     "start": 39.6,
     "end": 42,
     "text": "Ah, so of course you’ve heard of the dodo?",
     "speaker": "Neil"
   },
   {
+    "order": 13,
     "start": 42,
     "end": 48,
     "text": "Yeah, dodo's were large mesa hybers, which died out in the 1600s,",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 48,
     "end": 51.2,
     "text": "after being hunted to extinction by humans.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 51.2,
     "end": 54.4,
-    "text": "That's right, dodo's couldn't fly and weren't very clever.",
-    "speaker": null
+    "text": "That’s right. Dodos couldn’t fly and weren’t very clever. ",
+    "speaker": "Neil"
   },
   {
+    "order": 16,
     "start": 54.479,
     "end": 58.719,
     "text": "They didn't hide when sailors with hunting dogs landed on their island.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 58.719,
     "end": 61.679,
     "text": "The species was hunted so much that within a century,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 61.679,
     "end": 63.839,
     "text": "every single bird had died out.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 63.839,
     "end": 66.64,
     "text": "But do you know which island the dodo was from, Sam?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 66.64,
     "end": 68.4,
     "text": "That's my quiz question for today.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 68.4,
     "end": 70.319,
-    "text": "a) The Galapagos",
-    "speaker": "Neil"
-  },
-  {
-    "start": 70.319,
-    "end": 73.2,
-    "text": "b) Mauritius",
-    "speaker": "Neil"
-  },
-  {
-    "start": 73.2,
-    "end": 77.68,
-    "text": "I'll guess the Galapagos, Neil, because I know many exotic animals live there.",
+    "text": "Was it A, the Galapagos?",
     "speaker": null
   },
   {
+    "order": 22,
+    "start": 70.319,
+    "end": 73.2,
+    "text": "B, Mauritius or C, Fiji?",
+    "speaker": null
+  },
+  {
+    "order": 23,
+    "start": 73.2,
+    "end": 77.68,
+    "text": " I’ll guess the Galapagos, Neil, because I know many exotic animals live there",
+    "speaker": "Neil"
+  },
+  {
+    "order": 24,
     "start": 78.48,
     "end": 81.84,
     "text": "By the way, that's also cheered me up a bit, because as humans,",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 81.84,
     "end": 84.24,
     "text": "we are much smarter than the dodo.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 84.24,
     "end": 86.88,
     "text": "We're far too clever to die out, aren't we?",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 86.88,
     "end": 90.64,
     "text": "Hmm, I'm not so sure I agree, Sam.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 90.64,
     "end": 95.28,
     "text": "Lots of the existential risks, the worst possible things that could happen to humanity,",
-    "speaker": null
+    "speaker": "existential risks"
   },
   {
+    "order": 29,
     "start": 95.28,
     "end": 101.52,
     "text": "such as nuclear war, global pandemics, or rogue artificial intelligence, are human made.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 101.52,
     "end": 107.28,
     "text": "These threats could have catastrophic consequences for human survival in the 21st century.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 107.28,
     "end": 108.48,
     "text": "Yeah, that's true.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 108.56,
     "end": 113.28,
     "text": "But existential risks don't only threaten the survival of the human species.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 113.28,
     "end": 119.84,
     "text": "Instead, they could destroy civilization as we know it, leaving pockets of survivors to struggle on",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 119.84,
     "end": 122.079,
     "text": "in a post-apocalyptic world.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 122.079,
     "end": 125.439,
     "text": "And it wouldn't be the first time that that has happened,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 125.439,
     "end": 129.199,
     "text": "as the BBC World Service Program, The Inquiry, found out.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 129.199,
     "end": 135.92,
     "text": "Simon Beard of the Centre for the Study of Existential Risk at Cambridge University, explains.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 38,
     "start": 135.919,
     "end": 141.919,
     "text": "Historical records suggest that about once every thousand years, an event occurs that",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 141.919,
     "end": 144.959,
     "text": "wipes out about a third of the human population.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 144.959,
     "end": 151.679,
     "text": "So in the Middle Ages, this was the Black Death huge plague that covered Eurasia,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 151.679,
     "end": 155.679,
     "text": "or there was also dramatic global calling at that time, which many people think was",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 155.679,
     "end": 159.679,
     "text": "related to volcanic eruptions, and about a third of the global population died.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 160.319,
     "end": 164.079,
     "text": "So, humanity has been facing these risks throughout history,",
-    "speaker": null
+    "speaker": "the historical record"
   },
   {
+    "order": 44,
     "start": 164.08,
     "end": 166.48,
     "text": "according to the historical record.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 166.48,
     "end": 171.52,
     "text": "The collection of all written and recorded past events concerning the human race.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 171.52,
     "end": 177.2,
-    "text": "Yes. Wars and plagues –infectious, epidemic diseases which spread between countries can quickly wipe out – or completely destroy, millions of people.",
-    "speaker": "plagues wipe out"
+    "text": "Yes, wars and plagues, infectious epidemic diseases, which spread between countries,",
+    "speaker": null
   },
   {
+    "order": 47,
     "start": 177.2,
     "end": 181.12,
     "text": "can quickly wipe out or completely destroy millions of people.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 181.12,
     "end": 184.96,
-    "text": "And there’s not much we can do to stop disasters like that!",
-    "speaker": "Sam"
-  },
-  {
-    "start": 184.96,
-    "end": 189.92,
-    "text": "True Sam, but what about individuals who actively work to bring about the end of the world,",
+    "text": "Yeah, and there's not much we can do to stop disasters like that.",
     "speaker": null
   },
   {
+    "order": 49,
+    "start": 184.96,
+    "end": 189.92,
+    "text": "True Sam, but what about individuals who actively work to bring about the end of the world,",
+    "speaker": "Sam"
+  },
+  {
+    "order": 50,
     "start": 189.919,
     "end": 195.359,
     "text": "like apocalyptic terrorists, rampage shooters, fundamentalist cults,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 195.359,
     "end": 199.439,
     "text": "like those who organize the poisonous gas attack on the Tokyo subway?",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 199.439,
     "end": 204.719,
-    "text": "Those are people who want to end human life on Earth and bring about Doomsday - another word for the final, apocalyptic day of the world’s existence.",
+    "text": "Those are people who want to end human life on Earth and bring about Doomsday ",
     "speaker": "Doomsday"
   },
   {
+    "order": 53,
     "start": 204.719,
     "end": 208.959,
     "text": "another word for the final apocalyptic day of the world's existence.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 208.959,
     "end": 214.479,
     "text": "Right, and things got even scarier in modern times with the invention of nuclear weapons.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 214.479,
     "end": 219.039,
     "text": "During the Cuban Missile Crisis between America and the USSR, for example,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 219.039,
     "end": 225.039,
     "text": "risk experts estimated a 41% probability that human life would be completely wiped out.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 225.759,
     "end": 231.759,
     "text": "Seth Baum of New York's Global Catastrophic Risk Institute explains how human error",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 231.759,
     "end": 233.84,
     "text": "almost brought about Doomsday.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 233.84,
     "end": 239.599,
-    "text": "There are some ways that you could get to a nuclear war without really intending to.",
-    "speaker": null
+    "text": "There are some ways that you could get to a nuclear war without really intending to,",
+    "speaker": "Seth Baum"
   },
   {
+    "order": 60,
     "start": 240.399,
     "end": 246.879,
     "text": "And probably the biggest example is if you have a false alarm that is mistaken as a nuclear attack.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 246.879,
     "end": 252.479,
     "text": "And there have been a number of maybe even very serious false alarms over the years,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 252.479,
     "end": 257.759,
     "text": "in which one side of the other genuinely believed that they were under nuclear attack when,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 257.759,
     "end": 260,
     "text": "in fact, they were not at all under nuclear attack.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 260.879,
     "end": 266.399,
     "text": "One such false alarm, an incorrect warning given so that people wrongly believe something",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 266.399,
     "end": 273.439,
     "text": "dangerous is about to happen, came about in 1995 when the US sent missiles up into the Earth's",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 273.439,
     "end": 277.759,
     "text": "atmosphere to study the aurora borealis, the Northern Lights.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 277.759,
     "end": 283.199,
     "text": "Soviet radars picked up the missiles, thinking they were nuclear warheads and almost retaliated.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 68,
     "start": 283.839,
     "end": 289.36,
     "text": "Nuclear Armageddon was only averted by the actions of one clear thinking Russian general",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 289.36,
     "end": 291.839,
     "text": "who decided not to push the red button.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 291.839,
     "end": 297.839,
     "text": "Phew, a close shave then. Well, Neil, all this doom mongering has made me want to just give it all up",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 297.839,
     "end": 299.92,
     "text": "and live on a desert island.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 299.92,
     "end": 301.519,
     "text": "Like the dodo, ASAM.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 301.519,
     "end": 305.759,
-    "text": "Like the dodo eh, Sam? So, which island would that be? If you remember, today’s quiz question asked where the dodo was from.",
+    "text": "So which island would that be? If you remember today's quiz question asked",
     "speaker": "Neil"
   },
   {
+    "order": 74,
     "start": 305.759,
     "end": 308.959,
     "text": "where the dodo was from? I said the Galapagos.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 308.959,
     "end": 311.359,
-    "text": "And I'm afraid to say it was B Mauritius.",
-    "speaker": null
+    "text": "And I’m afraid to say it was b) Mauritius",
+    "speaker": "Doomsdayexistential threats"
   },
   {
+    "order": 76,
     "start": 312.399,
     "end": 318.639,
     "text": "So to recap, in this program we've been discussing Doomsday, the final day of life on Earth",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 318.639,
     "end": 323.839,
     "text": "and other existential threats, dangers threatening the survival of humans on the planet.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 323.839,
     "end": 328.799,
     "text": "We looked back throughout the historical record, all recorded human history,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 328.8,
     "end": 334.96,
     "text": "to see examples of threats which have wiped out or killed millions of people in the past,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 334.96,
     "end": 341.04,
     "text": "including wars and plagues, which spread epidemic diseases between populations.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 341.04,
     "end": 346.319,
     "text": "And we've seen how modern dangers like nuclear war and climate change further reduce the",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 82,
     "start": 346.319,
     "end": 352.24,
     "text": "probability of human survival. But, Sam, it's not all doom and gloom.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 352.24,
     "end": 358,
     "text": "The same scientific intelligence which split the atom could also find solutions to our human",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 358,
     "end": 360.879,
     "text": "made problems in the 21st century, don't you think?",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 360.879,
     "end": 366.959,
-    "text": "So, the end of the world might be a false alarm – or unfounded warning – after all!",
-    "speaker": "false alarm"
+    "text": "Okay, so the end of the world might be a false alarm or unfounded warning after all.",
+    "speaker": null
   },
   {
+    "order": 86,
     "start": 366.959,
     "end": 371.36,
-    "text": "Let’s hope we’ll all still be here next time for another edition of 6 Minute English. Bye for now!",
+    "text": "Let’s hope we’ll all still be here next time for another edition of 6 Minute English.",
     "speaker": "Neil"
   },
   {
+    "order": 87,
     "start": 371.36,
     "end": 373.519,
     "text": "Bye for now. Bye bye.",

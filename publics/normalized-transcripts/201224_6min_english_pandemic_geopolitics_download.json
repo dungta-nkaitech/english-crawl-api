@@ -1,638 +1,744 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 11.12,
     "text": "6Nate English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 13.359,
     "end": 17.359,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 17.359,
     "end": 18.559,
-    "text": "And I’m Georgina.",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 18.559,
-    "end": 21.92,
-    "text": "I've really had enough of this coronavirus, Georgina.",
+    "text": "And I'm Georgina.",
     "speaker": null
   },
   {
+    "order": 5,
+    "start": 18.559,
+    "end": 21.92,
+    "text": "I’ve really had enough of this coronavirus, Georgina!",
+    "speaker": "Neil"
+  },
+  {
+    "order": 6,
     "start": 21.92,
     "end": 25.44,
     "text": "People getting sick, losing their jobs, and to top it off,",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 25.44,
     "end": 27.679,
     "text": "the pubs in some places are closed.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 27.679,
     "end": 32.32,
     "text": "I know it's bad, Neil, but compared to historical pandemics like the Spanish flu",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 32.32,
     "end": 35.439,
     "text": "and economic crises like the Great Depression,",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 35.439,
     "end": 38.24,
     "text": "coronavirus isn't actually so bad.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 38.24,
     "end": 40.56,
     "text": "You've got to look at the bigger picture,",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 40.56,
     "end": 44.079,
     "text": "the long-term overall view of a complex situation.",
-    "speaker": null
-  },
-  {
-    "start": 44.079,
-    "end": 47.439,
-    "text": "Hmm, somehow that’s not very comforting, Georgina! But tell me more…",
     "speaker": "Neil"
   },
   {
+    "order": 13,
+    "start": 44.079,
+    "end": 47.439,
+    "text": "Hmm, somehow that’s not very comforting, Georgina!",
+    "speaker": "Neil"
+  },
+  {
+    "order": 14,
     "start": 47.439,
     "end": 48.56,
     "text": "But tell me more.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 48.56,
     "end": 51.679,
     "text": "Well, we've heard lots from politicians and scientists",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 51.679,
     "end": 53.92,
     "text": "about the spread of coronavirus,",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 53.92,
     "end": 58.079,
     "text": "but a historian's view might give us a fresh look at the bigger picture.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 58.64,
     "end": 60.88,
     "text": "And maybe a more hopeful point of view.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 61.52,
     "end": 66,
     "text": "So in this programme, we'll be hearing from historian Peter Frankapan,",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 66,
     "end": 69.12,
     "text": "author of Best Selling Book, The Silk Roads.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 69.12,
     "end": 74.48,
-    "text": "Ah, the title of that book, The Silk Roads, reminds me of my quiz question, Georgina. Are you ready to have a go?",
+    "text": "Ah, the title of that book, The Silk Roads, reminds me of my quiz question, Georgina.",
     "speaker": "Neil"
   },
   {
+    "order": 22,
     "start": 74.48,
     "end": 75.84,
     "text": "Are you ready to have a go?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 75.84,
     "end": 79.359,
     "text": "I'll try, Neil, but the only thing I know about The Silk Roads",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 79.359,
     "end": 83.2,
-    "text": "I’ll try, Neil, but the only thing I know about the Silk Roads is that they were the ancient routes along which people travelled the Earth.",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 83.2,
-    "end": 86.88,
-    "text": "Very good, Georgina, not just people, but also ideas,",
+    "text": "is that they were the ancient routes along which people travelled the earth.",
     "speaker": null
   },
   {
+    "order": 25,
+    "start": 83.2,
+    "end": 86.88,
+    "text": "Very good, Georgina! Not just people but also ideas, ",
+    "speaker": "Neil"
+  },
+  {
+    "order": 26,
     "start": 86.88,
     "end": 90.96,
     "text": "religions, languages and diseases travelled from place to place",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 90.96,
     "end": 92.64,
     "text": "along these ancient roads.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 92.64,
     "end": 95.439,
     "text": "But where exactly did The Silk Roads run?",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 95.439,
     "end": 97.12,
     "text": "That's my quiz question.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 97.12,
     "end": 100.32,
-    "text": "a) From South America to Europe?,",
-    "speaker": "Neil"
+    "text": "Was it A, from South America to Europe,",
+    "speaker": null
   },
   {
+    "order": 31,
     "start": 100.32,
     "end": 104.8,
-    "text": "b) From Africa to Asia?, or,",
+    "text": "B, from Africa to Asia, or C, from Asia to Europe?",
     "speaker": "Neil"
   },
   {
+    "order": 32,
     "start": 104.8,
     "end": 107.6,
     "text": "Well, since the current pandemic came from Wuhan,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 107.6,
     "end": 110.159,
-    "text": "c) From Asia to Europe?",
-    "speaker": "Neil"
+    "text": "I'll say C, from Asia to Europe.",
+    "speaker": "Georgina"
   },
   {
+    "order": 34,
     "start": 110.239,
     "end": 113.359,
     "text": "Okay, Georgina, we'll find out later if that's right.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 113.359,
     "end": 116.56,
     "text": "What's certain is that disease passing from place to place",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 116.56,
     "end": 119.599,
     "text": "and from animals to humans is nothing new.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 119.599,
     "end": 124.799,
     "text": "Listen to historian Peter Frankapan being interviewed for the BBC programme Hard Talk.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 124.799,
     "end": 128.8,
     "text": "See if you can hear the reason he goes for how diseases are spread.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 128.8,
     "end": 131.359,
-    "text": "Well, it's a fairly predictable thing a historian would say,",
-    "speaker": null
+    "text": " Well, it’s a fairly predictable thing a historian would say",
+    "speaker": "Georgina"
   },
   {
+    "order": 40,
     "start": 131.359,
     "end": 135.039,
     "text": "but change and widespread disease are nothing new.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 136.079,
     "end": 138.479,
     "text": "Our ancestors all lived through big pandemic,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 138.479,
     "end": 141.759,
     "text": "some of them which were much more lethal than coronavirus.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 141.759,
     "end": 143.919,
     "text": "And one of the products of living together,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 143.919,
     "end": 147.839,
     "text": "an in high density populations, going back as far as historical records go,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 147.839,
     "end": 151.919,
     "text": "is you find that there are transitions of disease from animals to human beings",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 151.919,
     "end": 153.759,
     "text": "and they inflict damage.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 153.759,
     "end": 157.039,
     "text": "And that damage typically you measure in mortality rates,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 157.039,
     "end": 159.759,
     "text": "but then the economic and social consequences of disease.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 159.759,
     "end": 162.079,
     "text": "There's a lot of examples of history to learn from.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 162.079,
     "end": 165.12,
     "text": "Compared to coronavirus, other big pandemics in history",
-    "speaker": null
-  },
-  {
-    "start": 165.2,
-    "end": 169.2,
-    "text": "Compared to coronavirus, other big pandemics in history have been much more lethal – dangerous enough to cause death.",
     "speaker": "lethal"
   },
   {
+    "order": 51,
+    "start": 165.2,
+    "end": 169.2,
+    "text": "have been much more lethal, dangerous enough to cause death.",
+    "speaker": null
+  },
+  {
+    "order": 52,
     "start": 169.2,
     "end": 173.439,
     "text": "One reason Peter gives for this is the high density of populations,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 173.439,
     "end": 177.36,
     "text": "meaning people living together in buildings very close to one another.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 178.08,
     "end": 181.759,
     "text": "In olden days, this included living together with animals,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 181.759,
     "end": 185.52,
     "text": "making the transmission of disease to humans much easier.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 185.52,
     "end": 191.28,
-    "text": "Right, Georgina, like the flea-infested rats which spread the plague across Europe in the Middle Ages.",
+    "text": "Right, Georgina, like the flea-infested rats which spread the plague across Europe in the Middle Ages",
     "speaker": "Neil"
   },
   {
+    "order": 57,
     "start": 191.28,
     "end": 194.879,
-    "text": "But times change and today most people live in very different ways from people living centuries ago.",
-    "speaker": "Georgina"
+    "text": "But times change and today most people live in very different ways",
+    "speaker": null
   },
   {
+    "order": 58,
     "start": 194.879,
     "end": 197.12,
     "text": "from people living centuries ago.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 197.12,
     "end": 201.599,
     "text": "So how can we explain the spread of the coronavirus pandemic in 2020",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 60,
     "start": 201.599,
     "end": 205.92,
     "text": "and why have some countries been able to deal with it so much better than others?",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 205.92,
     "end": 209.68,
     "text": "Here's Peter Frankapan again talking on the BBC's hard talk.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 209.68,
     "end": 212.24,
     "text": "Listen and see if you can spot his answer.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 212.24,
     "end": 216.24,
     "text": "Well, your geographical position in the world matters if you're if you're geographically peripheral,",
-    "speaker": null
+    "speaker": "peripheraldose flight routes"
   },
   {
+    "order": 64,
     "start": 216.24,
     "end": 218.879,
     "text": "like Scandinavia or New Zealand,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 218.879,
     "end": 222.24,
     "text": "then you have a different dose, you have a different level of connectivity with the rest of the world.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 222.24,
     "end": 226.719,
     "text": "If you are a country like the UK, which is the central global flight routes,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 226.719,
     "end": 229.519,
     "text": "then the incidence of people coming back so forwards in and out of your country,",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 229.519,
     "end": 231.28,
     "text": "you're going to spread and catch much quicker.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 231.28,
     "end": 236,
     "text": "The school card is very mixed and there have been some democratic systems that have been extremely resilient",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 236,
     "end": 239.199,
     "text": "and robust and anticipating it, and some that have got it wrong.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 239.199,
     "end": 242.639,
     "text": "According to Peter, countries which are geographically peripheral",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 242.639,
     "end": 247.439,
-    "text": "According to Peter, countries which are geographically peripheral – at the periphery or edge of things, instead of at the centre, are less at risk.",
-    "speaker": "peripheral"
-  },
-  {
-    "start": 247.439,
-    "end": 251.28,
-    "text": "The UK, on the other hand, is at the centre of global flight routes,",
+    "text": "at the periphery or edge of things instead of at the centre are less at risk.",
     "speaker": null
   },
   {
+    "order": 73,
+    "start": 247.439,
+    "end": 251.28,
+    "text": "The UK, on the other hand, is at the centre of global flight routes ",
+    "speaker": "flight pathsdose"
+  },
+  {
+    "order": 74,
     "start": 251.28,
     "end": 254.639,
     "text": "the connecting flight paths used by airplanes.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 254.639,
     "end": 259.12,
     "text": "Visiting air passengers who spread the disease are one of the reasons behind Britain's",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 259.12,
     "end": 261.279,
     "text": "dose of coronavirus.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 261.279,
     "end": 266.079,
     "text": "Here, dose is used as an informal way of saying an unpleasant experience.",
-    "speaker": "dose"
-  },
-  {
-    "start": 266.079,
-    "end": 270.959,
-    "text": "So from a historical viewpoint, this current pandemic doesn't seem so bad.",
     "speaker": null
   },
   {
+    "order": 78,
+    "start": 266.079,
+    "end": 270.959,
+    "text": "So from a historical viewpoint, this current pandemic doesn’t seem so bad ",
+    "speaker": "Georgina"
+  },
+  {
+    "order": 79,
     "start": 270.959,
     "end": 274.079,
     "text": "Far fewer people have died than in previous pandemics,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 274.079,
     "end": 278,
     "text": "and with the arrival of a vaccine, the end is almost in sight.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 278,
     "end": 283.439,
     "text": "Hmm, I guess so, Georgina, but for now at least the pubs are still closed in some places.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 283.439,
     "end": 288.639,
-    "text": "Hmm, I guess so, Georgina, but for now at least the pubs are still closed in some places! Anyway, it was interesting to hear how diseases have been spreading since ancient times.",
-    "speaker": "Neil"
+    "text": "Anyway, it was interesting to hear how diseases have been spreading since ancient times.",
+    "speaker": null
   },
   {
+    "order": 83,
     "start": 288.639,
     "end": 290.879,
     "text": "On routes like the Silk Roads, you mean?",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 290.879,
     "end": 294,
     "text": "So what was the answer to your quiz question now? Was I right?",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 294,
     "end": 299.759,
     "text": "You said the ancient Silk Roads ran C from Asia to Europe, which was correct.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 299.759,
     "end": 303.759,
     "text": "They ran from Japan and the Far East through Asia and the Middle East,",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 303.759,
     "end": 308.079,
     "text": "bringing trade and spices as well as new ideas and languages to Europe.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 308.079,
     "end": 311.68,
-    "text": "Sounds like another example of looking at the bigger picture - the long-term, overall view of a complex situation.",
-    "speaker": "the bigger picture"
+    "text": "Sounds like another example of looking at the bigger picture,",
+    "speaker": null
   },
   {
+    "order": 89,
     "start": 311.68,
     "end": 314.959,
     "text": "the long-term overall view of a complex situation.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 314.959,
     "end": 317.199,
-    "text": "Let's recap the other vocabulary too.",
-    "speaker": null
-  },
-  {
-    "start": 317.199,
-    "end": 321.759,
-    "text": "Let’s recap the other vocabulary too. Diseases can be lethal – extremely dangerous, even causing death.",
+    "text": "Let’s recap the other vocabulary too.",
     "speaker": "lethal"
   },
   {
+    "order": 91,
+    "start": 317.199,
+    "end": 321.759,
+    "text": "Diseases can be lethal, extremely dangerous, even causing death.",
+    "speaker": null
+  },
+  {
+    "order": 92,
     "start": 321.759,
     "end": 326.399,
     "text": "A high-density population is a population living very closely together.",
-    "speaker": "high-density"
+    "speaker": null
   },
   {
+    "order": 93,
     "start": 326.399,
     "end": 330.639,
-    "text": "Peripheral countries may be less at risk from pandemics because they are at the periphery or edge of events, instead of at the centre.",
+    "text": "Peripheral countries may be less at risk from pandemics because they are at the",
     "speaker": "Peripheral"
   },
   {
+    "order": 94,
     "start": 330.639,
     "end": 334.159,
     "text": "periphery or edge of events instead of at the centre.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 334.159,
     "end": 339.039,
-    "text": "So somewhere with fewer flight routes – the connecting pathways followed by airplanes, might get a less serious dose – or unpleasant experience, of coronavirus.",
-    "speaker": "flight routesdose"
+    "text": "So, somewhere with fewer flight routes, the connecting pathways followed by airplanes",
+    "speaker": null
   },
   {
+    "order": 96,
     "start": 339.039,
     "end": 343.759,
     "text": "might get a less serious dose or unpleasant experience of coronavirus.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 343.759,
     "end": 348,
-    "text": "Well, I hope this experience hasn’t been too unpleasant and you get a chance to use some of this vocabulary chatting to your friends about trending stories in the news.",
+    "text": "Well, I hope this experience hasn’t been too unpleasant and you get a chance to use some of",
     "speaker": "Neil"
   },
   {
+    "order": 98,
     "start": 348,
     "end": 351.919,
     "text": "this vocabulary chatting to your friends about trending stories in the news.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 351.919,
     "end": 357.199,
-    "text": "And if you like topical discussions and want to learn how to use the vocabulary found in headlines, why not check out our News Review podcast? Remember to join us again soon at 6 Minute English.",
-    "speaker": "Georgina"
+    "text": "And if you like topical discussions and want to learn how to use the vocabulary found in headlines,",
+    "speaker": null
   },
   {
+    "order": 100,
     "start": 357.199,
     "end": 359.279,
     "text": "why not check out our new TV podcast?",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 360,
     "end": 363.199,
     "text": "Remember to join us again soon at 6 Minute English.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 363.199,
     "end": 368.079,
     "text": "And to download our free app from your usual app stores so you can follow BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 368.079,
     "end": 370,
     "text": "We're all over social media as well.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 104,
     "start": 370,
     "end": 370.959,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 370.959,
     "end": 372.639,
     "text": "Bye!",
-    "speaker": "Georgina"
+    "speaker": null
   }
 ]

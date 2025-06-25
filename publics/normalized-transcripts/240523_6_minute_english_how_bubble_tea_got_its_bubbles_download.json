@@ -1,338 +1,394 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.6,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7.799,
     "end": 12,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 2,
     "start": 12,
     "end": 16.199,
-    "text": "And I’m Beth. Are you a tea or coffee drinker, Neil?",
-    "speaker": "Beth"
+    "text": "And I'm Beth. Are you a tea or coffee drinker, Neil?",
+    "speaker": null
   },
   {
+    "order": 3,
     "start": 16.199,
     "end": 20.6,
     "text": "Well, I usually drink a cup of coffee in the morning. How about you, Beth?",
     "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 20.6,
     "end": 25.6,
     "text": "I'm definitely a tea drinker. There's nothing like a good cup at a start the day.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 25.6,
     "end": 30.6,
     "text": "Yes, a kappa. It's a word in British English, meaning a cup of tea, right?",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 30.6,
     "end": 35.6,
     "text": "But there are many different types of tea. Which tea do you like?",
-    "speaker": null
+    "speaker": "cuppa"
   },
   {
+    "order": 7,
     "start": 35.6,
     "end": 41.6,
     "text": "Well, I usually drink English breakfast tea in the morning and then a matcha tea at lunch",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 41.6,
     "end": 45.6,
     "text": "and then maybe a calming herbal tea before bed.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 45.6,
     "end": 50.6,
-    "text": "Wow, it sounds like you're a real tea addict, Beth. So you'll love this programme",
-    "speaker": null
+    "text": "Wow! It sounds like you’re a real tea addict, Beth, so you’ll love this programme",
+    "speaker": "Neil"
   },
   {
+    "order": 10,
     "start": 50.6,
     "end": 54.6,
     "text": "because we're discussing an exciting drink called bubble tea.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 54.6,
     "end": 59.6,
     "text": "And as usual, we'll be learning some useful new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 59.6,
     "end": 62.6,
     "text": "Great. But first, I have a question for you, Neil.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 62.6,
     "end": 68.599,
     "text": "Today, British supermarkets sell almost twice as much coffee as tea.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 68.599,
     "end": 73.599,
     "text": "And consumer surveys have found that a majority of rits prefer drinking coffee.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 73.599,
     "end": 80.599,
     "text": "So what proportion of rits do you think still regularly drink tea?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 80.599,
     "end": 87.599,
     "text": "Is it A, 39%, B, 49%, or C, 59%.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 87.599,
     "end": 93.599,
-    "text": "Well, let me think about that. I'm going to say b) 49%.",
-    "speaker": "Neil"
+    "text": "Well, let me think about that. I'm going to say B, 49%.",
+    "speaker": "Beth"
   },
   {
+    "order": 18,
     "start": 93.599,
     "end": 97.599,
     "text": "Okay, Neil. I will reveal the answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 97.599,
     "end": 104.599,
     "text": "People have been drinking tea for centuries, but that doesn't mean tea drinking hasn't changed over the years.",
-    "speaker": null
+    "speaker": "cuppa"
   },
   {
+    "order": 20,
     "start": 104.599,
     "end": 113.599,
     "text": "Here in Britain, new trends such as iced tea and green matcha tea have become as popular as the traditional English cuppa.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 113.599,
     "end": 117.599,
     "text": "Which, as everyone knows, is black tea with a splash of milk.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 117.599,
     "end": 122.599,
     "text": "One of the latest tea trends is pearl milk tea, also called bubble tea.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 123.599,
     "end": 131.599,
     "text": "But if you've never heard of it, don't worry. Here's presenter Ben Henderson explaining more for BBC World Service programme witness history.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 131.599,
     "end": 140.599,
-    "text": "For those who don't know, pearl milk tea or bubble tea, is tea usually mixed with milk, crushed ice and filled with its signature chewy tapioca balls. But customers can then add whatever flavours they want. It's innovative and exciting.",
+    "text": "For those who don't know, pearl milk tea or bubble tea, is tea usually mixed with milk, crushed ice and filled with its signature chewy tapioca balls",
     "speaker": "signature chewy innovative"
   },
   {
+    "order": 25,
     "start": 140.599,
     "end": 145.599,
     "text": "But customers can then add whatever flavours they want. It's innovative and exciting.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 146.599,
     "end": 155.599,
     "text": "Pearl milk tea, or bubble tea, as it's often called, was invented in 1987 by Taiwanese tea shop owner Liu Hanqia.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 155.599,
     "end": 162.599,
     "text": "The bubbles in a glass of bubble tea are made from balls of a chewy starch called tapioca.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 162.599,
     "end": 168.599,
     "text": "Food which is chewy needs to be chewed a lot before it becomes soft enough to swallow.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 169.599,
     "end": 176.599,
     "text": "It's these tapioca balls which give bubble tea its name. You might say their bubble tea's signature ingredient.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 176.599,
     "end": 184.599,
     "text": "Their special feature for which something is particularly known. For example, paella is the signature dish of Spain.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 184.599,
     "end": 195.599,
     "text": "What's more, because tapioca doesn't have a strong taste, different flavours can be added, making bubble tea an innovative meaning new and original drink.",
-    "speaker": null
+    "speaker": "signature signature"
   },
   {
+    "order": 32,
     "start": 195.599,
     "end": 204.599,
     "text": "Liu Hanqia's invention was inspired by a trip to Japan, where he saw people enjoying iced milk tea on a hot summer's day.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 204.599,
     "end": 212.599,
     "text": "When he added tapioca balls, which he found in a local market on his return to Taiwan, the bubbly new beverage was born.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 212.599,
     "end": 222.599,
     "text": "But it was only when famous international celebrities, including basketball player Michael Jordan and movie star Jackie Chan, started visiting his tea shop.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 35,
     "start": 222.599,
     "end": 227.599,
     "text": "That Liu Hanqia's bubble tea began a revolution in the tea drinking world.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 227.599,
     "end": 233.599,
     "text": "Here is Liu Hanqia telling more to BBC World Service program, witness history.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 233.599,
     "end": 234.599,
     "text": "So, I do something.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 234.599,
     "end": 248.599,
     "text": "ProMuketi got huge media coverage and it spread like wildfire. But I always say, we have many other products and the reason ProMuketi became so popular was pure luck. It was a miracle.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 249.599,
     "end": 256.6,
     "text": "Thanks to its celebrity fans, Liu Hanqia's bubble tea became an international bestseller.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 256.6,
     "end": 265.6,
     "text": "A news of his exciting new drink spread like wildfire. An idea meaning it became quickly known by many people.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 265.6,
     "end": 276.6,
-    "text": "As more and more people tried it and fell in love with its smooth chewy taste, bubble tea spread to neighbouring countries like South Korea and China, and then to the rest of the world. For Liu Han-Chieh it was a miracle, a very lucky event that is surprising and unexpected.",
-    "speaker": "miracle"
+    "text": "As more and more people tried it and fell in love with its smooth chewy taste, bubble tea spread to neighbouring countries like South Korea and China and then to the rest of the world.",
+    "speaker": "spread like wildfire"
   },
   {
+    "order": 42,
     "start": 276.6,
     "end": 283.6,
     "text": "For Liu Hanqia, it was a miracle, a very lucky event that is surprising and unexpected.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 283.6,
     "end": 292.6,
     "text": "It’s great to hear about something that gives a modern twist to a drink that’s part of a country’s traditional culture… Maybe that’s what we need here in Britain too.",
     "speaker": "Beth"
   },
   {
+    "order": 44,
     "start": 292.6,
     "end": 301.6,
-    "text": "Yes, your question was about the fact that nowadays more people in Britain prefer coffee than tea. I think it‘s time you revealed the answer.",
-    "speaker": "Neil"
+    "text": "Yes, your question was about the fact that nowadays, more people in Britain prefer coffee than tea. I think it's time you revealed the answer.",
+    "speaker": null
   },
   {
+    "order": 45,
     "start": 301.6,
     "end": 313.6,
     "text": "Right, I asked you what percent of Brits still regularly prefer drinking tea over coffee and you said 49% which was the wrong answer I'm afraid, Neil.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 313.6,
     "end": 322.6,
     "text": "In fact, around 59% of Brits still regularly drink tea. Maybe it's time for a bubble tea revolution over here.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 322.6,
     "end": 331.6,
     "text": "Okay, let's recap the vocabulary we've learnt in this programme starting with kappa and informal word in British English for a cup of tea.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 331.6,
     "end": 336.6,
     "text": "The word signature describes a special feature for which something is particularly known.",
-    "speaker": "signature"
+    "speaker": "cuppa"
   },
   {
+    "order": 49,
     "start": 336.6,
     "end": 341.6,
-    "text": "If food is chewy it needs to be chewed a lot before it’s soft enough to swallow.",
+    "text": "If food is chewy it needs to be chewed a lot before it’s soft enough to swallow. ",
     "speaker": "chewy"
   },
   {
+    "order": 50,
     "start": 341.6,
     "end": 344.6,
     "text": "The adjective innovative means new and original.",
-    "speaker": "innovative"
+    "speaker": null
   },
   {
+    "order": 51,
     "start": 344.6,
     "end": 350.6,
     "text": "If something spreads like wildfire, it becomes quickly known by more and more people.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 350.6,
     "end": 355.6,
     "text": "And finally, a miracle is a very lucky event that is surprising and unexpected.",
+    "speaker": "spreads like wildfire"
+  },
+  {
+    "order": 53,
+    "start": 355.6,
+    "end": 363.6,
+    "text": "Once again, our six minutes are up, but remember to join us again next time for more topical discussion and useful vocabulary here at 6 Minute English.",
     "speaker": null
   },
   {
-    "start": 355.6,
-    "end": 363.6,
-    "text": "And finally, a miracle is a very lucky event that is surprising and unexpected. Once again our six minutes are up but remember to join us again next time for more topical discussion and useful vocabulary, here at 6 Minute English. Goodbye for now!",
-    "speaker": "miracle"
-  },
-  {
+    "order": 54,
     "start": 363.6,
     "end": 364.6,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 364.6,
     "end": 365.6,
     "text": "Bye!",
-    "speaker": "Beth"
+    "speaker": null
   }
 ]

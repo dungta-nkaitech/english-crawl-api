@@ -9,100 +9,112 @@ if (!fs.existsSync(outputFolder)) fs.mkdirSync(outputFolder);
 
 // === HELPERS
 function timeStringToSeconds(str) {
-  const [h, m, rest] = str.split(':');
-  const [s, ms] = rest.split(',');
-  return (
-    parseInt(h) * 3600 + parseInt(m) * 60 + parseInt(s) + parseInt(ms) / 1000
-  );
+    const [h, m, rest] = str.split(':');
+    const [s, ms] = rest.split(',');
+    return (
+        parseInt(h) * 3600 +
+        parseInt(m) * 60 +
+        parseInt(s) +
+        parseInt(ms) / 1000
+    );
 }
 
 function parseSrt(srtContent) {
-  return srtContent
-    .replace(/\r\n/g, '\n')
-    .split('\n\n')
-    .map((block) => {
-      const lines = block.split('\n').filter(Boolean);
-      if (lines.length < 3) return null;
-      const [startStr, endStr] = lines[1].split(' --> ');
-      return {
-        start: timeStringToSeconds(startStr.trim()),
-        end: timeStringToSeconds(endStr.trim()),
-        text: lines.slice(2).join(' ').trim(),
-      };
-    })
-    .filter(Boolean);
+    return srtContent
+        .replace(/\r\n/g, '\n')
+        .split('\n\n')
+        .map((block) => {
+            const lines = block.split('\n').filter(Boolean);
+            if (lines.length < 3) return null;
+            const [startStr, endStr] = lines[1].split(' --> ');
+            return {
+                start: timeStringToSeconds(startStr.trim()),
+                end: timeStringToSeconds(endStr.trim()),
+                text: lines.slice(2).join(' ').trim(),
+            };
+        })
+        .filter(Boolean);
 }
 
 function normalizeText(text) {
-  return text
-    .toLowerCase()
-    .replace(/[^\w\s]|_/g, '')
-    .replace(/\s+/g, ' ')
-    .trim();
+    return text
+        .toLowerCase()
+        .replace(/[^\w\s]|_/g, '')
+        .replace(/\s+/g, ' ')
+        .trim();
 }
 
-function fuzzyMatch(text, originList, usedIndices) {
-  const input = normalizeText(text);
-  let bestScore = 0;
-  let bestIndex = -1;
+function findBestOriginSegment(srtText, originList, usedIndices) {
+    const input = normalizeText(srtText);
+    let bestMatch = null;
 
-  for (let i = 0; i < originList.length; i++) {
-    if (usedIndices.has(i)) continue;
-    const target = normalizeText(originList[i].text);
-    const score = simpleRatio(input, target);
-    if (score > bestScore) {
-      bestScore = score;
-      bestIndex = i;
+    for (let i = 0; i < originList.length - 1; i++) {
+        if (usedIndices.has(i) || usedIndices.has(i + 1)) continue;
+
+        const rawFull = originList[i].text + ' ' + originList[i + 1].text;
+        const normFull = normalizeText(rawFull);
+
+        const index = normFull.indexOf(input);
+        if (index >= 0) {
+            let matchedRaw = rawFull.substr(index, srtText.length);
+
+            // fallback nếu bị sai do cắt lệch
+            if (normalizeText(matchedRaw) !== input) {
+                matchedRaw = srtText;
+            }
+
+            bestMatch = {
+                text: matchedRaw,
+                speaker: originList[i].speaker,
+                used: [i, i + 1],
+            };
+            break;
+        }
     }
-  }
 
-  return bestScore >= 50 ? bestIndex : null;
-}
-
-function simpleRatio(a, b) {
-  const shorter = a.length < b.length ? a : b;
-  const longer = a.length >= b.length ? a : b;
-  if (longer.length === 0) return 0;
-  return longer.includes(shorter) ? (shorter.length / longer.length) * 100 : 0;
+    return bestMatch;
 }
 
 // === MAIN
 fs.readdirSync(srtFolder).forEach((file) => {
-  if (!file.endsWith('.srt')) return;
+    if (!file.endsWith('.srt')) return;
 
-  const base = file.replace('.srt', '');
-  const srtPath = path.join(srtFolder, file);
-  const originPath = path.join(originFolder, `${base}.json`);
-  const outputPath = path.join(outputFolder, `${base}.json`);
+    const base = file.replace('.srt', '');
+    const srtPath = path.join(srtFolder, file);
+    const originPath = path.join(originFolder, `${base}.json`);
+    const outputPath = path.join(outputFolder, `${base}.json`);
 
-  if (!fs.existsSync(originPath)) {
-    console.warn(`⚠️ Missing origin: ${file}`);
-    return;
-  }
-
-  const srtData = parseSrt(fs.readFileSync(srtPath, 'utf-8'));
-  const originData = JSON.parse(fs.readFileSync(originPath, 'utf-8'));
-
-  const used = new Set();
-  const result = srtData.map((segment) => {
-    const matchIdx = fuzzyMatch(segment.text, originData, used);
-    let text = segment.text;
-    let speaker = null;
-
-    if (matchIdx !== null) {
-      text = originData[matchIdx].text;
-      speaker = originData[matchIdx].speaker;
-      used.add(matchIdx);
+    if (!fs.existsSync(originPath)) {
+        console.warn(`⚠️ Missing origin: ${file}`);
+        return;
     }
 
-    return {
-      start: segment.start,
-      end: segment.end,
-      text,
-      speaker,
-    };
-  });
+    const srtData = parseSrt(fs.readFileSync(srtPath, 'utf-8'));
+    const originData = JSON.parse(fs.readFileSync(originPath, 'utf-8'));
 
-  fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), 'utf-8');
-  console.log(`✅ Processed: ${file}`);
+    const used = new Set();
+    const result = srtData.map((segment, index) => {
+        const match = findBestOriginSegment(segment.text, originData, used);
+        let text = segment.text;
+        let speaker = null;
+
+        if (match) {
+            text = match.text;
+            speaker = match.speaker;
+            match.used.forEach((i) => used.add(i));
+        }
+
+        return {
+            order: index,
+            start: segment.start,
+            end: segment.end,
+            text,
+            speaker,
+        };
+    });
+
+    fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), 'utf-8');
+    console.log(`✅ Normalized: ${file}`);
 });
+
+console.log('🎉 Hoàn tất toàn bộ!');

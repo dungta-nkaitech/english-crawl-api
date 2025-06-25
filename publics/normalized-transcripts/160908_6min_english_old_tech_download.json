@@ -1,482 +1,562 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6MUIT INGLEISH",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.96,
     "text": "From BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 11.919,
     "end": 14.88,
     "text": "Hello and welcome to 6 Minute English. I'm Alice…",
     "speaker": "Alice"
   },
   {
+    "order": 5,
     "start": 14.88,
     "end": 15.839,
     "text": "And I'm Neil.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 15.839,
-    "end": 18.879,
-    "text": "We're talking about old technology today, Neil.",
     "speaker": null
   },
   {
+    "order": 6,
+    "start": 15.839,
+    "end": 18.879,
+    "text": "We’re talking about old technology today, Neil.",
+    "speaker": "Alice"
+  },
+  {
+    "order": 7,
     "start": 18.879,
     "end": 23.039,
     "text": "Did you use to have any old tech, you know, a Walkman back in the 1990s",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 23.039,
     "end": 24.56,
     "text": "before music went digital?",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 24.56,
     "end": 28.32,
-    "text": "No. I didn't have a Walkman… But I do have a record player.",
-    "speaker": "Neil"
+    "text": "No, I didn't have a Walkman, but I do have a record player.",
+    "speaker": null
   },
   {
+    "order": 10,
     "start": 28.399,
     "end": 32.32,
     "text": "I know you like flaired trousers, but I didn't realise you were that retro.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 33.119,
     "end": 38.719,
     "text": "A record player, for those of you who don't know, is a box with a turn table or turning plate",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 38.719,
     "end": 41.679,
     "text": "that you put your vinyl records on to play them.",
-    "speaker": null
+    "speaker": "record playerturntable"
   },
   {
+    "order": 13,
     "start": 41.679,
     "end": 45.12,
     "text": "And retro means going back to styles and fashions from the past.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 45.12,
     "end": 47.6,
     "text": "Well, I love my record player.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 47.6,
     "end": 53.439,
-    "text": "And retro means going back to styles and fashions from the past. Well, I love my record player. I have a large collection of vinyl records, as well as cassette tapes that I inherited from my parents…",
-    "speaker": "retro"
-  },
-  {
-    "start": 53.439,
-    "end": 56.719,
-    "text": "Vinyl is the plastic that records are made from.",
+    "text": "I have a large collection of vinyl records as well as cassette tapes that I inherited from my parents.",
     "speaker": null
   },
   {
+    "order": 16,
+    "start": 53.439,
+    "end": 56.719,
+    "text": "Vinyl is the plastic that records are made from.",
+    "speaker": "Vinylcassette tapes"
+  },
+  {
+    "order": 17,
     "start": 56.719,
     "end": 62.079,
     "text": "And cassette tapes came after records, which are these small plastic cases with",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 62.079,
     "end": 64.319,
     "text": "audio tape on reels inside them.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 64.879,
     "end": 68.64,
     "text": "Well, I don't understand your fondness for outdated stuff, Neil.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 68.64,
     "end": 71.359,
     "text": "Don't be so quick to dismiss old tech, Alice.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 71.359,
     "end": 77.039,
     "text": "There's been a resurgence or new rise in record sales recently here in the UK and in the US.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 77.68,
     "end": 79.92,
     "text": "Some DJs have gone back to using them.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 79.92,
     "end": 83.28,
     "text": "And new record stores have opened to meet the demand for vinyl.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 83.439,
     "end": 84.239,
     "text": "Really?",
     "speaker": "Alice"
   },
   {
+    "order": 25,
     "start": 84.239,
     "end": 85.2,
     "text": "Yes, really.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 85.2,
     "end": 87.2,
     "text": "In fact, I have a question for you, Alice.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 87.76,
     "end": 91.68,
     "text": "How many records were sold in the UK in 2014?",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 28,
     "start": 91.68,
     "end": 97.439,
     "text": "Was it A, 10,000, B, 100,000 or C, 1 million?",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 98.96,
     "end": 103.599,
-    "text": "Well, I think it’s b) 100,000.",
-    "speaker": "Alice"
+    "text": "Well, I think it's B, 100,000.",
+    "speaker": "Neil"
   },
   {
+    "order": 30,
     "start": 103.599,
     "end": 106.56,
     "text": "We'll find out if you're right or wrong later in the show.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 31,
     "start": 106.56,
     "end": 110.079,
     "text": "For myself, I just think vinyl sounds nicer than digital.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 110.079,
     "end": 111.84,
     "text": "Has a warmer quality.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 111.92,
     "end": 113.92,
     "text": "That sounds a bit technical, Neil.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 113.92,
     "end": 117.84,
-    "text": "That sounds a bit technical, Neil! Don't you think this retro trend has more to do with nostalgia for the past?",
-    "speaker": "Alice"
-  },
-  {
-    "start": 117.84,
-    "end": 122.719,
-    "text": "Nostalgia means thinking about the past with a mixture of warm feelings and sadness.",
+    "text": "Don't you think this retro trend has more to do with nostalgia for the past?",
     "speaker": null
   },
   {
+    "order": 35,
+    "start": 117.84,
+    "end": 122.719,
+    "text": "Nostalgia means thinking about the past with a mixture of warm feelings and sadness.",
+    "speaker": "Nostalgia"
+  },
+  {
+    "order": 36,
     "start": 123.359,
     "end": 128.08,
     "text": "Well, yes, I think people who grew up with the old technology probably are nostalgia",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 128.08,
     "end": 129.039,
     "text": "about it.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 129.039,
     "end": 134.96,
     "text": "Let's listen to music journalist Jacqueline Springer talking about cassette tapes and what they mean to her.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 137.52,
     "end": 138.96,
     "text": "They were all dear love letters.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 139.28,
     "end": 142.4,
     "text": "There were ways in which she started to carve out your own identity.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 142.4,
     "end": 146.4,
     "text": "So, you know, when Dan and I interviewed people, we talked about,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 147.36,
     "end": 151.6,
     "text": "we talked to musicians about their impressions and their influences and invariably",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 151.6,
     "end": 156.64,
     "text": "it was siblings or parents and you would raid those vinyl albums and you'd self-select.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 158.64,
     "end": 159.84,
     "text": "Jacqueline Springer there.",
-    "speaker": null
+    "speaker": "compiled"
   },
   {
+    "order": 45,
     "start": 159.84,
     "end": 166.24,
     "text": "So she calls cassette tapes audio love letters because people often compiled or put together",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 166.24,
     "end": 170.8,
     "text": "their own collection of songs on tapes and gave them to the boy or girl they liked.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 171.439,
     "end": 176.24,
-    "text": "Jacqueline says they recorded songs from their parents' record collections onto tape. And it seems that this process helped create their musical and social identity.",
-    "speaker": "Alice"
+    "text": "Jacqueline says they recorded songs from their parents record collections onto tape",
+    "speaker": null
   },
   {
+    "order": 48,
     "start": 176.24,
     "end": 180.8,
     "text": "and it seems that this process helped create their musical and social identity.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 180.8,
     "end": 185.92,
     "text": "Yes, I identified with the Rolling Stones, the Clash, the Sex Pistols when I was a teen.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 185.92,
     "end": 188.24,
     "text": "How about your musical identity Alice?",
+    "speaker": "Neil"
+  },
+  {
+    "order": 51,
+    "start": 188.24,
+    "end": 194.16,
+    "text": "Well, I was in love with all the boy bands from the 1990s, NSYNC, Westlife, Backstreet Boys,",
     "speaker": null
   },
   {
-    "start": 188.24,
-    "end": 194.16,
-    "text": "Well, I was in love with all the boy bands from the 1990s – NSync, Westlife, Backstreet Boys, Take That.",
-    "speaker": "Alice"
-  },
-  {
+    "order": 52,
     "start": 194.159,
     "end": 200.719,
-    "text": "Unbelievable. I can see I need to make you some decent tapes of music from the 90s, Alice.",
-    "speaker": "Neil"
+    "text": "take that? Unbelievable. I can see I need to make you some decent tapes of music from the 90s, Alice.",
+    "speaker": null
   },
   {
+    "order": 53,
     "start": 200.719,
     "end": 207.599,
-    "text": "I didn’t say I still like boy bands, Neil. I'm not nostalgic for my lost teenage years – unlike you.",
-    "speaker": "Alice"
-  },
-  {
-    "start": 207.599,
-    "end": 213.439,
-    "text": "Old tech is everywhere. Did you know that the US nuclear weapons force still uses a computer system dating back to the 1970s with 8-inch floppy disks?",
+    "text": "I didn't say I still like boy bands, Neil. I'm not nostalgic for my lost teenage years, unlike you.",
     "speaker": "Neil"
   },
   {
+    "order": 54,
+    "start": 207.599,
+    "end": 213.439,
+    "text": "Old tech is everywhere. Did you know that the US nuclear weapons force still uses a computer system",
+    "speaker": "Neil"
+  },
+  {
+    "order": 55,
     "start": 213.439,
     "end": 217.28,
     "text": "dating back to the 1970s with eight-inch floppy disks?",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 217.28,
     "end": 223.84,
-    "text": "Floppy disks? You mean those flexible plastic computer disks used for storing data magnetically. Well, I can't believe the guys in The Pentagon are nostalgic about floppy disks.",
-    "speaker": "Floppy disks"
+    "text": "Floppy disks. You mean those flexible plastic computer disks used for storing data magnetically?",
+    "speaker": null
   },
   {
+    "order": 57,
     "start": 224.4,
     "end": 228.639,
     "text": "Well, I can't believe the guys in the Pentagon are nostalgic about floppy disks.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 228.639,
     "end": 233.599,
     "text": "Well, a Pentagon spokesperson said it would be extremely expensive to update the system",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 59,
     "start": 233.599,
     "end": 238.96,
     "text": "and it still works. They plan to do it by 2020 and save a lot of space for sure.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 238.96,
     "end": 245.84,
     "text": "You would need more than 130,000 eight-inch floppy disks to store 32 gigabytes of information.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 245.84,
     "end": 249.439,
     "text": "Wow, that is the equivalent of an average memory stick.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 249.439,
     "end": 252.639,
-    "text": "Yes, but there are more people out there keen on old tech.",
-    "speaker": null
+    "text": "Yes. But there are more people out there keen on old tech.",
+    "speaker": "Neil"
   },
   {
+    "order": 63,
     "start": 253.359,
     "end": 258.56,
     "text": "How do you think a DVD rental store survives in this era of online movie streaming?",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 258.56,
     "end": 264.879,
     "text": "Let's listen to Tara Judah, a co-director of UK rental store 20th century flicks and find out.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 266.959,
     "end": 270.879,
     "text": "We've survived because of the experience of coming into this store.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 271.68,
     "end": 276.719,
     "text": "It's a very human experience. It's human interaction. People come here because they want to talk",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 276.719,
     "end": 281.919,
     "text": "to somebody who's really knowledgeable about film. They want to have a recommendation or a",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 281.92,
     "end": 286.64,
     "text": "conversation about the films they've just watched. They really want to discuss those things.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 288.48,
     "end": 293.68,
     "text": "So it's back to the idea of human contact. We like compiling lists of music and sharing them",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 293.68,
     "end": 299.2,
     "text": "with our friends and loved ones, sharing a playlist through iTunes or Spotify isn't quite the same",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 299.2,
     "end": 304.8,
     "text": "though. We like talking to people about the films we watch. You can always talk to me, Neil.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 305.439,
     "end": 309.04,
-    "text": "You can always talk to me, Neil. Now how about giving me the answer to today's quiz question?",
-    "speaker": "Alice"
+    "text": "Now, how about giving me the answer to today's quiz question?",
+    "speaker": null
   },
   {
+    "order": 73,
     "start": 309.04,
     "end": 318.16,
-    "text": "I asked: How many records were sold in the UK in 2014? Was it… a) 10,000 b) 100,000? Or c) 1 million?",
-    "speaker": "Neil"
+    "text": "I asked how many records were sold in the UK in 2014. Was it A, 10,000, B, 100,000 or C, 1 million?",
+    "speaker": null
   },
   {
+    "order": 74,
     "start": 318.16,
     "end": 326.24,
     "text": "And I said B, 100,000. And Alice, you are, in fact, totally wrong.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 326.24,
     "end": 335.36,
     "text": "Oh! The answer is C. Vinyl is booming. In 2014, sales passed 1 million albums in the UK for the first time",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 335.36,
     "end": 341.439,
     "text": "since 1996. The format has been steadily increasing thanks in part to the popularity of",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 77,
     "start": 341.439,
     "end": 348.72,
     "text": "guitar bands traditionally associated with records. Now, let's hear the words we learned today. They are",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 349.439,
     "end": 364.56,
     "text": "record player, turntable, retro, vinyl, cassette tapes, resurgence, nostalgia, compiled, floppy disc,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 365.36,
     "end": 370.879,
-    "text": "Well, that's the end of today's 6 Minute English. Don't forget to join us again soon!",
-    "speaker": "Neil"
+    "text": "well that's the end of today's 6 Minute English. Don't forget to join us again soon. Bye bye!",
+    "speaker": null
   }
 ]

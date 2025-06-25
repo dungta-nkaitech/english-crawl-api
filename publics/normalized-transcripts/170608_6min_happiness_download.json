@@ -1,935 +1,1091 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 9.919,
     "text": "6-Nate English from the BBC.",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 9.919,
     "end": 11.919,
-    "text": "Hello and welcome to 6 Minute English,",
-    "speaker": null
+    "text": "Hello and welcome to 6 Minute English–",
+    "speaker": "Dan"
   },
   {
+    "order": 4,
     "start": 11.919,
     "end": 13.839,
     "text": "the show that brings you an interesting topic,",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 13.839,
     "end": 17.519,
     "text": "authentic listening practice and six new items of vocabulary.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 17.519,
     "end": 18.16,
-    "text": "Dan",
-    "speaker": "Neil"
+    "text": "I'm Dan.",
+    "speaker": null
   },
   {
+    "order": 7,
     "start": 18.16,
     "end": 19.199,
     "text": "And I'm Neil.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 19.199,
     "end": 23.359,
-    "text": "And I'm Neil. In this episode we'll be discussing if happiness is genetic",
-    "speaker": "Neil"
+    "text": "In this episode, we'll be discussing if happiness is genetic.",
+    "speaker": null
   },
   {
+    "order": 9,
     "start": 23.359,
     "end": 25.359,
-    "text": "How happy would you say you are Neil?",
+    "text": "How happy would you say you are Neil? ",
     "speaker": "Dan"
   },
   {
+    "order": 10,
     "start": 25.359,
     "end": 28.08,
-    "text": "I’m pretty happy I think. Why do you ask?",
+    "text": "I’m pretty happy I think. Why do you ask? ",
     "speaker": "Dan"
   },
   {
+    "order": 11,
     "start": 28.079,
     "end": 32.879,
-    "text": "Well, in March this year the UN published its fifth world happiness report.",
-    "speaker": "Dan"
+    "text": "Well, in March this year, the UN published its fifth World Happiness Report.",
+    "speaker": null
   },
   {
+    "order": 12,
     "start": 32.879,
     "end": 36.719,
     "text": "Is that the one that ranks all the countries based on how happy they are?",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 36.719,
     "end": 38.399,
     "text": "Oh, you've heard of it then.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 38.399,
     "end": 41.28,
     "text": "Overall, there are 155 countries included,",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 41.28,
     "end": 44.719,
     "text": "and Norway came top of them all, overtaking Denmark,",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 16,
     "start": 44.719,
     "end": 48.48,
     "text": "which was the leader for the year's 2012 to 2016.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 48.48,
     "end": 50,
-    "text": "Well what about the UK?",
-    "speaker": "Neil"
+    "text": "Well, what about the UK then?",
+    "speaker": null
   },
   {
+    "order": 18,
     "start": 50,
     "end": 52.079,
     "text": "Ah, well, that's this week's question, isn't it?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 52.719,
     "end": 54.48,
     "text": "Where did the UK place?",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 20,
     "start": 54.48,
     "end": 57.92,
     "text": "Is it A in the top 10, B between 11th",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 57.92,
     "end": 61.28,
-    "text": "c) after 21st",
-    "speaker": "Neil"
+    "text": "and 20th, or C after 21st?",
+    "speaker": null
   },
   {
+    "order": 22,
     "start": 61.84,
     "end": 65.28,
-    "text": "Well, I’m going to say c) after 21st",
+    "text": "Well, I'm going to say C after 21st.",
     "speaker": "Neil"
   },
   {
+    "order": 23,
     "start": 65.28,
     "end": 69.04,
     "text": "Okay, you know the drill, no answers until the end of the show.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 69.04,
     "end": 70.48,
     "text": "So Norway, eh?",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 25,
     "start": 70.48,
     "end": 73.12,
     "text": "And Denmark the previous year, their neighbours.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 73.12,
     "end": 75.52,
     "text": "Yes, in fact, for the last five years,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 75.52,
     "end": 77.92,
     "text": "the results have been pretty much the same.",
-    "speaker": null
+    "speaker": "dominate"
   },
   {
+    "order": 28,
     "start": 77.92,
     "end": 81.04,
     "text": "Nordic countries tend to dominate the top of the table.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 81.04,
     "end": 82.799,
     "text": "Dominate, meaning control.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 83.439,
     "end": 86.56,
     "text": "Okay, well, how are the results decided?",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 86.56,
     "end": 87.92,
-    "text": "It's very simple.",
-    "speaker": null
-  },
-  {
-    "start": 87.92,
-    "end": 92.719,
-    "text": "It’s very simple. They ask 1000 people in each country a single subjective question.",
+    "text": "It’s very simple.",
     "speaker": "subjective"
   },
   {
-    "start": 92.719,
-    "end": 95.76,
-    "text": "Subjective means 'based on personal experience, beliefs or feelings'. …Well, what’s the question?",
-    "speaker": "Subjective"
-  },
-  {
-    "start": 95.76,
-    "end": 97.439,
-    "text": "beliefs or feelings.",
+    "order": 32,
+    "start": 87.92,
+    "end": 92.719,
+    "text": "They ask 1,000 people in each country a single subjective question.",
     "speaker": null
   },
   {
+    "order": 33,
+    "start": 92.719,
+    "end": 95.76,
+    "text": "Subjective means based on personal experience,",
+    "speaker": null
+  },
+  {
+    "order": 34,
+    "start": 95.76,
+    "end": 97.439,
+    "text": "beliefs or feelings.",
+    "speaker": "dominatedominate"
+  },
+  {
+    "order": 35,
     "start": 97.439,
     "end": 98.879,
     "text": "Well, what's the question?",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 98.879,
     "end": 102.4,
     "text": "Imagine a ladder with steps numbered from zero at the bottom",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 102.4,
     "end": 104.24,
-    "text": "to 10 at the top.",
-    "speaker": null
+    "text": " to 10 at the top",
+    "speaker": "Dan"
   },
   {
+    "order": 38,
     "start": 104.24,
     "end": 107.68,
     "text": "The top of the ladder represents the best possible life for you,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 107.68,
     "end": 111.68,
     "text": "and the bottom of the ladder represents the worst possible life for you.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 111.68,
     "end": 114.56,
     "text": "On which step of the ladder would you say",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 114.56,
     "end": 117.6,
     "text": "you personally feel you stand at this time?",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 118.719,
     "end": 120,
-    "text": "That’s actually quite simple.",
-    "speaker": "Neil"
+    "text": "That's actually quite simple.",
+    "speaker": null
   },
   {
+    "order": 43,
     "start": 120,
     "end": 125.2,
     "text": "Yep. The Nordic countries all score an average close to 7.5 out of 10.",
     "speaker": "Dan"
   },
   {
+    "order": 44,
     "start": 125.2,
     "end": 127.6,
     "text": "So we have a number of neighbouring countries",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 127.6,
     "end": 129.84,
     "text": "which all claim to be extremely happy.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 129.84,
     "end": 131.36,
     "text": "There must be a connection.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 131.36,
     "end": 132.4,
     "text": "Is it the weather?",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 132.4,
     "end": 134.319,
-    "text": "Well, that's a logical conclusion,",
-    "speaker": null
+    "text": "Well, that’s a logical conclusion,",
+    "speaker": "Dan"
   },
   {
+    "order": 49,
     "start": 134.319,
     "end": 136.24,
     "text": "but there is another idea.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 136.879,
     "end": 140.4,
-    "text": "Well, that’s a logical conclusion, but there is another idea. I’ll let Professor Andrew Oswald from the University of Warwick explain.",
-    "speaker": "Dan"
+    "text": "I'll let Professor Andrew Oswald from the University of Warwick explain.",
+    "speaker": null
   },
   {
+    "order": 51,
     "start": 141.12,
     "end": 144.319,
     "text": "We think that there's a genetic component in part",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 144.4,
     "end": 146.159,
     "text": "to why the Danes do so well,",
-    "speaker": null
+    "speaker": "componentinoculation"
   },
   {
+    "order": 53,
     "start": 146.159,
     "end": 149.919,
     "text": "coming so regularly at the head of happiness,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 149.919,
     "end": 151.519,
     "text": "international league tables.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 151.519,
     "end": 155.039,
     "text": "It does appear from the data that the Danes have",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 155.039,
     "end": 158,
     "text": "the smallest amount of the, you might say,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 158,
     "end": 160.879,
     "text": "dangerous, short kind of genetic pattern.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 160.879,
     "end": 165.68,
     "text": "So they may have a kind of inoculation against the possibility of depression.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 166.479,
     "end": 169.919,
     "text": "So Professor Oswald mentioned there's a genetic component",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 169.919,
     "end": 172.159,
     "text": "or part to Danish DNA,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 172.159,
     "end": 174.24,
     "text": "which gives them an inoculation",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 174.24,
     "end": 177.36,
     "text": "or illness protection against depression and sadness.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 177.36,
     "end": 180.8,
-    "text": "Yep. All of the Nordic countries have a similar make-up.",
+    "text": "Yep. All of the Nordic countries have a similar make-up",
     "speaker": "Dan"
   },
   {
+    "order": 64,
     "start": 180.8,
     "end": 184.96,
-    "text": "But he said ‘in part’. That means it doesn’t explain everything. So, there’s something missing.",
-    "speaker": "Neil"
+    "text": "but he said in part, that means it doesn't explain everything.",
+    "speaker": null
   },
   {
+    "order": 65,
     "start": 184.96,
     "end": 186.4,
     "text": "So there's something missing.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 186.4,
     "end": 188.48,
-    "text": "There's no fooling you.",
-    "speaker": null
-  },
-  {
-    "start": 188.48,
-    "end": 191.6,
-    "text": "There’s no fooling you! Michael Booth has written a book about Nordic happiness. He has another theory.",
+    "text": "There’s no fooling you!",
     "speaker": "Dan"
   },
   {
+    "order": 67,
+    "start": 188.48,
+    "end": 191.6,
+    "text": "Michael Booth has written a book about Nordic happiness.",
+    "speaker": null
+  },
+  {
+    "order": 68,
     "start": 191.6,
     "end": 193.36,
     "text": "He has another theory.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 193.36,
     "end": 195.68,
     "text": "There are so many reasons why the Danes are happy,",
-    "speaker": null
+    "speaker": "content"
   },
   {
+    "order": 70,
     "start": 195.68,
     "end": 196.48,
     "text": "why they're content,",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 196.48,
     "end": 198.24,
     "text": "that have nothing to do with DNA.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 198.24,
     "end": 199.36,
     "text": "Of course they're happy.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 199.36,
     "end": 202.08,
     "text": "They're rich, they're sexy, they're funny,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 202.08,
     "end": 203.28,
     "text": "they don't work that much.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 204.4,
     "end": 207.6,
     "text": "So being rich, funny, sexy and not working much",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 207.6,
     "end": 210,
     "text": "is why they're content, meaning satisfied.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 210.56,
     "end": 212,
     "text": "That sounds a bit like you, Dan.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 212,
     "end": 213.68,
     "text": "Oh, I can't publicly comment on that,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 213.68,
     "end": 214.64,
     "text": "me, and I'm sorry,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 214.64,
     "end": 217.12,
     "text": "but there is one more piece that we're missing.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 218,
     "end": 218.48,
     "text": "Hugga.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 219.04,
     "end": 220,
     "text": "It's a lone word,",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 220,
     "end": 222.719,
     "text": "and it only just appeared in the British dictionaries.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 222.719,
     "end": 224.64,
     "text": "We don't have a direct translation,",
-    "speaker": null
+    "speaker": "cosiness"
   },
   {
+    "order": 85,
     "start": 224.64,
     "end": 227.68,
     "text": "but it basically means cosiness.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 227.68,
     "end": 231.12,
-    "text": "Cosiness, meaning 'warm, comfortable and safe'.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 231.12,
-    "end": 234.08,
-    "text": "Yes, Danes love simple comforts.",
+    "text": "Cosiness, meaning warm, comfortable and safe.",
     "speaker": null
   },
   {
+    "order": 87,
+    "start": 231.12,
+    "end": 234.08,
+    "text": "Yes. Danes love simple comforts.",
+    "speaker": "cosy"
+  },
+  {
+    "order": 88,
     "start": 234.24,
     "end": 235.92,
     "text": "A warm, cozy room,",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 235.92,
     "end": 238.879,
     "text": "some drinks, some candles, a fire,",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 238.879,
     "end": 239.52,
     "text": "and they're happy.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 240.159,
     "end": 241.52,
     "text": "Maybe that's the secret.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 241.52,
     "end": 243.6,
     "text": "Well, the secret to my happiness right now",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 243.6,
     "end": 245.84,
     "text": "is finding out if I was right in the quiz.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 245.84,
     "end": 246.4,
-    "text": "Oh, yes.",
-    "speaker": null
+    "text": "Oh yes! ",
+    "speaker": "Dan"
   },
   {
+    "order": 95,
     "start": 246.96,
     "end": 248,
     "text": "I asked,",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 248,
     "end": 249.84,
     "text": "where did the UK place",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 249.84,
     "end": 252.719,
     "text": "in the World Happiness Report 2017?",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 252.719,
     "end": 254.08,
     "text": "a) in the top 10",
     "speaker": "Neil"
   },
   {
+    "order": 99,
     "start": 254.08,
     "end": 256.319,
     "text": "b) between 11th and 20th",
-    "speaker": "Neil"
-  },
-  {
-    "start": 256.319,
-    "end": 258.8,
-    "text": "c) after 21st",
     "speaker": "Dan"
   },
   {
+    "order": 100,
+    "start": 256.319,
+    "end": 258.8,
+    "text": "or C after 21st.",
+    "speaker": null
+  },
+  {
+    "order": 101,
     "start": 258.8,
     "end": 260.56,
     "text": "I said c) after 21st",
     "speaker": "Neil"
   },
   {
+    "order": 102,
     "start": 260.56,
     "end": 262.56,
     "text": "And I'm afraid you're wrong, my friend.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 262.56,
     "end": 265.12,
-    "text": "b) between 11th and 20th",
-    "speaker": "Dan"
+    "text": "We placed B between 11th and 20th.",
+    "speaker": null
   },
   {
+    "order": 104,
     "start": 265.12,
     "end": 267.12,
     "text": "We were actually 19th.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 267.12,
     "end": 269.12,
-    "text": "Well, let’s make our listeners happy by going through the vocabulary.",
-    "speaker": "Neil"
+    "text": "Well, let's make our listeners happy",
+    "speaker": null
   },
   {
+    "order": 106,
     "start": 269.12,
     "end": 271.04,
     "text": "by going through the vocabulary.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 271.04,
     "end": 271.519,
     "text": "Okay.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 272.24,
     "end": 274.16,
     "text": "First, we had dominate.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 274.16,
     "end": 276,
     "text": "If you dominate something or someone,",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 276,
     "end": 277.04,
     "text": "you control it.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 277.04,
     "end": 278.8,
     "text": "It's quite an aggressive word.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 278.8,
     "end": 281.12,
     "text": "You wouldn't use it for people much,",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 281.12,
     "end": 282.72,
     "text": "but give us an example, Neil.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 282.72,
     "end": 286.48,
     "text": "You can talk about a team dominating play in a sport.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 286.48,
     "end": 288.48,
     "text": "Next, we had subjective.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 288.48,
     "end": 289.759,
     "text": "If something is subjective,",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 289.759,
     "end": 291.599,
     "text": "it is based on personal experience,",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 291.599,
     "end": 293.039,
     "text": "beliefs or feelings,",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 293.039,
     "end": 294.399,
     "text": "rather than facts,",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 294.399,
     "end": 295.92,
     "text": "which are objective.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 295.92,
     "end": 298.399,
     "text": "What type of things are subjective, Dan?",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 298.399,
     "end": 300.8,
-    "text": "Oh, it's our opinions of art,",
-    "speaker": null
+    "text": "Oh, it’s our opinions of art,",
+    "speaker": "Dan"
   },
   {
+    "order": 123,
     "start": 300.8,
     "end": 302.8,
     "text": "music, jokes, food.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 302.8,
     "end": 305.199,
     "text": "Oh, you know, I like sausages and ice cream,",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 305.199,
     "end": 306.159,
     "text": "but no one else does.",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 306.159,
     "end": 307.839,
     "text": "Yes, because it's disgusting.",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 307.839,
     "end": 309.68,
     "text": "Then we had component.",
-    "speaker": null
+    "speaker": "componentcomponentcomponents"
   },
   {
+    "order": 128,
     "start": 309.68,
     "end": 311.36,
     "text": "A component is part of something",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 311.36,
     "end": 313.519,
     "text": "that makes up a larger whole.",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 313.519,
     "end": 316.319,
     "text": "Television's and computers have many components in them.",
     "speaker": null
   },
   {
+    "order": 131,
     "start": 316.319,
     "end": 318.8,
     "text": "And a person can be an essential component",
     "speaker": null
   },
   {
+    "order": 132,
     "start": 318.879,
     "end": 321.04,
     "text": "in a team like a goalkeeper in football.",
     "speaker": null
   },
   {
+    "order": 133,
     "start": 321.68,
     "end": 323.52,
     "text": "After that was inoculation.",
     "speaker": null
   },
   {
+    "order": 134,
     "start": 323.52,
     "end": 326.56,
     "text": "An inoculation is a form of disease protection.",
     "speaker": null
   },
   {
+    "order": 135,
     "start": 326.56,
     "end": 328.96,
     "text": "It is a synonym of Dan.",
     "speaker": null
   },
   {
+    "order": 136,
     "start": 328.96,
     "end": 329.759,
     "text": "Vaccination.",
-    "speaker": null
+    "speaker": "inoculationscontentcontent"
   },
   {
+    "order": 137,
     "start": 330.319,
     "end": 331.759,
     "text": "I went on holiday last year",
     "speaker": null
   },
   {
+    "order": 138,
     "start": 331.759,
     "end": 334.48,
     "text": "and I had to have my inoculations updated.",
     "speaker": null
   },
   {
+    "order": 139,
     "start": 335.28,
     "end": 337.199,
     "text": "Then we had content.",
     "speaker": null
   },
   {
+    "order": 140,
     "start": 337.199,
     "end": 340.48,
     "text": "If you are content, you are satisfied and want nothing.",
     "speaker": null
   },
   {
+    "order": 141,
     "start": 340.48,
     "end": 342.319,
     "text": "What makes you content, Neil?",
     "speaker": null
   },
   {
+    "order": 142,
     "start": 342.319,
     "end": 346.24,
     "text": "Oh, a warm, sunny day in my garden with a good book.",
     "speaker": null
   },
   {
+    "order": 143,
     "start": 346.96,
     "end": 348.56,
     "text": "And finally we had cosiness.",
     "speaker": null
   },
   {
+    "order": 144,
     "start": 348.56,
     "end": 352.96,
     "text": "Cosiness comes from cosy, which means warm, comfortable and safe.",
     "speaker": null
   },
   {
+    "order": 145,
     "start": 352.96,
     "end": 354.4,
     "text": "Where's cosy for you, Dan?",
     "speaker": null
   },
   {
+    "order": 146,
     "start": 354.4,
     "end": 355.28,
     "text": "Oh, that's easy.",
     "speaker": null
   },
   {
+    "order": 147,
     "start": 355.28,
     "end": 356.879,
-    "text": "On a freezing cold day,",
-    "speaker": null
+    "text": " On a freezing cold day",
+    "speaker": "Dan"
   },
   {
+    "order": 148,
     "start": 356.879,
     "end": 359.199,
     "text": "it's tucked up in bed with a nice cup of tea.",
     "speaker": null
   },
   {
+    "order": 149,
     "start": 360,
     "end": 362,
     "text": "And that's the end of today's 6 Minute English.",
     "speaker": null
   },
   {
+    "order": 150,
     "start": 362,
     "end": 363.28,
     "text": "Please join us again soon.",
     "speaker": null
   },
   {
+    "order": 151,
     "start": 363.28,
     "end": 365.199,
     "text": "And we're on social media too, of course.",
     "speaker": null
   },
   {
+    "order": 152,
     "start": 365.199,
     "end": 367.759,
     "text": "Facebook, Twitter, Instagram and YouTube.",
     "speaker": null
   },
   {
+    "order": 153,
     "start": 367.759,
     "end": 368.4,
     "text": "See you there.",
     "speaker": null
   },
   {
+    "order": 154,
     "start": 368.4,
     "end": 369.12,
-    "text": "Bye!",
-    "speaker": "Both"
+    "text": "Bye-bye.",
+    "speaker": null
   },
   {
+    "order": 155,
     "start": 369.12,
     "end": 369.6,
     "text": "Bye.",

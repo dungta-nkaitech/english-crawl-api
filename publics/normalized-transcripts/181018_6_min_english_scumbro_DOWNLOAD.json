@@ -1,833 +1,972 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.279,
-    "text": "6 Minute English.",
-    "speaker": null
+    "text": " 6 Minute English",
+    "speaker": "Catherine"
   },
   {
+    "order": 3,
     "start": 8.279,
     "end": 10.88,
     "text": "From BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.519,
     "end": 16.559,
     "text": "Hello and welcome to 6 Minute English. I'm Catherine.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 16.559,
     "end": 17.64,
     "text": "And hello, I'm Rob.",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 17.64,
     "end": 21.16,
     "text": "Now Rob, do you ever buy things at a charity shop?",
     "speaker": "Catherine"
   },
   {
+    "order": 7,
     "start": 21.16,
     "end": 24.28,
     "text": "Yes, I do. They are a great place to pick up a bargain.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 24.28,
     "end": 27.96,
     "text": "And I also donate items to charity shops too.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 28,
     "end": 30.839,
     "text": "And a charity shop, by the way, is a shop where people",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 30.839,
     "end": 34.039,
     "text": "take their unwanted items and then the shop sells them",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 34.039,
     "end": 36.359,
     "text": "and makes money and the money goes to charity.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 36.359,
     "end": 40.16,
-    "text": "Exactly, that's good to hear Rob because donating,",
-    "speaker": null
+    "text": "Exactly that's good to hear, Rob, because donating",
+    "speaker": "donating"
   },
   {
+    "order": 13,
     "start": 40.16,
     "end": 43.48,
     "text": "that's giving money or goods to an organisation,",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 43.48,
     "end": 45.64,
     "text": "helps charities raise money.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 45.64,
     "end": 47.799,
     "text": "And you might be interested to know that dressing up",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 47.799,
     "end": 50.92,
     "text": "in second-hand clothes is back in fashion.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 50.92,
     "end": 52.2,
     "text": "Well, sort of.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 52.2,
     "end": 54.799,
     "text": "And that's what we're discussing today.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 54.839,
     "end": 58.599,
     "text": "Is looking like you're dressing in charity shop clothes",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 58.599,
     "end": 60.519,
     "text": "a new fashion statement?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 60.519,
     "end": 63.399,
     "text": "It should be interesting, but first Catherine,",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 63.399,
     "end": 65.879,
     "text": "aren't you going to set me a question to answer?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 65.879,
     "end": 67.799,
     "text": "And not a second-hand one, please.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 67.799,
     "end": 69.959,
-    "text": "It's a brand new question today, Rob.",
-    "speaker": null
+    "text": "It's a brand new question today, Rob,",
+    "speaker": "Catherine"
   },
   {
+    "order": 25,
     "start": 69.959,
     "end": 71.879,
     "text": "For you and the listeners at home,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 71.879,
     "end": 76.599,
     "text": "do you know when the first official charity shop opened its doors",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 76.599,
     "end": 78.12,
     "text": "in the UK?",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 28,
     "start": 78.12,
     "end": 84.599,
     "text": "Was it in A1928, B1948 or C1948?",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 84.799,
     "end": 88.599,
     "text": "I'll go for 1948.",
-    "speaker": "Rob"
+    "speaker": "Catherine"
   },
   {
+    "order": 30,
     "start": 88.599,
     "end": 91.92,
     "text": "OK, and we'll find out the answer later.",
-    "speaker": null
+    "speaker": "scumbroScumbroscumbro"
   },
   {
+    "order": 31,
     "start": 91.92,
     "end": 95.92,
     "text": "But now back to our discussion about charity shops and fashion.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 95.92,
     "end": 98,
     "text": "And there's a new look-in-town",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 98,
     "end": 101.879,
     "text": "which some people are calling Scumbro.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 101.879,
     "end": 104.799,
     "text": "Scumbro combines the word scummy,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 104.799,
     "end": 106.92,
     "text": "which means dirty and messy,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 106.92,
     "end": 108.759,
     "text": "with the word bro,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 108.759,
     "end": 113.319,
     "text": "which is an informal way of referring to a boy or a man.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 113.319,
     "end": 116.359,
     "text": "So Scumbro is a fashion for men,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 116.359,
     "end": 118.399,
     "text": "but women can't adopt it too.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 118.399,
     "end": 120.119,
     "text": "It's a bit of insulting name,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 120.119,
     "end": 123.119,
     "text": "and here's the odd thing about this new fashion style.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 123.119,
     "end": 127.079,
     "text": "Being Scumbro is about buying expensive designer brands",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 127.079,
     "end": 130.12,
     "text": "that look like they're from a charity shop, very odd.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 130.12,
     "end": 133.68,
     "text": "Well, it's something Amber Graffland knows about.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 133.68,
     "end": 135.84,
     "text": "She's the fashion and beauty director",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 135.84,
     "end": 137.959,
     "text": "for the Daily Mirror newspaper,",
-    "speaker": null
+    "speaker": "Catherine"
   },
   {
+    "order": 47,
     "start": 137.959,
     "end": 141.039,
     "text": "and she's been telling BBC Radio 4's",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 141.039,
     "end": 143.759,
     "text": "you and yours programme all about it.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 143.759,
     "end": 147.199,
     "text": "So how did this trend start?",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 147.199,
     "end": 149.759,
     "text": "Well, I think the name came from a vanity fair article,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 149.759,
     "end": 151.439,
     "text": "and I think Justin Bieber,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 151.439,
     "end": 154,
     "text": "the likes of Jonah Hill, to thank for this look.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 154,
     "end": 157.439,
     "text": "Pete Davidson, who's actually the fiance of Ariana Grande,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 157.439,
     "end": 160.879,
     "text": "he's definitely one of the founding fathers of Scumbro.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 160.879,
     "end": 162.919,
     "text": "And I think like most of these trends,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 162.919,
     "end": 164.599,
     "text": "they're started by celebrities,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 164.599,
     "end": 167.359,
     "text": "and then they, I mean, look, it's been picked up by everybody",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 167.359,
     "end": 168.519,
     "text": "by the sounds of them.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 168.56,
     "end": 172.56,
     "text": "Okay, so the fashion magazine vanity fair invented the name,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 172.56,
     "end": 175.16,
     "text": "but the trend has spread because celebrities",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 61,
     "start": 175.16,
     "end": 176.92,
     "text": "have been dressing in this style.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 176.92,
     "end": 179.879,
     "text": "Yes, and Amber mentioned a number of celebrities",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 179.879,
     "end": 182.76,
     "text": "who are the founding fathers of the trend.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 182.76,
     "end": 185.16,
     "text": "That's a term used to describe people",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 185.16,
     "end": 188.28,
     "text": "who start an idea or an organisation.",
-    "speaker": null
+    "speaker": "donating  '"
   },
   {
+    "order": 66,
     "start": 188.28,
     "end": 191.28,
     "text": "Yes, the trend has been picked up or copied by people",
-    "speaker": null
+    "speaker": "fashion victims"
   },
   {
+    "order": 67,
     "start": 191.28,
     "end": 193.92,
     "text": "who you might describe as fashion victims,",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 193.92,
     "end": 197,
     "text": "people who have to follow the latest fashion trends.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 197,
     "end": 199.439,
     "text": "Well, Rob, I'm no fashion victim,",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 199.439,
     "end": 203.479,
     "text": "but I say maybe one day I might want to look Scumbro,",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 203.479,
     "end": 205.56,
     "text": "or maybe Scumsis.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 205.56,
     "end": 207.96,
     "text": "So how exactly should I dress?",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 207.96,
     "end": 210.639,
     "text": "Okay, well, let's hear from Amber Graffland again.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 210.639,
     "end": 215.159,
-    "text": "OK, well let's hear from Amber Graafland again. How does she describe the characteristics of this fashion trend?",
+    "text": "How does she describe the characteristics of this fashion trend?",
     "speaker": "Rob"
   },
   {
+    "order": 75,
     "start": 215.159,
     "end": 218.68,
     "text": "It's all about Rayne's oversized clothes that are overpriced,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 218.68,
     "end": 220.84,
     "text": "and I think it's not just about looking like you've rummaged",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 220.84,
     "end": 222.639,
     "text": "in a teenager's dressing up box.",
-    "speaker": null
+    "speaker": "rummagedRummaging"
   },
   {
+    "order": 78,
     "start": 222.639,
     "end": 224.479,
     "text": "These are very, very expensive items.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 224.479,
     "end": 226.319,
     "text": "You mentioned the label's Prada Fasachi,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 226.319,
     "end": 227.599,
     "text": "Gucci Supreme.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 227.599,
     "end": 231.239,
     "text": "While it's basically about looking simultaneously",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 231.239,
     "end": 232.84,
     "text": "like you've made no effort,",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 232.84,
     "end": 234.879,
     "text": "but the underlying thing is that you do need to see",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 234.879,
     "end": 236.599,
     "text": "that the effort has gone in there.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 236.599,
     "end": 239.919,
     "text": "Well, this fashion trend does involve a lot of effort.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 239.919,
     "end": 242.079,
     "text": "It's not just about looking messy,",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 242.079,
     "end": 245.039,
     "text": "like you've rummaged in a teenager's dressing up box.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 245.039,
     "end": 247.4,
     "text": "rummaging is when you search for something that's mixed up",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 247.4,
     "end": 248.919,
     "text": "with lots of other things.",
-    "speaker": null
+    "speaker": "fashion victim"
   },
   {
+    "order": 90,
     "start": 248.919,
     "end": 250.56,
     "text": "No, don't be rummaging.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 250.56,
     "end": 254.68,
     "text": "The trick seems to be to look like you've not made any effort,",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 254.68,
     "end": 258.56,
     "text": "but at the same time, you're showing that you have made an effort,",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 258.56,
     "end": 262.16,
     "text": "and that's the meaning of the word simultaneously,",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 262.16,
     "end": 266.28,
     "text": "doing one thing at the same time as another thing.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 266.28,
     "end": 268.68,
     "text": "And I guess by showing you've made an effort,",
-    "speaker": null
-  },
-  {
-    "start": 268.68,
-    "end": 272.28,
-    "text": "And I guess by showing you've made an effort, you wear designer labels – showing you've paid lots of money.",
     "speaker": "Rob"
   },
   {
+    "order": 96,
+    "start": 268.68,
+    "end": 272.28,
+    "text": "you wear designer labels, showing you've paid lots of money.",
+    "speaker": null
+  },
+  {
+    "order": 97,
     "start": 272.28,
     "end": 275.079,
     "text": "The issue here is clothes from charity shops",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 275.079,
     "end": 276.92,
     "text": "are supposed to be cheap.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 276.92,
     "end": 278.8,
     "text": "Some people even buy these clothes",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 278.8,
     "end": 280.92,
     "text": "because it's all they can afford.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 280.92,
     "end": 283.319,
     "text": "But the irony here is some people are choosing",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 283.319,
     "end": 286.04,
     "text": "to pay lots and lots of money",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 286.04,
     "end": 289.079,
     "text": "to look like they're wearing second-hand clothes.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 289.079,
     "end": 293.279,
     "text": "And the charity shops aren't making any money from it.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 293.279,
     "end": 294.92,
-    "text": "Well if you're a fashion victim it's something you have to do.",
-    "speaker": "Rob"
+    "text": "Well, if you're a fashion victim,",
+    "speaker": null
   },
   {
+    "order": 106,
     "start": 294.92,
     "end": 297,
     "text": "it's something you have to do.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 297,
     "end": 299.12,
     "text": "And there's one thing I have to do now,",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 299.12,
     "end": 302.519,
     "text": "and that's give you the answer to today's quiz question.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 302.519,
     "end": 303.959,
     "text": "So I asked you earlier,",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 303.959,
     "end": 308.839,
     "text": "when the first official charity shop opened its doors in the UK.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 308.839,
     "end": 310.279,
-    "text": "And I said 1948.",
+    "text": "And I said 1948. ",
     "speaker": "Rob"
   },
   {
+    "order": 112,
     "start": 310.279,
     "end": 313.799,
     "text": "And you are correct this week, Rob Weldon.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 313.799,
     "end": 317.319,
     "text": "The very first shop run by the charity Oxfam",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 317.319,
     "end": 320.759,
     "text": "opened its doors in Oxford in 1948",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 320.759,
     "end": 323.879,
     "text": "as a direct result of an appeal launched",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 323.879,
     "end": 326.159,
     "text": "to help post-war Greece.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 326.159,
     "end": 327.559,
     "text": "Very interesting.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 327.559,
     "end": 329.199,
     "text": "Right, well, let's remind ourselves",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 329.199,
     "end": 330.719,
     "text": "of some of today's vocabulary,",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 330.719,
     "end": 333.079,
     "text": "starting with the word donating,",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 333.079,
     "end": 334.799,
     "text": "which means giving goods or money",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 334.799,
     "end": 337.039,
     "text": "to an organisation or charity.",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 337.039,
     "end": 339.479,
     "text": "Then we mentioned Founding Fathers,",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 339.48,
     "end": 343.04,
     "text": "a term used to describe people who start an idea",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 343.04,
     "end": 344.879,
     "text": "or an organisation.",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 344.879,
     "end": 347.96,
-    "text": "We also mentioned that Catherine was no fashion victim – a person who has to follow the latest fashion trends.",
-    "speaker": "fashion victim"
+    "text": "We also mentioned that Catherine was no fashion victim,",
+    "speaker": null
   },
   {
+    "order": 127,
     "start": 347.96,
     "end": 350.92,
     "text": "a person who has to follow the latest fashion trends.",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 350.92,
     "end": 354.16,
     "text": "Rummaging was a word that described searching for something",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 354.16,
     "end": 356.8,
     "text": "that's mixed up with lots of other things.",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 356.8,
     "end": 359.08,
     "text": "And then we had simultaneously,",
     "speaker": null
   },
   {
+    "order": 131,
     "start": 359.08,
     "end": 361.96,
     "text": "which means doing one thing at the same time",
     "speaker": null
   },
   {
+    "order": 132,
     "start": 361.96,
     "end": 363.68,
     "text": "as doing something else.",
     "speaker": null
   },
   {
+    "order": 133,
     "start": 363.68,
     "end": 366.72,
-    "text": "Well, you can simultaneously listen to this programme",
-    "speaker": null
+    "text": "Well you can simultaneously listen to this programme ",
+    "speaker": "Rob"
   },
   {
+    "order": 134,
     "start": 366.72,
     "end": 368.879,
     "text": "and look at our website, if you like.",
     "speaker": null
   },
   {
+    "order": 135,
     "start": 368.879,
     "end": 372,
     "text": "The web address is bbclearningenglish.com.",
     "speaker": null
   },
   {
+    "order": 136,
     "start": 372,
     "end": 373.839,
-    "text": "But that’s all we have time for now. Join us again next time. Goodbye.",
-    "speaker": "Catherine"
+    "text": "But that's all we have time for now.",
+    "speaker": null
   },
   {
+    "order": 137,
     "start": 373.839,
     "end": 375.36,
     "text": "Join us again next time.",
     "speaker": null
   },
   {
+    "order": 138,
     "start": 375.36,
     "end": 376.759,
     "text": "Goodbye. Bye-bye.",

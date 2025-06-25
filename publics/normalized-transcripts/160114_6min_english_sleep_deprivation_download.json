@@ -1,731 +1,853 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6MtEnglish",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.12,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.32,
     "end": 15.28,
     "text": "Hello and welcome to 6MtEnglish. I'm Alice.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 15.28,
     "end": 16.16,
-    "text": "… and I'm Neil.",
-    "speaker": "Neil"
+    "text": "And I'm Neil.",
+    "speaker": "Alice"
   },
   {
+    "order": 6,
     "start": 16.16,
     "end": 18,
     "text": "So Neil, did you sleep well last night?",
     "speaker": "Alice"
   },
   {
+    "order": 7,
     "start": 18,
     "end": 20.32,
     "text": "Uh, yes thanks. Why do you ask?",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 20.32,
     "end": 23.44,
     "text": "Today we're talking about how much sleep we need.",
     "speaker": "Alice"
   },
   {
+    "order": 9,
     "start": 23.44,
     "end": 28.32,
     "text": "Ah, I like a good 8 hours myself, 10 at the weekend. How about you?",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 28.32,
     "end": 30.08,
     "text": "Ah, 6 is enough for me.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 30.08,
     "end": 31.28,
-    "text": "But did you know this?",
-    "speaker": null
+    "text": " But did you know this",
+    "speaker": "Alice"
   },
   {
+    "order": 12,
     "start": 32,
     "end": 36.48,
     "text": "Humans sleep around 3 hours less than other primates like chimps,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 36.48,
     "end": 38.32,
     "text": "who sleep for about 10 hours.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 38.32,
     "end": 39.759,
     "text": "So you're a chimp, Neil.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 41.12,
     "end": 42.48,
     "text": "At the weekends at least.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 44.719,
     "end": 47.359,
     "text": "Are you ready for the quiz question?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 49.439,
     "end": 51.92,
     "text": "Okay, I'll assume that means yes.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 53.76,
     "end": 56.96,
-    "text": "OK, I'll assume that means yes. Right. What's another word for sleepwalking? Is it…",
+    "text": "Right, what's another word for sleepwalking?",
     "speaker": "Alice"
   },
   {
+    "order": 19,
     "start": 56.96,
     "end": 58,
     "text": "Is it A?",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 20,
     "start": 58.719,
     "end": 61.119,
     "text": "Narkolepsy B?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 61.119,
     "end": 62.88,
-    "text": "b) restless legs syndrome?",
+    "text": " restless legs syndrome",
     "speaker": "Alice"
   },
   {
+    "order": 22,
     "start": 62.88,
     "end": 64.079,
     "text": "Or C?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 64.079,
     "end": 65.68,
     "text": "Somnum mullism?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 65.68,
     "end": 68.239,
-    "text": "I will go for B. Restless legs syndrome,",
-    "speaker": null
+    "text": "I will go for b) restless legs syndrome,",
+    "speaker": "Neil"
   },
   {
+    "order": 25,
     "start": 68.239,
     "end": 70.159,
     "text": "since there's a connection with the legs.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 70.159,
     "end": 74.079,
-    "text": "Well we'll find out whether you're right or wrong later on in the show. So what keeps you awake at night, Neil?",
-    "speaker": "Alice"
+    "text": "Well, we'll find out whether you're right or wrong later on in the show.",
+    "speaker": null
   },
   {
+    "order": 27,
     "start": 74.079,
     "end": 76.64,
     "text": "So what keeps you awake at night, Neil?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 76.64,
     "end": 79.599,
-    "text": "Not much, to be honest. I usually sleep like a log.",
-    "speaker": null
+    "text": "Not much, to be honest. I usually sleep like a log ",
+    "speaker": "sleep like a logSnoring"
   },
   {
+    "order": 29,
     "start": 79.599,
     "end": 81.84,
     "text": "And that means very heavily indeed.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 81.84,
     "end": 84.56,
     "text": "But sometimes my own snoring wakes me up,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 84.56,
     "end": 87.28,
     "text": "and then I can find it hard to get back to sleep.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 87.28,
     "end": 89.599,
     "text": "Snoring for those of you who don't know",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 89.599,
     "end": 91.76,
     "text": "means breathing in a noisy way",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 91.76,
     "end": 94.4,
     "text": "through your mouth or nose while you're asleep.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 96.24,
     "end": 97.84,
     "text": "Like that. How about you, Alice?",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 98.64,
     "end": 101.2,
     "text": "Very good, yes. Well, that's quite ridiculous.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 101.2,
     "end": 105.12,
     "text": "Anyway, for me, it's drinking too much coffee during the day.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 105.68,
     "end": 107.76,
     "text": "It's a caffeine in the coffee,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 107.76,
     "end": 110.159,
     "text": "a chemical that makes you feel more awake,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 110.159,
     "end": 112.48,
     "text": "which can stop you from sleeping at night.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 112.48,
     "end": 115.359,
     "text": "But there are so many things that can keep us awake these days.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 115.439,
     "end": 120.48,
     "text": "Oh, yes. Radio TV, techie stuff, like 24-hour internet computers,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 120.48,
     "end": 123.519,
     "text": "smartphones. I love my phone. It's never far from me.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 123.519,
     "end": 125.84,
     "text": "Well, let's hear what Professor Jerome Seagal",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 125.84,
     "end": 129.52,
     "text": "from the University of California found when he studied the sleep habits",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 46,
     "start": 129.52,
     "end": 131.759,
     "text": "of three different hunter-gatherer communities",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 131.759,
     "end": 134.879,
     "text": "who have very little contact with modern society.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 134.879,
     "end": 137.68,
     "text": "They don't have artificial light, electricity,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 137.68,
     "end": 140.56,
     "text": "batteries, or any of the gadgets that we rely on today.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 140.64,
     "end": 145.199,
     "text": "Their sleep was not that different from ours.",
-    "speaker": null
+    "speaker": "Professor Jerome Siegel, from the University of California, US"
   },
   {
+    "order": 51,
     "start": 145.199,
     "end": 151.92,
     "text": "The range of sleep period was about 6.9 to 8.5 hours.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 151.92,
     "end": 156.159,
     "text": "If you actually measure sleep in current populations",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 156.159,
     "end": 158,
     "text": "in the United States or in Europe,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 158,
     "end": 161.36,
     "text": "they're definitely at the low end of what's been reported.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 161.36,
     "end": 164.4,
     "text": "They certainly don't sleep a lot less than we do,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 164.4,
     "end": 166.319,
     "text": "but they clearly don't sleep more.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 166.639,
     "end": 172,
     "text": "Professor Jerome Seagal found that people in these communities",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 172,
     "end": 176.319,
     "text": "don't go to bed until several hours after sundown, just like us.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 176.319,
     "end": 180.479,
     "text": "But one big difference is that very few of them suffer from insomnia,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 180.479,
     "end": 184.079,
     "text": "which means having difficulty falling asleep and staying asleep.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 184.079,
     "end": 186.479,
     "text": "Now, I don't have a problem with insomnia",
-    "speaker": null
+    "speaker": "hunter-gatherers"
   },
   {
+    "order": 62,
     "start": 186.479,
     "end": 189.68,
     "text": "and hunter-gatherers, people who live by hunting animals",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 189.68,
     "end": 192.24,
     "text": "and gathering plants to eat, don't either.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 192.24,
     "end": 195.68,
     "text": "Probably because they take a lot of physical exercise during the day.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 195.68,
     "end": 197.12,
     "text": "Yes, that's right.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 197.12,
     "end": 202.8,
     "text": "Taking exercise is an important factor in sleeping soundly or well at night.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 202.8,
     "end": 207.92,
     "text": "But these days, our minds can be so active that it becomes very difficult to fall asleep.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 207.92,
     "end": 212.4,
     "text": "Let's listen to Professor Kevin Morgan from Loveborough University here in England,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 212.4,
     "end": 218.879,
     "text": "talking about how cognitive behavioral therapy can be used to help people with insomnia.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 218.879,
     "end": 222,
-    "text": "If you have a train of thoughts which would otherwise keep you awake,",
-    "speaker": null
+    "text": "If you have a train of thoughts which would otherwise keep you awake ",
+    "speaker": "Professor Kevin Morgan, Loughborough University, England"
   },
   {
+    "order": 71,
     "start": 222,
     "end": 225.68,
     "text": "one way of dealing with this is to block those thoughts.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 225.68,
     "end": 231.68,
     "text": "What I'd like you to do is repeat the word THE in your mind at irregular intervals.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 238.159,
     "end": 241.28,
     "text": "What you'll find is that the mind space required to do this",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 241.28,
     "end": 243.199,
     "text": "blocks out almost everything else.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 245.439,
     "end": 251.36,
     "text": "So, Professor Kevin Morgan suggests saying one word over and over again at irregular intervals,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 251.36,
     "end": 254.72,
     "text": "irregular, and this context means not spaced out evenly.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 255.36,
     "end": 260,
     "text": "Doing it can help to block out the thoughts that are stopping you from getting to sleep.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 260,
     "end": 262.08,
     "text": "It sounds like a very simple solution.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 262.08,
     "end": 263.04,
     "text": "Wonder if it works.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 263.04,
     "end": 265.28,
     "text": "Hmm, there's one way to find out, Neil.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 265.28,
     "end": 266.24,
     "text": "Try it yourself.",
+    "speaker": "Alice"
+  },
+  {
+    "order": 82,
+    "start": 266.24,
+    "end": 266.96,
+    "text": "Hmm, I will.",
     "speaker": null
   },
   {
-    "start": 266.24,
-    "end": 266.96,
-    "text": "I will.",
-    "speaker": "Neil"
-  },
-  {
+    "order": 83,
     "start": 266.96,
     "end": 268.08,
     "text": "Okay.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 268.08,
     "end": 270.319,
     "text": "And cognitive behavioral therapy, by the way,",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 270.319,
     "end": 274.8,
-    "text": "OK. And cognitive behavioural therapy by the way is a treatment for mental health problems that tries to change the way you think.",
-    "speaker": "cognitive behavioural therapy"
+    "text": "is a treatment for mental health problems that tries to change the way you think.",
+    "speaker": null
   },
   {
+    "order": 86,
     "start": 274.8,
     "end": 277.439,
-    "text": "Well, I usually count sheep if I can't get to sleep. Do you do that, Alice?",
-    "speaker": "Neil"
+    "text": "Well, I usually count sheep if I can't get to sleep.",
+    "speaker": null
   },
   {
+    "order": 87,
     "start": 277.439,
     "end": 278.48,
     "text": "Do you do that, Alice?",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 278.48,
     "end": 279.52,
     "text": "No, not usually, Neil.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 280.319,
     "end": 284,
     "text": "Okay, I think it's time for the answer to our quiz question.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 284.56,
     "end": 288.079,
     "text": "I asked, what's another word for sleep walking?",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 288.079,
     "end": 296,
     "text": "Is it A, narcolepsy, B, restless leg syndrome, or C, some nambulism?",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 296,
     "end": 298.319,
     "text": "And I said B, restless leg syndrome.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 298.319,
     "end": 299.839,
     "text": "Hmm, sorry, Neil.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 299.839,
     "end": 302.56,
     "text": "It's actually C, some nambulism.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 303.199,
     "end": 305.68,
     "text": "The roots of this word come from Latin.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 96,
     "start": 305.68,
     "end": 309.36,
     "text": "Somnus means sleep, and ambulare means walk.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 309.92,
     "end": 313.92,
     "text": "Narcolepsy is a condition where you can't stop yourself from falling asleep,",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 313.92,
     "end": 315.36,
     "text": "especially during the day.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 316.4,
     "end": 317.36,
-    "text": "a) narcolepsy?",
-    "speaker": "Alice"
+    "text": "Narcolepsy…",
+    "speaker": "Neil"
   },
   {
+    "order": 100,
     "start": 317.36,
     "end": 323.759,
     "text": "Hmm, and restless leg syndrome is a condition that makes you desperate to move your legs around,",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 323.759,
     "end": 327.439,
     "text": "especially when you're sitting quietly while trying to get to sleep.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 328,
     "end": 328.72,
-    "text": "… get to sleep… (murmuring)",
+    "text": "Get to sleep.",
     "speaker": "Neil"
   },
   {
+    "order": 103,
     "start": 331.84,
     "end": 334.079,
     "text": "Now, Neil.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 334.56,
     "end": 336.319,
     "text": "Well, wake up.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 336.319,
     "end": 337.359,
-    "text": "Oh, hello Alice! Sorry.",
+    "text": "Oh, hello Alice! Sorry. ",
     "speaker": "Neil"
   },
   {
+    "order": 106,
     "start": 337.359,
     "end": 337.839,
     "text": "Hello.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 338.479,
     "end": 340.319,
-    "text": "Hello! Can we hear today's words again, please?",
-    "speaker": "Alice"
+    "text": "Can we hear today's words again, please?",
+    "speaker": null
   },
   {
+    "order": 108,
     "start": 340.319,
     "end": 341.12,
     "text": "Ah, okay.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 342.24,
     "end": 343.359,
-    "text": "sleep like a log",
+    "text": "Sleep like a log.",
     "speaker": "Neil"
   },
   {
+    "order": 110,
     "start": 344.719,
     "end": 345.199,
-    "text": "snoring",
+    "text": "snoring ",
     "speaker": "Neil"
   },
   {
+    "order": 111,
     "start": 346.8,
     "end": 347.279,
     "text": "Caffin.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 348.8,
     "end": 349.599,
-    "text": "insomnia",
+    "text": "insomnia ",
     "speaker": "Neil"
   },
   {
+    "order": 113,
     "start": 350.719,
     "end": 351.599,
-    "text": "hunter-gatherers",
-    "speaker": "Neil"
+    "text": "Hunter-gatherers.",
+    "speaker": null
   },
   {
+    "order": 114,
     "start": 353.599,
     "end": 354.24,
-    "text": "soundly",
+    "text": "soundly ",
     "speaker": "Neil"
   },
   {
+    "order": 115,
     "start": 355.919,
     "end": 356.719,
-    "text": "irregular",
-    "speaker": "Neil"
+    "text": "Irregular.",
+    "speaker": null
   },
   {
+    "order": 116,
     "start": 358.24,
     "end": 359.839,
-    "text": "cognitive behavioural therapy",
+    "text": "cognitive behavioural therapy ",
     "speaker": "Neil"
   },
   {
+    "order": 117,
     "start": 360.479,
     "end": 365.519,
-    "text": "Well, that just about brings us to the end of this edition of 6 Minute English. We hope you've enjoyed this programme. Please do join us again soon.",
-    "speaker": "Alice"
+    "text": "Well, that just about brings us to the end of this edition of 6 Minute English.",
+    "speaker": null
   },
   {
+    "order": 118,
     "start": 365.519,
     "end": 367.519,
     "text": "We hope you've enjoyed this programme.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 367.519,
     "end": 369.359,
     "text": "Please do join us again soon.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 369.359,
     "end": 369.839,
     "text": "Bye.",
-    "speaker": "Both"
+    "speaker": null
   },
   {
+    "order": 121,
     "start": 369.839,
     "end": 370.319,
     "text": "Goodbye.",

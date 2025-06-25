@@ -1,734 +1,856 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 11.519,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 12.56,
     "end": 17.199,
-    "text": "Hi, I'm Rob and welcome to 6 Minute English, where we talk about an interesting topic and six items of related vocabulary.",
+    "text": "Hi, I'm Rob and welcome to 6 Minute English where we talk about an interesting topic",
     "speaker": "Rob"
   },
   {
+    "order": 4,
     "start": 17.199,
     "end": 19.519,
     "text": "and six items of related vocabulary.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 19.519,
     "end": 23.199,
     "text": "And I'm Neil and today we're talking about wetticket.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 23.199,
     "end": 24.48,
     "text": "What's that, Rob?",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 24.48,
     "end": 25.6,
     "text": "I have no idea!",
     "speaker": "Rob"
   },
   {
+    "order": 8,
     "start": 25.6,
     "end": 28.719,
     "text": "Well, you won't find wetticket in many dictionaries.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 28.719,
     "end": 31.839,
     "text": "It actually means swimming pool etiquette.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 31.839,
     "end": 33.439,
     "text": "W etiquette.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 33.439,
     "end": 34.479,
     "text": "Get it?",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 34.479,
     "end": 40.64,
     "text": "etiquette is a set of rules for how to behave in social situations and wetticket is a set of",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 40.64,
     "end": 44.079,
     "text": "do's and don'ts to keep things calm in the water.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 44.079,
     "end": 48.239,
-    "text": "Do's and don'ts are also rules telling us how to behave.",
-    "speaker": null
-  },
-  {
-    "start": 48.239,
-    "end": 52.56,
-    "text": "Dos and don’ts are also rules telling us how to behave. So things like ‘No running by the pool’ or ‘No diving in the shallow end’. Am I right?",
+    "text": "Dos and don’ts are also rules telling us how to behave. ",
     "speaker": "Rob"
   },
   {
+    "order": 15,
+    "start": 48.239,
+    "end": 52.56,
+    "text": "So things like no running by the pool or no diving in the shallow end.",
+    "speaker": null
+  },
+  {
+    "order": 16,
     "start": 52.56,
     "end": 53.359,
     "text": "Am I right?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 53.359,
     "end": 55.12,
     "text": "Yes and no, Rob.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 55.199,
     "end": 60.159,
     "text": "Those are traditional swimming pool rules, but wetticket covers slightly different things.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 60.159,
     "end": 64,
     "text": "Okay, well, before we get to those, I have a question for you, Neil.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 64,
     "end": 67.359,
     "text": "According to the US Water Quality and Health Council,",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 21,
     "start": 67.359,
     "end": 71.359,
     "text": "how many people admitted to not showering before using the pool?",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 22,
     "start": 71.359,
     "end": 76.56,
     "text": "Is it a 7%, b 17% or c 70%?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 76.56,
     "end": 80.159,
-    "text": "Well, I’m going to be optimistic and say 7%, Rob.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 80.159,
-    "end": 84.319,
-    "text": "So I take it you do always take a shower before swimming, Neil?",
+    "text": "Well, I'm going to be optimistic and say 7%, Rob.",
     "speaker": "Rob"
   },
   {
-    "start": 84.319,
-    "end": 85.279,
-    "text": "Correct.",
+    "order": 24,
+    "start": 80.159,
+    "end": 84.319,
+    "text": "Ah, so I take it, you do always take a shower before swimming, Neil.",
     "speaker": null
   },
   {
-    "start": 85.279,
-    "end": 90.959,
-    "text": "Correct. Taking a quick shower is such an easy thing to do, and it stops all that horrible sweat and bacteria getting in the pool water! I can’t understand why some people don’t do it!",
-    "speaker": "Neil"
+    "order": 25,
+    "start": 84.319,
+    "end": 85.279,
+    "text": "Correct.",
+    "speaker": "Rob"
   },
   {
+    "order": 26,
+    "start": 85.279,
+    "end": 90.959,
+    "text": "Taking a quick shower is such an easy thing to do and it stops all that horrible sweat and bacteria",
+    "speaker": null
+  },
+  {
+    "order": 27,
     "start": 90.959,
     "end": 92.319,
     "text": "getting in the pool water.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 92.319,
     "end": 95.039,
     "text": "I can't understand why some people don't do it.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 95.039,
     "end": 99.919,
     "text": "I can see it's making you quite hot under the collar and that means angry.",
-    "speaker": null
+    "speaker": "hot under the collar"
   },
   {
+    "order": 30,
     "start": 99.919,
     "end": 104.319,
     "text": "Let's listen to swimming specialist Jenny Landruth talking about what a noise her.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 106,
     "end": 108,
     "text": "I'm very keen on my wetticket.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 108,
     "end": 112.799,
     "text": "Is that thing where people get quite cross about, which is do you gain around clockwise or anticlockwise?",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 112.799,
     "end": 114.319,
     "text": "Do you overtake or not?",
-    "speaker": null
+    "speaker": "Jenny Landreth:"
   },
   {
+    "order": 34,
     "start": 114.319,
     "end": 115.28,
-    "text": "People need a rule.",
-    "speaker": null
+    "text": " People need a rule",
+    "speaker": "Jenny Landreth:"
   },
   {
+    "order": 35,
     "start": 115.28,
     "end": 120.319,
     "text": "We need to observe the rules of the pool and I'm very keen on that and most other swimmers",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 120.319,
     "end": 124.64,
     "text": "will suffer from lane rage if people are in the wrong lane of the pool and don't know how to",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 125.439,
     "end": 126.799,
     "text": "observe the rules of that lane.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 126.799,
     "end": 130.639,
     "text": "Lane rage, you mean if you're a kind of slow swimmer and you dare to go in the fast swimmer?",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 130.639,
     "end": 134.96,
-    "text": "Jenny Landreth: Well, I hate to say it, but it is quite often that gentlemen quite often misjudge their speed and think they’re slightly faster than they are.",
+    "text": "Well, I hate to say it but it is quite often that gentlemen quite often misjudge their speed",
     "speaker": "Jenny Landreth:"
   },
   {
+    "order": 40,
     "start": 134.96,
     "end": 136.719,
     "text": "and think they're slightly faster than me.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 136.719,
     "end": 137.919,
     "text": "Ah, the male ego, yeah.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 137.919,
     "end": 140.96,
-    "text": "They quite often don't like it if there's a woman swimming faster than them.",
-    "speaker": null
+    "text": " They quite often don’t like it if there’s a woman swimming faster than them",
+    "speaker": "Jenny Landreth:"
   },
   {
+    "order": 43,
     "start": 140.96,
     "end": 146.879,
     "text": "So very often they'll go in the slightly faster lane and should be gently encouraged by wetticket",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 146.879,
     "end": 148.08,
     "text": "to get into the correct lane.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 148.08,
     "end": 149.28,
     "text": "No, your speed, I don't have speed.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 149.28,
     "end": 149.52,
     "text": "Yeah.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 149.52,
     "end": 149.68,
-    "text": "Yes.",
-    "speaker": null
+    "text": " Yes",
+    "speaker": "Jenny Landreth:"
   },
   {
+    "order": 48,
     "start": 151.84,
     "end": 157.76,
     "text": "That was Jenny Landruth, a swimming specialist talking about the things that annoy her about other",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 157.76,
     "end": 159.12,
     "text": "people in the pool.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 159.12,
     "end": 163.6,
     "text": "Yes, Jenny doesn't like it when people are slower than they should be for the fast lane.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 164.159,
     "end": 166.159,
     "text": "Older men like you, Rob.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 52,
     "start": 166.48,
     "end": 167.52,
     "text": "Neil, how dare you.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 168.159,
     "end": 170.319,
-    "text": "Neil, how dare you! Yes, Jenny gets 'lane rage'.",
-    "speaker": "Rob"
+    "text": "Yes, Jenny gets lane rage.",
+    "speaker": null
   },
   {
+    "order": 54,
     "start": 171.2,
     "end": 177.28,
     "text": "Lane rage! Where swimmers get hot under the collar when there’s a slow swimmer in the fast lane.",
     "speaker": "Neil"
   },
   {
+    "order": 55,
     "start": 177.84,
     "end": 183.12,
     "text": "Swimmy lanes are the vertical sections of a swimming pool that are often labeled as fast,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 183.12,
     "end": 184.159,
     "text": "medium and slow.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 57,
     "start": 184.719,
     "end": 186.159,
     "text": "Do you know your speed, Neil?",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 186.159,
     "end": 187.439,
-    "text": "Yes – I’m fast.",
+    "text": "Yes – I’m fast",
     "speaker": "Neil"
   },
   {
+    "order": 59,
     "start": 187.439,
     "end": 190.879,
     "text": "Ah, are you sure you're not to misjudging your speed?",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 190.879,
     "end": 193.92,
     "text": "Do you think you might actually be a medium fast swimmer?",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 193.92,
     "end": 196.56,
     "text": "To misjudge means to guess something wrongly.",
-    "speaker": null
+    "speaker": "misjudgeego"
   },
   {
+    "order": 62,
     "start": 196.64,
     "end": 202.719,
     "text": "And our ego is the idea we have of ourselves with regards to how important we feel we are.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 202.96,
     "end": 204.64,
     "text": "And to answer your question, Rob.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 204.64,
     "end": 206.56,
     "text": "No, I'm definitely fast.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 206.56,
     "end": 209.36,
-    "text": "Are there other things swimmers should be aware of in the pool?",
-    "speaker": "Rob"
-  },
-  {
-    "start": 209.36,
-    "end": 209.759,
-    "text": "Yes.",
+    "text": "Are there other things Swimmers should be aware of in the pool?",
     "speaker": null
   },
   {
-    "start": 210.479,
-    "end": 214.159,
-    "text": "Yes – if somebody taps your foot, it means they want to overtake you.",
+    "order": 66,
+    "start": 209.36,
+    "end": 209.759,
+    "text": "Yes ",
     "speaker": "Neil"
   },
   {
+    "order": 67,
+    "start": 210.479,
+    "end": 214.159,
+    "text": "If somebody taps your foot, it means they want to overtake you.",
+    "speaker": null
+  },
+  {
+    "order": 68,
     "start": 214.159,
     "end": 218.8,
     "text": "Ah, overtaking means to pass another person travelling in the same direction",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 218.8,
     "end": 220.48,
     "text": "because you are going faster than them.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 70,
     "start": 220.48,
     "end": 222.719,
     "text": "I hate it when swimmers overtake me!",
     "speaker": "Neil"
   },
   {
+    "order": 71,
     "start": 222.719,
     "end": 225.199,
-    "text": "Really, Neil? Is that your male ego talking?",
-    "speaker": "Rob"
+    "text": "Really, Neil, is that your male ego talking?",
+    "speaker": null
   },
   {
+    "order": 72,
     "start": 225.28,
     "end": 226.079,
     "text": "No, not at all.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 226.079,
     "end": 227.599,
-    "text": "No, not at all – I just hate getting splashed.",
-    "speaker": "Neil"
+    "text": "I just hate getting splashed.",
+    "speaker": null
   },
   {
+    "order": 74,
     "start": 227.599,
     "end": 228.56,
     "text": "I see.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 228.56,
     "end": 233.519,
     "text": "Well, perhaps now is a good time to move on and hear the answer to today's quiz question.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 233.519,
     "end": 238.159,
     "text": "Remember, I asked how many people admitted to not showering before using the pool?",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 238.159,
     "end": 242.639,
     "text": "Is it a 7%, b 17% or c 70%.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 242.639,
     "end": 245.359,
     "text": "I said 7% and I hope I’m right.",
     "speaker": "Neil"
   },
   {
+    "order": 79,
     "start": 245.359,
     "end": 246.959,
     "text": "Well, I'm afraid your wrong, Neil.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 246.959,
     "end": 249.12,
     "text": "It's actually 10 times that amount.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 249.12,
     "end": 250.399,
     "text": "It's 70%.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 250.8,
     "end": 251.599,
     "text": "Ugh.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 251.599,
     "end": 255.84,
     "text": "The 2012 US report from Water Quality and Health Council",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 255.84,
     "end": 260.72,
     "text": "found that around 70% of people do not shower before taking a swim in the pool,",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 260.72,
     "end": 263.12,
     "text": "adding to the number of germs in the water.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 263.12,
     "end": 267.28,
     "text": "Perhaps swimming pools should start finding people who don't take a shower.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 267.28,
     "end": 268.8,
     "text": "That might make a difference.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 88,
     "start": 268.8,
     "end": 271.759,
     "text": "Now, let's go over the words we learned today.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 271.759,
     "end": 274.319,
     "text": "Yes, the first one is Doos and Don'ts,",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 274.319,
     "end": 278.079,
     "text": "which are rules telling us how to behave in a particular situation.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 278.079,
     "end": 281.439,
     "text": "For example, what are the Doos and Don'ts of meeting the queen?",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 281.439,
     "end": 282.479,
-    "text": "Good question.",
-    "speaker": null
+    "text": "Good question ",
+    "speaker": "Neil"
   },
   {
+    "order": 93,
     "start": 282.479,
     "end": 285.759,
     "text": "Is the correct etiquette to call her your highness or ma'am?",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 286.399,
     "end": 289.12,
     "text": "Are there certain subjects you shouldn't talk about?",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 289.12,
     "end": 291.12,
     "text": "Do you shake a hand or curtsy?",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 291.12,
     "end": 295.439,
     "text": "These are things you need to know or else the queen might get hot under the collar.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 295.439,
     "end": 298.399,
     "text": "That's our next word and it means angry.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 298.399,
     "end": 302.159,
-    "text": "“Both politicians got hot under the collar and insulted each other.”",
-    "speaker": "Rob"
+    "text": "Both politicians got hot under the collar and insulted each other.",
+    "speaker": null
   },
   {
+    "order": 99,
     "start": 302.159,
     "end": 304.479,
     "text": "Okay, number three is lanes,",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 304.64,
     "end": 309.04,
     "text": "which are the vertical sections of a swimming pool that are often labeled as fast,",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 309.04,
     "end": 310.64,
     "text": "medium and slow.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 310.64,
     "end": 314,
     "text": "Our British Olympic gold medalist is swimming in lane one.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 314,
     "end": 317.92,
-    "text": "Our next word is ‘misjudge’ which means to guess something wrongly. For example, “I’m sorry I misjudged you, Rob. Please forgive me.”",
-    "speaker": "Neil"
+    "text": "Our next word is misjudge, which means to guess something wrongly.",
+    "speaker": "Rob"
   },
   {
+    "order": 104,
     "start": 317.92,
     "end": 320.8,
     "text": "For example, I'm sorry I misjudged you, Rob.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 320.8,
     "end": 322.08,
     "text": "Please forgive me.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 322.08,
     "end": 323.759,
     "text": "Oh, all right, then Neil.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 323.759,
     "end": 326.24,
     "text": "But don't misjudge me again, okay?",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 326.24,
     "end": 330.8,
-    "text": "Oh alright then, Neil. But don’t misjudge me again OK? Next up is ‘ego’ – which is our sense of how important we are.",
-    "speaker": "Rob"
+    "text": "Next up is ego, which is our sense of how important we are.",
+    "speaker": null
   },
   {
+    "order": 109,
     "start": 330.8,
     "end": 333.36,
-    "text": "“Losing the race was a huge blow to her ego.”",
-    "speaker": "Neil"
+    "text": "Losing the race was a huge blow to her ego.",
+    "speaker": null
   },
   {
+    "order": 110,
     "start": 333.92,
     "end": 338.4,
     "text": "And our final word is overtake, which means to pass another person traveling in the same",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 338.4,
     "end": 341.36,
     "text": "direction because you are going faster than them.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 341.36,
     "end": 344.56,
-    "text": "“I don’t enjoy overtaking big lorries on the motorway.”",
+    "text": "“I don’t enjoy overtaking big lorries on the motorway",
     "speaker": "Neil"
   },
   {
+    "order": 113,
     "start": 344.56,
     "end": 345.6,
     "text": "Neither do I, Neil.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 345.6,
     "end": 349.759,
     "text": "Now, one of the dos and don'ts of this show is not talking for more than six minutes.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 349.759,
     "end": 351.36,
     "text": "So it's time to say goodbye.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 351.36,
     "end": 357.36,
-    "text": "But please visit our Twitter, Facebook and YouTube pages and tell us what makes you hot under the collar!",
+    "text": "But please visit our Twitter, Facebook and YouTube pages and tell us what makes you hot under the",
     "speaker": "Neil"
   },
   {
+    "order": 117,
     "start": 358,
     "end": 358.08,
     "text": "collar.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 358.08,
     "end": 362.8,
     "text": "And remember, you can explore our website, BBCLearningEnglish.com,",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 362.8,
     "end": 367.52,
     "text": "where you'll find guides to grammar, exercises, videos and articles to read,",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 367.52,
     "end": 369.36,
     "text": "and improve your English.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 369.36,
     "end": 370.56,
-    "text": "Goodbye!",
-    "speaker": "Neil"
+    "text": "Bye-bye, goodbye.",
+    "speaker": null
   }
 ]

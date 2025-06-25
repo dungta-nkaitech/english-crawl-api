@@ -1,728 +1,849 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.32,
-    "text": "6 Minute English.",
-    "speaker": null
+    "text": " 6 Minute English",
+    "speaker": "Rob"
   },
   {
+    "order": 3,
     "start": 8.32,
     "end": 11.12,
     "text": "From BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.32,
     "end": 15.28,
-    "text": "Hello. This is 6 Minute English. I'm Rob.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 15.28,
-    "end": 16.48,
-    "text": "And I'm Neil.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 16.48,
-    "end": 19.28,
-    "text": "Now, Neil, are you a tidy person?",
-    "speaker": "Rob"
-  },
-  {
-    "start": 19.28,
-    "end": 22.879,
-    "text": "Me? Oh dear no! You should see my floordrobe!",
-    "speaker": "floordrobe"
-  },
-  {
-    "start": 22.879,
-    "end": 24.24,
-    "text": "Your floordrobe?",
-    "speaker": "floordrobe"
-  },
-  {
-    "start": 24.24,
-    "end": 25.039,
-    "text": "Yes.",
+    "text": "Hello, this is 6 Minute English. I'm Rob.",
     "speaker": null
   },
   {
+    "order": 5,
+    "start": 15.28,
+    "end": 16.48,
+    "text": "And I'm Neil.",
+    "speaker": null
+  },
+  {
+    "order": 6,
+    "start": 16.48,
+    "end": 19.28,
+    "text": "Now, Neil, are you a tidy person",
+    "speaker": "Rob"
+  },
+  {
+    "order": 7,
+    "start": 19.28,
+    "end": 22.879,
+    "text": "Me? Oh dear, no. You should see my floor-drobe.",
+    "speaker": null
+  },
+  {
+    "order": 8,
+    "start": 22.879,
+    "end": 24.24,
+    "text": "Your floordrobe? ",
+    "speaker": "floordrobe"
+  },
+  {
+    "order": 9,
+    "start": 24.24,
+    "end": 25.039,
+    "text": "yes,",
+    "speaker": "declutteringClutter decluttering"
+  },
+  {
+    "order": 10,
     "start": 25.119,
     "end": 27.599,
     "text": "Tidy people keep their clothes in a wardrobe.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 27.599,
     "end": 30.879,
     "text": "I just dump a lot of my clothes on the floor.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 30.879,
     "end": 33.119,
     "text": "So, a floor-drobe.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 33.119,
     "end": 38.159,
     "text": "Ah, yes. Well, it sounds as if you could use a bit of decluttering.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 38.159,
     "end": 41.359,
     "text": "Clutter is the word for general mess and untidyness.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 41.359,
     "end": 43.84,
     "text": "When you have too many things, too much stuff.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 43.84,
     "end": 47.679,
     "text": "These days, the idea of decluttering is very popular.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 47.679,
     "end": 49.6,
     "text": "Ooh, I love a good declutter.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 49.6,
     "end": 51.679,
-    "text": "Oh, I love a good declutter - trouble is, I hate throwing things away.",
-    "speaker": "declutter"
-  },
-  {
-    "start": 51.679,
-    "end": 54.32,
-    "text": "Well, we might have some advice for you in today's programme.",
+    "text": "Trouble is, I hate throwing things away.",
     "speaker": null
   },
   {
+    "order": 19,
+    "start": 51.679,
+    "end": 54.32,
+    "text": "Well, we might have some advice for you in today’s programme.",
+    "speaker": "Rob"
+  },
+  {
+    "order": 20,
     "start": 54.32,
     "end": 57.2,
     "text": "But first, a question. It's about cleaning up.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 57.92,
     "end": 60.96,
     "text": "The vacuum cleaner is a machine we use to clean our houses.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 61.52,
     "end": 64.079,
     "text": "When were the first mechanical floor cleaners,",
-    "speaker": null
+    "speaker": "shiftmake do and mend'"
   },
   {
+    "order": 23,
     "start": 64.079,
     "end": 67.04,
     "text": "which later became vacuum cleaners, invented?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 67.04,
     "end": 72.799,
     "text": "Was it A, the 1860s, B, the 1890s, or C, the 1920s?",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 73.519,
     "end": 75.84,
-    "text": "Well, you know what? I have no idea! So, I’ll say the 1890s.",
-    "speaker": "Neil"
+    "text": "Well, you know what? I have no idea.",
+    "speaker": "Rob"
   },
   {
+    "order": 26,
     "start": 75.84,
     "end": 78.719,
     "text": "So, I'll say the 1890s.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 78.719,
     "end": 81.76,
     "text": "Okay, well, I'll have the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 82.4,
     "end": 86.88,
     "text": "The decluttering techniques of Marie Kondo are very popular these days.",
-    "speaker": null
+    "speaker": "decluttering decluttering"
   },
   {
+    "order": 29,
     "start": 86.88,
     "end": 91.84,
     "text": "A UK decluttering expert, Leslie Spellman, appeared on the BBC Radio programme",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 91.84,
     "end": 94.24,
     "text": "You and Yours to discuss the topic.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 94.24,
     "end": 97.6,
     "text": "She was asked to describe the basics of the Marie Kondo method.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 98.159,
     "end": 100.88,
     "text": "What's the first thing she recommends people start with?",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 102.08,
     "end": 105.28,
     "text": "She basically says you have to do things in a certain order.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 34,
     "start": 105.28,
     "end": 108.8,
     "text": "You have to start with your clothes, then you move onto your books,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 108.799,
     "end": 112.56,
     "text": "then you move onto paperwork, then you go onto something called kimono,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 112.56,
     "end": 114.879,
     "text": "which is kind of everything else, kitchens, bathrooms,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 114.879,
     "end": 116.56,
     "text": "garages, laughs, etc.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 116.56,
     "end": 118.719,
     "text": "And then finally, you tackle sentimental things.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 120.399,
     "end": 125.759,
     "text": "She says that you have to start with your clothes before moving on through different categories of clutter.",
     "speaker": "clutter"
   },
   {
+    "order": 40,
     "start": 125.759,
     "end": 128.96,
-    "text": "The verb she uses for dealing with these things is to tackle. To tackle something means 'to deal with it, to sort it out'.",
-    "speaker": "to tackleTo tackle"
+    "text": "The verb she uses for dealing with these things is to tackle.",
+    "speaker": null
   },
   {
+    "order": 41,
     "start": 128.96,
     "end": 132.159,
     "text": "To tackle something means to deal with it to sort it out.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 132.159,
     "end": 136,
     "text": "And the last things she says you need to tackle are sentimental things.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 136.479,
     "end": 139.759,
     "text": "These are things that you have an emotional connection to,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 139.759,
     "end": 142.08,
     "text": "such as old letters and photographs.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 142.08,
     "end": 145.68,
     "text": "I have to say those are the things I find most difficult to get rid of.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 145.68,
     "end": 147.439,
     "text": "I'm very sentimental like that.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 147.439,
     "end": 149.919,
     "text": "I think you just have to be ruthless, Rob.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 149.919,
     "end": 151.759,
     "text": "Either that or buy a bigger house.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 151.759,
     "end": 154.159,
     "text": "Right, let's listen to Leslie Spellman again.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 154.879,
     "end": 158.08,
     "text": "She basically says you have to do things in a certain order.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 158.08,
     "end": 161.52,
     "text": "You have to start with your clothes, then you move onto your books,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 161.52,
     "end": 165.36,
     "text": "then you move onto paperwork, then you go onto something called kimono,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 165.44,
     "end": 168.24,
     "text": "which is kind of everything else, kitchens, bathrooms, garages,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 168.24,
     "end": 169.36,
     "text": "lofts, etc.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 169.36,
     "end": 171.52,
     "text": "And then finally, you tackle sentimental things.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 172.56,
     "end": 176.56,
     "text": "So why is it that decluttering is such big business these days",
-    "speaker": null
+    "speaker": "decluttering"
   },
   {
+    "order": 57,
     "start": 176.56,
     "end": 180.32,
     "text": "and there are many people and companies offering advice and services?",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 180.32,
     "end": 182.96,
     "text": "Here's Leslie Spellman again with her thoughts on this.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 184.16,
     "end": 186,
     "text": "I think there's been a big shift really.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 186,
     "end": 189.36,
     "text": "So my generation, my parents, you know, definitely came from that make-do,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 189.36,
     "end": 192.4,
     "text": "a mendier, a post war in the sort of 20th century.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 192.48,
     "end": 195.039,
     "text": "And then all of a sudden people started to get a little bit more money,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 195.039,
     "end": 196.719,
     "text": "things became more affordable.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 196.719,
     "end": 200.319,
     "text": "You can buy five tops for five pounds each and people have done that.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 200.319,
     "end": 204.56,
     "text": "And that's allowed the consumerism to kind of go crazy in the 21st century.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 206,
     "end": 209.439,
     "text": "So what does she put our need for decluttering down to?",
     "speaker": "decluttering"
   },
   {
+    "order": 67,
     "start": 209.439,
     "end": 213.12,
     "text": "Well, first she says that there has been a shift in our behaviour.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 213.12,
     "end": 217.12,
     "text": "This is a way of saying that there has been a change in the way we behave.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 217.12,
     "end": 219.759,
     "text": "We used to make do and mend much more.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 219.759,
     "end": 222.879,
     "text": "This phrase means that we made full use of what we had",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 222.879,
     "end": 225.12,
     "text": "and if something broke we tried to fix it.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 225.12,
     "end": 229.039,
     "text": "And these days we seem to have more money and many goods have got cheaper",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 229.039,
     "end": 230.799,
     "text": "than we just like buying stuff.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 230.799,
     "end": 234,
     "text": "Or as she says, consumerism has gone crazy.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 234.56,
     "end": 235.599,
     "text": "Let's listen to her again.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 236.479,
     "end": 238.319,
     "text": "I think there's been a big shift really.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 238.319,
     "end": 241.599,
     "text": "So my generation, my parents, you know, definitely came from that make-do,",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 241.599,
     "end": 244.719,
     "text": "a mendier, a post war in the sort of 20th century.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 244.719,
     "end": 247.359,
     "text": "And then all of a sudden people started to get a little bit more money,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 247.36,
     "end": 249.04,
     "text": "things became more affordable.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 249.04,
     "end": 252.56,
     "text": "You can buy five tops for five pounds each and people have done that.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 252.56,
     "end": 256.879,
     "text": "And that's allowed the consumerism to kind of go crazy in the 21st century.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 257.759,
     "end": 260.08,
     "text": "Time to tidy up today's vocabulary.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 260.08,
     "end": 262.48,
     "text": "But first, let's have the answer to the question.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 263.04,
     "end": 267.12,
     "text": "Earlier I asked you, when were the first mechanical floor cleaners invented?",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 267.12,
     "end": 273.52,
     "text": "Was it in A, the 1860s, B, the 1890s or C, the 1920s?",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 273.52,
     "end": 274.48,
-    "text": "And Neil, you said?",
+    "text": "? And Neil, you said?",
     "speaker": "Rob"
   },
   {
+    "order": 88,
     "start": 274.48,
     "end": 276.639,
     "text": "I guessed at the 1890s.",
     "speaker": "Neil"
   },
   {
+    "order": 89,
     "start": 277.36,
     "end": 280.639,
     "text": "Sadly not, the correct answer is the 1860s.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 280.639,
     "end": 283.28,
     "text": "So well done to anyone who got that right.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 283.28,
     "end": 288,
     "text": "Now on with today's vocabulary, the first where we had was floor-drobe.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 288,
     "end": 292.319,
-    "text": "Yes, this is a word to describe a pile of clothes that someone keeps on the floor rather than in a wardrobe.",
+    "text": "Yes, this is a word to describe a pile of clothes that someone keeps on the floor ",
     "speaker": "Neil"
   },
   {
+    "order": 93,
     "start": 292.319,
     "end": 294.319,
     "text": "rather than in a wardrobe.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 294.319,
     "end": 298.16,
     "text": "Well, I don't have a floor-drobe, but I do have a chair-drobe.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 298.16,
     "end": 300.24,
     "text": "I guess you can work out what that means.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 300.24,
     "end": 303.759,
     "text": "Anyway, it seems we both have too much clutter,",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 303.759,
     "end": 307.199,
     "text": "which is the untidyness caused by having too many things.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 307.199,
     "end": 310.479,
     "text": "And this leads us to the popular pastime of decluttering,",
-    "speaker": null
-  },
-  {
-    "start": 310.479,
-    "end": 314.719,
-    "text": "And this leads us to the popular pastime of decluttering, which is throwing away things to make our homes neat and tidy.",
     "speaker": "decluttering"
   },
   {
-    "start": 314.719,
-    "end": 318.079,
-    "text": "Clutter, in my life, is an issue I haven’t tackled yet. I haven’t tried to fix it or sort it out.",
-    "speaker": "Cluttertackled"
+    "order": 99,
+    "start": 310.479,
+    "end": 314.719,
+    "text": "which is throwing away things to make our homes neat and tidy.",
+    "speaker": null
   },
   {
+    "order": 100,
+    "start": 314.719,
+    "end": 318.079,
+    "text": "Clutter, in my life, is an issue I haven't tackled yet.",
+    "speaker": null
+  },
+  {
+    "order": 101,
     "start": 318.079,
     "end": 320.639,
     "text": "I haven't tried to fix it or sort it out.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 320.639,
     "end": 325.36,
     "text": "One area that the experts say you need to tackle is sentimental things.",
-    "speaker": null
+    "speaker": "tacklesentimental"
   },
   {
+    "order": 103,
     "start": 325.36,
     "end": 328.319,
     "text": "These are things which you have an emotional connection to,",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 328.319,
     "end": 330.959,
     "text": "maybe old letters and photographs, for example.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 330.959,
     "end": 335.36,
     "text": "We then looked at the word shift, which was a way of saying change.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 335.439,
     "end": 339.36,
-    "text": "We then looked at the word shift, which was a way of saying 'change'. There has been a shift or a change in the way we think about things.",
-    "speaker": "shiftshift"
+    "text": "There has been a shift or a change in the way we think about things.",
+    "speaker": null
   },
   {
+    "order": 107,
     "start": 339.36,
     "end": 342.48,
     "text": "Yes, rather than an attitude of make-do-and-mend,",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 342.48,
     "end": 345.6,
     "text": "which means an attitude of being content with what you've got",
-    "speaker": null
+    "speaker": "make do and mend"
   },
   {
+    "order": 109,
     "start": 345.6,
     "end": 347.52,
     "text": "and fixing things if they break,",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 347.52,
     "end": 349.92,
     "text": "we've become part of a consumerist culture",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 349.92,
     "end": 352.879,
     "text": "where we like to buy more and more stuff.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 352.879,
     "end": 355.439,
-    "text": "But we still find it hard to throw things away!",
-    "speaker": "Rob"
-  },
-  {
-    "start": 355.439,
-    "end": 356.319,
-    "text": "Yes, indeed we do.",
+    "text": "But we still find it hard to throw things away.",
     "speaker": null
   },
   {
+    "order": 113,
+    "start": 355.439,
+    "end": 356.319,
+    "text": "Yes, indeed, we do",
+    "speaker": "declutter"
+  },
+  {
+    "order": 114,
     "start": 356.319,
     "end": 360.08,
     "text": "Well, it's time for us to collect our scripts and declutter the studio.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 360.08,
     "end": 361.84,
     "text": "We look forward to your company next time,",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 361.84,
     "end": 365.04,
     "text": "and until then, you can find us in all the usual places online",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 365.04,
     "end": 366.24,
     "text": "and on social media.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 366.24,
     "end": 368.319,
     "text": "Just look for BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 368.319,
     "end": 369.12,
     "text": "Bye for now.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 369.12,
     "end": 369.84,
-    "text": "Bye-bye!",
-    "speaker": "Rob"
+    "text": "Bye-bye.",
+    "speaker": null
   }
 ]

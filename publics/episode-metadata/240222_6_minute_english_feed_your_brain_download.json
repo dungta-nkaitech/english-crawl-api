@@ -5,6 +5,31 @@
   "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p0h7ztgp.jpg",
   "audioUrl": "https://downloads.bbc.co.uk/learningenglish/features/6min/240222_6_minute_english_feed_your_brain_download.mp3",
   "pdfUrl": "https://downloads.bbc.co.uk/learningenglish/features/6min/240222_6_minute_english_feed_your_brain_.pdf",
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "word": "sugar rush",
+      "definition": "suddenly feeling excited or full of energy after eating food containing a lot of sugar"
+    },
+    {
+      "word": "balanced diet",
+      "definition": "a diet combining the proper types and amounts of food needed to stay healthy"
+    },
+    {
+      "word": "go low",
+      "definition": "have very little of a particular thing"
+    },
+    {
+      "word": "sharp",
+      "definition": "intelligent and quick to notice and react to things"
+    },
+    {
+      "word": "batch cook",
+      "definition": "cook a lot of food at one time, then save some to eat at later meals"
+    },
+    {
+      "word": "(20 second/minutes) flat",
+      "definition": "used to mean a certain amount of time exactly, and to emphasise that something is done very quickly"
+    }
+  ],
   "quiz": null
 }

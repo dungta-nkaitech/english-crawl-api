@@ -1,368 +1,429 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.52,
     "text": "This is a download from BBC Learning English. To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 13.679,
     "end": 17.839,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Sam.",
     "speaker": "Sam"
   },
   {
+    "order": 2,
     "start": 17.839,
     "end": 25.839,
     "text": "And I'm Rob. Now, on Friday the 29th of June 1975, movie posters appeared in cinemas all over",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 25.839,
     "end": 32.96,
     "text": "the USA with the now notorious words you'll never go in the water again. So, do you know which movie",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 32.96,
     "end": 39.6,
     "text": "was being promoted, Sam? Yes, I think it was George, Steven Spielberg's infamous horror movie,",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 39.6,
     "end": 45.6,
     "text": "which terrified a generation with its story of a man eating great white shark with a taste for",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 45.6,
     "end": 53.439,
     "text": "revenge and for human flesh. George multiplied people's fascination with and fear of sharks.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 54.159,
     "end": 61.359,
     "text": "But sharks' fearsome reputation is not based on facts. Most attacks on humans are cases of",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 8,
     "start": 61.359,
     "end": 68.159,
     "text": "mistaken identity, where the shark mistakes a swimmer for fish. In recent years, the average",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 68.159,
     "end": 74.879,
     "text": "annual number of worldwide deaths from shark bites was as low as four. Today, sharks should be the",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 74.879,
     "end": 81.68,
-    "text": "Today sharks should be the apex predators of the ocean - the top predator that hunts and eats other animals but has no natural predator of its own.",
+    "text": "apex predators of the ocean, the top predator that hunts and eats other animals but has no natural",
     "speaker": "apex predators"
   },
   {
+    "order": 11,
     "start": 81.68,
     "end": 88.72,
     "text": "predator of its own. Instead, over 100 million sharks are caught and killed each year,",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 88.72,
     "end": 95.2,
     "text": "and thanks to this overfishing, many shark species are now endangered. We'll hear more soon,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 95.2,
     "end": 101.52,
     "text": "but first I have a question for you, Rob. Approximately, how many different species of shark",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 101.52,
     "end": 110.8,
     "text": "exist today? Is it A, 330, B, 530 or C, 730?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 110.799,
     "end": 117.519,
     "text": "Will I take a guess at B, 530? Okay, I'll reveal the correct answer later in the program.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 118.079,
     "end": 123.2,
     "text": "Now, as Sam mentioned, jaws made many people nervous about swimming in the sea,",
+    "speaker": "Sam"
+  },
+  {
+    "order": 17,
+    "start": 123.2,
+    "end": 129.039,
+    "text": "largely thanks to scenes in the movie showing the shark biting swimmers in a frenzy of teeth and",
     "speaker": null
   },
   {
-    "start": 123.2,
-    "end": 129.039,
-    "text": "Now, as Sam mentioned, ‘Jaws’ made many people nervous about swimming in the sea, largely thanks to scenes in the movie showing the shark biting swimmers in a frenzy of teeth and blood.",
-    "speaker": "Rob"
-  },
-  {
+    "order": 18,
     "start": 129.039,
     "end": 136,
     "text": "blood. George Burgess has spent 40 years studying the cause of shark attacks in his job as director",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 136,
     "end": 142.639,
     "text": "of the Florida program for shark research. According to him, the movie's depiction of great whites",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 142.639,
     "end": 148.08,
     "text": "is totally unrealistic as he told BBC World Service Program, The Inquiry.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 149.039,
     "end": 154.719,
     "text": "Well, a single shark that's involved in a bite on a human, be more likely to bite another human",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 154.719,
     "end": 160.639,
     "text": "in the future. In other words, is there something of the jaw's image as we saw, unfortunately,",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 23,
     "start": 161.599,
     "end": 166.479,
     "text": "of which you had a white shark that apparently had a grudge and would try to go after a",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 166.479,
     "end": 170.879,
     "text": "human, or nothing could be farther from the truth than that? In the movie, sharks",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 170.879,
     "end": 176.399,
     "text": "operate as vengeful creatures who recognize and try to kill individual people.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 176.399,
     "end": 182.879,
     "text": "The shark in jaws had a grudge, a feeling of anger or hatred towards someone because of what",
-    "speaker": null
+    "speaker": "a grudge"
   },
   {
+    "order": 27,
     "start": 182.879,
     "end": 189.199,
     "text": "they did in the past. According to marine biologist George Burgess, this is nothing like the real",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 189.199,
     "end": 195.759,
     "text": "behavior of sharks in the wild. He says nothing could be further from the truth, an expression",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 195.759,
     "end": 202,
     "text": "used to emphasise that something is not true at all. The actual truth is that sharks have been",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 202,
     "end": 208.079,
     "text": "perfectly designed by evolution for their ocean environment. In fact, they have hardly changed",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 31,
     "start": 208.079,
     "end": 213.919,
     "text": "over the last 400 million years, making them even older than the dinosaurs.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 213.919,
     "end": 221.839,
     "text": "Sharks' characteristic design, their thin teeth and skin, allows them to thrive in their natural",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 221.839,
     "end": 228.159,
     "text": "environment. Listen to Oliver Krimman, senior curator at London's Natural History Museum,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 228.719,
     "end": 232.399,
     "text": "explaining more to BBC World Service programme, The Inquiry.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 233.279,
     "end": 237.359,
-    "text": "If we look at the really successful features of sharks, you've got to consider this",
-    "speaker": null
+    "text": "If we look at the really successful features of sharks you’ve got to consider this ",
+    "speaker": "cartilaginousflexible agile"
   },
   {
+    "order": 36,
     "start": 237.359,
     "end": 243.759,
     "text": "cartolegionous skeleton. That's no bone in the skeleton. That flexible material that the skeleton",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 243.759,
     "end": 251.519,
     "text": "is made of enables sharks to be very agile and it enables them to be athletic and it's like weight.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 252.639,
     "end": 259.279,
     "text": "Sharks skeletons are made of cartolegge, not bone. Cartolegge is a strong flexible tissue",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 259.279,
     "end": 264.719,
     "text": "which connects joints in the bodies of living creatures. Feel for the boning material in the",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 264.719,
     "end": 270.879,
     "text": "fold of your ear. That's cartolegge. Not having bones allows sharks to be both flexible,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 270.879,
     "end": 276.879,
     "text": "able to bend without breaking and agile, able to move their body quickly and easily.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 42,
     "start": 277.519,
     "end": 283.759,
     "text": "Boneless, bendy and built for speed, sharks really are the perfect evolutionary design.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 283.759,
     "end": 290.8,
     "text": "Yet overfishing and the crawl practice of thinning, cutting off shark fins to make exotic soups",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 290.8,
     "end": 296.399,
-    "text": "and returning the wounded creature to the sea to die, are threatening shark numbers.",
+    "text": " and returning the wounded creature to the sea to die, are threatening shark numbers",
+    "speaker": "Sam"
+  },
+  {
+    "order": 45,
+    "start": 296.399,
+    "end": 301.199,
+    "text": "Which is why it's tragic that so many of their species are facing extinction.",
     "speaker": null
   },
   {
-    "start": 296.399,
-    "end": 301.199,
-    "text": "Which is why it’s tragic that so many of their species are facing extinction. And speaking of shark species, what was the answer to your question, Sam?",
-    "speaker": "Rob"
-  },
-  {
+    "order": 46,
     "start": 301.839,
     "end": 305.839,
     "text": "And speaking of shark species, what was the answer to your question, Sam?",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 305.839,
     "end": 311.439,
-    "text": "In my quiz question, I asked how many species of shark there are in existence.",
-    "speaker": "Sam"
+    "text": "Hmm, in my quiz question, I asked how many species of shark there are in existence?",
+    "speaker": null
   },
   {
+    "order": 48,
     "start": 311.439,
     "end": 315.599,
     "text": "Yeah, and I guess it was around 530 different species.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 315.599,
     "end": 321.839,
-    "text": "Which was the correct answer, Rob! And the variety of shark species is incredible, from giants like the great white to the tiny dwarf lantern shark.",
-    "speaker": "Sam"
+    "text": "Which was the correct answer, Rob. And the variety of shark species is incredible,",
+    "speaker": "Rob"
   },
   {
+    "order": 50,
     "start": 321.839,
     "end": 326.799,
     "text": "from giants like the great white to the tiny dwarf lantern shark.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 326.799,
     "end": 333.599,
     "text": "Okay, let's recap the vocabulary from this program all about sharks, the ocean's apex predator.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 333.599,
     "end": 339.039,
     "text": "That's the top predator that hunts other animals but has no predators of its own.",
+    "speaker": "apex predator"
+  },
+  {
+    "order": 53,
+    "start": 339.039,
+    "end": 345.599,
+    "text": "If you hold a grudge, you have feelings of anger towards someone because of something they did in the past.",
     "speaker": null
   },
   {
-    "start": 339.039,
-    "end": 345.599,
-    "text": "If you hold a grudge, you have feelings of anger towards someone because of something they did in the past.",
-    "speaker": "a grudge"
-  },
-  {
+    "order": 54,
     "start": 345.599,
     "end": 351.679,
     "text": "The phrase nothing could be further from the truth is used to emphasize that something is totally",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 351.68,
     "end": 358.879,
     "text": "false. Cutledge is the strong flexible tissue connecting bones or joints in the body.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 358.879,
     "end": 362,
-    "text": "Flexible means able to bend without breaking.",
-    "speaker": "Flexible"
+    "text": " Flexible means able to bend without breaking",
+    "speaker": "Cartilage"
   },
   {
+    "order": 57,
     "start": 362,
     "end": 366.879,
     "text": "And finally, if you’re agile, you can move your body quickly and easily.",
     "speaker": "agile"
   },
   {
+    "order": 58,
     "start": 366.879,
     "end": 370.079,
-    "text": "Once again, our six minutes are over.",
-    "speaker": "Rob"
+    "text": "Hmm, so once again our six minutes are over.",
+    "speaker": null
   },
   {
+    "order": 59,
     "start": 370.079,
     "end": 370.879,
     "text": "Bye for now!",
     "speaker": "Sam"
   },
   {
+    "order": 60,
     "start": 370.879,
     "end": 371.36,
-    "text": "Goodbye!",
-    "speaker": "Rob"
+    "text": "Goodbye.",
+    "speaker": null
   }
 ]

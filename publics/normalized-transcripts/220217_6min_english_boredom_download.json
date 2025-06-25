@@ -1,764 +1,891 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 11.2,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 13.359,
     "end": 17.44,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 17.44,
     "end": 18.879,
-    "text": "And I’m Sam.",
-    "speaker": "Sam"
+    "text": "And I'm Sam.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 18.879,
     "end": 21.12,
     "text": "How’s your week been, Sam?",
     "speaker": "Neil"
   },
   {
+    "order": 6,
     "start": 21.12,
     "end": 23.12,
     "text": "Oh, you know, quiet.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 23.12,
     "end": 26.879,
-    "text": "Oh, you know, quiet – I haven’t done much or been anywhere – so, it’s been a bit boring.",
-    "speaker": "Sam"
-  },
-  {
-    "start": 26.879,
-    "end": 28.24,
-    "text": "I know that feeling.",
+    "text": "I haven't done much or been anywhere, so it's been a bit boring.",
     "speaker": null
   },
   {
+    "order": 8,
+    "start": 26.879,
+    "end": 28.24,
+    "text": "I know that feeling ",
+    "speaker": "boredom"
+  },
+  {
+    "order": 9,
     "start": 28.239,
     "end": 31.359,
     "text": "When nothing exciting happens, it can lead to boredom.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 31.359,
     "end": 34.64,
     "text": "The state of feeling little excitement or enthusiasm,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 11,
     "start": 34.64,
     "end": 37.039,
     "text": "often because you've got nothing to do.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 37.039,
     "end": 38.879,
     "text": "But, Sam, there is some good news.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 38.879,
     "end": 40.64,
     "text": "Boredom can be good for you.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 40.64,
     "end": 42,
-    "text": "Tell me more!",
-    "speaker": "Sam"
+    "text": "Tell me more.",
+    "speaker": null
   },
   {
+    "order": 15,
     "start": 42,
     "end": 44.879,
     "text": "I will, but not until I've sent you a question to answer.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 45.599,
     "end": 51.039,
     "text": "A survey by British newspaper The Mirror found Peter Willis to be the most boring man in Britain.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 17,
     "start": 51.679,
     "end": 55.28,
     "text": "What boring hobby did he have that earned him that title?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 55.28,
     "end": 57.759,
     "text": "Was it A, collecting train numbers?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 58.24,
     "end": 59.6,
     "text": "It's train spotting.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 59.6,
     "end": 62,
-    "text": "b)    Taking photos of letterboxes, or",
+    "text": "B, taking photos of letterboxes.",
     "speaker": "Neil"
   },
   {
+    "order": 21,
     "start": 62.88,
     "end": 67.12,
     "text": "Or C, driving around roundabouts in the UK.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 67.12,
     "end": 70,
     "text": "Wow. That all sounds deadly boring,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 70,
     "end": 74.879,
-    "text": "Wow – they all sounds deadly boring – but I imagine taking photos of letterboxes is the most boring – perhaps?",
+    "text": "but I imagine taking photos of letterboxes is the most boring.",
     "speaker": "Sam"
   },
   {
+    "order": 24,
     "start": 74.879,
     "end": 75.68,
     "text": "Perhaps.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 75.68,
     "end": 79.359,
     "text": "Well, as usual, I will give you the answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 79.359,
     "end": 83.28,
     "text": "But, as you say, we might die of boredom following those hobbies,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 83.28,
     "end": 87.04,
     "text": "a phrase that expresses how extremely bored you are.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 87.12,
     "end": 88.72,
-    "text": "But not for everyone.",
-    "speaker": null
+    "text": "But not for everyone ",
+    "speaker": "Sam"
   },
   {
+    "order": 29,
     "start": 88.72,
     "end": 91.04,
     "text": "Boredom depends on your state of mind.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 91.04,
     "end": 93.12,
     "text": "Some of us might find something boring,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 93.12,
     "end": 95.52,
     "text": "while others might find it fascinating.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 95.52,
     "end": 96.24,
     "text": "True.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 96.24,
     "end": 99.84,
     "text": "But let's talk about feeling bored when we have nothing to do.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 99.84,
     "end": 101.6,
     "text": "Not even train spotting.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 101.6,
     "end": 105.52,
     "text": "Having nothing to do, or doing the same task again and again,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 105.52,
     "end": 107.92,
     "text": "can certainly be demotivating.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 107.92,
     "end": 112.16,
     "text": "But, according to Sandy Mann, who was speaking on the BBC World Services,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 112.16,
     "end": 113.92,
     "text": "the Y Factor programme,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 113.92,
     "end": 116.56,
     "text": "being bored doesn't have to be boring.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 116.56,
     "end": 117.84,
     "text": "It can be good for us.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 119.359,
     "end": 122.159,
     "text": "This emotion that everyone thinks is so negative,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 122.159,
     "end": 123.68,
-    "text": "but there's a real positive to it too.",
-    "speaker": null
+    "text": " but there's a real positive to it too",
+    "speaker": "upside stimulationnovelty"
   },
   {
+    "order": 43,
     "start": 123.68,
     "end": 125.28,
     "text": "There's a real upside to it.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 125.28,
     "end": 127.04,
     "text": "We become more creative.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 127.04,
     "end": 130.96,
     "text": "So, for example, being bored allows our minds to wonder,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 130.96,
     "end": 132.479,
     "text": "allows us to daydream,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 132.479,
     "end": 136.56,
     "text": "and that can actually lead us to problem solving and creativity.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 136.56,
     "end": 140.24,
     "text": "Our fear that by swiping and scrolling our boredom away",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 140.24,
     "end": 143.52,
     "text": "these days, that we're losing that creativity,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 143.52,
     "end": 145.759,
     "text": "because we've got so much to entertain us.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 145.759,
     "end": 148.159,
     "text": "But it seems that the more we have to entertain us,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 148.159,
     "end": 149.679,
     "text": "the more bored we seem to be.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 149.679,
     "end": 150.879,
     "text": "And there's a reason for that.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 150.879,
     "end": 156,
     "text": "And that is because we actually get addicted to stimulation and to novelty.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 157.359,
     "end": 160.959,
     "text": "Some interesting thoughts from Sandy Mann there.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 160.959,
     "end": 163.519,
     "text": "She says that there's an upside to boredom.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 163.519,
     "end": 166.719,
     "text": "That means a positive side to a bad situation.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 166.719,
     "end": 170.079,
     "text": "And that is, it can make us more creative.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 170.079,
     "end": 172.399,
-    "text": "That's because when we have nothing to do,",
-    "speaker": null
+    "text": "That’s because when we have nothing to do,",
+    "speaker": "Sam"
   },
   {
+    "order": 60,
     "start": 172.399,
     "end": 174.959,
     "text": "we allow our minds to wonder.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 174.96,
     "end": 178.64,
     "text": "We can think freely, which might help us solve problems.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 178.64,
     "end": 181.04,
     "text": "This can't happen when, as Sandy says,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 181.04,
     "end": 184.319,
     "text": "we swipe and scroll our boredom away.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 184.319,
     "end": 187.68,
     "text": "Referring to the movements, we make on smartphones.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 187.68,
     "end": 192,
     "text": "Yes, and it's smartphones we turn to for entertainment when we are bored.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 192,
     "end": 193.84,
     "text": "It gives us stimulation.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 193.84,
     "end": 196.56,
     "text": "It activates or enriches the mind.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 196.56,
     "end": 200.159,
     "text": "And it gives us something new, unusual and different to look at.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 200.159,
     "end": 201.84,
     "text": "What we call novelty.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 201.92,
     "end": 205.52,
-    "text": "I'm sure many of us look at our phones when we are in a queue",
-    "speaker": null
+    "text": "I’m sure many of us look at our phones when we are in a queue",
+    "speaker": "Sam"
   },
   {
+    "order": 71,
     "start": 205.52,
     "end": 208.879,
     "text": "or sitting on the bus, just to prevent being bored.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 208.879,
     "end": 211.439,
     "text": "But it seems we should just sit and think.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 212.159,
     "end": 215.039,
     "text": "Let's take inspiration from Manush Zomarodi,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 215.039,
     "end": 218.64,
     "text": "an author and host of the Zigzag podcast.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 218.64,
     "end": 221.68,
     "text": "Here she is speaking on the Y Factor program,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 221.68,
     "end": 224.96,
     "text": "explaining that it takes effort, but it's worth it.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 226.56,
     "end": 228.4,
     "text": "We think who wants to be bored?",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 228.4,
     "end": 231.28,
     "text": "What an awful sensation that is.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 231.28,
     "end": 234.479,
     "text": "And I think that the issue is with mind wandering,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 234.479,
     "end": 239.199,
     "text": "you don't immediately get to roses and chirping birds",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 239.199,
     "end": 241.28,
     "text": "and amazing creative thinking.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 241.28,
     "end": 243.92,
     "text": "There is this uncomfortable period",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 243.92,
     "end": 245.52,
     "text": "that you have to pass through,",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 245.52,
     "end": 247.199,
     "text": "where maybe you start thinking about things",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 248,
     "end": 250,
     "text": "you don't want to think about,",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 250,
     "end": 252.639,
     "text": "or uncomfortable situations,",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 252.639,
     "end": 255.92,
     "text": "or unpleasant feelings that you have.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 255.92,
     "end": 257.68,
     "text": "That's why boredom, I think,",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 257.68,
     "end": 259.279,
     "text": "has such negative connotations",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 259.359,
     "end": 261.439,
     "text": "because we feel uncomfortable.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 261.439,
     "end": 264,
     "text": "But when we stick with it,",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 264,
     "end": 265.679,
     "text": "that's when the good stuff can come.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 267.199,
     "end": 271.039,
     "text": "So we might think of boredom as an awful sensation or feeling,",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 271.039,
     "end": 274.479,
     "text": "because that's when we start focusing on negative things.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 274.479,
     "end": 278.399,
     "text": "Manush thinks that's why we have negative connotations with boredom.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 279.039,
     "end": 282.879,
     "text": "A connotation is an emotion connected to a word.",
-    "speaker": null
+    "speaker": "sensationconnotations"
   },
   {
+    "order": 97,
     "start": 282.879,
     "end": 286.479,
     "text": "But if we work through the bad stuff and stick with it,",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 286.479,
     "end": 288.799,
     "text": "amazing creative thinking can happen.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 289.279,
     "end": 292,
     "text": "As Manush says, the good stuff can come.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 292.559,
     "end": 296.319,
-    "text": "So basically, don't think of boredom as being boring.",
-    "speaker": null
+    "text": "So, basically, don’t think of boredom as being boring",
+    "speaker": "Neil"
   },
   {
+    "order": 101,
     "start": 296.319,
     "end": 299.839,
     "text": "However, could this adjective be applied to the hobby",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 299.839,
     "end": 303.279,
     "text": "that Peter Willis, the most boring man in Britain, does?",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 304.159,
     "end": 307.119,
     "text": "Yes, Neil, you asked me what that hobby is.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 307.119,
     "end": 310.799,
     "text": "And I said he took photos of post-pixes.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 310.799,
     "end": 311.599,
     "text": "Was I right?",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 312.399,
     "end": 314.719,
     "text": "Yes, you were. Congratulations.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 314.719,
     "end": 318.639,
-    "text": "Yes, you were! Congratulations. The former postman dreams of taking a photo of all of Britain’s 115,000 postboxes.",
-    "speaker": "Neil"
+    "text": "The former postman dreams of taking a photo of all of Britain's",
+    "speaker": null
   },
   {
+    "order": 108,
     "start": 318.639,
     "end": 321.599,
     "text": "115,000 post-boxes.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 321.599,
     "end": 323.839,
     "text": "Well, good luck to Visa.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 323.839,
     "end": 327.279,
     "text": "I didn't realise there were so many post-boxes in the UK.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 328.159,
     "end": 331.919,
     "text": "So we've been talking about the benefits of boredom today.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 331.919,
     "end": 336.479,
     "text": "Boredom is the state of feeling little excitement or enthusiasm.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 336.479,
     "end": 337.519,
-    "text": "We mentioned the phrase,",
-    "speaker": null
+    "text": "We mentioned the phrase ",
+    "speaker": "die of boredom"
   },
   {
+    "order": 114,
     "start": 337.519,
     "end": 339.039,
     "text": "the die of boredom,",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 339.039,
     "end": 342.56,
-    "text": "We mentioned the phrase to die of boredom which we use to express how extremely bored we are.",
-    "speaker": "die of boredom"
+    "text": "which we use to express how extremely bored we are.",
+    "speaker": null
   },
   {
+    "order": 116,
     "start": 342.56,
     "end": 344.639,
     "text": "But boredom has an upside,",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 344.639,
     "end": 348.319,
-    "text": "But boredom has an upside, which means it has a positive side to a bad situation.",
-    "speaker": "upside"
-  },
-  {
-    "start": 348.319,
-    "end": 350,
-    "text": "We heard the word stimulation,",
+    "text": "which means it has a positive side to a bad situation.",
     "speaker": null
   },
   {
+    "order": 118,
+    "start": 348.319,
+    "end": 350,
+    "text": "We heard the word stimulation ",
+    "speaker": "stimulationnovelty"
+  },
+  {
+    "order": 119,
     "start": 350,
     "end": 353.199,
     "text": "which means it activates or enriches the mind.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 353.199,
     "end": 356.24,
     "text": "A novelty which describes something that is new,",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 356.24,
     "end": 357.599,
     "text": "unusual or different.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 358.24,
     "end": 360.719,
     "text": "And we described a connotation.",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 360.719,
     "end": 363.759,
-    "text": "And we described a connotation – that’s an emotion connected to a word.",
-    "speaker": "connotation"
+    "text": "That's an emotion connected to a word.",
+    "speaker": null
   },
   {
+    "order": 124,
     "start": 363.759,
     "end": 366.56,
-    "text": "Well, I hope you haven’t been bored listening to us! Goodbye for now!",
+    "text": "Well, I hope you haven’t been bored listening to us!",
     "speaker": "Neil"
   },
   {
+    "order": 125,
     "start": 366.56,
     "end": 367.759,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 367.759,
     "end": 368.56,
-    "text": "Bye!",
-    "speaker": "Sam"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

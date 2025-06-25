@@ -1,416 +1,485 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7,
     "text": "This is a download from BBC Learning English to find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7,
     "end": 18,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 2,
     "start": 18,
     "end": 26,
     "text": "And I'm Sam. In this programme we'll be hearing about the extraordinary life of a well-known BBC journalist, Furgle Keen.",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 26,
     "end": 33,
     "text": "As a BBC war correspondent, Furgle witnessed some of the most violent events in recent history.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 33,
     "end": 43,
     "text": "Furgle's reporting helped his television audiences make sense of the horrors of war, but underneath there were more personal reasons attracting him to the front line.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 43,
     "end": 50,
     "text": "Despite the danger, Furgle found himself going back again and again to report from war zones.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 50,
     "end": 57,
     "text": "It gave him something he couldn't get anywhere else, a massive rush of adrenaline.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 57,
     "end": 62,
     "text": "And Furgle started to worry that he was becoming addicted to war.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 62,
     "end": 73,
     "text": "In his new book The Madness, a memoir of war, fear and PTSD, Furgle discusses living with PTSD or post-traumatic stress disorder,",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 73,
     "end": 79,
     "text": "a type of psychological suffering that results from witnessing extreme violence.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 79,
     "end": 86,
     "text": "We'll hear about some key events in Furgle's life and, as usual, we'll be learning some new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 86,
     "end": 97,
     "text": "But first I have a question for you, Sam. The term PTSD is quite new, but descriptions of the mental suffering of war go back to ancient times.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 12,
     "start": 97,
     "end": 104,
     "text": "Something similar to PTSD is mentioned in Viking sagas and in stories about both world wars.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 104,
     "end": 112,
     "text": "So what was the name of the PTSD-like condition suffered by many soldiers during the First World War?",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 112,
     "end": 118,
     "text": "Was it A, nostalgia, B, shell shock or C, combat stress?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 118,
     "end": 121,
     "text": "I think the answer is shell shock.",
-    "speaker": "Sam"
+    "speaker": "Neil"
   },
   {
+    "order": 16,
     "start": 121,
     "end": 124,
     "text": "Okay, Sam, I'll reveal the answer later in the program.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 124,
     "end": 132,
     "text": "Furgle Keen, who was born in Ireland, had seen violence ever since the early days of his career covering the fighting in Belfast.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 132,
     "end": 140,
     "text": "He had already reported from wars all over the world, when in 1994 he was sent to cover the Civil War in Rwanda.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 19,
     "start": 140,
     "end": 144,
     "text": "But what Furgle saw there shocked him like nothing before.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 144,
     "end": 150,
     "text": "As he told Mobine Azhar, presenter of BBC World Service program, lives less ordinary.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 150,
     "end": 154,
     "text": "And I began to have nightmares of Rwanda.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 154,
     "end": 164,
     "text": "And of course at that stage, you know, it was obvious that I was traumatized, but again, did I got a psychiatrist?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 164,
     "end": 168,
     "text": "No, I didn't. I kept doing the job.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 168,
     "end": 170,
     "text": "Did you turn to other things?",
     "speaker": "Mobeen Azhar"
   },
   {
+    "order": 25,
     "start": 170,
     "end": 171,
     "text": "Boos.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 171,
     "end": 173,
     "text": "Boos. I mean how much booze are we talking?",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 173,
     "end": 176,
     "text": "You know, the truth is I was in an alcoholic language before I got to Rwanda.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 176,
     "end": 183,
     "text": "But I was in the kind of functioning alcoholic, what they call, you know, managing it, stage of the disease.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 183,
     "end": 190,
     "text": "When Furgle returned home from Rwanda, he started having nightmares, obsessing and frightening dreams.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 190,
     "end": 201,
     "text": "It was obvious he was traumatized from the violence he had seen, but still Furgle didn't go to a psychiatrist, a medical doctor who specialises in treating mental illness.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 201,
     "end": 206,
     "text": "Instead Furgle turned to booze, an informal name for alcohol.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 206,
     "end": 213,
     "text": "Furgle had been addicted to alcohol before he arrived in Rwanda, but now he had another addiction to cope with.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 213,
     "end": 219,
     "text": "The need to keep returning to war. Furgle knew it wasn't healthy, but he couldn't stop.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 219,
     "end": 226,
     "text": "Around the year 2001, it seemed that war was everywhere, and Furgle kept on reporting.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 226,
     "end": 231,
     "text": "In Sudan, Iraq, Afghanistan and Lebanon.",
-    "speaker": null
+    "speaker": "booze"
   },
   {
+    "order": 36,
     "start": 231,
     "end": 235,
     "text": "But the nightmares didn't stop, and his mental health got worse and worse.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 235,
     "end": 242,
     "text": "Here Furgle takes up the story with BBC World Service Programme, lives less ordinary.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 242,
     "end": 245,
     "text": "A reach a point where I can't carry that anymore.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 245,
     "end": 250,
     "text": "And it's not dramatic, it's a slow, steady erosion.",
-    "speaker": null
+    "speaker": "breakdown"
   },
   {
+    "order": 40,
     "start": 250,
     "end": 256,
     "text": "And that ends with a breakdown and admission to hospital.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 256,
     "end": 261,
     "text": "And this time, diagnosed with post-traumatic stress disorder.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 261,
     "end": 266,
     "text": "And fulfilling the kind of essential criteria as the psychiatrist,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 266,
     "end": 275,
     "text": "so much of hypervigilance, nightmares, flashbacks, more nightmares than flashbacks.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 275,
     "end": 280,
     "text": "And the sense of being under threat and anger.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 280,
     "end": 281,
     "text": "How did you feel?",
-    "speaker": "Mobeen Azhar"
+    "speaker": null
   },
   {
+    "order": 46,
     "start": 281,
     "end": 285,
     "text": "Relief, I think. You know, there's a name to this.",
     "speaker": "Fergal Keane"
   },
   {
+    "order": 47,
     "start": 285,
     "end": 290,
     "text": "You might expect Furgle to call it a day at this point, but that's not how addiction works.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 290,
     "end": 293,
     "text": "He just kept getting pulled back in.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 293,
     "end": 301,
     "text": "Furgle had a nervous breakdown, a period of acute mental illness, leaving him unable to cope with life.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 301,
     "end": 306,
     "text": "After the terrible things Furgle had witnessed, you might expect him to call it a day,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 306,
     "end": 309,
     "text": "a phrase meaning to decide to stop what you're doing.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 309,
     "end": 312,
     "text": "But Furgle's addiction made that impossible.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 312,
     "end": 319,
     "text": "After his diagnosis of PTSD, he got support and was able to stay away from booze and war.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 319,
     "end": 322,
     "text": "Okay, it's time to reveal the answer to my question.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 322,
     "end": 328,
     "text": "I asked about the name of the PTSD-like condition suffered by soldiers during World War I.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 328,
     "end": 330,
     "text": "And I said it was shell shock.",
-    "speaker": "Sam"
+    "speaker": "Neil"
   },
   {
+    "order": 57,
     "start": 330,
     "end": 333,
     "text": "Which was the correct answer.",
-    "speaker": null
+    "speaker": "post-traumatic stress disorder"
   },
   {
+    "order": 58,
     "start": 333,
     "end": 338,
     "text": "Right, let's recap the vocabulary we've learned from the extraordinary life of Furgle Keen,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 338,
     "end": 343,
     "text": "the war correspondent who suffered PTSD or post-traumatic stress disorder,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 343,
     "end": 348,
     "text": "a mental illness experienced after violent or shocking events.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 348,
     "end": 351,
     "text": "A nightmare is an upsetting or frightening dream.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 351,
     "end": 356,
-    "text": "A psychiatrist is a type of doctor who specialises in mental illness.",
+    "text": "psychiatrist is a type of doctor who specialises in mental illness.",
     "speaker": "psychiatrist"
   },
   {
+    "order": 63,
     "start": 356,
     "end": 358,
     "text": "Booze is slang for alcohol.",
-    "speaker": "Booze"
+    "speaker": null
   },
   {
+    "order": 64,
     "start": 358,
     "end": 362,
-    "text": "A breakdown, is an acute period of psychological illness leaving you unable to cope with life.",
+    "text": "A breakdown, is an acute period of psychological illness",
     "speaker": "breakdown"
   },
   {
+    "order": 65,
     "start": 362,
     "end": 364,
     "text": "leaving you unable to cope with life.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 364,
     "end": 370,
     "text": "And finally, the phrase call it a day means to stop what you're doing because you no longer want to.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 370,
     "end": 374,
     "text": "Once again, our six minutes are up. Good bye for now.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 374,
     "end": 375,
-    "text": "Goodbye!",
-    "speaker": "Neil"
+    "text": "Goodbye.",
+    "speaker": null
   }
 ]

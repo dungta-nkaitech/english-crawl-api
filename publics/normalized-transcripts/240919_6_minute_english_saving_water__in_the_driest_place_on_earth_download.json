@@ -1,455 +1,531 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 2.64,
     "text": "6-Nuit English",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 2.64,
     "end": 5.679,
     "text": "From BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 8,
     "end": 12.16,
     "text": "Hello, this is 6-minute English from BBC Learning English, I'm Neil",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 12.16,
     "end": 13.359,
-    "text": "And I’m Beth.",
-    "speaker": "Beth"
+    "text": "And I'm Beth",
+    "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 13.359,
     "end": 17.12,
     "text": "We all know how horrible it feels to be thirsty",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 17.12,
     "end": 20.64,
     "text": "Human bodies need around 3 litres of water a day",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 20.64,
     "end": 26.48,
     "text": "And thankfully most of us can just turn on the kitchen tap to get clean drinking water",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 26.64,
     "end": 33.6,
     "text": "But globally over 2 billion people around a quarter of the world's population live in water",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 33.6,
     "end": 40.159,
     "text": "stressed countries where access to water for drinking, cooking and washing is not guaranteed",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 40.159,
     "end": 45.76,
     "text": "What's more, water is also needed to grow food and that's getting harder due to droughts",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 45.76,
     "end": 48,
     "text": "which are increasing with climate change",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 48,
     "end": 54.24,
     "text": "In this programme we'll visit farmers in one of the driest places on earth, Yuma in the USA",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 12,
     "start": 54.24,
     "end": 60.88,
     "text": "where a new technology involving liquid clay is helping farmers grow fruit and vegetables in the desert",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 60.88,
     "end": 64.799,
     "text": "And as usual we'll be learning some useful new vocabulary too",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 64.799,
     "end": 68.079,
     "text": "But first I have a question for you Neil",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 68.079,
     "end": 72.24,
     "text": "Everyone knows that plants need sunlight and water to grow",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 72.24,
     "end": 75.04,
     "text": "but soil is just as important",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 75.04,
     "end": 82.159,
     "text": "One of the most useful soils is clay, a dense, smooth soil which is very fertile but sticky",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 82.799,
     "end": 86.399,
     "text": "Clay has been used in agriculture for thousands of years",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 86.399,
     "end": 88.799,
     "text": "But what is its more modern use?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 88.799,
     "end": 95.439,
     "text": "Is clay good for a. Curing headaches, b. Digesting food or c.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 95.439,
     "end": 96.879,
-    "text": "c) smoothing face skin?",
+    "text": "Smoothing face skin",
     "speaker": "Beth"
   },
   {
+    "order": 22,
     "start": 97.759,
     "end": 102.239,
     "text": "Well I think clay can be used to smooth the skin on people's faces",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 102.879,
     "end": 106.319,
     "text": "Okay Neil, we'll find out if that's the correct answer later",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 106.959,
     "end": 109.919,
     "text": "Lack of water and farming are closely connected",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 25,
     "start": 110.479,
     "end": 116.159,
     "text": "Agriculture uses a massive 70% of the world's fresh water supply",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 116.159,
     "end": 119.599,
     "text": "so ways to use water more efficiently are much needed",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 120.639,
     "end": 125.919,
     "text": "Oles-Sivitzen's company Desert Control works with date farmers in Yuma",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 125.919,
     "end": 129.12,
     "text": "an area on the border of California and Mexico",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 129.759,
     "end": 136.24,
     "text": "One of the hottest places on earth, Yuma has been experiencing its worst drought in 500 years",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 137.039,
     "end": 142.079,
     "text": "forcing farmers to pump water from rivers to grow their date palm trees",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 142.079,
     "end": 146.079,
     "text": "Fortunately, Oles team have created a liquid that they say",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 32,
     "start": 146.079,
     "end": 150.799,
     "text": "can turn the sandy desert soil into a sponge which holds water and nutrients",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 151.519,
     "end": 154.639,
     "text": "Here he explains his invention to Anthony Wallace",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 154.639,
     "end": 158.799,
     "text": "reporter for BBC World Service program People Fixing the World",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 159.439,
     "end": 164.159,
     "text": "To understand how it works we need to look at the difference between sandy soil and clay soil",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 164.879,
     "end": 167.52,
     "text": "sandy desert soil has a lot of gaps in it",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 167.52,
     "end": 172.56,
     "text": "so water drains through it quickly making it harder for plants to establish a root system in the ground",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 173.28,
     "end": 179.199,
     "text": "but clay soil is made up of much smaller particles that cling together and naturally stop water from escaping",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 179.199,
     "end": 185.439,
-    "text": "It creates the habitat for the soil microbiology to also start to develop and evolve, so it's kind of a kick-start as well to nature's natural processes.",
+    "text": "It creates the habitat for the soil microbiology to also start to develop and evolve",
     "speaker": "kick-start"
   },
   {
+    "order": 40,
     "start": 185.439,
     "end": 189.359,
     "text": "so it's kind of a kickstart as well to nature's natural processes",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 190,
     "end": 193.76,
     "text": "The problem with sandy soil is that it drains water",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 193.76,
     "end": 197.12,
     "text": "if you drain something you remove the liquid from it",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 197.12,
     "end": 203.6,
     "text": "Clay soil on the other hand is made of smaller particles which cling or stick together tightly",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 203.6,
     "end": 206.16,
     "text": "and hold water helping plants grow",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 206.16,
     "end": 211.52,
     "text": "Oles makes a liquid by mixing clay and water which changes the soil composition",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 211.52,
     "end": 214.64,
     "text": "and kick starts the growth of his trees",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 214.64,
     "end": 217.84,
     "text": "the liquid makes the trees start growing more quickly",
-    "speaker": null
+    "speaker": "kick-starts"
   },
   {
+    "order": 48,
     "start": 217.92,
     "end": 223.2,
     "text": "liquid clay technology is still new and costing around $2,000 an acre",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 223.2,
     "end": 229.52,
     "text": "it's not cheap but Oles claims his technique halves the amount of water needed to grow fruit trees",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 229.52,
     "end": 233.599,
     "text": "and that most farmers will make back their investment within two years",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 233.599,
     "end": 240.56,
     "text": "Oles claims sound too good to be true but are there downsides to interfering with nature in this way",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 240.56,
     "end": 246.96,
     "text": "presenters Myra and Nubi and Anthony Wallace discuss this question for BBC World Services",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 247.36,
     "end": 248.4,
     "text": "People Fixing the World",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 249.36,
     "end": 253.68,
-    "text": "Anthony, I'm still left wondering, right… when you manipulate soil like this, could you be causing problems down the line?",
+    "text": "Anthony I'm still left wondering right when you manipulate soil like this",
     "speaker": "down the line"
   },
   {
+    "order": 55,
     "start": 253.68,
     "end": 256.16,
     "text": "Could you be causing problems down the line?",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 256.16,
     "end": 260.8,
     "text": "Yeah I think anytime that there's a new technology where you are like you said",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 260.8,
     "end": 265.68,
     "text": "manipulating nature only time will tell what the long term effects of that will be",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 266.4,
     "end": 273.04,
     "text": "but Oles did stress that their liquid clay does not use any chemicals only clay, air and water",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 273.439,
     "end": 280.96,
     "text": "Oles liquid clay involves manipulating soil using and controlling it skillfully to achieve some results",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 280.96,
     "end": 289.2,
-    "text": "Ole’s liquid clay involves manipulating soil – using and controlling it skilfully to achieve some result. Myra worries that when people do this, they could create problems down the line – at some unspecified point in the future.",
+    "text": "Myra worries that when people do this they could create problems down the line at some unspecified point in the future",
     "speaker": "manipulatingdown the line"
   },
   {
+    "order": 61,
     "start": 289.2,
     "end": 296.4,
     "text": "In fact only time will tell if liquid clay is a long term solution to the problem of water scarcity",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 296.4,
     "end": 302.72,
     "text": "the phrase only time will tell means that the result of something happening now will not be known",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 302.72,
     "end": 308.16,
     "text": "until the future something we can know though is the answer to my question Neil",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 308.16,
     "end": 315.12,
-    "text": "Yes, you asked about a modern use for clay, and I guessed it was for smoothing facial skin.",
+    "text": "Yes you asked about a modern use for clay and I guessed it was for smoothing facial skin",
     "speaker": "Neil"
   },
   {
+    "order": 65,
     "start": 315.12,
     "end": 324.16,
     "text": "Which was the correct answer a clay mask also called a mud pack is used to smooth the skin on your face",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 324.16,
     "end": 330,
     "text": "Okay let's recap the vocabulary we've learnt in this programme starting with the verb to drain",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 330,
     "end": 335.439,
     "text": "which means to remove liquid to cling it means to stick or hold tightly onto something",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 335.439,
     "end": 340,
     "text": "if you kick start something you make it start or develop more quickly",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 340,
     "end": 344.16,
     "text": "to manipulate means to skillfully use or control something",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 344.16,
     "end": 347.839,
     "text": "the phrase down the line means sometime in the future",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 347.839,
     "end": 353.759,
     "text": "and finally the idiom only time will tell means that the truth about something happening now will",
-    "speaker": null
+    "speaker": "down the line,"
   },
   {
+    "order": 72,
     "start": 353.759,
     "end": 358.879,
     "text": "only be known in the future once again our six minutes are up but remember to join us again",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 358.879,
     "end": 364.719,
     "text": "next time for more trending topics and useful vocabulary here at six minute English goodbye for now",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 364.719,
     "end": 366.24,
-    "text": "Bye!",
-    "speaker": "Beth"
+    "text": "bye",
+    "speaker": null
   },
   {
+    "order": 75,
     "start": 366.24,
     "end": 372.719,
     "text": "six minute English from bbclearningenglish.com",

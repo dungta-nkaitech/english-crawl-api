@@ -5,6 +5,31 @@
   "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p06x07pn.jpg",
   "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/190110_6min_english_schadenfreude_download.mp3",
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/190110_6min_english_schadenfreude.pdf",
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "word": "schadenfreude",
+      "definition": "schadenfreudethe satisfying feeling you get when something bad happens to someone else"
+    },
+    {
+      "word": "loanword",
+      "definition": "a word from one language that is used in another language without being changed"
+    },
+    {
+      "word": "comeuppance",
+      "definition": "comeuppancea person's misfortune that is considered to be deserved punishment for something bad that they have done"
+    },
+    {
+      "word": "justice",
+      "definition": "justicepunishment someone receives that is fair for what they have done"
+    },
+    {
+      "word": "hypocrites",
+      "definition": "people who claim to have certain moral beliefs but actually behave in a way that shows they are not sincere"
+    },
+    {
+      "word": "commiserate",
+      "definition": "expressing sympathy to someone about their bad luck"
+    }
+  ],
   "quiz": null
 }

@@ -1,389 +1,454 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.52,
     "text": "This is a download from BBC Learning English. To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 13.2,
     "end": 17.28,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 2,
     "start": 17.28,
     "end": 18.64,
-    "text": "And I’m Georgina.",
-    "speaker": "Georgina"
+    "text": "And I'm Georgina.",
+    "speaker": null
   },
   {
+    "order": 3,
     "start": 18.64,
     "end": 25.44,
     "text": "With no end in sight to the coronavirus pandemic, many people can’t wait for the year 2020 to end.",
     "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 25.44,
     "end": 28.72,
     "text": "But with the coronavirus dominating the newspaper headlines,",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 28.72,
     "end": 34.88,
-    "text": "But with the coronavirus dominating the newspaper headlines, attention has moved away from an equally serious global issue which has quietly been getting worse – climate change.",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 34.88,
-    "end": 35.76,
-    "text": "Climate change.",
+    "text": "attention has moved away from an equally serious global issue, which has quietly been getting worse.",
     "speaker": null
   },
   {
-    "start": 36.64,
-    "end": 44.799,
-    "text": "August 2020 saw the hottest temperature recorded anywhere in modern times – 54.4 degrees Celsius in California’s Death Valley.",
+    "order": 6,
+    "start": 34.88,
+    "end": 35.76,
+    "text": "Climate change.",
     "speaker": "Neil"
   },
   {
+    "order": 7,
+    "start": 36.64,
+    "end": 44.799,
+    "text": "August 2020 saw the hottest temperature recorded anywhere in modern times, 54.4 degrees Celsius",
+    "speaker": "Neil"
+  },
+  {
+    "order": 8,
     "start": 44.799,
     "end": 50.96,
     "text": "in California's Death Valley. The same month also saw record amounts of ice melting into the oceans",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 50.96,
     "end": 57.52,
     "text": "around Greenland and the Arctic. Huge icebergs breaking away from the edge of the ice sheet.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 57.52,
     "end": 61.6,
     "text": "A thick layer of ice which has covered a large area for a long time.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 62.24,
     "end": 67.84,
     "text": "Greenland's ice sheet is three times the size of Texas at almost two kilometres thick.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 67.84,
     "end": 71.84,
     "text": "Locked inside is enough water to raise sea levels by six metres.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 72.48,
     "end": 78.079,
     "text": "But global heating and melting polar ice has many scientists asking whether it's now too late to stop.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 78.959,
     "end": 80.959,
     "text": "Have we reached the point of no return?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 81.599,
     "end": 86.4,
     "text": "In this programme, we'll be looking at the effects of climate change on the Arctic and asking if",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 86.4,
     "end": 90.959,
     "text": "it's too late to change. And learning some of the related vocabulary too.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 91.519,
     "end": 96.64,
     "text": "Now Georgina, you mentioned record levels of ice melt in the North Pole that the scale is hard",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 96.64,
     "end": 103.039,
     "text": "to take in. The amounts are so big they're measured in gigatons. That's a billion metric tons.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 103.84,
     "end": 109.28,
     "text": "Imagine a giant ice cube one kilometre by one kilometre by one kilometre.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 110.08,
     "end": 116.48,
     "text": "So my quiz question is this how many gigatons of ice are now melting into the ocean every year.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 116.48,
     "end": 124.48,
     "text": "Is it A 450 gigatons, B 500 gigatons or C 550 gigatons?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 124.48,
     "end": 127.92,
     "text": "I'll take a guess at B 500 gigatons.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 128.879,
     "end": 135.52,
     "text": "Okay Georgina, we'll find out later. Now, Glaciologists, Michaela King, has been monitoring",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 135.52,
     "end": 141.439,
     "text": "the melting of Arctic ice by satellite. Here she is answering a question from BBC World",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 25,
     "start": 141.439,
     "end": 146.879,
     "text": "Service Programme Science in Action on whether the destruction of the ice sheet is now unavoidable.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 148.56,
     "end": 155.36,
     "text": "If we were to say, you define a tipping point as a shift from one like stable dynamic state",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 155.44,
     "end": 161.92,
     "text": "to another, this certainly meets that criteria because we are seeing now that the ice sheet was more",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 161.92,
     "end": 167.6,
     "text": "less in balance prior to 2000 where the amount of ice being drained from the glaciers was",
-    "speaker": null
+    "speaker": "tipping point ice sheetin balanceglaciers"
   },
   {
+    "order": 29,
     "start": 167.6,
     "end": 172.56,
     "text": "approximately equal to what we were gaining on the surface via snow every year.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 174,
     "end": 179.28,
     "text": "Isis made from snow falling on greenlands, glaciers, large, slow moving masses of ice.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 179.76,
     "end": 183.04,
     "text": "At the same time though, ice is also lost through melting.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 183.519,
     "end": 188.719,
-    "text": "These two processes of making and melting ice kept the ice level in balance,",
-    "speaker": null
+    "text": "These two processes of making and melting ice kept the ice level in balance ",
+    "speaker": "in balance"
   },
   {
+    "order": 33,
     "start": 188.719,
     "end": 193.759,
     "text": "having different parts or elements arranged in the correct proportions. Essentially,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 193.759,
     "end": 197.039,
     "text": "the melting ice was replaced by newly frozen ice.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 197.68,
     "end": 202.159,
     "text": "But now the glaciers are shrinking faster, the new ice is being accumulated,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 202.159,
     "end": 207.68,
     "text": "and the situation may have reached a tipping point. The time at which a change or an effect",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 207.68,
     "end": 213.04,
     "text": "cannot be stopped. So does this mean that global heating and ice melting are now running",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 213.04,
     "end": 218.24,
     "text": "automatically separate from the amount of greenhouse gases humans are pumping into the atmosphere?",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 39,
     "start": 218.879,
     "end": 221.439,
     "text": "Does that mean we should just give up on the planet?",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 222.159,
     "end": 228.64,
     "text": "In fact, the situation is far from simple, as Michaela King explains here to BBC World Service Programme",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 228.64,
     "end": 237.2,
     "text": "Science in Action. We can definitely control the rate of mass loss, so it's definitely not a",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 237.68,
     "end": 242.48,
     "text": "throw your hands up and just not do anything about. Give up on the ice sheet kind of situation,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 242.48,
     "end": 247.52,
     "text": "that's certainly not the message I want to send. But it does seem likely that we will continue",
-    "speaker": null
+    "speaker": "‘throw your hands up’ rate"
   },
   {
+    "order": 44,
     "start": 247.52,
     "end": 255.439,
     "text": "to lose mass, but of course, a slow rate of mass losses highly preferred to large annual losses",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 255.439,
     "end": 262.72,
     "text": "every year. Michaela thinks that changes in human activity can still slow the rate or speed at",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 262.72,
     "end": 267.12,
     "text": "which something happens. In this case, the speed of Greenland's ice sheet melting.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 267.84,
     "end": 273.2,
-    "text": "She's convinced it's not too late for collective action to save the planet, so it's not yet time",
-    "speaker": null
+    "text": "She’s convinced it’s not too late for collective action to save the planet, so it’s not yet time",
+    "speaker": "throw your hands up"
   },
   {
+    "order": 48,
     "start": 273.2,
     "end": 278.96,
     "text": "to throw your hands up, and idiom meaning to show frustration and despair when a situation becomes",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 278.96,
     "end": 285.52,
     "text": "so bad that you give up or submit. It's a positive message, but one which calls for everyone to do what",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 285.52,
     "end": 292.24,
-    "text": "Because the rate of ice melt is still increasing, right, Neil?",
+    "text": "they can before it really is too late. Because the rate of ice melt is still increasing, right Neil?",
+    "speaker": null
+  },
+  {
+    "order": 51,
+    "start": 292.24,
+    "end": 296.4,
+    "text": "Yes, that's right. In fact, that was my quiz question, Georgina, do you remember?",
     "speaker": "rate"
   },
   {
-    "start": 292.24,
-    "end": 296.4,
-    "text": "Yes, that’s right – in fact, that was my quiz question, Georgina – do you remember?",
-    "speaker": "Neil"
-  },
-  {
+    "order": 52,
     "start": 296.4,
     "end": 302.879,
     "text": "Yes, you asked me how many gigatons of Greenland's ice sheet are now melting every year. I said",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 302.879,
     "end": 311.04,
     "text": "be 500 gigatons. And you were? Correct. In fact, some of these giant ice cubes are like small towns",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 311.04,
     "end": 316.96,
     "text": "almost a kilometre tall. So there's still work to be done. In this program, we've been looking at the",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 316.959,
     "end": 323.68,
-    "text": "In this programme we’ve been looking at the rate – or speed – of ice melt in Greenland’s ice sheet - the thick layer of ice covering a large area of the Arctic.",
-    "speaker": "rateice sheet"
+    "text": "rate or speed of ice melt in Greenland's ice sheet, the thick layer of ice covering a large area",
+    "speaker": "Georgina"
   },
   {
+    "order": 56,
     "start": 323.68,
     "end": 329.519,
     "text": "of the Arctic. Previously, the melting ice was replaced by newly formed ice on glaciers,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 329.519,
     "end": 335.359,
     "text": "large masses of slow moving ice. This kept the Arctic in balance, having different elements",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 335.359,
     "end": 341.12,
     "text": "arranged in proportion. But the effects of global heating have brought us close to a point of no",
+    "speaker": "glaciers in balance"
+  },
+  {
+    "order": 59,
+    "start": 341.12,
+    "end": 346.639,
+    "text": "return called a tipping point, the time at which a change or an effect cannot be stopped.",
     "speaker": null
   },
   {
-    "start": 341.12,
-    "end": 346.639,
-    "text": "But the effects of global heating have brought us close to a point of no return, called a tipping point - the time at which a change or an effect cannot be stopped.",
-    "speaker": "tipping point"
-  },
-  {
+    "order": 60,
     "start": 346.639,
     "end": 351.759,
-    "text": "The situation is serious but there’s still time to take action and not simply throw your hands up – show frustration and despair when you want to give up.",
+    "text": "The situation is serious but there’s still time to take action and not simply throw your hands up –",
     "speaker": "throw your hands up"
   },
   {
+    "order": 61,
     "start": 352.319,
     "end": 354.879,
     "text": "Show frustration and despair when you want to give up.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 355.519,
     "end": 359.68,
     "text": "That's all for this program, but if you want to find out more about climate change in Greenland's",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 359.68,
     "end": 364.879,
     "text": "ice sheets, search BBC's Science and Action website. And for more trending topics and useful",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 364.879,
     "end": 370.319,
     "text": "for cabriory, remember to join us again soon at 6 Minute English, bye for now. Goodbye.",

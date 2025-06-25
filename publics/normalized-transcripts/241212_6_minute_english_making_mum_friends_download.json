@@ -1,398 +1,464 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7.679,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7.679,
     "end": 12.08,
     "text": "Hello, this is 6 Minute English from BBCLearningEnglish. I'm Neil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.08,
     "end": 15.919,
-    "text": "And I’m Beth. Do you remember your first day at school, Neil?",
-    "speaker": "Beth"
-  },
-  {
-    "start": 15.919,
-    "end": 22.4,
-    "text": "Um, yes I do. I changed schools quite a lot when I was a kid, so I had lots of first days and they were never easy. How about you, Beth?",
+    "text": "And I'm Beth. Do you remember your first day at school, Neil?",
     "speaker": "Neil"
   },
   {
+    "order": 3,
+    "start": 15.919,
+    "end": 22.4,
+    "text": " yes I do. I changed schools quite a lot when I was a kid, so I had lots of first days ",
+    "speaker": "Neil"
+  },
+  {
+    "order": 4,
     "start": 22.4,
     "end": 26.16,
     "text": "and they were never easy. How about you, Beth?",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 26.239,
     "end": 34.399,
     "text": "Well, my mum always tells this story about how I was crying a lot on my first day,",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 34.399,
     "end": 41.84,
     "text": "but apparently as soon as she left, I was quite happy, so my mum spent the day being a bit sad",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 41.84,
     "end": 47.76,
     "text": "and I was completely fine. Well, yes, starting school and making new friends is difficult for many",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 47.76,
     "end": 53.92,
     "text": "children, but it's not just the kids who find it challenging. For mums and dads who drop their",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 9,
     "start": 53.92,
     "end": 58.96,
     "text": "kids off at the school gates in the morning and pick them up again at the end of the school day,",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 58.96,
     "end": 66.079,
     "text": "making friends with other mums can be just as hard. Here, BBC presenter Nule Mugavan discusses",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 66.079,
     "end": 72.719,
     "text": "this problem using the term mum friends. So if you are a mum dropping off or picking up the kids",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 72.719,
     "end": 78.719,
     "text": "this week, how do you feel about hanging out with other mum friends? I find that term kind of",
-    "speaker": null
+    "speaker": "Nuala McGovern"
   },
   {
+    "order": 13,
     "start": 78.719,
     "end": 81.92,
     "text": "interesting as well, mum friends, they're never called friends, they're called mum friends.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 81.92,
     "end": 85.84,
     "text": "Do you struggle to make those relationships or do you thrive on them or are you perfectly happy",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 85.84,
     "end": 93.04,
     "text": "without them? Mum friends are usually the mums of other children in your child's class at school.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 93.04,
     "end": 98.56,
     "text": "They might go for coffee together, help out with babysitting or chat about being a mother,",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 98.56,
     "end": 104.719,
     "text": "but is making new mum friends really the positive experience it's often described as,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 104.719,
     "end": 110.719,
     "text": "or an additional stress for already overworked mothers? That's what we'll be discussing in this",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 110.719,
     "end": 117.12,
     "text": "programme along with some useful new vocabulary. And if the idea of mum friends is new to you,",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 117.12,
     "end": 122,
-    "text": "And if the idea of ‘mum friends’ is new to you, why not take a minute to read through the list of vocabulary before you listen? It’s easy to find on our website, bbclearningenglish.com.",
+    "text": "why not take a minute to read through the list of vocabulary before you listen? It's easy to",
     "speaker": "Beth"
   },
   {
+    "order": 21,
     "start": 122,
     "end": 129.68,
     "text": "find on our website, BBCLearningEnglish.com. Now Beth, I have a question for you. Another term often",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 129.68,
     "end": 135.919,
     "text": "associated with mum friends is play date, a time that parents arrange for their children to play",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 136.799,
     "end": 142.479,
     "text": "together, but according to the Oxford English Dictionary, where does the term play date come from?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 143.039,
     "end": 149.759,
     "text": "Is the origin in A Australia, B New Zealand or C the United States of America?",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 150.719,
     "end": 156.079,
     "text": "I'm going to guess the USA, C. Okay, feeling confident? Yes.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 156.079,
     "end": 161.119,
     "text": "Well, we'll see at the end of the programme. For some mums, dropping their kids off at school reminds",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 27,
     "start": 161.12,
     "end": 166.319,
     "text": "them of when they themselves were little and under pressure to make friends. Listen as mum",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 166.319,
     "end": 171.599,
     "text": "Jane, chairing them cook, describes these feelings to BBC Radio 4 programme Woman's Hour.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 172.319,
     "end": 177.36,
     "text": "The school gates take you back to being back at school. It's like you said, a high school clique.",
-    "speaker": null
+    "speaker": "clique.glamfit into"
   },
   {
+    "order": 30,
     "start": 177.36,
     "end": 181.84,
     "text": "It's you've got the sporty mums over there, you've got the glam mums over there, you've got, you know,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 181.84,
     "end": 186.08,
     "text": "and if you don't fit into one of those, it's really, really difficult to navigate.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 186.24,
     "end": 190.48,
     "text": "And yet you're all there just because your children were born in the same year.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 190.48,
     "end": 193.12,
     "text": "It's a really weird thing.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 194.16,
     "end": 200,
     "text": "Jane says that mums often form cliques, small groups of people who like spending time together",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 200,
     "end": 205.92,
     "text": "and seem unfriendly towards others. For example, at Jane's daughter's school, there's a clique",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 205.92,
     "end": 212.32,
     "text": "of sporty mums and a clique of glam mums who put on makeup and dress up. Jane uses the adjective",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 212.4,
     "end": 217.28,
     "text": "glam as a shortened form of the word glamour, meaning attractive and exciting.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 217.28,
     "end": 223.12,
-    "text": "Problems start when someone doesn’t fit into one of the cliques. If you fit into a group of people, you feel you belong and are accepted, probably because you are similar to them.",
+    "text": "Problems start when someone doesn’t fit into one of the cliques. If you fit into a group of people,",
     "speaker": "fit intofit into"
   },
   {
+    "order": 39,
     "start": 223.12,
     "end": 227.199,
     "text": "you feel you belong and are accepted probably because you are similar to them.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 227.68,
     "end": 233.68,
     "text": "So some mums feel rejected from cliques and worry about their children being left out of play dates.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 233.68,
     "end": 238.56,
     "text": "But other mums don't mind if people want to be friends, that's fine. And if they don't,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 238.64,
     "end": 243.52,
     "text": "that's fine too. Being a mum is hard enough without adding more stress.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 243.52,
     "end": 249.199,
     "text": "Jane definitely belongs to this group, as she explains to BBC Radio 4's Woman's Hour.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 250.08,
     "end": 255.92,
-    "text": "I think I'd had some really bad experiences at baby groups, where you're trying to make your",
-    "speaker": null
+    "text": "I think I'd had some really bad experiences at baby groups where you're trying to make your ",
+    "speaker": "down to luck"
   },
   {
+    "order": 45,
     "start": 255.92,
     "end": 260.319,
     "text": "child do yoga or paint when they're four months old and trying to bond with these other women.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 260.319,
     "end": 265.6,
     "text": "And I just thought this is ridiculous. And I pretty much straightaway realised it was going",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 265.6,
     "end": 268.32,
     "text": "to be just down to luck if I met somebody that I clicked with.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 269.12,
     "end": 274.879,
     "text": "Jane says it's down to luck if she makes mum friends. If you say something is down to luck,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 274.879,
     "end": 280.879,
     "text": "you mean it depends on chance rather than any skill or effort you make. But there's always the",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 280.879,
     "end": 286.56,
     "text": "possibility you'll meet someone and click with them, become friends as soon as you start talking.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 286.56,
     "end": 290.8,
-    "text": "Well, I know something that isn’t down to luck, Neil – the answer to your question.",
+    "text": "Well I know something that isn't down to luck Neil, the answer to your question.",
     "speaker": "Beth"
   },
   {
+    "order": 52,
     "start": 291.28,
     "end": 297.6,
     "text": "Ah yes, I understood you about the origin of the term play date. Which country does it come from?",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 298.16,
     "end": 302.72,
     "text": "I think it's the USA. Well, Beth, you are right. So well done.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 303.6,
     "end": 309.519,
-    "text": "Well Beth, you are right. [Yay!] So well done. According to the Oxford English Dictionary, ‘play date’ was first used in the Lincoln Daily Star newspaper in Nebraska, USA in 1915.",
-    "speaker": "Neil"
+    "text": "According to the Oxford English Dictionary, play date was first used in the Lincoln Daily Star",
+    "speaker": "Beth"
   },
   {
+    "order": 55,
     "start": 309.519,
     "end": 317.12,
     "text": "newspaper in Nebraska, USA, in 1915. Okay, let's recap the vocabulary we've learned",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 317.6,
     "end": 322.399,
-    "text": "OK, let’s recap the vocabulary we’ve learned, starting with play date – an arrangement that parents make for their young children to play together.",
+    "text": "with play date, an arrangement that parents make for their young children to play together.",
     "speaker": "play date"
   },
   {
+    "order": 57,
     "start": 322.399,
     "end": 327.439,
-    "text": "A clique is a small group of people who spend a lot of time together and may seem unfriendly towards other people.",
-    "speaker": "clique"
+    "text": "A clique is a small group of people who spend a lot of time together and may seem",
+    "speaker": null
   },
   {
+    "order": 58,
     "start": 327.439,
     "end": 333.04,
     "text": "unfriendly towards other people. Glam is short for glamorous, meaning a visually attractive",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 333.04,
     "end": 338.8,
     "text": "and exciting. If you fit into a group of people, you belong and feel accepted by them because",
-    "speaker": null
+    "speaker": "Glam"
   },
   {
+    "order": 60,
     "start": 338.8,
     "end": 344.639,
     "text": "you're similar to them. If you say something is down to luck, you mean that it depends on chance",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 344.639,
     "end": 350.399,
     "text": "or luck rather than any skill or effort you make. And finally, if you click with someone,",
-    "speaker": null
+    "speaker": "down to luck"
   },
   {
+    "order": 62,
     "start": 350.399,
     "end": 354.639,
     "text": "you feel a friendly and positive connection when you meet them for the first time.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 354.639,
     "end": 360.079,
     "text": "Once again, our time is up. Why not head over to the BBC Learning English website to find a quiz",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 360.079,
     "end": 365.599,
     "text": "and worksheet for this programme? Well, it's still fresh in your mind. See you again soon. Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 365.599,
     "end": 367.599,
-    "text": "Bye!",
-    "speaker": "Beth"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

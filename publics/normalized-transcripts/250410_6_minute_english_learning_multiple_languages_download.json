@@ -1,719 +1,839 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.6,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 5.6,
     "end": 10.12,
     "text": "Hello and welcome to 6-Minute English from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 10.12,
     "end": 15.759,
-    "text": "Hello and welcome to 6 Minute English from BBC Learning English. I’m Neil and today I’m here with Hannah from BBC podcast What in the World. Hello Hannah.",
+    "text": " I’m Neil and today I’m here with Hannah from BBC podcast What in the World. Hello Hannah",
     "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 15.759,
     "end": 16.76,
     "text": "Hi Neil.",
-    "speaker": "Hannah"
+    "speaker": null
   },
   {
+    "order": 4,
     "start": 16.76,
     "end": 22.719,
-    "text": "Hannah and the What in the World team have been investigating what it’s like to learn multiple languages, and she’s here to tell us more about it. Welcome to 6 Minute English.",
+    "text": "Hannah and the What in the World team have been investigating what it’s like to learn multiple languages",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 22.719,
     "end": 26.32,
     "text": "and she's here to tell us more about it. Welcome to 6-Minute English.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 26.32,
     "end": 28,
     "text": "Thank you so much for having me.",
-    "speaker": "Hannah"
+    "speaker": "soldier on"
   },
   {
+    "order": 7,
     "start": 28,
     "end": 29.679,
     "text": "And it's great to have you here.",
-    "speaker": null
-  },
-  {
-    "start": 29.759,
-    "end": 35.039,
-    "text": "And it's great to have you here. Now, in this programme, we help you improve your English. And maybe English is the first language you have tried to learn… or maybe you know a lot of languages.",
     "speaker": "Neil"
   },
   {
+    "order": 8,
+    "start": 29.759,
+    "end": 35.039,
+    "text": "Now in this programme we help you improve your English and maybe English is the first language",
+    "speaker": null
+  },
+  {
+    "order": 9,
     "start": 35.039,
     "end": 39.519,
     "text": "you have ever tried to learn or maybe you know a lot of languages.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 39.519,
     "end": 44.24,
     "text": "Well someone who knows multiple languages is called a polyglot.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 44.24,
     "end": 46.239,
     "text": "Neil, are you a polyglot?",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 46.239,
     "end": 51.519,
-    "text": "I speak a little bit of a few languages, but I couldn't say that I'm a polyglot. How about you?",
+    "text": "I speak a little bit of a few languages, but I couldn't say that I'm a polyglot",
     "speaker": "Neil"
   },
   {
+    "order": 13,
     "start": 51.519,
     "end": 52.48,
     "text": "How about you?",
-    "speaker": null
+    "speaker": "jugglingjuggle"
   },
   {
+    "order": 14,
     "start": 52.48,
     "end": 54.48,
     "text": "I am a polyglot.",
-    "speaker": "Hannah"
+    "speaker": null
   },
   {
+    "order": 15,
     "start": 54.48,
     "end": 58.159,
     "text": "Well I feel really impressed and a bit intimidating.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 59.119,
     "end": 62.159,
     "text": "And now Hannah we always start our programme off with a question.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 62.799,
     "end": 64.159,
     "text": "So here it goes.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 64.159,
     "end": 69.2,
     "text": "Which country has the most official languages recognised by their government?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 69.2,
     "end": 73.92,
     "text": "So is it a Zimbabwe, B Switzerland or C Bolivia?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 73.92,
     "end": 76.239,
-    "text": "I would guess Zimbabwe.",
-    "speaker": "Hannah"
-  },
-  {
-    "start": 76.239,
-    "end": 79.28,
-    "text": "Well we'll find out the answer at the end of the programme.",
-    "speaker": null
-  },
-  {
-    "start": 79.28,
-    "end": 83.599,
-    "text": "Well, we'll find out the answer at the end of the programme. Now, Hannah, you’ve been finding out about some of the benefits of being a polyglot.",
+    "text": " I would guess Zimbabwe",
     "speaker": "Neil"
   },
   {
+    "order": 21,
+    "start": 76.239,
+    "end": 79.28,
+    "text": "Well, we'll find out the answer at the end of the programme",
+    "speaker": "Neil"
+  },
+  {
+    "order": 22,
+    "start": 79.28,
+    "end": 83.599,
+    "text": "Now Hannah, you've been finding out about some of the benefits of being a polyglot.",
+    "speaker": null
+  },
+  {
+    "order": 23,
     "start": 84.399,
     "end": 91.28,
     "text": "Yes Neil, there's been lots of research about how knowing more than one language can change your brain.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 91.28,
     "end": 94,
     "text": "And this might have some health benefits too.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 94,
     "end": 97.439,
     "text": "At What in the World we spoke to Professor Frederick Liegeau,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 97.439,
     "end": 101.439,
     "text": "who's a cognitive neuroscientist at University College London.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 102.319,
     "end": 107.679,
     "text": "Babies, even before they speak, have to tune into the languages around them to make sense out of what",
-    "speaker": null
+    "speaker": "tune intojugglingbrain workout"
   },
   {
+    "order": 28,
     "start": 107.679,
     "end": 108.719,
     "text": "people say to them.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 108.719,
     "end": 111.599,
     "text": "And then when children start to speak several languages,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 111.599,
     "end": 116,
     "text": "they have to focus on one language and ignore another one where they're speaking.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 116,
     "end": 119.359,
     "text": "They also have to be able to switch from one language to the other,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 119.359,
     "end": 121.439,
     "text": "depending on who they're speaking to.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 121.439,
     "end": 124.959,
     "text": "Later on in age, when adults have dementia,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 124.959,
     "end": 129.28,
     "text": "they seem to show symptoms later when they're bilinguals as opposed to monolinguals.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 129.759,
     "end": 134.719,
     "text": "Within that juggling, several languages has helped them really boost this brain efficiency,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 134.719,
     "end": 136.56,
     "text": "which is a great advantage.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 136.56,
     "end": 137.919,
     "text": "It's like a brain workout.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 138.079,
     "end": 144.56,
     "text": "Frederick explains that babies who grow up learning more than one language have to tune into the",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 144.56,
     "end": 145.599,
     "text": "languages around them.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 146.239,
     "end": 148.479,
     "text": "They have to listen to each language.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 148.479,
     "end": 154.159,
     "text": "Over time, they become good at switching languages and ignoring the ones they don't need in a conversation.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 154.799,
     "end": 158.879,
     "text": "Scientists think that juggling several languages is good for you.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 159.359,
     "end": 163.599,
     "text": "If you juggle several things, that means you deal with all of them at the same time.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 164.4,
     "end": 168.56,
     "text": "Frederick describes being a polyglot as a brain workout.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 168.56,
     "end": 172.079,
     "text": "This means it's exercise for your brain that can make it stronger.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 172.719,
     "end": 174.959,
     "text": "Now, Hannah, I don't know about you.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 174.959,
     "end": 180,
     "text": "When I was younger and languages just seemed like another subject at school,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 180,
     "end": 182.159,
     "text": "I didn't really care so much.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 182.159,
     "end": 187.039,
     "text": "But when I worked abroad later in life, I was much more motivated and found it easier.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 187.039,
     "end": 187.68,
     "text": "How about you?",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 188.479,
     "end": 190.4,
-    "text": "Quite the opposite, actually.",
-    "speaker": null
+    "text": "Quite the opposite actually. ",
+    "speaker": "pick up"
   },
   {
+    "order": 52,
     "start": 190.4,
     "end": 194.8,
     "text": "I did find it easier to learn languages at school and university.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 194.8,
     "end": 198.879,
     "text": "But I didn't have to learn these languages out of necessity.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 198.879,
     "end": 205.2,
     "text": "But my colleague, Victoria Unmongkunda, she's a presenter and a journalist on the BBC World Service.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 205.2,
     "end": 206.319,
     "text": "She did.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 206.319,
     "end": 209.68,
     "text": "She speaks five languages and she understands eight.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 209.68,
     "end": 216.4,
     "text": "And she learnt those languages because her family moved from Rwanda to Kenya and then to Norway",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 216.4,
     "end": 217.759,
     "text": "when she was a teenager.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 217.759,
     "end": 221.359,
     "text": "Victoria says she was able to pick up Norwegian quite easily.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 222,
     "end": 227.039,
-    "text": "If you pick up a skill, it means you learn it, usually by being in the environment where that thing happens rather than by being taught.",
-    "speaker": "pick up"
+    "text": "If you pick up a skill, it means you learn it usually by being in the environment where that",
+    "speaker": null
   },
   {
+    "order": 61,
     "start": 227.039,
     "end": 229.359,
     "text": "thing happens rather than being taught.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 230,
     "end": 234.479,
-    "text": "But Victoria’s parents found it much harder to learn Norwegian. Let’s hear what Vic said on the What in the World podcast.",
+    "text": "But Victoria’s parents found it much harder to learn Norwegian.",
     "speaker": "Hannah"
   },
   {
+    "order": 63,
     "start": 234.479,
     "end": 237.199,
     "text": "Let's hear what Vic said on the What in the World podcast.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 238.239,
     "end": 243.439,
     "text": "First of all, you're having them coming to a new culture completely from everything they've",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 243.52,
     "end": 244.4,
     "text": "ever known.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 244.4,
     "end": 245.439,
     "text": "The language is new.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 246.159,
     "end": 247.919,
     "text": "These are people in their 50s.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 247.919,
     "end": 252.479,
     "text": "You know, but they they soldier on because if you want to work, if you want to live there,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 252.479,
     "end": 254.079,
     "text": "you have to learn and they did.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 254.079,
     "end": 258.72,
     "text": "It wasn't easy, but I think also with that kids, we picked it up quite quickly.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 258.72,
     "end": 262.24,
     "text": "So if they were making a mistake, who were also helping them along the way.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 262.24,
     "end": 266.079,
     "text": "So it kind of a way of paying back, you helped us get to this, you know,",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 266.079,
     "end": 268.959,
     "text": "to keep our mother tongue in here, we are going to help you.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 268.959,
     "end": 273.04,
     "text": "Victoria's parents found it difficult to learn Norwegian in their 50s,",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 273.04,
     "end": 274.48,
     "text": "but they soldiered on.",
-    "speaker": null
+    "speaker": "soldiered on"
   },
   {
+    "order": 76,
     "start": 274.48,
     "end": 278,
     "text": "They continued doing something even though it was difficult.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 278,
     "end": 281.04,
     "text": "And I love that the family helped each other with their languages, Hannah.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 281.76,
     "end": 285.439,
     "text": "Yes, so Vic's parents helped them keep their mother tongue in your",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 285.439,
     "end": 288,
     "text": "under when they had to leave Rwanda.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 288,
     "end": 291.68,
     "text": "And then years later, the children helped their parents learn Norwegian.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 291.68,
     "end": 298.08,
-    "text": "And, Hannah, Victoria picked up Norwegian quite easily, even after learning four other languages. Did Victoria have any tips for learning so many languages?",
+    "text": "And, Hannah, Victoria picked up Norwegian quite easily, even after learning four other languages",
     "speaker": "picked up"
   },
   {
+    "order": 82,
     "start": 298.08,
     "end": 301.52,
     "text": "Did Victoria have any tips for learning so many languages?",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 301.519,
     "end": 306.639,
     "text": "Well, one thing she recommended is trying to immerse yourself in the language.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 306.639,
     "end": 310.319,
     "text": "So she said go to the market or into the street,",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 310.319,
     "end": 313.599,
     "text": "a place where you can listen to people using the language.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 313.599,
     "end": 316.719,
     "text": "Yes, and some learners might be learning English online,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 87,
     "start": 316.719,
     "end": 321.759,
     "text": "and so they don't have the opportunity to go to a market or street and hear the language.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 321.759,
     "end": 323.759,
     "text": "But there are other things that you can do.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 323.759,
     "end": 326.24,
     "text": "For example, you can listen to six minute English,",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 326.24,
     "end": 330.24,
     "text": "or you could try other BBC podcasts like What in the World, too.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 330.319,
     "end": 333.199,
     "text": "What in the world is the programme that I work on,",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 333.199,
     "end": 336.24,
     "text": "and we put out a new episode every weekday.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 336.24,
     "end": 340.8,
     "text": "We look at stories from around the world covering news and trending topics",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 340.8,
     "end": 343.36,
     "text": "to try to help you make sense of the world.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 343.92,
     "end": 346.48,
     "text": "Time now for the answer to our quiz question.",
-    "speaker": null
-  },
-  {
-    "start": 346.48,
-    "end": 350.56,
-    "text": "Time now for the answer to our quiz question. I asked you, which country has the most officially recognised languages?",
     "speaker": "Neil"
   },
   {
-    "start": 350.56,
-    "end": 352.079,
-    "text": "I said Zimbabwe.",
-    "speaker": "Hannah"
-  },
-  {
-    "start": 352.079,
-    "end": 354.56,
-    "text": "And I'm afraid that was the wrong answer.",
+    "order": 96,
+    "start": 346.48,
+    "end": 350.56,
+    "text": "I asked you which country has the most officially recognised languages?",
     "speaker": null
   },
   {
+    "order": 97,
+    "start": 350.56,
+    "end": 352.079,
+    "text": "I said Zimbabwe.",
+    "speaker": null
+  },
+  {
+    "order": 98,
+    "start": 352.079,
+    "end": 354.56,
+    "text": "And I'm afraid that was the wrong answer.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 99,
     "start": 354.56,
     "end": 359.199,
     "text": "It was in fact Bolivia, which recognises 37 languages,",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 359.199,
     "end": 361.759,
     "text": "though of course not everyone speaks all of them.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 361.759,
     "end": 365.199,
     "text": "Now let's recap the vocabulary that we have learnt.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 365.199,
     "end": 369.68,
     "text": "Starting with Polyglot, which is someone who knows lots of languages like me.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 370.24,
     "end": 373.839,
     "text": "If you tune in to something, you listen or pay attention to it.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 373.839,
     "end": 379.839,
-    "text": "Juggling several things, like languages, means doing several different things at the same time.",
-    "speaker": "Juggling"
+    "text": "Juggling several things like languages means doing several different things at the same time.",
+    "speaker": "tune into"
   },
   {
+    "order": 105,
     "start": 379.839,
     "end": 383.039,
     "text": "A brain workout is exercise for your brain.",
     "speaker": "brain workout"
   },
   {
+    "order": 106,
     "start": 383.68,
     "end": 389.039,
     "text": "If you pick up a skill, you learn it, usually through practice rather than being taught.",
-    "speaker": "pick up"
+    "speaker": null
   },
   {
+    "order": 107,
     "start": 389.12,
     "end": 393.6,
     "text": "And if you soldier on, you continue doing something even though it's difficult.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 394.56,
     "end": 396.4,
     "text": "Thanks for listening to 6 Minute English,",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 396.4,
     "end": 401.36,
     "text": "and listen to the full episode of What in the World about Polyglots and Learning Languages.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 401.36,
     "end": 403.84,
     "text": "There's a link in the notes below this programme.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 403.84,
     "end": 406.32,
     "text": "Thank you so much for having me on 6 Minute English.",
-    "speaker": "Hannah"
+    "speaker": null
   },
   {
+    "order": 112,
     "start": 406.32,
     "end": 407.28,
     "text": "Goodbye!",
     "speaker": "Neil"
   },
   {
+    "order": 113,
     "start": 407.28,
     "end": 407.92,
-    "text": "Ciao!",
-    "speaker": "Hannah"
+    "text": "Ciao.",
+    "speaker": null
   },
   {
+    "order": 114,
     "start": 407.92,
     "end": 408.72,
     "text": "Adios.",
     "speaker": "Neil"
   },
   {
+    "order": 115,
     "start": 408.72,
     "end": 409.68,
     "text": "Atilago.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 409.68,
     "end": 410.72,
     "text": "Sayonara.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 410.72,
     "end": 411.52,
-    "text": "Bye!",
-    "speaker": "Hannah"
+    "text": " Bye",
+    "speaker": "Neil"
   },
   {
+    "order": 118,
     "start": 412.399,
     "end": 414.079,
     "text": "6 Minute English.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 414.079,
     "end": 416.719,
     "text": "From BBCLearningEnglish.com.",

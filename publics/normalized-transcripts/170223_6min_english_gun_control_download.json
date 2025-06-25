@@ -1,449 +1,524 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.52,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 11.759,
     "end": 15.519,
-    "text": "Hello and welcome to 6 Minute English, the show that brings you an interesting topic,",
-    "speaker": null
+    "text": "Hello and welcome to 6 Minute English– the show that brings you an interesting topic,",
+    "speaker": "Dan"
   },
   {
+    "order": 3,
     "start": 15.519,
     "end": 20.08,
     "text": "authentic listening practice and vocabulary to help you improve your language skills.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 20.08,
     "end": 24.64,
     "text": "I'm Dan and I'm Neil. In this program we'll be discussing armed police,",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 24.64,
     "end": 28.08,
     "text": "as well as teaching you six new items of vocabulary, of course.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 28.079,
     "end": 32.239,
-    "text": "Can we get this done quickly today Neil? Only I've got to shoot off to a party later.",
+    "text": "Can we get this done quickly today Neil? Only I've got to shoot off to a party later. ",
     "speaker": "shoot off"
   },
   {
+    "order": 7,
     "start": 32.239,
     "end": 35.439,
     "text": "Shoot off, meaning leave quickly, of course we can.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 35.439,
     "end": 40,
     "text": "And it's funny you should mention shooting because our topic this week is gun control",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 40,
     "end": 44.159,
-    "text": "Is that so? I have a question about that for you.",
-    "speaker": "Dan"
-  },
-  {
-    "start": 44.159,
-    "end": 48.399,
-    "text": "Fire away then? Fire away. An expression giving permission for someone to",
+    "text": "without guns. Is that so? I have a question about that for you.",
     "speaker": null
   },
   {
+    "order": 10,
+    "start": 44.159,
+    "end": 48.399,
+    "text": "Fire away then. Fire away, an expression giving permission for someone to",
+    "speaker": "Fire away"
+  },
+  {
+    "order": 11,
     "start": 48.399,
     "end": 54.799,
     "text": "ask a question or speak. So which country has the oldest gun control laws in the world?",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 54.799,
     "end": 58.959,
     "text": "Is it A, the USA? B, Iceland or C, Japan?",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 58.959,
     "end": 62,
-    "text": "I'm going to guess b) Iceland, just because I've never been there.",
+    "text": "I'm going to guess b) Iceland, just because I've never been there",
     "speaker": "Neil"
   },
   {
+    "order": 14,
     "start": 62,
     "end": 65.039,
     "text": "Well we'll find out if you're right a bit later on.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 65.039,
     "end": 70.799,
     "text": "Now, imagine the scene. You are a police officer who's been called out to deal with an incident.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 70.799,
     "end": 77.12,
     "text": "When you arrive on scene you find a dangerous criminal. Do you reach for a gun or a blanket?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 77.12,
     "end": 81.039,
     "text": "Okay it's got to be a gun. Well in most countries in the world you'd be right,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 81.04,
     "end": 86.4,
     "text": "but not in Japan. Despite carrying guns, Japanese police almost never use them.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 19,
     "start": 86.4,
     "end": 91.84,
     "text": "Instead they rely on a combination of martial arts and in many cases where a person is violent",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 91.84,
     "end": 97.12,
     "text": "they bring out the futon, which is a kind of blanket and they wrap them up and restrain them",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 97.12,
     "end": 101.92,
     "text": "or prevent them from moving. You're pulling my leg. Nope. Listen to Japanese journalist",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 101.92,
     "end": 108.88,
     "text": "Antony Berto describe the situation. What most Japanese police will do is to get huge",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 108.879,
     "end": 116.079,
     "text": "futons and essentially roll up the person who's being violent or drunk into a little burrito",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 116.079,
     "end": 121.199,
     "text": "and carry them back to the station and calm them down. The response to violence is never",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 25,
     "start": 121.199,
     "end": 127.519,
     "text": "violence. It's always to de-escalate it. So they safely restrain the person and wait for the",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 127.519,
     "end": 133.84,
     "text": "situation to de-escalate or become less intense. Unless a criminal has a gun, Japanese police",
+    "speaker": "restrainde-escalate"
+  },
+  {
+    "order": 27,
+    "start": 133.84,
+    "end": 138.8,
+    "text": "never fire their weapons. Surely that means that the criminals always have the advantage then.",
     "speaker": null
   },
   {
-    "start": 133.84,
-    "end": 138.8,
-    "text": "Surely that means that the criminals always have the advantage then?",
-    "speaker": "Neil"
-  },
-  {
+    "order": 28,
     "start": 139.039,
     "end": 144.4,
-    "text": "You'd think so, but no. It seems that guns don't really feature in crimes much in Japan.",
-    "speaker": "Dan"
-  },
-  {
-    "start": 144.4,
-    "end": 149.359,
-    "text": "Well, that's astonishing. So do you think the criminals don't carry guns because the police don't carry guns or that the police don't carry guns because the criminals don't carry guns?",
+    "text": " You'd think so, but no. It seems that guns don't really feature in crimes much in Japan",
     "speaker": "Neil"
   },
   {
+    "order": 29,
+    "start": 144.4,
+    "end": 149.359,
+    "text": "Well that's astonishing. So do you think the criminals don't carry guns because the police don't",
+    "speaker": "Neil"
+  },
+  {
+    "order": 30,
     "start": 149.359,
     "end": 154.639,
     "text": "carry guns or that the police don't carry guns because the criminals don't carry guns?",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 154.639,
     "end": 160.719,
     "text": "Well that makes my head hurt. Well I don't know, but listen to what Ian Overton, the executive",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 160.719,
     "end": 166,
     "text": "director of Action on Armed Violence, says about armed police in society.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 166,
     "end": 172.08,
     "text": "The American model has been militarized the police, but the challenge I have is that there is",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 172.08,
     "end": 177.599,
     "text": "very little evidence that a more militarized police results in a more peaceful society.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 177.599,
     "end": 182.24,
     "text": "And I'm very concerned that if you have too many police pulling out gun for the first",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 182.24,
     "end": 187.36,
     "text": "instance of crime, then you lead to a miniature arms race between police and criminals.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 187.36,
     "end": 192.639,
     "text": "So America tends to militarize its police, meaning to equip them and use them as an army.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 192.639,
     "end": 197.759,
-    "text": "…and that causes an arms race with the criminals, which is a competition between two groups to have more weapons than the other group.",
-    "speaker": "arms race"
+    "text": "And that causes an arms race with the criminals, which is a competition between two groups",
+    "speaker": "militarise"
   },
   {
+    "order": 39,
     "start": 197.759,
     "end": 203.039,
     "text": "to have more weapons than the other group. He also said there's not a strong connection between",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 203.039,
     "end": 207.839,
-    "text": "He also said that there's not a strong connection between armed police and a peaceful society. So, does that mean that Japanese society is more peaceful?",
+    "text": "armed police and a peaceful society. So does that mean that Japanese society is more peaceful?",
     "speaker": "Neil"
   },
   {
+    "order": 41,
     "start": 207.839,
     "end": 212.319,
     "text": "Well violent crime still happens there, but criminals tend to carry other weapons,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 212.319,
     "end": 216.239,
     "text": "such as swords and knives. But at least it's a step in the right direction.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 216.959,
     "end": 221.599,
     "text": "Now can you remember the quiz question I asked? I think so. You asked me which country has the",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 221.599,
     "end": 229.12,
-    "text": "I think so. You asked me which country has the oldest gun control laws in the world? Is it a) USA, b) Iceland or c) Japan? And I said b) Iceland.",
+    "text": "oldest gun control laws in the world? Is it A USA, B Iceland or C Japan? And I said B Iceland.",
     "speaker": "Neil"
   },
   {
+    "order": 45,
     "start": 229.12,
     "end": 232.719,
     "text": "Well I'm sorry Neil, that's not right, but don't shoot the messenger, okay?",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 232.719,
     "end": 237.519,
     "text": "It's Japan, which implemented its gun control laws in 1685.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 237.519,
     "end": 241.599,
-    "text": "How interesting. Now, let's take a look at the vocabulary from this programme.",
+    "text": "How interesting. Now, let's take a look at the vocabulary from this program",
     "speaker": "Neil"
   },
   {
+    "order": 48,
     "start": 241.599,
     "end": 246.799,
-    "text": "Sure, we had shoot off. If you shoot off, it means you leave somewhere in a hurry. What type of verb is it Neil? Can you give us an example?",
-    "speaker": "shoot offshoot off"
+    "text": "Sure. We had shoot off. If you shoot off, it means you leave somewhere in a hurry.",
+    "speaker": null
   },
   {
+    "order": 49,
     "start": 246.799,
     "end": 249.359,
     "text": "What type of verb is it Neil? Can you give us an example?",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 249.36,
     "end": 254.24,
-    "text": "It's a phrasal verb, so it's used conversationally and usually in an informal context.",
-    "speaker": null
+    "text": "It's a phrasal verb so it's used conversationally and usually in an informal context. ",
+    "speaker": "he shot off to the hospitalfire away.  fire away"
   },
   {
+    "order": 51,
     "start": 254.24,
     "end": 260.08,
     "text": "As for an example, when he heard his wife was sick, he shot off to the hospital.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 260.08,
     "end": 266.96,
     "text": "Synonyms could be dash off or run off. Next we had fire away. Now fire away is an expression",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 266.96,
     "end": 272.24,
     "text": "giving permission for someone to ask a question or speak. Can you think of any other ways to say",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 272.24,
     "end": 278.48,
     "text": "the same thing, Dan? If I said can I ask you a question? I'd say yes, of course. Go ahead.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 278.96,
     "end": 284.64,
     "text": "Please do or by all means. Restrain. If you restrain someone, you prevent them from moving.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 284.64,
     "end": 289.68,
     "text": "In another sense, you might restrain yourself from doing something, for example eating chocolate.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 289.68,
     "end": 292.16,
     "text": "Have you ever had to restrain your children for anything Neil?",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 292.16,
     "end": 296.879,
-    "text": "I have to restrain my children all the time Dan. Otherwise they would fight like mad.",
-    "speaker": null
+    "text": "I have to restrain my children all the time, Dan, otherwise they would fight like mad",
+    "speaker": "restrainrestrainde-escalate de-escalates"
   },
   {
+    "order": 59,
     "start": 298,
     "end": 302.8,
     "text": "I have to pull them apart and restrain them. Okay, deescalate. If something deescalates,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 302.8,
     "end": 308,
     "text": "it becomes less intense. This is often used in the context of conflicts or argument.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 308,
     "end": 312.8,
     "text": "Can you think of a historical example, Dan? Well, in the 1960s, the Cuban Missile Crisis",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 312.8,
     "end": 319.279,
     "text": "escalated over a period of two weeks and deescalated only after diplomatic negotiations were successful,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 319.279,
     "end": 321.839,
     "text": "but it was pretty close to World War 3 at one point.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 322.639,
     "end": 327.04,
     "text": "Militarize. If something is militarized, it is equipped and used like an army.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 327.04,
     "end": 329.92,
     "text": "Give me an example of people who have become militarized, Neil.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 329.92,
     "end": 336,
-    "text": "Yes, when I was a student in the United Kingdom, some of the foreign students had to go home",
-    "speaker": null
+    "text": "Yes, when I was a student in the United Kingdom some of the foreign students had to go home ",
+    "speaker": "militarisedarms race.  arms race"
   },
   {
+    "order": 67,
     "start": 336,
     "end": 339.68,
     "text": "to take part in national service. That's joined the army for a couple of years.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 339.68,
     "end": 345.839,
     "text": "So they became militarized. Now, an arms race. An arms race is a competition between two groups",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 345.839,
     "end": 349.68,
     "text": "to gain more weapons than the other group. Got an example of that, Dan?",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 349.68,
     "end": 354.48,
     "text": "The most famous example of this is the Cold War. Both the USSR and the USA",
-    "speaker": null
+    "speaker": "arms race"
   },
   {
+    "order": 71,
     "start": 354.48,
     "end": 359.759,
     "text": "became involved in an arms race to stockpile as many nuclear weapons as possible.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 359.759,
     "end": 363.36,
     "text": "Well, that's the end of today's six minute English. Please join us again soon.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 363.36,
     "end": 367.68,
     "text": "And we're on social media too, so make sure to visit us on Facebook, Twitter,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 367.68,
     "end": 370.16,
     "text": "Instagram and YouTube. Goodbye. Bye-bye.",

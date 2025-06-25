@@ -1,365 +1,426 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7,
     "text": "This is a download from BBC Learning English to find out more visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7,
     "end": 15,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 15,
     "end": 21,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Rob.",
     "speaker": "Rob"
   },
   {
+    "order": 3,
     "start": 21,
     "end": 22,
-    "text": "And I’m Beth.",
-    "speaker": "Beth"
+    "text": "And I'm Beth.",
+    "speaker": null
   },
   {
+    "order": 4,
     "start": 22,
     "end": 27,
     "text": "In this program we're talking about money. And Beth, as the old saying goes,",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 27,
     "end": 29,
     "text": "money makes the world go round.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 6,
     "start": 29,
     "end": 34,
     "text": "You mean it's very important and lots of things couldn't happen without it?",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 34,
     "end": 41,
-    "text": "You mean it’s very important and lots of things couldn’t happen without it. Well, we all need money – but have you noticed how our money doesn’t seem to buy so much these days?",
-    "speaker": "Beth"
+    "text": "Well, we all need money. But have you noticed how our money doesn't seem to buy so much these days?",
+    "speaker": null
   },
   {
+    "order": 8,
     "start": 41,
     "end": 47,
-    "text": "Yes, I have Beth. It seems like consumers like us are being hit in the pocket at the moment – and by that, I mean we have less money to spend.",
+    "text": "Yes, I have Beth. It seems like consumers like us are being hit in the pocket at the moment ",
     "speaker": "hit in the pocket"
   },
   {
+    "order": 9,
     "start": 47,
     "end": 51,
     "text": "And by that I mean we have less money to spend.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 51,
     "end": 55,
-    "text": "Now, I’m no economist, but I know this has a lot to do with inflation - the increase in prices of things over time.",
-    "speaker": "inflation"
+    "text": "I'm no economist, but I know this has a lot to do with inflation.",
+    "speaker": null
   },
   {
+    "order": 11,
     "start": 55,
     "end": 58,
     "text": "The increase in prices of things over time.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 58,
     "end": 63,
-    "text": "It's a big problem globally. And Beth, my question for you is about inflation.",
-    "speaker": null
-  },
-  {
-    "start": 63,
-    "end": 71,
-    "text": "It’s a big problem globally, and Beth my question for you is about inflation. According to one report, what was the annual inflation rate in Venezuela between November 2017 and 2018? Was it:",
+    "text": "It’s a big problem globally, and Beth my question for you is about inflation. ",
     "speaker": "Rob"
   },
   {
+    "order": 13,
+    "start": 63,
+    "end": 71,
+    "text": "According to one report, what was the annual inflation rate in Venezuela between November 2017 and 2018?",
+    "speaker": null
+  },
+  {
+    "order": 14,
     "start": 71,
     "end": 81,
     "text": "Was it a 130%, b1300% or c1300000%?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 81,
     "end": 85,
     "text": "I'll say b1300%.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 85,
     "end": 88,
     "text": "Okay, we'll find out if you'll write later on.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 88,
     "end": 92,
     "text": "But let's talk more about money and inflation now.",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 18,
     "start": 92,
     "end": 95,
     "text": "Around the world, prices of things are rising more than normal.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 95,
     "end": 99,
     "text": "And more worrying is that prices keep going up.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 99,
     "end": 106,
-    "text": "Two things in particular are increasing in price – energy, like gas and electricity, and food. These are things we need and depend on. So, what’s causing the rises?",
+    "text": "Two things in particular are increasing in price. Energy like gas and electricity and food.",
     "speaker": "Beth"
   },
   {
+    "order": 21,
     "start": 106,
     "end": 111,
     "text": "These are things we need and depend on. So what's causing the rises?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 111,
     "end": 120,
-    "text": "There seem to be two main reasons – the Covid pandemic and the war in Ukraine, which has reduced the supply in things we need. And when things are in short supply – available in limited quantities - prices go up.",
-    "speaker": "Rob"
+    "text": "There seem to be two main reasons. The Covid pandemic and the war in Ukraine, which has reduced the supply in things we need.",
+    "speaker": null
   },
   {
+    "order": 23,
     "start": 120,
     "end": 125,
     "text": "And when things are in short supply, available in limited quantities, prices go up.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 125,
     "end": 131,
     "text": "The BBC World Service Program, The Real Story, discussed this in much more detail.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 131,
     "end": 140,
     "text": "One expert, economist, writer and broadcaster, Linda Yu, explained how price rises could be around for a while.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 140,
     "end": 145,
     "text": "Even if you take out some of these volatile items like food and energy,",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 27,
     "start": 145,
     "end": 153,
     "text": "the sustained price increases that we've had, it is actually getting passed through into how companies price their goods and services.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 153,
     "end": 160,
     "text": "And that's where it gets extremely worrying because that suggests that even if energy prices, food prices come down,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 160,
     "end": 169,
     "text": "we could have inflation now in the system. And I think that for advanced economies is worrying for developing countries that you're hugely worrying.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 169,
     "end": 176,
     "text": "Linda Yu used some interesting language there. She talked about food and energy being volatile items.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 176,
     "end": 181,
     "text": "Something that's volatile is unpredictable and can change suddenly.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 181,
     "end": 184,
     "text": "And that's what we've experienced with food and energy prices.",
-    "speaker": null
+    "speaker": "volatile"
   },
   {
+    "order": 33,
     "start": 184,
     "end": 193,
     "text": "Yes, and she said these price increases have been sustained, so continuing at the same level for a long period of time.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 193,
     "end": 205,
     "text": "But Linda Yu says that even if energy and food prices eventually come down, companies will pass on the extra costs they've already faced by charging more for their goods and services.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 205,
     "end": 209,
-    "text": "And this could cause inflation. There's that word again.",
-    "speaker": null
-  },
-  {
-    "start": 209,
-    "end": 221,
-    "text": "And this could cause inflation – there’s that word again. Continuing price rises aren’t good for anyone but especially for people in developing economies – countries which have industry that’s less developed and have lower living standards.",
+    "text": "And this could cause inflation – there’s that word again",
     "speaker": "Rob"
   },
   {
+    "order": 36,
+    "start": 209,
+    "end": 221,
+    "text": "Continuing price rises aren't good for anyone, but especially for people in developing economies, countries which have industry that's less developed and have lower living standards.",
+    "speaker": null
+  },
+  {
+    "order": 37,
     "start": 221,
     "end": 225,
     "text": "Another possible consequence of inflation is recession.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 225,
     "end": 236,
-    "text": "Another possible consequence of inflation is recession – this economic term describes a situation where a country’s production starts going down, people’s incomes go down and unemployment goes up. This all sounds like a very bleak economic outlook. So, what can be done?",
-    "speaker": "recession"
+    "text": "This economic term describes a situation where a country's production starts going down. People's incomes go down and unemployment goes up.",
+    "speaker": null
   },
   {
+    "order": 39,
     "start": 236,
     "end": 241,
     "text": "This all sounds like a very bleak economic outlook. So what can be done?",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 241,
     "end": 246,
     "text": "Well, that's the million dollar question an economist are trying to work it out.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 246,
     "end": 253,
     "text": "Speaking on the real story program, economist Vicki Price gave an overview of how to control inflation.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 253,
     "end": 264,
     "text": "One of the things that actually is most effective is by slowing down demand. And if you increase interest rates, what you do is you discourage people from borrowing, whether they're individuals or whether they are businesses.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 264,
     "end": 266,
     "text": "And of course, economists start slowing down.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 266,
     "end": 274,
     "text": "So she says what is most effective, meaning what works well and gets the best results, is slowing down demand.",
-    "speaker": null
+    "speaker": "effectiveinterestrates"
   },
   {
+    "order": 45,
     "start": 274,
     "end": 279,
     "text": "Increasing interest rates can do this because people will borrow less money.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 279,
     "end": 285,
-    "text": "And interest rates are fees banks and financial institutions charge you for borrowing money.",
-    "speaker": "interest rates"
+    "text": "Interest rates are fees, banks and financial institutions charge you for borrowing money.",
+    "speaker": "sustainedeffective"
   },
   {
+    "order": 47,
     "start": 285,
     "end": 292,
-    "text": "And if we borrow less money, we buy fewer things, which can reduce inflation. I think it makes sense now! And if you were in Venezuela in 2018, you would really want inflation to go down, wouldn’t you?",
+    "text": "And if we borrow less money, we buy fewer things, which can reduce inflation. I think it makes sense now",
     "speaker": "Beth"
   },
   {
+    "order": 48,
     "start": 292,
     "end": 298,
     "text": "And if you were in Venezuela in 2018, you would really want inflation to go down, wouldn't you?",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 298,
     "end": 306,
-    "text": "Yes. Now, earlier I asked you what one report said the inflation rate was there between November 2017 and 2018.",
-    "speaker": "Rob"
+    "text": "Oh, yes. Now earlier, I asked you what one report said the inflation rate was there between November 2017 and 2018.",
+    "speaker": null
   },
   {
+    "order": 50,
     "start": 306,
     "end": 310,
     "text": "And I said a very high 1,300%.",
     "speaker": "Beth"
   },
   {
+    "order": 51,
     "start": 310,
     "end": 324,
     "text": "Well, it was even higher, Beth, according to a study by the Opposition Control National Assembly, the annual inflation rate reached 1,300,000% in the 12 months to November 2018.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 324,
     "end": 329,
     "text": "This extreme financial situation was known as hyperinflation.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 329,
     "end": 338,
     "text": "That's not good at all. In this program, we have been talking about inflation. That's the increase in prices over time.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 338,
     "end": 345,
-    "text": "Other vocabulary we used included the expression hit in the pocket – which means you have less money to spend.",
-    "speaker": "hit in the pocket"
+    "text": "Other vocabulary we used included the expression hit in the pocket, which means you have less money to spend.",
+    "speaker": "inflation"
   },
   {
+    "order": 55,
     "start": 345,
     "end": 350,
     "text": "Volatile describes something that is unpredictable and can change suddenly.",
-    "speaker": "Beth"
+    "speaker": null
   },
   {
+    "order": 56,
     "start": 350,
     "end": 355,
-    "text": "Something that is sustained continues at the same level for a long period of time. And something that is effective works well and gets the best results.",
-    "speaker": "sustainedeffective"
+    "text": "Something that is sustained continues at the same level for a long period of time.",
+    "speaker": null
   },
   {
+    "order": 57,
     "start": 355,
     "end": 360,
     "text": "And something that is effective works well and gets the best results.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 360,
     "end": 367,
     "text": "And interest rates are fees, banks and financial institutions charge you for borrowing money.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 367,
     "end": 373,
     "text": "Well, we hope you found our brief lesson about the economy useful. Thanks for listening. Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 373,
     "end": 374,
     "text": "Bye-bye.",

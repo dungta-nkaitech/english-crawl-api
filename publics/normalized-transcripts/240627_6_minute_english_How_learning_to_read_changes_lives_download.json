@@ -1,359 +1,419 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7.679,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7.679,
     "end": 11.919,
     "text": "Hello, this is 6-minute English from BBC Learning English. I'm Phil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 11.919,
     "end": 15.12,
-    "text": "And I’m Beth. Are you a big reader, Phil?",
-    "speaker": "Beth"
+    "text": "And I'm Beth. Are you a big reader Phil?",
+    "speaker": "Phil"
   },
   {
+    "order": 3,
     "start": 15.12,
     "end": 21.359,
     "text": "Sure, I enjoy reading and it's also a great way to pass the time on my daily commute to work.",
-    "speaker": null
+    "speaker": "Phil"
   },
   {
+    "order": 4,
     "start": 21.359,
     "end": 26.96,
     "text": "But reading isn't just a nice thing to do. It's an essential skill, something you need for",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 26.96,
     "end": 32.719,
     "text": "everyday activities, whether that's finding out the news by reading a newspaper or by",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 32.719,
     "end": 38.96,
     "text": "groceries by reading the labels. And that's why I was shocked by a recent UN report",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 38.96,
     "end": 46.56,
-    "text": "And that’s why I was shocked by a recent UN report estimating that around the world over 700 million adults are illiterate, which means they can’t read or write.",
-    "speaker": "illiterate"
+    "text": "estimating that around the world over 700 million adults are illiterate, which means they can't",
+    "speaker": null
   },
   {
+    "order": 8,
     "start": 46.56,
     "end": 53.12,
     "text": "read or write. Wow, that's a huge number of people excluded from doing basic day-to-day things.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 53.679,
     "end": 59.359,
     "text": "So what can be done to get more adults reading and writing? In this program we'll be hearing",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 59.359,
     "end": 65.759,
     "text": "about projects into very different countries trying to do just that. And as usual, we'll be learning",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 65.759,
     "end": 73.599,
     "text": "some useful new vocabulary as well. But first I have a question for you Phil. I mentioned a recent UN",
-    "speaker": null
+    "speaker": "Phil"
   },
   {
+    "order": 12,
     "start": 73.599,
     "end": 80.56,
     "text": "report on the high numbers of people unable to read and write, but illiteracy is not a new problem.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 81.28,
     "end": 88.64,
     "text": "Since 1967, the UN has been highlighting the importance of literacy, being able to read and write,",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 88.64,
     "end": 95.359,
     "text": "with a day of celebration called International Literacy Day. But when does it take place?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 96.079,
     "end": 103.04,
     "text": "Is it a, the 8th of March, b, the 8th of June, or c, the 8th of September?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 103.68,
     "end": 108.32,
     "text": "I think International Literacy Day is on the 8th of September.",
-    "speaker": "Phil"
+    "speaker": "Beth"
   },
   {
+    "order": 17,
     "start": 108.399,
     "end": 112.319,
     "text": "Okay Phil, we'll find out if that's correct at the end of the program.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 113.679,
     "end": 119.039,
     "text": "The biggest reason people grow up illiterate is not going to school, and that's especially",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 19,
     "start": 119.039,
     "end": 125.199,
     "text": "true for people living in the coastal towns of Bangladesh. Because these towns flood regularly,",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 125.199,
     "end": 130.719,
     "text": "families are always on the move, making it hard for children to get an education.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 130.719,
     "end": 135.519,
     "text": "The Friendship Project teaches reading and writing to groups of Bangladesh-y women and girls.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 136.159,
     "end": 141.84,
     "text": "They also teach numeracy, which means the ability to do basic maths like counting and adding up.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 141.84,
     "end": 148.48,
     "text": "Here, one student Rashida explains the impact it's had on her to BBC World Service program,",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 148.48,
     "end": 149.84,
     "text": "people fixing the world.",
-    "speaker": null
+    "speaker": "Phil"
   },
   {
+    "order": 25,
     "start": 153.28,
     "end": 157.84,
     "text": "My parents never sent me to school and I've suffered from not being able to read and write.",
-    "speaker": null
+    "speaker": "signaturecheat"
   },
   {
+    "order": 26,
     "start": 157.84,
     "end": 161.92,
     "text": "My children were embarrassed that I was illiterate. I couldn't even do basic accounting.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 162.879,
     "end": 167.599,
     "text": "Until now, I've had to use my fingerprint as a signature as I was illiterate.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 167.599,
     "end": 171.039,
     "text": "But now I can sign my name because I can read and write the alphabet,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 171.039,
     "end": 175.599,
     "text": "and I'll also be able to keep an account of my expenses. No one can cheat me anymore.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 178.239,
     "end": 184.639,
     "text": "Before the Friendship Project, Rashida couldn't write her signature, her name written in her",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 184.639,
     "end": 188.799,
     "text": "own handwriting. Instead, she had to use her fingerprint.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 190,
     "end": 196.959,
     "text": "Now Rashida has learnt the alphabet and also some basic maths, so she knows how much money she",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 196.959,
     "end": 204.959,
     "text": "spent and how much she has left. This means no one can cheat her, can trick or swindle her into",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 204.959,
     "end": 211.839,
     "text": "taking her money. The Friendship Project is free and so far over 11,000 adults have completed it,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 212.4,
     "end": 217.759,
     "text": "but it's not just developing countries that struggle with literacy. Our second project takes",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 217.759,
     "end": 224.08,
     "text": "place much closer to home, the north of England, where charity read easy, matches adult learners",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 224.08,
     "end": 231.759,
     "text": "with trained volunteers for one-to-one lessons. In the UK, one-in-six adults struggle with reading",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 231.759,
     "end": 239.599,
     "text": "and writing, including Peter. Peter had hearing problems as a child, fell behind at school and",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 239.599,
     "end": 246.319,
     "text": "never learnt to read. Here he is, talking with BBC World Service Programme, people fixing the world.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 248.319,
     "end": 253.84,
     "text": "Everyone takes for granted that you just open a letter and you read it. Before I met my wife,",
-    "speaker": null
+    "speaker": "takes for grantedthick"
   },
   {
+    "order": 41,
     "start": 253.84,
     "end": 257.68,
     "text": "I used to have to knock on the neighbours door, could you read this from me? Can you imagine the",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 257.68,
     "end": 265.36,
     "text": "embarrassment? I've tried college twice, nothing works, so as far as I'm concerned, I think I'm stupid.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 266.319,
     "end": 271.04,
     "text": "I'm just one of those people, it's never going to work for me, and that was my life.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 272.319,
     "end": 278.96,
     "text": "Many of us take it for granted that everyone can read and write. If you take something for granted,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 278.96,
     "end": 285.199,
     "text": "you assume it's true without checking. Peter had to ask his neighbours to read his letters,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 285.199,
     "end": 290.879,
     "text": "something he found very embarrassing. He thought he was thick, stupid and unintelligent.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 291.839,
     "end": 299.12,
     "text": "Now, Peter says learning with Rudezy has changed his life, his literate and is reading his way",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 299.12,
     "end": 304.959,
     "text": "through the Harry Potter books, and he always celebrates International Literacy Day.",
+    "speaker": "Beth"
+  },
+  {
+    "order": 49,
+    "start": 304.959,
+    "end": 311.12,
+    "text": "Which reminds me of your question, Beth. When does the UN's International Literacy Day take place?",
     "speaker": null
   },
   {
-    "start": 304.959,
-    "end": 311.12,
-    "text": "Which reminds me of your question, Beth – when does the UN’s International Literacy Day take place? I said it was on the 8th of September.",
-    "speaker": "Phil"
-  },
-  {
+    "order": 50,
     "start": 311.759,
     "end": 317.36,
     "text": "I said it was on the 8th of September. And that was the correct answer.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 317.36,
     "end": 322,
     "text": "Okay, let's recap the vocabulary we've learnt from this programme, starting with",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 322,
     "end": 324.72,
     "text": "illiterate, meaning unable to read and write.",
+    "speaker": "illiterate"
+  },
+  {
+    "order": 53,
+    "start": 325.36,
+    "end": 330.639,
+    "text": "Numeracy is the ability to understand basic maths, count and add up.",
     "speaker": null
   },
   {
-    "start": 325.36,
-    "end": 330.639,
-    "text": "Numeracy is the ability to understand basic maths, count, and add up.",
-    "speaker": "Numeracy"
-  },
-  {
+    "order": 54,
     "start": 330.639,
     "end": 336.48,
-    "text": "Your signature is your name written in your own handwriting style. It shows that something has been written or agreed by you.",
+    "text": "Your signature is your name written in your own handwriting style. It shows that something has",
     "speaker": "signature"
   },
   {
+    "order": 55,
     "start": 336.48,
     "end": 343.12,
     "text": "been written or agreed by you. To cheat someone means to trick or deceive them in order to get",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 343.12,
     "end": 349.04,
     "text": "their money more valuables. If you take something for granted, you assume that it's true without",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 349.04,
     "end": 355.12,
     "text": "checking up. And finally, the adjective thick is an informal word for stupid. Once again,",
-    "speaker": null
+    "speaker": "take something for granted"
   },
   {
+    "order": 58,
     "start": 355.12,
     "end": 361.12,
     "text": "our six minutes are up. But remember to join us again next time for more trending topics and",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 361.12,
     "end": 365.28,
     "text": "useful vocabulary. Here at 6 Minute English. Goodbye for now. Bye.",

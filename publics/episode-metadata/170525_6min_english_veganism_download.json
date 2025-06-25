@@ -5,6 +5,31 @@
   "thumbnailUrl": "",
   "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/170525_6min_english_veganism_download.mp3",
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/170525_6min_english_veganism.pdf",
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "word": "emissions",
+      "definition": "emissionsgases produced by something"
+    },
+    {
+      "word": "in this day and age",
+      "definition": "these days"
+    },
+    {
+      "word": "ethical",
+      "definition": "moral"
+    },
+    {
+      "word": "veganism",
+      "definition": "the vegan diet"
+    },
+    {
+      "word": "arid",
+      "definition": "dry; too dry to support crops"
+    },
+    {
+      "word": "livestock",
+      "definition": "farm animals"
+    }
+  ],
   "quiz": null
 }

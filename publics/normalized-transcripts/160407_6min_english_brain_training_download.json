@@ -1,821 +1,958 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Sophie"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.96,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12,
     "end": 15.519,
-    "text": "Hello and welcome to 6 Minute English. I'm Sophie…",
+    "text": "Hello and welcome to 6 Minute English. I'm Sophie.",
+    "speaker": null
+  },
+  {
+    "order": 5,
+    "start": 15.519,
+    "end": 16.719,
+    "text": "Watashiwa Niru.",
     "speaker": "Sophie"
   },
   {
-    "start": 15.519,
-    "end": 16.719,
-    "text": "Watashi-wa Ni-ru.",
-    "speaker": "Neil"
-  },
-  {
+    "order": 6,
     "start": 16.719,
     "end": 17.76,
     "text": "What did you say?",
-    "speaker": "Sophie"
+    "speaker": null
   },
   {
+    "order": 7,
     "start": 17.76,
     "end": 19.519,
     "text": "Watashiwa Niru.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 19.519,
     "end": 20.559,
     "text": "I'm Nihil.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 20.559,
     "end": 22.32,
     "text": "It's Japanese, Sophie.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 22.32,
     "end": 24,
     "text": "Very good, Nihil.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 24,
     "end": 26.96,
-    "text": "Very good, Neil! So your Japanese language lessons are going well, then?",
+    "text": "So your Japanese language lessons are going well then.",
     "speaker": "Sophie"
   },
   {
+    "order": 12,
     "start": 26.96,
     "end": 28,
-    "text": "They are:",
-    "speaker": "Sophie"
+    "text": "They are indeed.",
+    "speaker": null
   },
   {
+    "order": 13,
     "start": 28,
     "end": 30.64,
     "text": "And did you know Sophie that scientists believe",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 30.64,
     "end": 34,
     "text": "learning a second language can boost brain power?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 34,
     "end": 36.56,
     "text": "By linguism, or speaking two languages,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 36.56,
     "end": 39.12,
     "text": "equally well, is a form of brain training.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 39.12,
     "end": 41.359,
     "text": "Brain training is where you're learning ways",
-    "speaker": null
+    "speaker": "Brain training"
   },
   {
+    "order": 18,
     "start": 41.359,
     "end": 44.079,
     "text": "to increase your memory or intelligence.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 44.079,
     "end": 45.519,
     "text": "That's great, Nihil.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 45.519,
     "end": 48.64,
     "text": "But you're not exactly by lingual, are you?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 48.64,
     "end": 50.719,
-    "text": "Not yet. No.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 50.719,
-    "end": 54.24,
-    "text": "Well, brain training is the subject of today's show.",
+    "text": "Ah, not yet, no.",
     "speaker": null
   },
   {
+    "order": 22,
+    "start": 50.719,
+    "end": 54.24,
+    "text": "Well, brain training is the subject of today's show.",
+    "speaker": "Sophie"
+  },
+  {
+    "order": 23,
     "start": 54.32,
     "end": 56,
     "text": "And ways to train your brain",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 56,
     "end": 58.079,
     "text": "might be doing a crossword puzzle,",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 58.079,
     "end": 61.44,
     "text": "playing chess, or studying a new language.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 61.44,
     "end": 63.28,
     "text": "Now, I have a question for you, Nihil.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 63.28,
     "end": 65.68,
-    "text": "I hope my brain is up to the challenge.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 65.68,
-    "end": 66.719,
-    "text": "I'm sure it is.",
+    "text": "Ooh, I hope my brain is up to the challenge.",
     "speaker": null
   },
   {
+    "order": 28,
+    "start": 65.68,
+    "end": 66.719,
+    "text": "I'm sure it is.",
+    "speaker": "neurons"
+  },
+  {
+    "order": 29,
     "start": 66.719,
     "end": 70.32,
     "text": "Can you tell me how many neurons or nerve cells",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 70.32,
     "end": 72.719,
     "text": "are there in the typical human brain?",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 31,
     "start": 73.2,
     "end": 78,
     "text": "Is it A, 8.6 billion, B, 86 billion,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 78,
     "end": 80.879,
-    "text": "Or c) 860 billion",
+    "text": " Or c) 860 billion",
     "speaker": "neurons"
   },
   {
+    "order": 33,
     "start": 81.679,
     "end": 84.399,
-    "text": "Hmm. I'm going to say a) 8.6 billion.",
+    "text": " I'm going to say a) 8.6 billion",
     "speaker": "Neil"
   },
   {
+    "order": 34,
     "start": 84.399,
     "end": 86.56,
     "text": "Well, we'll find out later on in the show",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 86.56,
     "end": 88.959,
     "text": "whether you got the answer right or not.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 88.959,
     "end": 92.159,
     "text": "But now, let's listen to neuropsychologists",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 92.159,
     "end": 94,
     "text": "Dr. Catherine Love Day.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 94,
     "end": 96.399,
     "text": "Talking about why being bilingual",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 96.399,
     "end": 98.319,
     "text": "may protect your brain from damage",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 98.319,
     "end": 99.599,
     "text": "if you have a stroke.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 101.28,
     "end": 103.28,
     "text": "I think the theory behind why",
-    "speaker": null
+    "speaker": "INSERT"
   },
   {
+    "order": 42,
     "start": 103.28,
     "end": 106.719,
     "text": "bilingualism might be a protective factor is that",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 106.719,
     "end": 107.84,
     "text": "involves a lot of switching,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 107.84,
     "end": 109.28,
     "text": "there's a lot of attentional changes,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 109.28,
     "end": 110.159,
     "text": "there's a lot of switching,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 110.159,
     "end": 112.719,
     "text": "and that seems to exercise the sort of executive parts",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 112.719,
     "end": 113.92,
     "text": "of our brain.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 113.92,
     "end": 115.68,
     "text": "Those parts of the brain are then kind of stronger",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 115.68,
     "end": 118.079,
     "text": "and fitter when it comes to resisting",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 118.079,
     "end": 120.159,
     "text": "some kind of damage from a stroke.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 121.2,
     "end": 123.76,
     "text": "A stroke is a serious illness that occurs",
-    "speaker": null
+    "speaker": "strokeexecutive functions"
   },
   {
+    "order": 52,
     "start": 123.76,
     "end": 127.2,
     "text": "when blood flow to an area of the brain is cut off.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 127.2,
     "end": 130.08,
     "text": "And executive functions are the mental skills",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 130.08,
     "end": 133.439,
     "text": "involved in doing things like problem solving and planning.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 133.439,
     "end": 136.639,
     "text": "So, when a bilingual speaker switches",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 136.799,
     "end": 139.599,
     "text": "or changes from one language to another,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 139.599,
     "end": 143.199,
     "text": "this exercises the executive parts of their brain,",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 143.199,
     "end": 145.519,
     "text": "making it stronger and fitter.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 145.519,
     "end": 147.519,
     "text": "And because the brain is stronger,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 147.519,
     "end": 150.559,
     "text": "it's able to resist or prevent",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 150.559,
     "end": 152.559,
     "text": "damage caused by a stroke.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 152.559,
     "end": 154.959,
-    "text": "But many of us aren't bilingual, are we?",
-    "speaker": null
-  },
-  {
-    "start": 154.959,
-    "end": 158.56,
-    "text": "But many of us aren't bilingual are we? So our brains aren't going to be protected against strokes.",
+    "text": "But many of us aren't bilingual are we? ",
     "speaker": "Neil"
   },
   {
+    "order": 63,
+    "start": 154.959,
+    "end": 158.56,
+    "text": "So our brains aren't going to be protected against strokes.",
+    "speaker": null
+  },
+  {
+    "order": 64,
     "start": 158.56,
     "end": 159.839,
     "text": "Don't worry, Neil.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 159.839,
     "end": 163.039,
     "text": "There are other things you can do to exercise your brain.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 163.039,
     "end": 164.479,
     "text": "If you're right-handed,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 164.479,
     "end": 167.759,
     "text": "doing tasks like brushing your teeth with your left hand",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 167.759,
     "end": 169.759,
     "text": "will stimulate your brain.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 169.759,
     "end": 172.56,
     "text": "Or getting dressed in the dark with your eyes shut,",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 172.56,
     "end": 175.359,
     "text": "or simply memorising a list of words.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 175.359,
     "end": 177.519,
     "text": "For example, your shopping list.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 177.519,
     "end": 180.239,
-    "text": "Doing things with the wrong hand sounds hard,",
-    "speaker": null
+    "text": "Doing things with the wrong hand sounds hard.",
+    "speaker": "Neil"
   },
   {
+    "order": 73,
     "start": 180.239,
     "end": 182.479,
     "text": "but the shopping list thing sounds easier.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 182.479,
     "end": 183.439,
     "text": "Okay, let's see.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 184.319,
     "end": 185.439,
     "text": "Pizza.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 185.439,
     "end": 187.039,
     "text": "Donuts.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 187.039,
     "end": 189.039,
     "text": "Crisps.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 189.519,
     "end": 190.879,
     "text": "Bottle of Coke.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 190.879,
     "end": 192.159,
-    "text": "Chocolate cake.",
-    "speaker": null
+    "text": "chocolate cake ",
+    "speaker": "Neil"
   },
   {
+    "order": 80,
     "start": 192.159,
     "end": 194.799,
     "text": "That's not a very healthy list, Neil.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 194.799,
     "end": 199.039,
-    "text": "That's not a very healthy list, Neil! A good diet is also important in keeping your brain fit and healthy.",
-    "speaker": "Sophie"
+    "text": "A good diet is also important in keeping your brain fit and healthy.",
+    "speaker": null
   },
   {
+    "order": 82,
     "start": 199.039,
     "end": 202.479,
-    "text": "Maybe I should cut down on the chocolate cake then?",
-    "speaker": "Neil"
+    "text": "Err, maybe I should cut down on the chocolate cake, then.",
+    "speaker": null
   },
   {
+    "order": 83,
     "start": 202.479,
     "end": 206.159,
     "text": "Actually, that's one thing you could leave on the list.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 207.039,
     "end": 208.8,
     "text": "According to research,",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 208.8,
     "end": 213.28,
     "text": "chocolate may enhance or improve cognitive performance.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 214,
     "end": 217.359,
     "text": "And that is your ability to acquire and utilise knowledge.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 218,
     "end": 220.079,
     "text": "Now, let's listen to Dr. Love Day",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 220.08,
     "end": 222.8,
     "text": "talking about building up our cognitive reserve.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 223.36,
     "end": 226.48,
     "text": "This is the idea of building up extra abilities",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 226.48,
     "end": 230.24,
     "text": "to help protect the brain against declining memory or thinking.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 231.84,
     "end": 233.84,
-    "text": "Continually, just stimulating the brain,",
-    "speaker": null
+    "text": " Continually just stimulating the brain ",
+    "speaker": "INSERT"
   },
   {
+    "order": 92,
     "start": 233.84,
     "end": 235.68,
     "text": "things like learning a language,",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 235.68,
     "end": 236.88,
     "text": "learning music,",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 236.88,
     "end": 238.72,
     "text": "just educating yourself,",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 238.72,
     "end": 241.6,
     "text": "seems to continue to build up that cognitive reserve.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 241.6,
     "end": 244.8,
     "text": "So even if people take up languages or take up other things later in life,",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 244.8,
     "end": 246.56,
     "text": "it will give them a degree of protection.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 246.879,
     "end": 251.599,
     "text": "Stimulate means to make something become more active.",
-    "speaker": null
+    "speaker": "Stimulate"
   },
   {
+    "order": 99,
     "start": 251.599,
     "end": 256.079,
     "text": "Hmm, not sure I'm continually stimulating my brain.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 256.079,
     "end": 257.12,
     "text": "What do you think, Sophie?",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 257.12,
     "end": 260.319,
     "text": "With all our stimulating discussions, Neil,",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 260.319,
     "end": 263.12,
     "text": "I'm sure we're both building up our cognitive reserve.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 263.12,
     "end": 265.759,
     "text": "And there are your Japanese lessons, too.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 265.759,
     "end": 270.16,
-    "text": "Well, so I am doing well as far as my cognitive reserve goes. Sophie you've put my mind at rest.",
+    "text": "Well, so I am doing well as far as my cognitive reserve goes.",
     "speaker": "Neil"
   },
   {
+    "order": 105,
     "start": 270.16,
     "end": 272.399,
     "text": "Sophie, you've put my mind at rest.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 272.399,
     "end": 276.079,
     "text": "And if you put someone's mind at rest, you stop them worrying.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 276.879,
     "end": 278.8,
     "text": "Well, don't get too relaxed, Neil.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 278.8,
     "end": 281.599,
     "text": "Your brain needs constant stimulation, remember?",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 281.599,
     "end": 286.24,
     "text": "Ah, I think I might just lie down after the show with a box of chocolates in today's crossword.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 286.24,
     "end": 290.639,
     "text": "Or maybe I'll memorize another shopping list this time in Japanese.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 290.639,
     "end": 291.519,
     "text": "Okay.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 291.839,
     "end": 295.68,
     "text": "I think it's time to hear the answer to today's quiz question.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 295.68,
     "end": 299.919,
     "text": "I asked how many neurons are there in a typical human brain?",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 300.479,
     "end": 304.799,
     "text": "Is it A, 8.6 billion, B, 86 billion,",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 305.36,
     "end": 308.079,
     "text": "or C, 860 billion?",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 308.079,
     "end": 310.72,
     "text": "And I said a) 8.6 billion.",
     "speaker": "Neil"
   },
   {
+    "order": 117,
     "start": 310.72,
     "end": 312.96,
     "text": "I thought you were feeling clever today, Neil.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 312.96,
     "end": 315.84,
     "text": "I'm afraid that's the wrong answer.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 315.84,
     "end": 318.48,
-    "text": "b) 86 billion",
-    "speaker": "neurons"
+    "text": "It's B, 86 billion.",
+    "speaker": null
   },
   {
+    "order": 120,
     "start": 318.48,
     "end": 321.68,
     "text": "But do you know how scientists calculated that number?",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 321.68,
     "end": 323.519,
     "text": "Um, did they have a guess?",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 323.519,
     "end": 324.319,
-    "text": "Sophie.",
-    "speaker": null
+    "text": " Sophie",
+    "speaker": "Neil"
   },
   {
+    "order": 123,
     "start": 324.319,
     "end": 325.759,
     "text": "No, not exactly.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 326.4,
     "end": 331.759,
     "text": "Apparently, the easiest way is to count how many neurons that are in one part of the brain,",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 331.759,
     "end": 334.879,
     "text": "and then multiply that for the rest of the brain's volume.",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 334.879,
     "end": 335.68,
     "text": "Wow.",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 335.68,
     "end": 337.36,
-    "text": "That's a lot of brain cells.",
-    "speaker": null
+    "text": " that's a lot of brain cells",
+    "speaker": "Neil"
   },
   {
+    "order": 128,
     "start": 337.36,
     "end": 339.92,
     "text": "Okay, can we hear the words we learned today?",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 339.92,
     "end": 350.719,
     "text": "They are bilingualism, brain training, neurons, stroke, executive functions, switches,",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 351.839,
     "end": 360.719,
     "text": "resist, enhance, cognitive reserve, stimulate, put someone's mind at rest.",
     "speaker": null
   },
   {
+    "order": 131,
     "start": 361.44,
     "end": 363.6,
-    "text": "Well, that's the end of today's 6 Minute English. Don't forget to join us again soon!",
-    "speaker": "Neil"
+    "text": " Well, that's the end of today's 6 Minute English",
+    "speaker": "Sophie"
   },
   {
+    "order": 132,
     "start": 363.6,
     "end": 366,
     "text": "Don't forget to join us again soon.",
     "speaker": null
   },
   {
+    "order": 133,
     "start": 366,
     "end": 366.96,
     "text": "Bye bye now.",
     "speaker": null
   },
   {
+    "order": 134,
     "start": 366.96,
     "end": 367.92,
     "text": "Sayonara.",
     "speaker": null
   },
   {
+    "order": 135,
     "start": 367.92,
     "end": 368.8,
     "text": "Ciao.",
     "speaker": null
   },
   {
+    "order": 136,
     "start": 368.8,
     "end": 369.68,
     "text": "Hasta luego.",

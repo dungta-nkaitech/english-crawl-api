@@ -1,515 +1,601 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 13.64,
     "end": 16.96,
-    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "text": "Hello. This is 6 Minute English from BBC Learning English.",
     "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 16.96,
     "end": 17.96,
     "text": "I'm Neil.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 17.96,
     "end": 19.64,
-    "text": "And I’m Sam.",
-    "speaker": "Sam"
+    "text": "And I'm Sam.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 19.64,
     "end": 23.32,
-    "text": "Sam, would you describe yourself as ‘sporty’?",
+    "text": "Sam, would you describe yourself as ‘sporty",
     "speaker": "Neil"
   },
   {
+    "order": 6,
     "start": 23.32,
     "end": 28.4,
     "text": "Well, I do like to go running and I might watch some sport on TV.",
-    "speaker": "Sam"
+    "speaker": null
   },
   {
+    "order": 7,
     "start": 28.479,
     "end": 34.28,
     "text": "Would you watch sports like Bandy, Skeleton, or perhaps Luj?",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 34.28,
     "end": 37.679,
     "text": "Ah, you're talking about quite specialised sports.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 9,
     "start": 37.679,
     "end": 43.719,
-    "text": "Ah, you’re talking about quite specialised sports, played on ice or snow, and that’s because it’s almost time for the Winter Olympics.",
-    "speaker": "Sam"
-  },
-  {
-    "start": 43.719,
-    "end": 45.239,
-    "text": "Yes, you're right.",
+    "text": "Played on ice or snow, and that's because it's almost time for the Winter Olympics.",
     "speaker": null
   },
   {
+    "order": 10,
+    "start": 43.719,
+    "end": 45.239,
+    "text": "Yes, you’re right.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 11,
     "start": 45.239,
     "end": 50,
     "text": "The 2022 Winter Olympics starts in Beijing on the 4th of February.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 50,
     "end": 55.28,
     "text": "This event will mark the return of the Olympics to Beijing for the first time in 14 years,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 55.28,
     "end": 59.359,
     "text": "having previously hosted the 2008 Summer Games.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 59.359,
     "end": 62.56,
     "text": "That means Beijing will become the first city in the world",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 62.56,
     "end": 66.079,
     "text": "to have hosted both the Winter and Summer Games.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 66.079,
     "end": 69.48,
     "text": "But these latest games are not without controversy.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 69.48,
     "end": 74.96,
     "text": "That's disagreement or argument about something people have strong feelings about.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 74.96,
     "end": 79.359,
     "text": "More about that later, but as usual, I have a question for you, Sam.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 79.359,
     "end": 83.439,
     "text": "The Winter Olympics have not been around as long as the Summer Olympics.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 20,
     "start": 83.48,
     "end": 87.079,
     "text": "So, do you know when the first Winter event took place?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 87.079,
     "end": 95.12,
     "text": "Was it in A, 1904, B, 1924, or C, 1934?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 95.12,
     "end": 101.56,
-    "text": "Well, as they are relatively new, I’ll go for c) 1934.",
-    "speaker": "Sam"
+    "text": "Well, as they are relatively new, I'll go for C, 1934.",
+    "speaker": "Neil"
   },
   {
+    "order": 23,
     "start": 101.56,
     "end": 105.56,
     "text": "Okay, Sam, we'll find out if that's right later in the programme.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 105.56,
     "end": 111.159,
     "text": "Now, this latest Winter Olympics are scheduled to include a record 109 events",
-    "speaker": null
+    "speaker": "discipline"
   },
   {
+    "order": 25,
     "start": 111.159,
     "end": 117.92,
     "text": "over 15 disciplines in seven sports, by Athlyn, Bob Sledding, Curling, Icehockey,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 117.92,
     "end": 120.759,
     "text": "Luge, Skating and Skying.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 120.759,
     "end": 125.719,
     "text": "A discipline in this context is a particular way of doing a sport.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 125.719,
     "end": 129.039,
     "text": "The BBC's China Correspondence, Stephen MacDonald,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 129.039,
     "end": 135.159,
-    "text": "The BBC’s China correspondent, Stephen McDonell, went to a recent test event for the Olympics and explained what the organisers are hoping for…",
-    "speaker": "Sam"
-  },
-  {
-    "start": 135.159,
-    "end": 139.84,
-    "text": "In the mountains outside Beijing, the test events are in full swing.",
+    "text": "went to a recent test event for the Olympics and explained what the organisers are hoping for.",
     "speaker": null
   },
   {
+    "order": 30,
+    "start": 135.159,
+    "end": 139.84,
+    "text": "In the mountains outside Beijing, the test events are in full swing.",
+    "speaker": "in full swingheadachesmemorable"
+  },
+  {
+    "order": 31,
     "start": 139.879,
     "end": 144.68,
     "text": "Games organisers will be hoping, despite the coronavirus headaches,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 144.68,
     "end": 150.52,
     "text": "despite the alleged human rights abuses, despite the allegations from a former Chinese Olympian,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 150.52,
     "end": 154.68,
     "text": "a tennis star at that, involving a senior government official",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 154.68,
     "end": 158.64,
     "text": "that they can still produce a memorable Winter Olympics.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 160.159,
     "end": 165.64,
     "text": "So, that was Stephen MacDonald at a test event, which he described as being in full swing.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 165.64,
     "end": 169.52,
     "text": "So, at its highest level of activity, it's busiest.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 169.52,
     "end": 172.56,
     "text": "And he mentioned the controversy surrounding the games.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 172.56,
     "end": 177.32,
-    "text": "Yes, he mentioned the coronavirus headache, not an actual headache,",
-    "speaker": null
+    "text": "Yes, he mentioned the coronavirus headache – not an actual headache",
+    "speaker": "headache"
   },
   {
+    "order": 39,
     "start": 177.32,
     "end": 180.16,
     "text": "but something that causes a lot of problems.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 180.16,
     "end": 184.8,
     "text": "Covid-19 certainly makes it difficult to plan a huge event like this,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 184.8,
     "end": 189.92,
     "text": "particularly managing people who are travelling from all parts of the world.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 189.92,
     "end": 195.12,
     "text": "On top of this, China is accused of human rights abuses against the Wiga Muslims,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 195.12,
     "end": 198.84,
     "text": "and there is controversy around the tennis player Peng Shui.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 198.879,
     "end": 201.879,
-    "text": "But, despite the issues facing the games organisers,",
-    "speaker": null
+    "text": "But despite the issues facing the game’s organisers,",
+    "speaker": "memorable"
   },
   {
+    "order": 45,
     "start": 201.879,
     "end": 206.8,
     "text": "they want to put on an event that is hard to forget for good reasons.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 206.8,
     "end": 209.719,
     "text": "Stephen used the word memorable.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 209.719,
     "end": 214.8,
     "text": "Well, seeing athletes hurtle down an icy track at 130 kilometres an hour",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 214.8,
     "end": 218.84,
     "text": "on what looks like a tea tray is certainly unforgettable.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 218.84,
     "end": 222.039,
     "text": "This is what they call the skeleton.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 222.039,
     "end": 227.64,
     "text": "Hmm, let's hear more about the preparations for the games from the BBC's Stephen MacDonald.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 229.319,
     "end": 234.039,
     "text": "The games will be held in a freezing, mostly dry area.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 52,
     "start": 234.039,
     "end": 237.08,
     "text": "A mountain of snow-making is required.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 237.08,
     "end": 241,
     "text": "But this can make for quick, dynamic runs.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 241,
     "end": 245.92,
     "text": "The athletes we spoke to said these sites will make for high quality competition.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 245.92,
     "end": 250.199,
     "text": "For everyone here, the clock is now ticking.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 250.199,
     "end": 254.039,
-    "text": "So, despite this being a winter event held in a cold place,",
-    "speaker": null
+    "text": "So, despite this being a winter event, held in a cold place",
+    "speaker": "mountain"
   },
   {
+    "order": 57,
     "start": 254.039,
     "end": 257.759,
     "text": "enormous quantities of artificial snow have to be made.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 257.8,
     "end": 261.12,
     "text": "Stephen MacDonald describes this as a mountain of snow,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 261.12,
     "end": 264.639,
     "text": "not a real mountain, but a larger amount of it.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 264.639,
     "end": 268.48,
     "text": "But some athletes say this type of snow is good for speed",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 268.48,
     "end": 272.719,
     "text": "and changing and developing or dynamic conditions.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 272.719,
     "end": 276.48,
     "text": "They hope it will be a high-quality competition.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 276.48,
     "end": 279.439,
-    "text": "Let's hope so, and it's not long until it starts.",
-    "speaker": null
-  },
-  {
-    "start": 279.439,
-    "end": 285.12,
-    "text": "Let’s hope so, and it’s not long until it starts – and for the athletes the clock is ticking, meaning time is running out to prepare.",
+    "text": "Let’s hope so, and it’s not long until it starts ",
     "speaker": "the clock is ticking"
   },
   {
-    "start": 285.199,
-    "end": 290.24,
-    "text": "And our time is running out too, so Neil, what’s the answer to the question you asked me?",
-    "speaker": "Sam"
+    "order": 64,
+    "start": 279.439,
+    "end": 285.12,
+    "text": "And for the athletes, the clock is ticking, meaning time is running out to prepare.",
+    "speaker": null
   },
   {
+    "order": 65,
+    "start": 285.199,
+    "end": 290.24,
+    "text": "And our time is running out too, so Neil, what's the answer to the question you asked me?",
+    "speaker": null
+  },
+  {
+    "order": 66,
     "start": 290.959,
     "end": 295.199,
     "text": "Ah, yes. I asked you when the first winter Olympics took place.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 295.199,
     "end": 297.12,
-    "text": "And I said 1934.",
-    "speaker": "Sam"
+    "text": "? And I said 1934",
+    "speaker": "Neil"
   },
   {
+    "order": 68,
     "start": 298,
     "end": 301.92,
-    "text": "Which was, I'm afraid to say Sam, the wrong answer.",
-    "speaker": null
+    "text": "Which was… I’m afraid to say, Sam, the wrong answer",
+    "speaker": "Neil"
   },
   {
+    "order": 69,
     "start": 302.639,
     "end": 308.56,
     "text": "The first winter Olympic Games took place in 1924 and were held in Chamonix in the French Alps.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 309.36,
     "end": 312.319,
     "text": "The Beijing Winter Olympics is the 24th Games,",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 312.319,
     "end": 316.719,
     "text": "and the Paralympic Games will take place a month later in the city between the 4th",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 316.719,
     "end": 319.439,
     "text": "and the 13th of March 2022.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 320.399,
     "end": 323.519,
     "text": "Looks like I need to brush up on my winter Olympics knowledge,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 323.519,
     "end": 327.519,
     "text": "but not before we recap some of the vocabulary we've mentioned,",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 327.519,
     "end": 334.24,
     "text": "starting with controversy, disagreement or argument about something people have strong feelings about.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 334.24,
     "end": 337.199,
-    "text": "We talked about something being in full swing – so, at its highest level of activity.",
+    "text": "We talked about something being in full swing ",
     "speaker": "in full swing"
   },
   {
+    "order": 77,
     "start": 337.199,
     "end": 339.36,
     "text": "so at its highest level of activity.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 340.16,
     "end": 345.199,
-    "text": "And a headache is, metaphorically, something that causes you a lot of problems.",
-    "speaker": "headache"
+    "text": "And a headache is metaphorically, something that causes you a lot of problems.",
+    "speaker": null
   },
   {
+    "order": 79,
     "start": 345.84,
     "end": 350,
-    "text": "A mountain is not only a very high hill - used metaphorically it means a large amount of something.",
+    "text": "A mountain is not only a very high hill used metaphorically,",
     "speaker": "mountain"
   },
   {
+    "order": 80,
     "start": 350,
     "end": 351.92,
     "text": "it means a large amount of something.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 352.56,
     "end": 357.04,
-    "text": "Something continually changing and developing can be described as dynamic.",
-    "speaker": "dynamic"
+    "text": "Something continually changing and developing can be described as dynamic.",
+    "speaker": null
   },
   {
+    "order": 82,
     "start": 357.92,
     "end": 364.16,
-    "text": "And finally, the clock is ticking, means time is running out to prepare for or complete something.",
+    "text": "And finally, the clock is ticking, means time is running out to prepare for or complete something. ",
     "speaker": "the clock is ticking"
   },
   {
+    "order": 83,
     "start": 364.16,
     "end": 368.48,
-    "text": "Well, the clock is no longer ticking for us because our six minutes are up!",
-    "speaker": "Sam"
+    "text": "Well, the clock is no longer ticking for us because our six minutes are up.",
+    "speaker": null
   },
   {
+    "order": 84,
     "start": 368.96,
     "end": 370.08,
     "text": "Goodbye for now!",
     "speaker": "Neil"
   },
   {
+    "order": 85,
     "start": 370.08,
     "end": 370.72,
     "text": "Bye-bye!",

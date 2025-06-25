@@ -1,785 +1,916 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.4,
     "end": 14.4,
     "text": "Hello and welcome to 6 Minute English,",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 14.4,
     "end": 17.039,
     "text": "the program where we explore an interesting topic",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 17.039,
     "end": 19.679,
-    "text": "and bring you six bits of useful vocabulary.",
-    "speaker": null
+    "text": " and bring you six bits of useful vocabulary",
+    "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 19.679,
     "end": 20.32,
     "text": "I'm Neil.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 20.32,
     "end": 21.199,
     "text": "And I'm Rob.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 21.199,
     "end": 23.839,
-    "text": "And I'm Rob. Today we're talking about first impressions – and how they're often wrong.",
-    "speaker": "first impressions"
+    "text": "Today we're talking about first impressions",
+    "speaker": null
   },
   {
+    "order": 8,
     "start": 23.839,
     "end": 25.44,
     "text": "and how they're often wrong.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 25.44,
     "end": 28.4,
-    "text": "So let's start with the term first impression.",
-    "speaker": null
+    "text": "So let's start with the term first impression ",
+    "speaker": "first impression"
   },
   {
+    "order": 10,
     "start": 28.399,
     "end": 31.359,
     "text": "It's the idea or opinion that you have about someone",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 31.359,
     "end": 33.92,
     "text": "after meeting them for only a short time.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 33.92,
     "end": 36.32,
     "text": "It's very natural to make a quick judgment",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 36.32,
     "end": 39.92,
-    "text": "It's very natural to make a quick judgement about someone based on their appearance or facial expression.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 39.92,
-    "end": 41.759,
-    "text": "We're going to be hearing about the research",
+    "text": "about someone based on their appearance or facial expression.",
     "speaker": null
   },
   {
+    "order": 14,
+    "start": 39.92,
+    "end": 41.759,
+    "text": "We're going to be hearing about the research",
+    "speaker": "Neil"
+  },
+  {
+    "order": 15,
     "start": 41.759,
     "end": 46.399,
     "text": "of Professor Alexander Todorov from Princeton University in the US.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 46.399,
     "end": 48,
     "text": "First though, a question.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 48,
     "end": 51.039,
     "text": "How long does he say it takes to form an impression",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 51.039,
     "end": 52.719,
     "text": "about someone's face?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 52.719,
     "end": 57.119,
     "text": "Is it A under one second, B one second",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 57.199,
     "end": 58.96,
-    "text": "c) six seconds",
-    "speaker": "Neil"
-  },
-  {
-    "start": 58.96,
-    "end": 61.039,
-    "text": "I'll go for b) one second.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 61.039,
-    "end": 62.479,
-    "text": "Well we'll find out if you're right",
+    "text": "or C six seconds?",
     "speaker": null
   },
   {
+    "order": 21,
+    "start": 58.96,
+    "end": 61.039,
+    "text": "I'll go for B one second.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 22,
+    "start": 61.039,
+    "end": 62.479,
+    "text": "Well we'll find out if you're right",
+    "speaker": "Neil"
+  },
+  {
+    "order": 23,
     "start": 62.479,
     "end": 64.239,
     "text": "or not later on in the program.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 64.239,
     "end": 68.079,
     "text": "So Alexander Todorov has been researching our impressions.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 68.56,
     "end": 71.599,
     "text": "His tests asked people to decide whether they thought",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 71.599,
     "end": 76,
     "text": "faces were dominant, competent, trustworthy or extroverted.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 76,
     "end": 78.079,
     "text": "Let's just look at those words for a second.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 28,
     "start": 78.079,
     "end": 81.599,
     "text": "Dominant means being strongest or most important.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 81.599,
     "end": 84.56,
     "text": "Competent means being able to do things.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 84.64,
     "end": 87.68,
     "text": "While if you're trustworthy, it means people trust you.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 87.68,
     "end": 89.6,
     "text": "You are worth their trust.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 89.6,
     "end": 92.4,
     "text": "And being extroverted means you are energetic",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 92.4,
     "end": 94.64,
     "text": "and enjoy spending time with others.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 94.64,
     "end": 96.64,
     "text": "So what did he find out?",
-    "speaker": null
+    "speaker": "trustworthy"
   },
   {
+    "order": 35,
     "start": 96.64,
     "end": 99.68,
     "text": "Faces that look happy and feminine, like a woman,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 99.68,
     "end": 102.159,
     "text": "were rated as more trustworthy.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 102.159,
     "end": 105.04,
-    "text": "While faces that were more masculine – like a man – were seen as more dominant.",
-    "speaker": "Rob"
+    "text": "While faces that were more masculine, like a man,",
+    "speaker": null
   },
   {
+    "order": 38,
     "start": 105.04,
     "end": 106.64,
     "text": "were seen as more dominant.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 106.64,
     "end": 110.4,
     "text": "Why do faces with big eyes were seen as more extroverted?",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 110.4,
     "end": 112.64,
     "text": "Now the important thing is that Todorov says",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 112.719,
     "end": 115.28,
     "text": "that these judgments aren't accurate.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 115.28,
     "end": 118.56,
     "text": "Someone who looks competent isn't necessarily competent.",
-    "speaker": null
+    "speaker": "extroverted"
   },
   {
+    "order": 43,
     "start": 118.56,
     "end": 120.319,
-    "text": "So, what does this mean in practice? Here's Professor Todorov:",
+    "text": "So, what does this mean in practice",
     "speaker": "Neil"
   },
   {
+    "order": 44,
     "start": 120.319,
     "end": 121.599,
     "text": "Here's Professor Todorov.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 122.96,
     "end": 126.719,
     "text": "Trustworthiness, dominance, and attractiveness are the three big things",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 126.719,
     "end": 129.439,
     "text": "that we form impressions of people.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 129.439,
     "end": 132.879,
     "text": "But interestingly, we have done some work predicting",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 132.879,
     "end": 134.96,
     "text": "the electoral success of politicians",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 134.96,
     "end": 137.36,
     "text": "and the judgment that is most predictive",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 137.36,
     "end": 140.639,
     "text": "of who is going to win the election is perceived competence.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 140.719,
     "end": 143.839,
     "text": "And this is not random at all,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 143.839,
     "end": 147.759,
     "text": "because if you ask voters what is the most important attribute",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 147.759,
     "end": 150.719,
     "text": "of a politician, competence is the one on the top.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 151.759,
     "end": 154.559,
     "text": "Okay, so this is actually quite significant.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 154.559,
     "end": 157.759,
     "text": "People say that the most important attribute or quality",
-    "speaker": null
+    "speaker": "attribute"
   },
   {
+    "order": 56,
     "start": 157.759,
     "end": 161.679,
     "text": "for a politician is competence, the ability to do things.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 161.679,
     "end": 163.519,
     "text": "Well, that sounds fair enough.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 163.519,
     "end": 166.719,
     "text": "But because we make judgments based on appearance,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 166.719,
     "end": 169.279,
     "text": "this can actually affect how people vote.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 169.599,
     "end": 173.199,
-    "text": "If voters believe – or perceive someone to be competent – they're more likely to vote for him or her.",
+    "text": "If voters believe or perceive someone to be competent,",
     "speaker": "perceive"
   },
   {
+    "order": 61,
     "start": 173.199,
     "end": 175.599,
     "text": "they're more likely to vote for him or her.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 175.599,
     "end": 178.159,
     "text": "He says this applies especially to people",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 178.159,
     "end": 180.8,
     "text": "who are less educated about politics.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 180.8,
     "end": 183.84,
     "text": "They're more likely to be influenced by appearance.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 183.84,
     "end": 187.439,
-    "text": "He says this applies to around 25% of voters.",
-    "speaker": null
+    "text": "He says this applies to around 25% of voters ",
+    "speaker": "go with their gut"
   },
   {
+    "order": 66,
     "start": 187.439,
     "end": 190.08,
     "text": "So the number of people who go with their gut",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 190.08,
     "end": 193.28,
     "text": "is large enough to influence the outcomes of elections.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 193.28,
     "end": 195.28,
     "text": "Wow, to go with your gut.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 196,
     "end": 197.52,
     "text": "That means to make a decision",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 197.6,
     "end": 200,
     "text": "which isn't based on rational thought.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 200,
     "end": 203.52,
     "text": "It's based on instinct, on a feeling, on your gut.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 203.52,
     "end": 206.96,
-    "text": "Yes – your gut is your stomach and the organs in your belly. So, can we tell nothing from a person's face?",
+    "text": "Yes – your gut is your stomach and the organs in your belly",
     "speaker": "Neil"
   },
   {
+    "order": 73,
     "start": 207.52,
     "end": 210.879,
     "text": "So can we tell nothing from a person's face?",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 210.879,
     "end": 214.16,
     "text": "Todorov says faces carry useful information about things,",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 214.16,
     "end": 217.84,
     "text": "like a person's mental state and whether they're tired or sick.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 217.84,
     "end": 220.56,
     "text": "But they don't tell you about a person's character.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 220.56,
     "end": 223.36,
-    "text": "Indeed, it's not only elections where this counts.",
-    "speaker": null
-  },
-  {
-    "start": 223.36,
-    "end": 226.24,
-    "text": "Indeed. It's not only elections where this counts, we also judge during job interviews and meetings.",
+    "text": "Indeed. It's not only elections where this counts,",
     "speaker": "Neil"
   },
   {
-    "start": 226.8,
-    "end": 230.4,
-    "text": "So what can we do to minimise the chances of being affected – should we just close our eyes when we meet people?",
-    "speaker": "Rob"
+    "order": 78,
+    "start": 223.36,
+    "end": 226.24,
+    "text": "We also judge during job interviews and meetings.",
+    "speaker": null
   },
   {
+    "order": 79,
+    "start": 226.8,
+    "end": 230.4,
+    "text": "So what can we do to minimise the chances of being affected?",
+    "speaker": null
+  },
+  {
+    "order": 80,
     "start": 230.4,
     "end": 232.8,
     "text": "Should we just close our eyes when we meet people?",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 232.8,
     "end": 234.879,
-    "text": "Well, it's not such a bad idea.",
-    "speaker": null
+    "text": "Well, it's not such a bad idea!",
+    "speaker": "Neil"
   },
   {
+    "order": 82,
     "start": 235.439,
     "end": 238.24,
     "text": "There's the example of the Boston Symphony Orchestra.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 238.24,
     "end": 242.4,
     "text": "Back in the 1950s, it was entirely made up of male musicians.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 243.04,
     "end": 245.52,
     "text": "Then they introduced blind auditions.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 245.52,
     "end": 249.2,
     "text": "In other words, they listened to new musicians without looking at them.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 249.2,
     "end": 250.64,
     "text": "Okay, and what happened?",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 250.64,
     "end": 252.8,
-    "text": "And what happened – I guess many more women were selected?",
-    "speaker": "Rob"
-  },
-  {
-    "start": 252.8,
-    "end": 254.4,
-    "text": "Exactly, around 50%.",
+    "text": "I guess many more women were selected.",
     "speaker": null
   },
   {
+    "order": 88,
+    "start": 252.8,
+    "end": 254.4,
+    "text": "Exactly – around 50%",
+    "speaker": "Neil"
+  },
+  {
+    "order": 89,
     "start": 254.48,
     "end": 259.12,
     "text": "Of course, gender and race are also huge factors in how we perceive faces.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 259.12,
     "end": 264.319,
     "text": "Todorov says we tend to react most positively to faces that look like our own.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 264.319,
     "end": 269.12,
-    "text": "Right, well – I guess we just need to take a deep breath and try not to judge too much.",
-    "speaker": "Rob"
+    "text": "Right. Well, I guess we just need to take a deep breath and try not to judge too much.",
+    "speaker": null
   },
   {
+    "order": 92,
     "start": 269.12,
     "end": 273.28,
-    "text": "Easier said than done, I'm afraid. Especially when we judge so quickly! But do we do it in under a second, one second or six seconds?",
+    "text": "Easier said than done, I'm afraid. Especially when we judge so quickly!",
     "speaker": "Neil"
   },
   {
+    "order": 93,
     "start": 273.28,
     "end": 277.92,
     "text": "But do we do it in under a second, one second, or six seconds?",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 277.92,
     "end": 279.759,
-    "text": "I said one second.",
-    "speaker": "Rob"
+    "text": "Aha, I said one second.",
+    "speaker": null
   },
   {
+    "order": 95,
     "start": 279.759,
     "end": 283.36,
-    "text": "According to Todorov it takes under one second.",
+    "text": "According to Todorov it takes under one second. ",
     "speaker": "Neil"
   },
   {
+    "order": 96,
     "start": 283.36,
     "end": 286.72,
     "text": "Ah, I think it's safe to say it's very fast.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 286.72,
     "end": 289.36,
-    "text": "I think it's safe to say it's very fast. So shall we quickly go through today's vocabulary?",
-    "speaker": "Rob"
+    "text": "So shall we quickly go through today's vocabulary?",
+    "speaker": null
   },
   {
+    "order": 98,
     "start": 289.36,
     "end": 291.52,
     "text": "Okay, first up, first impression.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 291.52,
     "end": 293.84,
     "text": "The first judgment you make about something.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 293.84,
     "end": 295.6,
     "text": "What was your first impression of me, Rob?",
-    "speaker": null
+    "speaker": "first impressionfirst impression"
   },
   {
+    "order": 101,
     "start": 296.879,
     "end": 300.319,
-    "text": "Well I thought you were very trustworthy and extroverted.",
-    "speaker": "trustworthyextroverted."
-  },
-  {
-    "start": 301.199,
-    "end": 303.68,
-    "text": "Well, isn't that convenient and accurate?",
+    "text": "Well, I thought you were very trustworthy and extroverted.",
     "speaker": null
   },
   {
+    "order": 102,
+    "start": 301.199,
+    "end": 303.68,
+    "text": "Well isn't that convenient, (and accurate",
+    "speaker": "trustworthy"
+  },
+  {
+    "order": 103,
     "start": 303.68,
     "end": 307.759,
     "text": "Because those were exactly the two adjectives I wanted to look at next.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 307.759,
     "end": 310.08,
     "text": "Being trustworthy is important in life.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 310.08,
     "end": 311.36,
     "text": "It means people trust you.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 311.439,
     "end": 314.4,
     "text": "And being extroverted is more of a character type.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 314.96,
     "end": 318.56,
     "text": "Extroverts like to be with people and are often seen as confident.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 319.04,
     "end": 324.639,
     "text": "Whereas the opposite introverts usually need to spend time on their own and aren't as loud.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 324.639,
     "end": 327.84,
     "text": "Both of these are interesting attributes or qualities.",
-    "speaker": null
-  },
-  {
-    "start": 327.84,
-    "end": 332.72,
-    "text": "Both of these are interesting attributes – or qualities. You could say that mathematical ability is an essential attribute for an engineer.",
     "speaker": "attributes attribute"
   },
   {
+    "order": 110,
+    "start": 327.84,
+    "end": 332.72,
+    "text": "You could say that mathematical ability is an essential attribute for an engineer.",
+    "speaker": null
+  },
+  {
+    "order": 111,
     "start": 332.72,
     "end": 336.56,
     "text": "And competence is the number one attribute for a politician.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 336.56,
     "end": 340.24,
     "text": "Although people don't always vote depending on actual competence,",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 340.24,
     "end": 342.319,
     "text": "they base it on their perception.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 342.319,
     "end": 345.28,
     "text": "What they see or perceive its competence.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 345.28,
     "end": 348.639,
-    "text": "What they see, or perceive, as competence. 'Perceived competence' might be different from actual competence!",
+    "text": "Perceived competence might be different from actual competence.",
     "speaker": "perceivePerceived"
   },
   {
+    "order": 116,
     "start": 348.639,
     "end": 352.48,
     "text": "Yes, in many situations we tend to go with our guts.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 352.48,
     "end": 355.28,
     "text": "We make decisions based on deep feelings.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 355.28,
     "end": 356.4,
     "text": "Do you do that, Neil?",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 356.4,
     "end": 358.96,
     "text": "Yes, some things you can think about too much.",
-    "speaker": null
+    "speaker": "went with my gut"
   },
   {
+    "order": 120,
     "start": 358.96,
     "end": 361.6,
     "text": "When I left my last job, I really just went with my gut.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 361.6,
     "end": 363.439,
     "text": "It felt like the right thing to do.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 363.439,
     "end": 366.72,
-    "text": "Of course – because it meant coming to work here with me!",
-    "speaker": "Rob"
-  },
-  {
-    "start": 366.72,
-    "end": 367.68,
-    "text": "Naturally.",
+    "text": "Of course, because it meant coming to work here with me.",
     "speaker": null
   },
   {
+    "order": 123,
+    "start": 366.72,
+    "end": 367.68,
+    "text": "Naturally.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 124,
     "start": 367.759,
     "end": 370.56,
     "text": "So that's it for our chat about first impressions.",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 370.56,
     "end": 374.639,
     "text": "For more, do visit our Facebook, Twitter, Instagram and YouTube pages.",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 374.639,
     "end": 376,
     "text": "And of course, our website.",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 376,
     "end": 376.8,
     "text": "Bye for now.",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 128,
     "start": 376.8,
     "end": 377.6,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 377.6,
     "end": 379.12,
     "text": "Six minutes in English.",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 379.12,
     "end": 381.519,
     "text": "From BBC Learning English.",

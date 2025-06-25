@@ -1,407 +1,475 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 6,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 8,
     "end": 12.48,
     "text": "Hello, this is 6-minute English from BBC Learning English. I'm Georgie.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.48,
     "end": 16.8,
     "text": "And I'm Neil. In this programme, we're talking about the immune system,",
-    "speaker": null
+    "speaker": "Georgie"
   },
   {
+    "order": 3,
     "start": 16.8,
     "end": 20.24,
     "text": "which is the body's natural defence against getting ill.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 20.24,
     "end": 24.879,
     "text": "Now Georgie, is there anything you do to boost your immune system?",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 24.879,
     "end": 29.92,
-    "text": "Yes, I try to eat lots of oranges, which apparently have lots of vitamin C.",
-    "speaker": null
+    "text": "Yes. I try to eat lots of oranges, which apparently have lots of vitamin C,",
+    "speaker": "Georgie"
   },
   {
+    "order": 6,
     "start": 29.92,
     "end": 34.88,
     "text": "And there are lots of things people do to try to improve their immune system and stay healthier,",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 34.88,
     "end": 40.8,
     "text": "like eating certain foods, taking vitamins, or even activities like swimming in cold water.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 40.8,
     "end": 45.04,
     "text": "We'll find out how useful some of these techniques are in today's programme.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 45.04,
     "end": 48.799,
     "text": "But first, Georgie, a question. We all know the common cold.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 48.799,
     "end": 53.439,
     "text": "Now, that's the illness that makes you cough and sneeze, have a sore throat and headache.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 53.439,
     "end": 58.56,
     "text": "But how many colds does the average adult get in the UK each year?",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 58.64,
     "end": 63.6,
     "text": "Is it A, 2-3, B, 4-5, or C, 7-28?",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 63.6,
     "end": 68.879,
-    "text": "Eight would be a lot. I'm going to go with a) 2-3 colds a year.",
-    "speaker": "Georgie"
-  },
-  {
-    "start": 68.879,
-    "end": 71.84,
-    "text": "Well, we'll find out at the end of the programme if you're right.",
+    "text": "Hmm. Eight would be a lot. I'm going to go with A, 2-3 colds a year.",
     "speaker": null
   },
   {
+    "order": 14,
+    "start": 68.879,
+    "end": 71.84,
+    "text": "Well, we'll find out at the end of the programme if you're right.",
+    "speaker": "Georgie"
+  },
+  {
+    "order": 15,
     "start": 72.64,
     "end": 78.64,
     "text": "Now, many people can become ill over the winter, with diseases like colds, flu, and Covid-19.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 79.359,
     "end": 83.84,
     "text": "Host of BBC Radio 4 programme, Inside Health, James Gallagher,",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 83.84,
     "end": 89.52,
     "text": "gathered some experts to talk about immune systems, and he started off by asking whether they'd",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 89.52,
     "end": 97.12,
     "text": "had more illnesses than usual this winter. Hello. Hi. Right. How has everyone been this winter?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 97.12,
     "end": 103.439,
-    "text": "Hello! [Hi.] Right, how has everyone been this winter? Because I've had a rotten one and I have felt constantly ill since about November. John?",
+    "text": "Because I've had a rotten one, and I have felt constantly ill since about November, John.",
     "speaker": "James Gallagher"
   },
   {
+    "order": 20,
     "start": 103.439,
     "end": 107.2,
     "text": "I have not had anything yet to touch with. Okay, let's see what I can",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 107.28,
     "end": 110.64,
     "text": "factor with by the end of the show, Margaret. I was pretty unwell in September.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 110.64,
     "end": 115.84,
     "text": "I had what I presumed to be Covid, but I've been alright since my old snuffles aside.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 115.84,
     "end": 121.12,
     "text": "Eleanor, I really need someone to back me up. No, sorry, I've been absolutely 100% tickity-boo.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 121.68,
     "end": 126.56,
-    "text": "Unlike James, Professor John Tregoning hasn't been ill. John uses the expression touch wood, which is an informal phrase said in order to avoid bad luck.",
-    "speaker": "touch wood"
+    "text": "Unlike James, Professor John Tregoning hasn't been ill. John uses the expression",
+    "speaker": "tickety-boo"
   },
   {
+    "order": 25,
     "start": 126.56,
     "end": 131.36,
     "text": "touch wood, which is an informal phrase said in order to avoid bad luck.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 131.36,
     "end": 137.52,
     "text": "Dr Margaret McCartney was unwell in September, but has only had a few snuffles since.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 137.52,
     "end": 142.88,
-    "text": "Snuffles is an informal word used to describe minor illnesses that affect your nose.",
-    "speaker": null
+    "text": " Snuffles is an informal word used to describe minor illnesses that affect your nose",
+    "speaker": "snufflesSnufflessniffles"
   },
   {
+    "order": 28,
     "start": 142.88,
     "end": 147.84,
     "text": "We can also say sniffles. Host James is surprised that nobody has been ill,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 147.84,
     "end": 153.12,
     "text": "and says to Professor Eleanor Riley, back me up. If you ask someone to back you up,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 153.12,
     "end": 156.64,
     "text": "you're asking for them to say something which supports your opinion.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 156.639,
     "end": 162.959,
     "text": "But Eleanor has had a healthy winter too. She's been tickity-boo, which is an informal phrase,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 162.959,
     "end": 168.239,
     "text": "meaning everything's fine or in good order. Throughout the winter, many people try different",
-    "speaker": null
+    "speaker": "tickety-boo"
   },
   {
+    "order": 33,
     "start": 168.239,
     "end": 173.599,
     "text": "techniques, like taking supplements or eating certain foods to boost their immune system,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 173.599,
     "end": 180.079,
     "text": "to improve their body's natural defenses against disease. Host of BBC Radio 4's Inside Health,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 180.079,
     "end": 185.199,
     "text": "James Gallagher asks Dr Margaret McCartney whether some of these products are successful.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 186,
     "end": 194.719,
     "text": "Okay, quick fire round, Margaret, Echinacea. No. Turmeric. No. Ginger shots. No. This is a very,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 194.719,
     "end": 199.759,
     "text": "very good quiz. What about the stuff you squirt when you're at the beginning of an infection?",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 200.399,
     "end": 204.239,
     "text": "Interesting, but not any better than normal ceiline spray, just saltwater.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 204.879,
     "end": 209.759,
-    "text": "In fact, according to Margaret, there isn't enough evidence that many popular health products can actually change the way your immune system works.",
-    "speaker": "Neil"
+    "text": "In fact, according to Margaret, there isn't enough evidence that many popular health products",
+    "speaker": "Margaret McCartney"
   },
   {
+    "order": 40,
     "start": 209.759,
     "end": 215.039,
     "text": "can actually change the way your immune system works. Another popular health trend in the UK",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 215.039,
     "end": 220.879,
     "text": "is cold water swimming. People who swim in cold water say it's good for their mental health,",
-    "speaker": null
+    "speaker": "Georgie"
   },
   {
+    "order": 42,
     "start": 220.879,
     "end": 225.199,
     "text": "and they also believe it makes them less likely to get ill during the winter months.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 225.919,
     "end": 231.039,
-    "text": "But scientists aren't sure about the benefits of cold water swimming for the immune system yet, as Professor John Tregoning explains to BBC Radio 4’s Inside Health.",
-    "speaker": "Neil"
+    "text": "But scientists aren't sure about the benefits of cold water swimming for the immune system yet,",
+    "speaker": null
   },
   {
+    "order": 44,
     "start": 231.039,
     "end": 235.84,
     "text": "as Professor John Tragoning explains to BBC Radio 4's Inside Health.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 235.84,
     "end": 241.519,
     "text": "The social element actually is really important. It probably is beneficial to do. You reduce stress",
-    "speaker": null
+    "speaker": "dampens more prone to"
   },
   {
+    "order": 46,
     "start": 241.6,
     "end": 246.32,
     "text": "and cortisol dampens the immune system. So actually if you're stressed, then maybe you are more",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 246.32,
     "end": 251.36,
     "text": "prone to infection and that may be why that benefit of being with people, nice people that you",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 251.36,
     "end": 256.319,
     "text": "like in nice places is helping. But I don't think it's unique to cold water swimming. I think you",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 256.319,
     "end": 261.6,
     "text": "could probably get it from dancing or singing or going for a run. John says that cortisol,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 261.6,
     "end": 268.879,
     "text": "a chemical associated with stress, dampens the immune system. Here dampens means makes weaker.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 268.879,
     "end": 274,
     "text": "We also have a common expression dampens someone's spirits, which means to make them less",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 274,
     "end": 279.759,
     "text": "enthusiastic about something. John says that there is evidence that people who are stressed are more",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 279.759,
     "end": 285.04,
-    "text": "John says that there is evidence that people who are stressed are more prone to infection. If you're more prone to something, it’s more likely to happen to you.",
+    "text": "prone to infection. If you're more prone to something, it’s more likely to happen to you.",
     "speaker": "prone  prone to"
   },
   {
+    "order": 54,
     "start": 285.04,
     "end": 290.319,
     "text": "It could be that cold water swimming reduces stress, and so it helps people's immune systems work",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 290.319,
     "end": 294.879,
     "text": "well. But there are lots of other activities that could have the same effect and help people",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 294.879,
     "end": 300.319,
     "text": "have fewer colds over winter. Which reminds me of my question, Georgie? I asked how many colds",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 300.319,
     "end": 307.92,
     "text": "the average UK adult has a year? And I said two to three. And that is the correct answer, so well done.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 307.92,
     "end": 313.68,
     "text": "Thank you. Okay, let's recap the vocabulary we've learned starting with touch wood, which is an",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 313.68,
     "end": 320.879,
     "text": "expression used often in speech to avoid bad luck. Snuffles or sniffles are minor illnesses that",
-    "speaker": null
+    "speaker": "touch wood"
   },
   {
+    "order": 60,
     "start": 320.879,
     "end": 326.399,
     "text": "affect your nose. If you ask someone to back you up, you want them to say something to support",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 326.399,
     "end": 332.079,
-    "text": "The expression tickety-boo means fine and in good order.",
-    "speaker": "tickety-boo"
+    "text": "your opinion. The expression tickety-boo means fine and in good order. If you dampen something,",
+    "speaker": null
   },
   {
+    "order": 62,
     "start": 332.079,
     "end": 336.719,
     "text": "you make it weaker. And the expression dampens someone's spirits means you make them less",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 336.719,
     "end": 342.399,
-    "text": "And if you're more prone to something, it's more likely to happen to you.",
-    "speaker": "prone to"
+    "text": "enthusiastic about something. And if you're more prone to something, it's more likely to happen to you.",
+    "speaker": "dampendampen someone's spirits"
   },
   {
+    "order": 64,
     "start": 342.959,
     "end": 347.04,
     "text": "Once again, our six minutes are up, but you can test what you've learned with the free",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 347.04,
     "end": 353.2,
     "text": "interactive quiz on our website. Bye for now. Goodbye. Thanks for listening to this podcast",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 353.2,
     "end": 360.32,
     "text": "from BBC Learning English. Continue your learning on our website with courses, quizzes and",
-    "speaker": null
+    "speaker": "Georgie"
   },
   {
+    "order": 67,
     "start": 360.32,
     "end": 365.439,
     "text": "programs to improve your English. Visit BBCLearningEnglish.com.",

@@ -1,389 +1,454 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.6,
     "text": "This is a download from BBC Learning English to find out more visit our website",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 13.599,
     "end": 18.48,
     "text": "Hello, this is six minute English from BBC Learning English. I'm Sam and I'm Neil",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 18.48,
     "end": 26.12,
-    "text": "It's nice to see you, Neil, [smiley face], [high five], [fist bump]!",
-    "speaker": "Sam"
+    "text": "It's nice to see you Neil smiley face high five fist bump. What is this Sam? Are you saying hello with emojis?",
+    "speaker": null
   },
   {
+    "order": 3,
     "start": 26.6,
     "end": 35.28,
     "text": "Yes, I am in this program. We're entering the world of emojis the small characters people use to show emotions in texts and emails",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 35.56,
     "end": 37.719,
     "text": "Do you have a favorite emoji Neil?",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 37.92,
     "end": 46.64,
     "text": "Mines that crying tears of laughter emoji. I like the smiling face with hearts one and with over three thousand emojis to choose from",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 46.64,
     "end": 48.4,
     "text": "There's one for every occasion",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 7,
     "start": 48.4,
     "end": 53.56,
     "text": "It's one of the reasons why emojis have become so popular over the last 20 years",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 53.56,
     "end": 59.24,
     "text": "They let people put back some of the human emotion that's missing in written texts and emails",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 59.44,
     "end": 64.24,
     "text": "We'll be finding out more about emojis and learning some related vocabulary soon",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 10,
     "start": 64.359,
     "end": 66.6,
     "text": "But first I have a question for you Neil",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 66.879,
     "end": 75.48,
     "text": "It's about the word emoji itself which was invented in 1999 in Japan for the first internet enabled mobile phones",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 75.84,
     "end": 80.359,
     "text": "The name emoji comes from the combination of two Japanese words",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 80.359,
     "end": 92.159,
     "text": "But which words is the word emoji a combination of a face and emotion be picture and character or see message and image",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 92.159,
     "end": 96.079,
-    "text": "I'll say it's a) face and emotion.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 96.079,
-    "end": 100.079,
-    "text": "We'll find out if your answer gets a thumbs up at the end of the program",
+    "text": "I'll say it's a face and emotion. Okay, Neil",
     "speaker": null
   },
   {
+    "order": 15,
+    "start": 96.079,
+    "end": 100.079,
+    "text": "We'll find out if your answer gets a thumbs up at the end of the program",
+    "speaker": "Neil"
+  },
+  {
+    "order": 16,
     "start": 100.48,
     "end": 109.319,
     "text": "When we talk with someone face to face we use physical gestures like smiling, laughing or nodding to show the other person how we feel",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 109.679,
     "end": 114.959,
     "text": "But these gestures get lost in written communication. That's where emojis come in",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 114.959,
     "end": 120.359,
     "text": "They add feeling and emotion to online messages, but not everyone is an emoji fan",
-    "speaker": null
-  },
-  {
-    "start": 120.599,
-    "end": 130,
-    "text": "That's where emojis come in - they add feeling and emotion to online messages. But not everyone is an emoji fan. Some people believe that carefully chosen words are the best way of expressing yourself, and that emojis are affecting our ability to put feelings into words.",
     "speaker": "Neil"
   },
   {
+    "order": 19,
+    "start": 120.599,
+    "end": 130,
+    "text": "Some people believe that carefully chosen words are the best way of expressing yourself and that emojis are affecting our ability to put feelings into words",
+    "speaker": null
+  },
+  {
+    "order": 20,
     "start": 130.079,
     "end": 136.319,
     "text": "Here's cognitive linguist professor Viv Evans author of a book about the language of emojis",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 136.799,
     "end": 140.439,
     "text": "Explaining more to BBC radio force word of mouth",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 141.439,
     "end": 144.84,
     "text": "A lot of people you know language mavens the grammar police and so on",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 145.319,
     "end": 151.919,
     "text": "Will say have the sort of jaundiced prejudice view about emoji that's taking us back to the dark ages of a literacy",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 152.12,
     "end": 155.879,
     "text": "Bring back Shakespeare and stick to the language of Shakespeare and all the rest of it",
-    "speaker": null
+    "speaker": "the grammar police jaundiced the dark ages"
   },
   {
+    "order": 25,
     "start": 155.879,
     "end": 159.359,
     "text": "But that fundamentally misunderstands the nature of communication",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 159.959,
     "end": 164.759,
-    "text": "But that fundamentally misunderstands the nature of communication. Emoji is important. In fact, it makes us more effective communicators in the digital age.",
-    "speaker": "the grammar police jaundiced the dark ages"
+    "text": "Emoji is important in fact it makes us more effective communicators in the digital age",
+    "speaker": null
   },
   {
+    "order": 27,
     "start": 166.56,
     "end": 172.239,
     "text": "Viv Evans describes people who don't approve of emojis as the grammar police a",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 172.799,
     "end": 179.28,
     "text": "slang term referring to people who want to see formal language and grammar what they call correct English",
-    "speaker": null
+    "speaker": "the grammar police The grammar police"
   },
   {
+    "order": 29,
     "start": 179.519,
     "end": 187.719,
     "text": "Written online the grammar police criticize modern stars of English and like to correct other people's mistakes in spelling and grammar",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 188.199,
     "end": 193.199,
     "text": "According to professor Evans the grammar police have a jaundiced view of emojis",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 193.359,
     "end": 198.199,
-    "text": "According to Professor Evans, the grammar police have a jaundiced view of emojis - they only see the negative side of them because of their own ideas and experiences.",
-    "speaker": "the grammar police jaundiced"
-  },
-  {
-    "start": 198.479,
-    "end": 206.119,
-    "text": "What's more they think emojis are taking us back to the dark ages of illiteracy when most people couldn't read or write",
+    "text": "They only see the negative side of them because of their own ideas and experiences",
     "speaker": null
   },
   {
+    "order": 32,
+    "start": 198.479,
+    "end": 206.119,
+    "text": "What's more they think emojis are taking us back to the dark ages of illiteracy when most people couldn't read or write",
+    "speaker": "the dark ages the dark ages"
+  },
+  {
+    "order": 33,
     "start": 206.239,
     "end": 211.399,
     "text": "If someone refers to the dark ages they mean a past time in history considered",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 211.799,
     "end": 218.159,
     "text": "Uncivilized and characterized by ignorance but luckily for emoji fans the grammar police are in the minority",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 218.719,
     "end": 224.4,
     "text": "Over six billion emoji messages are sent around the world every day with about",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 224.879,
     "end": 230.24,
     "text": "70% containing emotion-based characters like smiley face and blowing kisses",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 230.479,
     "end": 236.359,
     "text": "According to professor Evans emoji users are more expressive more effective communicators",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 38,
     "start": 236.719,
     "end": 240.68,
     "text": "So could that be an advantage for someone looking for love online?",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 241.079,
     "end": 246.719,
     "text": "That's what Michael Rosen presenter of BBC Radio 4's word of mouth wanted to find out",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 247.68,
     "end": 251.84,
     "text": "Is it possible to start a relationship using emoji?",
-    "speaker": "Michael Rosen"
+    "speaker": null
   },
   {
+    "order": 41,
     "start": 251.84,
     "end": 256.24,
     "text": "Well, there is the research that's been conducted by match.com the American based",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 256.879,
     "end": 263.519,
     "text": "Dating site and what they found based on their research is that the people that use more emojis",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 263.72,
     "end": 268.839,
     "text": "tend to be luckier in love they have more success in terms of dating in the digital age",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 269.16,
     "end": 271.639,
     "text": "Using emoji makes us more effective communicators",
+    "speaker": "dating lucky in lovedating"
+  },
+  {
+    "order": 45,
+    "start": 271.639,
+    "end": 273.16,
+    "text": "expressive in more expressive",
     "speaker": null
   },
   {
-    "start": 271.639,
-    "end": 273.16,
-    "text": "… more expressive …",
-    "speaker": "Michael Rosen"
-  },
-  {
+    "order": 46,
     "start": 273.16,
     "end": 279.76,
-    "text": "… more expressive, we're better able to express our emotional selves, and people therefore it stands to reason, if you use more emojis you're gonna get more dates!",
+    "text": "We're better able to express our emotional selves and people therefore it stands to reason if you use more emojis",
     "speaker": "it stands to reason"
   },
   {
+    "order": 47,
     "start": 279.76,
     "end": 281.76,
     "text": "You're gonna get more dates",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 282.28,
     "end": 286,
     "text": "For people who are dating or starting a romantic relationship with someone",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 286,
     "end": 293.68,
-    "text": "For people who are dating, or starting a romantic relationship with someone, it seems that using emojis helps them be lucky in love, an expression meaning lucky in finding a romantic partner.",
-    "speaker": "dating lucky in love"
-  },
-  {
-    "start": 294.04,
-    "end": 296.52,
-    "text": "emojis let us show our true personality",
+    "text": "It seems that using emojis helps them be lucky in love an expression meaning lucky in finding a romantic partner",
     "speaker": null
   },
   {
+    "order": 50,
+    "start": 294.04,
+    "end": 296.52,
+    "text": "Emojis let us show our true personality",
+    "speaker": "it stands to reason"
+  },
+  {
+    "order": 51,
     "start": 296.52,
     "end": 300.48,
     "text": "So professor Evans says it stands to reason in other words",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 300.48,
     "end": 307.04,
     "text": "It seems likely to be true that emoji users get more dates and that's a big thumbs up from me",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 307.52,
     "end": 312.84,
     "text": "What about our question Sam did my answer get a thumbs up to in my question?",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 312.84,
     "end": 320.48,
     "text": "I asked you which words combine to make up the Japanese word emoji and I guessed it was a face and emotion",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 320.48,
     "end": 324.879,
     "text": "Which was sad face the wrong answer I'm afraid in fact",
+    "speaker": "Neil"
+  },
+  {
+    "order": 56,
+    "start": 324.879,
+    "end": 329.639,
+    "text": "emoji combines the words for picture and character in Japanese",
     "speaker": null
   },
   {
-    "start": 324.879,
-    "end": 329.639,
-    "text": "Which was [sad face] the wrong answer, I'm afraid. In fact, 'emoji' combines the words for 'picture' and 'character' in Japanese.",
-    "speaker": "Sam"
-  },
-  {
+    "order": 57,
     "start": 330.199,
     "end": 335.639,
     "text": "Okay, let's recap the vocabulary we've learned about emojis starting with the grammar police",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 335.92,
     "end": 341.519,
     "text": "People who want correct spelling and grammar online and criticize those who don't if you have a",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 341.879,
     "end": 348.759,
     "text": "jaundiced view of something you only see the negative side because of your own bad experience with it the dark ages",
-    "speaker": null
+    "speaker": "jaundiced"
   },
   {
+    "order": 60,
     "start": 349.24,
     "end": 357.48,
     "text": "describes a period in history characterized by ignorance and a lack of progress if you are dating someone you are spending time with them",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 357.719,
     "end": 364.039,
     "text": "romantically which means you are lucky in love an expression meaning lucky in finding a romantic partner and",
+    "speaker": "dating lucky in love"
+  },
+  {
+    "order": 62,
+    "start": 364.319,
+    "end": 370.8,
+    "text": "Finally the phrase it stands to reason means that something seems likely to be true or it makes sense",
     "speaker": null
   },
   {
-    "start": 364.319,
-    "end": 370.8,
-    "text": "And finally, the phrase it stands to reason means that something seems likely to be true, or it makes sense. Once again, our six minutes are up. Bye for now!",
-    "speaker": "it stands to reason"
-  },
-  {
+    "order": 63,
     "start": 371.399,
     "end": 374.959,
     "text": "Once again our six minutes are up by for now. Bye",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 374.959,
     "end": 378.919,
     "text": "six minutes from the BBC",

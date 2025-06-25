@@ -5,6 +5,31 @@
   "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p07vfpbj.jpg",
   "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/191121_6min_english_robot_carers_download.mp3",
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/191121_6min_english_robot_carers.pdf",
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "word": "empathy",
+      "definition": "empathy the ability to understand how someone feels by imagining what it would be like to be in that person's situation"
+    },
+    {
+      "word": "physical assistance",
+      "definition": "describes helping someone by touching or feeling them"
+    },
+    {
+      "word": "companion",
+      "definition": "someone who is with you and keeps you company"
+    },
+    {
+      "word": "tight",
+      "definition": "(in the context of money) there is not enough"
+    },
+    {
+      "word": "abandoned",
+      "definition": "left alone in a place, usually forever"
+    },
+    {
+      "word": "ethics",
+      "definition": "the study of what is morally right"
+    }
+  ],
   "quiz": null
 }

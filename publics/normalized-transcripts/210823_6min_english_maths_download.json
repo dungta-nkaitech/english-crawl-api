@@ -1,653 +1,762 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.759,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 13.56,
     "end": 17.96,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Sam.",
     "speaker": "Sam"
   },
   {
+    "order": 3,
     "start": 17.96,
     "end": 19,
-    "text": "And I’m Neil.",
-    "speaker": "Neil"
+    "text": "And I'm Neil.",
+    "speaker": null
   },
   {
+    "order": 4,
     "start": 19,
     "end": 22.839,
-    "text": "Neil, would you describe yourself as ‘a numbers person’?",
+    "text": "Neil, would you describe yourself as ‘a numbers person",
     "speaker": "a numbersperson’"
   },
   {
+    "order": 5,
     "start": 22.839,
     "end": 27.359,
     "text": "If you mean am I someone who understands numbers and is good at using them",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 27.359,
     "end": 29.64,
     "text": "and interpreting data, then no.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 29.76,
     "end": 31.92,
     "text": "Okay, so maybe you're like me.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 31.92,
     "end": 33.84,
-    "text": "OK. So, maybe like me, you weren’t good at maths at school?",
+    "text": "You weren't good at maths at school?",
     "speaker": "Sam"
   },
   {
+    "order": 9,
     "start": 33.84,
     "end": 35.12,
     "text": "No, I wasn't.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 35.12,
     "end": 40.079,
-    "text": "No, I wasn’t. Algebra, geometry, times tables – it was all very confusing.",
-    "speaker": "Neil"
+    "text": "Algebra, geometry, times tables, it was all very confusing.",
+    "speaker": null
   },
   {
+    "order": 11,
     "start": 40.079,
     "end": 41.96,
     "text": "Yeah, we're not alone, Neil.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 41.96,
     "end": 45.32,
     "text": "But the fear of numbers might just be in our heads",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 13,
     "start": 45.32,
     "end": 48.84,
     "text": "and we might have enough number knowledge to get by with.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 48.84,
     "end": 51.519,
     "text": "That's what we'll be exploring in this programme",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 51.519,
     "end": 53.88,
     "text": "while looking at some relevant vocabulary.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 53.88,
     "end": 55.439,
     "text": "But, sorry, Neil.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 55.439,
     "end": 57.88,
     "text": "I'm going to start with a maths question.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 57.88,
     "end": 62.28,
     "text": "It's thought the largest number in the world is called a Google.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 62.28,
     "end": 66.68,
     "text": "It's written with a one and how many zeros?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 66.68,
     "end": 75,
     "text": "Is it a 100 zeros, b 1000 zeros or c 10000 zeros?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 75,
     "end": 77.68,
     "text": "I'll guess 10000 zeros.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 77.68,
     "end": 80.28,
     "text": "Okay, I'll reveal the answer later on.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 80.28,
     "end": 83.64,
     "text": "But let's talk more about the fear of numbers now.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 24,
     "start": 83.64,
     "end": 86.32,
     "text": "Of course, numbers are important in our lives,",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 86.319,
     "end": 91.039,
     "text": "but one bad experience at school can put us off them for life.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 91.039,
     "end": 94.679,
     "text": "Put off means make someone dislike something.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 94.679,
     "end": 97.919,
-    "text": "What put me off maths was it was not only complicated,",
-    "speaker": null
+    "text": "What put me off maths was it was not only complicated ",
+    "speaker": "Neil"
   },
   {
+    "order": 28,
     "start": 97.919,
     "end": 100.959,
     "text": "but very theoretical, not very practical,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 100.959,
     "end": 103.56,
     "text": "useful for real life situations.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 103.56,
     "end": 107.239,
     "text": "And the problem now is it's easy to be fooled by fancy figures",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 107.239,
     "end": 109,
     "text": "that we get told about.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 109,
     "end": 112.479,
     "text": "This is something the Y Factor programme on BBC World Service",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 112.479,
     "end": 114.039,
     "text": "has been exploring.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 114.08,
     "end": 118.6,
     "text": "They spoke to Charles Syff, who's an author and professor at New York University,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 118.6,
     "end": 123.88,
     "text": "who explained why we're at the mercy of people who throw numbers at us.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 124.88,
     "end": 128.12,
-    "text": "Because we are primed not to question numbers,",
-    "speaker": null
+    "text": "Because we are primed not to question numbers,",
+    "speaker": "primedspuriousoratory"
   },
   {
+    "order": 37,
     "start": 128.12,
     "end": 134.04,
     "text": "certain people have learned that numbers are perhaps the most powerful tools for deception.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 134.04,
     "end": 139.96,
     "text": "Advertisers, marketers, politicians who try to convince the public",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 139.96,
     "end": 142.879,
     "text": "through a serious oratory have learned",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 142.919,
     "end": 145.879,
     "text": "that the one thing that they can't get challenged on is numbers,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 145.879,
     "end": 148.159,
     "text": "or a challenge is ineffective.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 149.479,
     "end": 152.12,
     "text": "Interesting words from Charles Syff there.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 152.12,
     "end": 156.84,
     "text": "He explains that numbers might be a powerful tool for deceiving people.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 156.84,
     "end": 162.24,
     "text": "Many of us are primed, so told to behave in a certain situation and in a certain way,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 162.24,
     "end": 166.199,
     "text": "not to question numbers, except them as fact.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 166.199,
     "end": 168,
     "text": "Yes, and this is dangerous.",
-    "speaker": null
+    "speaker": "oratoryspurious"
   },
   {
+    "order": 47,
     "start": 168,
     "end": 172.639,
     "text": "So when politicians, for example, do good and effective public speaking,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 172.679,
     "end": 177.479,
     "text": "known as oratory, the information they give could be spurious.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 177.479,
     "end": 181.119,
     "text": "That means false, not correct or inaccurate.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 181.119,
     "end": 183.519,
     "text": "But numbers are more persuasive.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 183.519,
     "end": 186.199,
     "text": "They make you believe something is true.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 186.199,
     "end": 188.439,
     "text": "So unless you're confident with numbers,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 188.439,
     "end": 192.679,
     "text": "you're unlikely to challenge the facts and figures that you're given.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 192.679,
     "end": 197.719,
     "text": "So Sam, if I said to you that 10% of the 10 million people who eat meat",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 197.719,
     "end": 201.56,
     "text": "have a 20% chance of being 5% overweight,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 201.56,
     "end": 203.159,
     "text": "would you challenge that?",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 203.159,
     "end": 205.439,
-    "text": "I'd have to go away and work that out.",
-    "speaker": null
+    "text": "I’d have to go away and work that out!",
+    "speaker": "Sam"
   },
   {
+    "order": 58,
     "start": 205.439,
     "end": 208.039,
     "text": "As I said, Neil, I'm not a numbers person.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 208.039,
     "end": 211.36,
     "text": "Even talking about numbers makes me anxious.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 211.36,
     "end": 217.759,
     "text": "Well, interestingly, the Y Factor program explained that girls are more anxious about learning maths.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 217.759,
     "end": 220.56,
     "text": "But even if they feel more nervous about maths,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 220.56,
     "end": 224.36,
     "text": "they aren't any worse with numbers than their more confident classmates.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 224.36,
     "end": 227.08,
     "text": "It's just the fear that's stopping you.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 227.08,
     "end": 233.8,
     "text": "Well, maybe, but one bad experience can knock out a confidence and ability to use maths.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 233.8,
     "end": 240.28,
-    "text": "Take comfort from Paula Miles, who teaches statistics to psychology students at St. Andrews University. She told The Why Factor that she thinks there’s no such thing as ‘a numbers person’….",
-    "speaker": "Neil"
+    "text": "Take comfort from Paula Miles, who teaches statistics to psychology students at St Andrews University.",
+    "speaker": "Sam"
   },
   {
+    "order": 66,
     "start": 240.28,
     "end": 247.28,
     "text": "She told the Y Factor that she thinks there's no such thing as a numbers person.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 247.28,
     "end": 250.84,
     "text": "There is no such thing as someone who's a number person or not.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 250.84,
     "end": 254.92,
     "text": "If we're taught in the right way, then I think we all have the potential to be a numbers person.",
-    "speaker": null
+    "speaker": "potentialnumeracy"
   },
   {
+    "order": 69,
     "start": 254.919,
     "end": 257.439,
     "text": "I'm not saying we're all going to grow up to be mathematicians,",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 257.439,
     "end": 263.079,
     "text": "but we're all going to get to a point where we have the basic numeracy skills that we need",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 263.079,
     "end": 265.399,
     "text": "to be able to cope in our environment.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 267.399,
     "end": 269.599,
     "text": "I feel a little better now.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 269.599,
     "end": 272.12,
     "text": "We all have the possibility within us,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 272.12,
     "end": 275.36,
     "text": "or potential, to be a numbers person.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 275.36,
     "end": 277.399,
-    "text": "Yes, I think it's about survival.",
-    "speaker": null
+    "text": "Yes, I think it’s about survival.",
+    "speaker": "numeracy"
   },
   {
+    "order": 76,
     "start": 277.399,
     "end": 279.279,
     "text": "We want to develop numeracy,",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 279.279,
     "end": 281.319,
     "text": "basic mathematical skills,",
-    "speaker": null
+    "speaker": "oratoryspurious"
   },
   {
+    "order": 78,
     "start": 281.319,
     "end": 284.8,
     "text": "to use numbers in a particular situation that we're in.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 284.8,
     "end": 288,
     "text": "We might not be a genius like Einstein,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 288,
     "end": 290.48,
     "text": "but we know enough to work things out.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 290.48,
     "end": 294.56,
     "text": "I wonder if you worked out the answer to my question correctly, Neil.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 294.56,
     "end": 300.92,
     "text": "Earlier, I asked about what's thought to be the largest number in the world called a Google.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 300.92,
     "end": 302.96,
     "text": "How many zeros does it have?",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 302.96,
     "end": 304.12,
     "text": "100 zeros?",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 85,
     "start": 304.12,
     "end": 308.28,
     "text": "A thousand zeros or 10,000 zeros?",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 308.28,
     "end": 311.12,
     "text": "I said 10,000 zeros.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 312.079,
     "end": 312.959,
-    "text": "Sorry, Neil.",
-    "speaker": null
+    "text": " Sorry, Neil",
+    "speaker": "Neil"
   },
   {
+    "order": 88,
     "start": 312.959,
     "end": 316.48,
     "text": "A Google is 10 to the 100th power,",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 316.48,
     "end": 319,
-    "text": "power – so a mere 100 zeros.",
-    "speaker": "Sam"
-  },
-  {
-    "start": 320,
-    "end": 322.959,
-    "text": "I don't think I'll be using that number anytime soon,",
+    "text": "so a mere 100 zeros.",
     "speaker": null
   },
   {
+    "order": 90,
+    "start": 320,
+    "end": 322.959,
+    "text": "I don’t think I’ll be using that number anytime soon.",
+    "speaker": "a numbers person"
+  },
+  {
+    "order": 91,
     "start": 322.959,
     "end": 326.48,
     "text": "but I might be using some of the vocabulary we've discussed today,",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 326.48,
     "end": 328.72,
     "text": "including a numbers person.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 329.84,
     "end": 335.36,
     "text": "That's someone who understands numbers and is good at using them and interpreting data,",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 335.36,
     "end": 336.56,
     "text": "not like us.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 337.36,
     "end": 338.879,
     "text": "If you are put off something,",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 338.879,
     "end": 341.759,
     "text": "it means you are made to dislike something,",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 341.759,
     "end": 345.6,
     "text": "and to be primed means to behave in a certain situation.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 345.6,
     "end": 349.6,
-    "text": "The skill of effective public speaking is known as oratory. And spurious means false, inaccurate, or not correct.",
-    "speaker": "oratoryspurious"
+    "text": "The skill of effective public speaking is known as oratory,",
+    "speaker": null
   },
   {
+    "order": 99,
     "start": 349.6,
     "end": 354.72,
     "text": "and curious means false, inaccurate or not correct.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 354.72,
     "end": 357.92,
     "text": "And when we have the possibility within us to do something,",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 357.92,
     "end": 360.16,
     "text": "we describe it as our potential,",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 360.16,
     "end": 364.319,
     "text": "and having numeracy means having basic mathematical skills.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 364.399,
     "end": 366.639,
-    "text": "Now we've reached the number six.",
-    "speaker": null
+    "text": "now we’ve reached the number six ",
+    "speaker": "Sam"
   },
   {
+    "order": 104,
     "start": 366.639,
     "end": 368.159,
     "text": "Six minutes of English.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 368.159,
     "end": 369.68,
     "text": "Thanks very much for listening.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 369.68,
     "end": 370.639,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 370.639,
     "end": 371.519,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 371.519,
     "end": 375.439,
     "text": "Six minutes English from the BBC.",

@@ -1,665 +1,776 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 11.96,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 11.96,
     "end": 15.08,
     "text": "Hello and welcome to 6 Minute English. I'm Alice…",
     "speaker": "Alice"
   },
   {
+    "order": 4,
     "start": 15.08,
     "end": 18,
     "text": "And I'm Neil. I'm feeling a bit chilly today, Alice.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 18,
-    "end": 21.039,
-    "text": "Yes, it is unseasonably cold today,",
     "speaker": null
   },
   {
+    "order": 5,
+    "start": 18,
+    "end": 21.039,
+    "text": "Yes, it is unseasonably cold today ",
+    "speaker": "unseasonably"
+  },
+  {
+    "order": 6,
     "start": 21.039,
     "end": 23.839,
     "text": "which means not normal for the time of year,",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 23.839,
     "end": 26.519,
     "text": "but the weather is very unpredictable these days.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 26.519,
     "end": 27.679,
     "text": "I know what you mean.",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 9,
     "start": 27.679,
     "end": 30.8,
-    "text": "Well, global warming is the subject of today's show.",
+    "text": " global warming is the subject of today's show",
     "speaker": "Alice"
   },
   {
+    "order": 10,
     "start": 30.8,
     "end": 33.679,
     "text": "Is global warming really something to worry about?",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 33.679,
     "end": 36.56,
     "text": "Some people say that the earth has warmed up in the past,",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 36.56,
     "end": 38.32,
     "text": "and nothing terrible's happened.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 38.32,
     "end": 40.24,
-    "text": "The earth has warmed up before,",
-    "speaker": null
+    "text": "The Earth has warmed up before,",
+    "speaker": "Alice"
   },
   {
+    "order": 14,
     "start": 40.24,
     "end": 43.92,
     "text": "but this was the result of things like wobbles in the earth's orbit,",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 43.92,
     "end": 48,
     "text": "not because of an increase of greenhouse gases in the atmosphere.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 48,
     "end": 50,
     "text": "Can we reverse the changes?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 50,
-    "end": 51.6,
-    "text": "No, it's too late.",
     "speaker": null
   },
   {
+    "order": 17,
+    "start": 50,
+    "end": 51.6,
+    "text": "No, it's too late,",
+    "speaker": "mitigate"
+  },
+  {
+    "order": 18,
     "start": 51.6,
     "end": 55.039,
     "text": "And now we have to find ways to adapt to extreme weather,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 55.039,
     "end": 58.399,
     "text": "rising sea levels and melting polar ice caps.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 58.399,
     "end": 62.32,
     "text": "However, we can mitigate greenhouse gas emissions",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 62.32,
     "end": 64.4,
     "text": "or make them less harmful.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 64.4,
     "end": 68.64,
     "text": "But before we talk more about this, I have a question for you.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 68.64,
     "end": 71.759,
     "text": "How much has the average temperature of the earth's surface",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 24,
     "start": 71.759,
     "end": 74.239,
     "text": "increased in the last 100 years?",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 74.239,
     "end": 78.599,
     "text": "Is it a 0.85 degrees Celsius,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 78.599,
     "end": 81.84,
     "text": "b 1.85 degrees Celsius,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 81.84,
     "end": 85.2,
     "text": "or c 8.5 degrees Celsius?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 85.2,
     "end": 87.76,
     "text": "I'm going to go for the big one. 8.5.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 87.76,
     "end": 90.96,
     "text": "Well, we'll find out if you got the answer right later on, Neil.",
-    "speaker": null
-  },
-  {
-    "start": 90.96,
-    "end": 95.439,
-    "text": "Well, we'll find out if you got the answer right later on, Neil. But first, do you know any ways to mitigate greenhouse gas emissions?",
-    "speaker": "Alice"
-  },
-  {
-    "start": 95.439,
-    "end": 96.64,
-    "text": "I do, actually.",
-    "speaker": null
-  },
-  {
-    "start": 96.64,
-    "end": 102.4,
-    "text": "I do, actually. An Argentinian company has started collecting cow… emissions and converting them into usable energy.",
     "speaker": "Neil"
   },
   {
+    "order": 30,
+    "start": 90.96,
+    "end": 95.439,
+    "text": "But first, do you know any ways to mitigate greenhouse gas emissions?",
+    "speaker": null
+  },
+  {
+    "order": 31,
+    "start": 95.439,
+    "end": 96.64,
+    "text": "I do, actually.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 32,
+    "start": 96.64,
+    "end": 102.4,
+    "text": "An Argentinian company has started collecting cow emissions",
+    "speaker": null
+  },
+  {
+    "order": 33,
     "start": 102.4,
     "end": 105.52,
     "text": "and converting them into usable energy.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 105.52,
     "end": 108.24,
     "text": "Well, as the world eats more meat,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 108.24,
     "end": 110.08,
     "text": "methane emissions from livestock",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 110.079,
     "end": 112.799,
     "text": "are actually becoming a bigger climate concern.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 112.799,
     "end": 115.92,
     "text": "And one day's worth of cow emissions",
-    "speaker": null
-  },
-  {
-    "start": 115.92,
-    "end": 120,
-    "text": "And one day's worth of cow emissions provides energy to run a car for 24 hours.",
     "speaker": "Neil"
   },
   {
+    "order": 38,
+    "start": 115.92,
+    "end": 120,
+    "text": "provides energy to run a car for 24 hours.",
+    "speaker": null
+  },
+  {
+    "order": 39,
     "start": 120,
     "end": 121.679,
     "text": "OK, moving on now.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 121.679,
     "end": 124.719,
     "text": "So the world is going to have to adapt to global warming",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 124.719,
     "end": 127.68,
     "text": "since we can't turn back the clock on climate change.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 127.68,
     "end": 130.56,
     "text": "And rich countries have the resources to do this,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 130.56,
     "end": 133.039,
     "text": "whilst poorer countries don't.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 133.039,
     "end": 134.879,
     "text": "Let's hear from Salim al-Huk,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 134.879,
     "end": 137.36,
     "text": "director of the International Centre for Climate Change",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 137.36,
     "end": 139.12,
     "text": "and Development in Bangladesh,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 139.12,
     "end": 142.56,
     "text": "talking about how this problem is being addressed.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 142.56,
     "end": 146.159,
     "text": "The rich countries have already pledged and promised",
-    "speaker": null
+    "speaker": "Saleemul Huq, Director, International Centre for Climate Change and Development in Bangladesh"
   },
   {
+    "order": 49,
     "start": 146.159,
     "end": 150.64,
     "text": "$100 billion a year, starting from 2020 to cover",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 150.64,
     "end": 152.96,
     "text": "all kinds of climate change activities,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 152.96,
     "end": 156.24,
     "text": "which in climate change jargon we call either mitigation or adaptation.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 156.24,
     "end": 158.4,
     "text": "Oh, yeah. I mean, that's an enormous amount of money.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 158.4,
     "end": 161.68,
     "text": "Not that enormous compared to what they gave to the banking system when it",
-    "speaker": null
+    "speaker": "Saleemul Huq, Director, International Centre for Climate Change and Development in Bangladesh"
   },
   {
+    "order": 54,
     "start": 161.68,
     "end": 163.84,
     "text": "collapsed. Climate change is a much bigger problem",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 163.84,
     "end": 165.599,
     "text": "than the banking crisis.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 166.56,
     "end": 170.479,
     "text": "Salim al-Huk interviewed on the BBC World Service Programme",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 170.479,
     "end": 174.719,
     "text": "NewsHour Extra. Well, he says rich countries have pledged,",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 174.719,
     "end": 178.4,
     "text": "or promised, to deliver $100 billion a year",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 178.4,
     "end": 181.359,
     "text": "to help poorer countries adapt to climate change.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 181.359,
     "end": 184.879,
     "text": "However, he suggests that this sum could have been larger,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 184.879,
     "end": 188.639,
     "text": "since more money than this was donated to resolve the banking crisis.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 188.639,
     "end": 193.12,
-    "text": "For example, after the devastating effects of hurricane Sandy,",
-    "speaker": null
+    "text": "For example, after the devastating effects of Hurricane Sandy,",
+    "speaker": "Alice"
   },
   {
+    "order": 63,
     "start": 193.12,
     "end": 198.4,
     "text": "New York City invested $10 billion on storm defenses to protect Manhattan",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 198.4,
     "end": 201.52,
     "text": "and Wall Street. And where lack of water is a problem,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 201.52,
     "end": 206.64,
     "text": "countries like Australia, China and Spain have built desalination plants,",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 206.64,
     "end": 210.4,
     "text": "which remove the salt from sea water to produce drinking water.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 210.4,
     "end": 213.599,
     "text": "But it's too expensive for developing countries to do this,",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 213.599,
     "end": 215.36,
     "text": "even though they need them.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 215.36,
     "end": 219.36,
     "text": "So, in relative terms, $1 billion a year to help poor countries",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 219.36,
     "end": 222.319,
-    "text": "is a small sum of money when compared to their need.",
-    "speaker": null
+    "text": " is a small sum of money when compared to their need",
+    "speaker": "homegrown"
   },
   {
+    "order": 71,
     "start": 222.56,
     "end": 226,
     "text": "Countries like Bangladesh have developed homegrown technologies,",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 226,
     "end": 230.4,
     "text": "which means produced locally, such as harvesting rainwater from their rooftops.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 230.4,
     "end": 235.12,
     "text": "Okay, Alice, and thinking about certain radical proposals for adaptation,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 235.12,
     "end": 240.639,
-    "text": "OK, Alice, and thinking about certain radical proposals for adaptation – did you know there's a Dutch company that wants to build floating cities for us to live in?",
-    "speaker": "Neil"
+    "text": "did you know there's a Dutch company that wants to build floating cities for us to live in?",
+    "speaker": null
   },
   {
+    "order": 75,
     "start": 240.639,
     "end": 245.12,
     "text": "No, I didn't. Yeah. Plans include 15-story high-rise buildings",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 245.12,
     "end": 246.879,
     "text": "and floating food production.",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 77,
     "start": 246.879,
     "end": 250.4,
     "text": "Hmm, it sounds like it would be incredibly expensive.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 250.4,
     "end": 252,
-    "text": "Has anyone actually built one?",
-    "speaker": null
+    "text": " Has anyone actually built one",
+    "speaker": "Alice"
   },
   {
+    "order": 79,
     "start": 252.08,
     "end": 255.28,
     "text": "No, not so far. Let's hear from Mark Maslin,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 255.28,
     "end": 258.639,
     "text": "Professor of Climateology at University College London,",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 258.639,
     "end": 260.319,
     "text": "talking about why this might be.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 261.68,
     "end": 266.16,
     "text": "Remember, we're going to have 9.5 billion people",
-    "speaker": null
+    "speaker": "Mark Maslin, Professor of Climatology at University College London"
   },
   {
+    "order": 83,
     "start": 266.16,
     "end": 267.92,
     "text": "by the middle of this century.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 267.92,
     "end": 271.279,
     "text": "Now, if you think about it, think about the logistics of building",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 271.279,
     "end": 274.56,
     "text": "a city floating for, say, 10 million people,",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 274.56,
     "end": 279.759,
     "text": "and then multiply that up to 60% of 9.5 billion people.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 279.839,
     "end": 282.319,
     "text": "Okay, so don't think it's really cost-efficient.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 283.599,
     "end": 287.68,
     "text": "So, in practical terms, the logistics of building a large floating city",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 287.68,
     "end": 293.039,
     "text": "probably wouldn't work. It wouldn't be cost-efficient or good value for the money you paid.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 293.039,
     "end": 297.039,
     "text": "And logistics means the organisation of a complex activity.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 297.039,
     "end": 301.599,
     "text": "On the other hand, the logistics of teaching farmers in Bangladesh to breed ducks,",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 301.599,
     "end": 306.159,
     "text": "instead of chickens, for example, would be relatively simple and cost-efficient.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 306.24,
     "end": 308.64,
     "text": "And since ducks float and chickens don't,",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 308.64,
     "end": 311.12,
     "text": "it's a sensible adaptation to climate change.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 311.12,
     "end": 312.64,
     "text": "That's a great example, Neil.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 313.2,
     "end": 316.16,
     "text": "Now, I think it's time for the answer to today's quiz question.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 316.8,
     "end": 321.28,
     "text": "I asked how much has the average temperature of the Earth's surface increased",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 321.28,
     "end": 326.56,
     "text": "in the last 100 years? Is it A, 0.85 degrees Celsius?",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 326.56,
     "end": 329.36,
     "text": "B, 1.85 degrees Celsius?",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 329.92,
     "end": 333.12,
     "text": "Or C, 8.5 degrees Celsius?",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 333.12,
     "end": 336.639,
     "text": "And I said 8.5 degrees Celsius and I know I'm wrong.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 336.639,
     "end": 339.36,
     "text": "Yes, I'm afraid you are, Neil.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 103,
     "start": 339.36,
     "end": 343.519,
     "text": "The right answer is actually 0.85 degrees Celsius.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 343.519,
     "end": 349.519,
-    "text": "Yes, I'm afraid you are Neil. The right answer is actually 0.85°C. And did you know that 13 of the 14 warmest years were recorded in the 21st Century?",
-    "speaker": "Alice"
+    "text": "And did you know that 13 of the 14 warmest years were recorded in the 21st century?",
+    "speaker": null
   },
   {
+    "order": 105,
     "start": 349.519,
     "end": 353.519,
     "text": "I did not know that, Alice. But I do know which words we learned today.",
     "speaker": "Neil"
   },
   {
+    "order": 106,
     "start": 353.519,
     "end": 360.319,
     "text": "They are unseasonably mitigate pledged desalination,",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 360.319,
     "end": 363.839,
     "text": "homegrown, cost-efficient, logistics.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 364.48,
     "end": 367.199,
-    "text": "And that's the end of today's 6 Minute English. Don't forget to join us again soon!",
-    "speaker": "Alice"
+    "text": "And that's the end of today's 6 Minute English.",
+    "speaker": "Neil"
   },
   {
+    "order": 109,
     "start": 367.199,
     "end": 369.04,
     "text": "Don't forget to join us again soon.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 369.04,
     "end": 369.839,
     "text": "Bye. Bye-bye.",

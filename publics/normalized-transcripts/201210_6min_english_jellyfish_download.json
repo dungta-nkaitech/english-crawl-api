@@ -1,575 +1,671 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 10.88,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 13.12,
     "end": 16.32,
-    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "text": "Hello. This is 6 Minute English from BBC Learning English.",
     "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 16.32,
     "end": 18.08,
-    "text": "And I’m Georgina.",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 18.08,
-    "end": 21.12,
-    "text": "Of all the weird and wonderful creatures living under the sea,",
+    "text": "I'm Neil. And I'm Georgina.",
     "speaker": null
   },
   {
+    "order": 5,
+    "start": 18.08,
+    "end": 21.12,
+    "text": "Of all the weird and wonderful creatures living under the sea,",
+    "speaker": "Neil"
+  },
+  {
+    "order": 6,
     "start": 21.12,
     "end": 23.519,
     "text": "perhaps the strangest are jellyfish.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 23.519,
     "end": 27.199,
     "text": "Those rubbery, cone-shaped creatures found floating in the water,",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 27.199,
     "end": 29.28,
     "text": "their long tentacles trailing behind.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 29.359,
     "end": 33.92,
-    "text": "Some jellyfish species have a bad reputation for scaring away tourists, clogging up fishing nets, and even blocking power station pipes.",
-    "speaker": "Georgina"
+    "text": "Some jellyfish species have a bad reputation for scaring away tourists,",
+    "speaker": null
   },
   {
+    "order": 10,
     "start": 33.92,
     "end": 38.079,
     "text": "clogging up fishing nets, and even blocking power station pipes.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 38.079,
     "end": 41.679,
     "text": "But with more and more plastic rubbish ending up in the sea,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 12,
     "start": 41.679,
     "end": 46,
     "text": "these days, you're as likely to swim into a plastic bag as a jellyfish.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 46.64,
     "end": 50.719,
     "text": "Now scientific research is discovering that these rubbery sea creatures",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 50.719,
     "end": 55.28,
     "text": "might provide an answer, a sticky solution to the problem of plastic pollution.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 55.28,
     "end": 59.2,
     "text": "In this programme, we'll be learning how jellyfish mucous could provide the answer",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 59.2,
     "end": 61.44,
     "text": "to plastic waste in the seas.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 61.44,
     "end": 64.96,
     "text": "And of course, we'll be learning some related vocabulary along the way.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 64.96,
     "end": 67.28,
-    "text": "But first, it's time for my quiz question.",
-    "speaker": null
+    "text": "But first it’s time for my quiz question. ",
+    "speaker": "Neil"
   },
   {
+    "order": 19,
     "start": 67.28,
     "end": 72.24,
     "text": "Georgina, you mentioned jellyfish scaring away beachgoers with their sting,",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 72.24,
     "end": 75.12,
     "text": "but what is the best way to treat jellyfish stings?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 75.12,
     "end": 76.96,
-    "text": "a) with ice?,",
-    "speaker": "Neil"
-  },
-  {
-    "start": 76.96,
-    "end": 79.6,
-    "text": "B? With salt or C? With vinegar?",
+    "text": "Is it A? With ice?",
     "speaker": null
   },
   {
+    "order": 22,
+    "start": 76.96,
+    "end": 79.6,
+    "text": "B? With salt or C? With vinegar?",
+    "speaker": "Neil"
+  },
+  {
+    "order": 23,
     "start": 79.6,
     "end": 82.079,
     "text": "Well, Neil, I have been stung by jellyfish before,",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 82.079,
     "end": 86.159,
-    "text": "Well, Neil, I have been stung by a jellyfish before and I think the best way to treat them is, c) with vinegar.",
+    "text": "and I think the best way to treat them is C with vinegar.",
     "speaker": "Georgina"
   },
   {
+    "order": 25,
     "start": 86.159,
     "end": 88.8,
     "text": "Okay, Georgina, we'll find out later if that's right.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 88.799,
     "end": 92.56,
     "text": "Now, as I mentioned, in recent years, tiny pieces of plastic,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 92.56,
     "end": 97.759,
     "text": "called microplastic, have been a significant problem for the world's seas and oceans.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 97.759,
     "end": 100.64,
     "text": "They've been found all over the world in Arctic ice,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 100.64,
     "end": 104.719,
     "text": "at the bottom of the sea, and even inside animals, including humans.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 104.719,
     "end": 108.4,
     "text": "Slovenian scientist Dr. Anna Rotter heads Go Jelly,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 108.4,
     "end": 112.879,
     "text": "a European research team of jellyfish ecologists looking into the problem.",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 32,
     "start": 113.359,
     "end": 118.159,
     "text": "Here she is speaking to BBC World Service programme People Fixing the World.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 118.239,
     "end": 124.159,
     "text": "Microplastics plastics, in general, are being an increasing problem there everywhere.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 124.159,
     "end": 128.8,
     "text": "When I was a little girl, we were more environmentally friendly, not knowing.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 128.8,
     "end": 131.519,
     "text": "So, we never used plastic bags to go shopping.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 131.519,
     "end": 134.719,
     "text": "We always went with cloth bags.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 134.719,
     "end": 137.359,
     "text": "We never used plastic to put our vegetables in it.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 137.359,
     "end": 140.719,
     "text": "Single-use spoons or forks, knives.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 140.719,
     "end": 145.519,
     "text": "This is for me something unheard of when I was a little girl.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 145.52,
     "end": 150.159,
-    "text": "Dr Rotter says when she was a child, people were more environmentally friendly - not harmful to the environment or having the least possible impact on it.",
+    "text": "Dr Rotter says when she was a child, people were more environmentally friendly -",
     "speaker": "environmentally friendly"
   },
   {
+    "order": 41,
     "start": 150.159,
     "end": 154.4,
     "text": "not harmful to the environment, or having the least possible impact on it.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 154.4,
     "end": 158,
     "text": "At that time, there were very few single-use plastics.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 158,
     "end": 163.92,
-    "text": "At that time, there were very few single-use plastics – plastic items, like spoons and forks, designed to be used just once, then thrown away.",
-    "speaker": "single-use"
-  },
-  {
-    "start": 163.92,
-    "end": 167.12,
-    "text": "Single-use plastic bags, for example, were unheard of,",
+    "text": "Plastic items like spoons and forks, designed to be used just once, then thrown away.",
     "speaker": null
   },
   {
-    "start": 167.12,
-    "end": 171.52,
-    "text": "Single-use plastic bags, for example, were unheard of - surprising or shocking because they were not previously known about or commonly used.",
+    "order": 44,
+    "start": 163.92,
+    "end": 167.12,
+    "text": "Single-use plastic bags, for example, were unheard of ",
     "speaker": "unheard of"
   },
   {
+    "order": 45,
+    "start": 167.12,
+    "end": 171.52,
+    "text": "surprising or shocking because they were not previously known about or commonly used.",
+    "speaker": null
+  },
+  {
+    "order": 46,
     "start": 171.52,
     "end": 175.04,
     "text": "The situation since then has changed dramatically.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 175.039,
     "end": 179.359,
     "text": "In fact, there's been such an increase in microplastics that today,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 179.359,
     "end": 184.56,
     "text": "the UN lists plastic pollution as one of the world's top environmental threats.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 184.56,
     "end": 187.039,
     "text": "But how do jellyfish fit into the story?",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 187.039,
     "end": 190.239,
     "text": "Well, it's the jelly part of jellyfish, and specifically,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 51,
     "start": 190.239,
     "end": 193.199,
     "text": "there's sticky jelly-like mucus that is key.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 193.199,
     "end": 198.879,
     "text": "Here's Dr. Rotter again explaining more to BBC World Service programme People Fixing the World.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 198.879,
     "end": 206.24,
     "text": "The mucus, this is like a viscous substance that is being excreted from jellyfish,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 206.24,
     "end": 210.159,
     "text": "might have the, they are called the absorberative properties.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 210.159,
     "end": 215.359,
     "text": "So it means that the particles, various particles, can attach to this mucus.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 215.359,
     "end": 223.359,
     "text": "So could we use jellyfish and their mucus as a magnet for the microplastic particles?",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 223.359,
     "end": 227.28,
-    "text": "Jellyfish produce a thick sticky liquid called mucus.",
-    "speaker": null
+    "text": "Jellyfish produce a thick, sticky liquid called mucus",
+    "speaker": "absorptive"
   },
   {
+    "order": 58,
     "start": 227.36,
     "end": 232.4,
     "text": "Dr. Rotter has discovered that this mucus has strong absorbed properties.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 232.4,
     "end": 237.12,
     "text": "It can absorb, taken liquids and other substances and hold them in.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 237.12,
     "end": 242.4,
     "text": "One of the substances jellyfish mucus absorbs are the particles that make up microplastics.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 242.96,
     "end": 247.759,
     "text": "By trapping these tiny pieces of floating plastic, the mucus acts like a magnet,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 247.759,
     "end": 253.12,
     "text": "an object that attracts certain materials like metal, or in this case, microplastic waste.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 253.2,
     "end": 256.959,
     "text": "As rising sea temperatures and overfishing of their natural predators",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 64,
     "start": 256.959,
     "end": 261.199,
     "text": "have boosted jellyfish numbers, this novel way of using their mucus",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 261.199,
     "end": 263.04,
     "text": "couldn't have come at a better time.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 263.04,
     "end": 265.68,
     "text": "Dr. Rotter's research is still in the early stages,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 265.68,
     "end": 271.439,
-    "text": "Dr Rotter’s research is still in the early stages, but it’s hoped that jellyfish mucus could hold the key to a future free of microplastic polluted oceans.",
-    "speaker": "Neil"
+    "text": "but it's hoped that jellyfish mucus could hold the key to a future free of microplastic",
+    "speaker": null
   },
   {
+    "order": 68,
     "start": 271.439,
     "end": 272.72,
     "text": "polluted oceans.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 272.72,
     "end": 276.48,
     "text": "Which is a big prize for the cost of a few jellyfish things.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 276.48,
     "end": 280.56,
-    "text": "Which is a big prize for the cost of few jellyfish stings. Speaking of which, Neil, what was the correct answer to your quiz question?",
+    "text": " Speaking of which, Neil, what was the correct answer to your quiz question",
     "speaker": "Georgina"
   },
   {
+    "order": 71,
     "start": 280.56,
     "end": 283.36,
-    "text": "Right, I asked you the best way to treat jellyfish stings. What did you say, Georgina?",
-    "speaker": "Neil"
+    "text": "Right, I asked you the best way to treat jellyfish stings.",
+    "speaker": null
   },
   {
+    "order": 72,
     "start": 283.36,
     "end": 284.72,
     "text": "What did you say to Regina?",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 284.72,
     "end": 287.519,
     "text": "I said it’s c) with vinegar",
     "speaker": "Georgina"
   },
   {
+    "order": 74,
     "start": 287.519,
     "end": 290.079,
     "text": "Which is the right answer. Well done.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 290.079,
     "end": 292.879,
     "text": "Vinegar inactivates the stings venom.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 292.879,
     "end": 296.72,
-    "text": "Which is… the right answer! Well done. Vinegar inactivates the sting’s venom, so remember to pack a bottle of vinegar the next time you head to the beach!",
-    "speaker": "Neil"
+    "text": "So remember to pack a bottle of vinegar the next time you head to the beach.",
+    "speaker": null
   },
   {
+    "order": 77,
     "start": 296.72,
     "end": 301.68,
     "text": "In this program, we've been hearing how scientists are using jellyfish mucus,",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 301.68,
     "end": 307.199,
-    "text": "In this programme, we’ve been hearing how scientists are using jellyfish mucus - a thick, sticky liquid produced in their bodies, to break down microplastics in the sea.",
+    "text": "a thick sticky liquid produced in their bodies to break down microplastics in the sea.",
     "speaker": "mucus"
   },
   {
+    "order": 79,
     "start": 307.199,
     "end": 311.92,
     "text": "Our addiction to single-use plastics, plastic items which are used only once,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 311.92,
     "end": 315.439,
     "text": "then thrown away, and which often get washed out to sea,",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 315.439,
     "end": 320.159,
     "text": "has created a situation which is definitely not environmentally friendly.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 320.159,
     "end": 323.12,
     "text": "That means having a minimal impact on the environment.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 323.12,
     "end": 329.36,
     "text": "Until quite recently, the problems of micro pollution and single-use plastic were unheard of,",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 329.36,
     "end": 333.519,
     "text": "surprising or shocking because of not having been previously known about.",
-    "speaker": null
+    "speaker": "unheard of"
   },
   {
+    "order": 85,
     "start": 333.599,
     "end": 337.039,
     "text": "Scientists are hoping that the mucus' absorptive qualities,",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 337.599,
     "end": 341.68,
     "text": "its ability to absorb liquids and other substances and hold them,",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 341.68,
     "end": 345.359,
     "text": "will allow it to track particles of plastic floating in the sea,",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 345.359,
     "end": 348.399,
     "text": "making jellyfish mucus a magnet for pollution,",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 348.399,
     "end": 351.359,
     "text": "an object that attracts certain materials, usually metals,",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 351.359,
     "end": 353.519,
     "text": "but in this case, microplastic waste.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 353.519,
     "end": 356.719,
     "text": "That's all for this program, but to hear more about how these amazing",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 356.719,
     "end": 361.68,
     "text": "sea creatures could help clean our oceans, why not check out people fixing the world",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 93,
     "start": 361.68,
     "end": 363.6,
     "text": "from the BBC World Service?",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 363.6,
     "end": 368.16,
-    "text": "And to hear more interesting items on trending topics, why not join us again soon here at 6 Minute English? Bye for now!",
-    "speaker": "Neil"
+    "text": "And to hear more interesting items on trending topics, why not join us again soon here at",
+    "speaker": null
   },
   {
+    "order": 95,
     "start": 368.16,
     "end": 370.959,
     "text": "6 Minute English? Bye for now. Bye!",

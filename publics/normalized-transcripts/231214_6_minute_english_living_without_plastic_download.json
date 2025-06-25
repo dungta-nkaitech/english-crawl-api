@@ -1,395 +1,461 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 8.599,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 8.599,
     "end": 12.88,
     "text": "Hello, this is 6 Minute English from BBCLearningEnglish. I'm Neil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.88,
     "end": 20.719,
     "text": "And I'm Beth. Plastic is fantastic. This phrase was used a lot in the 1950s when mass-produced",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 20.719,
     "end": 26.64,
     "text": "plastic items started to become part of our everyday lives. The following decades saw",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 26.64,
     "end": 33.64,
     "text": "a revolution as plastic became the most commonly used material in modern life, found in everything",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 33.64,
     "end": 39.719,
     "text": "from cars to furniture to packaging. Take a quick look around and you'll soon see how many",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 39.719,
     "end": 46.159,
     "text": "everyday items contain plastic. But now our love of plastic is being questioned. Mostly",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 46.159,
     "end": 51.76,
     "text": "thanks to climate change and pollution caused by single-use plastics. Plastic products",
-    "speaker": null
+    "speaker": "single-use plasticssingle-use plastics"
   },
   {
+    "order": 8,
     "start": 51.759,
     "end": 57.64,
     "text": "which are designed to be used just once before being thrown away. 11 million tons of",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 57.64,
     "end": 63.679,
     "text": "plastic waste are dumped into our oceans every year. It's believed that single-use plastics",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 63.679,
     "end": 68.359,
     "text": "make up 40% of all plastic pollution globally.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 68.359,
     "end": 74.159,
     "text": "What's more, it's not just land and water being polluted. Tiny plastic pieces, known",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 74.159,
     "end": 80.28,
     "text": "as microbeads, have even been found inside the human body and can be passed from mother",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 80.28,
     "end": 86.12,
     "text": "to child through breast milk. And because plastic comes from fossil fuels, the process of",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 86.12,
     "end": 93.28,
     "text": "making it creates problems at every stage, from burning coal to transportation to recycling.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 93.28,
     "end": 99.319,
     "text": "In this programme we'll be asking, is it time to live without plastic? And as usual,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 99.319,
     "end": 102.84,
     "text": "we'll be learning some useful new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 102.84,
     "end": 108.28,
     "text": "But first I have a question for you, Beth. One reason why plastic became so popular is",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 108.28,
     "end": 113.159,
     "text": "that it's a very flexible material. It can be formed into different shapes, making it",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 113.159,
     "end": 119.84,
     "text": "useful for keeping food fresh or holding liquid. Originally, plastic was invented to replace",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 119.84,
     "end": 125.48,
     "text": "the decreasing supply of natural materials like metal, wood and glass. So which items",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 125.48,
     "end": 132.96,
     "text": "did plastic first replace? Was it A, snooker balls, B, shopping bags or C, hairbrushes?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 132.96,
     "end": 137.56,
     "text": "Hmm, I guess the first thing to be made of plastic was a hairbrush.",
-    "speaker": "Beth"
+    "speaker": "Neil"
   },
   {
+    "order": 23,
     "start": 137.56,
     "end": 141.28,
     "text": "Okay, Beth, I'll reveal the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 141.28,
     "end": 147.319,
     "text": "Dr Sherry Mason is Professor of Chemistry at Penn State University in the US and a specialist",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 147.319,
     "end": 154.28,
     "text": "in plastic pollution. Her award-winning 2017 research into microplastics in rivers led",
-    "speaker": null
+    "speaker": "microbeads"
   },
   {
+    "order": 26,
     "start": 154.28,
     "end": 160.879,
     "text": "to the US Congress banning microbeads. Here she explains the problem of plastics to BBC",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 160.879,
     "end": 169.28,
     "text": "World Service programme, the real story. Plastic is synthetic and as a consequence of that,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 169.28,
     "end": 173.479,
     "text": "nature doesn't really know what to do with it. Like a paper bag that's sitting on the",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 173.479,
     "end": 178.439,
     "text": "side of the road, it's unsightly but within weeks there are organisms in the soil that",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 178.439,
     "end": 184.759,
     "text": "can use that paper bag as a food source, right? They have evolved to basically chew up",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 184.759,
     "end": 190.759,
     "text": "that paper bag and turn it back into soil, turn it back into carbon and nitrogen and oxygen.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 190.759,
     "end": 196.56,
     "text": "But with regard to plastic because it is a synthetic material, you don't have that evolution.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 196.56,
     "end": 202.239,
     "text": "There are some organisms that can use it as a food source but there are few and far between,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 202.239,
     "end": 206.959,
     "text": "especially when you're talking about water systems, aquatic systems and the temperatures",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 206.959,
     "end": 211.879,
     "text": "that exist. And so they can't really use it as a food source. So plastic doesn't buy",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 211.879,
     "end": 218.719,
     "text": "to grade and... Plastic is a synthetic material, meaning that it's made by combining man-made",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 218.719,
     "end": 225.639,
     "text": "chemicals instead of existing naturally. Natural materials like paper decay and harmlessly",
-    "speaker": null
+    "speaker": "syntheticbiodegrade"
   },
   {
+    "order": 38,
     "start": 225.639,
     "end": 232.759,
     "text": "turn back into soil, they buy or degrade, but plastic is not like this. It doesn't decay",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 232.759,
     "end": 238.599,
     "text": "and get broken down by microbes and bacteria. In fact, some plastic eating microbes and bacteria",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 238.599,
     "end": 245.12,
     "text": "do exist but these are few and far between. They're rare. They don't happen very often.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 245.12,
     "end": 250.12,
     "text": "It's the fact that plastic doesn't decay which is responsible for the waste we see in the environment,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 250.12,
     "end": 254.719,
     "text": "waste which is often unsightly, meaning ugly and unpleasant to look at.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 254.719,
     "end": 260.12,
     "text": "Fortunately, help is at hand. The plastic eating microbes Neil mentioned,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 260.12,
     "end": 266.12,
     "text": "especially one called Rodococus Ruber, have been tested by scientists and seem capable",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 266.12,
     "end": 272.319,
     "text": "of breaking down plastic into its basic components. What's also needed is an emphasis",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 46,
     "start": 272.319,
     "end": 277.319,
     "text": "on reducing plastic production, especially packaging and other single-use products,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 277.319,
     "end": 284.319,
     "text": "rather than simply recycling. Action like this should help plastic achieve its original purpose,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 284.319,
     "end": 290.319,
     "text": "to help preserve not pollute our natural resources. And speaking of the origins of plastic,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 290.319,
     "end": 293.319,
     "text": "isn't it time to reveal the answer to your question Neil?",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 293.319,
     "end": 299.319,
     "text": "Right, I asked you which object made of natural materials was the first to be replaced by plastic.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 299.319,
     "end": 304.319,
     "text": "You said it was a hairbrush, which was the wrong answer I'm afraid Beth.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 304.319,
     "end": 311.319,
     "text": "In fact, the first plastic molding machine was used in 1872 to produce snooker balls.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 311.319,
     "end": 317.319,
     "text": "Okay, let's recap the vocabulary we've learned from this program, starting with single-use plastics,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 317.319,
     "end": 322.319,
     "text": "plastic products which are designed to be used just once before being thrown away.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 322.319,
     "end": 328.319,
     "text": "Microbedes are tiny plastic particles found in products like toothpaste and body scrubs,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 328.319,
     "end": 332.319,
-    "text": "which can enter and pollute rivers, seas and the human body.",
-    "speaker": null
+    "text": "which can enter and pollute rivers, seas, and the human body",
+    "speaker": "Microbeads"
   },
   {
+    "order": 57,
     "start": 332.319,
     "end": 338.319,
     "text": "The adjective synthetic describes a non-natural material made by combining chemicals.",
-    "speaker": "synthetic"
+    "speaker": null
   },
   {
+    "order": 58,
     "start": 338.319,
     "end": 344.319,
     "text": "To biodegrade means to decay naturally, in a way that is not harmful to the environment.",
     "speaker": "biodegrade"
   },
   {
+    "order": 59,
     "start": 344.319,
     "end": 349.319,
     "text": "The phrase few and far between means very rare or not happening very often.",
-    "speaker": "few and far between"
-  },
-  {
-    "start": 349.319,
-    "end": 356.319,
-    "text": "And finally, if something is described as unsightly, it's ugly and unpleasant to look at.",
     "speaker": null
   },
   {
+    "order": 60,
+    "start": 349.319,
+    "end": 356.319,
+    "text": "And finally, if something is described as unsightly, it’s ugly and unpleasant to look at.",
+    "speaker": "unsightly"
+  },
+  {
+    "order": 61,
     "start": 356.319,
     "end": 358.319,
     "text": "Once again, our six minutes are up.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 358.319,
     "end": 364.319,
     "text": "Join us next time for more trending topics and useful vocabulary here at 6 Minute English.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 364.319,
     "end": 365.319,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 365.319,
     "end": 366.319,
-    "text": "Goodbye!",
-    "speaker": "Neil"
+    "text": "Goodbye.",
+    "speaker": null
   },
   {
+    "order": 65,
     "start": 367.319,
     "end": 371.319,
     "text": "6 Minute English from BBCLearningEnglish.com",

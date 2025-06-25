@@ -1,425 +1,496 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 11.679,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 11.679,
     "end": 14.32,
     "text": "Hello and welcome to 6 Minute English, I'm Neil.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 14.32,
     "end": 18.08,
     "text": "And I'm Sophie. What do you know about Cleopatra, Neil?",
     "speaker": "Sophie"
   },
   {
+    "order": 5,
     "start": 18.08,
     "end": 23.199,
-    "text": "Well, she was Queen of Egypt… quite a long time ago.",
-    "speaker": "Neil"
+    "text": "Well, she was Queen of Egypt quite a long time ago.",
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 23.199,
     "end": 24.16,
     "text": "Anything else?",
     "speaker": "Sophie"
   },
   {
+    "order": 7,
     "start": 24.16,
     "end": 30.96,
     "text": "Uh, shh. Didn't she arrive for a meeting with Roman Emperor Julius Caesar rolled up in a carpet?",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 30.96,
     "end": 33.12,
     "text": "Or is that a Hollywood invention?",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 33.12,
     "end": 36.48,
-    "text": "Some historical sources say she was rolled up in a carpet,",
-    "speaker": null
+    "text": "Some historical sources say she was rolled up in a carpet ",
+    "speaker": "Sophie"
   },
   {
+    "order": 10,
     "start": 36.48,
     "end": 39.359,
     "text": "and others say she was hidden inside a linen sack.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 40,
     "end": 42.24,
     "text": "Cleopatra is the subject of today's show.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 42.799,
     "end": 48.879,
     "text": "She was the last Pharaoh to rule Egypt and is arguably the most famous female ruler in history.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 48.879,
     "end": 50.159,
     "text": "And the most beautiful.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 50.719,
-    "end": 55.279,
-    "text": "Well, the jury's out on that one, Neil, and that means people haven't decided yet.",
     "speaker": null
   },
   {
+    "order": 14,
+    "start": 50.719,
+    "end": 55.279,
+    "text": "Well, the jury's out on that one, Neil – and that means people haven't decided yet",
+    "speaker": "the jury's out on that one"
+  },
+  {
+    "order": 15,
     "start": 55.919,
     "end": 59.199,
     "text": "Coins with Cleopatra's portrait on them, for example,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 59.199,
     "end": 62.079,
     "text": "show her with a prominent nose and thin lips.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 62.079,
     "end": 65.759,
-    "text": "Prominent means noticeable – and in this case, I think it means large! So what were her attributes – or main qualities –, then?",
-    "speaker": "Prominentattributes"
+    "text": "Prominent means noticeable, and in this case, I think it means large.",
+    "speaker": null
   },
   {
+    "order": 18,
     "start": 66.4,
     "end": 69.439,
     "text": "So, what were her attributes or main qualities then?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 70.239,
     "end": 72.4,
     "text": "Cleopatra was a wily politician.",
-    "speaker": null
-  },
-  {
-    "start": 73.12,
-    "end": 79.199,
-    "text": "Cleopatra was a wily politician. She made important alliances with Rome to protect her country and was ruthless in dealing with her enemies – in this case, her siblings – who challenged her as sole ruler of Egypt.",
     "speaker": "Sophie"
   },
   {
+    "order": 20,
+    "start": 73.12,
+    "end": 79.199,
+    "text": "She made important alliances with Rome to protect her country and was ruthless in dealing with her enemies.",
+    "speaker": null
+  },
+  {
+    "order": 21,
     "start": 79.439,
     "end": 84.56,
     "text": "In this case, her siblings, who challenged her as sole ruler of Egypt.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 84.56,
     "end": 89.04,
-    "text": "Wily means clever and sibling is another word for brother or sister. Didn't she have her siblings murdered?",
-    "speaker": "Wily sibling"
+    "text": "Wily means clever, and sibling is another word for brother or sister.",
+    "speaker": null
   },
   {
+    "order": 23,
     "start": 89.04,
     "end": 91.439,
     "text": "Didn't she have her siblings murdered?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 91.439,
     "end": 95.84,
-    "text": "Yes, she was very ruthless, and that means without pity.",
-    "speaker": null
+    "text": "Yes, she was very ruthless – and that means without pity",
+    "speaker": "ruthless"
   },
   {
+    "order": 25,
     "start": 96.4,
     "end": 98.96,
     "text": "And today's quiz question is about her family.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 99.52,
     "end": 103.84,
     "text": "Can you tell me, Neil, which country was Cleopatra's family originally from?",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 104.4,
     "end": 109.359,
     "text": "Is it A, Macedonia, B, Ethiopia, or C, Egypt?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 109.359,
     "end": 112.96,
-    "text": "I'm going for c) Egypt – The obvious answer.",
-    "speaker": "Neil"
+    "text": "I'm going for C, Egypt, the obvious answer.",
+    "speaker": "ruthless"
   },
   {
+    "order": 29,
     "start": 112.96,
     "end": 117.28,
-    "text": "Well, we'll find out if the obvious answer is the right one later on in the show.",
-    "speaker": null
+    "text": "Well, we'll find out if the obvious answer is the right one, later on in the show",
+    "speaker": "Sophie"
   },
   {
+    "order": 30,
     "start": 117.92,
     "end": 120.64,
     "text": "But let's talk some more about Cleopatra's attributes.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 121.28,
     "end": 126.879,
     "text": "She may not have been Hollywood gorgeous, but she spoke many languages and was highly educated",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 126.879,
     "end": 130.56,
     "text": "in philosophy, astronomy, mathematics, and oratory.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 131.36,
     "end": 137.52,
     "text": "Here's Susan Walker, keeper of antiquities at the Ashmolian Museum at the University of Oxford",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 137.52,
     "end": 138.719,
     "text": "with more about this.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 140.879,
     "end": 147.52,
     "text": "PooTark says that what was really remarkable about Cleopatra's, not so much her beauty,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 148.24,
     "end": 150.96,
     "text": "as the intelligence of her company.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 151.439,
     "end": 156.8,
     "text": "She had a very beautiful voice, which I think is a quality we perhaps underrate these days in",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 157.6,
     "end": 163.439,
     "text": "estimations of celebrity. And she clearly had masses of charisma,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 163.439,
     "end": 168.64,
     "text": "sort of person who would light up a room. So enormous personal charm.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 170,
     "end": 175.84,
     "text": "So the Roman historian PooTark wrote about Cleopatra's voice, her charisma and personal charm,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 175.84,
     "end": 182.56,
     "text": "but not about her beauty. That's right. And charisma is, in other words, a strong power to attract",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 42,
     "start": 183.52,
     "end": 189.84,
     "text": "people. Cleopatra's voice was also considered very attractive. An attribute we underrate today,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 189.84,
     "end": 195.199,
-    "text": "And underrate means to place too small a value on something.",
+    "text": "according to Susan Walker. And underrate means to place too small a value on something.",
+    "speaker": null
+  },
+  {
+    "order": 44,
+    "start": 195.84,
+    "end": 202.879,
+    "text": "Egyptian pharaohs were regarded as gods. And spectacle, or making a big visual impact,",
     "speaker": "underrate"
   },
   {
-    "start": 195.84,
-    "end": 202.879,
-    "text": "Egyptian Pharaohs were regarded as gods – and spectacle – or making a big visual impact – was an important part of this. Cleopatra was very skilled at making grand entrances.",
-    "speaker": "spectacle"
-  },
-  {
+    "order": 45,
     "start": 202.879,
     "end": 208,
     "text": "was an important part of this. Cleopatra was very skilled at making grand",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 208.96,
     "end": 213.599,
     "text": "entrances, rolled up in a carpet for Caesar or dressed up as Venus on board a shimmering golden",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 213.599,
     "end": 219.759,
     "text": "barge for Mark Antony. He was a Roman politician in general. And even her death was spectacular.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 220.479,
     "end": 225.759,
     "text": "She and Mark Antony had lost an important battle against another Roman general Octavian.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 226.479,
     "end": 232.08,
     "text": "Mark Antony had fatally wounded himself when he heard mistakenly that Cleopatra was dead.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 232.96,
     "end": 239.36,
     "text": "But before he died, he managed to get back to Cleopatra, who held him in her arms as he died in",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 51,
     "start": 239.36,
     "end": 246.64,
     "text": "her family tomb. Then she decided to take her own life. You make it sound like a Shakespearean tragedy.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 246.64,
     "end": 251.52,
     "text": "Shakespeare did write a play about it. Now let's hear from Catherine Edwards,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 53,
     "start": 251.52,
     "end": 257.36,
     "text": "professor of classics and ancient history at Berkbeck University of London about this tragic event.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 257.84,
     "end": 264.8,
-    "text": "She plans her own death. In this very sort of calculated manner, a manner that also seems to focus",
-    "speaker": null
+    "text": "She plans her own death in this very sort of calculated manner – a manner that also seems to focus",
+    "speaker": "Catherine Edwards, Professor of Classics and Ancient History at Birkbeck, University of London"
   },
   {
+    "order": 55,
     "start": 264.8,
     "end": 272.639,
     "text": "on spectacle, yes again, that she takes her time, she has a feast, and then the basket of",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 272.639,
     "end": 278.48,
     "text": "figs arrives with the aspenet, or was it perhaps a poisoned hairpin? There's a certain amount of",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 278.48,
     "end": 282.8,
     "text": "uncertainty about the exact method of her death. I think most sources prefer the snake.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 283.759,
     "end": 289.84,
     "text": "So, Catherine Edwards says, the fat surrounding Cleopatra's suicide aren't clear.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 290.639,
     "end": 295.84,
     "text": "She may have used a snake to bite her, smuggled into her room in a basket of fruit,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 295.84,
     "end": 303.199,
     "text": "but it may have been a poisoned hairpin, or simply a cup of poison. But she did it in a calculated",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 303.199,
     "end": 308.879,
     "text": "or carefully planned way. Okay, so the final curtain comes down on Cleopatra.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 308.959,
     "end": 314.639,
     "text": "But what about the answer to today's quiz question, Sophie? Okay, I asked which country",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 314.639,
     "end": 322.959,
     "text": "was Cleopatra's family originally from? Is it A, Macedonia, B, Ethiopia, or C, Egypt?",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 322.959,
     "end": 331.92,
     "text": "And I said Egypt, of course it is. And that's the wrong answer, Nia. It's actually A, Macedonia.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 332.48,
     "end": 338.96,
     "text": "Cleopatra was a member of the Tolamaic dynasty, a family of Macedonian Greek origin that ruled",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 338.96,
     "end": 344.879,
     "text": "Egypt after the death of Alexander the Great. You learn something new every day, talking of which",
-    "speaker": null
+    "speaker": "Sophie"
   },
   {
+    "order": 67,
     "start": 344.879,
     "end": 351.52,
     "text": "here are the words we learned in this program. The jury's out on something. Prominent attributes,",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 352.399,
     "end": 363.039,
     "text": "wily, sibling, ruthless, charisma, underrate, spectacle, calculated.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 363.599,
     "end": 368.24,
     "text": "And that's the end of today's six minute English. Don't forget to join us again soon.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 368.24,
     "end": 369.199,
     "text": "Goodbye. Bye-bye.",

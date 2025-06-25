@@ -7,8 +7,52 @@
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/160128_6min_english_commute.pdf",
   "vocabItems": [
     {
-      "word": "foldaway bike",
-      "definition": "a bike that folds up so it's easy to carry or put away"
+      "word": "foldawaybike",
+      "definition": "foldaway bikea bike that folds up so it's easy to carry or put away"
+    },
+    {
+      "word": "lycra",
+      "definition": "a stretchy fabric used in tight-fitting sports clothes"
+    },
+    {
+      "word": "intrigued",
+      "definition": "very interested in something"
+    },
+    {
+      "word": "commuting",
+      "definition": "travelling between your home and your work"
+    },
+    {
+      "word": "the Tube",
+      "definition": "the subway (or underground) system in London"
+    },
+    {
+      "word": "alert",
+      "definition": "being quick to notice things going on around you"
+    },
+    {
+      "word": "belongings",
+      "definition": "things that you own"
+    },
+    {
+      "word": "snatch",
+      "definition": "take quickly"
+    },
+    {
+      "word": "nap",
+      "definition": "short sleep, especially during the day"
+    },
+    {
+      "word": "traffic jam",
+      "definition": "a large number of vehicles ​close together ​moving ​slowly"
+    },
+    {
+      "word": "packed in like sardines",
+      "definition": "people standing so close together that they can't move"
+    },
+    {
+      "word": "commuted",
+      "definition": "(here) reduced"
     }
   ],
   "quiz": null

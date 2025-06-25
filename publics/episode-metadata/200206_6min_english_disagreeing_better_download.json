@@ -5,6 +5,31 @@
   "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p082blf3.jpg",
   "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/200206_6min_english_disagreeing_better_download.mp3",
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/200206_6min_english_disagreeing_better.pdf",
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "word": "pedantic",
+      "definition": "pedantic focussing too much on the small details or formal rules"
+    },
+    {
+      "word": "hierarchy",
+      "definition": "hierarchy a way of organising people according to their importance"
+    },
+    {
+      "word": "contempt",
+      "definition": "contempt a dislike or lack of respect for someone or something"
+    },
+    {
+      "word": "a point of view",
+      "definition": "a point of view someone’s perspective on something"
+    },
+    {
+      "word": "civility",
+      "definition": "civility polite behaviour"
+    },
+    {
+      "word": "stagnation",
+      "definition": "staying the same and not developing"
+    }
+  ],
   "quiz": null
 }

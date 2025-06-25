@@ -5,6 +5,31 @@
   "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p0bgg8cy.jpg",
   "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/220127_6min_english_winter_olympics_download.mp3",
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/220127_6min_english_winter_olympics.pdf",
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "word": "controversy",
+      "definition": "controversydisagreement or argument about something people have strong feelings about"
+    },
+    {
+      "word": "in full swing",
+      "definition": "at its highest level or activity"
+    },
+    {
+      "word": "headache",
+      "definition": "something that causes you a lot of problems"
+    },
+    {
+      "word": "mountain",
+      "definition": "(metaphor) large amount of something"
+    },
+    {
+      "word": "dynamic",
+      "definition": "continually changing and developing"
+    },
+    {
+      "word": "the clock is ticking",
+      "definition": "time is running out to prepare for or complete something"
+    }
+  ],
   "quiz": null
 }

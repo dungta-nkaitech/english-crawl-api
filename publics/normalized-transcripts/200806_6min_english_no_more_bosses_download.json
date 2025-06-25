@@ -1,530 +1,618 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 12.8,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 12.8,
     "end": 16.8,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 16.8,
     "end": 18,
-    "text": "And I’m Georgina.",
-    "speaker": "Georgina"
+    "text": "And I'm Georgina.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 18,
     "end": 22.24,
-    "text": "After working together at BBC Learning English for many years, Georgina, you and I have a good working relationship, don’t we?",
+    "text": "After working together at BBC Learning English for many years, Georgina,",
     "speaker": "Neil"
   },
   {
+    "order": 6,
     "start": 22.24,
     "end": 25.199,
     "text": "you and I have a good working relationship, don't we?",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 25.199,
     "end": 27.6,
-    "text": "Sure, I think we make a great team!",
-    "speaker": "Georgina"
+    "text": "Sure, I think we make a great team.",
+    "speaker": null
   },
   {
+    "order": 8,
     "start": 27.6,
     "end": 30.96,
     "text": "But have you ever had a boss who you just couldn’t work with?",
     "speaker": "Neil"
   },
   {
+    "order": 9,
     "start": 30.96,
     "end": 32.88,
     "text": "Oh, you mean a bad boss?",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 32.88,
     "end": 36.24,
     "text": "Someone you just can't get on with no matter how hard you try.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 36.24,
     "end": 40.079,
     "text": "Yes, I've had one or two over the years, not you of course, Neil.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 40.079,
     "end": 42.48,
     "text": "Oh, glad to hear it, Georgina.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 42.48,
     "end": 46.799,
     "text": "Often this happens because workers feel they aren't listened to by managers,",
-    "speaker": null
+    "speaker": "hierarchies"
   },
   {
+    "order": 14,
     "start": 46.799,
     "end": 50.48,
     "text": "or it might be because most companies are hierarchies,",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 50.48,
     "end": 55.04,
     "text": "systems of organising people, according to their level of importance.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 55.119,
     "end": 58.079,
-    "text": "Managers on top, workers down below.",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 58.079,
-    "end": 62.159,
-    "text": "But in this programme, we hear from companies who've got rid of managers",
+    "text": "Managers on top workers down below.",
     "speaker": null
   },
   {
+    "order": 17,
+    "start": 58.079,
+    "end": 62.159,
+    "text": "But in this programme, we hear from companies who’ve got rid of managers",
+    "speaker": "Neil"
+  },
+  {
+    "order": 18,
     "start": 62.159,
     "end": 64.4,
     "text": "and say it's helped them to do a better job,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 64.4,
     "end": 66.719,
     "text": "made them happier and saved money.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 66.719,
     "end": 71.84,
-    "text": "We’ll meet a self-managing company which isn’t hierarchical and has no boss. And of course we’ll be learning some new vocabulary along the way.",
-    "speaker": "hierarchical"
+    "text": "We'll meet a self-managing company which isn't hierarchical and has no boss.",
+    "speaker": null
   },
   {
+    "order": 21,
     "start": 71.84,
     "end": 74.879,
     "text": "And of course, we'll be learning some new vocabulary along the way.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 75.519,
     "end": 77.599,
-    "text": "But first, today's quiz question.",
-    "speaker": null
+    "text": "But first, today’s quiz question.",
+    "speaker": "hierarchies"
   },
   {
+    "order": 23,
     "start": 77.599,
     "end": 83.359,
     "text": "One of the biggest problems in hierarchies is the excess cost of management and bureaucracy.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 83.599,
     "end": 88.4,
     "text": "But how much is that estimated to cost the US economy every year?",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 88.4,
     "end": 95.76,
     "text": "Is it a three million dollars, b three billion dollars, or c three trillion dollars?",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 96.319,
     "end": 99.28,
     "text": "I'll say c three trillion dollars.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 99.28,
     "end": 101.84,
     "text": "That's one followed by twelve zeros.",
-    "speaker": null
+    "speaker": "hierarchies"
   },
   {
+    "order": 28,
     "start": 101.84,
     "end": 102.879,
     "text": "A lot of money.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 103.68,
     "end": 106.48,
     "text": "Okay, Georgina, we'll find out later if you're right.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 106.48,
     "end": 111.2,
     "text": "Now, one of the first companies to experiment successfully with self-management",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 31,
     "start": 111.28,
     "end": 114.24,
     "text": "was Californian tomato-grower Morningstar.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 114.799,
     "end": 118.96,
     "text": "Here's one of their employees, Doug Kirkpatrick, talking to Dean and Newman",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 118.96,
     "end": 122.719,
     "text": "for the BBC World Service programme People Fixing the World.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 124.079,
     "end": 129.84,
     "text": "The first principle was that human beings should not use force or coercion",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 130.8,
     "end": 132.48,
     "text": "against other human beings.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 133.12,
     "end": 138.64,
     "text": "And the second principle was that people should keep the commitments they make to each other.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 139.599,
     "end": 144.719,
     "text": "And so we adopted them as pretty much the entire governance of the enterprise.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 146.879,
     "end": 153.279,
     "text": "Because Morningstar has no bosses, decisions are made by all employees equally without coercion.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 153.279,
     "end": 157.119,
     "text": "The use of force to persuade someone to do something they do not want to do.",
-    "speaker": null
+    "speaker": "coercion"
   },
   {
+    "order": 40,
     "start": 157.839,
     "end": 162.319,
     "text": "As self-managers, employees can't tell other employees what to do.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 162.319,
     "end": 166.239,
     "text": "Everything is based on requesting someone to act and then responding.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 166.96,
     "end": 171.6,
-    "text": "This motivates and empowers workers but also means they must keep their commitments - promises or firm decisions to do something when requested.",
+    "text": "This motivates and empowers workers but also means they must keep their commitments -",
     "speaker": "commitments"
   },
   {
+    "order": 43,
     "start": 172.159,
     "end": 175.52,
     "text": "Promises or firm decisions to do something when requested.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 176.08,
     "end": 178.32,
     "text": "This way of working is great for some.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 178.32,
     "end": 181.76,
-    "text": "This way of working is great for some – they feel listened to and have a voice in how the company is run.",
-    "speaker": "Neil"
+    "text": "They feel listened to and have a voice in how the company is run.",
+    "speaker": null
   },
   {
+    "order": 46,
     "start": 181.76,
     "end": 186.24,
     "text": "But, Deena, questions whether this is true for everybody working at Morningstar.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 188.24,
     "end": 193.36,
     "text": "Would it be true to say that the self-managed company like yours empowers people who are already",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 193.36,
     "end": 197.2,
     "text": "very good and it leaves behind those who are not so good?",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 49,
     "start": 197.2,
     "end": 201.52,
     "text": "Yeah, I'm not sure except the praise left behind.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 201.52,
     "end": 205.68,
     "text": "There are some people who take full advantage of this environment.",
-    "speaker": null
+    "speaker": "left behind’who take full advantagebe held accountable"
   },
   {
+    "order": 51,
     "start": 205.68,
     "end": 212.08,
     "text": "Others take less advantage, but they do benefit because their voice is respected.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 212.08,
     "end": 215.6,
     "text": "When they do propose something, it must be listened to.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 215.6,
     "end": 218.32,
     "text": "They are not subject to force and coercion.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 218.32,
     "end": 223.12,
     "text": "And if they don't act according to their commitments, they can be held accountable.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 223.12,
     "end": 224,
     "text": "By anyone.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 225.599,
     "end": 231.039,
     "text": "Having no bosses sounds great, but the extra responsibility can create more work and stress.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 231.599,
     "end": 236.719,
     "text": "Different workers respond to this in different ways and some employees may be left behind,",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 236.719,
     "end": 240.96,
     "text": "remain at a lower level than others because they're not as quick to develop.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 241.599,
     "end": 246.879,
-    "text": "However other workers enjoy managing themselves and take full advantage of the system - make good use of the opportunity to improve and achieve their goals.",
+    "text": "However other workers enjoy managing themselves and take full advantage of the system -",
     "speaker": "take full advantage"
   },
   {
+    "order": 60,
     "start": 246.879,
     "end": 250.64,
     "text": "Make good use of the opportunity to improve and achieve their goals.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 251.359,
     "end": 255.199,
     "text": "No matter whether employees are good self-managers or not,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 255.199,
     "end": 258.719,
     "text": "ultimately they are held accountable for their work performance,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 258.719,
     "end": 262.639,
     "text": "asked to accept responsibility for the consequences of their actions.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 263.439,
     "end": 268.879,
     "text": "So, although having no boss sounds good, if things go wrong, there's no one to blame but yourself.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 269.519,
     "end": 275.199,
-    "text": "So maybe we do need those managers after all – which reminds me of our quiz question.",
-    "speaker": "Neil"
+    "text": "So maybe we do need those managers after all, which reminds me of our quiz question.",
+    "speaker": "Georgina"
   },
   {
+    "order": 66,
     "start": 275.519,
     "end": 282.639,
     "text": "You asked me to estimate how much the US economy loses in excess bureaucracy and managerial costs every year.",
     "speaker": "Georgina"
   },
   {
+    "order": 67,
     "start": 283.199,
     "end": 284.399,
     "text": "And you said?",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 68,
     "start": 284.399,
     "end": 286.8,
     "text": "See, $3 trillion.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 287.439,
     "end": 289.599,
-    "text": "Which was absolutely right! Well done!",
-    "speaker": "Neil"
-  },
-  {
-    "start": 289.599,
-    "end": 293.439,
-    "text": "And the cost keeps rising because, of course, the more managers there are, the more managers you need to manage the managers!",
+    "text": "Which was absolutely right, well done.",
     "speaker": "Georgina"
   },
   {
+    "order": 70,
+    "start": 289.599,
+    "end": 293.439,
+    "text": "And the cost keeps rising because of course the more managers there are,",
+    "speaker": "Georgina"
+  },
+  {
+    "order": 71,
     "start": 293.439,
     "end": 296.079,
     "text": "the more managers you need to manage, the managers.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 296.56,
     "end": 299.519,
     "text": "Today we've been looking at the world of self-management.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 299.519,
     "end": 304.959,
     "text": "Companies run without bosses, which unlike most businesses are not based on a hierarchy.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 305.199,
     "end": 308.719,
     "text": "System of organising people, according to their level of importance.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 309.36,
     "end": 315.199,
     "text": "Instead, companies like San Francisco's Morningstar allow employees to make their own commitments,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 315.199,
     "end": 320.56,
     "text": "promises to act rather than using coercion or forceful persuasion to get results.",
+    "speaker": "commitmentscoercion"
+  },
+  {
+    "order": 77,
+    "start": 321.439,
+    "end": 326.959,
+    "text": "Many employees react positively to this working environment and take full advantage of it,",
     "speaker": null
   },
   {
-    "start": 321.439,
-    "end": 326.959,
-    "text": "Many employees react positively to this working environment and take full advantage of it - make good use of the opportunity to progress or achieve their goals.",
-    "speaker": "take full advantage of"
-  },
-  {
+    "order": 78,
     "start": 326.959,
     "end": 331.279,
     "text": "make good use of the opportunity to progress or achieve their goals.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 332,
     "end": 336.559,
-    "text": "However, there is a risk that others who are more comfortable being managed may get left behind - remain at a lower level than others because they are not as quick to improve and adapt.",
+    "text": "However, there is a risk that others who are more comfortable being managed may get left behind ",
     "speaker": "left behind"
   },
   {
+    "order": 80,
     "start": 337.199,
     "end": 341.599,
     "text": "Remain at a lower level than others because they are not as quick to improve and adapt.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 342.479,
     "end": 348.079,
-    "text": "But whatever their job role or feelings about self-management, all workers are held accountable – asked to accept responsibility for their performance at work.",
-    "speaker": "held accountable"
+    "text": "But whatever their job role or feelings about self-management all workers are held accountable,",
+    "speaker": null
   },
   {
+    "order": 82,
     "start": 348.079,
     "end": 351.279,
     "text": "asked to accept responsibility for their performance at work.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 351.919,
     "end": 354.479,
     "text": "Meaning they can take the credit for when things go well.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 355.359,
     "end": 358.799,
-    "text": "…but have nobody to hide behind when things go badly!",
-    "speaker": "Neil"
-  },
-  {
-    "start": 358.879,
-    "end": 363.28,
-    "text": "That’s all from us today, but remember to join us again soon for more topical discussion and related vocabulary here at 6 Minute English from BBC Learning English.",
+    "text": "But have nobody to hide behind when things go badly.",
     "speaker": "Georgina"
   },
   {
+    "order": 85,
+    "start": 358.879,
+    "end": 363.28,
+    "text": "That’s all from us today, but remember to join us again soon for more topical discussion",
+    "speaker": "Georgina"
+  },
+  {
+    "order": 86,
     "start": 363.28,
     "end": 368,
     "text": "and related vocabulary here at 6 Minute English from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 368.72,
     "end": 370.48,
-    "text": "Bye for now.",
-    "speaker": "Neil"
+    "text": "Bye for now. Bye!",
+    "speaker": null
   }
 ]

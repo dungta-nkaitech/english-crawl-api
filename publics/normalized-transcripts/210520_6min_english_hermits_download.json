@@ -1,374 +1,436 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.6,
     "text": "This is a download from BBC Learning English to find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 13.599,
     "end": 17.199,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 2,
     "start": 17.199,
     "end": 22.64,
     "text": "And I'm Rob. Do you enjoy your own company, Rob? Do you like being alone or do you prefer spending",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 22.64,
     "end": 28.48,
     "text": "time with friends? Well, recently I haven't seen my friends much because of coronavirus.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 28.48,
     "end": 31.519,
     "text": "In fact, I've hardly seen anyone this past year.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 31.519,
     "end": 37.679,
-    "text": "It sounds like Rob has become a bit of a hermit – someone who lives alone and apart from society.",
+    "text": "It sounds like Rob has become a bit of a hermit – someone who lives alone and apart from society",
     "speaker": "hermit"
   },
   {
+    "order": 6,
     "start": 37.679,
     "end": 44,
-    "text": "Yes, I’ve been forced to spend time alone – but it wouldn’t be my choice. I’d much rather be socialising and visiting friends.",
-    "speaker": "Rob"
+    "text": "Yes, I've been forced to spend time alone, but it wouldn't be my choice. I'd much rather be socialising",
+    "speaker": null
   },
   {
+    "order": 7,
     "start": 44,
     "end": 48.96,
     "text": "and visiting friends. If Rob, the idea of being alone does not appeal to you,",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 48.96,
     "end": 54.24,
     "text": "it might be hard to understand why anyone would choose to be a hermit, but some people do,",
-    "speaker": null
+    "speaker": "hermit."
   },
   {
+    "order": 9,
     "start": 54.24,
     "end": 57.439,
     "text": "and in this programme we'll be hearing some of the reasons why.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 57.519,
     "end": 62.559,
-    "text": "Throughout history and across all cultures, there have been people who choose to leave behind the life and people they know to live in isolation and silence.",
-    "speaker": "Rob"
+    "text": "Throughout history and across all cultures, there have been people who choose to leave behind",
+    "speaker": null
   },
   {
+    "order": 11,
     "start": 62.559,
     "end": 68.4,
     "text": "the life and people they know to live in isolation and silence. People like Christopher Wright,",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 68.4,
     "end": 73.759,
     "text": "an American man who lived in complete isolation in the forests of Maine for nearly 30 years.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 13,
     "start": 74.4,
     "end": 80,
     "text": "When Hikeers discovered his tent, all they found was an alarm clock. So my quiz question is this,",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 80.56,
     "end": 84.879,
     "text": "why did Christopher Wright, the hermit of the main words, need an alarm clock?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 84.959,
     "end": 91.039,
     "text": "Was it A, to remind him when to hide his tent? B, to frighten away wild animals?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 91.039,
     "end": 95.28,
-    "text": "c) to wake him up at the coldest part of the night so he didn’t freeze to death?",
+    "text": "Or C, to wake him up at the coldest part of the night so he didn't freeze to death?",
     "speaker": "Neil"
   },
   {
+    "order": 17,
     "start": 95.92,
     "end": 102,
-    "text": "Well, if he wanted to be alone so much I guess he needed to be invisible, so I’ll say a) to remind him to hide his tent.",
+    "text": "Well, if he wanted to be alone so much I guess he needed to be invisible, so I’ll say a) ",
     "speaker": "Rob"
   },
   {
+    "order": 18,
     "start": 102,
     "end": 103.759,
     "text": "to remind him to hide his tent.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 19,
     "start": 104.479,
     "end": 110.159,
     "text": "Okay, Rob will find out the answer later. Christopher Wright may be an extreme example of someone",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 110.159,
     "end": 114.079,
     "text": "seeking solitude, but there are many other motivations for becoming a hermit.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 114.719,
     "end": 120.159,
-    "text": "Some people are looking for peace and silence, and for others it’s about being closer to God, focusing on what’s inside and finding a sense of joy.",
+    "text": "Some people are looking for peace and silence, and for others it’s about being closer to God,",
     "speaker": "Rob"
   },
   {
+    "order": 22,
     "start": 120.159,
     "end": 124.079,
     "text": "focusing on what's inside and finding a sense of joy.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 124.079,
     "end": 130.56,
     "text": "Meng Hu is a former librarian who now runs a website all about hermit. He says that in ancient times,",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 130.56,
     "end": 135.84,
     "text": "many Chinese hermit seeking solitude were followers of the philosopher Confucius.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 135.84,
     "end": 140.879,
     "text": "Here's Meng Hu talking about Confucius to BBC World Service program, the wife actor.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 141.759,
     "end": 149.68,
     "text": "His dictum was something like when the emperor is good serve, when the emperor is evil,",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 27,
     "start": 149.68,
     "end": 157.919,
     "text": "recluse. And so over 1000 years at least, there were a lot of recluse. There were a lot of educated men",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 157.919,
     "end": 166.4,
     "text": "who simply couldn't tolerate any more evil. They simply dropped out and they would migrate to small",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 167.039,
     "end": 175.2,
     "text": "villages to farms. Meng Hu mentions Confucius' dictum. A dictum is a short statement or saying which",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 175.2,
     "end": 181.439,
     "text": "expresses some wise advice or a general truth about life. Confucius' dictum advised that when the",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 181.439,
     "end": 187.759,
     "text": "emperor was evil, people should become recluse. People like hermit who live alone and avoid contact",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 187.759,
     "end": 194.719,
     "text": "with others. In the interview, Meng Hu uses recluse as a verb to recluse, that this is very uncommon,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 194.719,
     "end": 200.8,
     "text": "a more modern way of saying this is to drop out, to reject the normal way society works and live",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 200.8,
     "end": 206.96,
     "text": "outside the system. A bit like the hippies in the 1960s you mean. Right, although most hippies weren't",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 206.96,
     "end": 211.84,
     "text": "looking for isolation, they did have something in common with hermit, the desire to challenge",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 211.84,
     "end": 218.8,
     "text": "society's rules and conventions. Someone who combines the hippie and the hermit is Catholic writer",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 37,
     "start": 218.88,
     "end": 225.28,
     "text": "Sarah Mateland. Part of a long tradition of Christian hermit's, Sarah spent 40 days and nights alone",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 225.28,
     "end": 232.24,
     "text": "on the Isle of Sky seeking God in the silence of the remote Scottish island. For her, the magic of",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 232.24,
     "end": 237.6,
-    "text": "For her, the magic of silence is something to be embraced and taught to children. Here she explains more to BBC World Service’s, The Why Factor:",
+    "text": "silence is something to be embraced and taught to children. Here she explains more to BBC World",
     "speaker": "Neil"
   },
   {
+    "order": 40,
     "start": 237.6,
     "end": 245.12,
     "text": "Services, the wife actor. Most people first encounter silence in bereavement, in relationship",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 245.2,
     "end": 252.4,
     "text": "breakdown and in death. And that seems to me about the worst place to start. But people say, well,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 252.4,
     "end": 257.759,
     "text": "what should we do? I mean, never ever use go to your room on your own as a punishment. You use it",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 257.759,
     "end": 263.12,
     "text": "as a reward. Darling, you've been so good all day, you've been so helpful. Why don't you go to your",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 263.12,
     "end": 271.199,
     "text": "room for half an hour now and be on your own? Treat the reward! Sarah says that most people experience",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 271.279,
     "end": 277.279,
     "text": "silence after a bereavement, the death of a relative or close friend. She also thinks parents",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 277.279,
     "end": 282.399,
     "text": "should never tell their children, go to your room as a punishment. Instead being alone should be a",
-    "speaker": null
+    "speaker": "bereavement"
   },
   {
+    "order": 47,
     "start": 282.399,
     "end": 288.48,
     "text": "treat, a reward or gift of something special and enjoyable. That way, children learn that being",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 288.48,
     "end": 294.719,
     "text": "alone can actually be enjoyable. I'm still wondering about that American Christopher Wright. I suppose",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 294.719,
     "end": 300,
-    "text": "I suppose so - but why did he need an alarm clock?",
-    "speaker": "Neil"
+    "text": "living alone in the woods was a treat for him. I suppose so, but why did he need an alarm clock?",
+    "speaker": null
   },
   {
+    "order": 50,
     "start": 300.24,
     "end": 306.72,
     "text": "Ah yes, your quiz question, Neil. I thought maybe it was to remind him to hide his tent. Was I right?",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 51,
     "start": 306.72,
     "end": 311.68,
     "text": "Well, incredibly robbed, the answer was c'd wake him up at the coldest part of the night so he",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 311.68,
     "end": 318.079,
     "text": "didn't freeze to death. That's someone who really wants to be left alone. A hermit's, in other words,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 318.079,
     "end": 322.8,
-    "text": "That’s someone who really wants to be left alone! A hermit in other words, or a recluse – two ways of describing people who live alone and avoid others.",
-    "speaker": "hermit recluse"
+    "text": "or a recluse, two ways of describing people who live alone and avoid others.",
+    "speaker": "Neil"
   },
   {
+    "order": 54,
     "start": 323.36,
     "end": 328.72,
     "text": "Okay, let's recap the rest of the vocabulary starting with dictum, a short saying often giving",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 328.72,
     "end": 334.16,
     "text": "wise advice or expressing a general truth about life. People who drop out reject the normal",
-    "speaker": null
+    "speaker": "dictum"
   },
   {
+    "order": 56,
     "start": 334.16,
     "end": 340.8,
     "text": "rules of society and live outside the system. Many people experience solitude after a bereavement,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 340.8,
     "end": 347.12,
     "text": "the death of a close friend or relative. And finally, a treat is a reward or gift of something",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 347.12,
     "end": 352.56,
-    "text": "special and enjoyable. That's all for now, but whether you're listening alone or with others,",
-    "speaker": null
+    "text": "special and enjoyable. That’s all for now, but whether you’re listening alone or with others,",
+    "speaker": "treat"
   },
   {
+    "order": 59,
     "start": 352.56,
     "end": 357.92,
     "text": "we hope you'll join us again soon here at six minute English. Don't forget to you'll find us",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 357.92,
     "end": 364.56,
     "text": "on our website or you can download our free app so you won't miss any of our programs and we're",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 364.56,
     "end": 368.879,
     "text": "on all the main social media sites. Bye bye. Bye for now.",
-    "speaker": null
+    "speaker": "Rob"
   }
 ]

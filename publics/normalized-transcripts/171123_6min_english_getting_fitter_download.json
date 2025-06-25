@@ -1,581 +1,678 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.64,
     "text": "From BBC Learning English",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.439,
     "end": 16.16,
     "text": "Hello, I'm Rob. Welcome to 6 Minute English,",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 16.16,
     "end": 19.199,
     "text": "where we get together to discuss an interesting topic",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 6,
     "start": 19.199,
     "end": 22.719,
     "text": "along with six useful items of vocabulary to wrestle with.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 22.719,
     "end": 27.6,
     "text": "Yes, hello, I'm Catherine, and today's topic is all about togetherness,",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 27.6,
     "end": 30.64,
     "text": "because we're talking about going to the gym,",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 30.64,
     "end": 34.399,
     "text": "and why gym membership is becoming increasingly popular there.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 35.12,
     "end": 38.24,
     "text": "So, Rob, do you head off to your local gym after work?",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 38.88,
     "end": 40.96,
-    "text": "No, I hate group exercise.",
-    "speaker": null
+    "text": "No – I hate group exercise",
+    "speaker": "Rob"
   },
   {
+    "order": 12,
     "start": 40.96,
     "end": 43.439,
     "text": "I prefer to go for a run on my own.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 43.439,
     "end": 46,
     "text": "It's free, and I enjoy being outdoors.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 46,
     "end": 47.359,
     "text": "How about you, Catherine?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 47.359,
     "end": 50,
     "text": "Well, I really like group exercise, Rob.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 50,
     "end": 52.079,
     "text": "I find it really motivating.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 52.079,
     "end": 55.68,
     "text": "And when something is motivating, it makes us want to do something.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 55.679,
     "end": 58.24,
-    "text": "So, what motivates you to go to the gym, Catherine?",
+    "text": " So what motivates you to go to the gym, Catherine?",
+    "speaker": "motivating"
+  },
+  {
+    "order": 19,
+    "start": 58.24,
+    "end": 61.359,
+    "text": "Well, I go because I really like the spin classes.",
     "speaker": null
   },
   {
-    "start": 58.24,
-    "end": 61.359,
-    "text": "Well I go because I really like the spin classes.",
-    "speaker": "Catherine"
-  },
-  {
+    "order": 20,
     "start": 61.359,
     "end": 66,
-    "text": "Is that where you cycle on the spot while an instructor shouts at you?",
+    "text": "Ah, is that where you cycle on the spot while an instructor shouts at you?",
+    "speaker": null
+  },
+  {
+    "order": 21,
+    "start": 66,
+    "end": 67.92,
+    "text": " Well, yes that's the one!",
     "speaker": "Rob"
   },
   {
-    "start": 66,
-    "end": 67.92,
-    "text": "Well, yes, that's the one.",
-    "speaker": null
-  },
-  {
+    "order": 22,
     "start": 67.92,
     "end": 72.079,
     "text": "And if it wasn't in that class, I don't think I'd push myself so hard.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 72.079,
     "end": 77.2,
     "text": "I need someone to shout at me, to make me go faster and get up those hills.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 77.2,
     "end": 81.439,
-    "text": "Good, and if you push yourself, you force yourself to try harder.",
-    "speaker": null
+    "text": "Good and if you push yourself you force yourself to try harder – ",
+    "speaker": "push yourselfwork out"
   },
   {
+    "order": 25,
     "start": 81.439,
     "end": 83.439,
     "text": "You set yourself a challenge.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 83.519,
     "end": 86.959,
     "text": "Okay, Catherine, well, you are part of a growing trend of people",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 86.959,
     "end": 90,
     "text": "who like to work out or exercise in a gym.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 90,
     "end": 95.2,
     "text": "So, perhaps you can tell me how many people are members of a gym here in the UK?",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 95.2,
     "end": 100.64,
     "text": "Is it A, 1 in 2, B, 1 in 7, or C, 1 in 10?",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 100.64,
     "end": 106.64,
-    "text": "I'm going to go for 1 in 10.",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 106.64,
-    "end": 110.56,
-    "text": "Well, we'll find out if you chose the right answer later on.",
+    "text": "Hmm, I'm going to go for 1 in 10.",
     "speaker": null
   },
   {
+    "order": 31,
+    "start": 106.64,
+    "end": 110.56,
+    "text": "Well, we'll find out if you chose the right answer later on.",
+    "speaker": "Catherine"
+  },
+  {
+    "order": 32,
     "start": 110.56,
     "end": 112.56,
     "text": "Now, let's listen to Philip Mills.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 112.56,
     "end": 117.12,
     "text": "He runs the sports fitness company Les Mills, named after his father,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 117.12,
     "end": 121.6,
     "text": "who was a track and field athlete who represented New Zealand for 20 years.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 121.6,
     "end": 127.76,
     "text": "Philip has a theory to explain why group exercise has become so popular in recent years.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 127.76,
     "end": 133.12,
-    "text": "As people have become more sedentary, they've realised that they need to move for their health.",
-    "speaker": null
+    "text": "As people have become more sedentary they've realised that they need to move for their health. ",
+    "speaker": "Philip Mills, CEO of Les Mills International"
   },
   {
+    "order": 37,
     "start": 133.12,
     "end": 137.28,
     "text": "We work about 35% more hours than we used to work in the 60s,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 137.36,
     "end": 139.84,
     "text": "and people are too busy to play sports.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 139.84,
     "end": 146.319,
     "text": "Society has become fragmented, and a lot of the things that used to bring people together",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 146.319,
     "end": 147.84,
     "text": "don't exist anymore.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 147.84,
     "end": 150.639,
     "text": "But, you know, we're tribal animals, we pack animals,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 150.639,
     "end": 154.08,
     "text": "and the gym has been one of the things that helps people to commune.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 155.039,
     "end": 158.08,
     "text": "Yes, our sedentary lifestyles.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 158.08,
     "end": 161.36,
-    "text": "Yes our sedentary lifestyles! We do all spend too much time sitting down, don't we, Rob?",
-    "speaker": "Catherine"
+    "text": "We do all spend too much time sitting down, don't we, Rob?",
+    "speaker": null
   },
   {
+    "order": 45,
     "start": 161.36,
     "end": 165.52,
-    "text": "Yes, and according to Philip we're probably spending more time sitting down than we used to because we're working a lot more.",
+    "text": "Yes, and according to Philip we're probably spending more time sitting down ",
     "speaker": "Rob"
   },
   {
+    "order": 46,
     "start": 165.52,
     "end": 168.32,
     "text": "than we used to, because we're working a lot more.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 168.32,
     "end": 173.439,
-    "text": "And because we're busier with work, we have less time to take exercise.",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 173.439,
-    "end": 176.16,
-    "text": "So, why are we choosing to go to the gym these days,",
+    "text": "Exactly, and because we're busier with work, we have less time to take exercise.",
     "speaker": null
   },
   {
+    "order": 48,
+    "start": 173.439,
+    "end": 176.16,
+    "text": "So why are we choosing to go to the gym these days, ",
+    "speaker": "Rob"
+  },
+  {
+    "order": 49,
     "start": 176.16,
     "end": 178.96,
     "text": "rather than heading down to the park to play football?",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 178.96,
     "end": 183.36,
     "text": "Philip Mills thinks it's because society has become fragmented,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 183.36,
     "end": 188.719,
     "text": "and we're losing the social connectedness that made it easy to get together and take exercise.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 188.719,
     "end": 193.68,
     "text": "And fragmented means broken up into small pieces, by the way.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 194.56,
     "end": 197.92,
     "text": "The thing is, we miss that social connectedness,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 197.92,
     "end": 203.2,
     "text": "that feeling of belonging to a group, because we are essentially tribal animals.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 203.84,
     "end": 209.76,
     "text": "And a tribe is a group of people who live together and they share the same language",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 209.76,
     "end": 211.36,
     "text": "and the same culture.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 211.36,
     "end": 214.879,
-    "text": "So, even now most of us have left tribal society behind,",
-    "speaker": null
+    "text": "So even now most of us have left tribal society behind, ",
+    "speaker": "Rob"
   },
   {
+    "order": 58,
     "start": 214.879,
     "end": 218.8,
     "text": "we still want to feel like we're part of a group that we can commune with,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 218.8,
     "end": 221.28,
     "text": "which means to get close to someone or something.",
-    "speaker": null
-  },
-  {
-    "start": 221.759,
-    "end": 228.96,
-    "text": "But the question is Rob, does group exercise at the gym actually succeed in connecting us with other people?",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 228.96,
-    "end": 234.8,
-    "text": "Well, Philip Mills thinks in the future we'll be cycling inside a video game using computer graphics – you know, visiting other planets, travelling to different times…",
     "speaker": "Rob"
   },
   {
+    "order": 60,
+    "start": 221.759,
+    "end": 228.96,
+    "text": "But the question is Rob, does group exercise at the gym actually succeed in connecting us with other people?",
+    "speaker": null
+  },
+  {
+    "order": 61,
+    "start": 228.96,
+    "end": 234.8,
+    "text": "Well, Philip Mills thinks in the future we'll be cycling inside a video game using computer graphics ",
+    "speaker": "Rob"
+  },
+  {
+    "order": 62,
     "start": 234.8,
     "end": 237.92,
     "text": "you know, visiting other planets, traveling to different times.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 237.92,
     "end": 243.36,
-    "text": "Wow! But people will then be communing with a computer Rob, not really with each other?",
-    "speaker": "Catherine"
+    "text": "Wow, but people will then be communing with a computer, Rob, not really with each other.",
+    "speaker": null
   },
   {
+    "order": 64,
     "start": 243.36,
     "end": 248,
-    "text": "I'm afraid so. And you won't even have a real instructor barking instructions at you!",
+    "text": "Yeah, I'm afraid so, and you won't even have a real instructor barking instructions at you.",
+    "speaker": null
+  },
+  {
+    "order": 65,
+    "start": 248.8,
+    "end": 254,
+    "text": "Well, I suppose a computer will have a virtual instructor who will also be equally motivating.",
     "speaker": "Rob"
   },
   {
-    "start": 248.8,
-    "end": 254,
-    "text": "Well I suppose a computer will have a virtual instructor who will also be equally motivating!",
-    "speaker": "Catherine"
-  },
-  {
+    "order": 66,
     "start": 254,
     "end": 260.879,
     "text": "Hmm, it's like so. Now, remember I asked you, Catherine, how many people are members of a gym here in the UK?",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 260.879,
     "end": 265.68,
     "text": "I do remember you asking me that. Rob, and I said one in ten.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 265.68,
     "end": 268.24,
-    "text": "And you were wrong, I'm afraid.",
-    "speaker": null
+    "text": " And you were wrong, I'm afraid",
+    "speaker": "Catherine"
   },
   {
+    "order": 69,
     "start": 268.24,
     "end": 274.319,
     "text": "Figures collected by leisure database, a company that has audited the fitness industry for 15 years,",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 274.719,
     "end": 279.92,
     "text": "show that one in seven of the UK population is a member of a gym, and more and more will be",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 279.92,
     "end": 284.719,
     "text": "signing up. Total membership could soon exceed 10 million for the first time.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 284.719,
     "end": 285.519,
     "text": "Wow!",
     "speaker": "Catherine"
   },
   {
+    "order": 73,
     "start": 285.519,
     "end": 289.04,
     "text": "Okay, now let's talk through the vocabulary items we heard today.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 289.04,
     "end": 293.759,
     "text": "Number one is motivating, meaning something that makes us want to do something.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 293.759,
     "end": 297.36,
     "text": "I don't find the idea of cycling in a small room very motivating.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 298,
     "end": 303.68,
-    "text": "Now number two – If you push yourself, you force yourself to try harder – 'It's important to push yourself if you want to do well in your exams.'",
+    "text": "Now number two – If you push yourself, you force yourself to try harder ",
     "speaker": "Catherine"
   },
   {
+    "order": 77,
     "start": 303.68,
     "end": 308.8,
     "text": "So it's important to push yourself if you want to do well in your exams.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 308.8,
     "end": 310.48,
     "text": "Good advice there, Catherine.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 310.48,
     "end": 315.92,
     "text": "Next up is workout, which means to exercise in order to improve your health and fitness.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 315.92,
     "end": 320.72,
     "text": "For example, Catherine works out three times a week by cycling on the spot.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 320.72,
     "end": 324.96,
     "text": "Our fourth word is fragmented or broken up into small pieces.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 324.96,
     "end": 328.16,
     "text": "For example, I suffer from fragmented sleep.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 328.16,
     "end": 330.319,
     "text": "I wake up five or six times a night.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 330.319,
     "end": 331.279,
     "text": "Oh, poor you.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 332,
     "end": 339.12,
     "text": "All right, number four is tribal, and the noun is tribe, a group of people who live together",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 339.12,
     "end": 341.759,
     "text": "and share the same language and culture.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 341.759,
     "end": 345.6,
     "text": "Football fans often wear the tribal colours of a teammate's support.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 345.6,
     "end": 347.12,
     "text": "Some paint their faces too.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 347.759,
     "end": 353.12,
     "text": "And finally, we heard commune, which means to get close to someone or something.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 353.68,
     "end": 358,
     "text": "For example, Rob likes to commune with nature when he goes running.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 358,
     "end": 361.68,
     "text": "He enjoys the way the landscape changes with the seasons.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 361.68,
     "end": 362.959,
     "text": "Well said, Catherine.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 93,
     "start": 362.959,
     "end": 363.6,
     "text": "Thank you.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 363.6,
     "end": 368.16,
-    "text": "Well said, Catherine. Now, that's all we have time for today. But if you would like to commune with us via our Facebook, Twitter or YouTube pages, please do so.",
-    "speaker": "Rob"
+    "text": "Now that's all we have time for today, but if you would like to commune with us via our Facebook,",
+    "speaker": null
   },
   {
+    "order": 95,
     "start": 368.16,
     "end": 370.399,
     "text": "Twitter or YouTube pages, please do so.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 370.399,
     "end": 371.6,
     "text": "Bye bye.",

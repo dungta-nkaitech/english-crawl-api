@@ -1,650 +1,758 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.56,
     "text": "From BBC Learning English",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.439,
     "end": 16,
-    "text": "Hello. This is 6 Minute English. I'm Neil.",
-    "speaker": "Neil"
+    "text": "Hello, this is 6 Minute English, I'm Neil.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 16,
     "end": 17.28,
     "text": "And I'm Sam.",
-    "speaker": "Sam"
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 17.28,
     "end": 20.879,
     "text": "Sam, have you considered the future of food much?",
     "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 20.879,
     "end": 24.8,
-    "text": "Well I think in the future I might have a sandwich – in about 30 minutes in the future.",
-    "speaker": "Sam"
+    "text": "Well, I think in the future I might have a sandwich",
+    "speaker": null
   },
   {
+    "order": 8,
     "start": 24.8,
     "end": 27.12,
     "text": "in about 30 minutes in the future.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 27.199,
     "end": 28.96,
-    "text": "Not quite what I meant.",
-    "speaker": null
+    "text": "Not quite what I meant!",
+    "speaker": "Neil"
   },
   {
+    "order": 10,
     "start": 28.96,
     "end": 31.44,
     "text": "With the population of the world increasing,",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 31.44,
     "end": 35.679,
     "text": "along with the negative effects of climate change and other global issues,",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 35.679,
     "end": 39.6,
     "text": "we might have to radically change our diets in the future.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 39.6,
     "end": 42.48,
     "text": "Ah, yes, I have heard about this.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 42.48,
     "end": 46.4,
-    "text": "Ah, yes I have heard about this – there are all sorts of developments from growing artificial meat to developing insect-based foods.",
-    "speaker": "Sam"
+    "text": "There are all sorts of developments from growing artificial meat",
+    "speaker": null
   },
   {
+    "order": 15,
     "start": 46.4,
     "end": 49.04,
     "text": "to developing insect-based foods.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 49.04,
     "end": 50.24,
     "text": "Hmm, tasty.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 50.24,
     "end": 52.96,
-    "text": "Well, we'll look a little more at this topic shortly,",
-    "speaker": null
+    "text": ". Well we’ll look a little more at this topic shortly",
+    "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 52.96,
     "end": 55.28,
     "text": "but we start as ever with a question.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 55.359,
     "end": 57.2,
     "text": "And it's a food-based question.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 57.92,
     "end": 60.48,
     "text": "In which consonant did tomatoes originate?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 60.48,
     "end": 64.879,
     "text": "Is it A, South America, B, Africa or C, Asia?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 64.879,
     "end": 65.92,
-    "text": "What do you think, Sam?",
+    "text": " What do you think, Sam",
     "speaker": "Neil"
   },
   {
+    "order": 23,
     "start": 65.92,
     "end": 67.68,
     "text": "Er, no idea.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 67.68,
     "end": 70.48,
-    "text": "No idea. I’m going to say Africa, but that’s just a guess.",
+    "text": " I’m going to say Africa, but that’s just a guess",
     "speaker": "Sam"
   },
   {
+    "order": 25,
     "start": 70.48,
     "end": 74.48,
     "text": "OK, well, I will reveal the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 74.48,
     "end": 77.92,
     "text": "On a recent edition of BBC Radio 4's The Food programme,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 77.92,
     "end": 80.879,
     "text": "there was an interview with Dr. Morgane Gay.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 80.879,
     "end": 82.56,
     "text": "She is a futurologist.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 82.56,
     "end": 88.159,
     "text": "A futurologist is someone who studies and predicts the way we will be living in the future.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 88.159,
     "end": 92,
     "text": "Her particular area of expertise is the subject of food.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 92,
     "end": 94.799,
     "text": "What two things does she say she thinks about?",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 95.52,
     "end": 101.28,
     "text": "As a food-futrologist, I think about not just what we're going to be eating in the future,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 101.28,
     "end": 104.719,
     "text": "but why? Why that thing? Why that trend?",
-    "speaker": null
+    "speaker": "futurologisttrendlatch ontoa hunchhunch"
   },
   {
+    "order": 34,
     "start": 104.719,
     "end": 108.079,
     "text": "Why will people suddenly latch onto that food,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 35,
     "start": 108.079,
     "end": 111.28,
     "text": "that way of eating that food at that particular time?",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 111.359,
     "end": 114.799,
     "text": "And when I work for large companies, that's what they want to know.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 114.799,
     "end": 119.28,
     "text": "There is an element of a hunch, and then proving or disproving that hunch.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 120.159,
     "end": 122.4,
     "text": "So, what two things does she think about?",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 39,
     "start": 123.2,
     "end": 129.68,
     "text": "She says that as a food-futurologist, she thinks about what we will be eating in the future,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 129.68,
     "end": 132.639,
     "text": "and also why we will be eating that food.",
-    "speaker": null
+    "speaker": "futurologist"
   },
   {
+    "order": 41,
     "start": 132.639,
     "end": 136.08,
     "text": "Yes, in particular, she looks at why there are particular trends.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 136.719,
     "end": 140.719,
     "text": "A trend is what is popular now or what is becoming popular.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 140.719,
     "end": 144.639,
     "text": "For example, at the moment there is a trend for eating less red meat.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 145.199,
     "end": 149.039,
     "text": "She also looks at why people latch onto particular trends.",
-    "speaker": null
+    "speaker": "latch ontotrendslatch onto latch ontotrendtrend"
   },
   {
+    "order": 45,
     "start": 149.599,
     "end": 153.439,
     "text": "To latch onto here means to be very interested in something.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 154.079,
     "end": 158.639,
     "text": "So if you latch onto a particular food trend, you start to follow that trend.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 158.639,
     "end": 161.36,
     "text": "You might start eating that particular diet.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 161.36,
     "end": 166.079,
-    "text": "Information about future trends is very important for companies in the food business. How does she actually predict these trends?",
-    "speaker": "trendstrends"
+    "text": "Information about future trends is very important for companies in the food business.",
+    "speaker": null
   },
   {
+    "order": 49,
     "start": 166.8,
     "end": 169.439,
     "text": "How does she actually predict these trends?",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 169.439,
     "end": 171.599,
     "text": "She says she starts with a hunch.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 172.159,
     "end": 175.199,
     "text": "A hunch is a feeling you get that something is true.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 175.919,
     "end": 182.479,
-    "text": "She says she starts with a hunch. A hunch is a feeling you get that something is true. You don’t have any real evidence, but your experience and knowledge makes you think you might be right.",
-    "speaker": "hunchhunch"
+    "text": "You don't have any real evidence, but your experience and knowledge makes you think you might be right.",
+    "speaker": null
   },
   {
+    "order": 53,
     "start": 182.479,
     "end": 184,
-    "text": "Let’s listen again.",
-    "speaker": "Neil"
+    "text": "Let's listen again.",
+    "speaker": null
   },
   {
+    "order": 54,
     "start": 184,
     "end": 189.759,
     "text": "As a food-futurologist, I think about not just what we're going to be eating in the future,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 189.759,
     "end": 193.199,
     "text": "but why? Why that thing? Why that trend?",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 193.199,
     "end": 196.56,
     "text": "Why will people suddenly latch onto that food,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 196.64,
     "end": 199.759,
     "text": "that way of eating that food at that particular time?",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 199.759,
     "end": 203.28,
     "text": "And when I work for large companies, that's what they want to know.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 203.28,
     "end": 207.92,
     "text": "There is an element of a hunch and then proving or disproving that hunch.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 207.92,
     "end": 212.879,
     "text": "Dr Gay goes on to talk about how on the subject of food there are restrictions.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 212.879,
     "end": 213.84,
     "text": "Why is that?",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 62,
     "start": 213.84,
     "end": 217.759,
     "text": "Food business, of course, has different restrictions around it because it's about safety.",
-    "speaker": null
+    "speaker": "stringent"
   },
   {
+    "order": 63,
     "start": 217.759,
     "end": 222.4,
     "text": "We're ingesting that, the supply chain and the labeling laws are very",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 222.4,
     "end": 224.48,
     "text": "stringent, especially in this country.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 224.48,
     "end": 230.24,
     "text": "So it takes a lot longer to get an idea from just a concept that's discussed around a table",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 230.24,
     "end": 236,
     "text": "to an actual production facility labeled, branded, tested, marketed and put on the shelves.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 236.719,
     "end": 238.319,
-    "text": "So, why restrictions?",
+    "text": "So, why restrictions",
     "speaker": "Neil"
   },
   {
+    "order": 68,
     "start": 238.319,
     "end": 240.08,
     "text": "Well, it's about safety.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 240.08,
     "end": 246,
-    "text": "Well, it’s about safety. Because we are ingesting food, which is a way of saying we are putting it into our bodies, it has to be safe.",
-    "speaker": "ingesting"
+    "text": "Because we are ingesting food, which is a way of saying we are putting it into our bodies,",
+    "speaker": null
   },
   {
+    "order": 70,
     "start": 246,
     "end": 247.599,
     "text": "it has to be safe.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 247.599,
     "end": 251.759,
     "text": "It can be a long process of developing a new food and getting it into the shops,",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 251.759,
     "end": 255.359,
     "text": "because of the need to be safe and meet the laws of different countries.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 256.159,
     "end": 260.399,
     "text": "In the UK, she mentions that the food safety laws are very stringent.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 260.399,
     "end": 263.279,
     "text": "This means that the laws are very tough, very strict.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 263.279,
     "end": 264.879,
     "text": "Let's hear Dr Gay again.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 265.519,
     "end": 269.36,
     "text": "Food business, of course, has different restrictions around it because it's about safety.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 269.36,
     "end": 274.639,
     "text": "We're ingesting that, the supply chain and the labeling laws are very stringent,",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 274.639,
     "end": 276.159,
     "text": "especially in this country.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 276.159,
     "end": 281.599,
     "text": "So it takes a lot longer to get an idea from just a concept that's discussed around a table,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 282,
     "end": 288.08,
     "text": "to an actual production facility labeled, branded, tested, marketed and put on the shelves.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 288.08,
     "end": 288.4,
-    "text": "Right.",
-    "speaker": null
-  },
-  {
-    "start": 288.4,
-    "end": 292.72,
-    "text": "Right, well before we review our vocabulary, let’s get the answer to the question. In which continent did tomatoes originate? Is it…",
+    "text": "Right,",
     "speaker": "Neil"
   },
   {
+    "order": 82,
+    "start": 288.4,
+    "end": 292.72,
+    "text": "Well, before we review our vocabulary, let's get the answer to the question,",
+    "speaker": null
+  },
+  {
+    "order": 83,
     "start": 292.72,
     "end": 295.6,
     "text": "in which continent did tomatoes originate?",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 296.24,
     "end": 300.879,
     "text": "Is it A, South America, B, Africa, C, Asia, Sam?",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 300.879,
     "end": 301.92,
-    "text": "Sam, what did you say?",
+    "text": "What did you say?",
     "speaker": "Neil"
   },
   {
+    "order": 86,
     "start": 301.92,
     "end": 303.84,
     "text": "I made a guess at Africa.",
     "speaker": "Sam"
   },
   {
+    "order": 87,
     "start": 303.84,
     "end": 306.64,
     "text": "Well, I'm afraid that's not right.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 306.64,
     "end": 309.6,
     "text": "Congratulations, though, to everyone who said South America.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 309.84,
     "end": 312.72,
     "text": "Right, let's recap our words and expressions.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 312.72,
     "end": 315.84,
     "text": "Okay, well, we started with the word futureologist.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 316.56,
     "end": 322.879,
-    "text": "OK, well we started with the word futurologist. This is a noun to describe someone who studies and predicts the way we will be living in the future.",
+    "text": "This is a noun to describe someone who studies and predicts the way we will be living in the future.",
     "speaker": "futurologist"
   },
   {
+    "order": 92,
     "start": 322.879,
     "end": 324.64,
     "text": "Then we had trend.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 324.64,
     "end": 330,
     "text": "This word can describe what is popular now and the way in which what is popular is changing.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 330,
     "end": 335.6,
     "text": "For example, now we are seeing a trend for eating less red meat in some parts of the world.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 335.68,
     "end": 340.56,
-    "text": "If you latch onto something, you become interested in it and associate yourself with it – we heard that people very quickly latch onto food trends",
+    "text": "If you latch onto something, you become interested in it and associate yourself with it ",
     "speaker": "latch ontolatch ontotrends"
   },
   {
+    "order": 96,
     "start": 341.28,
     "end": 344.96,
     "text": "We heard that people very quickly latch onto food trends.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 344.96,
     "end": 346.48,
     "text": "Then there was hunch.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 346.48,
     "end": 349.68,
     "text": "A hunch is a feeling about something you think might be true,",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 349.68,
     "end": 352.879,
     "text": "even though you don't have real evidence for it.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 352.879,
     "end": 357.6,
     "text": "ingesting something means taking it into your body, so eating or drinking it.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 357.6,
     "end": 361.52,
-    "text": "And finally, a stringent rule is a very strict rule.",
-    "speaker": null
+    "text": "And finally a stringent rule is a very strict rule, ",
+    "speaker": "stringent"
   },
   {
+    "order": 102,
     "start": 361.519,
     "end": 364.799,
     "text": "A tough rule or law, which in connection to food,",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 364.799,
     "end": 368.56,
     "text": "is designed to make sure it is safe and of a suitable quality.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 368.56,
     "end": 369.759,
     "text": "Okay, thank you, Sam.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 369.759,
     "end": 371.599,
     "text": "That's all from six minute English.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 371.599,
     "end": 372.399,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 372.399,
     "end": 373.199,
-    "text": "Bye!",
-    "speaker": "Sam"
+    "text": "Bye-bye.",
+    "speaker": null
   }
 ]

@@ -1,353 +1,412 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 8.72,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 8.72,
     "end": 13.12,
     "text": "Hello, this is 6 Minute English from BBCLearningEnglish. I'm Neil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 13.12,
     "end": 14.12,
-    "text": "And I’m Georgie.",
-    "speaker": "Georgie"
+    "text": "And I'm Georgie.",
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 14.12,
     "end": 20.16,
     "text": "Now, if I told you I'd been for a walk to see Big Ben and Buckingham Palace, you'd know",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 20.16,
     "end": 23.12,
     "text": "straight away I was in London.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 5,
+    "start": 23.12,
+    "end": 28.76,
+    "text": "But what if my walk went past cafes selling mozzarella and ricotta, where I smelled freshly",
     "speaker": null
   },
   {
-    "start": 23.12,
-    "end": 28.76,
-    "text": "But what if my walk went past cafes selling mozzarella and ricotta where I smelled freshly made cannolis and focaccia… Where would I be then?",
-    "speaker": "Georgie"
-  },
-  {
+    "order": 6,
     "start": 28.76,
     "end": 32.44,
     "text": "made canolies and focaccia? Where would I be then?",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 32.44,
     "end": 36.679,
     "text": "Focaccia and mozzarella, well, you'd be in Italy, right?",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 36.679,
     "end": 43.079,
-    "text": "Yes, Italy, or ‘Little Italy’ to be exact – the neighbourhood in some cities where Italian communities settled and made their home.",
-    "speaker": "Georgie"
+    "text": "Yes, Italy, or little Italy to be exact. The neighbourhood in some cities where Italian",
+    "speaker": "Neil"
   },
   {
+    "order": 9,
     "start": 43.079,
     "end": 46.439,
     "text": "communities settled and made their home.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 46.439,
     "end": 51.96,
     "text": "These Italian arrivals opened shops and cafes selling food to their own communities.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 11,
     "start": 51.96,
     "end": 57.92,
     "text": "Soon, dishes like spaghetti and meatballs attracted the attention of local people and gradually",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 57.92,
     "end": 63.44,
     "text": "Italian food became famous around the world. In this programme, we'll be taking a walk",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 63.44,
     "end": 68.799,
     "text": "through two little Italy's, one in Argentina, the other in New York. And as usual, we'll",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 68.799,
     "end": 74.64,
     "text": "be learning some useful new vocabulary as well. But before that, I have a question for you,",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 74.64,
     "end": 80.799,
     "text": "Georgie. According to a recent U-Gov poll, which Italian food is most popular with British",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 80.799,
     "end": 86.719,
     "text": "diners? Is it A, pizza, b, lasagna, or C, garlic bread?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 86.719,
     "end": 88.799,
     "text": "I think it must be pizza.",
-    "speaker": "Georgie"
+    "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 88.799,
     "end": 93.2,
     "text": "OK, Georgie, I'll reveal the answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 93.2,
     "end": 99.84,
     "text": "One country Italians moved to was Argentina. In 1898, Giuseppe Banchero arrived in the",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 20,
     "start": 99.84,
     "end": 105.519,
     "text": "neighbourhood of La Boca, the little Italy of Buenos Aires, where many Italian immigrants",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 105.519,
     "end": 112.48,
     "text": "started restaurants. Here, Hugo Banchero, grandson of Giuseppe, tells his story to Veronica",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 112.48,
     "end": 116.64,
     "text": "Sminc, reporter for BBC World Service programme The Food Chain.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 143.439,
     "end": 147.28,
-    "text": "So what culinary traditions did they bring with them?",
+    "text": "So what culinary traditions did they bring with them? ",
     "speaker": "Veronica Smink"
   },
   {
+    "order": 24,
     "start": 147.28,
     "end": 156.719,
     "text": "Well, our culinary tradition is Pexeria and we incorporated the Faina from Genoa, which",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 156.719,
     "end": 166.239,
     "text": "is a pizza with chickpea flour. In 1898, Giuseppe founded his pizza rear, a restaurant selling pizza.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 166.719,
     "end": 171.84,
     "text": "When a business is founded, it's established. Someone starts it up or sets it up.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 185.2,
     "end": 190.16,
     "text": "But probably the best known little Italy in the world is an area of Manhattan's lower east",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 190.56,
     "end": 196.8,
     "text": "side in New York. 90% of Italian immigrants who arrived in the US at the turn of the century",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 196.8,
     "end": 198.639,
     "text": "came through this neighbourhood.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 30,
     "start": 198.639,
     "end": 204,
-    "text": "De Palos, one of the original shops selling Italian food in little Italy, has been serving",
-    "speaker": null
+    "text": "De Palos, one of the original shops selling Italian food in Little Italy, has been serving",
+    "speaker": "Neil"
   },
   {
+    "order": 31,
     "start": 204,
     "end": 211.039,
     "text": "customers for 113 years. Here, Lue de Palo, co-owner and great grandson of the original owner,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 211.039,
     "end": 217.199,
     "text": "Salvino, explains more about his family history to BBC World Service programme The Food Chain.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 218.159,
     "end": 223.599,
     "text": "1925, when my grandmother, Concetta and my grandfather, Luigi, got married.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 224.239,
     "end": 229.679,
     "text": "They opened their own shop. It's the shop we continue today. Being the fourth generation,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 229.679,
     "end": 236.079,
     "text": "working alongside my system, Maria and my brother, Sal, and our children, the fifth generation.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 236.079,
     "end": 242.319,
     "text": "Our business has expanded. Expanded to represent the full food culture of the 20 regions of Italy.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 243.28,
     "end": 249.039,
     "text": "Little Italy is the stepping stone of the Italian immigrant. This is where many of the Italians",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 249.039,
     "end": 255.919,
     "text": "first came through Ellis Island and then settled here and then eventually moved into mainstream",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 255.919,
     "end": 258,
     "text": "America throughout the rest of the country.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 259.039,
     "end": 264.24,
     "text": "Lue de Palo is the fourth generation of his family to run the shop and his children will be the fifth.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 264.879,
     "end": 270.399,
     "text": "Frazes like fourth or fifth generation describe the children of people whose parents immigrated",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 270.399,
     "end": 276,
     "text": "to a particular country. After arriving in New York, many Italian immigrants moved on to start",
-    "speaker": null
+    "speaker": "Georgie"
   },
   {
+    "order": 43,
     "start": 276,
     "end": 281.839,
     "text": "successful new lives elsewhere. That's why Lue calls Little Italy a stepping stone,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 281.839,
     "end": 287.679,
     "text": "an experience that helps you achieve something else, like a real stepping stone helps you cross a river.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 288.319,
     "end": 293.839,
     "text": "As a result, Italian newcomers became accepted in mainstream America, mainstream,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 293.839,
     "end": 298.239,
     "text": "meaning the culture and customs viewed as normal by most Americans.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 298.319,
     "end": 304,
     "text": "It seems we owe a lot to Lue de Palo, but we still don't know which food is most popular here in the UK.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 304.639,
     "end": 307.36,
     "text": "Isn't it time to reveal the answer to your question, Neil?",
-    "speaker": null
+    "speaker": "Georgie"
   },
   {
+    "order": 49,
     "start": 307.36,
     "end": 313.12,
     "text": "Right, I asked you which Italian food is most popular in Britain and you said pizza which",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 313.12,
     "end": 319.92,
     "text": "would be my guess too, but is the wrong answer I'm afraid? In fact, the top choice for Italian food",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 319.92,
     "end": 325.439,
     "text": "fans here in the UK is garlic bread. Right, let's recap the vocabulary we've learned from this",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 325.439,
     "end": 330.319,
     "text": "programme on Little Italy starting with pizza ria, a restaurant that sells pizza.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 330.959,
     "end": 336.56,
     "text": "If something is founded, it started or established. The adjective culinary describes",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 336.56,
     "end": 341.759,
     "text": "anything connected with cooking. Frazes like fourth or fifth generation describe the",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 341.759,
     "end": 347.519,
     "text": "children of people whose parents immigrated to a particular country. A stepping stone is an event",
-    "speaker": null
+    "speaker": "Georgie"
   },
   {
+    "order": 56,
     "start": 347.519,
     "end": 353.92,
     "text": "or experience that helps you advance or achieve something new. And finally, the adjective mainstream",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 353.92,
     "end": 359.199,
     "text": "describes the customs and culture which are accepted as normal by most people in a society.",
-    "speaker": null
+    "speaker": "Georgie"
   },
   {
+    "order": 58,
     "start": 359.759,
     "end": 365.52,
     "text": "Once again, our six minutes are up. Until the next time here at six minute English, it's Ciao! Ciao!",

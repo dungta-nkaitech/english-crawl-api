@@ -1,527 +1,615 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.32,
     "end": 16.24,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Sam.",
     "speaker": "Sam"
   },
   {
+    "order": 3,
     "start": 16.24,
     "end": 22.32,
     "text": "And I'm Neil. It's raining again, Sam. I've had enough. It's been drizzling.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 22.32,
     "end": 24.96,
     "text": "That's raining lightly all week.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 24.96,
     "end": 28.32,
     "text": "I know what you mean, Neil. Living in a wet country like Britain,",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 28.32,
     "end": 32.24,
     "text": "I sometimes wish I could push a magic bus and stop it raining.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 32.24,
     "end": 37.52,
     "text": "And ironically, people living in hot, dry countries need rain, but don't get it.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 37.52,
     "end": 39.6,
     "text": "If only we could control the weather.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 39.6,
     "end": 45.2,
     "text": "Well, it's funny you should say that, Neil, because you're not the first person to have that idea.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 45.2,
     "end": 50.48,
     "text": "In this programme, we'll be hearing about cloud seeding and geoengineering.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 50.48,
     "end": 56.4,
     "text": "Two controversial methods scientists are using to manipulate or change the weather.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 56.399,
     "end": 59.92,
     "text": "And as usual, we'll be learning some new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 59.92,
     "end": 63.679,
     "text": "Anything that stops it drizzling sounds good to me, Sam.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 63.679,
     "end": 69.759,
     "text": "I hate to disappoint you, Neil, but these ideas involve making more, not less rain.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 69.759,
     "end": 73.759,
     "text": "We'll learn the details soon, but first I have a question for you about the",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 73.759,
     "end": 80.56,
     "text": "wetest place in the world, a village which gets nearly 12 metres of rain a year.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 80.64,
     "end": 88.64,
     "text": "But where is it? Is the wetest village on earth found in A, Ireland, B, New Zealand,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 88.64,
     "end": 90.48,
     "text": "or C, India?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 90.48,
     "end": 92.799,
     "text": "Well, it rains a lot in Ireland, doesn't it?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 92.799,
     "end": 95.92,
     "text": "So I'll say that's where the wetest place on earth is.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 95.92,
     "end": 99.84,
     "text": "Okay, Neil. We'll find out if that's the correct answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 99.84,
     "end": 105.68,
     "text": "The first type of weather manipulation we'll hear about is a way of getting snow and rain out of clouds,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 105.68,
     "end": 107.28,
     "text": "known as cloud seeding.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 107.28,
     "end": 112.239,
     "text": "Airplanes fly through the clouds and spray chemicals to make water particles freeze",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 112.239,
     "end": 118.4,
     "text": "and stick together as snowflakes. These then fall as snow, which builds up during winter,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 118.4,
     "end": 121.439,
     "text": "before melting in spring to help water crops.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 121.439,
     "end": 126.879,
     "text": "Listen as Charme in Cozier, presenter of BBC World Service programme The Inquiry,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 126.879,
     "end": 133.199,
     "text": "speaks with Professor Katia Friedrich, an atmospheric scientist at the University of Colorado.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 133.199,
     "end": 137.359,
     "text": "The first cloud seeding experiments took place in the 1940s,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 137.359,
     "end": 141.599,
     "text": "in the air since scientists have often accused of meddling with nature.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 141.599,
     "end": 146.399,
     "text": "People are thinking, yeah, you're putting some substances in the atmosphere that should not be there.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 146.399,
     "end": 151.679,
     "text": "Usually I respond and say, every time you get into your car, every time you get on an airplane,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 151.679,
     "end": 156.799,
     "text": "you put substances in the air that don't belong, so you're also playing God.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 156.799,
     "end": 161.519,
     "text": "Because everyone needs water, cloud seeding is becoming more and more popular.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 161.52,
     "end": 167.439,
     "text": "With scientists from over 50 countries, using the method to extract rain from clouds.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 167.439,
     "end": 172.16,
     "text": "But some critics accuse these scientists of meddling with nature,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 172.16,
     "end": 176.4,
     "text": "trying to change something, which it's not their responsibility to change.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 176.4,
     "end": 179.6,
     "text": "In other words, they're accused of playing God,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 179.6,
     "end": 184.16,
     "text": "acting as if they have unlimited power and can do whatever they want.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 184.16,
     "end": 189.04,
     "text": "Unlike cloud seeding, the next type of weather modification has never been tested",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 189.12,
     "end": 195.199,
     "text": "and is still just a theory. Solar geoengineering aims to reduce global warming",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 195.199,
     "end": 198.639,
     "text": "by reflecting sunlight away from the earth back into space.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 199.359,
     "end": 204.319,
     "text": "This involves putting tiny particles called aerosols into the stratosphere,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 204.319,
     "end": 208.639,
     "text": "the band of sky 20 kilometres above the surface of the earth,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 208.639,
     "end": 211.199,
     "text": "about twice as high as airplanes fly.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 211.199,
     "end": 214.319,
     "text": "Although it's never been tested, the method is controversial.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 214.319,
     "end": 218.959,
     "text": "As Charming Cozier discussed with Harvard University Professor of Engineering,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 219.04,
     "end": 222.64,
     "text": "David Keith for BBC World Services, the Inquiry.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 222.64,
     "end": 225.28,
     "text": "How controversial is this area?",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 225.28,
     "end": 230.4,
     "text": "There's lots of controversy around solar geoengineering, and for good reason,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 230.4,
     "end": 234.48,
     "text": "people are, I think, sensibly scared that this could provide an excuse",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 234.48,
     "end": 239.68,
     "text": "that allows countries or companies to avoid doing the work that has to be done to cut emissions.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 239.68,
     "end": 243.04,
     "text": "But in fact, controversy is really waxed and waned over time.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 243.04,
     "end": 247.92,
     "text": "So in the early work on climate change in the 1960s and 70s and early 80s,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 248.479,
     "end": 252.399,
     "text": "these ideas were just part of the way we talked about what might happen about climate change.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 252.399,
     "end": 258.159,
     "text": "And then this climate change became more politically central, say, in the 90s and 2000s.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 258.159,
     "end": 259.439,
     "text": "There was really a taboo.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 259.439,
     "end": 265.759,
     "text": "David Keith believes that geoengineering could provide an excuse for inaction on climate change,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 265.759,
     "end": 269.68,
     "text": "a reason for countries to explain why they did not take action.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 269.68,
     "end": 273.36,
     "text": "He says controversy over the method has waxed and waned,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 273.36,
     "end": 276.24,
     "text": "an idiom connected with the cycle of the moon,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 276.24,
     "end": 280.8,
     "text": "which describes something that increases then decreases over time.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 280.8,
     "end": 285.199,
     "text": "In the 1960s, for example, geoengineering was uncontroversial,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 285.199,
     "end": 292.079,
     "text": "but by the 1990s, it had become taboo, a subject that is avoided for social or religious reasons.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 292.079,
     "end": 295.92,
     "text": "While these ideas to change the weather have potential benefits,",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 295.92,
     "end": 301.84,
     "text": "other suggestions, for example, to position a giant floating mirror between the earth and the sun,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 301.84,
     "end": 303.68,
     "text": "are highly controversial.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 303.68,
     "end": 309.04,
     "text": "Although personally, I think the idea of a giant floating umbrella above Britain would be good.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 309.84,
     "end": 311.12,
     "text": "Well, just think.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 311.12,
     "end": 316.16,
     "text": "There are even a reindeer places to live, Neil, as I asked in my question earlier.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 316.16,
     "end": 318.96,
     "text": "In which country is the world's rainiest village?",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 318.96,
     "end": 320.879,
     "text": "I guess it was in Ireland.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 320.879,
     "end": 323.519,
     "text": "Which was the wrong answer I'm afraid.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 323.519,
     "end": 327.04,
     "text": "In fact, Morse and Ram, the world's wettest village,",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 327.04,
     "end": 330,
     "text": "is in the Cassie Hills of Northeastern India.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 330.079,
     "end": 335.199,
     "text": "With around 12 metres of rain a year, I guess it's not somewhere you'll be visiting, Neil.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 335.199,
     "end": 337.839,
     "text": "Okay, let's recap the vocabulary we've learned,",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 337.839,
     "end": 341.759,
     "text": "starting with drizzling, which means raining lightly.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 341.759,
     "end": 346.319,
     "text": "If you're meddling, you're trying to change something which is not your responsibility,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 346.319,
     "end": 347.92,
     "text": "or without being asked to.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 347.92,
     "end": 353.6,
     "text": "Someone who is playing God is acting as if they control everything and can do whatever they want.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 353.6,
     "end": 357.519,
     "text": "An excuse is a reason you give to explain why you did something wrong.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 357.599,
     "end": 362.159,
     "text": "If something waxed and waned, it grew stronger, then weaker over time.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 362.159,
     "end": 367.039,
     "text": "And finally, a taboo is a subject that's avoided for social or religious reasons.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 367.039,
     "end": 368.639,
-    "text": "Once again, our six minutes are up! Bye for now!",
-    "speaker": "Rob"
+    "text": "Once again, our six minutes are up.",
+    "speaker": "mimic"
   },
   {
+    "order": 86,
     "start": 368.639,
     "end": 369.68,
     "text": "Bye for now.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 369.68,
     "end": 370.319,
     "text": "Bye bye.",

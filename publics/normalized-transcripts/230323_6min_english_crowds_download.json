@@ -1,515 +1,601 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7,
     "text": "This is a download from BBC Learning English to find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7,
     "end": 14,
     "text": "6Nate English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 14,
     "end": 19,
     "text": "Hello, this is 6Nate English from BBC Learning English. I'm Sam.",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 19,
     "end": 20,
-    "text": "And I’m Neil.",
-    "speaker": "Neil"
+    "text": "And I'm Neil.",
+    "speaker": "Sam"
   },
   {
+    "order": 4,
     "start": 20,
     "end": 25,
     "text": "There was a huge crowd of people waiting at the train station this morning, Neil.",
-    "speaker": null
+    "speaker": "crowd"
   },
   {
+    "order": 5,
     "start": 25,
     "end": 29,
     "text": "When the train finally arrived, everyone rushed in and I couldn't find a seat.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 29,
     "end": 31,
     "text": "I hate crowds.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 31,
     "end": 34,
-    "text": "But you love going to the football match on Saturday…",
-    "speaker": "Neil"
+    "text": "But you love going to the football match on Saturday.",
+    "speaker": null
   },
   {
+    "order": 8,
     "start": 34,
     "end": 38,
     "text": "Ah, well that's different. More like a big group of friends.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 38,
     "end": 43,
     "text": "Well, whether it's sporting events, train stations or political protests,",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 10,
     "start": 43,
     "end": 48,
     "text": "crowds, that's large groups of people who gather together for a shared activity,",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 48,
     "end": 50,
     "text": "are a feature of life.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 50,
     "end": 55,
     "text": "For some, crowds create feelings of excitement and a sense of community,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 55,
     "end": 60,
     "text": "while for others, they feel uncomfortable, confusing or even dangerous.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 60,
     "end": 62,
     "text": "So why is that?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 62,
     "end": 65,
-    "text": "In this programme we'll be discussing the role of crowds in modern life,",
-    "speaker": null
+    "text": "In this programme, we’ll be discussing the role of crowds in modern life",
+    "speaker": "Sam"
   },
   {
+    "order": 16,
     "start": 65,
     "end": 69,
     "text": "asking why they evoke different reactions in people.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 69,
     "end": 73,
     "text": "And as usual, we'll be learning some new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 73,
     "end": 76,
     "text": "But first, I have a question for you, Neil.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 76,
     "end": 79,
     "text": "The biggest crowd in history happened in 2019,",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 80,
     "end": 85,
     "text": "when over 200 million people gathered in the Northern Indian City of Alahabad.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 85,
     "end": 88,
     "text": "But what did so many people come together for?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 88,
     "end": 94,
     "text": "Was it a, a cricket match, be a religious festival or see an election?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 94,
     "end": 101,
-    "text": "Well, I know Indians love cricket, but I doubt 200 million people would fit into a stadium! I’ll guess it’s c) an election.",
-    "speaker": "Neil"
+    "text": "Well, I know Indians love cricket, but I doubt 200 million people would fit into a stadium,",
+    "speaker": "Sam"
   },
   {
+    "order": 24,
     "start": 101,
     "end": 104,
     "text": "so I'll guess it's see an election.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 104,
     "end": 107,
     "text": "Okay, Neil. We'll find out the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 107,
     "end": 112,
     "text": "People gathering for a cricket match or a music concert are usually happy events.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 27,
     "start": 112,
     "end": 116,
     "text": "But crowds can have a darker side as well.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 116,
     "end": 120,
     "text": "They can become out of control and sometimes even violent.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 120,
     "end": 124,
     "text": "Here's psychologist Professor John Jury discussing this idea",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 124,
     "end": 128,
     "text": "with an Andagasia presenter of the BBC World Service programme,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 128,
     "end": 131,
     "text": "appropriately named Crowd Science.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 131,
     "end": 135,
     "text": "When people get together in a crowd, they regress psychologically.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 135,
     "end": 138,
     "text": "Their thinking is more primitive, they become more gullible.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 138,
     "end": 144,
     "text": "And that's also associated with a supposed tendency towards violence as well.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 144,
     "end": 150,
-    "text": "But according to John, the idea of mob mentality, that people in crowds are irrational and prone to destructive behaviour, just isn't backed up by research.",
+    "text": "But according to John, the idea of mob mentality that people in crowds are irrational",
     "speaker": "mob mentality"
   },
   {
+    "order": 36,
     "start": 150,
     "end": 154,
     "text": "and prone to destructive behaviour just isn't backed up by research.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 154,
     "end": 159,
     "text": "One view is that when people get together in a crowd, they become irrational.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 159,
     "end": 162,
     "text": "Psychologically speaking, they regress.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 162,
     "end": 167,
     "text": "They return to a less advanced, more primitive way of behaving.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 167,
     "end": 170,
     "text": "They may also become more gullible.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 170,
     "end": 175,
     "text": "An adjective meaning easily tricked or willing to believe everything someone says.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 175,
     "end": 178,
-    "text": "Connected to this is the phrase mob mentality,",
-    "speaker": null
+    "text": "Connected to this is the phrase mob mentality ",
+    "speaker": "mob mentality"
   },
   {
+    "order": 43,
     "start": 178,
     "end": 184,
     "text": "the tendency of people in a group to behave in the same way as others in the group,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 184,
     "end": 187,
     "text": "rather than as individuals.",
-    "speaker": null
+    "speaker": "gullible"
   },
   {
+    "order": 45,
     "start": 187,
     "end": 190,
     "text": "In crowds, people may do things they would never do alone,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 190,
     "end": 193,
     "text": "like steel or use violence.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 193,
     "end": 198,
     "text": "But according to Professor Drury in reality, it's not mob mentality and violence,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 198,
     "end": 204,
     "text": "but rather feelings of safety and togetherness that actually characterise crowds.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 204,
     "end": 210,
     "text": "And according to Dr Anne Templeton, another expert on crowd psychology from the University of Edinburgh,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 210,
     "end": 215,
     "text": "that's especially true when you identify with the other people in a crowd.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 215,
     "end": 220,
     "text": "Here's Dr Templeton explaining more to BBC World Service Programme Crowd Science.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 220,
     "end": 224,
     "text": "The more people feel like they are a part of a group with others in the crowd,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 224,
     "end": 227,
-    "text": "the more enjoyable experience they have.",
-    "speaker": null
+    "text": " the more enjoyable experience they have",
+    "speaker": "correlationflip side"
   },
   {
+    "order": 54,
     "start": 227,
     "end": 233,
     "text": "There's a correlation between having that social identification and feeling safer.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 233,
     "end": 239,
     "text": "So often if we feel like we are in a group with others, we expect them to look after us.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 239,
     "end": 243,
     "text": "The flip side of that is when you don't feel as much part of the group",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 243,
     "end": 246,
     "text": "and you're not having this positive experience.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 246,
     "end": 249,
     "text": "Dr Templeton thinks there is a correlation.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 249,
     "end": 255,
     "text": "That's a connection or a link between being among people who share your values and feeling safe.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 255,
     "end": 260,
     "text": "Football fans cheer their team on by wearing the same colours and singing the same songs,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 260,
     "end": 266,
     "text": "and this works as a kind of glue bonding the crowd together and making them feel safe.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 266,
     "end": 271,
-    "text": "The disadvantage of this, however, is when you don't feel part of the crowd you're with.",
-    "speaker": null
+    "text": "The disadvantage of this, however, is when you don’t feel part of the crowd you’re with.",
+    "speaker": "flip side"
   },
   {
+    "order": 63,
     "start": 271,
     "end": 279,
     "text": "Dr Templeton calls this the flip side, the opposite, less good or less pleasant aspect of something.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 279,
     "end": 284,
     "text": "In today's world, crowds are important because of the feeling of power they give us.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 284,
     "end": 288,
     "text": "It's one thing sitting alone, shouting at the news on television,",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 288,
     "end": 294,
     "text": "but it's something else altogether to march on a political protest with hundreds of demonstrators,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 294,
     "end": 297,
     "text": "feeling that together you could change the world.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 297,
     "end": 300,
     "text": "Maybe that's what everyone was doing in 2019, Sam.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 300,
     "end": 309,
     "text": "Right, in my question I asked you why 200 million people gathered in the Indian City of Alahabad in 2019.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 309,
     "end": 312,
     "text": "I guess it was to vote in an election. Was I right?",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 312,
     "end": 314,
     "text": "You were wrong, I'm afraid Neil.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 72,
     "start": 314,
     "end": 319,
     "text": "In fact, the biggest crowd in history had gathered for a Hindu religious festival,",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 319,
     "end": 326,
     "text": "the Kambh Mehla, which 220 million people attended over 50 days.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 326,
     "end": 330,
     "text": "Okay, let's recap the vocabulary we've learned from this programme on crowds.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 330,
     "end": 335,
     "text": "Large numbers of people who gather together for a shared reason.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 335,
     "end": 339,
     "text": "To regress means return to less advance, more primitive behaviours.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 339,
     "end": 342,
     "text": "Regress is the opposite of progress.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 342,
     "end": 347,
-    "text": "Someone who is gullible is easily tricked, and will believe anything people say.",
-    "speaker": "gullible"
+    "text": "Someone who is gullible is easily tricked and will believe anything people say.",
+    "speaker": null
   },
   {
+    "order": 79,
     "start": 347,
     "end": 355,
-    "text": "The phrase, mob mentality describes the tendency of people in a group to behave in ways that conform with others in the group rather than as individuals.",
-    "speaker": "mob mentality"
+    "text": "The phrase mob mentality describes the tendency of people in a group to behave in ways that conform with others in the group",
+    "speaker": null
   },
   {
+    "order": 80,
     "start": 355,
     "end": 357,
     "text": "rather than as individuals.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 357,
     "end": 361,
     "text": "A correlation is a connection or a link between two things.",
     "speaker": "correlation"
   },
   {
+    "order": 82,
     "start": 361,
     "end": 367,
-    "text": "And finally, the flip side of something means those aspects of it which are less obvious, good, or pleasant. The flip side of this programme is that, once again, our six minutes are up! Bye for now!",
-    "speaker": "flip side"
+    "text": "And finally, the flip side of something means those aspects of it which are less obvious, good or pleasant.",
+    "speaker": null
   },
   {
+    "order": 83,
     "start": 367,
     "end": 372,
     "text": "The flip side of this programme is that once again our six minutes are up.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 372,
     "end": 373,
     "text": "Bye for now.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 373,
     "end": 374,
     "text": "Bye-bye.",

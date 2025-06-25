@@ -1,857 +1,1000 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.32,
     "text": "6M8English.",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.32,
     "end": 11.12,
     "text": "From BBCLearningEnglish.com.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.88,
     "end": 15.28,
     "text": "Hello. Welcome to 6 Minute English, I'm Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 15.28,
     "end": 16.48,
     "text": "And hello, I'm Rob.",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 16.48,
     "end": 18.8,
     "text": "Now Rob, how creative are you?",
     "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 18.8,
     "end": 20.64,
     "text": "Very creative, I think.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 20.64,
     "end": 22.719,
     "text": "Creativity is in my bones.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 22.719,
     "end": 24.64,
     "text": "Look at this wonderful script that I wrote,",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 24.64,
     "end": 26.08,
     "text": "and we're presenting right now.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 26.08,
     "end": 29.039,
-    "text": "You are what we could call a creative.",
-    "speaker": null
+    "text": "You are what we could call 'a creative",
+    "speaker": "'a creative'"
   },
   {
+    "order": 12,
     "start": 29.039,
     "end": 33.359,
     "text": "And now, which means someone with a lot of imagination and ideas.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 33.359,
     "end": 36.64,
     "text": "In our job, we have to create or make content",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 36.64,
     "end": 38.479,
     "text": "that teaches English creatively.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 38.479,
     "end": 41.519,
     "text": "Creativity is becoming more important for everyone.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 41.519,
     "end": 44.879,
     "text": "The World Economic Forum forecasts that by 2020,",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 44.879,
     "end": 49.84,
     "text": "creativity will be in the top three most important skills for future jobs.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 49.84,
     "end": 52.32,
     "text": "This is particularly relevant for younger people",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 52.32,
     "end": 54.48,
     "text": "who will be entering the world of work soon.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 54.48,
     "end": 56.64,
     "text": "And that's what we'll be discussing today.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 56.719,
     "end": 60.56,
     "text": "But before we do, Neil, have you created a question for us to answer?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 60.56,
     "end": 64.159,
-    "text": "Yes, and it's about the very creative artist, Banksy.",
-    "speaker": null
+    "text": "Yes, and it's about the very creative artist Banksy. ",
+    "speaker": "Neil"
   },
   {
+    "order": 23,
     "start": 64.159,
     "end": 66.159,
     "text": "He created a well-known piece of artwork",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 66.159,
     "end": 68,
     "text": "that has been in the news recently.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 68,
     "end": 69.84,
     "text": "But do you know what it's called?",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 69.84,
     "end": 72.319,
-    "text": "a)    Girl with Balloon",
+    "text": "Is it a girl with balloon,",
     "speaker": "Neil"
   },
   {
+    "order": 27,
     "start": 72.319,
     "end": 75.76,
-    "text": "b)    Girl with Red Balloon",
+    "text": "b girl with red balloon or c balloon girl?",
+    "speaker": null
+  },
+  {
+    "order": 28,
+    "start": 75.76,
+    "end": 77.519,
+    "text": "I can see the picture in my head,",
     "speaker": "Neil"
   },
   {
-    "start": 75.76,
-    "end": 77.519,
-    "text": "I can see the picture in my head – so I think it's c) Balloon girl.",
-    "speaker": "Rob"
-  },
-  {
+    "order": 29,
     "start": 77.519,
     "end": 80.48,
     "text": "so I think it's c balloon girl.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 80.48,
     "end": 82.879,
     "text": "OK, we'll find out the answer later.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 82.879,
     "end": 86.079,
     "text": "But now back to our discussion about creativity.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 32,
     "start": 86.079,
     "end": 89.599,
     "text": "Experts say that students need to focus more on creativity",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 89.599,
     "end": 91.28,
     "text": "to help them get a job.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 91.28,
     "end": 93.28,
     "text": "That's perhaps surprising in the UK,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 93.28,
     "end": 95.439,
     "text": "when some of our creative industries,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 95.439,
     "end": 99.28,
     "text": "that's businesses that make music, art and TV, for example,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 99.28,
     "end": 100.48,
     "text": "are world famous.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 100.48,
     "end": 102.319,
     "text": "We're creative people, Rob.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 102.319,
     "end": 107.359,
     "text": "Of course, but there's not such a focus on being creative in education now,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 107.359,
     "end": 110.079,
     "text": "and that might have an effect in the future.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 110.079,
     "end": 111.84,
     "text": "It's something Bernadette Duffy,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 111.84,
     "end": 114.4,
     "text": "an early years consultant, has been discussing",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 114.48,
     "end": 117.359,
     "text": "on BBC Radio 4's Bringing Up Britain program.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 117.359,
     "end": 120.56,
     "text": "What does she say we have been focusing too much on in schools?",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 121.76,
     "end": 124.64,
-    "text": "We focus on the things that are legitimately important,",
-    "speaker": null
+    "text": "We focus on the things that are legitimately important ",
+    "speaker": "legitimatelyredress the balance"
   },
   {
+    "order": 46,
     "start": 124.64,
     "end": 126.88,
     "text": "but we teach them in a way that makes them easy to measure.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 126.88,
     "end": 130.48,
     "text": "I think we need to redress the balance that puts the focus purely on",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 130.48,
     "end": 134.56,
     "text": "gaining the skills and far, far more on actually using them in a creative way,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 134.56,
     "end": 137.2,
     "text": "because that's what's going to make a difference for the future.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 137.2,
     "end": 142.4,
     "text": "So Bernadette feels we teach skills in a way that can be easily measured and tested.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 142.4,
     "end": 145.12,
     "text": "She says we teach these skills legitimately,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 145.12,
     "end": 147.28,
     "text": "which here means fairly and reasonably,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 147.28,
     "end": 151.599,
     "text": "but she feels we don't teach a creative approach to learning skills.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 151.599,
     "end": 153.92,
     "text": "So we mean things like problem solving.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 55,
     "start": 153.92,
     "end": 158.24,
     "text": "I guess even tasks like data inputting and preparing spreadsheets",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 158.24,
     "end": 160.4,
     "text": "can be approached creatively.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 160.4,
     "end": 163.92,
     "text": "In any job, it's sometimes good to think outside the box",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 163.92,
     "end": 165.84,
     "text": "or find new ways of doing things.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 165.84,
     "end": 169.2,
     "text": "Bernadette thinks we should move away from just learning skills",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 169.2,
     "end": 171.68,
     "text": "and start using these skills creatively.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 171.76,
     "end": 174.08,
     "text": "She used the expression redress the balance,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 174.08,
     "end": 177.36,
     "text": "which means change things to make them fairer and more equal.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 177.36,
     "end": 180.4,
     "text": "Well, here at the BBC, we have to be creative.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 180.4,
     "end": 186.48,
-    "text": "In fact, one of our values states that creativity is the life-blood of our organisation.",
-    "speaker": null
+    "text": ". In fact one of our values states that 'creativity is the lifeblood of our organisation",
+    "speaker": "lifeblood"
   },
   {
+    "order": 65,
     "start": 186.48,
     "end": 190.8,
     "text": "Life-blood here means the most important thing to make something a success.",
-    "speaker": null
+    "speaker": "'redress the balance'"
   },
   {
+    "order": 66,
     "start": 190.8,
     "end": 193.36,
     "text": "Rob, I can see creativities in your blood,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 193.36,
     "end": 197.36,
-    "text": "Rob, I can see creativity is in your blood – but on an everyday level how can we all improve our creativity – be more like you?!",
-    "speaker": "Neil"
+    "text": "but on an everyday level, how can we all improve our creativity",
+    "speaker": null
   },
   {
+    "order": 68,
     "start": 197.36,
     "end": 198.56,
     "text": "and be more like you?",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 198.64,
     "end": 200.159,
-    "text": "Well, Neil, I'm no expert,",
-    "speaker": null
+    "text": "Well, Neil, I'm no expert ",
+    "speaker": "Rob"
   },
   {
+    "order": 70,
     "start": 200.159,
     "end": 203.439,
     "text": "but Innovation Manager Nick Skillakorn is.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 203.439,
     "end": 205.599,
     "text": "He's also been speaking to the BBC",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 205.599,
     "end": 208.319,
     "text": "and explaining what we can do to help ourselves.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 208.319,
     "end": 209.28,
     "text": "What does he suggest?",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 209.92,
     "end": 213.599,
     "text": "On a daily basis, everyone should take 15 minutes",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 213.599,
     "end": 215.84,
     "text": "of what I call unfocused time.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 215.84,
     "end": 218.24,
     "text": "Time that they're not looking at any screen,",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 218.24,
     "end": 221.759,
     "text": "time that they can essentially get back into their own head,",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 221.759,
     "end": 225.039,
     "text": "slow down a bit, and start forming these new connections",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 225.039,
     "end": 228,
     "text": "between disparate ideas that result in divergent",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 228,
     "end": 229.199,
     "text": "new original ideas.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 230,
     "end": 234.08,
-    "text": "So we need free time to collect all our different thoughts in our head – what Nick calls disparate ideas to create new and amazing ideas.",
+    "text": "So we need free time to collect all our different thoughts in our head ",
     "speaker": "disparate"
   },
   {
+    "order": 82,
     "start": 234.08,
     "end": 238.24,
     "text": "What Nick calls disparate ideas to create new and amazing ideas.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 238.24,
     "end": 241.84,
     "text": "disparate ideas are very different ideas, all unrelated.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 241.84,
     "end": 244.159,
     "text": "And we need what we might call headspace.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 244.159,
     "end": 247.92,
     "text": "That's when your mind is in a good state, and you can think clearly.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 247.92,
     "end": 250.639,
     "text": "For me, I have headspace when I'm lying in the bar,",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 250.639,
     "end": 252,
     "text": "thought out riding my bike.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 252,
     "end": 253.199,
     "text": "There are no interruptions.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 253.199,
     "end": 255.84,
     "text": "Well, you certainly don't get your ideas sitting at a desk,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 90,
     "start": 256.16,
     "end": 257.439,
     "text": "focusing on one task.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 257.439,
     "end": 260.16,
     "text": "We all need some downtime to get creative.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 260.72,
     "end": 263.84,
     "text": "But children going into school now will grow up to do a job",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 263.84,
     "end": 265.36,
     "text": "that doesn't yet exist,",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 265.36,
     "end": 268.639,
     "text": "and faced with the challenges of AI, automation,",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 268.639,
     "end": 270.959,
     "text": "green issues, and an aging population,",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 270.959,
     "end": 273.84,
     "text": "creativity and imagination will be vital.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 273.84,
     "end": 275.519,
-    "text": "Right, well, let's get back to talking about the creativity of Banksy now.",
-    "speaker": "Rob"
+    "text": "Right, well, let's get back to talking about",
+    "speaker": null
   },
   {
+    "order": 98,
     "start": 275.519,
     "end": 277.92,
     "text": "the creativity of Banksy now.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 277.92,
     "end": 278.72,
     "text": "Ah, yes.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 278.72,
     "end": 282,
-    "text": "Ah yes, because earlier I asked you which one of his well-known pieces of artwork has been in the news recently? Is it…",
-    "speaker": "Neil"
+    "text": "Because earlier, I asked you which one of his well-known pieces",
+    "speaker": null
   },
   {
+    "order": 101,
     "start": 282,
     "end": 284.639,
     "text": "of artwork has been in the news recently?",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 284.719,
     "end": 289.039,
     "text": "Is it A, girl with balloon, B, girl with red balloon,",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 289.039,
     "end": 290.719,
-    "text": "c)    Balloon Girl",
-    "speaker": "Neil"
+    "text": "or C, balloon girl?",
+    "speaker": null
   },
   {
+    "order": 104,
     "start": 290.719,
     "end": 293.199,
     "text": "Hmm, and I said C, balloon girl.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 293.199,
     "end": 295.279,
-    "text": "And I said c) Balloon Girl. I know it was a girl and a balloon.",
-    "speaker": "Rob"
+    "text": "I know it was a girl and a balloon.",
+    "speaker": "Neil"
   },
   {
+    "order": 106,
     "start": 295.279,
     "end": 297.439,
     "text": "Hmm, not quite right, Rob.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 297.439,
     "end": 300.479,
     "text": "The artwork is titled Girl with Balloon.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 108,
     "start": 300.479,
     "end": 302.399,
     "text": "This was recently auctioned in London,",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 302.399,
     "end": 305.36,
     "text": "but amazingly shredded in its frame",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 305.36,
     "end": 307.599,
     "text": "as someone's winning bid was accepted.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 307.599,
     "end": 310.8,
     "text": "Wow, that's a very creative way to destroy a picture.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 311.36,
     "end": 313.199,
     "text": "I'll do the same with this script soon,",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 313.199,
     "end": 315.039,
     "text": "but not before we have recapped",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 315.039,
     "end": 316.879,
     "text": "some of today's vocabulary.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 316.879,
     "end": 318.639,
     "text": "Starting with a creative,",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 318.639,
     "end": 321.759,
     "text": "that's a person whose job is to use a lot of imagination",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 321.759,
     "end": 323.439,
     "text": "and come up with new ideas,",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 323.439,
     "end": 326.399,
     "text": "such as someone who works in the media or advertising.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 326.399,
     "end": 328.399,
     "text": "Then we mentioned legitimately,",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 328.399,
     "end": 331.519,
-    "text": "Then we mentioned legitimately – which describes doing something fairly and reasonably.",
-    "speaker": "legitimately"
+    "text": "which describes doing something fairly and reasonably.",
+    "speaker": null
   },
   {
+    "order": 121,
     "start": 331.519,
     "end": 333.36,
     "text": "Next, we heard the expression,",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 333.36,
     "end": 334.8,
     "text": "redress the balance.",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 334.8,
     "end": 337.439,
     "text": "This means to make things fairer and more equal.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 337.439,
     "end": 339.36,
     "text": "We also talked about creativity",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 339.36,
     "end": 341.839,
     "text": "being the lifeblood of the BBC.",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 341.839,
     "end": 344.159,
     "text": "Lifeblood here means the most important thing",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 344.159,
     "end": 345.759,
     "text": "to make something a success.",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 345.759,
     "end": 348.56,
     "text": "And I know creativity is running through your veins, Rob.",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 348.56,
     "end": 349.759,
     "text": "No, thanks, Neil.",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 349.759,
     "end": 351.439,
     "text": "We also heard the word disparate,",
-    "speaker": null
+    "speaker": "disparateheadspace"
   },
   {
+    "order": 131,
     "start": 351.439,
     "end": 353.679,
     "text": "meaning very different and unrelated.",
     "speaker": null
   },
   {
+    "order": 132,
     "start": 353.679,
     "end": 355.519,
     "text": "And we talked about headspace,",
     "speaker": null
   },
   {
+    "order": 133,
     "start": 355.519,
     "end": 357.519,
     "text": "which is when your mind is in a good state",
     "speaker": null
   },
   {
+    "order": 134,
     "start": 357.519,
     "end": 358.799,
     "text": "and you can think clearly.",
     "speaker": null
   },
   {
+    "order": 135,
     "start": 358.799,
     "end": 361.12,
     "text": "Before we head off to find some headspace,",
     "speaker": null
   },
   {
+    "order": 136,
     "start": 361.12,
     "end": 362.879,
     "text": "don't forget to visit our website",
     "speaker": null
   },
   {
+    "order": 137,
     "start": 362.879,
     "end": 364.799,
     "text": "at BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 138,
     "start": 364.799,
     "end": 367.12,
     "text": "for more great learning English content.",
     "speaker": null
   },
   {
+    "order": 139,
     "start": 367.12,
     "end": 368.719,
     "text": "That's all we have time for now.",
     "speaker": null
   },
   {
+    "order": 140,
     "start": 368.719,
     "end": 370.399,
     "text": "Do join us again, though. Goodbye.",
     "speaker": null
   },
   {
+    "order": 141,
     "start": 370.399,
     "end": 371.599,
     "text": "Bye-bye.",
     "speaker": null
   },
   {
+    "order": 142,
     "start": 371.839,
     "end": 374.879,
     "text": "6th grade English from the BBC.",

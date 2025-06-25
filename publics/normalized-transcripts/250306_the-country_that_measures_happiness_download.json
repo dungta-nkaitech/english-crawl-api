@@ -1,368 +1,429 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 6,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 6,
     "end": 10.32,
     "text": "Hello, this is 6 Minute English from BBCLearningEnglish. I'm Neil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 10.32,
     "end": 16.879,
-    "text": "And I’m Pippa. In this programme we’re talking about happiness.",
+    "text": "And I’m Pippa. In this programme we’re talking about happiness. So, what makes you happy, Neil",
     "speaker": "Pippa"
   },
   {
+    "order": 3,
     "start": 16.879,
     "end": 24.8,
     "text": "Oh, it makes me happy when I'm with a group of old friends and we're having a good laugh.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 24.8,
     "end": 26.24,
     "text": "How about you, Pippa?",
+    "speaker": "Neil"
+  },
+  {
+    "order": 5,
+    "start": 26.239,
+    "end": 32.96,
+    "text": "Cats make me very happy, especially if I see a cat on the street that I don't know and it lets me",
     "speaker": null
   },
   {
-    "start": 26.239,
-    "end": 32.96,
-    "text": "Cats make me very happy. Especially if I see a cat on the street that I don’t know, and it lets me give it a little stroke. That always makes me happy.",
-    "speaker": "Pippa"
-  },
-  {
+    "order": 6,
     "start": 32.96,
     "end": 35.759,
     "text": "give it a little stroke that always makes me happy.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 35.759,
     "end": 37.519,
     "text": "I’m not surprised. That sounds great.",
     "speaker": "Neil"
   },
   {
+    "order": 8,
     "start": 37.519,
     "end": 43.2,
     "text": "So, happiness means different things to different people, but what's for sure is that most people",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 43.2,
     "end": 50.159,
     "text": "would like to be happy. And the small Himalayan Kingdom of Bhutan has taken this to a new level",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 50.159,
     "end": 54.959,
     "text": "with the idea of gross national happiness or GNH.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 54.96,
     "end": 60.56,
-    "text": "We'll be hearing more about gross national happiness and learning some useful new vocabulary soon.",
-    "speaker": null
+    "text": "We’ll be hearing more about Gross National Happiness and learning some useful new vocabulary soon,",
+    "speaker": "Neil"
   },
   {
+    "order": 12,
     "start": 60.56,
     "end": 66,
     "text": "But first Pippa, I have a question for you. Of course, it's not just the people of Bhutan who",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 66,
     "end": 72.079,
     "text": "want to be happy. In fact, the United Nations has even announced an international day of happiness.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 72.079,
     "end": 81.84,
     "text": "But when is that? Is international happiness day A the 20th of March B the 20th of June or C the 20th",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 82.4,
     "end": 88.079,
     "text": "of November? I'm going to say the 20th of June because it would be sunny in the UK.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 88.079,
     "end": 91.439,
     "text": "Okay, let's find out if you're right at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 92.159,
     "end": 98.719,
     "text": "Now, briefly, gross national happiness means preserving Bhutan's natural environment and culture",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 98.719,
     "end": 104.159,
     "text": "through sustainable and eco-friendly development. Bhutan's government sees these goals",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 104.159,
     "end": 107.52,
     "text": "as more important than growing the economy at any cost.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 108.159,
     "end": 114.159,
     "text": "For many years Bhutan was closed to the outside world. The first foreign tourists arrived",
-    "speaker": null
+    "speaker": "modernise"
   },
   {
+    "order": 21,
     "start": 114.159,
     "end": 122.159,
     "text": "in 1974 and television was only introduced in 1999. The King of Bhutan wanted to modernise the",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 122.159,
     "end": 127.84,
     "text": "country and give it the benefits of modern technology but without damaging traditional culture.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 127.84,
     "end": 133.68,
     "text": "So he invited outside experts to develop the idea of gross national happiness.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 134.24,
     "end": 140.879,
     "text": "One expert was Dr. Harvinto speaking here to Charmaine Cosia, presenter of BBC World Service",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 140.879,
     "end": 149.36,
     "text": "programme The Inquiry. So his idea was how could we modernise and open our country without losing",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 149.36,
     "end": 156.56,
     "text": "its culture, its environment and its very strong social fabric because Bhutan was one of the",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 156.56,
     "end": 161.92,
     "text": "only countries in Asia who has never colonised therefore its culture is very intact and vibrant,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 161.919,
     "end": 168.639,
     "text": "mainly Buddhist culture. And so the idea was that gross national happiness should be the focus",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 168.639,
     "end": 175.119,
     "text": "on all governmental decisions and policies. So the well-being and happiness of citizens",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 175.119,
     "end": 181.119,
     "text": "took them to stage Bhutan has a strong social fabric meaning there are good",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 181.119,
     "end": 187.519,
     "text": "relationships within communities and these hold society together. Unlike other Asian countries,",
+    "speaker": "social fabric"
+  },
+  {
+    "order": 32,
+    "start": 187.52,
+    "end": 192.48,
+    "text": "Bhutan was never colonised so its Buddhist culture and traditions are intact,",
     "speaker": null
   },
   {
-    "start": 187.52,
-    "end": 192.48,
-    "text": "Unlike other Asian countries, Bhutan was never colonised, so its Buddhist culture and traditions are intact – they’re complete and unspoiled.",
-    "speaker": "intact"
-  },
-  {
+    "order": 33,
     "start": 192.48,
     "end": 197.84,
     "text": "they're complete and unspoiled. As a result the happiness of Bhutan's people",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 197.84,
     "end": 204,
     "text": "took centre stage it became the most important thing. Bhutan's emphasis on happiness has been",
-    "speaker": null
+    "speaker": "took centre stage"
   },
   {
+    "order": 35,
     "start": 204,
     "end": 210.56,
     "text": "admired around the world but there have been problems too. One is the migration of Bhutanese workers",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 210.56,
     "end": 216.32,
     "text": "to India and other countries in search of better paid jobs and opportunities, something known as",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 216.319,
     "end": 223.599,
     "text": "the brain drain. So in 2023 the King of Bhutan announced a multi-million dollar project called",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 223.599,
     "end": 229.84,
     "text": "the Mindfulness City, a new Himalayan city built on spiritual and environmental principles",
-    "speaker": null
+    "speaker": "Pippa"
   },
   {
+    "order": 39,
     "start": 229.84,
     "end": 236,
     "text": "all powered by renewable energy. Originally from Bhutan, Dr. Laoang Uguel is the",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 236,
     "end": 241.599,
     "text": "project's director and spoke with Charme Enkosia for the BBC World Services, the Inquiry.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 242.56,
     "end": 249.599,
-    "text": "The project is also about reversing Bhutan's brain drain.",
+    "text": "The project is also about reversing Bhutan's brain drain. The intention is to have locals",
     "speaker": "brain drain"
   },
   {
+    "order": 42,
     "start": 249.599,
     "end": 256.56,
     "text": "run this whole Mindfulness City so in that sense it's also to attract the migrants that have left",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 256.56,
     "end": 264.079,
     "text": "and in the process of having worked abroad gain the extra skills come back to the Mindfulness City",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 264.079,
     "end": 271.519,
     "text": "and work. As well as being a futuristic eco city, the Mindfulness City hopes to stop Bhutan's",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 271.68,
     "end": 278.159,
     "text": "brain drain by attracting workers back home to Bhutan. These local workers can then use the extra",
-    "speaker": null
+    "speaker": "brain drain upskillingupskilling"
   },
   {
+    "order": 46,
     "start": 278.159,
     "end": 282.639,
     "text": "skills that they've learned abroad through upskilling and upskilling is the process where",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 282.639,
     "end": 287.599,
     "text": "worker skills are improved through training. The idea of gross national happiness might sound",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 287.599,
     "end": 292.959,
-    "text": "The idea of Gross National Happiness might sound unusual, but it’s interesting to see Bhutan balancing economic growth with the happiness of its people.",
-    "speaker": "Neil"
+    "text": "unusual but it's interesting to see Bhutan balancing economic growth with the happiness of its",
+    "speaker": null
   },
   {
+    "order": 49,
     "start": 292.959,
     "end": 299.68,
     "text": "people. Yes that's true and it reminds me of your question now. Yes I asked you what the date",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 299.759,
     "end": 305.84,
     "text": "of International Happiness Day is. I said it was the 20th of June in the summer in the UK.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 306.4,
     "end": 312.4,
     "text": "Well maybe it's better for people in the Southern Hemisphere because it's actually the 20th of",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 312.4,
     "end": 318.639,
     "text": "March. Ah nice. And if you got that answer right why not try our interactive quiz which you'll",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 318.639,
     "end": 325.199,
     "text": "find on our website bbclearningenglish.com. Okay let's recap the vocabulary we've learned",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 325.599,
     "end": 330.879,
     "text": "starting with modernise to make something more modern for example through introducing technology.",
-    "speaker": null
+    "speaker": "Pippa"
   },
   {
+    "order": 55,
     "start": 331.519,
     "end": 336.879,
     "text": "Our country's social fabric means the relationships which connect a community together.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 336.879,
     "end": 343.439,
-    "text": "The adjective intact means complete and undamaged.",
-    "speaker": "intact"
-  },
-  {
-    "start": 343.439,
-    "end": 349.439,
-    "text": "more important than anything else. A brain drain happens when large numbers of educated and skilled",
+    "text": "The adjective intact means complete and undamaged. If something takes center stage it becomes",
     "speaker": null
   },
   {
-    "start": 349.439,
-    "end": 354.879,
-    "text": "A brain drain happens when large numbers of educated and skilled people leave their own country to live and work in another country where they can earn more money.",
-    "speaker": "brain drain"
+    "order": 57,
+    "start": 343.439,
+    "end": 349.439,
+    "text": "more important than anything else. A brain drain happens when large numbers of educated and skilled",
+    "speaker": "takes centre stage"
   },
   {
+    "order": 58,
+    "start": 349.439,
+    "end": 354.879,
+    "text": "people leave their own country to live and work in another country where they can earn more money.",
+    "speaker": null
+  },
+  {
+    "order": 59,
     "start": 354.959,
     "end": 360.48,
     "text": "And finally up-skilling means improving worker skills through training and experience.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 360.48,
     "end": 364,
     "text": "Once again our six minutes are up goodbye for now. Goodbye.",
-    "speaker": null
+    "speaker": "upskilling"
   }
 ]

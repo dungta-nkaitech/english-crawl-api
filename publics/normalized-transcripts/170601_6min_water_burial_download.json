@@ -1,851 +1,993 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 8.24,
     "text": "6-Mute English.",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.88,
     "text": "From BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 10.88,
     "end": 12.96,
-    "text": "Hello and welcome to 6 Minute English,",
-    "speaker": null
+    "text": "Hello and welcome to 6 Minute English ",
+    "speaker": "Dan"
   },
   {
+    "order": 5,
     "start": 12.96,
     "end": 14.72,
     "text": "the show that brings you an interesting topic,",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 14.72,
     "end": 18.48,
     "text": "authentic listening practice, and six new items of vocabulary.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 18.48,
     "end": 19.12,
     "text": "I'm Dan.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 19.12,
     "end": 20.08,
     "text": "And I'm Neil.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 20.08,
     "end": 23.359,
-    "text": "And I'm Neil. In this episode we'll be discussing water burial.",
-    "speaker": "Neil"
+    "text": "In this episode, we'll be discussing water burial.",
+    "speaker": null
   },
   {
+    "order": 10,
     "start": 23.359,
     "end": 26.48,
     "text": "Yes. It’s a bit of a bleak subject, I’m afraid.",
     "speaker": "bleak"
   },
   {
+    "order": 11,
     "start": 26.48,
     "end": 29.679,
     "text": "Something which is bleak is unpleasant or without hope.",
-    "speaker": "bleak"
+    "speaker": null
   },
   {
+    "order": 12,
     "start": 29.759,
     "end": 31.519,
     "text": "And you know what's really bleak?",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 31.519,
     "end": 33.28,
     "text": "It's this week's question.",
-    "speaker": null
+    "speaker": "bleak"
   },
   {
+    "order": 14,
     "start": 33.28,
     "end": 36.96,
-    "text": "Of course. I asked: On average, how many people die each hour?",
-    "speaker": "Dan"
+    "text": "On average, how many people die each hour?",
+    "speaker": "Neil"
   },
   {
+    "order": 15,
     "start": 36.96,
     "end": 42.88,
     "text": "Is it a, 6,000, b, 60,000, or c, 600,000?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 42.88,
     "end": 47.28,
     "text": "Mmm, I am going to guess b, 60,000.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 47.28,
     "end": 50.719,
     "text": "And we'll find out if you're right or not at the end of the show.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 50.719,
     "end": 55.439,
     "text": "So the actual figure is 55 million people each year.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 55.519,
     "end": 60.239,
     "text": "Now, religious or not, there is a practical issue to be dealt with,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 20,
     "start": 60.239,
     "end": 61.439,
     "text": "which is Neil?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 61.439,
     "end": 63.119,
     "text": "What to do with the body?",
     "speaker": "Neil"
   },
   {
+    "order": 22,
     "start": 63.119,
     "end": 64.48,
     "text": "Exactly.",
+    "speaker": "grave"
+  },
+  {
+    "order": 23,
+    "start": 64.48,
+    "end": 66.719,
+    "text": "So what are the options for the average person?",
     "speaker": null
   },
   {
-    "start": 64.48,
-    "end": 66.719,
-    "text": "Exactly! So what are the options for the average person?",
-    "speaker": "Dan"
-  },
-  {
+    "order": 24,
     "start": 66.719,
     "end": 69.599,
-    "text": "Well, there’s burial, or there’s cremation.",
+    "text": "Well, there’s burial, or there’s cremation",
     "speaker": "Neil"
   },
   {
+    "order": 25,
     "start": 69.599,
     "end": 71.759,
     "text": "Beryl is when a body is put into the earth",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 71.759,
     "end": 74.56,
     "text": "and cremation is when a body is burnt,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 74.56,
     "end": 76.959,
     "text": "but there are big problems with both.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 76.959,
     "end": 80,
     "text": "For example, what two things do most people need",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 80,
     "end": 81.599,
     "text": "in order to be buried?",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 81.599,
     "end": 84.879,
     "text": "Well, a coffin, or box to put the body in,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 84.879,
     "end": 88.719,
-    "text": "Well, a coffin – or a box to put the body in and a grave. That’s the place the coffin and body go into.",
-    "speaker": "grave"
+    "text": "and a grave, that's the place the coffin and body go into.",
+    "speaker": null
   },
   {
+    "order": 32,
     "start": 88.719,
     "end": 92.079,
     "text": "Exactly, but coffins are most often made of wood.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 92.079,
     "end": 96.479,
     "text": "In the US, they use four million acres of forest every year",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 96.479,
     "end": 98.079,
     "text": "just to make coffins.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 98.079,
     "end": 101.84,
     "text": "And as for graves, cemetery is a beginning to get overcrowded.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 101.84,
     "end": 103.039,
     "text": "There's no space left.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 103.039,
     "end": 106.159,
     "text": "After all, dying is not exactly a new thing.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 106.159,
     "end": 108,
     "text": "It's been happening for years.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 108,
     "end": 111.84,
-    "text": "Aha, but with cremation, there's no space needed.",
-    "speaker": null
+    "text": "Aha, but with cremation, there’s no space needed.",
+    "speaker": "cremation,"
   },
   {
+    "order": 40,
     "start": 111.84,
     "end": 113.919,
     "text": "And they burn gas to dispose of the body.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 114,
     "end": 115.28,
     "text": "That's got to be better.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 115.28,
     "end": 117.519,
     "text": "You'd think so, but no.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 117.519,
     "end": 122.079,
     "text": "Ah, let's Sahaz Zand, reported for the BBC, explain why.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 122.079,
     "end": 124.32,
     "text": "During the process, a number of toxins",
-    "speaker": null
+    "speaker": "INSERT"
   },
   {
+    "order": 45,
     "start": 124.32,
     "end": 126.48,
     "text": "can be emitted into our environment,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 126.48,
     "end": 129.199,
     "text": "including mercury from dental fillings.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 129.199,
     "end": 132.08,
     "text": "Cremecian also has a carbon cost.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 132.08,
     "end": 134.24,
     "text": "With the energy used to process one body,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 134.24,
     "end": 138.319,
     "text": "you could actually hit a home for the best part of a week in winter.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 138.319,
     "end": 142.48,
     "text": "So cremation can release toxins or poisons into the environment,",
-    "speaker": null
+    "speaker": "toxins"
   },
   {
+    "order": 51,
     "start": 142.479,
     "end": 144.799,
     "text": "and it comes with a very high energy cost,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 144.799,
     "end": 146.639,
     "text": "enough to heat home for almost a week.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 147.439,
     "end": 150.639,
     "text": "Okay, I can see a smug look in your eye, Dan.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 150.639,
     "end": 152.319,
     "text": "What do you have up your sleeve?",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 152.319,
     "end": 153.519,
-    "text": "It’s the latest thing. Water burial.",
-    "speaker": "Dan"
+    "text": "It's the latest thing.",
+    "speaker": null
   },
   {
+    "order": 56,
     "start": 154.239,
     "end": 155.679,
     "text": "Water burial?",
     "speaker": "Neil"
   },
   {
+    "order": 57,
     "start": 155.679,
     "end": 156.479,
     "text": "Water burial.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 157.199,
     "end": 160.319,
     "text": "This is where the body is put into an alkalized solution",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 160.319,
     "end": 163.759,
     "text": "and heated to 150 degrees centigrade.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 163.759,
     "end": 167.12,
     "text": "This breaks down the tissue and leaves only the skeleton.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 167.12,
     "end": 168.399,
-    "text": "Interesting.",
-    "speaker": "Neil"
+    "text": "Hmm, interesting.",
+    "speaker": null
   },
   {
+    "order": 62,
     "start": 168.399,
     "end": 171.519,
     "text": "Yes, and it has huge advantages over cremation.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 171.52,
     "end": 172.159,
-    "text": "Such as?",
-    "speaker": "Neil"
+    "text": " Such as",
+    "speaker": "Dan"
   },
   {
+    "order": 64,
     "start": 172.159,
     "end": 175.2,
     "text": "Well, for one thing, it takes only four hours to finish.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 175.2,
     "end": 179.84,
-    "text": "Well for one thing, it takes only 4 hours to finish. It follows the same process as when a body decomposes, but quicker.",
+    "text": "It follows the same process as when a body decomposes, but quicker.",
     "speaker": "decomposes"
   },
   {
+    "order": 66,
     "start": 179.84,
     "end": 183.52,
     "text": "When something decomposes, it breaks down into case.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 183.52,
     "end": 184.48,
     "text": "Okay, anything else?",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 184.48,
     "end": 187.12,
     "text": "It uses much less energy.",
-    "speaker": null
-  },
-  {
-    "start": 187.12,
-    "end": 192.24,
-    "text": "It uses much less energy. Each body is weighed and then the computer calculates exactly how much of everything is needed.",
     "speaker": "Dan"
   },
   {
+    "order": 69,
+    "start": 187.12,
+    "end": 192.24,
+    "text": "Each body is weighed, and then the computer calculates exactly how much of everything is needed.",
+    "speaker": null
+  },
+  {
+    "order": 70,
     "start": 192.24,
     "end": 193.92,
     "text": "Okay, it's more efficient, too.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 194.64,
     "end": 195.92,
     "text": "Why are you smiling?",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 195.92,
     "end": 197.36,
-    "text": "This is the best part.",
-    "speaker": null
+    "text": "This is the best part!",
+    "speaker": "Dan"
   },
   {
+    "order": 73,
     "start": 197.36,
     "end": 198.96,
     "text": "Listen to Sahaz again.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 199.599,
     "end": 202.4,
     "text": "All that's left at this point is the brittle skeleton",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 202.4,
     "end": 205.6,
     "text": "and any artificial implants that they may have had in their body",
-    "speaker": null
+    "speaker": "brittleimplants"
   },
   {
+    "order": 76,
     "start": 206.24,
     "end": 208.64,
     "text": "and they come out almost as good as new.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 209.439,
     "end": 212.4,
     "text": "There is even talk of sending their implants to the developing world",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 212.4,
     "end": 215.6,
     "text": "where they can benefit populations that don't have access to them,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 215.6,
     "end": 217.2,
     "text": "because they're very expensive.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 217.2,
     "end": 221.6,
     "text": "So, after the process, you have a brittle or easy-to-break skeleton",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 221.6,
     "end": 224.4,
     "text": "and any implants that they had inside them.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 224.96,
     "end": 227.6,
     "text": "Implants are artificial additions to the body,",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 83,
     "start": 227.599,
     "end": 231.519,
     "text": "such as plastic hips or an artificial heart, and they're clean.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 231.519,
     "end": 234.4,
     "text": "They can be recycled and given to someone who needs them.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 234.4,
     "end": 235.359,
     "text": "Isn't that cool?",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 235.68,
     "end": 237.599,
     "text": "So, what happens to the skeleton?",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 87,
     "start": 237.599,
     "end": 241.519,
     "text": "It gets ground up into dust and put in a jar to give to the family.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 241.519,
     "end": 243.919,
     "text": "Exactly the same as a traditional cremation.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 243.919,
     "end": 244.799,
     "text": "I love it.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 244.799,
     "end": 246,
     "text": "Sign me up.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 246,
     "end": 247.359,
     "text": "Would you like to give it a shot?",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 247.359,
     "end": 250.319,
     "text": "Hmm, well, I can't answer that question.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 250.959,
     "end": 253.439,
-    "text": "Well, I can’t answer that question. But can I have the answer to our quiz question?",
-    "speaker": "Neil"
+    "text": "But can I have the answer to our quiz question?",
+    "speaker": null
   },
   {
+    "order": 94,
     "start": 253.439,
     "end": 254.4,
     "text": "Of course.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 254.48,
     "end": 258.56,
     "text": "I asked, on average, how many people die each hour?",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 258.56,
     "end": 262.879,
     "text": "A6000, B6000 or C600000.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 262.879,
     "end": 264.48,
     "text": "I said B6000.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 264.48,
     "end": 267.12,
-    "text": "And you, my friend, are dead in the water. Unfortunately, it’s a) six thousand",
-    "speaker": "Dan"
+    "text": " And you, my friend, are dead in the water",
+    "speaker": "Neil"
   },
   {
+    "order": 99,
     "start": 267.12,
     "end": 269.92,
     "text": "Unfortunately, it's A6000.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 269.92,
     "end": 271.84,
     "text": "Okay, well, that's probably better, isn't it?",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 271.84,
     "end": 272.48,
     "text": "Yes.",
-    "speaker": "Dan"
+    "speaker": "Neil"
   },
   {
+    "order": 102,
     "start": 272.48,
     "end": 274.319,
     "text": "Should we have a look at the vocabulary then?",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 274.319,
     "end": 275.36,
-    "text": "Certainly.",
-    "speaker": null
+    "text": " Certainly",
+    "speaker": "Neil"
   },
   {
+    "order": 104,
     "start": 275.36,
     "end": 277.36,
     "text": "Our first word was bleak,",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 277.36,
     "end": 280.72,
     "text": "meaning something unhappy, unpleasant, or without hope.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 280.72,
     "end": 283.6,
     "text": "What types of things do we typically describe as bleak, Neil?",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 284.08,
     "end": 287.12,
     "text": "Oh, the weather in the UK can be bleak.",
-    "speaker": null
+    "speaker": "grave"
   },
   {
+    "order": 108,
     "start": 287.12,
     "end": 290.24,
     "text": "It's very, very dark in the winter.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 290.24,
     "end": 291.68,
     "text": "Next, we had grave.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 291.68,
     "end": 295.04,
     "text": "A grave is a hole in the earth where a body is placed.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 295.04,
     "end": 296.72,
     "text": "However, there is another use.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 296.72,
     "end": 300.24,
     "text": "Yes, we can talk about a situation being grave.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 300.24,
     "end": 303.6,
     "text": "The outbreak of war is a very grave situation for many people.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 304.64,
     "end": 306.48,
     "text": "Then we had toxin.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 306.48,
     "end": 309.36,
     "text": "A toxin is a substance which is poisonous.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 309.36,
     "end": 311.76,
     "text": "Have you ever been poisoned by a toxin, Neil?",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 312,
     "end": 312.959,
-    "text": "Well, I suppose so.",
-    "speaker": null
+    "text": "Well, I suppose so,",
+    "speaker": "toxinsdecomposedecomposes"
   },
   {
+    "order": 118,
     "start": 312.959,
     "end": 316.8,
     "text": "Yes, I've had food poisoning and that's caused by toxin.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 317.599,
     "end": 319.439,
     "text": "After that was decompose.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 320.56,
     "end": 323.439,
     "text": "When something decomposes, it breaks down into case,",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 323.439,
     "end": 327.599,
     "text": "much like when fruit goes bad and turns black and then becomes liquid.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 327.599,
     "end": 327.92,
     "text": "There.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 123,
     "start": 328.959,
     "end": 330,
     "text": "Then we had brittle.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 330.639,
     "end": 334.639,
-    "text": "Then we had brittle. Something which is brittle is easily broken. For example, Neil?",
-    "speaker": "brittlebrittle"
-  },
-  {
-    "start": 334.639,
-    "end": 337.36,
-    "text": "Glass, crockery tiles, and some plastic.",
+    "text": "Something which is brittle is easily broken, for example, Neil.",
     "speaker": null
   },
   {
+    "order": 125,
+    "start": 334.639,
+    "end": 337.36,
+    "text": "Glass, crockery, tiles and some plastic.",
+    "speaker": "implantimplant"
+  },
+  {
+    "order": 126,
     "start": 338.16,
     "end": 338.96,
     "text": "Crisps.",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 339.84,
     "end": 341.36,
     "text": "Finally, we had implant.",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 341.36,
     "end": 345.52,
     "text": "An implant is something artificial which has been put into the body,",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 345.52,
     "end": 348.48,
     "text": "such as an artificial heart or a replacement hip.",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 348.48,
     "end": 350.319,
     "text": "Would you like to have any implants then?",
     "speaker": null
   },
   {
+    "order": 131,
     "start": 351.759,
     "end": 353.759,
     "text": "I'd quite like robotic legs.",
     "speaker": null
   },
   {
+    "order": 132,
     "start": 353.759,
     "end": 355.84,
-    "text": "I’d quite like robotic legs. Then I could run faster than anyone!",
-    "speaker": "Dan"
+    "text": "Then I could run faster than anyone.",
+    "speaker": null
   },
   {
+    "order": 133,
     "start": 355.84,
     "end": 357.84,
     "text": "Well, we've run out of time.",
     "speaker": null
   },
   {
+    "order": 134,
     "start": 357.84,
     "end": 359.759,
     "text": "So that's the end of today's 6 Minute English.",
     "speaker": null
   },
   {
+    "order": 135,
     "start": 359.759,
     "end": 361.199,
     "text": "Please join us again soon.",
     "speaker": null
   },
   {
+    "order": 136,
     "start": 361.199,
     "end": 362.8,
     "text": "And we're on social media too,",
     "speaker": null
   },
   {
+    "order": 137,
     "start": 362.8,
     "end": 364.96,
     "text": "Facebook, Twitter, Instagram and YouTube.",
     "speaker": null
   },
   {
+    "order": 138,
     "start": 364.96,
     "end": 365.68,
     "text": "See you there.",
     "speaker": null
   },
   {
+    "order": 139,
     "start": 365.68,
     "end": 366.24,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 140,
     "start": 366.24,
     "end": 366.72,
-    "text": "Bye!",
-    "speaker": "Both"
+    "text": "Bye-bye.",
+    "speaker": null
   },
   {
+    "order": 141,
     "start": 367.36,
     "end": 370.56,
     "text": "6 Minute English from the BBC.",

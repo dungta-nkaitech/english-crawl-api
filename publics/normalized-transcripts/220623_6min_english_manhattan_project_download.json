@@ -1,341 +1,398 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.44,
     "text": "This is a download from BBC Learning English. To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 15.359,
     "end": 19.44,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I'm Sam.",
     "speaker": "Sam"
   },
   {
+    "order": 2,
     "start": 19.44,
     "end": 27.519,
     "text": "And hello, I'm Rob. On August the 6th, 1945, the US Aircraft Enola Gay dropped an atomic bomb",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 27.519,
     "end": 34.32,
     "text": "on the city of Hiroshima, instantly killing 70,000 people. When Japan refused to surrender,",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 4,
     "start": 34.32,
     "end": 40.48,
     "text": "a second bomb was dropped on Nagasaki three days later. Many believe the bombings quickened",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 40.48,
     "end": 46.56,
     "text": "the end of the Second World War, but it came as a terrible human cost, which some have called a",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 46.56,
     "end": 52.159,
     "text": "crime against humanity. The invention of the atomic bomb, which resulted from the cooperation",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 52.159,
     "end": 58.239,
     "text": "between the US military and some of the world's leading scientific minds was known as the Manhattan",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 8,
     "start": 58.239,
     "end": 63.199,
     "text": "Project. In this programme, we'll take a look into the science and the politics of the Manhattan",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 63.199,
     "end": 69.519,
     "text": "Project, and as usual, we'll learn some new vocabulary as well. Even before World War 2,",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 69.519,
     "end": 76.079,
     "text": "scientists had known about the potential energy inside uranium, the heaviest metal in the periodic",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 76.079,
     "end": 82.239,
     "text": "table, a diagram which groups the chemical elements into rows and columns according to their",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 82.239,
     "end": 89.359,
     "text": "atomic number and symbol. The challenge for science was learning how to unleash this potential energy",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 89.359,
     "end": 94.719,
-    "text": "We'll hear more soon, but first I have a question for you, Rob.",
-    "speaker": "the periodic table"
+    "text": "in a controlled way. We'll hear more soon, but first I have a question for you, Rob.",
+    "speaker": null
   },
   {
+    "order": 14,
     "start": 95.359,
     "end": 101.599,
     "text": "I mentioned that uranium is the heaviest element in the periodic table, but which is the lightest?",
     "speaker": "the periodic table"
   },
   {
+    "order": 15,
     "start": 102.239,
     "end": 114,
     "text": "Is it a hydrogen, b carbon or c oxygen? Well oxygen is a gas, so it must be pretty light, so I'll say c",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 114,
     "end": 121.119,
     "text": "oxygen. Okay, Rob will find out the answer later in the programme. First, let's find out a bit more",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 121.119,
     "end": 127.519,
     "text": "about the science of uranium from Frank Close, an Oxford professor of theoretical physics",
-    "speaker": null
+    "speaker": "the periodic table"
   },
   {
+    "order": 18,
     "start": 127.599,
     "end": 136.079,
     "text": "in conversation with BBC Radio 4 programme in our time. Well in 1938, the discovery was made",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 136.639,
     "end": 143.599,
     "text": "that if you use uranium, the atoms of uranium, the other heaviest that occur naturally in the",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 143.599,
     "end": 149.599,
     "text": "periodic table, they're very fragile, and the discovery was that if you just almost touch them",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 149.599,
     "end": 156.479,
     "text": "with a single neutron, that's a nuclear particle, the uranium was like a drop of water, it would just",
-    "speaker": null
+    "speaker": "the periodic table"
   },
   {
+    "order": 22,
     "start": 156.479,
     "end": 162.879,
     "text": "break apart, split into, and this action of splitting the uranium has become known as fission.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 165.12,
     "end": 172,
     "text": "Atoms of uranium are very fragile, easily broken or damaged. In 1938, it was discovered",
+    "speaker": "the periodic tablefragilesplitsplittingfission"
+  },
+  {
+    "order": 24,
+    "start": 172,
+    "end": 178.879,
+    "text": "that when nuclear particles called neutrons were fired at uranium atoms, they would split or break",
     "speaker": null
   },
   {
-    "start": 172,
-    "end": 178.879,
-    "text": "Atoms of uranium are very fragile - easily broken or damaged. In 1938, it was discovered that when nuclear particles called neutrons were fired at uranium atoms, they would split, or break in two.",
-    "speaker": "fragilesplit"
-  },
-  {
+    "order": 25,
     "start": 178.879,
     "end": 186.319,
     "text": "into. This process of splitting uranium or fission did two things. First, it released huge",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 186.319,
     "end": 191.599,
-    "text": "This process of splitting uranium, or fission, did two things. First, it released huge amounts of energy, a billion times more than would be released in a normal chemical reaction.",
+    "text": "amounts of energy a billion times more than would be released in a normal chemical reaction.",
+    "speaker": "fragilesplit"
+  },
+  {
+    "order": 27,
+    "start": 191.599,
+    "end": 198.079,
+    "text": "Secondly, the act of splitting atoms released two more neutrons. These new neutrons were freed",
     "speaker": "splittingfission"
   },
   {
-    "start": 191.599,
-    "end": 198.079,
-    "text": "Secondly, the act of splitting atoms released two more neutrons. These new neutrons were freed",
-    "speaker": null
-  },
-  {
+    "order": 28,
     "start": 198.079,
     "end": 203.519,
     "text": "to hit more uranium, creating four neutrons which in turn were freed in created eight,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 203.519,
     "end": 208.24,
     "text": "then sixteen and so on, making what's known as a chemical chain reaction.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 208.879,
     "end": 214.879,
-    "text": "In everyday English, a chain reaction is a series of events where each event becomes the cause of the next.",
-    "speaker": "chain reaction"
+    "text": "In everyday English, a chain reaction is a series of events where each event becomes the",
+    "speaker": "splittingchain reaction."
   },
   {
+    "order": 31,
     "start": 214.879,
     "end": 221.359,
     "text": "cause of the next. The politics behind the development of the atomic bomb was no less complex",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 221.359,
     "end": 227.519,
-    "text": "than the science. In the same year that Hitler invaded Poland, two Jewish scientists exiled from",
-    "speaker": null
+    "text": "than the science. In the same year that Hitler invaded Poland, two Jewish scientists exiled from",
+    "speaker": "chain reaction"
   },
   {
+    "order": 33,
     "start": 227.519,
     "end": 234.8,
     "text": "Nazi Germany, Rudolf PRLs and Otto Frisch, first realized uranium's power as a weapon of war.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 235.439,
     "end": 241.199,
     "text": "Listen as Professor Frank Kloss takes up the story for BBC Radio 4 program in our time.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 242,
     "end": 247.679,
     "text": "Now, what happened at that moment was that having had the idea and the shock of the discovery,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 247.679,
     "end": 253.679,
     "text": "you immediately then think maybe scientists in Germany have already had the same idea and come",
-    "speaker": null
+    "speaker": "chain reaction"
   },
   {
+    "order": 37,
     "start": 253.679,
     "end": 259.68,
     "text": "to the same conclusions, could Hitler already be building such a weapon. In the Memorandum,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 259.68,
     "end": 264.159,
     "text": "which they wrote and reached the British government, they said it's conceivable that Germany is in",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 264.159,
     "end": 269.68,
     "text": "fact developing this weapon and the only defence against it is to have one yourself.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 270.56,
     "end": 276.319,
     "text": "After their discovery, PRLs and Frisch were worried that the Nazis had already found out",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 276.319,
     "end": 283.68,
-    "text": "After their discovery, Peierls and Frish were worried that the Nazis had already found out how to weaponize uranium. It was conceivable, or believable, that Germany was building an atomic bomb.",
-    "speaker": "conceivable"
+    "text": "how to weaponize uranium. It was conceivable or believable that Germany was building an atomic bomb.",
+    "speaker": "memorandumconceivable"
   },
   {
+    "order": 42,
     "start": 284.56,
     "end": 290.399,
     "text": "They shared this terrifying thought in their famous Memorandum, a short written report on a specific",
-    "speaker": null
+    "speaker": "conceivable"
   },
   {
+    "order": 43,
     "start": 290.399,
     "end": 296.72,
     "text": "topic. As soon as US President Franklin Roosevelt read it, he started the Manhattan project and",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 296.72,
     "end": 302.72,
     "text": "the race to build an atomic bomb began. In a strange twist of history, it turned out that Hitler",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 302.72,
     "end": 309.92,
-    "text": "hadn't been building atomic bombs at all, and Hiroshima, the Japanese city destroyed in 1945,",
-    "speaker": null
+    "text": " hadn't been building atomic bombs at all. And Hiroshima, the Japanese city destroyed in 1945",
+    "speaker": "memorandum"
   },
   {
+    "order": 46,
     "start": 309.92,
     "end": 317.28,
     "text": "was rebuilt and stands as a symbol of peace today. Okay, let's end on a lighter note, Sam, with your",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 317.28,
     "end": 324.24,
     "text": "question. Yes, I asked which is the lightest element in the periodic table? It's A, hydrogen,",
+    "speaker": "memorandum"
+  },
+  {
+    "order": 48,
+    "start": 324.24,
+    "end": 330.48,
+    "text": "the lightest of all gases which come at the very start of the periodic table, having the atomic",
     "speaker": null
   },
   {
-    "start": 324.24,
-    "end": 330.48,
-    "text": "Yes, I asked which is the lightest element in the periodic table. It's A, hydrogen, the lightest of all gases which come at the very start of the periodic table, having the atomic number 1.",
-    "speaker": "the periodic tablethe periodic table"
-  },
-  {
+    "order": 49,
     "start": 330.48,
     "end": 336.879,
     "text": "number one. Ah, if only I'd remembered what our chemistry teacher taught us about the periodic table.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 336.879,
     "end": 341.6,
     "text": "That's a chart grouping all the chemical elements according to their atomic number.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 341.6,
     "end": 347.68,
     "text": "Let's recap the rest of the vocabulary too. If something is fragile it's easily broken.",
-    "speaker": "fragile"
+    "speaker": "the periodic table"
   },
   {
+    "order": 52,
     "start": 347.68,
     "end": 354,
-    "text": "To split something means to break it into two parts.",
-    "speaker": "split"
+    "text": "To split something means to break it into two parts. A chain reaction happens when one event",
+    "speaker": null
   },
   {
+    "order": 53,
     "start": 354,
     "end": 360.079,
-    "text": "A memorandum is a short, written report on a specific topic.",
-    "speaker": "memorandum"
+    "text": "becomes the cause of the next. A memorandum is a short, written report on a specific topic.",
+    "speaker": null
   },
   {
+    "order": 54,
     "start": 360.079,
     "end": 366.319,
     "text": "And finally, the adjective conceivable means believable. And that brings us to the end of our",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 366.319,
     "end": 371.839,
     "text": "programme. We hope you'll join us again soon for more interesting issues and useful vocabulary.",
-    "speaker": null
+    "speaker": "memorandum"
   },
   {
+    "order": 56,
     "start": 371.839,
     "end": 373.199,
     "text": "Bye for now. Goodbye.",

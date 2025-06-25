@@ -9,6 +9,26 @@
     {
       "word": "dig something up",
       "definition": "excavate; remove something from the ground"
+    },
+    {
+      "word": "intermittent",
+      "definition": "irregular; not continuous"
+    },
+    {
+      "word": "blackouts",
+      "definition": "periods of time without electricity or energy"
+    },
+    {
+      "word": "in real time",
+      "definition": "no delay; live"
+    },
+    {
+      "word": "machine learning",
+      "definition": "way computers learn and adapt based on collated data"
+    },
+    {
+      "word": "simulate",
+      "definition": "produce a computer model"
     }
   ],
   "quiz": null

@@ -1,413 +1,482 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7.679,
     "text": "6-Mete English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7.679,
     "end": 11.439,
     "text": "Hello, this is 6-Minute English from BBC Learning English. I'm Neil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 11.439,
     "end": 12.56,
-    "text": "And I’m Beth.",
-    "speaker": "Beth"
+    "text": "And I'm Beth.",
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 12.56,
     "end": 16.24,
-    "text": "Being in nature has benefits for our physical and mental health.",
-    "speaker": null
+    "text": "Being in nature has benefits for our physical and mental health,",
+    "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 16.24,
     "end": 20.08,
     "text": "So wouldn't it be good if instead of giving you a bottle of pills,",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 20.08,
     "end": 23.039,
     "text": "your doctor recommended spending time in nature?",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 23.039,
     "end": 28.08,
     "text": "That's an interesting idea, Neil. Being outdoors always makes me feel better.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 28.079,
     "end": 30.799,
     "text": "And in Japan, there's even a word for it,",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 30.799,
     "end": 35.359,
     "text": "Shinrin Yaku translated into English as forest bathing.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 35.359,
     "end": 41.599,
     "text": "Forest bathing is a type of relaxation that involves being calm and quiet amongst the trees",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 41.599,
     "end": 46.399,
     "text": "and using all your senses to observe nature around you while breathing deeply.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 46.399,
     "end": 48.64,
-    "text": "It sounds wonderful, Beth.",
-    "speaker": null
+    "text": "It sounds wonderful, Beth!",
+    "speaker": "Neil"
   },
   {
+    "order": 12,
     "start": 48.64,
     "end": 53.2,
     "text": "In this programme, we'll be hearing how one of the world's oldest building materials,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 53.2,
     "end": 57.759,
     "text": "wood, is being used in new ways to build a greener future.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 57.839,
     "end": 61.92,
     "text": "And as usual, we'll be learning some useful new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 61.92,
     "end": 65.679,
     "text": "Great, but first I have a question for you, Neil.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 65.679,
     "end": 68.64,
     "text": "Britain used to be covered in trees.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 68.64,
     "end": 74,
     "text": "In Roman times, it's estimated that as much as 40% of the land was forest.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 74.719,
     "end": 79.2,
     "text": "Trees provided wood, the building material needed for many things,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 79.2,
     "end": 81.92,
     "text": "including buildings, furniture and chips.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 82.64,
     "end": 87.039,
     "text": "So how many trees do you think were needed to build the HMS",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 87.12,
     "end": 92.48,
     "text": "victory, Nelson's famous ship at the Battle of Trafalgar in 1805?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 93.2,
     "end": 101.36,
     "text": "Was it A, 4000 trees, B, 5000 trees, or C, 6000 trees?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 101.36,
     "end": 105.52,
-    "text": "Well, I have no idea. But I’ll guess it was 5,000 trees.",
-    "speaker": "Neil"
+    "text": "Well, I have no idea, but I'll guess it was 5000 trees.",
+    "speaker": "Beth"
   },
   {
+    "order": 24,
     "start": 105.52,
     "end": 109.36,
     "text": "Okay, Neil, I'll reveal the correct answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 110,
     "end": 114.16,
     "text": "Throughout history, buildings in Britain have been made of timber,",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 26,
     "start": 114.239,
     "end": 118,
     "text": "trees that are grown so their wood can be used as a building material.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 118.56,
     "end": 123.439,
     "text": "But in modern times, this has mostly been done by man-made materials,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 123.439,
     "end": 125.28,
     "text": "brick, concrete and steel.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 126.239,
     "end": 130.879,
     "text": "One of those arguing for a return to wood is architects Michael Rammage,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 130.879,
     "end": 134.56,
     "text": "talking here to BBC Radio 4 programme Rare Earth.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 135.84,
     "end": 142.319,
     "text": "There is some compelling evidence to show that children in schools made of wood",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 142.319,
     "end": 146.879,
     "text": "learn better, they have greater concentration, lower stress, lower heartbeats,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 147.759,
     "end": 155.68,
     "text": "and there's compelling evidence to show that patients in hospitals recover better in both rooms",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 155.68,
     "end": 161.359,
     "text": "made of wood or other natural materials, and also in rooms that have views of nature out the window.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 162.24,
     "end": 166.719,
     "text": "Michael believes there is compelling evidence for the health benefits of wood.",
-    "speaker": null
+    "speaker": "compellingcompelling,"
   },
   {
+    "order": 36,
     "start": 166.719,
     "end": 170.4,
     "text": "If something is compelling, it's so convincing that you believe it.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 171.12,
     "end": 175.52,
     "text": "As evidence, he gives examples that wooden schools help children learn.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 176.159,
     "end": 182.319,
     "text": "But there's another compelling reason to build with wood. The carbon which wood captures helps",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 182.319,
     "end": 188.08,
     "text": "combat climate change. It's why many governments around the world want to replace the carbon",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 188.08,
     "end": 193.28,
     "text": "intensive production of concrete and steel with biobased materials like wood.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 193.759,
     "end": 199.12,
     "text": "Here's architect Michael Rammage again describing the possibilities of wooden buildings to",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 199.12,
     "end": 201.36,
     "text": "BBC Radio 4's Rare Earth.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 43,
     "start": 202.4,
     "end": 209.12,
     "text": "We look at the possibilities of building with wood and other materials we can grow, bamboo,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 209.12,
     "end": 218.879,
     "text": "hemp, flax, and how we can use them intelligently as replacements for steel and concrete in the world",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 218.879,
     "end": 224.48,
     "text": "that we create around us. We've looked at skyscrapers, we've looked at housing, we've looked at",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 224.479,
     "end": 229.439,
     "text": "schools and there are a whole range of buildings that we can build if we use wood well.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 230.799,
     "end": 237.599,
-    "text": "Michael builds with natural materials which can be sustainably grown, including bamboo and hemp,",
-    "speaker": null
+    "text": "Michael builds with natural materials which can be sustainably grown, including bamboo and hemp ",
+    "speaker": "hempintelligently"
   },
   {
+    "order": 48,
     "start": 237.599,
     "end": 242.239,
     "text": "a family of plants which are used to make many products such as rope and cloth.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 242.879,
     "end": 248.719,
     "text": "He thinks these natural biobased materials will work if they are used intelligently",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 248.719,
     "end": 250.959,
     "text": "in a clever, intelligent way.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 250.96,
     "end": 256.8,
     "text": "A good example of this is plywood, the first new material in construction since the invention of",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 256.8,
     "end": 262.96,
     "text": "reinforced concrete a hundred years ago. Tests prove that plywood made from layers of pine,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 262.96,
     "end": 267.28,
     "text": "which are laid crossways and then glued together, is as strong as steel.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 268,
     "end": 273.92,
     "text": "It's already been used to build skyscrapers, the very tall modern buildings you often see in cities.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 274.24,
     "end": 281.92,
     "text": "An 85 metre high skyscraper in Norway and an even taller one at 87 metres the world's tallest",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 281.92,
     "end": 289.439,
     "text": "in Milwaukee, USA. Strong, relaxing, and eco-friendly. It seems that building with wood is good for",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 289.439,
     "end": 295.68,
     "text": "the future as well as the past, which reminds me of my question, Neil. Yes, you asked me how many",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 58,
     "start": 295.68,
     "end": 302.72,
     "text": "trees we used as timber for Nelson's famous warship HMS Victory and I guessed it was 5,000.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 302.8,
     "end": 310.96,
-    "text": "Which was close, but the wrong answer I'm afraid. It was even more, around 6,000 trees,",
-    "speaker": null
+    "text": "Which was close, but the wrong answer, I’m afraid. It was even more, around 6,000 trees",
+    "speaker": "forest bathing"
   },
   {
+    "order": 60,
     "start": 310.96,
     "end": 315.68,
     "text": "most of which were oak, with some timbers over half a metre thick.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 316.32,
     "end": 322.56,
     "text": "Okay, let's recap the vocabulary we've learnt in this programme starting with forest bathing,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 322.56,
     "end": 328.32,
     "text": "being in nature and immersing your senses in the experience for its physical and mental health",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 328.399,
     "end": 335.519,
     "text": "benefits. Timber is trees grown so the wood can be used for building. If an argument or evidence is",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 335.519,
     "end": 342.639,
-    "text": "compelling, it's strong, convincing, and believable. The adverb intelligently means done in a way",
-    "speaker": null
+    "text": "compelling, it’s strong, convincing and believable. The adverb intelligently means done in a way ",
+    "speaker": "compelling,"
   },
   {
+    "order": 65,
     "start": 342.639,
     "end": 348.319,
     "text": "showing intelligence and skill. Hemp is a family of plants, some of which are used to make a",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 348.319,
     "end": 355.199,
-    "text": "rope and strong cloth. And finally, a skyscraper is a very tall modern building, usually in a city.",
-    "speaker": null
+    "text": " rope and strong cloth. And finally, a skyscraper is a very tall modern building, usually in a city",
+    "speaker": "Hemp"
   },
   {
+    "order": 67,
     "start": 355.199,
     "end": 359.599,
     "text": "Once again, our six minutes are up, but remember to join us again next time for more",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 359.599,
     "end": 364.959,
     "text": "trending topics and useful vocabulary here at 6 Minute English. Goodbye for now. Bye!",

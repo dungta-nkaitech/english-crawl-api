@@ -1,422 +1,492 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7,
     "text": "This is a download from BBC Learning English. To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7,
     "end": 14,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 14,
     "end": 18,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Sam.",
     "speaker": "Sam"
   },
   {
+    "order": 3,
     "start": 18,
     "end": 19,
-    "text": "And I’m Rob.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 19,
-    "end": 24,
-    "text": "In this programme, we'll be hearing about an issue experienced by many child refugees",
+    "text": "And I'm Rob.",
     "speaker": null
   },
   {
+    "order": 4,
+    "start": 19,
+    "end": 24,
+    "text": "In this programme, we’ll be hearing about an issue experienced by many child refugees",
+    "speaker": "mother tongue"
+  },
+  {
+    "order": 5,
     "start": 24,
     "end": 26,
     "text": "who are forced to leave their home.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 26,
     "end": 32,
     "text": "The loss of their first native language or mother tongue as they start a new life",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 32,
     "end": 35,
     "text": "learning to speak a new language in a new country.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 35,
     "end": 40,
     "text": "Julie Tadevi and her family left their home in what was then Czechoslovakia",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 40,
     "end": 44,
     "text": "and is now the Czech Republic during the Cold War when Julie was a small child.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 44,
     "end": 51,
     "text": "After several years travelling through Europe, they arrived in Canada as political refugees with no English.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 51,
     "end": 57,
     "text": "We'll be hearing about Julie's childhood when learning English started to replace a native language Czech.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 57,
     "end": 61,
     "text": "And as usual, we'll be learning some new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 61,
     "end": 64,
     "text": "But first, I have a question, Rob.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 14,
     "start": 64,
     "end": 71,
     "text": "Julie's family left their home as political refugees, but every year millions of people are also displaced",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 71,
     "end": 75,
     "text": "because of war, persecution or the damaging effects of climate change.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 76,
     "end": 83,
     "text": "So, according to the United Nations, how many people around the world are currently living as displaced refugees?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 83,
     "end": 90,
     "text": "Is it A, 3 million, B, 53 million or C, 103 million?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 90,
     "end": 93,
-    "text": "I’ll guess it’s 103 million.",
-    "speaker": "Rob"
+    "text": "I'll guess it's 103 million.",
+    "speaker": "Sam"
   },
   {
+    "order": 19,
     "start": 93,
     "end": 96,
     "text": "Hmm, I'll reveal the answer later in the programme, Rob.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 96,
     "end": 101,
     "text": "Like many child refugees, Julie spoke only her mother tongue,",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 21,
     "start": 101,
     "end": 108,
     "text": "Czech at home with her brothers, sisters and parents, who in the beginning spoke no English at all.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 108,
     "end": 113,
     "text": "Here she describes to Michael Rosen, presenter of BBC Radio 4 programme, Word of Mouth,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 113,
     "end": 117,
     "text": "going to an English-speaking school for the first time.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 117,
     "end": 123,
-    "text": "…so, you went into school not, to start off, with really understanding what was going on, is that right?",
-    "speaker": "Michael Rosen"
-  },
-  {
-    "start": 123,
-    "end": 128,
-    "text": "That's right. I just kind of interpreted things as best I could.",
+    "text": "So you went into school not to start off with really understanding what was going on, is that right?",
     "speaker": null
   },
   {
+    "order": 25,
+    "start": 123,
+    "end": 128,
+    "text": "That's right. I just kind of interpreted things as best I could,",
+    "speaker": "dunked intohad faithsort itself out,"
+  },
+  {
+    "order": 26,
     "start": 129,
     "end": 133,
     "text": "And my memory of that is that that was not particularly difficult or traumatic.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 133,
     "end": 139,
     "text": "I think by then I'd had the experience of being dunked into various unfamiliar languages numerous times,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 139,
     "end": 145,
     "text": "and I had faith that it would sort itself out and that everything would be just fine. And it was, was of course.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 145,
     "end": 153,
     "text": "At school, Julie was dunked into unfamiliar situations, a bit like a biscuit being dunked into a cup of tea.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 153,
     "end": 160,
     "text": "Often, dunk means to dip something into a liquid, but here the meaning is that Julie was suddenly dropped into a new situation for a while,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 160,
     "end": 164,
     "text": "then taken out has a family travelled through Europe.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 164,
     "end": 172,
-    "text": "By the time she arrived in Canada, Julie had been exposed to several other languages, including Italian and French.",
-    "speaker": null
+    "text": "By the time she arrived in Canada, Julie had been exposed to several other languages including Italian and French. ",
+    "speaker": "had faithsort itself out"
   },
   {
+    "order": 33,
     "start": 172,
     "end": 178,
     "text": "She had experienced many difficulties, but never given up hope of finding a new home.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 178,
     "end": 185,
     "text": "Julie had faith, in other words, trust or confidence that everything would sort itself out,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 185,
     "end": 190,
     "text": "a phrase meaning to stop being a problem automatically without having to do anything.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 190,
     "end": 196,
     "text": "Over the following years, Julie faced many challenges, going to school and making friends,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 196,
     "end": 200,
     "text": "helping her parents as they struggled in the English-speaking world,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 200,
     "end": 204,
     "text": "and grieving for her native language which she slowly forgot.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 204,
     "end": 209,
     "text": "And with it, the chance to speak Czech with her dad before he passed away.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 209,
     "end": 215,
     "text": "Julie shares her thoughts on losing and refinding her mother tongue in her book Memory Speaks.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 215,
     "end": 221,
     "text": "Through it all, Julie kept alive her belief that by speaking two, three or even more languages,",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 42,
     "start": 221,
     "end": 226,
     "text": "we don't forget who we are, but instead gain a sense of tolerance,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 226,
     "end": 231,
     "text": "an idea which she talked about with BBC Radio 4's Word of Mouse.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 231,
     "end": 237,
     "text": "The idea that you can be both of Mexican ancestry, for example, and speak Spanish,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 237,
     "end": 244,
     "text": "and be a full-fledged American, or in my case, come from a country like the Czech Republic,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 244,
     "end": 249,
     "text": "continue to speak my language, and be Canadian and very proudly,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 249,
     "end": 253,
     "text": "so and very invested in Canada as a society.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 253,
     "end": 259,
     "text": "There's a number of studies that suggest that the very presence of people with blended ideas in a society",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 259,
     "end": 263,
     "text": "seem to lead to greater acceptance between groups.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 263,
     "end": 268,
     "text": "It creates the sense that this is not an either or that we can coexist.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 268,
     "end": 274,
     "text": "Perhaps precisely because we have evidence that these cultures can coexist within a single person.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 274,
     "end": 279,
-    "text": "For Julie, there's no contradiction in being a Canadian refugee speaking Czech,",
-    "speaker": null
+    "text": "For Julie, there’s no contradiction in being a Canadian refugee speaking Czech,",
+    "speaker": "full-fledgedeither-or"
   },
   {
+    "order": 53,
     "start": 279,
     "end": 285,
     "text": "or a Spanish-speaking immigrant who's a full-fledged or fully developed American.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 285,
     "end": 293,
     "text": "These are not either or situations, cases where there is only a choice between two options with no third possibility.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 293,
     "end": 300,
     "text": "Instead, a peaceful coexistence can develop as shown in the life of Julie Sadevi herself.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 300,
     "end": 303,
     "text": "Right, it's time to reveal the answer to my question.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 303,
     "end": 308,
-    "text": "Right. it’s time to reveal the answer to my question: how many people around the world, like Julie, are living as displaced refugees?",
-    "speaker": "Sam"
+    "text": "How many people around the world, like Julie, are living as displaced refugees?",
+    "speaker": null
   },
   {
+    "order": 58,
     "start": 308,
     "end": 312,
     "text": "Well, I said it was 103 million. Was I right?",
     "speaker": "Rob"
   },
   {
+    "order": 59,
     "start": 312,
     "end": 319,
     "text": "And that was the correct answer, Rob, a number which according to the UN is only going to grow.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 319,
     "end": 325,
     "text": "Now it's time to recap the vocabulary we've learned from this programme about losing our mother tongue.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 325,
     "end": 330,
     "text": "The native language we were brought up speaking by our parents.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 330,
     "end": 335,
     "text": "If something is dunked, it's dipped into a liquid, like a biscuit and a cup of tea.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 335,
     "end": 341,
     "text": "But if someone is dunked into a situation, they're suddenly placed into a new and unfamiliar setting.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 341,
     "end": 344,
     "text": "Before being removed again, after a short time.",
-    "speaker": null
+    "speaker": "dunkeddunked into"
   },
   {
+    "order": 65,
     "start": 344,
     "end": 349,
     "text": "If you have faith in something or someone, you have trust or confidence in them.",
-    "speaker": "have faith"
+    "speaker": null
   },
   {
+    "order": 66,
     "start": 349,
     "end": 356,
-    "text": "The phrasal verb to sort itself out, means to stop being a problem without having to do anything.",
+    "text": "The phrasal verb to sort itself out, means to stop being a problem without having to do anything",
     "speaker": "sort itself out"
   },
   {
+    "order": 67,
     "start": 356,
     "end": 359,
     "text": "The adjective full-fledged means completely developed.",
-    "speaker": "full-fledged"
+    "speaker": null
   },
   {
+    "order": 68,
     "start": 359,
     "end": 368,
     "text": "And finally, an either or is a situation where only a choice between two options is possible with no third alternative.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 368,
     "end": 372,
-    "text": "And that brings us to the end of this programme. Bye for now!",
-    "speaker": "Sam"
+    "text": "And that brings us to the end of this programme. Bye for now.",
+    "speaker": "either-or"
   }
 ]

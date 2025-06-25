@@ -1,725 +1,846 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.279,
     "text": "6M8English.",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.279,
     "end": 11.2,
     "text": "From BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.32,
     "end": 17.44,
     "text": "Hello, this is 6M8English from BBC Learning English. I'm Sam.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 17.44,
     "end": 18.559,
     "text": "And I'm Rob.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 6,
     "start": 18.559,
     "end": 20.879,
     "text": "Now, all over the world, people love to eat,",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 20.879,
     "end": 24.12,
     "text": "and most of us have favourite food we like to cook.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 24.12,
     "end": 26.519,
     "text": "Often this involves a recipe.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 26.519,
     "end": 29.48,
     "text": "That's written down instructions explaining how you combine",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 29.48,
     "end": 32,
     "text": "the different items of food you are going to cook,",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 32,
     "end": 34.159,
     "text": "the ingredients, into a meal.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 34.159,
     "end": 37.92,
     "text": "My favourite recipe is for bangers and mash,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 37.92,
     "end": 42.399,
     "text": "a cheap and popular British meal made of sausage and mash potato.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 42.399,
     "end": 43.159,
     "text": "Mmm.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 43.159,
     "end": 45.439,
     "text": "Cooking is a big part of our lives,",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 16,
     "start": 45.439,
     "end": 48,
     "text": "something pleasurable we do with others,",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 48,
     "end": 52.28,
     "text": "and a way of discovering the flavours and tastes of other cultures.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 52.28,
     "end": 55.2,
     "text": "In this programme, we'll be doing just that,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 55.2,
     "end": 58.6,
     "text": "discovering the food culture of Ghana in West Africa,",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 58.6,
     "end": 63.64,
     "text": "and hearing about one woman's quest to preserve her country's traditional recipes.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 63.64,
     "end": 67.48,
     "text": "And as usual, we'll be learning some related vocabulary along the way.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 67.48,
     "end": 70.879,
     "text": "But before we start, I have a question for you, Rob.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 23,
     "start": 70.879,
     "end": 76.079,
     "text": "Your favourite recipe is the classic British dish, bangers and mash.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 76.079,
     "end": 80.52,
     "text": "It's easy to understand why mash potato is called mash,",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 80.52,
     "end": 84.359,
     "text": "but how did sausages come to be known as bangers?",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 84.359,
     "end": 85.84,
     "text": "Is it A?",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 85.84,
     "end": 89.2,
-    "text": "a) because ‘bang’ is an old-fashioned word for pork?",
-    "speaker": "Sam"
+    "text": "Because bang is an old-fashioned word for pork,",
+    "speaker": null
   },
   {
+    "order": 28,
     "start": 89.2,
     "end": 93.799,
-    "text": "b) because sausage-making machines used to make a banging noise? or",
+    "text": "b) because sausage-making machines used to make a banging noise?",
     "speaker": "Sam"
   },
   {
+    "order": 29,
     "start": 93.799,
     "end": 98.68,
-    "text": "c) because sausages would explode in the frying pan, going ‘bang’?",
-    "speaker": "Sam"
+    "text": "or C, because sausages would explode in the frying pan, going bang.",
+    "speaker": null
   },
   {
+    "order": 30,
     "start": 98.68,
     "end": 102.92,
-    "text": "I think it’s a) – ‘bang’ is an old-fashioned word for pork.",
+    "text": "I think it's A, bang is an old-fashioned word for pork.",
     "speaker": "Rob"
   },
   {
+    "order": 31,
     "start": 102.92,
     "end": 106.359,
     "text": "Okay, Rob, I'll reveal the correct answer later.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 106.359,
     "end": 110.04,
     "text": "Food writer Abna Afejima was born in Ghana,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 110.04,
     "end": 112.56,
     "text": "but moved to Canada as a child.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 112.56,
     "end": 116.4,
     "text": "After school, she would go for burgers and fries with friends,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 116.4,
     "end": 120.84,
     "text": "before heading home to eat traditional Ghanaian food with her family.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 120.84,
     "end": 123.68,
     "text": "Food cooked with ingredients like dawa-dawa,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 123.68,
     "end": 127.68,
     "text": "a spice made from roasting locus beans, and fufu.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 127.68,
     "end": 132.159,
     "text": "Her mother's cooking gave Abna a love of traditional recipes.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 132.159,
     "end": 135.879,
     "text": "So much so that five years ago, she moved back to Ghana",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 40,
     "start": 135.879,
     "end": 138.64,
     "text": "to rediscover her country's food culture.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 138.64,
     "end": 141.24,
     "text": "But when she arrived, Abna was surprised",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 141.24,
     "end": 143.4,
     "text": "how much things had changed.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 143.4,
     "end": 147.96,
     "text": "Many traditional spices and ingredients were no longer being used,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 147.96,
     "end": 151.28,
     "text": "and it was more common to see tomato ketchup",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 151.28,
     "end": 153.68,
     "text": "than Ghanaian Chipotle sauce.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 153.68,
     "end": 157.92,
     "text": "Here Abna describes how her grandparents used to cook in the old days",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 157.92,
     "end": 161.879,
     "text": "to BBC World Service program, the food chain.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 161.879,
     "end": 164,
     "text": "So they would actually cook the lamb,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 164,
     "end": 165.76,
     "text": "you would cook the planting,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 165.76,
     "end": 170.12,
     "text": "and they would use the mortar and the pestle to actually pound it.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 170.159,
     "end": 173.08,
     "text": "Now in Ghana, you could just buy potato flour",
-    "speaker": null
+    "speaker": "mortar and pestlepound"
   },
   {
+    "order": 52,
     "start": 173.08,
     "end": 175.52,
     "text": "and just make fufu on the stove.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 175.52,
     "end": 177.039,
     "text": "But we're losing that, right?",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 177.039,
     "end": 180.8,
     "text": "That communal experience of cutting the lamb",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 180.8,
     "end": 182.84,
     "text": "and cutting the plantain and cooking it.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 183.879,
     "end": 187.48,
     "text": "Abna's grandparents made fufu the traditional way,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 187.48,
     "end": 191.719,
     "text": "using ingredients like yam and green bananas called plantains.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 191.719,
     "end": 194.56,
     "text": "These were placed in a mortar and pestle.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 194.56,
     "end": 197.56,
     "text": "Cooking equipment made of a bowl, the mortar,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 197.56,
     "end": 199.719,
     "text": "and a heavy stone, the pestle,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 199.719,
     "end": 202.4,
     "text": "which is used to grind ingredients together.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 62,
     "start": 202.4,
     "end": 205.639,
-    "text": "The traditional method was to pound fufu",
-    "speaker": null
-  },
-  {
-    "start": 205.639,
-    "end": 208.52,
-    "text": "To pound something means to crush it into a paste or powder.",
+    "text": "The traditional method was to pound fufu",
     "speaker": "pound"
   },
   {
+    "order": 63,
+    "start": 205.639,
+    "end": 208.52,
+    "text": "to crush it into a paste or powder.",
+    "speaker": "pound"
+  },
+  {
+    "order": 64,
     "start": 208.52,
     "end": 211.639,
     "text": "But nowadays, many people buy ready-made flour",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 211.639,
     "end": 214.96,
     "text": "and cook fufu the modern way on a stove.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 214.96,
     "end": 218.159,
     "text": "For Abna, this represented an unwelcome departure",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 218.159,
     "end": 220.52,
     "text": "from ancestral ways of cooking,",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 220.52,
     "end": 223.36,
     "text": "and she decided that something had to be done.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 223.36,
     "end": 224.919,
     "text": "Here's Ruth Alexander,",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 224.919,
     "end": 226.84,
     "text": "presenter of BBC World Services,",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 226.84,
     "end": 230.2,
     "text": "the food chain to continue the story.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 230.2,
     "end": 232.879,
     "text": "Abna was so taken aback by the loss of know-how",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 232.879,
     "end": 235.56,
     "text": "about Ghana's traditional recipes and ingredients",
-    "speaker": null
+    "speaker": "taken abackknow-how"
   },
   {
+    "order": 74,
     "start": 235.56,
     "end": 239.8,
     "text": "in the towns and cities that she decided she had to do something",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 239.8,
     "end": 244,
     "text": "and set off to rural areas on a fact-finding tool.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 244,
     "end": 246.28,
     "text": "We traveled across the Upper East,",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 246.28,
     "end": 249.48,
     "text": "reaching in Ghana just to document indigenous dishes",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 249.48,
     "end": 251.96,
     "text": "and to ask, what are people eating now",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 251.96,
     "end": 255.64,
     "text": "and learning that a lot of dishes are lost?",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 255.679,
     "end": 260.439,
     "text": "Abna was taken aback by the changes in Ghana's food culture.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 260.439,
     "end": 263.24,
     "text": "She felt shocked and surprised.",
-    "speaker": null
+    "speaker": "taken abackshocked and surprised. know-how"
   },
   {
+    "order": 82,
     "start": 263.24,
     "end": 266.68,
     "text": "Traditionally, recipes were passed down orally",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 266.68,
     "end": 270.479,
     "text": "from mother to daughter instead of being written down,",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 270.479,
     "end": 272.68,
     "text": "so a generation of young Ghanaians",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 272.68,
     "end": 275.199,
     "text": "were losing cooking know-how,",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 275.199,
     "end": 278.719,
     "text": "the practical skills and knowledge of how to do something.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 278.719,
     "end": 282.68,
     "text": "Abna traveled around Ghana to document traditional recipes",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 282.68,
     "end": 284.159,
     "text": "to record information about them",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 284.2,
     "end": 286.72,
     "text": "by writing them down or taking photos",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 286.72,
     "end": 288.68,
     "text": "before they were lost forever.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 288.68,
     "end": 291.28,
     "text": "If a story has inspired you to find out",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 291.28,
     "end": 294,
-    "text": "about your own country's traditional recipes",
-    "speaker": null
+    "text": "about your own country’s traditional recipes",
+    "speaker": "Sam"
   },
   {
+    "order": 93,
     "start": 294,
     "end": 296.64,
     "text": "or discover more about Ghanaian cooking,",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 296.64,
     "end": 299.08,
     "text": "you can read more on Abna's website,",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 299.08,
     "end": 301.12,
     "text": "living the ancestral way.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 301.12,
     "end": 304.92,
     "text": "And after all this talk of traditional Ghanaian food,",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 304.92,
     "end": 309.04,
     "text": "it's time for your question about a traditional British recipe,",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 309.04,
     "end": 312.48,
     "text": "bangers a mash or sausage and mashed potato.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 312.52,
     "end": 315.08,
     "text": "Now you asked me about the name Banger,",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 315.08,
     "end": 318.64,
     "text": "and I guess that bang was an old fashioned word for pork.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 318.64,
     "end": 320.04,
     "text": "So was I right?",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 320.04,
     "end": 322.52,
     "text": "You were wrong, I'm afraid, Rob.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 322.52,
     "end": 325.68,
     "text": "The name Banger started in World War I",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 325.68,
     "end": 329.48,
     "text": "when meat shortages resulted in sausages being made",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 329.48,
     "end": 334.48,
     "text": "using water that caused them to explode going bang when cooked.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 334.92,
     "end": 338.24,
     "text": "Well, that's certainly one way to spice up your cooking.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 338.24,
     "end": 340.96,
     "text": "Okay, let's recap the rest of the vocabulary",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 340.959,
     "end": 343.279,
     "text": "starting with mortar and pestle,",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 343.279,
     "end": 345.079,
     "text": "a bowl and a heavy stone,",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 345.079,
     "end": 347.439,
     "text": "which is used to grind ingredients together.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 347.439,
     "end": 351.479,
     "text": "To pound something means to crush it into a paste or powder.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 351.479,
     "end": 355.279,
-    "text": "If you’re taken aback, you feel shocked and surprised.",
-    "speaker": "taken aback"
+    "text": "If you're taken aback, you feel shocked and surprised.",
+    "speaker": null
   },
   {
+    "order": 113,
     "start": 355.279,
     "end": 358.399,
     "text": "Know how is the practical skill and knowledge",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 358.399,
     "end": 360.799,
     "text": "needed to do something such as cook?",
+    "speaker": "Know-how"
+  },
+  {
+    "order": 115,
+    "start": 360.799,
+    "end": 364.079,
+    "text": "And finally, the verb document means to record information",
     "speaker": null
   },
   {
-    "start": 360.799,
-    "end": 364.079,
-    "text": "And finally, the verb document means to record information about something by writing about it or taking photos.",
-    "speaker": "document"
-  },
-  {
+    "order": 116,
     "start": 364.079,
     "end": 367.959,
     "text": "about something by writing about it or taking photos.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 367.959,
     "end": 370.199,
-    "text": "Once again, our six minutes are up. Bye for now!",
+    "text": "Once again, our six minutes are up.",
     "speaker": "Sam"
   },
   {
+    "order": 118,
     "start": 370.199,
     "end": 371.039,
     "text": "Bye for now.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 371.039,
     "end": 371.879,
-    "text": "Bye!",
-    "speaker": "Rob"
+    "text": "Bye.",
+    "speaker": null
   },
   {
+    "order": 120,
     "start": 371.879,
     "end": 375.719,
     "text": "Six minute English from the BBC.",

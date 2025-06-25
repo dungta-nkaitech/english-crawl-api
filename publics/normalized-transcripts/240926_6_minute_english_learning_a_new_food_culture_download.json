@@ -1,461 +1,538 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.6,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7.799,
     "end": 11.96,
     "text": "Hello, this is 6-minute English from BBCLearningEnglish. I'm Neil",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 11.96,
     "end": 13.2,
-    "text": "And I'm Beth.",
-    "speaker": "Beth"
+    "text": "And I'm Beth",
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 13.2,
     "end": 16.199,
     "text": "Every country has its own favourite foods",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 16.199,
     "end": 19.4,
     "text": "So when people leave home and move to a different country",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 19.4,
     "end": 23,
     "text": "Getting used to the new food there can be a surprise",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 23,
     "end": 26,
     "text": "Food can have strange sounding names",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 26,
     "end": 30.8,
     "text": "If you know what a toad is, it's an animal very similar to a frog",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 30.8,
     "end": 35.799,
     "text": "You might be surprised to hear that a famous English meal is toad in the hole",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 35.799,
     "end": 38.799,
     "text": "Don't worry though, it's made with sausages, not toads",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 38.799,
     "end": 44.4,
     "text": "In this programme we're exploring people's first impressions of a new culture through its food",
-    "speaker": null
+    "speaker": "adapted"
   },
   {
+    "order": 11,
     "start": 44.4,
     "end": 51,
     "text": "We'll be hearing how two women, one a refugee, the other a dietician, adapted to the food of their new home",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 51,
     "end": 55,
     "text": "And as usual, we'll be learning some useful new vocabulary too",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 55.2,
     "end": 57.799,
     "text": "But first I have a question for you Neil",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 57.799,
     "end": 62.2,
     "text": "A British summer wouldn't be complete without a traditional cream tea",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 62.2,
     "end": 66,
     "text": "Skons, cream and jam eaten with a cup of tea",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 66,
     "end": 71.2,
     "text": "It sounds lovely, but strangely there have been many arguments over cream teas",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 71.2,
     "end": 74.4,
     "text": "So is the cream tea debate about",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 74.4,
     "end": 77.2,
-    "text": "a)    whether to drink tea or coffee?",
+    "text": "A, whether to drink tea or coffee",
     "speaker": "Beth"
   },
   {
+    "order": 19,
     "start": 77.2,
     "end": 81.4,
-    "text": "b)    whether to put cream or jam onto the scone first? or,",
-    "speaker": "Beth"
+    "text": "B, whether to put cream or jam onto the scone first",
+    "speaker": null
   },
   {
+    "order": 20,
     "start": 81.6,
     "end": 85.6,
     "text": "Or see whether strawberry or raspberry jam is better",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 85.6,
     "end": 91,
-    "text": "Well, I think the controversy is whether to add cream or jam first.",
-    "speaker": "Neil"
+    "text": "Well, I think the controversy is whether to add cream or jam first",
+    "speaker": "Beth"
   },
   {
+    "order": 22,
     "start": 91,
     "end": 95.6,
     "text": "Okay Neil, I'll reveal the correct answer later in the programme",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 95.6,
     "end": 102.6,
     "text": "Natalia Techenko arrived in the Netherlands after leaving her home in Ukraine following the Russian invasion",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 102.6,
     "end": 107.2,
     "text": "She moved in with Veronica Grzefska, who's originally from Poland",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 107.4,
     "end": 113.4,
     "text": "And her family, starting them on a journey to open their own restaurants in Natalia's kitchen",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 113.4,
     "end": 118.4,
     "text": "Here's Natalia talking with BBC World Service programme The Food Chain",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 27,
     "start": 118.4,
     "end": 121,
     "text": "Not the... of course",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 121,
     "end": 125.4,
     "text": "At first it felt like I am well out of what they call my comfort zone",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 125.4,
     "end": 128.599,
     "text": "When you stay in a certain environment you get used to it",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 128.599,
     "end": 132.199,
     "text": "But when you move to another country where you live and work",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 132.399,
     "end": 137.399,
     "text": "you experience difficulties and you have to adapt to get used to local foods",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 137.399,
     "end": 140.799,
     "text": "Here they don't have some of the staples we had in Ukraine",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 140.799,
     "end": 142.799,
     "text": "Ingredients are different",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 142.799,
     "end": 148.799,
     "text": "And so you start working with local foods, find replacements, cook with what you have",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 149.799,
     "end": 152.799,
     "text": "At first Natalia felt out of her comfort zone",
-    "speaker": null
+    "speaker": "comfort zoneadapt"
   },
   {
+    "order": 36,
     "start": 152.799,
     "end": 157.199,
     "text": "A familiar situation in which someone feels secure and in control",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 157.199,
     "end": 160.199,
     "text": "She had to adapt to her new life in the Netherlands",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 160.199,
     "end": 164.199,
     "text": "She had to change in order to succeed in her new situation",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 164.199,
     "end": 170.399,
     "text": "Some of the staple ingredients Natalia used in Ukraine weren't available in the Netherlands",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 170.399,
     "end": 178.399,
-    "text": "A staple is a basic and important type of food that is regularly eaten by a large portion of the population.",
-    "speaker": "staple"
+    "text": "A staple is a basic and important type of food that is regularly eaten by a large portion of the population",
+    "speaker": "adapt"
   },
   {
+    "order": 41,
     "start": 178.399,
     "end": 184.599,
     "text": "So Natalia adapted her recipes, replacing Ukrainian with Dutch ingredients",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 184.599,
     "end": 188.599,
     "text": "to create a new kind of cooking which her customers loved",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 188.799,
     "end": 193.599,
     "text": "Our second story involves Rachel Winter Roach who left her home in England",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 193.599,
     "end": 197.799,
     "text": "to work on the sunny island of Tobago in the southern Caribbean",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 45,
     "start": 197.799,
     "end": 201.599,
     "text": "Here Rachel explains some of the food challenges she faced",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 201.599,
     "end": 204.599,
     "text": "Sue BBC World Service Programme, the food chain",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 204.599,
     "end": 212.599,
     "text": "When I came out to the Caribbean I was really in for a shock when it came to",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 212.599,
     "end": 220.599,
     "text": "The flavoring and seasoning food and seasoning is really, really an integral part of food preparation here",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 220.599,
     "end": 224.599,
     "text": "Here the seasoning is multiple, multiple layers",
-    "speaker": null
+    "speaker": "was in for a shock"
   },
   {
+    "order": 50,
     "start": 224.599,
     "end": 231.599,
     "text": "It took me a while to get used to it because everybody has their own way of seasoning and their own little tweaks",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 231.599,
     "end": 238.599,
     "text": "And there are no quantities so it really takes a lot of practice, a lot of trial and error",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 238.599,
     "end": 243.599,
     "text": "And I think my family did not always appreciate the errors in the trials",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 243.599,
     "end": 248.599,
     "text": "When Rachel moved to Tobago she was in for a shock",
-    "speaker": null
+    "speaker": "in for a shockto be in for a shock"
   },
   {
+    "order": 54,
     "start": 248.599,
     "end": 255.599,
     "text": "The phrase to be in for a shock means to be sure of experiencing a surprising or unpleasant situation",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 255.599,
     "end": 263.6,
     "text": "In Rachel's case the surprise involved seasoning, the salt, herbs and spices added to food to enhance the flavor",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 263.6,
     "end": 266.6,
     "text": "In the Caribbean seasoning is a big deal",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 266.6,
     "end": 273.6,
     "text": "Everyone has their own seasoning recipe including little tweaks or small adjustments which they have added themselves",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 273.6,
     "end": 279.6,
     "text": "It took time for Rachel to develop her seasoning skills mainly through trial and error",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 279.6,
     "end": 286.6,
     "text": "A way of solving problems by trying a number of different methods and learning from the mistakes you make along the way",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 286.6,
     "end": 291.6,
     "text": "Whether you're fleeing war, starting a new job or enjoying a cream tea",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 61,
     "start": 291.6,
     "end": 296.6,
     "text": "It seems there's lots to learn about a place from its food including Britain",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 296.6,
     "end": 300.6,
     "text": "So I think it's time to reveal the answer to my question Neil",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 300.6,
     "end": 304.6,
     "text": "Why is the traditional British cream tea controversial?",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 304.6,
     "end": 311.6,
     "text": "Well I guess it was because people disagree about whether cream or jam should go on the scorn first",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 311.6,
     "end": 317.6,
     "text": "Which was the correct answer and anyone who says it's jam first is just wrong",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 317.6,
     "end": 323.6,
     "text": "Okay, let's recap the vocabulary we've learnt in this programme starting with comfort zone",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 323.6,
     "end": 326.6,
     "text": "A situation in which you feel comfortable and in control",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 326.6,
     "end": 331.6,
-    "text": "To adapt means to change so as to successfully fit in with a new situation.",
-    "speaker": "adapt"
+    "text": "To adapt means to change so as to successfully fit in with a new situation",
+    "speaker": null
   },
   {
+    "order": 69,
     "start": 331.6,
     "end": 338.6,
     "text": "A staple is a basic and important type of food that is regularly eaten by a large portion of the population",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 338.6,
     "end": 345.6,
-    "text": "The phrase to be in for a shock means to be guaranteed to experience a surprising or unpleasant situation.",
+    "text": "The phrase to be in for a shock means to be guaranteed to experience a surprising or unpleasant situation",
     "speaker": "to be in for a shock"
   },
   {
+    "order": 71,
     "start": 345.6,
     "end": 349.6,
-    "text": "A tweak is a small adjustment to something in order to improve it.",
-    "speaker": "tweak"
+    "text": "A tweak is a small adjustment to something in order to improve it",
+    "speaker": null
   },
   {
+    "order": 72,
     "start": 349.6,
     "end": 357.6,
-    "text": "And finally, if you solve a problem by trial and error, you try a number of different methods and learn from the mistakes you make. Once again, our six minutes are up, and remember to join us again, here at 6 Minute English. Goodbye for now!",
+    "text": "And finally if you solve a problem by trial and error you try a number of different methods and learn from the mistakes you make",
     "speaker": "trial and error"
   },
   {
+    "order": 73,
     "start": 357.6,
     "end": 363.6,
     "text": "Once again our six minutes are up and remember to join us again next time here at six minute English",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 363.6,
     "end": 364.6,
     "text": "Goodbye for now",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 364.6,
     "end": 365.6,
-    "text": "Bye!",
-    "speaker": "Beth"
+    "text": "Bye",
+    "speaker": null
   },
   {
+    "order": 76,
     "start": 368.6,
     "end": 371.6,
     "text": "From BBC Learning English dot com",

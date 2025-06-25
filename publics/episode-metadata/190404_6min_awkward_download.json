@@ -7,8 +7,28 @@
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/190404_6min_awkward.pdf",
   "vocabItems": [
     {
-      "word": "awkward (adjective), awkwardness (noun)",
-      "definition": "feeling uncomfortable, self-conscious or embarrassed in a social situation"
+      "word": "awkward  awkwardness",
+      "definition": "awkward (adjective), awkwardness (noun)feeling uncomfortable, self-conscious or embarrassed in a social situation"
+    },
+    {
+      "word": "implicit",
+      "definition": "not spoken or written down, but still understood"
+    },
+    {
+      "word": "social rules",
+      "definition": "the way we behave in society in particular situations so that we can live together peacefully"
+    },
+    {
+      "word": "to govern",
+      "definition": "to rule, to control"
+    },
+    {
+      "word": "to illuminate",
+      "definition": "to make something easier to understand, to clarify"
+    },
+    {
+      "word": "to breach (a rule)",
+      "definition": "to break (a rule)"
     }
   ],
   "quiz": null

@@ -1,590 +1,688 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.6,
     "text": "This is a download from BBC Learning English. To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 5.6,
     "end": 11.2,
     "text": "6M from BBC Learning English.com",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 13.439,
     "end": 17.76,
     "text": "Hello, this is 6M in English from BBC Learning English. I'm Georgina.",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 17.76,
     "end": 18.8,
-    "text": "And I’m Neil.",
-    "speaker": "Neil"
+    "text": "And I'm Neil.",
+    "speaker": "Georgina"
   },
   {
+    "order": 4,
     "start": 18.8,
     "end": 23.199,
     "text": "Neil, this may sound a bit personal, but have you ever taken your clothes off?",
     "speaker": "Georgina"
   },
   {
+    "order": 5,
     "start": 24.24,
     "end": 26.8,
-    "text": "Err, well, yes. Every day when I have a shower.",
-    "speaker": "Neil"
+    "text": "Well, yes, every day when I have a shower.",
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 26.8,
     "end": 30.719,
-    "text": "Of course. I mean in public – have you ever been naked in public?",
+    "text": "Of course. I mean in public – have you ever been naked in public",
     "speaker": "Georgina"
   },
   {
+    "order": 7,
     "start": 31.44,
     "end": 37.2,
-    "text": "No! Stripping off – or getting naked - publicly, is not my idea of fun. Who would enjoy doing that?",
-    "speaker": "Neil"
+    "text": "No, stripping off or getting naked publicly is not my idea of fun.",
+    "speaker": null
   },
   {
+    "order": 8,
     "start": 37.2,
     "end": 38.399,
     "text": "Who would enjoy doing that?",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 38.96,
     "end": 44.32,
     "text": "Well, nature is wood. That's what we call people who think not wearing clothes outdoors",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 44.32,
     "end": 50.159,
     "text": "is a healthy way to live, and it makes them feel good. We might also call them nudists,",
-    "speaker": null
+    "speaker": "naturists"
   },
   {
+    "order": 11,
     "start": 50.159,
     "end": 51.12,
     "text": "because they are nude.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 51.76,
     "end": 55.359,
     "text": "Right, so nature is feel being naked is natural.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 55.359,
     "end": 58.24,
     "text": "It's not about them being interested in nature.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 58.24,
     "end": 64.079,
     "text": "Not necessarily, but we are going to discuss why being naked in nature might be good for us.",
-    "speaker": null
+    "speaker": "skinny dipping"
   },
   {
+    "order": 15,
     "start": 64.079,
     "end": 66.319,
     "text": "But how about a question first, Neil?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 66.319,
     "end": 70.56,
     "text": "The actor swimming naked is informally called skinny dipping.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 70.56,
     "end": 75.359,
     "text": "The world's largest skinny dip took place in Ireland in 2018,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 75.92,
     "end": 79.359,
     "text": "but do you know how many naked swimmers went into the sea?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 80.079,
     "end": 83.92,
     "text": "Was it approximately A250 people?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 84.879,
     "end": 87.12,
-    "text": "b) 2,500 people?, or,",
+    "text": "b) 2,500 people",
     "speaker": "skinny dipping"
   },
   {
+    "order": 21,
     "start": 87.84,
     "end": 90.4,
-    "text": "c) 25,000 people?",
-    "speaker": "skinny dipping"
+    "text": "Or C. 25,000 people?",
+    "speaker": null
   },
   {
+    "order": 22,
     "start": 90.96,
     "end": 98.64,
-    "text": "I’d have to guess and say that only 250 people would be brave enough to run into the cold sea, naked!",
+    "text": "I’d have to guess and say that only 250 people would be brave enough to run into the cold sea, naked",
     "speaker": "Neil"
   },
   {
+    "order": 23,
     "start": 98.64,
     "end": 101.68,
     "text": "Well, as always, I'll reveal the answer later.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 101.68,
     "end": 105.04,
     "text": "So the idea of getting naked might fill you with dread.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 105.04,
     "end": 110.799,
     "text": "It might seem embarrassing, but some people do some both naked on the beach or in their garden,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 110.799,
     "end": 113.599,
     "text": "or they go to nature's holiday parks.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 113.599,
     "end": 119.199,
     "text": "But naked rambling, walking naked in the countryside might be taking it one step further.",
-    "speaker": null
+    "speaker": "advocate"
   },
   {
+    "order": 28,
     "start": 119.199,
     "end": 123.359,
     "text": "However, it's something Donna Price, a volunteer at British natureism,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 123.359,
     "end": 126.319,
     "text": "is keen to advocate or publicly support.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 126.319,
     "end": 131.039,
     "text": "Here she is speaking on BBC Radio 4's Woman's Hour programme, explaining why.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 131.84,
     "end": 135.28,
     "text": "We enjoy the feeling of being actually at one with nature.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 136.159,
     "end": 140.159,
     "text": "If you haven't actually tried being naked in nature and naked outdoors,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 140.159,
     "end": 146,
     "text": "when you can feel the warmth air all over your skin, it's such a lovely feeling.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 146,
     "end": 151.039,
     "text": "There is a great feeling of liberation of freedom once you actually try natureism.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 151.039,
     "end": 156.479,
     "text": "And I would never advocate for someone to actually go out for a naked walk as the first thing they ever did.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 157.039,
     "end": 158.159,
     "text": "I just would not do that.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 158.159,
     "end": 160.319,
     "text": "You've got to be comfortable in your own skin.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 160.319,
     "end": 164,
     "text": "So you do it at home, in your own garden, maybe if you can.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 165.12,
     "end": 166.479,
     "text": "Get comfortable with yourself.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 166.56,
     "end": 171.359,
     "text": "Actually start to feel that being naked feels normal, which to me it does.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 172.399,
     "end": 176.799,
-    "text": "So for Donna, naked rambling means she has a connection with nature.",
-    "speaker": null
+    "text": "So, for Donna, naked rambling means she has a connection with nature",
+    "speaker": "at one with nature"
   },
   {
+    "order": 42,
     "start": 176.799,
     "end": 179.359,
     "text": "She feels part of it and it makes her feel good.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 180,
     "end": 182.399,
     "text": "That's the feeling of being at one with nature.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 183.28,
     "end": 185.439,
     "text": "But couldn't you do that with your clothes on?",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 185.439,
     "end": 189.28,
     "text": "Well, she also mentions there's a feeling of freedom and liberation.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 189.28,
     "end": 191.199,
     "text": "That's being freed from something.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 191.199,
     "end": 193.359,
     "text": "Here, it's freed from your clothes.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 193.36,
     "end": 197.36,
     "text": "Donna also told the woman's hour program that going for a naked walk",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 197.36,
     "end": 199.6,
-    "text": "shouldn't be the first thing you attempt to do.",
-    "speaker": null
+    "text": " shouldn’t be the first thing you attempt to do",
+    "speaker": "Georgina"
   },
   {
+    "order": 50,
     "start": 199.92,
     "end": 203.6,
     "text": "You need to feel relaxed and confident with your actions first.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 203.6,
     "end": 207.76,
     "text": "Or what we sometimes say is comfortable in your own skin.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 207.76,
     "end": 211.92,
     "text": "Yes, she says we need to get to feel that nakedness is normal.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 211.92,
     "end": 216.32,
     "text": "I suppose we were all born naked and it's not something to be ashamed of.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 216.32,
     "end": 221.2,
     "text": "And in the UK at least, it's generally not against the law to be naked in public.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 221.919,
     "end": 225.199,
-    "text": "I'm still not convinced, but according to Donna Price,",
-    "speaker": null
+    "text": " I’m still not convinced, but according to Donna Price",
+    "speaker": "Georgina"
   },
   {
+    "order": 56,
     "start": 225.199,
     "end": 228.879,
     "text": "this freedom of expression is quite well received when she's out walking.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 229.439,
     "end": 232.959,
     "text": "Here she is speaking on the BBC's Woman's Hour program again.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 234.319,
     "end": 238.399,
     "text": "Majority of the response is that you actually encounter, if you do encounter the public,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 238.399,
     "end": 242.959,
     "text": "the general public, are actually very encouraging.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 242.959,
     "end": 246.319,
     "text": "They're not shock-horror, majority of the time.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 246.319,
     "end": 247.679,
     "text": "I can guarantee you that.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 248,
     "end": 251.599,
     "text": "A lot of people say just good morning and carry on.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 251.599,
     "end": 255.52,
     "text": "Some of them actually say, gosh, you're braver than I am, if it's virtually.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 256.8,
     "end": 259.84,
     "text": "A lot of them are just saying, I really wish I could do that.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 259.84,
     "end": 261.84,
     "text": "And usually we just say, you can.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 262.72,
     "end": 267.439,
     "text": "So the people Donna encounters or meets seem to support what she's doing.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 267.439,
     "end": 269.68,
     "text": "She says it's not shock-horror.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 269.68,
     "end": 274.8,
     "text": "This is usually said as an informal way of actually saying something is not surprising,",
-    "speaker": null
+    "speaker": "shock, horror"
   },
   {
+    "order": 69,
     "start": 274.8,
     "end": 275.84,
     "text": "not shocking.",
-    "speaker": null
+    "speaker": "at one with nature liberation"
   },
   {
+    "order": 70,
     "start": 275.919,
     "end": 280.159,
     "text": "Well, shock-horror, Neil, I won't be taking my clothes off anytime soon.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 280.159,
     "end": 285.279,
     "text": "It's too cold anyway and I don't want to be bitten by all those bugs you get in the countryside.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 285.279,
     "end": 289.12,
     "text": "But it's good to hear that people are open-minded to the idea.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 289.12,
     "end": 293.759,
     "text": "Yes, good luck to anyone who wants to give it a try and well done to those brave people who took",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 74,
     "start": 293.759,
     "end": 298.239,
     "text": "part in the world's biggest skinny dip, a mass naked swim.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 298.239,
     "end": 304.079,
     "text": "Earlier, Georgina, you asked me how many people took part in the event in Ireland in 2018.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 304.079,
     "end": 305.759,
     "text": "I did and you said?",
-    "speaker": "Georgina"
+    "speaker": null
   },
   {
+    "order": 77,
     "start": 305.759,
     "end": 308.56,
-    "text": "I said about 250 people went for a dip. Was I right?",
+    "text": "I said about 250 people went for a dip.",
     "speaker": "Neil"
   },
   {
+    "order": 78,
     "start": 308.56,
     "end": 309.519,
     "text": "Was I right?",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 309.519,
     "end": 310.24,
     "text": "No, Neil.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 310.24,
     "end": 312.079,
     "text": "According to Guinness World Records,",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 312.079,
     "end": 319.519,
-    "text": "No, Neil. According to Guinness World Records, 2,505 women took part in the largest charity skinny dip in Wicklow in Ireland.",
-    "speaker": "Georgina"
+    "text": "2,505 women took part in the largest charity skinny dip in Wicklow in Ireland.",
+    "speaker": null
   },
   {
+    "order": 82,
     "start": 319.519,
     "end": 325.279,
-    "text": "Well, well done to them and skinny dipping was one of the items of vocabulary we discussed today. This is an informal way of describing the act of swimming naked.",
+    "text": "Well, well done to them and skinny dipping was one of the items of vocabulary we discussed today.",
     "speaker": "skinny dipping"
   },
   {
+    "order": 83,
     "start": 325.279,
     "end": 328.56,
     "text": "This is an informal way of describing the act of swimming naked.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 328.56,
     "end": 330.959,
     "text": "We've also been discussing natureists.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 330.959,
     "end": 336.959,
-    "text": "We’ve also been discussing naturists - people who think not wearing clothes outdoors is a healthy way to live, and it makes them feel good. The act of doing this is called naturism.",
-    "speaker": "naturistsnaturism"
+    "text": "People who think not wearing clothes outdoors is a healthy way to live and it makes them feel good.",
+    "speaker": null
   },
   {
+    "order": 86,
     "start": 336.959,
     "end": 339.68,
     "text": "The act of doing this is called natureism.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 339.68,
     "end": 344.799,
     "text": "And when you advocate something like natureism for example, you publicly support it.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 344.799,
     "end": 349.759,
-    "text": "Being at one with nature means having a connection with the natural world that makes you feel good. And liberation means being freed from something.",
-    "speaker": "at one with nature liberation"
+    "text": "Being at one with nature means having a connection with the natural world that makes you feel good.",
+    "speaker": null
   },
   {
+    "order": 89,
     "start": 350.479,
     "end": 353.519,
     "text": "And liberation means being freed from something.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 353.519,
     "end": 357.199,
     "text": "And when we say shock horror, we actually mean the opposite.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 357.199,
     "end": 359.519,
     "text": "I mean something is not shocking or surprising.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 359.519,
     "end": 361.279,
     "text": "We're being sarcastic I guess.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 361.279,
     "end": 363.68,
-    "text": "It's not like you to be sarcastic, Neil.",
-    "speaker": null
+    "text": "It’s not like you to be sarcastic Neil! ",
+    "speaker": "Georgina"
   },
   {
+    "order": 94,
     "start": 363.68,
     "end": 366.159,
     "text": "But shock horror, we're out of time now.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 366.159,
     "end": 369.199,
     "text": "We only get six minutes and that's the naked truth.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 369.199,
     "end": 371.039,
     "text": "Thanks for listening and goodbye.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 371.039,
     "end": 371.759,
     "text": "Goodbye.",
-    "speaker": "Neil"
+    "speaker": null
   }
 ]

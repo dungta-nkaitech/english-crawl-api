@@ -1,395 +1,461 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 4.08,
     "text": "6 minutes English from the BBC.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 4.08,
     "end": 11.16,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 2,
     "start": 11.16,
     "end": 17.8,
     "text": "And I'm Beth. Have you ever had a horrible boss, not been paid enough or simply got tired",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 17.8,
     "end": 24.28,
     "text": "of doing the same old boring jobs? I love presenting 6 Minute English, of course, but",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 24.28,
     "end": 29.879,
     "text": "some of my previous jobs have been pretty awful, Neil. When I waitressed in cafes, I was",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 29.879,
     "end": 33.839,
     "text": "on my feet 10 hours a day. It was exhausting.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 33.839,
     "end": 39.56,
     "text": "Most people have had bad work experiences at one time or another. Maybe a job that was",
-    "speaker": null
+    "speaker": "burned out"
   },
   {
+    "order": 7,
     "start": 39.56,
     "end": 46.079,
     "text": "boring, badly paid, or just working too much and getting burned out, lacking energy or",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 46.079,
     "end": 49.32,
     "text": "enthusiasm because of working too hard.",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 9,
     "start": 49.32,
     "end": 55.399,
     "text": "But does it have to be like this? Since most of our waking day is spent at work, how can",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 55.399,
     "end": 60.64,
     "text": "we make sure our job doesn't make us unhappy? That's what we'll be discussing in this",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 60.64,
     "end": 65.759,
     "text": "programme and, as usual, we'll be learning some useful new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 65.759,
     "end": 72.319,
     "text": "Sounds good, Beth, but first I have a question for you. The worst job I ever had was the summer",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 13,
     "start": 72.319,
     "end": 79.28,
     "text": "I spent working as a portable toilet cleaner at Music festivals. But according to a recent",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 79.28,
     "end": 86.96,
     "text": "survey by Forbes magazine, what was voted the worst job in the UK? Was it A, a call centre",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 86.96,
     "end": 92,
     "text": "worker, B, a bartender or C, a traffic warden?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 92,
     "end": 95.56,
     "text": "I think the answer might be a call centre worker.",
-    "speaker": "Beth"
+    "speaker": "Neil"
   },
   {
+    "order": 17,
     "start": 95.56,
     "end": 99.439,
     "text": "Okay, Beth, I'll reveal the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 99.439,
     "end": 105.04,
     "text": "Now it's interesting that survey was carried out in the UK because being unhappy at work",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 19,
     "start": 105.04,
     "end": 112.04,
     "text": "could be related to the British working culture, which emphasises working at a fast pace.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 112.04,
     "end": 117.12,
     "text": "Here's Damian Grimshaw, a professor of employment studies at King's College London, speaking",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 117.12,
     "end": 121.24,
     "text": "with BBC Radio 4 programme Analysis.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 121.24,
     "end": 127.44,
     "text": "Really it's all about pace, cost efficiencies, meeting targets, deadlines. So this is why",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 127.44,
     "end": 132.64,
     "text": "when people do surveys of what we call work intensity, right? So how hard you work,",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 132.639,
     "end": 136.759,
     "text": "are you driven on pace? Is there a supervisor breathing down your neck? We score really badly",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 136.759,
     "end": 139.039,
     "text": "compared to European countries.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 139.039,
     "end": 145.359,
-    "text": "Compared to some European countries, British workers have to meet more targets and deadlines - a time or date by which a particular job must be finished.",
+    "text": "Compared to some European countries, British workers have to meet more targets and deadlines ",
     "speaker": "deadlines"
   },
   {
+    "order": 27,
     "start": 145.359,
     "end": 149.359,
     "text": "a time or date by which a particular job must be finished.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 149.359,
     "end": 154.919,
     "text": "The pressure to work quickly means you might have your boss breathing down your neck, an",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 154.919,
     "end": 160.599,
     "text": "idiom meaning that someone is watching you very closely and checking everything you do,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 160.599,
     "end": 167.599,
     "text": "what a nice feeling to have at work. That's right, a good job is about more than pay and conditions.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 167.599,
     "end": 173.919,
     "text": "It's one that uses your talents and gives you some choice over how and when you work.",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 32,
     "start": 173.919,
     "end": 180.84,
     "text": "In 2022, Britain's biggest employer, the National Health Service or NHS, lost more than",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 180.84,
     "end": 188.359,
     "text": "15,000 nurses, many quitting because of the long and inflexible working hours.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 188.36,
     "end": 193.88,
     "text": "Another sector with long working hours is the construction industry, low paid, dirty",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 193.88,
     "end": 201.44,
     "text": "and physically demanding construction workers also risk high levels of work related injury.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 201.44,
     "end": 208.12,
     "text": "Here Emma Stewart, co-founder of Social Business Time-wise, tells BBC Radio 4 programme analysis",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 208.12,
     "end": 213.8,
     "text": "about her trial project to help builders enjoy their jobs more.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 213.8,
     "end": 218.84,
     "text": "In the work that we've done within the construction industry, we have trialled what we would",
-    "speaker": null
+    "speaker": "Emma Stewart"
   },
   {
+    "order": 39,
     "start": 218.84,
     "end": 224.92,
     "text": "call an output-based way of working, which means we shift away from the sense of presentism,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 224.92,
     "end": 228.68,
     "text": "the sense of you are paid by the day, you are on site from 7 in the morning until the",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 228.68,
     "end": 233.84,
     "text": "last person needs maybe 7 in the evening, to a task-based way of working, which means",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 233.84,
     "end": 237.96,
     "text": "you are going to do five tasks over the course of this day. When you've done those tasks",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 237.96,
     "end": 242.439,
     "text": "and you've done them well, you can go home, but we will still pay you the same amount for the day.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 242.439,
     "end": 247.24,
     "text": "We were able to deliver the projects that we worked on with them on time on budget, but",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 247.24,
     "end": 251.639,
     "text": "critically the feedback from workers was that work-life balance schools doubled and they",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 251.639,
     "end": 254.599,
     "text": "were able to reduce the amount of overtime that they did. It's a win-win.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 255.96,
     "end": 262.519,
     "text": "Emma describes the current working patterns using the word presentism, staying at work longer",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 262.519,
     "end": 268.12,
     "text": "than usual or going to work when you're ill to show that you work hard, but this isn't an",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 268.12,
     "end": 275.16,
     "text": "effective way to work. Emma thinks a task-based approach is better, both at getting the job done",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 275.16,
     "end": 280.84,
     "text": "and for improving work-life balance. The amount of time you spend at work, compared with the",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 280.84,
     "end": 286.68,
     "text": "amount of time you spend relaxing with your family and doing things you enjoy. In other words,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 286.68,
     "end": 292.04,
     "text": "flexible working is a win-win, a situation that's good for everyone involved.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 292.439,
     "end": 297.72,
-    "text": "Maybe more flexible working would help some of the jobs I mentioned earlier in my question, Beth - according to a recent Forbes magazine survey, what was voted the worst job in the UK?",
-    "speaker": "Neil"
+    "text": "Maybe more flexible working would help some of the jobs I mentioned earlier in my question, Beth,",
+    "speaker": null
   },
   {
+    "order": 54,
     "start": 298.28,
     "end": 304.04,
     "text": "according to a recent Forbes magazine survey, what was voted the worst job in the UK?",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 304.68,
     "end": 309.319,
     "text": "I guess it was a job I've done myself working in a call centre.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 309.319,
     "end": 315.16,
     "text": "That was the correct answer, although I think my summer job cleaning toilets was even worse.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 315.8,
     "end": 321.24,
     "text": "Right, let's recap the vocabulary we've learned from this programme starting with burnout.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 321.24,
     "end": 327.56,
     "text": "Lack of energy or enthusiasm because of working too hard. A deadline is the time by which a",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 327.56,
     "end": 333.56,
-    "text": "particular job must be done. If someone is breathing down your neck, they're watching you very",
-    "speaker": null
+    "text": "particular job must be done. If someone is breathing down your neck, they’re watching you very",
+    "speaker": "A deadline"
   },
   {
+    "order": 60,
     "start": 333.56,
     "end": 340.28,
     "text": "closely and checking everything you do. Presentism means staying at work longer than usual to show your",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 340.28,
     "end": 345.879,
     "text": "employer that you work hard and are important to them. Work-life balance is the amount of time you",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 345.879,
     "end": 350.759,
-    "text": "Work-life balance is the amount of time spend doing your job, compared with the amount of time you spend doing things you enjoy.",
-    "speaker": "Work-life balance"
+    "text": "spend doing your job, compared with the amount of time you spend doing things you enjoy.",
+    "speaker": "Presenteeism"
   },
   {
+    "order": 63,
     "start": 351.24,
     "end": 357.16,
     "text": "And finally, a win-win is a situation or result that is good for everyone.",
-    "speaker": null
-  },
-  {
-    "start": 357.16,
-    "end": 363.319,
-    "text": "And finally, a win-win is a situation or result that is good for everyone. Once again our six minutes are up. Join us again next time, but for now - get back to work! Goodbye!",
     "speaker": "win-win"
   },
   {
+    "order": 64,
+    "start": 357.16,
+    "end": 363.319,
+    "text": "Once again, our six minutes are up. Join us again next time, but for now, get back to work.",
+    "speaker": null
+  },
+  {
+    "order": 65,
     "start": 363.319,
     "end": 364.6,
     "text": "Goodbye!",

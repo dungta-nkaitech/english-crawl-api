@@ -1,437 +1,510 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6MtEnglish",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.88,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.64,
     "end": 17.839,
-    "text": "Hello, and welcome to 6 Minute English from BBC Learning English. I'm Rob…",
+    "text": "Hello, and welcome to 6 Minute English from BBC Learning English. I'm Rob",
     "speaker": "Rob"
   },
   {
+    "order": 5,
     "start": 17.839,
     "end": 19.12,
     "text": "And I'm Georgina.",
-    "speaker": "Georgina"
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 19.12,
     "end": 22.64,
-    "text": "Now, Georgina, how resilient are you?",
+    "text": "Now, Georgina, how resilient are you",
     "speaker": "resilient"
   },
   {
+    "order": 7,
     "start": 22.64,
     "end": 27.039,
     "text": "Resilient? You mean able to cope with difficult situations?",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 27.039,
     "end": 32.479,
-    "text": "Resilient? You mean able to cope with difficult situations. I have a pile of work to do today, but I’m remaining calm and not getting stressed.",
-    "speaker": "Georgina"
+    "text": "I have a pile of work to do today, but I'm remaining calm and not getting stressed.",
+    "speaker": null
   },
   {
+    "order": 9,
     "start": 32.479,
     "end": 35.2,
     "text": "Well that's good. You are showing resilience.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 35.2,
     "end": 39.6,
-    "text": "That's good, you are showing resilience. And today we’re discussing whether we’re born with resilience or we have to learn it.",
+    "text": "And today we're discussing whether we're born with resilience or we have to learn it.",
     "speaker": "resilience"
   },
   {
+    "order": 11,
     "start": 39.6,
     "end": 43.359,
     "text": "Okay Rob. But first I expect you're going to ask me a question.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 43.359,
     "end": 44.239,
     "text": "Bring it on.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 44.239,
     "end": 51.519,
     "text": "Okay. Resilience is also a word used in science to describe the characteristic of a substance or object.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 52.079,
     "end": 53.359,
     "text": "But what does it mean?",
+    "speaker": "Rob"
+  },
+  {
+    "order": 15,
+    "start": 53.359,
+    "end": 59.679,
+    "text": "A that it's very tough or hard, B that it can return to its original shape after being bent,",
     "speaker": null
   },
   {
-    "start": 53.359,
-    "end": 59.679,
-    "text": "b) That it can return to its original shape after being bent.",
-    "speaker": "Rob"
-  },
-  {
+    "order": 16,
     "start": 59.679,
     "end": 63.28,
-    "text": "c) It can turn from a solid into a liquid quickly.",
+    "text": "or C it can turn from a solid into a liquid quickly.",
+    "speaker": null
+  },
+  {
+    "order": 17,
+    "start": 63.28,
+    "end": 69.84,
+    "text": "I have a feeling it means B, an object that returns to its original shape after being bent.",
     "speaker": "Rob"
   },
   {
-    "start": 63.28,
-    "end": 69.84,
-    "text": "I have a feeling it means b) an object that returns to its original shape after being bent.",
-    "speaker": "Georgina"
-  },
-  {
+    "order": 18,
     "start": 69.84,
     "end": 74.319,
     "text": "Okay. I'll let you know if you were correct at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 74.319,
     "end": 76.719,
     "text": "But let's talk more about human resilience.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 20,
     "start": 76.719,
     "end": 83.28,
     "text": "There are many self-help books and motivational speakers all promising us we can learn to be resilient.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 83.519,
     "end": 88.64,
-    "text": "Well, it is a useful trait to have, and it’s something that can help you deal with many difficult situations from coping with the pressures of work to handling the death of a loved one.",
-    "speaker": "Georgina"
+    "text": "Well it is a useful trait to have and it's something that can help you deal with many difficult",
+    "speaker": null
   },
   {
+    "order": 22,
     "start": 88.64,
     "end": 94.159,
     "text": "situations from coping with the pressures of work to handling the death of a loved one.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 94.159,
     "end": 99.84,
     "text": "And it's more than just telling someone to toughen up or get a grip as Dr David Wesley knows.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 99.84,
     "end": 106.319,
     "text": "He is head of psychology at Middlesex University and talked about levels of resilience on the BBC World",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 25,
     "start": 106.319,
     "end": 108.239,
     "text": "Service programme, the Y Factor.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 109.039,
     "end": 115.679,
     "text": "First of all there's our social supports, our communities, our families, the people are important",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 115.679,
     "end": 120.879,
     "text": "to us, the organisations we work for. So one way we can look at resilience is to measure that.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 120.879,
     "end": 123.359,
     "text": "The amount of social support available to us.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 124,
     "end": 128.799,
     "text": "Another way to think about resilience is to think about how we think about the situations we're in.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 129.28,
     "end": 134.319,
     "text": "So for example, one way to look at that would be just to look at how optimistic people are",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 134.319,
     "end": 137.599,
     "text": "as a guide to how resilient they might be when times get tough.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 138.239,
     "end": 142.4,
     "text": "And then a third level that we can look at for resilience is a biological level.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 142.4,
     "end": 148.319,
     "text": "How well we can sue ourselves, calm ourselves down, how well we can actually regulate our",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 148.319,
     "end": 151.68,
     "text": "own nervous systems at times of distress.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 152.799,
     "end": 159.039,
     "text": "Right so Dr Wesley describes social supports. The people around us who we can talk to and support",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 159.039,
     "end": 165.439,
     "text": "us and generally make us feel better. I think he's saying with more support we'll feel more",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 165.439,
     "end": 171.12,
     "text": "resilient. It's interesting to note that a resilient person isn't necessarily someone quiet",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 38,
     "start": 171.12,
     "end": 175.84,
     "text": "who doesn't make a fuss and gets on with things. Some experts think it's people who ask for help",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 175.84,
     "end": 180.479,
     "text": "and use this social support network who are acting in a more resilient way.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 180.479,
     "end": 185.599,
-    "text": "It's a good point and another level of resilience is how optimistic someone is.",
-    "speaker": null
+    "text": "It’s a good point. And another level of resilience is how optimistic someone is",
+    "speaker": "optimistic distress"
   },
   {
+    "order": 41,
     "start": 186.319,
     "end": 190.96,
     "text": "Being optimistic means having positive thoughts about the future and believing things will",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 190.96,
     "end": 197.28,
     "text": "turn out well. A positive mind means you can deal with situations that at first look tough.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 197.599,
     "end": 204.079,
     "text": "Another level Dr Wesley mentioned was our biological level. How are bodies cope in times of distress.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 204.719,
     "end": 208.639,
-    "text": "Distress is the feeling you get when you are worried or upset by something.",
-    "speaker": "Distress"
+    "text": " Distress is the feeling you get when you are worried or upset by something",
+    "speaker": "optimistic"
   },
   {
+    "order": 45,
     "start": 208.639,
     "end": 214.879,
-    "text": "So, when we’re distressed, a resilient person is able to soothe his or her body and regulate his or her nervous system, which helps them stay calm.",
-    "speaker": "Rob"
+    "text": "So when we're distressed a resilient person is able to soothe his or her body and regulate his or",
+    "speaker": null
   },
   {
+    "order": 46,
     "start": 214.879,
     "end": 221.28,
     "text": "her nervous system which helps them stay calm. But Rob the big question is are we born with resilience",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 221.28,
     "end": 228.079,
     "text": "or can we learn it? Experts speaking on the Y Factor program tended to think it could be learned.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 228.079,
     "end": 233.759,
     "text": "Yes one of them is Anne Maston a professor at the University of Minnesota. From her studies she",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 233.759,
     "end": 239.039,
     "text": "found it was something that we learn when we need to. Anne Maston talks about how some of the",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 239.039,
     "end": 245.519,
     "text": "children she studied manifest resilience from the start. When something manifests it shows clearly",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 51,
     "start": 245.519,
     "end": 251.599,
     "text": "and is easy to notice. They remain resilient despite adversity at difficult time in their life",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 251.599,
     "end": 258,
     "text": "that they have had to face. Other children what she calls the late bloomers started off less resilient,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 258,
     "end": 264.079,
     "text": "struggled with adversity but turned their lives around by becoming more resilient. Maybe we can learn",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 54,
     "start": 264.56,
     "end": 269.12,
     "text": "resilience from having a bad experience. Well one thing Anne went on to say was that families",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 269.12,
     "end": 274.879,
     "text": "and friends can be a great support and help with resilience. Those that were late bloomers only",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 274.879,
     "end": 281.039,
     "text": "connected with adults and mentors later in life. Yes she says that teachers or parents are role models",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 281.039,
     "end": 286.56,
     "text": "in how to handle adversity and children are watching they're learning from the adults around them",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 58,
     "start": 286.56,
     "end": 292.959,
     "text": "by seeing how they react when they get challenged by something. Time now to find out how resilient you",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 293.199,
     "end": 298.239,
     "text": "are when you discover the correct answer to the question I asked earlier. I said that resilience",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 298.239,
     "end": 304.639,
-    "text": "OK. Resilience is also a word used in science to describe the characteristic of a substance or object. But what does it mean?",
-    "speaker": "Rob"
+    "text": "is also a word used in science to describe the characteristic of a substance or object but what does",
+    "speaker": null
   },
   {
+    "order": 61,
     "start": 304.639,
     "end": 311.679,
-    "text": "b) It can return to its original shape after being bent.",
-    "speaker": "Rob"
+    "text": "that mean? Is it A it's very tough or hard B it can return to its original shape after being bent",
+    "speaker": null
   },
   {
+    "order": 62,
     "start": 311.679,
     "end": 318.479,
     "text": "or C it can turn from a solid into a liquid quickly and what did you say Georgina? I said it was B",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 318.72,
     "end": 324.879,
     "text": "can return to its original shape after being bent. And you are right well done. Bamboo is a good",
+    "speaker": "Georgina"
+  },
+  {
+    "order": 64,
+    "start": 324.879,
+    "end": 330.64,
+    "text": "example of a resilient material you can bend it it doesn't break and returns to its original shape.",
     "speaker": null
   },
   {
-    "start": 324.879,
-    "end": 330.64,
-    "text": "And you are right - well done! Bamboo is a good example of a resilient material – you can bend it, it doesn’t break and returns to its original shape.",
-    "speaker": "Rob"
-  },
-  {
+    "order": 65,
     "start": 330.64,
     "end": 335.36,
     "text": "Thanks to the Science lesson Rob now we need to recap the vocabulary we've mentioned today.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 335.36,
     "end": 341.04,
-    "text": "Yes, we’ve talked about being resilient, an adjective that describes someone’s ability to cope with difficult situations. When you do this you show resilience.",
-    "speaker": "resilient, resilience"
+    "text": "Yes we've talked about being resilient an adjective that describes someone's ability to cope",
+    "speaker": "Georgina"
   },
   {
+    "order": 67,
     "start": 341.04,
     "end": 347.28,
     "text": "with difficult situations. When you do this you show resilience. Someone who is optimistic has",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 347.279,
     "end": 352.719,
     "text": "positive thoughts about the future and believes things will turn out well. Distress is the feeling",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 352.719,
     "end": 357.759,
     "text": "you get when you are worried or upset by something. When something manifests itself it shows clearly",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 357.759,
     "end": 364.239,
     "text": "and is easy to notice and adversity is a difficult time in somebody's life that they've had to face.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 364.239,
     "end": 369.359,
-    "text": "And that brings us to the end of this discussion about resilience. Please join us again next time. Bye bye.",
-    "speaker": "Rob"
+    "text": "And that brings us to the end of this discussion about resilience. Please join us again next time.",
+    "speaker": "manifests adversity"
   },
   {
+    "order": 72,
     "start": 369.359,
     "end": 370.879,
     "text": "Bye bye.",

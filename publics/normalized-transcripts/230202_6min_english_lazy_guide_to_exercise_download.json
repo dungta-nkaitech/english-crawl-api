@@ -1,371 +1,433 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7,
     "text": "This is a download from BBC Learning English to find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7,
     "end": 14,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 14,
     "end": 20,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 20,
     "end": 24,
     "text": "And I'm Sam. Did you make any new years resolutions this year, Neil?",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 24,
     "end": 29,
     "text": "They're promises that you make to yourself to do something positive in the coming year.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 29,
     "end": 33,
     "text": "And now that we're in February, it's getting harder to keep those promises.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 33,
     "end": 39,
-    "text": "Yes, the same promises I make every year, Sam, to exercise more and get fit.",
-    "speaker": null
-  },
-  {
-    "start": 39,
-    "end": 44,
-    "text": "Yes, the same promises I make every year, Sam – to exercise more and get fit. But I’m too lazy to go running on cold winter mornings - I’d rather stay in bed!",
+    "text": "Yes, the same promises I make every year, Sam – to exercise more and get fit",
     "speaker": "Neil"
   },
   {
-    "start": 44,
-    "end": 49,
-    "text": "Are you feeling out of shape after Christmas, like Neil? Maybe you want to be more active but can’t find the time? If so, this programme is for you!",
-    "speaker": "Sam"
+    "order": 7,
+    "start": 39,
+    "end": 44,
+    "text": "But I'm too lazy to go running on cold winter mornings. I'd rather stay in bed.",
+    "speaker": null
   },
   {
+    "order": 8,
+    "start": 44,
+    "end": 49,
+    "text": "Are you feeling out of shape after Christmas, like Neil? Maybe you want to be more active,",
+    "speaker": null
+  },
+  {
+    "order": 9,
     "start": 49,
     "end": 53,
     "text": "but can't find the time. If so, this programme is for you.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 53,
     "end": 64,
     "text": "Yes, in this lazy person's guide to exercise, we'll be asking, what is the least amount of exercise someone can get away with doing while still staying healthy?",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 64,
     "end": 68,
     "text": "And of course, we'll be learning some useful vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 68,
     "end": 77,
-    "text": "Of course, any exercise is better than none. ‘Structured exercise’ - activities like going to a fitness class, or swimming are great. But if that’s not possible, we’ll be hearing about small changes you can make that will help as well.",
-    "speaker": "Sam"
+    "text": "Of course, any exercise is better than none. Structured exercise, activities like going to a fitness class or swimming are great.",
+    "speaker": "Neil"
   },
   {
+    "order": 13,
     "start": 77,
     "end": 82,
     "text": "But if that's not possible, we'll be hearing about small changes you can make that will help as well.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 82,
     "end": 88,
     "text": "Which is good news because fewer and fewer of us are doing what the UK government recommends.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 88,
     "end": 99,
     "text": "30 minutes of moderate exercise a day. In fact, the government recently downgraded its recommendations because so few brits were following it.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 99,
     "end": 108,
     "text": "So, Sam, according to new government advice, what is the minimum number of steps we should walk every day to stay healthy?",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 17,
     "start": 108,
     "end": 115,
     "text": "Is it A, 5,000 steps, B, 10,000 steps or C, 20,000 steps?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 115,
     "end": 118,
     "text": "I'll say A, 5,000 steps per day.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 118,
     "end": 122,
     "text": "Okay, Sam, we'll find out the answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 122,
     "end": 129,
     "text": "Someone else who's interested in how little exercise he can do is BBC reporter James Gallagher.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 21,
     "start": 129,
     "end": 142,
     "text": "Here's James speaking with sports physiologist Dr Zoe Sainer. After Zoe had been monitoring James's fitness while running on a treadmill for BBC Radio 4 programme Inside Science.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 142,
     "end": 145,
-    "text": "… I also know you do regularly try and do structured exercise.",
-    "speaker": "Dr Zoe Saynor"
+    "text": "But I also know you do regularly try and do structured exercise.",
+    "speaker": null
   },
   {
+    "order": 23,
     "start": 145,
     "end": 149,
     "text": "So, just so we can make structured exercise training is going for a swim once a week.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 149,
     "end": 155,
-    "text": "Generally, that's fantastic! I guess my question to you would be, how hard do you push yourself when you go swimming?",
-    "speaker": "push yourself"
+    "text": "Generally, that's fantastic. I guess my question to you would be how hard do you push yourself when you go swimming?",
+    "speaker": "James Gallagher"
   },
   {
+    "order": 25,
     "start": 155,
     "end": 156,
     "text": "Not as hard as the treadmill.",
     "speaker": "James"
   },
   {
+    "order": 26,
     "start": 156,
     "end": 162,
     "text": "Well, I think the big thing if we come back to this question of what is the least I can do.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 162,
     "end": 170,
-    "text": "I think the big thing if we come back to this question of what is the least I can do? There's clear evidence that if you want to do shorter exercise sessions, they need to be of a higher intensity, right?",
-    "speaker": "Zoe"
+    "text": "There's clear evidence that if you want to do shorter exercise sessions, they need to be of a higher intensity, right?",
+    "speaker": null
   },
   {
+    "order": 28,
     "start": 170,
     "end": 173,
     "text": "It said there's a trade-off.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 173,
     "end": 181,
     "text": "Zoe says that if you don't have much time to exercise, it's okay to do shorter sessions as long as you push yourself.",
-    "speaker": null
+    "speaker": "trade-off."
   },
   {
+    "order": 30,
     "start": 181,
     "end": 184,
     "text": "Try harder and put more effort into what you're doing.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 184,
     "end": 189,
     "text": "If you can swim a length in 40 seconds, push yourself to swim it in 35.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 189,
     "end": 195,
-    "text": "That means exercising harder of course, but for a shorter time. In other words, there’s a trade-off – you accept the disadvantages of something in order to get the benefit it brings.",
+    "text": "That means exercising harder of course, but for a shorter time. In other words, there’s a trade-off –",
     "speaker": "trade-off"
   },
   {
+    "order": 33,
     "start": 195,
     "end": 200,
     "text": "You accept the disadvantages of something in order to get the benefit it brings.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 200,
     "end": 207,
     "text": "Another problem for many people is that their job is sedentary. It involves little exercise or physical activity.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 207,
     "end": 214,
     "text": "Zoe thinks it's important that office workers who sit down all day also find time to exercise.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 214,
     "end": 219,
     "text": "Here she shares her tips with BBC Radio 4 programme inside health.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 219,
     "end": 226,
-    "text": "Especially people who have office jobs are sat down all day. We then look at some of the easy wins.",
-    "speaker": null
+    "text": "Especially people who have office jobs are sat down all day, we then look at some of the easy wins.",
+    "speaker": "easy winsbang for your buck."
   },
   {
+    "order": 38,
     "start": 226,
     "end": 234,
     "text": "So active travel. And even if that's parking a little bit further away, one of the exciting areas in the literature that's coming out at the moment is actually walking faster.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 235,
     "end": 244,
     "text": "So if you have no time to suddenly do 10,000 steps a day, can we get you to do 5,000 steps faster?",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 244,
     "end": 251,
     "text": "Will we see an improvement on your health? Yes, we will see an improvement on your health, especially over a longer period of time.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 251,
     "end": 257,
     "text": "The big focus around short, sharp exercise sessions is you get more bang for your buck.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 258,
     "end": 271,
     "text": "Zoe suggestions for active travel, things like walking from the car and using the stairs instead of the lift are easy wins, tasks that are both easy to accomplish and bring benefits.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 271,
     "end": 278,
-    "text": "Easy wins like short but intensive bursts of exercise. Increase fitness and give you more bang for your buck.",
-    "speaker": null
+    "text": "Easy wins, like short but intensive bursts of exercise, increase fitness and give you more bang for your buck",
+    "speaker": "bang for your buck"
   },
   {
+    "order": 44,
     "start": 278,
     "end": 284,
     "text": "An idiom which means that you get better results for the same amount of effort you put in.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 284,
     "end": 287,
     "text": "That's something everyone can appreciate, even you, Neil.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 287,
     "end": 293,
-    "text": "Well, I’ll definitely try to walk more, but remember, Sam, the body needs rest too!",
-    "speaker": "Neil"
+    "text": "Well, I'll definitely try to walk more, but remember Sam the body needs rest too.",
+    "speaker": null
   },
   {
+    "order": 47,
     "start": 293,
     "end": 302,
-    "text": "And speaking of walking, isn’t it  time to reveal the answer to your question: how many steps does the UK government recommend we should walk a day? I guessed it was five thousand… So, was I right?",
+    "text": "And speaking of walking, isn’t it  time to reveal the answer to your question: how many steps does the UK government recommend we should walk a day",
     "speaker": "Sam"
   },
   {
+    "order": 48,
     "start": 302,
     "end": 305,
     "text": "I guess it was 5,000, so was I right?",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 305,
     "end": 310,
     "text": "You were close, Sam, but in fact the correct answer is 10,000 steps a day.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 310,
     "end": 315,
     "text": "Although as Zoe mentioned, walking fewer steps faster has benefits too.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 315,
     "end": 323,
     "text": "Okay, let's recap the vocabulary we've learned from our lazy guide to exercise, starting with New Year's resolution.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 323,
     "end": 328,
     "text": "A promise you make to yourself to do positive things in the coming year.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 328,
     "end": 332,
     "text": "When you push yourself, you put more effort into what you’re doing.",
     "speaker": "push yourself"
   },
   {
+    "order": 54,
     "start": 332,
     "end": 338,
-    "text": "In a trade-off, you accept the disadvantages of something in order to get the benefits as well. ‘Trade-off’ can also be used as a verb.",
-    "speaker": "trade-off"
+    "text": "In a trade-off, you accept the disadvantages of something in order to get the benefits as well.",
+    "speaker": null
   },
   {
+    "order": 55,
     "start": 338,
     "end": 341,
     "text": "Trade-off can also be used as a verb.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 341,
     "end": 347,
     "text": "The adjective said in tree describes something which involves little exercise or physical activity.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 347,
     "end": 353,
     "text": "An easy win is a task that is both easy to accomplish and brings positive results.",
-    "speaker": "easy win"
+    "speaker": "sedentary"
   },
   {
+    "order": 58,
     "start": 353,
     "end": 361,
-    "text": "And finally, the idiom more bang for your buck means you get a better outcome for the same amount of effort you put into something.",
-    "speaker": null
+    "text": "And finally, the idiom more bang for your buck, means you get a better outcome for the same amount of effort you put into something",
+    "speaker": "bang for your buck"
   },
   {
+    "order": 59,
     "start": 361,
     "end": 364,
     "text": "We hope your New Year's resolutions have made it into February.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 364,
     "end": 370,
     "text": "If there's just one you keep, make it joining us again soon for more topical chat.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 370,
     "end": 373,
     "text": "Here at 6 Minute English. Bye for now.",

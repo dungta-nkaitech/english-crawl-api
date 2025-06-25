@@ -5,6 +5,31 @@
   "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p089lyns.jpg",
   "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/200423_6min_english_the_power_of_crying_download.mp3",
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/200423_6min_english_the_power_of_crying.pdf",
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "word": "be taken seriously",
+      "definition": "be taken seriouslybe treated as being deserving of attention or respect"
+    },
+    {
+      "word": "get a label",
+      "definition": "be thought of as having a particular character or nature, often unfairly"
+    },
+    {
+      "word": "final straw",
+      "definition": "further problem or difficulty, usually minor in itself, which comes after a series of other problems and makes you want to give up"
+    },
+    {
+      "word": "resentments",
+      "definition": "feelings of anger because you think you have been treated unfairly or because you have been forced to accept something that you don’t like"
+    },
+    {
+      "word": "weeping",
+      "definition": "crying tears"
+    },
+    {
+      "word": "backlog",
+      "definition": "backlogaccumulation of uncompleted matters that you should have dealt with before and must now do"
+    }
+  ],
   "quiz": null
 }

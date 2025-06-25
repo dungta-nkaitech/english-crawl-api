@@ -1,602 +1,702 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6M8English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.12,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.64,
     "end": 15.359,
     "text": "Hello and welcome to 6 Minute English. I'm Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 15.359,
     "end": 16.8,
-    "text": "And I'm Catherine. Hello!",
-    "speaker": "Catherine"
+    "text": "And I'm Catherine, hello.",
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 16.8,
     "end": 18.96,
     "text": "Now, Catherine, say cheese.",
     "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 18.96,
     "end": 20.96,
     "text": "Cheese!",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 20.96,
     "end": 24.24,
     "text": "Ah, thank you, a little souvenir of our time together.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 24.24,
     "end": 25.6,
     "text": "Let's have a look.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 10,
     "start": 25.6,
     "end": 29.359,
     "text": "I got a minute, you just took a selfie, I wasn't even in the picture.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 29.359,
     "end": 33.2,
-    "text": "Ah, well, that's the magic of the smartphone, two cameras.",
-    "speaker": null
+    "text": "Ah, well, that's the magic of the smartphone, two cameras!",
+    "speaker": "Neil"
   },
   {
+    "order": 12,
     "start": 33.2,
     "end": 36.719,
     "text": "You know, that's not something you can do with a traditional camera.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 36.719,
     "end": 40.24,
     "text": "I mean, do you even have a separate camera these days?",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 40.24,
     "end": 43.359,
-    "text": "I do actually. It's in a cupboard somewhere at home.",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 43.359,
-    "end": 46.48,
-    "text": "Well, that is the topic of this programme.",
+    "text": "I do, actually. It's in a cupboard somewhere at home.",
     "speaker": null
   },
   {
+    "order": 15,
+    "start": 43.359,
+    "end": 46.48,
+    "text": "Well, that is the topic of this programme.",
+    "speaker": "obsolete"
+  },
+  {
+    "order": 16,
     "start": 46.48,
     "end": 50.32,
     "text": "Have traditional cameras been completely replaced by smartphones?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 50.32,
     "end": 54.879,
     "text": "Or to put it another way, have cameras been made obsolete by the smartphone?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 54.879,
     "end": 56.32,
     "text": "Interesting question.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 56.399,
     "end": 61.2,
-    "text": "Interesting question. But before we get into this topic, how about a question for our listeners?",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 61.2,
-    "end": 62.159,
-    "text": "Of course.",
+    "text": "But before we get into this topic, how about a question for our listeners?",
     "speaker": null
   },
   {
+    "order": 20,
+    "start": 61.2,
+    "end": 62.159,
+    "text": "Of course.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 21,
     "start": 62.159,
     "end": 64.879,
     "text": "We are certainly in the digital age of photography,",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 64.879,
     "end": 68.64,
     "text": "but when was the first digital camera phone released?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 68.64,
     "end": 74.799,
     "text": "Was it A2000, B2004 or C2007? What do you think?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 74.799,
     "end": 80.159,
-    "text": "Well, I actually know this one, so I'm going to be fair and keep it to myself.",
-    "speaker": "Catherine"
+    "text": " Well, I actually know this one, so I'm going to be fair and keep it to myself",
+    "speaker": "Neil"
   },
   {
+    "order": 25,
     "start": 80.159,
     "end": 83.76,
     "text": "Okay, well, listen out for the answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 83.92,
     "end": 86.48,
     "text": "There are different kinds of cameras available today.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 27,
     "start": 86.48,
     "end": 90.48,
     "text": "There are compact cameras, which are small and mostly automatic,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 90.48,
     "end": 92.719,
     "text": "and usually come with a fixed lens.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 92.719,
     "end": 98.08,
     "text": "That's right. And then there are SLRs and DSLRs, which are bigger,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 98.08,
     "end": 100.64,
     "text": "and you can change the lenses on these cameras,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 100.64,
     "end": 103.76,
     "text": "and they allow for a lot of manual control.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 104.4,
     "end": 110.4,
     "text": "And there are also mirrorless cameras, which are a cross between compact cameras and DSLRs.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 33,
     "start": 110.4,
     "end": 114.88,
     "text": "They are small, like a compact camera, but you can also use the same lenses on them",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 114.88,
     "end": 117.12,
     "text": "that you can use on DSLRs.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 117.12,
     "end": 120.16,
     "text": "And of course, there are other cameras on smartphones,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 120.16,
     "end": 125.04,
-    "text": "And of course, there are the cameras on smartphones, and these are convenient and they're becoming increasingly sophisticated.",
-    "speaker": "Catherine"
+    "text": "and these are convenient and they're becoming increasingly sophisticated.",
+    "speaker": null
   },
   {
+    "order": 37,
     "start": 125.04,
     "end": 128.4,
     "text": "Phil Hall is the editor of TechRadar magazine.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 128.4,
     "end": 131.28,
-    "text": "He was asked on the BBC programme You and Yours,",
-    "speaker": null
+    "text": " He was asked on the BBC programme You and Yours",
+    "speaker": "obsolete"
   },
   {
+    "order": 39,
     "start": 131.28,
     "end": 134.8,
     "text": "if he thought smartphones would make other cameras obsolete.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 135.52,
     "end": 136.96,
     "text": "What is his opinion?",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 137.92,
     "end": 139.84,
     "text": "I don't think so.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 139.84,
     "end": 144.879,
     "text": "I think while compact cameras are really dropped off a cliff,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 144.879,
     "end": 148.24,
     "text": "it's the lower ends of cheap compacts,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 148.24,
     "end": 150.8,
     "text": "where people have opted for a smartphone.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 150.8,
     "end": 155.84,
     "text": "And I think manufacturers are looking at the more higher end premium cameras,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 155.84,
     "end": 160.64,
     "text": "high end compacts, DSLRs, which are the ones you can attach lenses to a mirrorless camera.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 160.64,
     "end": 162.159,
     "text": "So the market's changing.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 162.159,
     "end": 164.4,
     "text": "I don't think there'll be a time soon,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 164.4,
     "end": 169.28,
     "text": "or yet the smartphone will take over the camera completely.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 170.96,
     "end": 174.4,
     "text": "So does Phil think smartphones will kill the camera?",
     "speaker": "Neil"
   },
   {
+    "order": 51,
     "start": 174.4,
     "end": 176.079,
     "text": "In a word, no.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 176.079,
     "end": 180.96,
     "text": "He does say that sales of cheap compact cameras have dropped off a cliff.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 181.759,
     "end": 186.719,
     "text": "This rather dramatic expression describes a very big fall in sales.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 186.719,
     "end": 190.56,
     "text": "This is because the kind of consumers who would choose a compact camera",
-    "speaker": null
+    "speaker": "optingfor opt for"
   },
   {
+    "order": 55,
     "start": 190.56,
     "end": 193.599,
     "text": "are now opting for the camera on their smartphone.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 193.599,
     "end": 197.199,
     "text": "When you opt for something, you choose it rather than something else.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 197.84,
     "end": 204.4,
     "text": "For people who want a quick, easy-to-use and convenient way to take reasonable quality photos,",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 204.4,
     "end": 207.599,
     "text": "compact cameras used to be the best choice,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 207.599,
     "end": 209.759,
     "text": "but now it's a smartphone.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 209.759,
     "end": 213.68,
     "text": "So the camera makers are now moving to the more high end market,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 213.68,
     "end": 216,
     "text": "the DSLRs and mirrorless cameras.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 62,
     "start": 216.719,
     "end": 220.159,
     "text": "So who is still buying these more expensive cameras?",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 220.159,
     "end": 221.28,
     "text": "Here's Phil Hall again.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 222.319,
     "end": 226.24,
     "text": "I think some of it is people who are picking up a smartphone",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 226.24,
     "end": 228.319,
     "text": "and getting into photography that way.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 228.319,
     "end": 232.8,
     "text": "And that's a really great step into photography.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 232.8,
     "end": 235.84,
     "text": "I think people are probably sometimes getting a bit frustrated with the quality.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 236.96,
     "end": 242.56,
     "text": "Once they start pushing their creative skills and then looking to see what's the next",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 242.56,
     "end": 246.639,
     "text": "wrong up. So people wanting to broaden their creative skills a bit.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 247.599,
     "end": 250.319,
     "text": "Who does he say might be buying cameras?",
     "speaker": "Neil"
   },
   {
+    "order": 71,
     "start": 250.319,
     "end": 255.359,
-    "text": "He says that people who are getting into photography might get frustrated with the quality of smartphones.",
-    "speaker": "getting intofrustrated"
+    "text": "He says that people who are getting into photography might get frustrated with the quality of",
+    "speaker": null
   },
   {
+    "order": 72,
     "start": 255.359,
     "end": 260,
-    "text": "Getting into something means becoming very interested in it.",
-    "speaker": "Getting into"
+    "text": "smartphones. Getting into something means becoming very interested in it.",
+    "speaker": null
   },
   {
+    "order": 73,
     "start": 260,
     "end": 264.159,
     "text": "And if you're frustrated with something, it means you're disappointed with it.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 264.159,
     "end": 265.599,
     "text": "You're not happy with it.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 265.599,
     "end": 271.12,
     "text": "So people who have got into photography with a smartphone but are frustrated with its limitations",
-    "speaker": null
+    "speaker": "frustrated"
   },
   {
+    "order": 76,
     "start": 271.12,
     "end": 275.759,
     "text": "and wants to be more creative are going to the next level. They're moving up.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 275.759,
     "end": 279.36,
     "text": "They are, as Phil said, taking the next rung up.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 279.36,
     "end": 283.36,
-    "text": "Now a rung is the horizontal step of a ladder.",
-    "speaker": null
-  },
-  {
-    "start": 283.36,
-    "end": 290.399,
-    "text": "Now, a rung is the horizontal step of a ladder, so the expression taking the next rung up is a way to describe doing something at a higher level.",
+    "text": "Now, a rung is the horizontal step of a ladder",
     "speaker": "a rungtaking the next rung up"
   },
   {
+    "order": 79,
+    "start": 283.36,
+    "end": 290.399,
+    "text": "So the expression taking the next rung up is a way to describe doing something at a higher level.",
+    "speaker": null
+  },
+  {
+    "order": 80,
     "start": 291.199,
     "end": 295.759,
     "text": "Now talking of higher levels, did you get this week's quiz question right?",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 295.759,
     "end": 300.24,
     "text": "The question was when was the first phone with a digital camera released?",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 300.24,
     "end": 304.319,
     "text": "Was it 2000, 2004 or 2007?",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 305.279,
     "end": 309.12,
     "text": "The first phone with a digital camera was released in 2000.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 309.12,
     "end": 313.68,
     "text": "Now to take us up to the end of the programme, let's look at the vocabulary again.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 314.399,
     "end": 319.759,
     "text": "First we have the objective, obsolete, which describes something that's been replaced and is no",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 319.759,
     "end": 321.519,
     "text": "longer the first choice.",
+    "speaker": "obsolete"
+  },
+  {
+    "order": 87,
+    "start": 321.519,
+    "end": 326.639,
+    "text": "When the expression to drop off a cliff is used about, for example, sales numbers,",
     "speaker": null
   },
   {
-    "start": 321.519,
-    "end": 326.639,
-    "text": "When the expression to drop off a cliff is used about, for example, sales numbers, it means sales have fallen significantly over a short period of time.",
-    "speaker": "to drop off a cliff"
-  },
-  {
+    "order": 88,
     "start": 326.639,
     "end": 330.56,
     "text": "it means sales have fallen significantly over a short period of time.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 330.639,
     "end": 334,
-    "text": "To opt for something means to choose something.",
-    "speaker": null
-  },
-  {
-    "start": 334,
-    "end": 341.04,
-    "text": "To opt for something means to choose something and when you become very interested in an activity you can say that you get into it.",
+    "text": "To opt for something means to choose something ",
     "speaker": "opt forget into"
   },
   {
+    "order": 90,
+    "start": 334,
+    "end": 341.04,
+    "text": "And when you become very interested in an activity, you can say that you get into it.",
+    "speaker": null
+  },
+  {
+    "order": 91,
     "start": 341.04,
     "end": 345.04,
     "text": "If you're trying to do something and you can't do it because you don't have the skill,",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 345.04,
     "end": 350.24,
-    "text": "If you are trying to do something and you can't do it because you don't have the skill or the equipment you are using is not right or not good enough, you can become frustrated.",
-    "speaker": "frustrated"
+    "text": "or the equipment you are using is not right or not good enough, you can become frustrated.",
+    "speaker": null
   },
   {
+    "order": 93,
     "start": 350.24,
     "end": 357.199,
     "text": "And developing your skills to a higher level can be described as taking the next rung up.",
     "speaker": "taking the next rung up."
   },
   {
+    "order": 94,
     "start": 357.199,
     "end": 359.199,
     "text": "Right, that's all from us in this programme.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 359.199,
     "end": 362.24,
     "text": "Do join us again next time and don't forget that in the meantime,",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 362.24,
     "end": 366,
     "text": "you can find us on Instagram, Facebook, Twitter, YouTube and of course,",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 366,
     "end": 368.879,
     "text": "our website, BBCLearningEnglish.com.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 368.879,
     "end": 370.079,
     "text": "See you soon, goodbye.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 370.079,
     "end": 370.56,
     "text": "Bye!",
-    "speaker": "Catherine"
+    "speaker": null
   }
 ]

@@ -1,590 +1,688 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 13.28,
     "end": 17.44,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Rob.",
     "speaker": "Rob"
   },
   {
+    "order": 3,
     "start": 17.44,
     "end": 22.96,
     "text": "And I'm Sam. Here at 6 Minute English, we love to chat about new technology.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 22.96,
     "end": 27.92,
     "text": "One of our favourite topics is VR or virtual reality,",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 27.92,
     "end": 30.48,
     "text": "and the ways that's shaping life in the future.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 30.48,
     "end": 35.52,
     "text": "VR allows you to put on a headset and escape into a completely different world.",
-    "speaker": null
+    "speaker": "phobias"
   },
   {
+    "order": 7,
     "start": 35.52,
     "end": 40.8,
     "text": "In this programme, we'll be hearing about some of the ways VR is tackling serious problems,",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 40.8,
     "end": 44.96,
     "text": "like domestic violence and helping people overcome phobias,",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 44.96,
     "end": 47.68,
     "text": "the strong in a rational fear of something.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 47.68,
     "end": 52,
     "text": "And of course, we'll be learning some useful, related vocabulary along the way.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 52,
     "end": 56.719,
     "text": "People who use VR often describe the experience as intense,",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 56.719,
     "end": 62.479,
     "text": "putting on the headset makes you feel you're really there in what's ever new world you've chosen.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 62.479,
     "end": 70.719,
     "text": "And it's this intensity that inventives, scientists and therapists are using to help people overcome their problems.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 70.719,
     "end": 74.879,
-    "text": "We'll hear more soon, but first I have a question for you, Sam.",
-    "speaker": null
+    "text": "We’ll hear more soon, but first I have a question for you, Sam.",
+    "speaker": "Rob"
   },
   {
+    "order": 15,
     "start": 74.879,
     "end": 79.28,
     "text": "One of the phobias VR can help with is the fear of heights.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 79.28,
     "end": 82.64,
     "text": "But what is the proper name for this psychological disorder?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 82.64,
     "end": 85.2,
     "text": "Is the fear of heights called A,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 85.28,
     "end": 90.48,
     "text": "electrophobia, B, arachnophobia or C, acrophobia?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 90.48,
     "end": 93.2,
     "text": "I'll say A, electrophobia.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 93.2,
     "end": 96.56,
     "text": "Okay, Sam, we'll find out the answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 96.56,
     "end": 100.799,
     "text": "Now, if, like me, you're not very good with heights,",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 22,
     "start": 100.799,
     "end": 104.64,
     "text": "you'll be happy to know that a company called Oxford VR",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 104.64,
     "end": 108.079,
     "text": "has designed a system to help with precisely that problem.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 108.8,
     "end": 114.879,
     "text": "In the safety of your own home, you put on a headset and are guided through a series of tasks,",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 114.879,
     "end": 117.28,
     "text": "moving you higher and higher off the ground.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 117.92,
     "end": 122.239,
     "text": "You start by taking an elevator to the top floor of tall buildings",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 122.239,
     "end": 125.92,
     "text": "and move on to harder challenges like climbing a rope.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 125.92,
     "end": 131.359,
     "text": "Daniel Freeman is a professor of clinical psychology at Oxford University.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 29,
     "start": 131.359,
     "end": 135.12,
     "text": "Listen as he explains how the VR experience works",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 135.12,
     "end": 138.639,
     "text": "to BBC World Service programme People Fixing the World.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 139.759,
     "end": 142,
     "text": "Even though your consciousness is aware of assimilation,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 142,
     "end": 146.159,
     "text": "it doesn't stop all your habitual reactions to heights happening",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 146.159,
     "end": 150.479,
     "text": "and that's really important and that's why it's got such a potential to be therapeutic.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 150.479,
     "end": 154.08,
     "text": "The art of successful therapy and what you can do really, really well in VR",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 154.08,
     "end": 157.36,
     "text": "is enable someone to drop those defences and VR",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 157.36,
     "end": 160.56,
     "text": "a person is more able to drop them because they know there's no real height there.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 161.36,
     "end": 164.4,
     "text": "Although the VR experience seems real,",
-    "speaker": null
+    "speaker": "simulation"
   },
   {
+    "order": 38,
     "start": 164.4,
     "end": 168.08,
     "text": "the person using it knows it's only a simulation,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 168.08,
     "end": 170.56,
     "text": "a pretend copy of the real thing.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 170.56,
     "end": 172.96,
     "text": "This gives them confidence to go higher,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 172.96,
     "end": 175.36,
     "text": "knowing they can't really get hurt.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 175.36,
     "end": 177.039,
     "text": "But although it's simulated,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 177.039,
     "end": 182.8,
     "text": "the experience is real enough to trick your mind into acting in its habitual way,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 182.8,
     "end": 184.64,
     "text": "the way it usually typically works.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 185.36,
     "end": 188.159,
     "text": "Although your brain knows you have both feet on the ground,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 188.159,
     "end": 193.599,
     "text": "VR is so realistic that to complete the tasks you have to drop your defences,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 193.599,
     "end": 198.56,
     "text": "a phrase meaning to relax and trust people by lowering the psychological barriers",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 198.64,
     "end": 200.719,
     "text": "you have built to protect yourself.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 200.719,
     "end": 204.479,
     "text": "Oxford VR's fear of heights experience",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 50,
     "start": 204.479,
     "end": 207.84,
     "text": "uses VR to put people into another world,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 207.84,
     "end": 212,
     "text": "but the next project we'll hear about takes things even further,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 212,
     "end": 215.039,
     "text": "putting people into someone else's body.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 215.039,
     "end": 219.52,
     "text": "In Barcelona, a VR simulation is being used in prisons",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 219.52,
     "end": 222.24,
     "text": "to make men convicted of domestic violence",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 222.24,
     "end": 226.4,
     "text": "aware of what it feels like to be in the position of their victims.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 226.4,
     "end": 229.2,
     "text": "The project, called Virtual Embodiment,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 229.2,
     "end": 233.04,
     "text": "is led by neuroscientist Mavi Sanchez Vivez",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 233.04,
     "end": 236.56,
     "text": "of Barcelona's Institute for Biomedical Research.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 237.439,
     "end": 241.36,
     "text": "So in a virtual world, we can be somewhat different",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 241.36,
     "end": 244.879,
     "text": "and have a first person embodied perspective",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 244.879,
     "end": 249.28,
     "text": "from the point of view, for example, of a different person,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 249.28,
     "end": 252,
     "text": "different gender, different AIDS.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 252,
     "end": 254.319,
     "text": "One can go through different situations",
-    "speaker": null
+    "speaker": "first-person novel"
   },
   {
+    "order": 64,
     "start": 254.4,
     "end": 258.079,
     "text": "and have the experience from this totally novel perspective.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 259.12,
     "end": 263.04,
     "text": "Many of the prisoners lack empathy for their victims.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 263.04,
     "end": 268,
     "text": "Virtual embodiment works by giving these men the experience of abuse",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 268,
     "end": 274.319,
     "text": "in the first person, from the perspective of someone who actually experiences an event in person.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 274.319,
     "end": 279.839,
     "text": "In VR, the men have the insults and abuse they gave to others, turn back on them.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 279.839,
     "end": 283.36,
     "text": "It's a novel, a new and original experience for them,",
-    "speaker": null
+    "speaker": "novel"
   },
   {
+    "order": 70,
     "start": 283.439,
     "end": 285.199,
     "text": "and not a pleasant one either.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 285.199,
     "end": 287.68,
     "text": "But the VR therapy seems to be working,",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 287.68,
     "end": 291.36,
     "text": "and Dr Sanchez Vivez reports more and more of the prisoners",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 291.36,
     "end": 294.56,
     "text": "successfully reintegrating into their communities",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 294.56,
     "end": 296.24,
     "text": "after their release from prison.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 296.24,
     "end": 301.12,
     "text": "The experience VR creates of seeing things from someone else's point of view",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 301.12,
     "end": 304.56,
     "text": "can be therapeutic, even for serious problems.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 304.56,
     "end": 308.8,
     "text": "And speaking of problems, what was the answer to your question, Rob?",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 308.8,
     "end": 312.96,
     "text": "Ah, I asked Sam whether the correct name for the fear of heights",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 312.96,
     "end": 317.52,
     "text": "was electrophobia, arachnophobia, or acrophobia.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 317.52,
     "end": 320.16,
     "text": "I guessed it was electrophobia.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 320.16,
     "end": 322.319,
-    "text": "Which was the wrong answer?",
-    "speaker": null
+    "text": " Which was the wrong answer",
+    "speaker": "Sam"
   },
   {
+    "order": 82,
     "start": 322.319,
     "end": 324.879,
     "text": "electrophobia is the fear of chickens.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 324.879,
     "end": 328.8,
     "text": "The correct answer was see acrophobia, a fear of heights,",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 328.8,
     "end": 330.56,
     "text": "and a good example of a phobia.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 330.56,
     "end": 334.319,
     "text": "Hmm, let's recap the rest of the vocabulary we've learned",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 334.319,
     "end": 336.48,
     "text": "starting with simulation,",
-    "speaker": null
+    "speaker": "simulation"
   },
   {
+    "order": 87,
     "start": 336.48,
     "end": 340.08,
     "text": "a pretend copy of something that looks real, but is not.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 340.08,
     "end": 343.92,
     "text": "Her bitual describes the usual typical way something works.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 343.92,
     "end": 347.84,
     "text": "The phrase drop your defenses, means to relax,",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 347.84,
     "end": 351.759,
-    "text": "The phrase ‘drop your defences’ means to relax and trust something by lowering your psychological barriers.",
+    "text": "and trust something by lowering your psychological barriers.",
     "speaker": "drop your defences’"
   },
   {
+    "order": 91,
     "start": 351.759,
     "end": 356.48,
     "text": "In the first person, means talking about something from the perspective of the person",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 356.48,
     "end": 359.12,
     "text": "who actually experienced an event themselves.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 359.12,
     "end": 363.759,
-    "text": "And finally, the adjective novel means completely new and original, unlike anything that has happened before.",
+    "text": "And finally, the adjective novel means completely new and original,",
     "speaker": "novel"
   },
   {
+    "order": 94,
     "start": 363.759,
     "end": 366,
     "text": "unlike anything that's happened before.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 366.079,
     "end": 369.92,
     "text": "Ah, well once again, our six minutes are really and virtually over.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 369.92,
     "end": 370.8,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 370.8,
     "end": 371.6,
-    "text": "Bye!",
-    "speaker": "Sam"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

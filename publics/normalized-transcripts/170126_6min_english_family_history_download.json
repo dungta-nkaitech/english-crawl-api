@@ -1,632 +1,737 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6M8English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.88,
     "text": "From BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12,
     "end": 14.16,
-    "text": "Hello and welcome to 6 Minute English. I'm Catherine…",
+    "text": "Hello and welcome to 6 Minute English.",
     "speaker": "Catherine"
   },
   {
+    "order": 5,
     "start": 14.16,
     "end": 14.96,
     "text": "I'm Catherine.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 14.96,
     "end": 15.839,
     "text": "And I'm Neil.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 15.839,
     "end": 18.96,
-    "text": "And I'm Neil. Do you realise, Catherine, that we are related to each other?",
-    "speaker": "Neil"
+    "text": "Do you realise, Catherine, that we are related to each other?",
+    "speaker": null
   },
   {
+    "order": 8,
     "start": 18.96,
     "end": 21.92,
     "text": "Don't be silly, Neil. I think I'd know if you were in my family.",
     "speaker": "Catherine"
   },
   {
+    "order": 9,
     "start": 21.92,
     "end": 25.12,
     "text": "Well, we'll talk more about that later in the show,",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 25.12,
     "end": 29.199,
     "text": "but I should say at this point that today we're discussing genealogy.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 29.199,
     "end": 33.28,
     "text": "Well, the study of family history, and I think it's pretty fascinating stuff.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 33.28,
     "end": 36.56,
     "text": "Do you ever watch the TV programme, who do you think you are, Catherine?",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 36.56,
     "end": 40.079,
     "text": "You know, where celebrities find out about their family history?",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 40.079,
     "end": 41.6,
     "text": "Yeah, I've seen a couple of them.",
-    "speaker": null
+    "speaker": "roots"
   },
   {
+    "order": 15,
     "start": 41.6,
     "end": 45.759,
     "text": "For example, one celebrity who was very proud of his working class,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 45.759,
     "end": 47.759,
     "text": "London Roots, or Origins,",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 47.759,
     "end": 52.159,
     "text": "discovered that he's actually a direct descendant of an English king.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 52.159,
     "end": 54,
     "text": "Well, that's quite a discovery.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 54,
     "end": 55.359,
     "text": "The thing is, though, Catherine,",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 55.359,
     "end": 59.12,
     "text": "what if there isn't anything exciting in your family history?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 59.119,
     "end": 62,
-    "text": "skeletons in the closet",
-    "speaker": "Neil"
-  },
-  {
-    "start": 62,
-    "end": 64.879,
-    "text": "Well, I reckon if you go back far enough, Neil,",
+    "text": "Mysteries, no skeletons in the closet?",
     "speaker": null
   },
   {
+    "order": 22,
+    "start": 62,
+    "end": 64.879,
+    "text": "Well, I reckon if you go back far enough Neil, ",
+    "speaker": "skeletons in the closetdecipher"
+  },
+  {
+    "order": 23,
     "start": 64.879,
     "end": 70,
     "text": "there's always something exciting or unexpected in anybody's family history.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 70,
     "end": 73.92,
     "text": "And skeletons in the closet, by the way, means secrets.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 73.92,
     "end": 77.28,
     "text": "Now, I think it's time for today's quiz question.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 77.28,
     "end": 81.759,
     "text": "Researching family history often involves reading old documents",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 81.759,
     "end": 84.799,
     "text": "such as birth, marriage and death certificates,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 84.799,
     "end": 88.879,
     "text": "and these can be difficult to decipher or understand.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 88.879,
     "end": 93.28,
     "text": "So, what's the name for the study of ancient handwriting?",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 93.28,
     "end": 100.239,
     "text": "Is it A, scriptography, B, paleography, or C, scribeology?",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 100.239,
     "end": 103.359,
-    "text": "Well, it must be a) Scriptography.",
-    "speaker": "Neil"
+    "text": "Well, it must be A, scriptography.",
+    "speaker": "skeletons in the closetdecipher"
   },
   {
+    "order": 32,
     "start": 103.359,
     "end": 106.319,
     "text": "And we'll see if you're right or not later on in the show.",
-    "speaker": null
+    "speaker": "Catherine"
   },
   {
+    "order": 33,
     "start": 107.12,
     "end": 111.359,
     "text": "Now, why do you think most people look into their genealogy, Neil?",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 111.359,
     "end": 112.879,
     "text": "Is it just curiosity?",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 112.879,
     "end": 115.359,
     "text": "Well, Catherine, we all love a good mystery story,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 115.359,
     "end": 118.239,
     "text": "especially if it's connected with our own family.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 118.239,
     "end": 121.039,
     "text": "And these days, it's easy to do research online,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 121.039,
     "end": 124.079,
     "text": "because many old paper documents have been digitised",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 124.079,
     "end": 125.28,
     "text": "and are available online.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 126,
     "end": 130.4,
     "text": "BBC presenter Mike Williams investigated his own family history.",
-    "speaker": null
+    "speaker": "Catherine"
   },
   {
+    "order": 41,
     "start": 130.4,
     "end": 134.479,
     "text": "And here he's talking about his great grandfather's story.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 134.479,
     "end": 139.359,
     "text": "And if you listen very carefully, you can hear him rustling the real paper documents.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 140.4,
     "end": 144.4,
     "text": "The Williams is on my father's side and on my mother's,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 144.4,
     "end": 148.48,
     "text": "the hynno's, it's a name that we think comes from Finland.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 150.08,
     "end": 152.719,
     "text": "And if I look at this document here,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 153.439,
     "end": 157.12,
     "text": "it's a copy of the Census of England Wales 1911.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 157.12,
     "end": 160.08,
     "text": "You can see my grandfather, Miss Sun,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 160.08,
     "end": 162.319,
     "text": "and his father, the head of the household,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 163.2,
     "end": 165.92,
     "text": "Michael Heiner, or Mikael Heiner,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 165.92,
     "end": 170.48,
     "text": "who the family law has it, jumped ship and ended up in Liverpool.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 170.719,
     "end": 174.159,
     "text": "What's a census, Catherine?",
     "speaker": "census"
   },
   {
+    "order": 52,
     "start": 174.159,
     "end": 177.359,
     "text": "It's an official count of people in a population.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 177.359,
     "end": 183.599,
     "text": "So, Mike Williams' great grandfather appeared on the 1911 census for England and Wales,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 183.599,
     "end": 189.519,
     "text": "but because of his surname, the family think he might originally have come from Finland.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 189.519,
     "end": 192.479,
-    "text": "The exciting event in Mike Williams' history,",
-    "speaker": null
+    "text": "The exciting event in Mike Williams' history ",
+    "speaker": "family lore"
   },
   {
+    "order": 56,
     "start": 192.479,
     "end": 198,
     "text": "passed down through family law, which means knowledge passed on from one generation to the next,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 198.08,
     "end": 201.68,
     "text": "is that his great-grandfather jumped ship.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 201.68,
     "end": 205.68,
     "text": "Which means he left the ship he was working on without permission to do so.",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 205.68,
-    "end": 208.24,
-    "text": "And he started a new life in England.",
     "speaker": null
   },
   {
-    "start": 208.24,
-    "end": 212.479,
-    "text": "And he started a new life in England. I suppose quite a few people have immigration stories in their family histories – sometimes without knowing it.",
+    "order": 59,
+    "start": 205.68,
+    "end": 208.24,
+    "text": "And he started a new life in England.",
     "speaker": "Neil"
   },
   {
+    "order": 60,
+    "start": 208.24,
+    "end": 212.479,
+    "text": "I suppose quite a few people have immigration stories in their family histories,",
+    "speaker": null
+  },
+  {
+    "order": 61,
     "start": 212.479,
     "end": 214.479,
     "text": "sometimes without knowing it.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 214.479,
     "end": 217.84,
     "text": "Actually, that's something that many people are fascinated by.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 217.84,
     "end": 220.879,
     "text": "And has also become easier to investigate these days,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 220.879,
     "end": 226.719,
     "text": "now companies offer to test the DNA in your saliva for as little as $100.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 227.439,
     "end": 231.68,
-    "text": "And then they come up with results saying you're related to Alexander the Great or Brad Pitt.",
-    "speaker": null
+    "text": "And then they come up with results saying you're related to Alexander the Great or Brad Pitt…",
+    "speaker": "Neil"
   },
   {
+    "order": 66,
     "start": 232.24,
     "end": 234.24,
     "text": "Remember, I said that we were related.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 234.8,
     "end": 240.079,
     "text": "Well, let's now listen to El's Churchill from the Society of Genealogists here in London",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 240.079,
     "end": 241.599,
     "text": "who explains what I meant.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 242.24,
     "end": 245.28,
     "text": "There is what you might call the gateway ancestor,",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 245.28,
     "end": 247.759,
     "text": "in the idea of history and genealogies.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 247.759,
     "end": 253.439,
     "text": "That's normally somebody that's so well documented that their descendants are well known.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 253.439,
     "end": 255.84,
     "text": "In England, it's something I can, over the third.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 255.92,
     "end": 258.079,
     "text": "And we're all probably descended from Edward III.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 258.079,
     "end": 259.28,
     "text": "Isn't it nice to have royal ancestors?",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 259.28,
     "end": 262.399,
     "text": "Well, millions of people are descended from Edward III.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 262.399,
     "end": 265.12,
     "text": "And so in that sense, that's where the connection might be.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 265.12,
     "end": 268.639,
     "text": "So the chances are, a lot of people are distantly connected to each other.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 269.84,
     "end": 273.04,
     "text": "El's Churchill says it's likely that millions of us are",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 273.04,
     "end": 276.16,
-    "text": "distantly related to a gateway ancestor,",
-    "speaker": null
+    "text": " distantly related to a gateway ancestor",
+    "speaker": "Catherine"
   },
   {
+    "order": 80,
     "start": 276.16,
     "end": 278.399,
     "text": "like King Edward III of England.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 278.399,
     "end": 282,
     "text": "And that means that all those people related to Edward III",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 282,
     "end": 284.879,
     "text": "are also distantly related to each other.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 284.959,
     "end": 290.159,
     "text": "So it seems that paying a company $100 to reveal that you're related to Edward III",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 290.159,
     "end": 292.079,
     "text": "is a waste of money.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 292.079,
     "end": 295.279,
     "text": "Yes, in the sense that it's you and millions of other people.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 295.279,
     "end": 299.839,
-    "text": "Yes, in the sense that it's you and millions of other people. And in fact, we're all related to each other somehow, via Edward III or someone else.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 299.839,
-    "end": 303.04,
-    "text": "And another popular finding for British people",
+    "text": "And in fact, we're all related to each other somehow via Edward III or someone else.",
     "speaker": null
   },
   {
+    "order": 87,
+    "start": 299.839,
+    "end": 303.04,
+    "text": "And another popular finding for British people",
+    "speaker": "Catherine"
+  },
+  {
+    "order": 88,
     "start": 303.04,
     "end": 305.279,
     "text": "is to say that you're descended from the Vikings.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 305.839,
     "end": 308.159,
     "text": "And again, this is true from lots of people,",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 308.159,
     "end": 310.319,
     "text": "so it isn't particularly meaningful.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 310.319,
     "end": 312.48,
-    "text": "If you're descended from a person or a group it means they are among your ancestors.",
-    "speaker": "descended from"
+    "text": "If you're descended from a person or a group,",
+    "speaker": null
   },
   {
+    "order": 92,
     "start": 312.48,
     "end": 315.04,
     "text": "it means they are among your ancestors.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 315.04,
     "end": 320.4,
-    "text": "Now, remember I asked: what's the name for the study of ancient handwriting? Is it…",
+    "text": "Now, remember I asked: what's the name for the study of ancient handwriting?",
     "speaker": "Catherine"
   },
   {
+    "order": 94,
     "start": 320.4,
     "end": 326.8,
     "text": "Is it A, scriptography, B, paleography, or C, scribology?",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 326.8,
     "end": 331.759,
-    "text": "I said a) Scriptography. And I'm pretty confident that's the right answer.",
-    "speaker": "Neil"
+    "text": "And I said A, scriptography, and I'm pretty confident that's the right answer.",
+    "speaker": null
   },
   {
+    "order": 96,
     "start": 331.759,
     "end": 335.92,
     "text": "Well, near your pretty confident, but unfortunately, it was wrong.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 335.92,
     "end": 338.72,
     "text": "The correct answer is B, paleography.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 338.8,
     "end": 343.44,
     "text": "P paleography is the study of ancient and historical handwriting,",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 343.44,
     "end": 348.56,
     "text": "including the practice of deciphering, reading, and dating historical manuscripts.",
-    "speaker": null
-  },
-  {
-    "start": 348.56,
-    "end": 350.8,
-    "text": "Oh well, here are the words we learned:",
     "speaker": "Neil"
   },
   {
+    "order": 100,
+    "start": 348.56,
+    "end": 350.8,
+    "text": "Oh well, here are the words we learned: ",
+    "speaker": "Neil"
+  },
+  {
+    "order": 101,
     "start": 350.8,
     "end": 363.84,
     "text": "Genealogy, roots, skeletons in the closet, decipher, census, family law, descended from.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 363.84,
     "end": 367.28,
-    "text": "And that's the end of today's 6 Minute English. Don't forget to join us again soon!",
-    "speaker": "Catherine"
+    "text": "And that's the end of today's 6 Minute English.",
+    "speaker": "Neil"
   },
   {
+    "order": 103,
     "start": 367.439,
     "end": 369.839,
     "text": "Don't forget to join us again soon.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 369.839,
     "end": 370.559,
-    "text": "Bye!",
-    "speaker": "Both"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

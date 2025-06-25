@@ -1,404 +1,471 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.2800000000000002,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.2800000000000002,
     "end": 5.9190000000000005,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 14.8,
     "end": 18.8,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 18.8,
     "end": 19.839,
-    "text": "And I’m Sam.",
-    "speaker": "Sam"
+    "text": "And I'm Sam.",
+    "speaker": null
   },
   {
+    "order": 4,
     "start": 19.839,
     "end": 27.039,
     "text": "English has many proverbs, short and well-known phrases giving a piece of useful advice or common sense.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 27.439,
     "end": 31.359,
     "text": "For example, the proverb actions speak louder than words.",
-    "speaker": null
+    "speaker": "proverbs"
   },
   {
+    "order": 6,
     "start": 31.359,
     "end": 35.519,
     "text": "Means that what people do is more important than what they say.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 35.519,
     "end": 39.6,
     "text": "And the proverb don't judge a book by its cover.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 39.6,
     "end": 45.2,
     "text": "It advises people not to form opinions about people based on how they look.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 45.2,
     "end": 50.079,
     "text": "Proverbs are found in many cultures and languages and are often passed down through the",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 10,
     "start": 50.079,
     "end": 53.359,
     "text": "generations to teach children lessons in life.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 53.439,
     "end": 58.24,
     "text": "One famous English proverb is an apple a day keeps the doctor away.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 58.24,
     "end": 61.84,
     "text": "In other words, eating fresh fruit is good for you.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 61.84,
     "end": 63.84,
     "text": "But is it really true?",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 63.84,
     "end": 68.319,
     "text": "Can eating an apple a day actually have significant health benefits?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 68.879,
     "end": 71.84,
     "text": "That's the question we'll be discussing in this programme.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 71.84,
     "end": 75.68,
     "text": "And as usual, we'll be learning some new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 75.68,
     "end": 78.239,
-    "text": "But before that, I have a question for you, Sam.",
-    "speaker": null
+    "text": "But before that I have a question for you, Sam. ",
+    "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 78.879,
     "end": 85.439,
     "text": "Most proverbs come from a place's history and England has a long history of growing apples.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 85.439,
     "end": 90.959,
     "text": "Over the centuries, hundreds of different apple varieties have been grown in orchards up and down",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 90.959,
     "end": 94.319,
     "text": "the country, some with quite unusual names.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 94.319,
     "end": 99.519,
     "text": "So which of the following is the name of a real type of English apple?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 99.519,
     "end": 106.319,
     "text": "Is it a, a tailor's gold, be a golden pipin or see a black wister?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 106.399,
     "end": 109.759,
     "text": "I don't know, but I think it's be a golden pipin.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 109.759,
     "end": 112.879,
     "text": "Okay, Sam, I'll reveal the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 113.519,
     "end": 119.28,
     "text": "But whatever the name of the apple, new scientific research is showing that there really are",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 26,
     "start": 119.28,
     "end": 123.28,
     "text": "health benefits to eating apples, especially with the skins on.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 123.919,
     "end": 131.12,
     "text": "Apple skins are full of good stuff, fiber, vitamins and especially flavonoids,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 131.12,
     "end": 136.079,
     "text": "a chemical compound known to reduce blood pressure and improve brain and heart health.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 136.719,
     "end": 142.639,
-    "text": "No wonder then, that when Dr Michael Mosley, presenter of BBC Radio 4 programme, Just One Thing, wanted a snack to eat, he reached for an apple.",
+    "text": "No wonder then, that when Dr Michael Mosley, presenter of BBC Radio 4 programme,",
     "speaker": "Sam"
   },
   {
+    "order": 30,
     "start": 142.639,
     "end": 147.28,
     "text": "just one thing, wanted a snack to eat he reached for an apple.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 148.719,
     "end": 154.879,
     "text": "It's early afternoon and I'm a bit peckish, so I'm about to grab a delicious snack that could",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 154.879,
     "end": 158.479,
     "text": "improve my blood flow, boost my brain and trim my waistline.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 158.56,
     "end": 167.039,
     "text": "It's not some exotic superfood, in fact it's an apple.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 168.079,
     "end": 173.439,
     "text": "Dr. Mosley wanted something to eat because he was peckish a little bit hungry.",
-    "speaker": null
+    "speaker": "peckishexotic"
   },
   {
+    "order": 35,
     "start": 173.439,
     "end": 178.719,
     "text": "He wanted something healthy but chose an apple instead of exotic superfoods like",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 178.719,
     "end": 184.719,
     "text": "blueberries or a banana smoothie. If you call something exotic, you mean it's unusual and",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 184.719,
     "end": 191.919,
     "text": "exciting often because it comes from an unfamiliar place. Instead he ate the least exotic fruit I",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 191.919,
     "end": 199.759,
     "text": "can imagine, the humble apple. But Dr. Mosley thinks apples do have health benefits and he lists them.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 200.24,
     "end": 207.28,
     "text": "Apple's improved blood flow, boost the brain and trim the waistline, a phrase which means to keep",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 207.28,
     "end": 213.919,
     "text": "a healthy body weight with no extra fat. Yes, one reason apples are so good for us is that the",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 213.919,
     "end": 220.239,
     "text": "skin is packed with flavonoids which help people lose weight and have even been linked to a longer",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 220.239,
     "end": 225.599,
     "text": "life. But that's not all. It's the fact that there are so many different ways of cooking and",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 43,
     "start": 225.599,
     "end": 232.319,
     "text": "eating apples which makes them one of the nation's favourite foods. His Dr. Mosley again explaining",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 232.319,
     "end": 236.639,
     "text": "how he likes to eat his apples to just one thing on BBC Sounds.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 237.519,
     "end": 242.639,
     "text": "What I love about apples is they are so versatile. I've been snacking on them,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 243.279,
     "end": 248.799,
     "text": "grating them into my porridge and having them sliced with full fat yogurt as a dessert.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 248.799,
     "end": 253.839,
     "text": "But baked apples are one of my favourite ways to consume them. It seems an apple a day really",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 253.839,
     "end": 259.519,
     "text": "does keep the doctor away and also keep your heart gut and even your waistline in good shape.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 260.479,
     "end": 268.24,
     "text": "Dr. Mosley eats apples in porridge, sliced with yogurt and even baked in the oven. He describes",
-    "speaker": null
+    "speaker": "versatileflavonoids,"
   },
   {
+    "order": 50,
     "start": 268.24,
     "end": 274.799,
     "text": "them as versatile, things which can be used for many different purposes or in many different ways.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 275.359,
     "end": 282.479,
     "text": "What's more, cooking or baking apples doesn't damage those healthy flavonoids. So even the occasional",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 282.479,
     "end": 289.359,
     "text": "apple crumble with custard can be good for you. Apple crumble and custard. Hmm, I'm not so sure",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 289.36,
     "end": 295.36,
     "text": "that's a way to get in good shape. A phrase meaning healthy or in good condition. But Neil,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 295.36,
     "end": 301.92,
     "text": "it seems the old proverb is true. According to the science and apple a day really does keep the",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 301.92,
     "end": 307.92,
     "text": "doctor away. Right, it's time to reveal the answer to your question. Yes, I asked you about the",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 56,
     "start": 307.92,
     "end": 314,
     "text": "strange sounding names given to some varieties of English apple. And I said that a golden",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 314,
     "end": 320,
     "text": "pippin was the name of a real apple. So was I right? Yes, you were. Golden pippin apples were",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 58,
     "start": 320,
     "end": 325.279,
     "text": "first grown in Arondoll near the south coast of England. Well, the other two, Black Wister and",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 325.279,
     "end": 331.519,
     "text": "Taylor's gold are actually types of English pear. Right, let's recap the vocabulary we've learned",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 331.519,
     "end": 337.36,
     "text": "from this programme starting with proverb, a short sentence or expression giving some well-known",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 337.36,
     "end": 343.279,
-    "text": "If you’re feeling peckish, you’re slightly hungry.",
+    "text": "traditional advice. If you're feeling peckish, you're slightly hungry. The adjective exotic",
+    "speaker": null
+  },
+  {
+    "order": 62,
+    "start": 343.279,
+    "end": 349.279,
+    "text": "describes something which is unusual and exciting often because it comes from a faraway place.",
     "speaker": "peckish"
   },
   {
-    "start": 343.279,
-    "end": 349.279,
-    "text": "The adjective exotic describes something which is unusual and exciting, often because it comes from a faraway place.",
-    "speaker": "exotic"
-  },
-  {
+    "order": 63,
     "start": 349.279,
     "end": 355.759,
-    "text": "The phrase trim the waistline means to keep your body weight healthy with no extra fat around your waistline – the area of your body above the hips.",
+    "text": "The phrase trim the waistline means to keep your body weight healthy with no extra fat around your",
     "speaker": "trim the waistline"
   },
   {
+    "order": 64,
     "start": 355.759,
     "end": 362.399,
     "text": "waistline, the area of your body above the hips. Something which is versatile can be used for many",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 362.399,
     "end": 368.559,
     "text": "purposes or in many different ways. And finally, if someone is in good shape, they're in a good state",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 368.56,
     "end": 372.879,
     "text": "of health. Once again, our six minutes are up. Bye for now. Bye.",
-    "speaker": null
+    "speaker": "in good shape"
   }
 ]

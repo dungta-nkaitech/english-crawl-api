@@ -1,776 +1,905 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 8.24,
     "text": "6-Nate English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.56,
     "text": "From BBC Learning English",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.12,
     "end": 15.599,
     "text": "Hello and welcome to 6 Minute English. I'm Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 15.599,
     "end": 16.879,
     "text": "And hello, I'm Rob.",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 16.879,
     "end": 21.199,
-    "text": "Today’s topic is about our health and in particular our hearts. How’s your heart, Rob?",
+    "text": "Today’s topic is about our health and in particular our hearts.",
     "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 21.199,
     "end": 22.559,
     "text": "How's your heart, Rob?",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 22.559,
     "end": 25.039,
     "text": "Uh, fine, I hope, as far as I know.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 25.039,
     "end": 26.32,
     "text": "Do you take care of it?",
     "speaker": "Neil"
   },
   {
+    "order": 10,
     "start": 26.399,
     "end": 30.32,
     "text": "Well, not my heart specifically, but my health in general, yes.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 30.32,
     "end": 34.24,
     "text": "I like to exercise regularly and I try to eat healthy foods.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 34.24,
     "end": 38.799,
     "text": "So that cheeseburger I saw you eating just now was a healthy cheeseburger?",
     "speaker": "Neil"
   },
   {
+    "order": 13,
     "start": 38.799,
     "end": 41.039,
     "text": "Fake news, you're making that up, Neil.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 41.039,
     "end": 42.32,
     "text": "Don't believe him, listeners.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 42.32,
     "end": 45.519,
     "text": "It would break my heart if people thought I ate junk food.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 45.519,
     "end": 47.92,
-    "text": "Now that's an interesting expression.",
-    "speaker": null
+    "text": "Now that’s an interesting expression.",
+    "speaker": "Neil"
   },
   {
+    "order": 17,
     "start": 47.92,
     "end": 49.519,
     "text": "It would break my heart.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 49.519,
     "end": 52.719,
     "text": "We say that when we talk about things that upset us,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 52.719,
     "end": 56.159,
     "text": "of course we don't really mean that our heart is actually breaking.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 56.159,
     "end": 58.719,
-    "text": "However, you do sometimes hear stories about people who they say ‘died from a broken heart’.",
-    "speaker": "Rob"
+    "text": "However, you do sometimes hear stories about people",
+    "speaker": null
   },
   {
+    "order": 21,
     "start": 58.719,
     "end": 60.959,
     "text": "who they say died from a broken heart.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 61.599,
     "end": 63.279,
-    "text": "That is today's topic.",
-    "speaker": null
+    "text": "That is today’s topic ",
+    "speaker": "Neil"
   },
   {
+    "order": 23,
     "start": 63.279,
     "end": 65.679,
     "text": "Can you die from a broken heart?",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 24,
     "start": 65.679,
     "end": 67.28,
     "text": "First though, the quiz question.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 67.28,
     "end": 72.239,
     "text": "The first human-to-human heart transplant took place in 1967.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 72.239,
     "end": 74.319,
     "text": "But what country was it in?",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 74.319,
     "end": 79.28,
     "text": "Was it A, South Africa, B, USA, or C, China?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 79.28,
     "end": 80.159,
     "text": "What do you think, Rob?",
     "speaker": "Neil"
   },
   {
+    "order": 29,
     "start": 80.159,
     "end": 83.439,
-    "text": "Well, I think it is definitely a) South Africa.",
-    "speaker": "Rob"
+    "text": "Well, I think it is definitely A, South Africa.",
+    "speaker": null
   },
   {
+    "order": 30,
     "start": 83.439,
     "end": 85.359,
     "text": "Okay, we'll give you the answer.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 85.359,
     "end": 86.48,
     "text": "At the end of the program.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 87.12,
     "end": 89.28,
     "text": "Now back to the subject of broken hearts.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 89.28,
     "end": 94,
     "text": "And if you can die from one, Dr. Nikki Stamp is an Australian heart surgeon.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 94,
     "end": 95.039,
     "text": "She's written a book,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 95.039,
     "end": 98.079,
     "text": "helpfully called, Can You Die from a Broken Heart?",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 98.079,
     "end": 101.519,
     "text": "She was a guest on the BBC Radio 4 program, Woman's Hour,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 101.519,
     "end": 103.76,
     "text": "and was asked that very question.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 103.76,
     "end": 105.599,
     "text": "Does she think it's possible?",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 105.599,
     "end": 106.799,
     "text": "Yes, short answer is yes.",
-    "speaker": null
+    "speaker": "nuancedbereavementmuddle our way"
   },
   {
+    "order": 40,
     "start": 107.599,
     "end": 109.599,
     "text": "It's a little bit more nuanced than that.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 109.599,
     "end": 111.359,
     "text": "For most of us, when we have a broken heart,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 111.359,
     "end": 114.799,
     "text": "whether it's bereavement or a relationship coming to an end,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 114.799,
     "end": 115.759,
     "text": "we will be fine.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 115.759,
     "end": 117.359,
     "text": "We'll muddle our way through it.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 117.359,
     "end": 121.359,
     "text": "We'll take not so good care of ourselves, but we'll get there.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 121.359,
     "end": 123.439,
     "text": "However, the physical effects still happen.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 123.439,
     "end": 126.159,
     "text": "And it is a big stress on your emotions, obviously,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 126.159,
     "end": 127.599,
     "text": "but also on your body.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 127.599,
     "end": 131.439,
-    "text": "So she says 'yes' it is possible to die from a broken heart. But Rob, is it as clear and simple as that?",
-    "speaker": "Rob"
+    "text": "So she says, yes, it is possible to die from a broken heart.",
+    "speaker": null
   },
   {
+    "order": 50,
     "start": 131.439,
     "end": 134.639,
     "text": "But, Rob, is it as clear and simple as that?",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 134.639,
     "end": 135.519,
     "text": "Well, no.",
-    "speaker": null
+    "speaker": "nuancednuanced"
   },
   {
+    "order": 52,
     "start": 135.519,
     "end": 137.68,
     "text": "She said it was a bit more nuanced.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 138.24,
     "end": 140.639,
     "text": "This means it's not a simple relationship.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 140.639,
     "end": 142.96,
     "text": "A situation that is nuanced has small,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 142.96,
     "end": 145.2,
     "text": "but possibly important differences.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 145.2,
     "end": 147.52,
-    "text": "She mentioned a couple of situations where we say that people could have a broken heart, didn’t she?",
-    "speaker": "Neil"
+    "text": "She mentioned a couple of situations where we say",
+    "speaker": null
   },
   {
+    "order": 57,
     "start": 147.52,
     "end": 150,
     "text": "that people could have a broken heart, didn't she?",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 150,
     "end": 154.4,
     "text": "Yes, she talked about times of great unhappiness and emotional stress.",
-    "speaker": null
+    "speaker": "bereavementBereavement"
   },
   {
+    "order": 59,
     "start": 154.4,
     "end": 157.28,
     "text": "One of the ones she mentioned was bereavement.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 157.28,
     "end": 160.48,
     "text": "Bereavement is the intense feeling of sadness we get",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 160.48,
     "end": 162.48,
     "text": "when someone close to us dies.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 162.48,
     "end": 165.84,
     "text": "The other situation where we say people are broken hearted is,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 165.84,
     "end": 169.84,
     "text": "as Dr. Stamps said, when a relationship comes to an end.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 169.92,
     "end": 172.8,
     "text": "So if your boyfriend, girlfriend, husband, wife,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 172.8,
     "end": 175.68,
     "text": "or lover decides they no longer want to be with you.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 175.68,
     "end": 179.52,
     "text": "So these are times when we use the expression to be broken hearted.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 179.52,
     "end": 182.56,
     "text": "But thankfully, they don't usually lead to death.",
-    "speaker": null
+    "speaker": "muddle through"
   },
   {
+    "order": 68,
     "start": 182.56,
     "end": 185.439,
     "text": "She said that usually we muddle through.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 185.439,
     "end": 188.48,
     "text": "This expression means that we get through our sadness.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 188.48,
     "end": 191.199,
     "text": "Maybe slowly and maybe we don't think clearly",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 191.199,
     "end": 192.8,
     "text": "and don't make the right decisions.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 192.8,
     "end": 195.759,
     "text": "But in the end, we mend our broken hearts.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 195.759,
     "end": 197.92,
     "text": "For some people, a few people, though,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 197.919,
     "end": 201.039,
     "text": "the emotional stress does have an effect on the body.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 201.039,
     "end": 205.039,
     "text": "It does lead to physical symptoms and sometimes sadly death.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 205.759,
     "end": 207.199,
     "text": "Here's Dr. Stamps again.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 207.199,
     "end": 210.879,
     "text": "Which expression does she use instead of the word died?",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 211.599,
     "end": 215.119,
     "text": "And then for some people, you will die of a broken heart.",
-    "speaker": null
+    "speaker": "passed awaypassed away"
   },
   {
+    "order": 79,
     "start": 215.119,
     "end": 218.079,
     "text": "And we do tend to see that in elderly people",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 218.079,
     "end": 221.279,
     "text": "who, you know, like a few weeks after,",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 221.279,
     "end": 224.319,
     "text": "grandma passed away, granddad passed away a long after.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 225.12,
     "end": 227.599,
     "text": "She says that dying of a broken heart",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 227.599,
     "end": 230.719,
     "text": "can happen with older people and she used the expression",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 230.719,
     "end": 233.759,
     "text": "passed away rather than the word died.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 233.759,
     "end": 236.639,
     "text": "Dying from a broken heart may be quite rare,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 86,
     "start": 236.639,
     "end": 239.359,
     "text": "but heart problems still exist for many,",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 239.359,
     "end": 242.159,
     "text": "particularly those who are very overweight.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 242.159,
     "end": 244.479,
     "text": "This is a problem in many parts of the world.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 244.479,
     "end": 245.359,
     "text": "But why is that?",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 246.079,
     "end": 249.84,
     "text": "Dr. Stamps says that we are increasingly time poor.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 249.84,
     "end": 251.759,
     "text": "We have less and less free time,",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 251.759,
     "end": 253.84,
     "text": "as we're spending more time working.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 254.479,
     "end": 257.439,
     "text": "This leads to our not doing as much exercise",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 94,
     "start": 257.439,
     "end": 261.04,
     "text": "and eating more convenience food rather than making our own food",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 261.04,
     "end": 262.639,
     "text": "from healthy ingredients.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 262.639,
     "end": 266.56,
     "text": "The doctor says that we are not prioritising our health as we should be.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 266.56,
     "end": 270.719,
     "text": "Prioritising means deciding how important different things are.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 270.719,
     "end": 274.719,
     "text": "So we're not thinking of our health as being as important as we should.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 274.719,
     "end": 277.12,
     "text": "Right, well, we're quite time poor in this programme,",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 277.12,
     "end": 280.159,
     "text": "so it's time for the answer to our quiz.",
-    "speaker": null
+    "speaker": "time-poor"
   },
   {
+    "order": 101,
     "start": 280.159,
     "end": 284.159,
     "text": "In which country was the first human-to-human heart transplant",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 285.12,
     "end": 289.439,
     "text": "the choices were South Africa, USA or China.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 289.439,
     "end": 290.56,
     "text": "What did you say, Rob?",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 290.56,
     "end": 293.28,
     "text": "Yeah, I was sure it was South Africa.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 293.28,
-    "end": 297.04,
-    "text": "Well, you were right to be sure because the answer is South Africa.",
     "speaker": null
   },
   {
+    "order": 105,
+    "start": 293.28,
+    "end": 297.04,
+    "text": "Well, you were right to be sure because the answer is South Africa.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 106,
     "start": 297.04,
     "end": 299.36,
     "text": "Congratulations if you got that right.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 299.36,
     "end": 302.08,
     "text": "Now just time to recap today's vocabulary.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 302.08,
     "end": 304.24,
     "text": "Yes, we started off with nuanced.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 304.24,
     "end": 309.04,
     "text": "This adjective means something is not as simple as it might seem.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 309.04,
     "end": 312.72,
     "text": "There may be small but important things that need to be considered.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 312.8,
     "end": 317.36,
     "text": "Then there was bereavement. The sadness we feel when someone close to us has passed away.",
     "speaker": "bereavementpassed away"
   },
   {
+    "order": 112,
     "start": 318,
     "end": 320.32,
     "text": "Passed away was one of our other words,",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 320.32,
     "end": 323.12,
-    "text": "Passed away was one of our other words, and it’s a more gentle way of saying ‘died’.",
-    "speaker": "Passed away"
+    "text": "and it's a more gentle way of saying, died.",
+    "speaker": null
   },
   {
+    "order": 114,
     "start": 323.12,
     "end": 326.08,
     "text": "We also had the phrasal verb, model through.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 326.08,
     "end": 330.48,
     "text": "This expression means to get to the end of a difficult situation somehow,",
-    "speaker": null
+    "speaker": "muddle through"
   },
   {
+    "order": 116,
     "start": 330.48,
     "end": 332.96,
     "text": "not always by making the right decisions,",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 332.96,
     "end": 334.8,
     "text": "but in the end getting there.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 334.8,
     "end": 339.2,
     "text": "Being time poor was the expression for not having enough free time.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 339.279,
     "end": 344.319,
     "text": "And finally prioritizing was the noun for deciding how important different things are.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 345.039,
     "end": 347.439,
     "text": "Well, that's all from six minute English today.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 347.439,
     "end": 348.719,
     "text": "Don't break our hearts.",
-    "speaker": null
+    "speaker": "prioritising"
   },
   {
+    "order": 122,
     "start": 348.719,
     "end": 350,
     "text": "Do join us again.",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 350,
     "end": 353.199,
     "text": "But in the meantime, you can find us in all the usual places.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 353.199,
     "end": 356.639,
     "text": "Facebook, Twitter, Instagram, YouTube, and of course,",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 356.639,
     "end": 363.039,
     "text": "our website, BBCLearningEnglish.com, where you can find all kinds of audio programs,",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 363.039,
     "end": 367.36,
     "text": "videos, activities and quizzes to help you improve your English.",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 367.36,
     "end": 369.199,
     "text": "Thanks for joining us and goodbye.",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 369.199,
     "end": 369.6,
-    "text": "Bye!",
-    "speaker": "Rob"
+    "text": "Bye-bye.",
+    "speaker": null
   }
 ]

@@ -1,350 +1,408 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.44,
     "text": "This is a download from BBC Learning English. To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 13.439,
     "end": 17.76,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Rob.",
     "speaker": "Rob"
   },
   {
+    "order": 2,
     "start": 17.76,
     "end": 18.719,
-    "text": "And I’m Sam.",
-    "speaker": "Sam"
-  },
-  {
-    "start": 18.719,
-    "end": 24,
-    "text": "With the outbreak of the coronavirus epidemic, people in many countries around the world",
+    "text": "And I'm Sam.",
     "speaker": null
   },
   {
+    "order": 3,
+    "start": 18.719,
+    "end": 24,
+    "text": "With the outbreak of the coronavirus epidemic, people in many countries around the world",
+    "speaker": "Rob"
+  },
+  {
+    "order": 4,
     "start": 24,
     "end": 29.76,
     "text": "have started wearing face masks to protect both themselves and others they come into contact with.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 30.64,
     "end": 35.039,
     "text": "In this programme we'll be asking whether wearing masks in public can help prevent",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 35.039,
     "end": 37.759,
     "text": "the spread of coronavirus in the community.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 47.359,
     "end": 54.4,
     "text": "Wearing a protective mask or face covering is nothing new. Medical masks have a long history",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 8,
     "start": 54.399,
     "end": 59.759,
     "text": "from the plagues of medieval Europe to 19th century outbreaks of cholera in the United States.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 60.479,
     "end": 66.319,
     "text": "But when did they start to be commonly used? That's my question for today. When and where were",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 66.319,
     "end": 77.92,
     "text": "face masks first widely used? Was it A, 1855 in Vienna, B, 1905 in Chicago, or C, 1955 in London?",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 78.159,
     "end": 85.68,
     "text": "Hmm, well you mentioned cholera outbreaks in the US, Rob. So I'll say B, 1905 in Chicago.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 85.68,
     "end": 89.12,
     "text": "Right, Sam. Where we'll find out later if you are right.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 90,
     "end": 96.079,
     "text": "Now face masks may inspire confidence, but what is the evidence that they actually protect the",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 14,
     "start": 96.079,
     "end": 101.2,
     "text": "wearer from contracting the virus or prevent infected people from spreading the virus to others?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 101.92,
     "end": 107.76,
     "text": "Professor Rob West has conducted a review of over 20 studies looking into the evidence.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 108.32,
     "end": 112.4,
-    "text": "Here he is speaking to the BBC World Service Programme Health Check.",
-    "speaker": null
+    "text": " Here he is speaking to the BBC World Service programme Health Check",
+    "speaker": "Sam"
   },
   {
+    "order": 17,
     "start": 113.2,
     "end": 117.2,
     "text": "The evidence is equivocal on it. It doesn't really tell you anything yet. I mean,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 117.2,
     "end": 122.64,
     "text": "hopefully that will change. So we're thrown back on sort of first principles and basics and",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 122.64,
     "end": 128,
     "text": "this is why I've seen so many other areas of public health. You get such a heated debate because",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 128,
     "end": 133.28,
     "text": "people are really relying on their opinion on things and you will have one group who say,",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 133.28,
     "end": 138.8,
     "text": "well, it stands to reason. The good old stands to reason argument, which is obviously if you've",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 138.8,
     "end": 145.36,
     "text": "got a covering in front of your face and you're speaking or coughing into that covering, it's going",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 145.36,
     "end": 151.84,
     "text": "to trap quite a lot of the virus on the droplets that you'll be emitting. So far the evidence",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 152.08,
     "end": 158.4,
     "text": "over whether face masks are helpful or harmful is equivocal, difficult to interpret because it",
-    "speaker": null
+    "speaker": "equivocal"
   },
   {
+    "order": 25,
     "start": 158.4,
     "end": 164.8,
     "text": "seems to have two opposite or contradictory meanings. Based on current evidence, Professor West",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 164.8,
     "end": 170.24,
     "text": "feels we cannot say whether mask wearing is beneficial. Some evidence suggests that wearing",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 170.24,
     "end": 177.199,
     "text": "masks can prevent the disease spreading and some suggest the opposite. There may be reasons why",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 177.439,
     "end": 183.039,
-    "text": "wearing masks could actually increase the spread of coronavirus. However, for some people,",
-    "speaker": null
+    "text": "wearing masks could actually increase the spread of coronavirus. However for some people, ",
+    "speaker": "Rob"
   },
   {
+    "order": 29,
     "start": 183.039,
     "end": 190.159,
-    "text": "However for some people, it stands to reason that masks are beneficial– meaning it is obviously true from the facts.",
-    "speaker": "it stands to reason"
-  },
-  {
-    "start": 190.799,
-    "end": 196.239,
-    "text": "Actually, the evidence is far from obvious, but everyone has an opinion on the issue and after",
+    "text": "it stands to reason that masks are beneficial, meaning it is obviously true from the facts.",
     "speaker": null
   },
   {
+    "order": 30,
+    "start": 190.799,
+    "end": 196.239,
+    "text": "Actually, the evidence is far from obvious. But everyone has an opinion on the issue and after",
+    "speaker": "heated debate"
+  },
+  {
+    "order": 31,
     "start": 196.239,
     "end": 202.639,
     "text": "weeks of stressful lockdown, this can lead to heated debate, discussion or argument in which people",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 202.879,
     "end": 208.639,
     "text": "become angry and excited. Up until recently, the World Health Organization said there were two",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 208.639,
     "end": 215.519,
-    "text": "Up until recently, the World Health Organisation said there were two groups who definitely should wear masks: people showing symptoms of the virus and their carers.",
-    "speaker": "Sam"
-  },
-  {
-    "start": 215.519,
-    "end": 220.239,
-    "text": "But that left the problem of people who have the virus without knowing it and maybe unintentionally",
+    "text": "groups who definitely should wear masks, people showing symptoms of the virus and their carers.",
     "speaker": null
   },
   {
+    "order": 34,
+    "start": 215.519,
+    "end": 220.239,
+    "text": "But that left the problem of people who have the virus without knowing it and maybe unintentionally",
+    "speaker": "emitting"
+  },
+  {
+    "order": 35,
     "start": 220.239,
     "end": 225.759,
     "text": "emitting it, sending something out into the air, for example a noise or smell or in this case",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 225.84,
     "end": 233.359,
     "text": "coronavirus. In June, the WHO advice changed. Now they say masks should be worn in public where",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 233.359,
     "end": 240.399,
     "text": "social distancing measures are not possible. But the advantages of wearing masks might be outweighed",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 240.399,
     "end": 247.599,
     "text": "by other considerations as Professor West explains. It could also have unfortunate negative",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 247.599,
     "end": 254.239,
     "text": "consequences in terms of the sort of mask shaming that people feel compelled to wear masks in",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 254.24,
     "end": 259.36,
     "text": "situations where it's actually not helpful and maybe harmful because it's expected of them",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 259.36,
     "end": 265.199,
     "text": "and they feel that they would be judged if they didn't. But I think in addition to that,",
-    "speaker": null
+    "speaker": "mask shamingfalse sense of security."
   },
   {
+    "order": 42,
     "start": 265.199,
     "end": 270.8,
     "text": "one of the problems we have is that masks can potentially create a false sense of security.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 271.519,
     "end": 278.56,
-    "text": "One negative effect is the practice of mask shaming – criticising or humiliating someone for not wearing a face covering.",
-    "speaker": "mask shaming"
+    "text": "One negative effect is the practice of mask shaming, criticising or humiliating someone for not",
+    "speaker": null
   },
   {
+    "order": 44,
     "start": 278.56,
     "end": 285.199,
     "text": "wearing a face covering. Another problem is that wearing masks might create a false sense of",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 285.199,
     "end": 292.72,
     "text": "security, a feeling of being safer and you really are. Is that what happened in 1905 Rob?",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 292.72,
     "end": 298.319,
     "text": "Oh yes, today's quiz question. I asked you when face masks were first widely used.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 298.319,
     "end": 307.36,
     "text": "And I said B, 1905 in Chicago. Ah, well done Sam, you were absolutely right. It was 1905 in Chicago",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 307.439,
     "end": 314,
     "text": "when Dr Alice Hamilton first noticed that care as wearing masks to treat scarlet fever patients",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 314,
     "end": 320.56,
     "text": "did not get sick. Okay, interesting. So today we've been discussing whether wearing masks helps",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 320.56,
     "end": 328,
     "text": "prevent infected people emitting or sending out coronavirus. Well, so far the evidence is",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 328,
     "end": 335.04,
-    "text": "So far the evidence is equivocal – unclear because it seems contradictory. In other words, we can’t say either way for certain.",
-    "speaker": "equivoca"
+    "text": "equivocal, unclear because it seems contradictory. In other words, we can't say either way for certain.",
+    "speaker": "emitting"
   },
   {
+    "order": 52,
     "start": 335.04,
     "end": 342.48,
     "text": "But for some, it stands to reason, meaning it's obviously true that mask wearing is a good idea.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 342.48,
     "end": 348.16,
     "text": "The disagreement over wearing face coverings has started heated debate. That's discussion",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 348.16,
     "end": 354.8,
     "text": "which becomes angry or excited. And this in turn has led to incidents of mask shaming,",
-    "speaker": null
+    "speaker": "heated debate"
   },
   {
+    "order": 55,
     "start": 355.439,
     "end": 362.56,
     "text": "criticising or mocking people for not wearing a face mask. A final drawback is that masks might give",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 362.56,
     "end": 368.399,
     "text": "the wearer a false sense of security. That's belief that they are safe when they're not.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 369.04,
     "end": 372.56,
-    "text": "That’s all we’ve got time for today.",
-    "speaker": "Sam"
+    "text": "And that's all we've got time for today. Bye for now. Bye bye.",
+    "speaker": null
   }
 ]

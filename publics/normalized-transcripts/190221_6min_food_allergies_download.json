@@ -1,692 +1,807 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.4,
     "end": 15.04,
     "text": "Hello and welcome to 6 Minute English. I'm Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 15.04,
     "end": 16.559,
-    "text": "And, hello, I'm Rob.",
-    "speaker": "Rob"
+    "text": "And hello, I'm Rob.",
+    "speaker": null
   },
   {
+    "order": 4,
     "start": 16.559,
     "end": 19.92,
-    "text": "In 6 Minute English we often talk about food, don’t we, Rob?",
+    "text": "In 6 Minute English we often talk about food, don’t we, Rob? ",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 19.92,
     "end": 23.6,
-    "text": "Oh yes! And I love food. It’s a very important topic.",
-    "speaker": "Rob"
+    "text": "Oh yes, and I love food. It's a very important topic.",
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 23.6,
     "end": 27.679,
-    "text": "We know that too much of the wrong kind of food can be bad for our health. But there is another way that food can be harmful for some people.",
+    "text": "We know that too much of the wrong kind of food can be bad for our health.",
     "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 27.679,
     "end": 30.8,
     "text": "but there is another way that food can be harmful for some people.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 30.8,
     "end": 34.479,
     "text": "Yes, you're right. Some people have food allergies.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 34.479,
     "end": 37.439,
     "text": "They can become very ill if they eat certain foods,",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 37.439,
     "end": 40.719,
     "text": "such as peanuts, shellfish, milk and so on.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 40.719,
     "end": 42.64,
     "text": "So, Neil, do you have any food allergies?",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 42.64,
     "end": 47.84,
-    "text": "Fortunately I don't, but my daughter is allergic to tree nuts, and so she gets very ill if she eats those.",
+    "text": "Fortunately I don't, but my daughter is allergic to tree nuts, ",
     "speaker": "allergic"
   },
   {
+    "order": 13,
     "start": 47.84,
     "end": 50.399,
     "text": "And so she gets very ill if she eats those. No, dear.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 50.399,
     "end": 53.28,
     "text": "Well, it seems as if there are more food allergies these days,",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 53.28,
     "end": 57.12,
     "text": "or more people have them. Or maybe it's just in the news more.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 57.119,
     "end": 61.599,
     "text": "Well, that's a very interesting point because that is the topic of this program.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 17,
     "start": 61.599,
     "end": 64.879,
     "text": "Before we find out more though, here is our question.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 64.879,
     "end": 68.64,
     "text": "One of the most common food allergies is to peanuts.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 68.64,
     "end": 71.12,
     "text": "Now, what kind of food is a peanut?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 71.12,
     "end": 76.4,
     "text": "Is it a vegetable, be a nut or see a legume?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 76.4,
     "end": 78.719,
-    "text": "Oh, come on, a peanut is a nut.",
-    "speaker": null
+    "text": " Oh, come on! A peanut is a nut",
+    "speaker": "Neil"
   },
   {
+    "order": 22,
     "start": 78.719,
     "end": 80.319,
     "text": "There's a clue in the name there, Neil.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 80.959,
     "end": 82.56,
     "text": "But that would be too easy, wouldn't it?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 82.56,
     "end": 86,
     "text": "So, I'm going to say that I've got no idea what a legume is,",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 86,
     "end": 87.84,
     "text": "so that's my answer, see.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 87.84,
     "end": 90.4,
     "text": "I'll have the answer at the end of the program.",
-    "speaker": null
+    "speaker": "food allergies"
   },
   {
+    "order": 27,
     "start": 90.4,
     "end": 94.719,
     "text": "To help answer the question as to whether food allergies are more common now,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 94.719,
     "end": 100.56,
     "text": "here's Dr Adam Fox, who is speaking on the food program on BBC Radio 4.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 100.56,
     "end": 102.719,
     "text": "Does he think there has been an increase?",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 103.439,
     "end": 106.719,
     "text": "I think we can be very confident if you look back over say 30 or 40 years,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 31,
     "start": 106.719,
     "end": 110.079,
     "text": "that there are much more allergic problems around now than there were.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 110.079,
     "end": 113.68,
     "text": "So, for example, very robust studies that look at prevalence of things like",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 113.68,
     "end": 119.12,
     "text": "eczema, food allergy, do show really significant increases over 20, 30 years, for example.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 120.64,
     "end": 122.24,
     "text": "Has there been an increase?",
     "speaker": "Neil"
   },
   {
+    "order": 35,
     "start": 122.24,
     "end": 126.4,
-    "text": "Well, yes. He says there have been significant increases. This means there has been a 'clear and obvious rise'.",
-    "speaker": "significantincreases"
+    "text": "Well, yes, he says there have been significant increases.",
+    "speaker": null
   },
   {
+    "order": 36,
     "start": 126.4,
     "end": 130,
     "text": "This means there has been a clear and obvious rise.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 130,
     "end": 131.76,
     "text": "Why does he think that?",
     "speaker": "Neil"
   },
   {
+    "order": 38,
     "start": 131.76,
     "end": 134.719,
     "text": "He said that there have been robust studies.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 134.719,
     "end": 138.4,
     "text": "A study is a piece of research, and if you say a study is robust,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 138.4,
     "end": 143.28,
     "text": "it means that it was very detailed and conducted thoroughly to a high standard.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 143.28,
     "end": 147.12,
     "text": "He said that these studies looked at the prevalence of a few things.",
-    "speaker": null
-  },
-  {
-    "start": 147.12,
-    "end": 151.84,
-    "text": "He said that these studies looked at the prevalence of a few things. Prevalence is a noun that refers to how common something is, how often it happens.",
     "speaker": "prevalencePrevalence"
   },
   {
+    "order": 42,
+    "start": 147.12,
+    "end": 151.84,
+    "text": "Prevalence is a noun that refers to how common something is, how often it happens.",
+    "speaker": null
+  },
+  {
+    "order": 43,
     "start": 151.84,
     "end": 156.08,
     "text": "One of the things they looked at, as well as food allergies, was eczema.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 156.08,
     "end": 159.68,
     "text": "This is a skin condition that usually happens in childhood.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 159.68,
     "end": 164.319,
     "text": "The skin can get red, itchy and painful over different parts of the body.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 164.319,
     "end": 166,
-    "text": "Here’s Dr Fox again.",
-    "speaker": "Neil"
+    "text": "Here's Dr Fox again.",
+    "speaker": null
   },
   {
+    "order": 47,
     "start": 166,
     "end": 169.199,
     "text": "I think we can be very confident if you look back over say 30 or 40 years,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 169.199,
     "end": 172.639,
     "text": "that there are much more allergic problems around now than there were.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 172.719,
     "end": 176.799,
     "text": "For example, very robust studies that look at prevalence of things like eczema,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 176.799,
     "end": 182,
     "text": "food allergy, do show really significant increases over 20, 30 years, for example.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 182,
     "end": 185.279,
-    "text": "So what is the reason for the increase in food allergies? Is it genetics? Dr Fox again.",
+    "text": "So what is the reason for the increase in food allergies?",
     "speaker": "food allergies"
   },
   {
+    "order": 52,
     "start": 185.279,
     "end": 186.559,
     "text": "Is it genetics?",
     "speaker": "Neil"
   },
   {
+    "order": 53,
     "start": 186.559,
     "end": 187.919,
     "text": "Dr Fox again.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 187.919,
     "end": 189.839,
     "text": "We certainly can't put it down to genetics,",
-    "speaker": null
+    "speaker": "eczema food allergies"
   },
   {
+    "order": 55,
     "start": 189.839,
     "end": 193.039,
     "text": "and we now understand that there is a key role for eczema.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 193.039,
     "end": 198.159,
     "text": "So there's a pretty direct relationship between whether you've got eczema during infancy",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 198.159,
     "end": 200,
     "text": "and your likelihood of getting a food allergy.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 200.08,
     "end": 201.52,
     "text": "Is it genetics?",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 201.52,
     "end": 205.919,
     "text": "No. He says you can't put it down to genetics,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 205.919,
     "end": 208.8,
     "text": "which means you can't explain it by genetics.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 208.8,
     "end": 212.56,
     "text": "In fact, according to the research, if you have eczema as a child,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 212.56,
     "end": 214.96,
     "text": "you are more likely to develop food allergies.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 214.96,
     "end": 217.199,
     "text": "Here's Dr Fox one more time.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 217.199,
     "end": 219.52,
     "text": "We certainly can't put it down to genetics,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 219.52,
     "end": 222.4,
     "text": "and we now understand that there is a key role for eczema.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 222.4,
     "end": 228,
     "text": "So there's a pretty direct relationship between whether you've got eczema during infancy",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 228.08,
     "end": 230,
     "text": "and your likelihood of getting a food allergy.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 230.56,
     "end": 233.039,
     "text": "Okay, now time to review our vocabulary,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 233.039,
     "end": 236.879,
     "text": "but first let's have the answer to the quiz question.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 70,
     "start": 236.879,
     "end": 240.159,
     "text": "I asked, what kind of food is a peanut?",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 240.159,
     "end": 241.68,
-    "text": "A) a vegetable",
-    "speaker": "Neil"
+    "text": "Is it A, a vegetable?",
+    "speaker": null
   },
   {
+    "order": 72,
     "start": 241.68,
     "end": 242.719,
-    "text": "B) a nut",
+    "text": "B) a nut ",
     "speaker": "Neil"
   },
   {
+    "order": 73,
     "start": 242.719,
     "end": 243.84,
-    "text": "C) a legume",
+    "text": "C, a legume.",
     "speaker": "Neil"
   },
   {
+    "order": 74,
     "start": 243.84,
     "end": 245.68,
     "text": "What did you say, Rob?",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 75,
     "start": 245.68,
     "end": 249.92,
     "text": "I said C, a legume, because that was the only one I didn't know,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 249.92,
     "end": 251.84,
     "text": "and it can't be as simple as being a nut.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 251.84,
     "end": 253.039,
-    "text": "An inspired guess.",
-    "speaker": null
+    "text": "An inspired guess!",
+    "speaker": "Neil"
   },
   {
+    "order": 78,
     "start": 253.84,
     "end": 257.439,
     "text": "If you said C, legume, then congratulations.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 257.439,
     "end": 260.48,
     "text": "Despite the name, a peanut is not actually a nut.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 260.48,
     "end": 265.04,
     "text": "Rather conveniently though, we don't have time for me to explain exactly why it's not a nut,",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 265.04,
     "end": 267.759,
     "text": "but I'm sure you're smart enough to look it up yourself.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 267.759,
     "end": 269.519,
-    "text": "So, you’re not going to explain it?",
-    "speaker": "Rob"
+    "text": "So you're not going to explain it?",
+    "speaker": null
   },
   {
+    "order": 83,
     "start": 269.519,
     "end": 270.879,
     "text": "No, sorry, we don’t have the time.",
     "speaker": "Neil"
   },
   {
+    "order": 84,
     "start": 271.68,
     "end": 274.399,
-    "text": "Sounds to me like you’re allergic to hard work, Neil!",
-    "speaker": "allergic"
+    "text": "Sounds to me like you're allergic to hard work, Neil.",
+    "speaker": null
   },
   {
+    "order": 85,
     "start": 274.399,
     "end": 277.839,
     "text": "Ah, nice link to today's vocabulary.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 277.839,
     "end": 279.199,
     "text": "We do have time for that.",
-    "speaker": null
+    "speaker": "food allergies"
   },
   {
+    "order": 87,
     "start": 280,
     "end": 283.04,
     "text": "Today we've been looking at the topic of food allergies.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 283.04,
     "end": 286.399,
     "text": "This is when a particular food causes a medical problem.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 286.399,
     "end": 290.479,
-    "text": "The problem could be minor or it could be very serious, even fatal and these are called allergic reactions.",
-    "speaker": "allergic reactions"
+    "text": "The problem could be minor or it could be very serious, even fatal,",
+    "speaker": null
   },
   {
+    "order": 90,
     "start": 290.479,
     "end": 293.279,
     "text": "and these are called allergic reactions.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 293.279,
     "end": 296.639,
     "text": "The topic has been investigated with robust studies.",
-    "speaker": null
-  },
-  {
-    "start": 296.639,
-    "end": 301.12,
-    "text": "The topic has been investigated with robust studies. This is research that has been done in a very detailed, accurate and thorough way.",
     "speaker": "robust studies"
   },
   {
+    "order": 92,
+    "start": 296.639,
+    "end": 301.12,
+    "text": "This is research that has been done in a very detailed, accurate and thorough way.",
+    "speaker": null
+  },
+  {
+    "order": 93,
     "start": 301.12,
     "end": 303.439,
     "text": "The next word was the noun prevalence.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 303.439,
     "end": 307.599,
     "text": "This is used to talk about how common or how frequent something is.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 307.599,
     "end": 312.639,
     "text": "In this research, they examined the prevalence of food allergies in certain age groups.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 312.719,
     "end": 315.839,
     "text": "Closely connected to food allergies is eczema.",
-    "speaker": null
-  },
-  {
-    "start": 315.839,
-    "end": 322,
-    "text": "Closely connected to food allergies is eczema. This is a medical condition that makes your skin dry, painful and itchy over different parts of the body.",
     "speaker": "food allergies eczema"
   },
   {
+    "order": 97,
+    "start": 315.839,
+    "end": 322,
+    "text": "This is a medical condition that makes your skin dry, painful and itchy over different parts of the body.",
+    "speaker": null
+  },
+  {
+    "order": 98,
     "start": 322,
     "end": 326.319,
     "text": "It was reported that there had been a significant increase in the number of people",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 326.319,
     "end": 328.8,
     "text": "suffering from eczema and food allergies.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 328.8,
     "end": 332.479,
     "text": "A significant increase is a big and important increase.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 332.479,
     "end": 336.399,
-    "text": "And finally, we had the phrase to put something down to something.",
-    "speaker": null
+    "text": "And finally we had the phrase to put something down to something. ",
+    "speaker": "to put something down to somethingputdown to"
   },
   {
+    "order": 102,
     "start": 336.399,
     "end": 339.759,
     "text": "This means to say one thing is the reason for another.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 339.839,
     "end": 344.319,
     "text": "In this case, you couldn't put the increase in food allergies down to genetics.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 344.319,
     "end": 347.759,
     "text": "You know what I put the success of 6-minute English down to?",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 347.759,
     "end": 348.719,
     "text": "No, what's that rather?",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 348.719,
     "end": 353.92,
     "text": "Your great knowledge of different subjects and skill as a presenter and communicator.",
-    "speaker": "Rob"
+    "speaker": "Neil"
   },
   {
+    "order": 107,
     "start": 353.92,
     "end": 355.519,
-    "text": "Well, that's very kind of you.",
-    "speaker": null
+    "text": "Well, that’s very kind of you…",
+    "speaker": "Neil"
   },
   {
+    "order": 108,
     "start": 356.079,
     "end": 359.039,
     "text": "But I still don't have time to explain what a legume is.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 359.039,
     "end": 362.48,
     "text": "In fact, now it's time to wrap up this edition of 6-minute English.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 362.48,
     "end": 364.319,
     "text": "We look forward to your company again soon.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 364.319,
     "end": 368.639,
     "text": "In the meantime, check us out in all the usual places online and on social media.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 368.719,
     "end": 370.959,
     "text": "We are BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 370.959,
     "end": 371.599,
     "text": "Bye for now.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 371.599,
     "end": 372.079,
-    "text": "Goodbye!",
-    "speaker": "Rob"
+    "text": "Goodbye.",
+    "speaker": null
   }
 ]

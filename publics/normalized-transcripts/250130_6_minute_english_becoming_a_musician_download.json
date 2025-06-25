@@ -1,557 +1,650 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 6,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 6,
     "end": 10.599,
     "text": "Hello, this is 6-minute English from BBC Learning English. I'm Pippa.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 10.599,
     "end": 11.8,
-    "text": "And I’m Neil.",
-    "speaker": "Neil"
+    "text": "And I'm Neil.",
+    "speaker": "Pippa"
   },
   {
+    "order": 3,
     "start": 11.8,
     "end": 15,
     "text": "Now, Neil, have you ever wanted to be a musician?",
     "speaker": "Pippa"
   },
   {
+    "order": 4,
     "start": 15,
     "end": 18.4,
-    "text": "Oh yes, Pippa, I still want to be a musician. I've been playing my guitar since I was 14.",
-    "speaker": "Neil"
+    "text": "Oh, yes, Pippa. I still want to be a musician.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 18.4,
     "end": 21.199,
     "text": "I've been playing my guitar since I was 14.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 21.199,
     "end": 24,
     "text": "Wow. Well, maybe one day you'll manage it.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 24,
     "end": 26,
-    "text": "What about you?",
-    "speaker": "Neil"
+    "text": "Who knows? What about you?",
+    "speaker": "Pippa"
   },
   {
+    "order": 8,
     "start": 26,
     "end": 28.8,
     "text": "I don't think I'd like to be a musician.",
-    "speaker": null
+    "speaker": "Pippa"
   },
   {
+    "order": 9,
     "start": 28.8,
     "end": 33,
     "text": "I think it would be a bit stressful, especially if you had lots of fans and more really successful.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 33,
     "end": 37,
     "text": "Hmm, yeah. I wonder what life as a musician is actually like.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 37,
     "end": 41.799,
     "text": "We'll be finding that out in this programme as we hear from some people around the UK",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 41.799,
     "end": 44.799,
     "text": "who would like to become successful musicians.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 44.799,
     "end": 48,
     "text": "And we'll even listen to some of their music too.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 48,
     "end": 51,
     "text": "But first, I have a question for you, Neil.",
     "speaker": "Pippa"
   },
   {
+    "order": 15,
     "start": 51,
     "end": 55.799,
     "text": "In the UK, we have a weekly chart of the best selling songs in the country.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 55.799,
     "end": 58.799,
     "text": "And the top selling song is called the number one.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 58.799,
     "end": 64.799,
     "text": "But which musical artist do you think has had the most UK number one songs?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 64.799,
     "end": 70.799,
     "text": "Is it A, the Beatles, B, Ed Sheeran or C, Elvis Presley?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 70.799,
     "end": 76.799,
-    "text": "Oh well, I think that's easy. It must be, surely, The Beatles.",
-    "speaker": "Neil"
+    "text": "Oh, well, I think that's easy. It must be surely the Beatles.",
+    "speaker": "Pippa"
   },
   {
+    "order": 20,
     "start": 76.799,
     "end": 80.599,
     "text": "Well, I’ll reveal the answer at the end of the programme.",
     "speaker": "Pippa"
   },
   {
+    "order": 21,
     "start": 80.599,
     "end": 85,
-    "text": "Now, getting a number one song is a dream for many musicians. But if you want to become a musician, where do you start?",
-    "speaker": "Pippa"
+    "text": "Now, getting a number one song is a dream for many musicians.",
+    "speaker": null
   },
   {
+    "order": 22,
     "start": 85,
     "end": 88.599,
     "text": "But if you want to become a musician, where do you start?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 88.599,
     "end": 91.599,
     "text": "I grew up in a really rich music scene in St Ives.",
-    "speaker": null
+    "speaker": "open mics"
   },
   {
+    "order": 24,
     "start": 91.599,
     "end": 95.599,
     "text": "I was going to open mics from the age of about 11.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 95.599,
     "end": 100.799,
     "text": "This is Bailey. She lives in St Ives in Cornwall on the southwest coast of England.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 100.799,
     "end": 104.799,
     "text": "She says she was going to open mic nights from a young age.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 104.799,
     "end": 109,
     "text": "Open mic nights are events where anyone can sing or play music.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 109,
     "end": 115,
     "text": "Bailey talked about her life as a musician to BBC Learning English programme My Song, My Home.",
     "speaker": "Pippa"
   },
   {
+    "order": 29,
     "start": 115,
     "end": 121,
     "text": "I would go to these songwriter circles at the Ketlenwink on a Friday night after school,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 121,
     "end": 124,
     "text": "where I'd be the youngest person by like 50 years,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 124,
     "end": 127,
     "text": "but I'd sit in a circle of a bunch of old men,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 127,
     "end": 132,
     "text": "and they'd play James Taylor and Carol King and the Eagles,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 132,
     "end": 136,
     "text": "and lots of 70s music, and I guess that's influenced me massively.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 136,
     "end": 140,
     "text": "But I guess, you know, everyone kind of took me under the wing growing up.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 140,
     "end": 144,
     "text": "When she was younger, Bailey went to songwriter circles.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 144,
     "end": 148,
-    "text": "When she was younger, Bailey went to songwriters' circles. These are meetings for people interested in writing their own music.",
+    "text": "These are meetings for people interested in writing their own music.",
     "speaker": "songwriters' circles"
   },
   {
+    "order": 37,
     "start": 148,
     "end": 151,
     "text": "Bailey remembers sitting with a bunch of old men.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 151,
     "end": 155,
-    "text": "Bailey remembers sitting with a bunch of old men. A bunch is an informal way to talk about a group of people.",
-    "speaker": "bunchbunch"
-  },
-  {
-    "start": 155,
-    "end": 159,
-    "text": "The older men in the group would play music from the 1970s,",
+    "text": "A bunch is an informal way to talk about a group of people.",
     "speaker": null
   },
   {
+    "order": 39,
+    "start": 155,
+    "end": 159,
+    "text": "The older men in the group would play music from the 1970s,",
+    "speaker": "took her under their wingtake somebody under your wing"
+  },
+  {
+    "order": 40,
     "start": 159,
     "end": 162,
     "text": "and Bailey says they took her under their wing.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 162,
     "end": 167,
     "text": "If you take somebody under your wing, you decide to protect them or guide them.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 167,
     "end": 170,
-    "text": "Let’s meet another musician, Josh.",
-    "speaker": "Pippa"
-  },
-  {
-    "start": 170,
-    "end": 176,
-    "text": "So I learnt my first proper song on guitar when I was about 13.",
+    "text": "Let's meet another musician, Josh.",
     "speaker": null
   },
   {
+    "order": 43,
+    "start": 170,
+    "end": 176,
+    "text": "So, I learnt my first proper song on guitar when I was about 13",
+    "speaker": "busking"
+  },
+  {
+    "order": 44,
     "start": 176,
     "end": 180,
     "text": "I literally started busking the moment I could kind of do that.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 180,
     "end": 183,
     "text": "Josh lives in London and is a busker.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 183,
     "end": 187,
-    "text": "Josh lives in London and is a busker. This means that he performs on the street or in public places to earn money.",
-    "speaker": "busker"
-  },
-  {
-    "start": 187,
-    "end": 191,
-    "text": "Busking is a common way for musicians to make money and perform to more people,",
+    "text": "This means that he performs on the street or in public places to earn money.",
     "speaker": null
   },
   {
+    "order": 47,
+    "start": 187,
+    "end": 191,
+    "text": "Busking is a common way for musicians to make money and perform to more people.",
+    "speaker": "Busking"
+  },
+  {
+    "order": 48,
     "start": 191,
     "end": 195,
     "text": "and as Josh told BBC Learning English programme, my song, my home,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 195,
     "end": 199,
     "text": "it can help musicians to get new opportunities.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 199,
     "end": 202,
     "text": "It's been kind of like my main earner.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 202,
     "end": 205,
     "text": "This kept me going for the last ten or so years.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 205,
     "end": 209,
     "text": "From that it's then got me various different opportunities.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 209,
     "end": 212,
     "text": "It's got me all my gigs, got me all my connections.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 212,
     "end": 214,
     "text": "So I owe a lot to the busking.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 214,
     "end": 216,
-    "text": "Busking is Josh's main earner.",
-    "speaker": null
+    "text": "Busking is Josh’s main earner,",
+    "speaker": "main earner"
   },
   {
+    "order": 56,
     "start": 216,
     "end": 218,
     "text": "It's his main source of money.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 218,
     "end": 222,
-    "text": "He says that busking has got him all his gigs and connections. Gigs are musical concerts. It’s an informal, slang word.",
-    "speaker": "buskinggigsGigs"
+    "text": "He says that busking has got him all his gigs and connections.",
+    "speaker": null
   },
   {
+    "order": 58,
     "start": 222,
     "end": 227,
     "text": "Gigs are musical concerts and it's an informal slang word.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 227,
     "end": 229,
     "text": "Josh says he owes a lot to busking.",
-    "speaker": null
+    "speaker": "owes a lot toowe a lot"
   },
   {
+    "order": 60,
     "start": 229,
     "end": 236,
     "text": "If you owe a lot to someone or something, you have success or happiness because of that personal thing.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 236,
     "end": 240,
-    "text": "So, would you like to listen to some of Josh’s music, Neil?",
-    "speaker": "owes a lot toowe a lot"
+    "text": "So would you like to listen to some of Josh's music, Neil?",
+    "speaker": null
   },
   {
+    "order": 62,
     "start": 240,
     "end": 241,
     "text": "Of course I would.",
     "speaker": "Neil"
   },
   {
+    "order": 63,
     "start": 241,
     "end": 244,
     "text": "Well, here's a bit of his song, That Side of the Wall,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 244,
     "end": 248,
-    "text": "Well, here’s a bit of his song That Side of the Wall, which he performed for BBC Learning English programme My Song, My Home.",
-    "speaker": "Pippa"
+    "text": "which he performed for BBC Learning English programme, my song, my home.",
+    "speaker": null
   },
   {
+    "order": 65,
     "start": 275,
     "end": 277,
-    "text": "Wow. Josh is pretty good, isn't he?. I’d love to hear more.",
-    "speaker": "Neil"
+    "text": "Wow. Josh is pretty good, isn't he?",
+    "speaker": "Clip from song"
   },
   {
+    "order": 66,
     "start": 277,
     "end": 278,
     "text": "I'd love to hear more.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 278,
     "end": 282,
-    "text": "Well you can find performances by the musicians in the series on our website – bbclearningenglish.com. We’ll also put a link in the notes below this episode!",
+    "text": "Well you can find performances by the musicians in the series on our website –",
     "speaker": "Pippa"
   },
   {
+    "order": 68,
     "start": 282,
     "end": 287,
     "text": "BBCLearningEnglish.com, and we'll also put a link in the notes below this episode.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 287,
     "end": 290,
     "text": "OK, so what about your question, Pipper?",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 290,
     "end": 296,
-    "text": "Yes, I asked which artist had the most number one songs in the UK charts? The Beatles, Ed Sheeran or Elvis Presley?",
+    "text": "Yes, I asked which artist had the most number one songs in the UK charts?",
     "speaker": "Pippa"
   },
   {
+    "order": 71,
     "start": 296,
     "end": 299,
     "text": "The Beatles, Ed Sheeran or Elvis?",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 300,
     "end": 302,
     "text": "And you said the Beatles, Neil.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 302,
     "end": 305,
     "text": "But the answer is actually Elvis Presley.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 305,
     "end": 309,
     "text": "He's had 21 number one songs and the Beatles have had 18.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 309,
     "end": 312,
-    "text": "Really? Well that's OK, I love 'the King' as well.",
+    "text": "Really? Well that's OK, I love 'the King' as well",
     "speaker": "Neil"
   },
   {
+    "order": 76,
     "start": 312,
     "end": 317,
-    "text": "OK, let's recap the vocabulary we've learned in this musical episode,",
-    "speaker": null
-  },
-  {
-    "start": 317,
-    "end": 323,
-    "text": "OK, let’s recap the vocabulary we’ve learned in this musical episode, starting with open mic nights, events where anyone can sing or play music.",
+    "text": "OK, let’s recap the vocabulary we’ve learned in this musical episode,",
     "speaker": "open mic nights"
   },
   {
+    "order": 77,
+    "start": 317,
+    "end": 323,
+    "text": "starting with open mic nights, events where anyone can sing or play music.",
+    "speaker": null
+  },
+  {
+    "order": 78,
     "start": 323,
     "end": 327,
     "text": "Songwriter circles, you can find a lot of different things in the series.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 328,
     "end": 333,
     "text": "Songwriter circles are meetings for people interested in writing their own music.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 333,
     "end": 335,
     "text": "A bunch of people is a group of people.",
     "speaker": "bunch"
   },
   {
+    "order": 81,
     "start": 335,
     "end": 340,
     "text": "The expression takes someone under your wing, means to protect or guide someone.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 340,
     "end": 347,
     "text": "Basking is performing in a public place for money, and a busker is someone who performs on the street for money.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 347,
     "end": 350,
     "text": "Your main earner is your main source of income.",
-    "speaker": "main earner"
+    "speaker": "Buskingbusker"
   },
   {
+    "order": 84,
     "start": 350,
     "end": 352,
     "text": "Gigs are musical concerts.",
     "speaker": "Gigs"
   },
   {
+    "order": 85,
     "start": 352,
     "end": 359,
     "text": "And the expression to owe a lot to someone or something, means to have success or happiness because of that personal thing.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 359,
     "end": 365,
     "text": "Once again, our six minutes are up that you can find my song, My Home, on our website,",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 365,
     "end": 367,
     "text": "BBCLearningEnglish.com.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 88,
     "start": 367,
     "end": 372,
     "text": "Watch the songs and sing along and learn more about the vocabulary in the lyrics.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 372,
     "end": 376,
-    "text": "We’ll see you again soon for some more trending topics and useful vocabulary. Bye for now!",
-    "speaker": "Pippa"
+    "text": "We'll see you again soon for some more trending topics and useful vocabulary.",
+    "speaker": null
   },
   {
+    "order": 90,
     "start": 376,
     "end": 377,
     "text": "Bye for now.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 377,
     "end": 378,
-    "text": "Goodbye!",
-    "speaker": "Neil"
+    "text": "Goodbye.",
+    "speaker": null
   },
   {
+    "order": 92,
     "start": 378,
     "end": 384,
     "text": "Six-minute English from BBCLearningEnglish.com.",

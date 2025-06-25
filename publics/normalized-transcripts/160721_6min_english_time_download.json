@@ -1,899 +1,1049 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 12.08,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 12.08,
     "end": 14.96,
     "text": "Hello and welcome to 6 Minute English. I'm Alice.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 14.96,
     "end": 17.28,
     "text": "And I'm Neil. Did you have a good weekend, Alice?",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 17.28,
     "end": 20.559,
     "text": "Yes, but it flew by, which means it went quickly.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 20.559,
     "end": 22.719,
     "text": "And here we are again, back at work.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 22.719,
     "end": 24.16,
     "text": "I know what you mean.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 24.16,
     "end": 26.56,
     "text": "Though I must say time really dragged for me,",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 26.56,
     "end": 28.24,
     "text": "and that means it went slowly.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 28.239,
     "end": 30.239,
     "text": "I was on a train which broke down.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 30.239,
     "end": 30.959,
     "text": "Oh, dear.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 30.959,
     "end": 33.039,
-    "text": "And it felt like it took forever to arrive,",
-    "speaker": null
+    "text": "And it felt like it took forever to arrive ",
+    "speaker": "Neil"
   },
   {
+    "order": 13,
     "start": 33.039,
     "end": 35.759,
     "text": "though actually it was only delayed by one hour.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 35.759,
     "end": 39.359,
     "text": "Well, today we are talking about our perception of",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 39.359,
     "end": 41.359,
     "text": "or the way we see time.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 41.359,
     "end": 43.759,
     "text": "It's true that when we're busy doing lots of things,",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 43.759,
     "end": 44.959,
     "text": "time flies by.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 44.959,
     "end": 46.64,
-    "text": "And when we're bored,",
-    "speaker": null
+    "text": "And when we're bored ",
+    "speaker": "Neil"
   },
   {
+    "order": 19,
     "start": 46.64,
     "end": 48.719,
     "text": "we'll have nothing to do. It drags.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 48.719,
     "end": 51.28,
     "text": "And I didn't have anything to do on the train.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 51.28,
     "end": 53.84,
     "text": "Do you think time flows at the same rate for everyone?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 53.84,
     "end": 54.56,
     "text": "Even animals?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 55.439,
     "end": 57.759,
     "text": "My cat doesn't get bored doing nothing all day.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 57.839,
     "end": 60,
     "text": "I wonder if time drags for her sometimes.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 60,
     "end": 61.439,
     "text": "Good question.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 61.439,
     "end": 64.4,
     "text": "Did you know Neil that, according to a new study,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 64.4,
     "end": 66.719,
     "text": "smaller animals perceive time as if",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 66.719,
     "end": 68.799,
     "text": "it is passing in slow motion?",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 68.799,
     "end": 70.64,
     "text": "Oh, that sounds weird.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 71.92,
     "end": 73.519,
-    "text": "That sounds weird. Do you think they hear us like this: t…a…l…k…i…n…g   s…l…o…w…l…y…?",
+    "text": " Do you think they hear us like this",
     "speaker": "Neil"
   },
   {
+    "order": 31,
     "start": 74.159,
     "end": 79.759,
     "text": "Torqueen slowly.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 80.64,
     "end": 82,
     "text": "Don't be silly, Neil.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 82.959,
     "end": 85.68,
     "text": "What I meant was that small animals,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 85.68,
     "end": 88,
     "text": "such as insects and small birds,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 88,
     "end": 91.36,
     "text": "can observe more detail in a certain period of time.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 91.36,
     "end": 94.24,
     "text": "For example, a second than larger animals.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 94.24,
     "end": 96.16,
-    "text": "And how does this help them exactly?",
-    "speaker": null
+    "text": "And how does this help them, exactly",
+    "speaker": "Neil"
   },
   {
+    "order": 38,
     "start": 96.16,
     "end": 98.48,
     "text": "It sounds like the day would really drag",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 98.48,
     "end": 101.44,
     "text": "if every second got stretched out like that.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 102.32,
     "end": 106,
     "text": "It helps them by giving them time to escape larger predators.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 106.719,
     "end": 109.2,
     "text": "Now, I have a question for you, Neil.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 109.2,
     "end": 113.6,
     "text": "Can you tell me roughly how much more quickly a flies eye",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 114,
     "end": 115.839,
     "text": "can react than a human eye?",
+    "speaker": "Neil"
+  },
+  {
+    "order": 44,
+    "start": 115.839,
+    "end": 118.319,
+    "text": "Is it a twice as quickly,",
     "speaker": null
   },
   {
-    "start": 115.839,
-    "end": 118.319,
-    "text": "a) twice as quickly?",
-    "speaker": "Alice"
-  },
-  {
+    "order": 45,
     "start": 118.319,
     "end": 120.399,
-    "text": "b) four times as quickly?",
+    "text": "b four times as quickly,",
     "speaker": "Alice"
   },
   {
+    "order": 46,
     "start": 120.399,
     "end": 122.479,
     "text": "or c 10 times as quickly?",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 123.039,
     "end": 125.28,
     "text": "Well, I'll go for c 10 times.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 125.28,
     "end": 126.719,
     "text": "Flies are pretty nippy,",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 49,
     "start": 126.719,
     "end": 128.4,
     "text": "and that's another word for quick.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 128.4,
     "end": 130.479,
-    "text": "Yes, well, we'll find out later on",
-    "speaker": null
+    "text": "Yes. Well, we'll find out later on",
+    "speaker": "overdrive"
   },
   {
+    "order": 51,
     "start": 130.479,
     "end": 132.719,
     "text": "if you've got the answer right or not.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 132.719,
     "end": 135.68,
     "text": "Now, small animals can typically process",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 135.68,
     "end": 138.079,
     "text": "more visual information than we can.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 138.079,
     "end": 139.759,
     "text": "But in a dangerous situation,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 139.759,
     "end": 141.68,
     "text": "our brains can work in overdrive",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 141.84,
     "end": 143.92,
     "text": "to process information more quickly.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 143.92,
     "end": 147.36,
     "text": "And overdrive means a state of extreme activity.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 148.159,
     "end": 149.84,
     "text": "Let's listen to Raza Rumi,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 149.84,
     "end": 152.56,
     "text": "a writer and broadcaster in Pakistan,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 152.56,
     "end": 155.12,
     "text": "talking about the unusual way his brain worked",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 155.12,
     "end": 157.599,
     "text": "when gunmen opened fire on him in his car.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 159.36,
     "end": 161.36,
     "text": "It lasted for a few minutes,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 161.36,
     "end": 166.56,
     "text": "but to me that particular incident feels like it was for hours.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 166.56,
     "end": 170,
     "text": "I think my brain was working in a very strange way,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 170.639,
     "end": 173.199,
     "text": "parallel and multiple thoughts",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 173.199,
     "end": 177.52,
     "text": "and streams of consciousness were sort of running along.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 178.08,
     "end": 180.24,
     "text": "I have to save my head because",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 180.24,
     "end": 182.479,
     "text": "if I get a bullet in my brain, I'm dead.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 183.039,
     "end": 185.199,
     "text": "And at the same time,",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 185.199,
     "end": 186.4,
     "text": "was it all worth it?",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 186.4,
     "end": 188.639,
     "text": "And that's what a short life it was.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 188.639,
     "end": 189.92,
     "text": "It was lovely.",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 73,
     "start": 189.92,
     "end": 192.56,
     "text": "I was petrified that I'm going to die.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 194.159,
     "end": 195.36,
     "text": "Raza Rumi there.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 195.36,
     "end": 198.08,
     "text": "So he was petrified by the attack,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 198.08,
     "end": 200.08,
     "text": "which means extremely frightened.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 200.08,
     "end": 203.44,
     "text": "As a result, his brain started working in a strange way.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 203.44,
     "end": 206.96,
     "text": "He was thinking and feeling lots of different things at the same time.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 206.96,
     "end": 207.92,
     "text": "That's right.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 207.92,
     "end": 212,
-    "text": "That's right – he remembers thinking practical thoughts like, 'I have to save my head'.",
-    "speaker": "Alice"
+    "text": "He remembers thinking practical thoughts like I have to save my head.",
+    "speaker": null
   },
   {
+    "order": 81,
     "start": 212,
     "end": 214.4,
     "text": "But in parallel or at the same time,",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 214.4,
     "end": 217.12,
     "text": "he also remembers having philosophical thoughts,",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 217.12,
     "end": 219.36,
     "text": "such as what a short life it was.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 219.36,
     "end": 220.08,
     "text": "It was lovely.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 220.96,
     "end": 222.88,
-    "text": "Have you ever been in a dangerous situation where your brain went into overdrive, Neil?",
+    "text": "Have you ever been in a dangerous situation",
     "speaker": "Alice"
   },
   {
+    "order": 86,
     "start": 222.88,
     "end": 224.8,
     "text": "where your brain went into overdrive?",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 224.8,
     "end": 226.24,
     "text": "Yeah, I was 10 years old",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 226.24,
     "end": 229.28,
-    "text": "Yes, I was ten years old and I fell backwards out of a big tree in our garden.",
-    "speaker": "Neil"
+    "text": "and I fell backwards out of a big tree in our garden.",
+    "speaker": null
   },
   {
+    "order": 89,
     "start": 229.28,
     "end": 230,
-    "text": "Oh no!",
+    "text": "Oh no! ",
     "speaker": "Alice"
   },
   {
+    "order": 90,
     "start": 230,
     "end": 233.6,
     "text": "Yeah, I have a vivid memory of the sun flashing above me",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 233.6,
     "end": 235.6,
     "text": "and the clouds moving across the sky",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 235.6,
     "end": 237.92,
     "text": "and the leaves rustling in the trees above me.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 238.48,
     "end": 242,
     "text": "My mom was screaming through the kitchen window as she saw me fall.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 242,
     "end": 245.04,
     "text": "I experienced so much in the space of just a few seconds.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 245.52,
     "end": 247.52,
     "text": "Just like Raza Rumi describes.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 247.52,
     "end": 251.36,
-    "text": "Yes. A vivid memory, by the way, is clear and detailed. Oh, poor Neil! Did you hurt yourself?",
+    "text": "Yes. A vivid memory, by the way, is clear and detailed.",
     "speaker": "vivid"
   },
   {
+    "order": 97,
     "start": 251.36,
     "end": 253.12,
     "text": "How poor Neil, did you hurt yourself?",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 253.12,
     "end": 255.439,
-    "text": "Some big bruises – but no broken bones.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 255.68,
-    "end": 256.56,
-    "text": "Glad to hear it.",
+    "text": "Some big bruises, but no broken bones.",
     "speaker": null
   },
   {
+    "order": 99,
+    "start": 255.68,
+    "end": 256.56,
+    "text": "Glad to hear it.",
+    "speaker": "Alice"
+  },
+  {
+    "order": 100,
     "start": 257.279,
     "end": 259.68,
     "text": "Now, it's a strange trick of memory",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 259.68,
     "end": 261.199,
     "text": "that in a scary situation,",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 261.199,
     "end": 264.319,
     "text": "your brain starts to record everything in great detail.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 265.12,
     "end": 267.6,
     "text": "And the more memory you have of an event,",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 267.6,
     "end": 269.759,
     "text": "the longer you believe it took.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 269.759,
     "end": 272.159,
     "text": "This idea explains why children often feel",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 272.159,
     "end": 273.68,
     "text": "that time is passing slowly",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 273.68,
     "end": 275.759,
     "text": "because their experiences are new",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 275.759,
     "end": 277.839,
     "text": "and they are creating lots of new memories.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 278.319,
     "end": 280.56,
     "text": "Whereas boring grown-ups like us",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 280.56,
     "end": 283.12,
     "text": "are following routines that don't require new memories",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 283.12,
     "end": 284.399,
     "text": "because they're so familiar.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 284.879,
     "end": 286.959,
     "text": "But let's listen to Claudia Hammond,",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 286.959,
     "end": 288.56,
     "text": "author of Time Warped,",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 288.56,
     "end": 290.959,
     "text": "talking about how we can stretch time",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 290.959,
     "end": 293.439,
     "text": "and make our days feel longer in a good way.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 294.399,
     "end": 296.879,
     "text": "If you can spend your weekend filling it",
-    "speaker": null
+    "speaker": "Claudia Hammond, author of Time Warped"
   },
   {
+    "order": 117,
     "start": 296.879,
     "end": 299.199,
     "text": "with loads of new different activities,",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 299.199,
     "end": 301.279,
     "text": "it will go fast at the time because you're having fun.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 301.279,
     "end": 303.279,
     "text": "But when you look back, say, on Sunday night",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 303.279,
     "end": 304.799,
     "text": "and you've got to go to work next day,",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 304.799,
     "end": 306.479,
     "text": "it will feel as if your weekend was long",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 306.479,
     "end": 308.079,
     "text": "because you filled it with new memories.",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 309.12,
     "end": 310.879,
-    "text": "We should do that, this weekend, Neil. What do you think?",
-    "speaker": "Alice"
+    "text": "We should do that this weekend, Neil.",
+    "speaker": null
   },
   {
+    "order": 124,
     "start": 310.879,
     "end": 311.519,
     "text": "What do you think?",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 311.519,
     "end": 312.319,
     "text": "Definitely.",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 312.319,
     "end": 314.079,
     "text": "I'm going to buzz around like a fly",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 314.159,
     "end": 315.759,
     "text": "creating loads of new memories.",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 316.319,
     "end": 319.359,
     "text": "Now, are you ready for the answer to today's quiz question?",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 320.079,
     "end": 323.519,
     "text": "I asked roughly how much more quickly a fly's eye",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 323.519,
     "end": 325.599,
     "text": "can react than a human eye?",
     "speaker": null
   },
   {
+    "order": 131,
     "start": 325.599,
     "end": 328,
     "text": "Is it A, twice as quickly,",
     "speaker": null
   },
   {
+    "order": 132,
     "start": 328,
     "end": 329.839,
     "text": "B, four times as quickly,",
-    "speaker": null
-  },
-  {
-    "start": 329.839,
-    "end": 332.399,
-    "text": "Or c) ten times as quickly?",
-    "speaker": "Alice"
-  },
-  {
-    "start": 332.399,
-    "end": 335.279,
-    "text": "And I said c) ten times as quickly.",
     "speaker": "Neil"
   },
   {
+    "order": 133,
+    "start": 329.839,
+    "end": 332.399,
+    "text": "or C, ten times as quickly?",
+    "speaker": null
+  },
+  {
+    "order": 134,
+    "start": 332.399,
+    "end": 335.279,
+    "text": "And I said C, ten times as quickly.",
+    "speaker": null
+  },
+  {
+    "order": 135,
     "start": 335.279,
     "end": 339.039,
     "text": "The correct answer is B, four times as quickly.",
     "speaker": null
   },
   {
+    "order": 136,
     "start": 339.599,
     "end": 342.159,
     "text": "Flys have eyes that send updates to the brain",
     "speaker": null
   },
   {
+    "order": 137,
     "start": 342.24,
     "end": 344.24,
     "text": "at much higher frequencies than our eyes",
     "speaker": null
   },
   {
+    "order": 138,
     "start": 344.24,
     "end": 346.56,
     "text": "because they can process the information more quickly.",
     "speaker": null
   },
   {
+    "order": 139,
     "start": 347.2,
     "end": 349.76,
     "text": "This speed illustrates the impressive capabilities",
     "speaker": null
   },
   {
+    "order": 140,
     "start": 349.76,
     "end": 351.84,
     "text": "of even the smallest animal brains.",
     "speaker": null
   },
   {
+    "order": 141,
     "start": 351.84,
     "end": 353.28,
     "text": "Well, before we buzz off,",
-    "speaker": null
-  },
-  {
-    "start": 353.28,
-    "end": 355.84,
-    "text": "Well, before we buzz off, perhaps we should hear the words we learned today. They are:",
     "speaker": "Neil"
   },
   {
+    "order": 142,
+    "start": 353.28,
+    "end": 355.84,
+    "text": "perhaps we should hear the words we learned today.",
+    "speaker": null
+  },
+  {
+    "order": 143,
     "start": 355.84,
     "end": 359.04,
     "text": "They are, flew by, dragged,",
     "speaker": null
   },
   {
+    "order": 144,
     "start": 359.04,
     "end": 362.56,
     "text": "perception, nippy, overdrive,",
     "speaker": null
   },
   {
+    "order": 145,
     "start": 362.56,
     "end": 365.12,
-    "text": "in parallel",
+    "text": "petrified in parallel",
     "speaker": "Neil"
   },
   {
+    "order": 146,
     "start": 365.12,
     "end": 367.52,
     "text": "Well, that's the end of today's six-minute English.",
     "speaker": null
   },
   {
+    "order": 147,
     "start": 367.52,
     "end": 369.44,
     "text": "Remember to join us again soon.",
+    "speaker": "Alice"
+  },
+  {
+    "order": 148,
+    "start": 369.44,
+    "end": 370.24,
+    "text": "Bye.",
     "speaker": null
   },
   {
-    "start": 369.44,
-    "end": 370.24,
-    "text": "Bye!",
-    "speaker": "Both"
-  },
-  {
+    "order": 149,
     "start": 372.16,
     "end": 374.16,
     "text": "English from the BBC.",

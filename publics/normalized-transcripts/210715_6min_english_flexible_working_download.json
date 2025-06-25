@@ -1,377 +1,440 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.6,
     "text": "This is a download from BBC Learning English. To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 5.6,
     "end": 8.24,
     "text": "6MIT INGLEISH",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 8.24,
     "end": 10.88,
     "text": "From BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 13.28,
     "end": 17.679,
     "text": "Hello, this is 6-minute English from BBC Learning English. I'm Georgina",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 17.679,
     "end": 21.92,
     "text": "and I'm Neil. In this program we're going to be talking about the world of work.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 22.64,
     "end": 27.839,
     "text": "Ah yes, traveling to an office five days a week, sitting at a desk all day and then going home.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 28.559,
     "end": 33.28,
-    "text": "Neil, it’s not always like that. Office work doesn’t have to be such a routine – the usual, fixed way of doing things – it is much more flexible these days.",
-    "speaker": "routine"
+    "text": "Neil, it's not always like that. Office work doesn't have to be such a routine,",
+    "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 33.28,
     "end": 37.519,
     "text": "the usual fix way of doing things. It is much more flexible these days.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 38.799,
     "end": 43.359,
-    "text": "That’s true. During the pandemic, we’ve all had to have a more flexible approach to work.",
+    "text": "That’s true. During the pandemic, we’ve all had to have a more flexible approach to work",
     "speaker": "Neil"
   },
   {
+    "order": 9,
     "start": 44.079,
     "end": 48.799,
     "text": "Yes, we have and it has perhaps changed our attitude to working flexibly.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 48.799,
     "end": 54.48,
-    "text": "Yes, we have. And it has, perhaps, changed our attitude to working flexibly. But even before coronavirus, there was an opportunity to work flexibly, and we’ll be discussing that soon.",
-    "speaker": "Georgina"
+    "text": "But even before coronavirus there was an opportunity to work flexibly and we'll be discussing",
+    "speaker": null
   },
   {
+    "order": 11,
     "start": 54.479,
     "end": 59.599,
     "text": "that soon. But there's one thing that can't be changed and that's you setting a quiz question.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 60.399,
     "end": 66.319,
     "text": "Ah yes, I hadn't forgotten. So Neil, I know you work very hard, but according to data from",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 13,
     "start": 66.319,
     "end": 73.519,
     "text": "the organisation for Economic Cooperation and Development, the OECD, workers from which country",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 73.519,
     "end": 81.519,
     "text": "work the longest hours. Is it a South Korea, B Germany or C Mexico?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 82.479,
     "end": 86.479,
-    "text": "Well, as I’m not on the list, let’s go for c) Mexico.",
-    "speaker": "Neil"
+    "text": "Well, as I'm not on the list, let's go for C Mexico.",
+    "speaker": "Georgina"
   },
   {
+    "order": 16,
     "start": 87.519,
     "end": 92.56,
     "text": "Okay, now we'll find out if that's right at the end of the programme, but let's talk more about",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 92.56,
     "end": 98.319,
     "text": "flexible working now. Different countries have different laws about working flexibly.",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 18,
     "start": 98.319,
     "end": 105.84,
     "text": "But here in the UK for the last 14 years, employees, workers have had the right to request flexible",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 106.799,
     "end": 112.48,
     "text": "working. But what does it mean to work flexibly? Sarah Jackson is a workplace consultant and",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 112.48,
     "end": 118.4,
     "text": "visiting professor at Cranfield University School of Management. She spoke to BBC Radio 4's",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 118.4,
     "end": 124.64,
     "text": "Woman's Hour programme about what it means exactly. Because of the pandemic now,",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 124.64,
     "end": 130.319,
     "text": "everybody thinks that flexible working means working from home. It's about common sense.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 130.319,
     "end": 134.319,
     "text": "What does the job need in terms of when, where, how long, and what do you need, what does your",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 134.319,
     "end": 140.719,
     "text": "family need and how do they do it? So flexibility really means having some choice and control",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 140.719,
     "end": 144.799,
     "text": "over when, where, and how long you work and agreeing that with your manager.",
+    "speaker": "common sensematch"
+  },
+  {
+    "order": 26,
+    "start": 146.879,
+    "end": 152.719,
+    "text": "So flexible working is not just working from home, something we've got used to during the pandemic.",
     "speaker": null
   },
   {
-    "start": 146.879,
-    "end": 152.719,
-    "text": "So, flexible working is not just working from home – something we’ve got used to during the pandemic. It is about common sense – using our judgement to make sensible decisions.",
-    "speaker": "common sense"
-  },
-  {
+    "order": 27,
     "start": 152.719,
     "end": 157.359,
     "text": "It is about common sense, using our judgement to make sensible decisions.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 158.079,
     "end": 163.84,
     "text": "So requesting to work for two hours a day is not sensible, but being able to work from 12 until",
-    "speaker": null
+    "speaker": "Match"
   },
   {
+    "order": 29,
     "start": 163.84,
     "end": 168.879,
     "text": "eight instead of nine to five might be. Of course, this depends on the needs of the business,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 168.879,
     "end": 174.24,
     "text": "and as Sarah said, you need to match your needs with that of the business. Match here means to work",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 174.24,
     "end": 179.439,
     "text": "equally on both sides. Getting the working conditions that suit you does require some",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 179.439,
     "end": 185.439,
     "text": "negotiation with your manager. You need agreement from him or her, and that can be difficult if your",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 185.439,
     "end": 192,
     "text": "manager is inflexible, not willing to change. But of course, in the UK at least, an employee has a",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 192.08,
     "end": 197.919,
     "text": "right to request flexible working, and this must be considered by the employer. This law initially",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 35,
     "start": 197.919,
     "end": 203.599,
     "text": "was just for parents with a child younger than six years old or a disabled child less than 18.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 203.599,
     "end": 210.56,
-    "text": "But since 2014, everyone has the right to request flexible working. And that includes men.",
-    "speaker": "Georgina"
+    "text": "But since 2014, everyone has the right to request flexible working, and that includes men.",
+    "speaker": null
   },
   {
+    "order": 37,
     "start": 211.28,
     "end": 216.56,
-    "text": "Which is an important point, as Sarah Jackson explains. Fewer men seem to have their requests for flexible working accepted – let’s find out why…",
+    "text": "Which is an important point as Sarah Jackson explains, fewer men seem to have their requests for",
     "speaker": "Neil"
   },
   {
+    "order": 38,
     "start": 216.56,
     "end": 224.159,
     "text": "flexible working accepted. Let's find out why. Men when they do ask them more likely to be turned down.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 224.719,
     "end": 230.4,
     "text": "So there's a real bias there in the system. And so what the most important thing that needs to happen",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 230.4,
     "end": 236,
     "text": "here, I think, is for employers to really actively start saying to their men, we know you want to be",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 236,
     "end": 239.92,
     "text": "active fathers, because there's a whole generation of young men who do want to be active fathers.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 240.48,
     "end": 246.24,
     "text": "Please use the right to request flexible working work work flexibly if you can, because until",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 246.24,
     "end": 251.36,
     "text": "men are enabled to be active fathers, we won't get equality at home and we certainly won't get",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 251.36,
     "end": 258.24,
     "text": "equality in the workplace either. Okay, so men are more likely to have their requests turned down",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 258.24,
     "end": 265.28,
-    "text": "OK, so men are more likely to have their request turned down – or rejected. And Sarah says there is a bias in the system – unfairness, treating one group of people more favourably than another.",
+    "text": "or rejected. And Sarah says there is a bias in the system, unfairness treating one group of people",
     "speaker": "bias"
   },
   {
+    "order": 46,
     "start": 265.28,
     "end": 271.28,
     "text": "more favourably than another. And this is unfair because it can prevent some men being active",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 271.279,
     "end": 277.039,
     "text": "fathers actually being involved with childcare, but having more active fathers can lead to equality",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 277.039,
     "end": 282.799,
     "text": "or fairness at home and in the workplace. It sounds like something that needs to be looked at,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 282.799,
     "end": 288.639,
-    "text": "It sounds like something that needs to be looked at. But now, Neil, let’s get the answer to my question: According to official data, in which country do workers work the longest hours?",
+    "text": "but now Neil, let's get the answer to my question. According to official data in which country",
     "speaker": "Georgina"
   },
   {
+    "order": 50,
     "start": 288.639,
     "end": 297.119,
     "text": "do workers work the longest hours? And I said Mexico. Which is correct? Well done. According to the OECD,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 297.68,
     "end": 306.079,
     "text": "the average Mexican spends 2,255 hours at work per year, the equivalent of around 43 hours per week.",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 52,
     "start": 306.639,
     "end": 312.16,
     "text": "Germans on the other hand clock up the fewest hours. Well, my working day is nearly over,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 312.16,
     "end": 318.319,
-    "text": "Well, my working day is nearly over, so let’s just recap some of the vocabulary we’ve discussed. Starting with routine – the usual, fixed way of doing things.",
-    "speaker": "routine"
+    "text": "so let's just recap some of the vocabulary we've discussed. Starting with routine, the usual fixed",
+    "speaker": null
   },
   {
+    "order": 54,
     "start": 318.319,
     "end": 325.12,
     "text": "way of doing things. Common sense is our judgment to make sensible decisions. When you need something",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 325.12,
     "end": 331.36,
-    "text": "to match, it has to work equally on both sides. And when someone is inflexible, they are unwilling",
-    "speaker": null
+    "text": "to match it has to work equally on both sides. And when someone is inflexible, they are unwilling ",
+    "speaker": "match"
   },
   {
+    "order": 56,
     "start": 331.36,
     "end": 338.079,
     "text": "to change. Sometimes we say they won't budge. Bias is unfairness treating one group of people",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 338.079,
     "end": 343.12,
-    "text": "Bias is unfairness, treating one group of people more favourably than another. And being active with something means being involved with it.",
+    "text": " more favourably than another. And being active with something means being involved with it",
     "speaker": "active"
   },
   {
+    "order": 58,
     "start": 343.759,
     "end": 348.72,
     "text": "Well, there's no flexibility in our six minutes, so we're out of time. We have plenty more",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 348.72,
     "end": 354.8,
     "text": "six minute English programs to enjoy on our website at BBCLearningEnglish.com. And check us out",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 354.8,
     "end": 360.48,
     "text": "on Facebook, Twitter and Instagram. Don't forget that we have an app too, which you can download",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 360.48,
     "end": 366.639,
-    "text": "Don't forget that we have an app too, which you can download for free from the app stores. We help you learn English on the move! Grammar, vocabulary, and interesting topics – we have them all!",
+    "text": "for free from the app stores. We help you learn English on the move. Grammar, vocabulary and interesting",
     "speaker": "Neil"
   },
   {
+    "order": 62,
     "start": 366.639,
     "end": 370.319,
     "text": "topics, we have them all. Bye for now. Goodbye.",

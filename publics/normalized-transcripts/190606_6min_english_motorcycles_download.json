@@ -1,632 +1,737 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6MtEnglish",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.12,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.56,
     "end": 15.12,
     "text": "Hello and welcome to 6 Minute English. I'm Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 15.12,
     "end": 16.08,
     "text": "And I'm Sam.",
-    "speaker": "Sam"
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 16.08,
     "end": 20.16,
     "text": "And if I say to you, Sam, motorbike, what do you think of?",
     "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 20.16,
     "end": 24.96,
     "text": "Oh, I think of the film Easy Rider, with Jack Nicholson and Peter Fonda,",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 24.96,
     "end": 28.48,
     "text": "cruising the wide open spaces on powerful machines.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 28.48,
     "end": 29.359,
     "text": "How about you, Neil?",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 29.359,
     "end": 33.119,
-    "text": "Oh, well, I think of the young man on a moped who delivers my pizzas.",
+    "text": "Oh, well, I think of the young man on a moped who delivers my pizzas. ",
     "speaker": "Neil"
   },
   {
+    "order": 11,
     "start": 33.119,
     "end": 35.28,
     "text": "Not quite the same image, is it, really?",
-    "speaker": "Sam"
-  },
-  {
-    "start": 35.28,
-    "end": 40.48,
-    "text": "No, but in both cases, we were associating motorbikes with male figures.",
     "speaker": null
   },
   {
+    "order": 12,
+    "start": 35.28,
+    "end": 40.48,
+    "text": "No, but in both cases we were associating motorbikes with male figures. ",
+    "speaker": "Neil"
+  },
+  {
+    "order": 13,
     "start": 40.48,
     "end": 44.719,
     "text": "Today, we're looking at women and bikes, but before that a quiz.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 44.719,
     "end": 48.799,
     "text": "In which decade was the first mass-produced motorcycle released?",
-    "speaker": null
+    "speaker": "embody"
   },
   {
+    "order": 15,
     "start": 48.799,
     "end": 54.48,
     "text": "Was it A, the 1880s, B, the 1890s, or C, the 1900s?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 54.48,
     "end": 55.76,
     "text": "What do you think, Sam?",
     "speaker": "Neil"
   },
   {
+    "order": 17,
     "start": 55.759,
     "end": 56.96,
-    "text": "Tricky question.",
-    "speaker": null
+    "text": "Tricky question!",
+    "speaker": "Sam"
   },
   {
+    "order": 18,
     "start": 56.96,
     "end": 59.679,
     "text": "The 1880s, maybe too early.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 59.679,
     "end": 63.519,
-    "text": "Tricky question! The 1880s may be too early - so I think I'll play it safe and go for the middle option, the 1890s.",
-    "speaker": "Sam"
+    "text": "So I think I'll play it safe and go for the middle option.",
+    "speaker": null
   },
   {
+    "order": 20,
     "start": 63.519,
     "end": 64.959,
-    "text": "b) the 1890s, or",
+    "text": "The 1890s.",
     "speaker": "Neil"
   },
   {
+    "order": 21,
     "start": 64.959,
     "end": 68.319,
     "text": "Well, we'll see if you're right later in the programme.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 68.319,
     "end": 73.68,
     "text": "Esperanza Miyake is the author of a new study of the gendered motorcycle",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 73.68,
     "end": 76.079,
     "text": "in film advertising and TV.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 76.079,
     "end": 80.879,
     "text": "She was interviewed on BBC Radio's Thinking Allow programme about the topic.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 80.879,
     "end": 84.879,
     "text": "First, she was asked about the experience of travelling at over 110",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 84.879,
     "end": 87.28,
     "text": "kilometres per hour on a motorbike.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 87.28,
     "end": 90.959,
     "text": "What world does she say you are part of?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 90.959,
     "end": 95.599,
-    "text": "I think it dissolves, gender, race, all these things stop mattering.",
-    "speaker": null
+    "text": "I think it dissolves gender, race, all these things stop mattering. ",
+    "speaker": "dissolvesmatteringinteriority"
   },
   {
+    "order": 29,
     "start": 95.599,
     "end": 99.599,
     "text": "It's all about experience to car drivers.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 99.599,
     "end": 103.039,
     "text": "There's a lot about enjoying the internal space of the car.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 103.039,
     "end": 105.359,
     "text": "And the bike, obviously, there's no interiority.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 105.359,
     "end": 108.159,
     "text": "You're completely part of the exterior world.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 109.84,
     "end": 113.919,
     "text": "So what world are you in when travelling at speed on a motorbike?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 114,
-    "end": 115.76,
-    "text": "The external world.",
     "speaker": null
   },
   {
+    "order": 34,
+    "start": 114,
+    "end": 115.76,
+    "text": "The external world.",
+    "speaker": "interiority"
+  },
+  {
+    "order": 35,
     "start": 115.76,
     "end": 120.4,
     "text": "Because you are not inside a car, your experience is completely different.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 120.4,
     "end": 123.519,
     "text": "On a bike, you have no interiority.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 123.519,
     "end": 126.56,
     "text": "That's the experience of being inside.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 126.56,
     "end": 130.24,
     "text": "But I do have to say, although that is a real word,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 130.24,
     "end": 133.039,
     "text": "it's not one I've ever heard or used before.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 133.039,
     "end": 134.4,
     "text": "No, me neither.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 134.4,
     "end": 139.68,
     "text": "What she also says is that travelling at speeds dissolves gender and race.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 139.68,
     "end": 141.439,
     "text": "It makes them less important.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 141.68,
     "end": 144.719,
     "text": "When you dissolve something, you make it less strong.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 144.719,
     "end": 148.479,
     "text": "In fact, she says that it's speed these things stop mattering.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 148.479,
     "end": 150.8,
-    "text": "They stop having any importance.",
-    "speaker": null
+    "text": " They stop having any importance",
+    "speaker": "matteringmatter"
   },
   {
+    "order": 46,
     "start": 150.8,
     "end": 154.159,
     "text": "If something doesn't matter, it's not important at all.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 154.159,
     "end": 158.4,
     "text": "Before that, we said we usually connect motorbikes with men.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 158.4,
     "end": 160.159,
     "text": "Think bike? Think bloke.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 160.159,
     "end": 162.319,
     "text": "But what about women and bikes?",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 162.319,
     "end": 168,
     "text": "Esperanza Miyake goes on to talk about the way women bikers are usually shown in the media.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 168,
     "end": 170.719,
     "text": "How many different types does she mention?",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 171.68,
     "end": 173.68,
-    "text": "Generally, there's three types.",
-    "speaker": null
+    "text": "Generally there's three types. ",
+    "speaker": "empoweredempoweredembodying"
   },
   {
+    "order": 53,
     "start": 173.68,
     "end": 179.12,
     "text": "The first type would be your typical empowered female who's on the motorbike.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 179.12,
     "end": 185.759,
     "text": "You do have that image, but having said that, I would also add that those images are typically very sexualised, very stylised.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 185.759,
     "end": 189.12,
     "text": "So yes, she's empowered, but she's in a skin type, cat suit.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 190.24,
     "end": 195.599,
     "text": "You also get another type, which is the female rider, who's been muscularised.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 195.599,
     "end": 200.96,
     "text": "She's kind of embodying very masculine kind of style.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 201.04,
     "end": 206.32,
     "text": "And I think the third type is kind of silly, giggly female on a scooter.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 207.92,
     "end": 212.4,
-    "text": "So she talked about three types of representations, particularly in movies. Sam, tell us more.",
-    "speaker": "Neil"
+    "text": "So she talked about three types of representations, particularly in movies.",
+    "speaker": null
   },
   {
+    "order": 60,
     "start": 212.4,
     "end": 213.76,
     "text": "Sam tell us more.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 213.76,
     "end": 217.36,
     "text": "Yes, she first talked about the empowered woman.",
-    "speaker": null
+    "speaker": "empowered"
   },
   {
+    "order": 62,
     "start": 217.36,
     "end": 222.96,
     "text": "This is a character who has authority, who has the power to drive the plot and action,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 222.96,
     "end": 226.48,
     "text": "and is not dependent on a man to make decisions for her.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 226.48,
     "end": 228.64,
     "text": "It seems like a positive image,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 228.639,
     "end": 232,
     "text": "but she does say that these characters are often sexualised,",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 232,
     "end": 236.719,
     "text": "that is, presented in a way that might be sexually appealing for a male audience.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 236.719,
     "end": 240.799,
     "text": "The next character type she mentions is a woman who is very masculine.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 240.799,
     "end": 245.359,
     "text": "They embody male characteristics, which means they have and demonstrate",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 245.359,
     "end": 248.239,
     "text": "many typically male personality features.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 248.239,
     "end": 254,
     "text": "And the final type she talked about was showing women on bikes as silly and giggly riding scooters.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 254,
     "end": 258.879,
     "text": "So they don't seem to be many really completely positive images of women and motorcycles,",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 258.879,
     "end": 260.959,
     "text": "at least not in the popular media.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 261.759,
     "end": 267.36,
     "text": "Time to look again at today's vocabulary, but first let's have the answer to the quiz question,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 267.36,
     "end": 271.519,
     "text": "in which decade was the first mass-produced motorcycle released?",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 271.519,
     "end": 277.04,
     "text": "Was it A, the 1880s, B, the 1890s, or C, the 1900s?",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 277.04,
     "end": 278.56,
     "text": "What did you think, Sam?",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 77,
     "start": 278.56,
     "end": 281.199,
     "text": "I took a guess at the 1890s.",
-    "speaker": "Sam"
+    "speaker": null
   },
   {
+    "order": 78,
     "start": 281.199,
     "end": 283.279,
     "text": "Well done, it was a good guess.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 283.279,
     "end": 288.079,
     "text": "It was indeed the 1890s and a bonus point if you knew that it was 1894.",
-    "speaker": null
+    "speaker": "dissolvesdissolves"
   },
   {
+    "order": 80,
     "start": 288.639,
     "end": 291.679,
     "text": "Okay, let's have a quick reminder of today's words.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 291.679,
     "end": 294,
     "text": "We started with the verb dissolves.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 294,
     "end": 297.599,
     "text": "If something dissolves, it gets less strong, less immediate.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 297.599,
     "end": 300.479,
     "text": "Then we had another verb to matter.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 300.479,
     "end": 303.439,
-    "text": "Then we had another verb, to matter, something that matters is important to someone.",
-    "speaker": "to mattermatters"
+    "text": "Something that matters is important to someone.",
+    "speaker": null
   },
   {
+    "order": 85,
     "start": 303.439,
     "end": 304.319,
     "text": "What's the next word?",
     "speaker": "Neil"
   },
   {
+    "order": 86,
     "start": 305.279,
     "end": 311.839,
-    "text": "It was a rather uncommon word to describe the experience of being inside - interiority.",
-    "speaker": "interiority"
-  },
-  {
-    "start": 311.919,
-    "end": 315.839,
-    "text": "Let's rush by that one and move on to the next word empowered.",
+    "text": "It was a rather uncommon word to describe the experience of being inside, interiority.",
     "speaker": null
   },
   {
+    "order": 87,
+    "start": 311.919,
+    "end": 315.839,
+    "text": "Let's rush by that one and move on to the next word, empowered",
+    "speaker": "empoweredempoweredempowered"
+  },
+  {
+    "order": 88,
     "start": 315.839,
     "end": 319.359,
     "text": "Someone who is empowered is in control of their own life.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 319.359,
     "end": 324.239,
     "text": "When we talk about empowered women, we are talking about women who are not dependent on men",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 324.239,
     "end": 327.279,
     "text": "or anyone else for the direction of their lives.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 327.279,
     "end": 329.12,
     "text": "They make their own choices.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 329.12,
     "end": 331.439,
     "text": "Our next word was sexualised.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 331.439,
     "end": 335.12,
     "text": "This is when something is given a clearly sexual styling.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 335.12,
     "end": 340.639,
     "text": "In the program we heard that women on motorcycles are often shown in a sexualised way,",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 340.639,
     "end": 344.399,
     "text": "dressed in clothing, for example, that makes them sexually attractive.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 345.039,
     "end": 347.439,
-    "text": "And finally, there was to embody.",
-    "speaker": null
+    "text": "And finally there was to embody. ",
+    "speaker": "embodyembody"
   },
   {
+    "order": 97,
     "start": 347.439,
     "end": 351.039,
     "text": "This means to be a clear and obvious example of something.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 351.039,
     "end": 355.68,
     "text": "So in movies, female bikers often embody male characteristics,",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 355.68,
     "end": 360.079,
     "text": "which means they might dress or behave in a way we would usually associate with men.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 360.639,
     "end": 362.719,
     "text": "Well, it's time for us to say goodbye.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 363.36,
     "end": 367.12,
     "text": "See you next time and until then, you can find us online and on our app.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 367.12,
     "end": 369.36,
     "text": "Just search for BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 369.36,
     "end": 370.159,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 370.16,
     "end": 370.8,
-    "text": "Bye!",
-    "speaker": "Sam"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

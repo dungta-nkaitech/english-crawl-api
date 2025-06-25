@@ -1,350 +1,408 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.52,
     "text": "This is a download from BBC Learning English. To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 12.64,
     "end": 16.64,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 2,
     "start": 16.64,
     "end": 18.08,
-    "text": "And I’m Georgina.",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 18.08,
-    "end": 23.199,
-    "text": "Sorry I was late today, Georgina. I'd forgotten to take the recycling bins out",
+    "text": "And I'm Georgina.",
     "speaker": null
   },
   {
+    "order": 3,
+    "start": 18.08,
+    "end": 23.199,
+    "text": "Sorry I was late today, Georgina. I’d forgotten to take the recycling bins out",
+    "speaker": "Neil"
+  },
+  {
+    "order": 4,
     "start": 23.199,
     "end": 28.8,
     "text": "before the rubbish collection this morning. I seem to have more and more plastic packaging each week.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 28.879,
     "end": 34.24,
     "text": "Actually, that's the topic of our programme. With more and more household waste being either",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 34.24,
     "end": 41.28,
     "text": "incinerated, that's burned, or being buried underground, we'll be asking, is the recycling system",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 41.28,
     "end": 49.2,
     "text": "broken? China used to accept 55% of the world's plastic and paper scrap. Another word for unwanted",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 49.2,
     "end": 56.4,
     "text": "waste. Or in other words, rubbish. That included waste sent over from Britain. But in 2018,",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 56.399,
     "end": 61.199,
     "text": "it stopped taking any more. Other countries like Indonesia and Vietnam,",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 61.199,
     "end": 67.28,
     "text": "sokova, China's waste processing role, but they too are now sending much of the scrap back,",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 67.28,
     "end": 71.519,
     "text": "arguing it is contaminated and is harming their own environments.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 71.519,
     "end": 77.039,
-    "text": "This has created major problems for countries in the West who traditionally relied on others to process their recycling waste.",
-    "speaker": "Georgina"
+    "text": "This has created major problems for countries in the West, who traditionally relied on others",
+    "speaker": "Neil"
   },
   {
+    "order": 13,
     "start": 77.039,
     "end": 82.799,
     "text": "to process their recycling waste. And the problem isn't going away. In fact, we are creating more",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 82.879,
     "end": 89.759,
     "text": "household waste than ever. So here's my quiz question. On average, how many kilograms of household",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 15,
     "start": 89.759,
     "end": 99.359,
     "text": "waste were generated per person in the UK last year? Was it A, 280 kilograms, B, 480 kilograms,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 99.359,
     "end": 107.359,
     "text": "or C, 680 kilograms? That sounds like a lot of waste. I'll say A, 280 kilograms.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 107.92,
     "end": 113.359,
     "text": "Okay, we'll find out later if you were right. Although nowadays people are recycling more,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 113.359,
     "end": 119.359,
     "text": "the use of plastic isn't decreasing at the same rate. The BBC World Services programme The",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 19,
     "start": 119.359,
     "end": 126.48,
     "text": "Inquiry spoke to Roland Gaia, a professor at the University of California about the current situation.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 128.4,
     "end": 136.879,
     "text": "There's been a real rise in consciousness, which is fantastic. And I'm really glad that now it seems",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 136.96,
     "end": 142.799,
     "text": "the public at large is really interested in this issue and appalled and wants to do something about",
-    "speaker": null
+    "speaker": "raise in consciousnesspublic at largevirgin plastic"
   },
   {
+    "order": 22,
     "start": 142.799,
     "end": 149.84,
     "text": "it, wants to change it. But at the same time, I don't see yet any real action that would make",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 149.84,
     "end": 155.68,
     "text": "things better. Because while all of this is happening, the virgin plastic industry is actually",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 155.68,
     "end": 163.039,
     "text": "increasing its production capacity. Workers who process recycling are often exposed to dangerous",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 163.12,
     "end": 168.639,
     "text": "waste materials which can harm them. Professor Gaia says there's been a raise in consciousness",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 168.639,
     "end": 174.159,
     "text": "about this problem, meaning that people are being told about an unfair situation with the aim of",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 174.159,
     "end": 180.879,
     "text": "asking them to help change it. Now, Professor Gaia is an American and he uses rays as a noun.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 181.599,
     "end": 188.159,
     "text": "The main problem comes from virgin plastic, original unused plastic containers. These are made",
-    "speaker": null
+    "speaker": "virgin plastic"
   },
   {
+    "order": 29,
     "start": 188.24,
     "end": 195.039,
     "text": "directly from fossil fuels like crude oil or natural gas, major sources of carbon dioxide and",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 195.039,
     "end": 201.28,
     "text": "climate change. But consciousness raising of this issue is having an impact. The public at large,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 201.28,
     "end": 206.159,
     "text": "meaning most people in the world, rather than just some of them, are concerned about the increase",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 206.159,
     "end": 211.68,
     "text": "in plastic waste and want to do something to help. However, it's not always easy to know what the",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 211.68,
     "end": 218.079,
     "text": "best way to help is. Another expert, Professor Monik Sun, believes that focusing only on recycling",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 218.56,
     "end": 224.64,
     "text": "may not be the best idea. She conducted psychological experiments to find out more about people's",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 35,
     "start": 224.64,
     "end": 230.8,
     "text": "attitudes to recycling. And surprisingly, found that if people know recycling is an option,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 230.8,
     "end": 236.72,
     "text": "they tend to use more resources. They reduce any guilty feelings by telling themselves that the",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 37,
     "start": 236.72,
     "end": 244.88,
     "text": "material will be recycled anyway. We have this slogan of reduce, reuse and recycle, and the",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 244.879,
     "end": 250.4,
     "text": "priority should be exactly that. Reduced and reused is better than recycling. And the cost of",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 250.4,
     "end": 255.439,
     "text": "recycling is often not emphasised enough. People perceive recycling to be great, but there is",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 255.439,
     "end": 259.36,
     "text": "actually significant labour and material cost associated with recycling.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 261.6,
     "end": 270.159,
     "text": "Professor Sun mentions reduce, reuse and recycle as a useful slogan. A short, easily remembered phrase",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 270.24,
     "end": 276.8,
-    "text": "Professor Sun mentions ‘Reduce, Reuse and Recycle’ as a useful slogan - ashort, easily remembered phrase, often used to promote an idea, in this case that we should all do what we can to protect the environment.",
+    "text": "often used to promote an idea, in this case, that we should all do what we can to protect the environment.",
     "speaker": "slogan"
   },
   {
+    "order": 43,
     "start": 276.8,
     "end": 282.48,
     "text": "But while protecting the planet is a common goal, recycling in itself may not be so important.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 283.2,
     "end": 290.08,
     "text": "It's better to reduce and reuse than recycle. So these two objectives should be emphasised,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 290.08,
     "end": 296.48,
     "text": "highlighted as being especially important. Do you remember my quiz question? I asked you how many",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 296.48,
     "end": 304.48,
     "text": "kilograms of waste the average British person generated last year. I reckon it was a 280 kilograms.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 305.12,
     "end": 311.759,
     "text": "That would be bad enough, but the real answer is b, 480 kilograms. Multiply that by the UK",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 311.759,
     "end": 317.84,
     "text": "population of 66 million and you start to see the size of the problem. Today we've been talking",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 49,
     "start": 317.84,
     "end": 323.52,
     "text": "about the problems associated with recycling scrap, another word for rubbish. Western countries",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 323.519,
     "end": 329.12,
-    "text": "used to send their rubbish to China for recycling, but this caused issues for the local environment.",
-    "speaker": null
+    "text": "used to send their rubbish to China for recycling but this caused issues for the local environment. ",
+    "speaker": "raised consciousness"
   },
   {
+    "order": 51,
     "start": 329.12,
     "end": 334.879,
     "text": "Some groups raised consciousness about the problem. May people aware of the situation to encourage",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 334.879,
     "end": 340.799,
     "text": "them to help change it. The public at large, most people in the world, are now aware of the need to",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 340.799,
     "end": 348.399,
-    "text": "The public at large – most people in the world – are now aware of the need to ‘Reduce, Reuse and Recycle’, the slogan – or short, memorable phrase – used by environmentalists to spread their message.",
-    "speaker": "public at largeslogan"
+    "text": "reduce, reuse and recycle. The slogan or short memorable phrase used by environmentalists to spread",
+    "speaker": null
   },
   {
+    "order": 54,
     "start": 349.359,
     "end": 355.12,
     "text": "their message. A related problem is the increase of virgin plastic, original, unused plastic made",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 355.12,
     "end": 361.439,
     "text": "from fossil fuels. Recycling is unable to keep pace with virgin plastic production, so instead",
-    "speaker": null
+    "speaker": "virgin plasticemphasised"
   },
   {
+    "order": 56,
     "start": 361.439,
     "end": 367.599,
     "text": "reducing and reusing plastic should be emphasised, highlighted as being especially important.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 368.159,
     "end": 370.56,
-    "text": "And that’s all from us. Bye for now.",
-    "speaker": "Neil"
+    "text": "And that's all from us. Bye for now. Bye.",
+    "speaker": null
   }
 ]

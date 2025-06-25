@@ -7,8 +7,28 @@
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/200213_6min_english_resilience.pdf",
   "vocabItems": [
     {
-      "word": "resilient (adjective)",
-      "definition": "able to cope with difficult situations or to improve quickly after an illness or injury"
+      "word": "resilient",
+      "definition": "(adjective)able to cope with difficult situations or to improve quickly after an illness or injury"
+    },
+    {
+      "word": "resilience",
+      "definition": "(noun)ability to cope with difficult situations or improve quickly after an illness or injury"
+    },
+    {
+      "word": "optimistic",
+      "definition": "have positive thoughts about the future and believe things will turn out well"
+    },
+    {
+      "word": "distress",
+      "definition": "feeling you get when you are worried or upset by something"
+    },
+    {
+      "word": "manifest",
+      "definition": "show clearly and is easy to notice"
+    },
+    {
+      "word": "adversity",
+      "definition": "difficult situation in somebody’s life"
     }
   ],
   "quiz": null

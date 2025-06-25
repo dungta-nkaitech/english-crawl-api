@@ -1,521 +1,608 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7,
     "text": "6 Minute English From BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7,
     "end": 12,
     "text": "Hello, this is 6 Minute English from BBCLearningEnglish. I'm Neil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12,
     "end": 19,
     "text": "And I'm Beth. Smell a vision, a television which allows you to smell things as well as see them,",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 19,
     "end": 27,
     "text": "and a miracle pill which cures all diseases. These predictions for the future were made in the 1930s,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 27,
     "end": 29,
     "text": "but so far they haven't come true.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 29,
     "end": 34,
     "text": "Making predictions for the future isn't easy. Just ask TechBillionaire Elon Musk,",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 34,
     "end": 41,
     "text": "who recently predicted that artificial intelligence will eventually mean that no one will have to work.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 41,
     "end": 45,
     "text": "In fact, there have been many predictions about the future of work.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 45,
     "end": 51,
     "text": "For example, that robots will take over most jobs, and that everyone will work from home.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 52,
     "end": 57,
     "text": "One of these predictions came true. Millions were forced to work from home.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 57,
     "end": 60,
     "text": "So what will work be like in the future?",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 60,
     "end": 67,
     "text": "That's what we'll be discussing in this programme, and as usual we'll be learning some useful new vocabulary too.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 67,
     "end": 69,
     "text": "But first I have a question for you, Beth.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 13,
     "start": 69,
     "end": 73,
     "text": "Another idea for the future is the four-day working week,",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 73,
     "end": 77,
     "text": "where employees work four days for the same money as five.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 77,
     "end": 81,
     "text": "After Covid, many British companies gave the idea a go,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 81,
     "end": 87,
     "text": "but out of the 60 companies taking parts in a four-day working week trial in 2023,",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 87,
     "end": 92,
     "text": "how many said they planned to continue with a shorter work week?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 92,
     "end": 98,
     "text": "Was it A, 52% B, 72% or C, 92%.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 98,
     "end": 104,
     "text": "Hmm, I guess 52% of the companies planned to continue with a four-day week.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 104,
     "end": 108,
     "text": "Okay, Beth, I'll reveal the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 108,
     "end": 115,
     "text": "Now, whatever Elon Musk thinks, as we've seen it's difficult to make your predictions accurate,",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 22,
     "start": 115,
     "end": 120,
     "text": "here's Sean Lay, presenter of BBC World Service programme, The Real Story,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 120,
     "end": 123,
     "text": "asking University of Cambridge Professor Brendan Bertchell,",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 123,
     "end": 127,
     "text": "what he thinks about predictions for the future of work.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 127,
     "end": 131,
     "text": "Brendan Bertchell, when you look at all the predictions that have been made,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 131,
     "end": 133,
     "text": "Selene, you're working lifetime.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 133,
     "end": 139,
     "text": "Do you kind of take some of the things that have been predicted now with a large pinch of salt?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 139,
     "end": 141,
     "text": "I do, I think we have to be skeptical.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 141,
     "end": 145,
     "text": "I think the track record for economists and other social scientists isn't good.",
-    "speaker": null
+    "speaker": "takeapinch of salt"
   },
   {
+    "order": 30,
     "start": 145,
     "end": 148,
     "text": "When we look, you know, for hundreds of years, a hundred years now,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 148,
     "end": 152,
     "text": "people have been predicting that there will be really quite dramatic reductions in working time",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 152,
     "end": 154,
     "text": "like Elon Musk has just made.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 154,
     "end": 159,
     "text": "And previously, those predictions, although we're heading very gradually in that direction,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 159,
     "end": 166,
     "text": "those predictions of very, very large changes in working time just haven't come to pass.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 166,
     "end": 171,
     "text": "Sean asks if we should take predictions with a pinch of salt.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 171,
     "end": 176,
-    "text": "To take something with a pinch of salt is an idiom, meaning to doubt",
-    "speaker": null
+    "text": " To take something with a pinch of salt is an idiom meaning to doubt",
+    "speaker": "To take something with a pinch of salttakea pinch of salt"
   },
   {
+    "order": 37,
     "start": 176,
     "end": 181,
     "text": "that what you've been told is accurate or likely to come true.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 181,
     "end": 187,
     "text": "For example, if your friend always lies, you take what they say with a pinch of salt.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 187,
     "end": 193,
     "text": "Professor Birchall thinks predictions for the future of work have a bad track record.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 193,
     "end": 199,
     "text": "A track record means all the achievements or failures that someone has had in the past.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 199,
     "end": 205,
     "text": "When it comes to predicting the future of work, most predictions simply haven't come to pass,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 205,
     "end": 209,
     "text": "an old fashioned way of saying happened will come true.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 209,
     "end": 216,
     "text": "So are predictions for a future of leisure relaxing by the pool while robots do all the work",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 44,
     "start": 216,
     "end": 218,
     "text": "just a dream.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 218,
     "end": 223,
     "text": "Let's hear from Andrew Palmer, business editor for the Economist magazine,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 223,
     "end": 227,
     "text": "talking to BBC World Service Program, The Real Story.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 227,
     "end": 229,
     "text": "I'm not a tech dystopian.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 229,
     "end": 232,
     "text": "I don't think that machines or AI are going to get rid of all jobs.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 232,
     "end": 234,
     "text": "But I do worry about a sequencing risk.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 234,
     "end": 239,
     "text": "So there will be some disruption from AI, some jobs, some professions are at risk.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 239,
     "end": 242,
     "text": "And although economists like to say new jobs will crop up,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 242,
     "end": 245,
     "text": "they won't necessarily be aligned at the same time.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 245,
     "end": 247,
     "text": "They won't be coordination.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 247,
     "end": 249,
-    "text": "Andrew is not a dystopian.",
-    "speaker": null
+    "text": "Andrew is not a dystopian,",
+    "speaker": "dystopian,get rid of"
   },
   {
+    "order": 55,
     "start": 249,
     "end": 254,
     "text": "Someone who imagines a nightmare future of suffering and injustice.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 254,
     "end": 257,
     "text": "He doesn't think AI will get rid of all jobs.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 257,
     "end": 262,
     "text": "To get rid of something means to remove it because you no longer want it.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 262,
     "end": 266,
     "text": "Andrew predicts that AI will replace some jobs,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 266,
     "end": 268,
     "text": "and those workers will need support.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 268,
     "end": 271,
     "text": "But he also thinks new jobs will crop up.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 271,
     "end": 274,
     "text": "They will appear unexpectedly.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 274,
     "end": 276,
     "text": "And that's exactly the problem.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 276,
     "end": 280,
     "text": "The future is hard to predict because it's so unexpected.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 280,
     "end": 284,
     "text": "Anyway, I reckon a shorter working week is something we can all agree on right now?",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 284,
     "end": 286,
     "text": "Absolutely.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 66,
     "start": 286,
     "end": 289,
     "text": "I think it's time to reveal the answer to my question",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 289,
     "end": 294,
     "text": "about the 60 companies trying out a shorter working week in 2023.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 294,
     "end": 299,
     "text": "I asked how many of them plan to continue a four-day week at the end of the trials.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 299,
     "end": 302,
-    "text": "I guessed 52%. So, was I right?",
-    "speaker": "Beth"
-  },
-  {
-    "start": 302,
-    "end": 305,
-    "text": "That was the wrong answer I'm afraid, bet.",
+    "text": "And I guessed 52% so was I right?",
     "speaker": null
   },
   {
+    "order": 70,
+    "start": 302,
+    "end": 305,
+    "text": "That was the wrong answer I'm afraid, bet.",
+    "speaker": "take it with a pinch of salt"
+  },
+  {
+    "order": 71,
     "start": 305,
     "end": 310,
     "text": "Actually, a whopping 92% of the companies plan on keeping a four-day week",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 310,
     "end": 314,
     "text": "because it was so popular with bosses as well as workers.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 314,
     "end": 318,
     "text": "Right, let's recap the vocabulary we've learned from this program",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 318,
     "end": 321,
     "text": "starting with the idiom, take it with a pinch of salt,",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 321,
     "end": 325,
     "text": "meaning don't completely believe what you are told is true.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 325,
     "end": 331,
-    "text": "A track record means the achievements or failures of someone’s past performance.",
-    "speaker": "A track record"
+    "text": "A track record means the achievements or failures of someone's past performance.",
+    "speaker": null
   },
   {
+    "order": 77,
     "start": 331,
     "end": 336,
     "text": "Come to pass is an old-fashioned way of saying take place or happen?",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 336,
     "end": 340,
-    "text": "A dystopian is someone who foresees a nightmarish future where there is great suffering and injustice in society.",
-    "speaker": "dystopian"
+    "text": "A dystopian is someone who foresees a nightmarish future",
+    "speaker": "come to pass"
   },
   {
+    "order": 79,
     "start": 340,
     "end": 344,
     "text": "where there's great suffering and injustice in society.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 344,
     "end": 348,
     "text": "If you get rid of something, you remove something that you no longer want.",
     "speaker": "get rid of"
   },
   {
+    "order": 81,
     "start": 348,
     "end": 354,
     "text": "And finally, if something crops up, it appears or happens unexpectedly.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 354,
     "end": 356,
     "text": "Once again, our six minutes are up.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 356,
     "end": 363,
     "text": "Join us again soon for more trending topics and useful vocabulary here at 6 Minute English.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 363,
     "end": 364,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 364,
     "end": 365,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 365,
     "end": 372,
     "text": "6 Minute English from BBCLearningEnglish.com",

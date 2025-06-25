@@ -7,8 +7,24 @@
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/180809_6min_english_tall_people.pdf",
   "vocabItems": [
     {
-      "word": "to relish (something)",
-      "definition": "to really enjoy something"
+      "word": "to relish",
+      "definition": "(something)to really enjoy something"
+    },
+    {
+      "word": "discrimination",
+      "definition": "unfair or unequal treatment of people because of, for example, their race, religion, colour, age or indeed height"
+    },
+    {
+      "word": "embellish",
+      "definition": "exaggerate"
+    },
+    {
+      "word": "premium",
+      "definition": "extra benefit, extra advantage"
+    },
+    {
+      "word": "disparity",
+      "definition": "disparitydifference"
     }
   ],
   "quiz": null

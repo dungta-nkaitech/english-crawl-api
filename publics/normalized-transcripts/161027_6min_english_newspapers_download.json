@@ -1,557 +1,650 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Sophie"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.88,
     "text": "From BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 11.919,
     "end": 15.04,
-    "text": "Hello and welcome to 6 Minute English. I'm Sophie…",
-    "speaker": "Sophie"
+    "text": "Hello and welcome to 6 Minute English, I'm Sophie.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 15.04,
     "end": 16.24,
     "text": "And I'm Neil.",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 16.24,
     "end": 17.44,
     "text": "What are you reading?",
     "speaker": "Sophie"
   },
   {
+    "order": 7,
     "start": 17.44,
     "end": 18.4,
     "text": "A news blog.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 18.4,
     "end": 22.8,
-    "text": "A news blog – it says here that the fossil of a two-headed dinosaur has been discovered in Greece. Look! Look at this picture!",
-    "speaker": "Neil"
+    "text": "It says here that the fossil of a two-headed dinosaur has been discovered in Greece.",
+    "speaker": null
   },
   {
+    "order": 9,
     "start": 22.8,
     "end": 24.08,
     "text": "Look, look at this picture.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 24.8,
     "end": 28.879,
     "text": "Oh, honestly, Neil, you shouldn't believe everything you read on the internet.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 29.439,
     "end": 34.159,
     "text": "This story is from one of those fake news websites that float about on social media.",
-    "speaker": null
+    "speaker": "Sophie"
   },
   {
+    "order": 12,
     "start": 34.799,
     "end": 36.879,
     "text": "And you aren't the only one to get taken in.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 37.519,
     "end": 42,
     "text": "Even serious news channels report these types of stories as if they were true.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 42,
     "end": 44.479,
     "text": "Taking in means fooled by something.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 44.479,
     "end": 46.159,
     "text": "Well, I must admit, I did believe it.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 46.64,
     "end": 50,
     "text": "And I didn't know that fake or pretend news sites existed.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 50,
     "end": 52.399,
     "text": "How am I supposed to know what's fake and what's real?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 52.399,
     "end": 54.48,
     "text": "So many extraordinary things happen.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 54.719,
     "end": 60.319,
     "text": "That's a good question and actually, digital news and its effect on traditional newspapers",
-    "speaker": null
+    "speaker": "reliable"
   },
   {
+    "order": 20,
     "start": 60.319,
     "end": 62,
     "text": "is the subject of today's show.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 62.559,
     "end": 67.039,
     "text": "The thing is, if you read a traditional print newspaper like I do,",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 67.039,
     "end": 69.519,
     "text": "you'd find stories that are more reliable.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 69.519,
     "end": 70.799,
     "text": "Once you can trust.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 70.799,
     "end": 74.64,
     "text": "Well, enjoy your traditional print newspaper while you can, Sophie,",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 74.64,
     "end": 76.56,
     "text": "because they're going to disappear pretty soon.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 76.56,
     "end": 78.159,
     "text": "The same way as the dinosaurs.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 80,
     "end": 84.159,
-    "text": "It is true that print newspapers are feeling the pinch these days.",
-    "speaker": null
+    "text": " It is true that print newspapers are feeling the pinch these days",
+    "speaker": "feeling the pinch"
   },
   {
+    "order": 28,
     "start": 84.56,
     "end": 86.799,
     "text": "And that means not making enough money.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 86.799,
     "end": 88.719,
     "text": "But I will miss them if they go.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 88.719,
     "end": 91.359,
     "text": "Which brings me on to today's quiz question.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 92,
     "end": 97.76,
     "text": "Neil, how many national print newspapers are currently sold in the UK a day?",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 97.76,
     "end": 99.76,
-    "text": "a) 70,000?",
-    "speaker": "feeling the pinch"
+    "text": "Is it A, 70,000?",
+    "speaker": "Neil"
   },
   {
+    "order": 33,
     "start": 100.079,
     "end": 102.08,
     "text": "b) 700,000?",
     "speaker": "feeling the pinch"
   },
   {
+    "order": 34,
     "start": 102.08,
     "end": 104.159,
-    "text": "Or c) 7 million?",
-    "speaker": "feeling the pinch"
+    "text": "Or C, 7 million?",
+    "speaker": null
   },
   {
+    "order": 35,
     "start": 104.159,
     "end": 106.4,
     "text": "Ooh, well, I'll go for A, 70,000.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 106.4,
     "end": 108.64,
-    "text": "Well, I'll go for a) 70,000. It can't be much more than that, surely.",
+    "text": "It can't be much more than that, surely.",
     "speaker": "Neil"
   },
   {
+    "order": 37,
     "start": 108.64,
     "end": 113.04,
     "text": "Well, we'll find out whether you got the answer right or not later in the show.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 113.68,
     "end": 118.32,
     "text": "But moving on now, we've discussed one disadvantage of digital news",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 118.32,
     "end": 122.16,
     "text": "that it can be hard to distinguish a real story from a fake one,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 122.16,
     "end": 125.12,
     "text": "given the massive information available on the web.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 125.12,
     "end": 128.56,
     "text": "So, maybe you should tell us about the advantages, Neil.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 128.56,
     "end": 132.96,
     "text": "Well, you can access news 24-7 and search for it on your phone or tablet",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 43,
     "start": 132.96,
     "end": 137.04,
     "text": "without having to flip through pages of stuff you aren't interested in.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 137.04,
     "end": 138.64,
     "text": "It isn't all in black and white,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 138.64,
     "end": 142,
     "text": "and it isn't all about reading you can watch and listen to.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 142.08,
     "end": 143.919,
     "text": "And make comments of your own.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 143.919,
     "end": 146.879,
     "text": "OK, well, let's listen to Tim Luckhurst,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 146.879,
     "end": 149.439,
     "text": "professor of journalism at Kent University,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 149.439,
     "end": 152.719,
     "text": "to see what he thinks is important in journalism nowadays.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 154.639,
     "end": 159.68,
     "text": "It doesn't matter whether your local journalist produces news on a tablet,",
-    "speaker": null
+    "speaker": "Tim Luckhurst, Professor of Journalism at Kent University"
   },
   {
+    "order": 51,
     "start": 159.68,
     "end": 165.12,
     "text": "on a mobile phone, in print, online, on television or on radio.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 165.12,
     "end": 168.8,
     "text": "What matters is that there should be a diversity of journalism available",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 168.8,
     "end": 172.16,
     "text": "and that it should be provided by professional reporters,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 172.16,
     "end": 178.24,
     "text": "whose job is to do an honest objective job impartially in the public interest,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 178.24,
     "end": 180.96,
     "text": "not simply to rant or express opinions.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 182.719,
     "end": 187.84,
     "text": "Tim Luckhurst there, he says that news will be successful on any platform,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 187.84,
     "end": 189.76,
     "text": "digital or traditional.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 189.76,
     "end": 194.56,
     "text": "So long as reporters are honest and objective in their pursuit of a good story.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 195.36,
     "end": 200.4,
     "text": "If you're objective, it means you aren't influenced by personal feelings or opinions.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 201.12,
     "end": 205.759,
     "text": "If you rant, you speak in an angry, opinionated way about something.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 206.319,
     "end": 210.24,
     "text": "Now, newspapers need to make money in order to pay their journalists",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 62,
     "start": 210.24,
     "end": 212.64,
     "text": "and with circulation falling dramatically,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 212.64,
     "end": 215.92,
     "text": "they need to find other ways to make newspapers pay.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 215.92,
     "end": 220.48,
-    "text": "A newspaper's circulation is the number of copies it distributes per day. Well, selling more advertising space is one way, isn't it?",
-    "speaker": "circulation"
+    "text": "A newspaper's circulation is the number of copies it distributes per day.",
+    "speaker": null
   },
   {
+    "order": 65,
     "start": 221.199,
     "end": 225.199,
     "text": "Well, selling more advertising spaces one way, isn't it?",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 225.199,
     "end": 229.28,
     "text": "Yes, but many advertisers are choosing to use digital platforms",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 67,
     "start": 229.28,
     "end": 232.479,
     "text": "because they reach a wider and more targeted audience.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 232.479,
     "end": 235.519,
     "text": "And this is one reason why digital news is taking over.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 235.519,
     "end": 237.919,
     "text": "It can pay for itself through advertising.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 237.919,
     "end": 242.959,
     "text": "I wouldn't mind paying more for a newspaper if I knew the quality of the journalism is good.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 242.959,
     "end": 247.199,
-    "text": "But increasingly people are expecting good quality journalism for free.",
+    "text": "But increasingly people are expecting good quality journalism for free. ",
     "speaker": "Neil"
   },
   {
+    "order": 72,
     "start": 248,
     "end": 251.919,
     "text": "Newspapers have been around since the invention of the printing press.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 251.919,
     "end": 257.599,
     "text": "And as chronicles or written accounts of people's lives are an important historical resource.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 258.479,
     "end": 266.56,
     "text": "Let's listen to Alex Cox, researcher at Genealogy website, findmypass.co.uk, talking more about this.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 267.68,
     "end": 268.959,
     "text": "Join the First World War.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 268.959,
     "end": 272.719,
-    "text": "Local papers always printed in memoriam columns where they'd list local dead.",
-    "speaker": null
+    "text": "local papers always printed In Memoriam columns where they'd list local dead.",
+    "speaker": "Alex Cox, researcher at genealogy website, findmypast.co.uk"
   },
   {
+    "order": 77,
     "start": 272.719,
     "end": 276.879,
     "text": "What a lot of them also did was they allowed relatives to submit short poems about that deceased",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 276.879,
     "end": 280.24,
     "text": "loved ones and some of them were five or six lives not very long, but they're really,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 280.8,
     "end": 285.519,
     "text": "really quite powerful. And the paper dedicated page space to print not just one of these,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 285.519,
     "end": 290.079,
     "text": "but multiple. And I don't know whether a modern paper would even consider doing that today.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 291.92,
     "end": 294.8,
     "text": "Deceased is another word for dead.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 294.8,
     "end": 299.279,
-    "text": "Deceased is another word for dead – in this case, it refers to the British soldiers who died in the First World War.",
-    "speaker": "Deceased"
+    "text": "In this case, it refers to the British soldiers who died in the First World War.",
+    "speaker": null
   },
   {
+    "order": 83,
     "start": 300.48,
     "end": 305.12,
-    "text": "Local papers, at the time, printed poems written by the families of the dead men. Those poems, captured in print, are an important historical record of the time.",
-    "speaker": "Neil"
+    "text": "Local papers at the time printed poems written by the families of the dead men.",
+    "speaker": null
   },
   {
+    "order": 84,
     "start": 305.199,
     "end": 309.6,
     "text": "Those poems captured in print are an important historical record of the time.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 309.6,
     "end": 317.12,
-    "text": "Indeed. Now, remember, Neil, I asked you: How many national print newspapers are currently sold in the UK a day? Is it… a) 70,000, b) 700,000 or c) 7 million?",
-    "speaker": "Sophie"
+    "text": "Indeed. Now, remember Neil, I asked you how many national print newspapers are currently sold",
+    "speaker": null
   },
   {
+    "order": 86,
     "start": 317.12,
     "end": 325.519,
     "text": "in the UK a day? Is it A, 70,000, B, 700,000 or C, 7 million?",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 325.519,
     "end": 327.84,
-    "text": "Yes, I remember. And I said 70,000.",
+    "text": "Yes, I remember. And I said 70,000",
     "speaker": "Neil"
   },
   {
+    "order": 88,
     "start": 328.639,
     "end": 337.039,
-    "text": "Well, I'm sorry Neil, but you are wrong. The answer is actually c) 7 million. But the numbers are falling.",
-    "speaker": "Sophie"
+    "text": "Well, I'm sorry, Neil, but you are wrong. The answer is actually C, 7 million, but the numbers",
+    "speaker": null
   },
   {
+    "order": 89,
     "start": 337.039,
     "end": 343.12,
     "text": "are falling. Well, that's still a few million more than I thought. Now, I think it must be time",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 343.12,
     "end": 355.679,
     "text": "to hear the words we learned today. They are taken in, fake, reliable, feeling the pinch, objective,",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 355.68,
     "end": 367.199,
     "text": "rant, circulation, chronicles, deceased. Well, that's the end of today's six minute English.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 367.199,
     "end": 369.84,
     "text": "Please join us again soon. Goodbye. Goodbye.",

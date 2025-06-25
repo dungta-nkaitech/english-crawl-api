@@ -1,380 +1,443 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 13.519,
     "end": 17.12,
-    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Rob.",
+    "text": "Hello. This is 6 Minute English from BBC Learning English.",
     "speaker": "Rob"
   },
   {
+    "order": 3,
     "start": 17.12,
     "end": 17.839,
     "text": "I'm Rob.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 17.839,
     "end": 19.039,
-    "text": "And I’m Georgina.",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 19.039,
-    "end": 23.039,
-    "text": "Now Georgina, you recently mentioned in one 6 Minute English program",
+    "text": "And I'm Georgina.",
     "speaker": null
   },
   {
-    "start": 23.039,
-    "end": 28.24,
-    "text": "Now, Georgina, you recently mentioned in one 6 Minute English programme about NFTs and that you had a collection of Pokemon cards when you were younger.",
+    "order": 5,
+    "start": 19.039,
+    "end": 23.039,
+    "text": "Now Georgina, you recently mentioned in one 6 Minute English program",
     "speaker": "Rob"
   },
   {
-    "start": 28.319,
-    "end": 31.359,
-    "text": "Yes – I did, and I still can’t find them. Why did you bring that up?",
-    "speaker": "Georgina"
+    "order": 6,
+    "start": 23.039,
+    "end": 28.24,
+    "text": "about NFTs and that you had a collection of Pokemon cards when you were younger.",
+    "speaker": null
   },
   {
+    "order": 7,
+    "start": 28.319,
+    "end": 31.359,
+    "text": "Yes, I did and I still can't find them.",
+    "speaker": null
+  },
+  {
+    "order": 8,
     "start": 31.359,
     "end": 32.56,
     "text": "Why did you bring that up?",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 33.359,
     "end": 40.56,
     "text": "Well, Pokemon started out as a video game series that turned into anime movies and trading cards",
-    "speaker": null
+    "speaker": "iconic"
   },
   {
+    "order": 10,
     "start": 40.56,
     "end": 45.599,
     "text": "among other things. And in this program, we're talking about a video game character",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 45.599,
     "end": 49.84,
     "text": "that is iconic, a word which means widely known and recognised.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 50.48,
     "end": 52.959,
     "text": "That character's name is Super Mario.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 53.6,
     "end": 58.56,
     "text": "Ah, I spent many hours of my childhood playing with Nintendo's Super Mario",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 58.56,
     "end": 61.439,
     "text": "or his rival, Sega's Sonic the Hedgehog.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 62.32,
     "end": 67.76,
     "text": "Now these days, video games are everywhere and people of all ages enjoy playing them.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 16,
     "start": 68.48,
     "end": 74.079,
     "text": "There's also competitive e-sports events where gamers compete for what are often",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 74.079,
     "end": 75.68,
     "text": "considerable amounts of money.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 76.56,
     "end": 82.24,
-    "text": "Yes, and there are also streamers that appear on platforms like Twitch and YouTube who have become celebrities in their own right.",
-    "speaker": "Georgina"
+    "text": "Yes, and there are also streamers that appear on platforms like Twitch and YouTube",
+    "speaker": null
   },
   {
+    "order": 19,
     "start": 82.239,
     "end": 84.719,
     "text": "who have become celebrities in their own right.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 85.519,
     "end": 91.599,
-    "text": "Talking about celebrities, I have a question about the famous character we're talking about in",
-    "speaker": null
+    "text": "Talking about celebrities, I have a question about the famous character we’re talking about in",
+    "speaker": "Rob"
   },
   {
+    "order": 21,
     "start": 91.599,
     "end": 99.679,
     "text": "this program. Many people remember Super Mario brothers as being the first time we saw Mario,",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 99.679,
     "end": 108,
     "text": "but he first appeared in another game, which was it? Was it A, the legend of Zelda, B Donkey Kong",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 108.079,
     "end": 109.439,
-    "text": "c) Pokemon",
+    "text": "or C Pokemon?",
     "speaker": "Rob"
   },
   {
+    "order": 24,
     "start": 109.439,
     "end": 116.48,
-    "text": "I’m not sure about that – I can’t remember him being in Pokemon, so I’ll go for a) The Legend of Zelda.",
+    "text": "I'm not sure about that. I can't remember him being in Pokemon, so I'll go for A, the legend",
     "speaker": "Georgina"
   },
   {
+    "order": 25,
     "start": 116.48,
     "end": 121.28,
     "text": "of Zelda. Okay, Georgina, we'll find out if you're right at the end of the program.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 122.159,
     "end": 128.24,
     "text": "So, we established at the start of the program that these days, the video games industry is thriving.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 129.12,
     "end": 136.159,
-    "text": "True – but it wasn’t always that way. It’s hard to imagine now, but in the 1980s the console market was struggling, particularly in the US.",
+    "text": "True – but it wasn’t always that way. It’s hard to imagine now, but in the 1980s the console market",
     "speaker": "Georgina"
   },
   {
+    "order": 28,
     "start": 136.159,
     "end": 138.639,
     "text": "was struggling, particularly in the US.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 166.639,
     "end": 169.84,
     "text": "So bad that they ended up burying thousands of copies of it in a desert because nobody",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 169.84,
     "end": 174.4,
     "text": "liked it. So we'd had the, especially in America, this didn't happen so much in Europe,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 174.4,
     "end": 177.84,
     "text": "but in America, there'd just been lots and lots of software and none of it was all that great.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 177.84,
     "end": 182.719,
     "text": "There hadn't been anything really revolutionary in some years, so the video game boom was",
-    "speaker": null
+    "speaker": "a flood ofcited"
   },
   {
+    "order": 33,
     "start": 182.719,
     "end": 186.159,
     "text": "really falling off the cliff and Nintendo is what rescued it in the US especially.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 187.359,
     "end": 194.159,
     "text": "Kess and McDonald used the term a flood of, meaning a large number in a short period of time,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 194.159,
     "end": 200.639,
     "text": "to describe the number of games that were coming out. She used cited, which means reference",
+    "speaker": "a flood of"
+  },
+  {
+    "order": 36,
+    "start": 200.639,
+    "end": 206.719,
+    "text": "or noted, when talking about the game ET being a reference for a factor in the collapse of the",
     "speaker": null
   },
   {
-    "start": 200.639,
-    "end": 206.719,
-    "text": "She used cited, which means referenced or noted, when talking about the game ET being a reference for a factor in the collapse of the console market.",
-    "speaker": "cited"
-  },
-  {
+    "order": 37,
     "start": 206.719,
     "end": 215.28,
     "text": "console market. And she said boom, a sudden period of growth. So as ET was mentioned, as a factor",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 215.28,
     "end": 222,
     "text": "in the collapse, many people say that Super Mario Bros. was the reason that video games really took",
-    "speaker": null
+    "speaker": "boom"
   },
   {
+    "order": 39,
     "start": 222.719,
     "end": 228.719,
     "text": "off, especially in the US. It's interesting to consider what might have been if its creator,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 228.719,
     "end": 236.159,
     "text": "Shiguru Miyamoto, had never created that character. The question is why is that game so popular?",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 236.159,
     "end": 242.8,
     "text": "What made it so fun to play? Here is Kess and McDonald speaking again with Peter White on the BBC",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 242.8,
     "end": 249.12,
     "text": "World Service program You and Yours. Explaining why Mario is just so popular and what makes the",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 249.12,
     "end": 256,
     "text": "original game so satisfying to play? It's just such a joy to play. It's running and jumping",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 44,
     "start": 256,
     "end": 260.56,
     "text": "and it's the joy of movement. When you play even the original Super Mario Bros. you just feel the",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 260.56,
     "end": 266.639,
     "text": "sense of joy in your movement. And it's one of the greatest games I've ever made. And a lot of",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 266.639,
     "end": 270.8,
     "text": "games from 35 years ago are basically unplayable now. They might have been a step to something",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 270.8,
     "end": 274.879,
     "text": "greater, but Mario is one of those few that really holds up today as well that did then.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 275.12,
     "end": 283.12,
     "text": "Kess and McDonald said that some games from 35 years ago are unplayable, so not possible to play",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 283.12,
     "end": 290,
     "text": "them. But she said that Mario holds up, a term used to say that something standards or quality",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 290,
     "end": 296.319,
     "text": "has not lessened. It certainly does hold up. In fact, I played it the other day and I had lots of",
+    "speaker": "holds up –"
+  },
+  {
+    "order": 51,
+    "start": 296.319,
+    "end": 301.199,
+    "text": "fun with it. It reminded me of my childhood and it's still as good now as it was then.",
     "speaker": null
   },
   {
-    "start": 296.319,
-    "end": 301.199,
-    "text": "It certainly does hold up – in fact, I played it the other day and I had lots of fun with it – it reminded me of my childhood, and it’s still as good now as it was then.",
+    "order": 52,
+    "start": 301.68,
+    "end": 307.439,
+    "text": "Which reminds me of your quiz question, Rob? Yes. In my quiz question, I asked your Gina,",
+    "speaker": null
+  },
+  {
+    "order": 53,
+    "start": 307.439,
+    "end": 314.56,
+    "text": " which game had the first appearance of that famous plumber, Mario. I went for a) The Legend of Zelda",
     "speaker": "Rob"
   },
   {
-    "start": 301.68,
-    "end": 307.439,
-    "text": "Which reminds me of your quiz question, Rob.",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 307.439,
-    "end": 314.56,
-    "text": "which game had the first appearance of that famous plumber, Mario? I went for A, the Legend of Zelda.",
-    "speaker": null
-  },
-  {
+    "order": 54,
     "start": 315.279,
     "end": 322.24,
     "text": "Ah, which is wrong, I'm afraid. Mario's first appearance was in Donkey Kong, and his creator,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 322.24,
     "end": 327.919,
     "text": "Shiguru Miyamoto, never thought he would be that popular. Well, I guess we've already learnt",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 328.48,
     "end": 333.759,
     "text": "something today. Let's recap the vocabulary from today's programme about Super Mario, starting",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 57,
     "start": 333.759,
     "end": 341.52,
     "text": "with iconic, famously associated with something and instantly recognisable. Then we had a flood of,",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 341.52,
     "end": 347.92,
     "text": "which means a large amount of something in a short space of time. Sighted means reference as or",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 347.92,
     "end": 355.28,
-    "text": "Boom relates to explosion and means a short period of sudden growth.",
-    "speaker": "Boom"
-  },
-  {
-    "start": 355.279,
-    "end": 361.919,
-    "text": "something that can't be played or a game that is very difficult to enjoy. And finally, holds up",
+    "text": "noted. Boom relates to explosion and means a short period of sudden growth. Unplayable describes",
     "speaker": null
   },
   {
+    "order": 60,
+    "start": 355.279,
+    "end": 361.919,
+    "text": "something that can’t be played or a game that is very difficult to enjoy. And finally, holds up",
+    "speaker": "Unplayable"
+  },
+  {
+    "order": 61,
     "start": 361.919,
     "end": 368.559,
     "text": "means that the quality or standard of something hasn't changed and still looks good or plays well.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 368.559,
     "end": 371.199,
-    "text": "That’s all for this programme.",
-    "speaker": "Georgina"
+    "text": "That's all for this programme. Bye for now. Bye!",
+    "speaker": null
   }
 ]

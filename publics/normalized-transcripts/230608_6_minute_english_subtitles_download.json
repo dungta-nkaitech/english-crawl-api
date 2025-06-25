@@ -1,395 +1,461 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7.6,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7.6,
     "end": 11.919,
     "text": "Hello, this is 6 Minute English from BBCLearningEnglish. I'm Neil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 11.919,
     "end": 13.2,
-    "text": "And I’m Beth.",
-    "speaker": "Beth"
+    "text": "And I'm Beth.",
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 13.2,
     "end": 20.4,
     "text": "If your deaf or hard of hearing, watching television would be impossible without subtitles.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 20.4,
     "end": 23.839,
     "text": "The words of dialogue added at the bottom of the screen,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 23.839,
     "end": 26.879,
     "text": "explaining what the characters are saying.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 26.959,
     "end": 30,
     "text": "Subtitled captions aren't only for dialogue.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 30.719,
     "end": 37.2,
     "text": "In the most dramatic action-packed scenes of a movie, there might be no one speaking,",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 37.2,
     "end": 42.32,
     "text": "but there are plenty of sounds. A scream, a thrilling car chase,",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 42.96,
     "end": 46.079,
     "text": "and all these sounds need to be described as well.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 46.079,
     "end": 51.439,
     "text": "In this programme we'll be meeting Carly Vitovska, a subtitle who works on the",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 51.439,
     "end": 58.479,
-    "text": "In this programme, we’ll be meeting Karli Witkowska, a subtitler who works on the Stranger Things show, to find out more. And of course, we’ll be learning some useful new vocabulary as well.",
+    "text": "stranger things show to find out more. And of course, we'll be learning some useful new vocabulary as well.",
     "speaker": "Neil"
   },
   {
+    "order": 12,
     "start": 58.479,
     "end": 60.959,
     "text": "But first, I have a question for you, Neil.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 61.519,
     "end": 70,
     "text": "Movie subtitles are written ahead of time, but subtitling for live TV has to be done in the moment.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 70,
     "end": 75.519,
     "text": "As the person is speaking, this can lead to mistakes, sometimes very funny ones,",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 75.519,
     "end": 82.159,
     "text": "including a subtitle which appeared in an interview for the BBC 6 o'clock news in 2019.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 82.719,
     "end": 90.319,
-    "text": "a)    We can’t allow Spiderman to become prime minister?",
-    "speaker": "Beth"
+    "text": "But what did the subtitle say? Was it A, we can't allow Spider-Man to become Prime Minister,",
+    "speaker": null
   },
   {
+    "order": 17,
     "start": 90.319,
     "end": 94.079,
-    "text": "b)    We can’t allow Superman to become prime minister?, or,",
+    "text": "B, we can't allow Superman to become Prime Minister,",
     "speaker": "Beth"
   },
   {
+    "order": 18,
     "start": 94.719,
     "end": 99.039,
-    "text": "c)     We can’t allow Batman to become prime minister?",
-    "speaker": "Beth"
+    "text": "or C, we can't allow Batman to become Prime Minister.",
+    "speaker": null
   },
   {
+    "order": 19,
     "start": 99.039,
     "end": 103.199,
     "text": "Hmm, I guess the subtitling mistake involved Spider-Man?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 103.92,
     "end": 106.32,
     "text": "I'll reveal the answer later in the programme.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 21,
     "start": 106.88,
     "end": 111.04,
     "text": "Of course, it's not just deaf audiences that subtitles help.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 111.68,
     "end": 116.799,
     "text": "The translated subtitles of foreign films are great for learning languages,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 116.799,
     "end": 121.04,
     "text": "letting you read a word and hear how it's pronounced at the same time.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 121.04,
     "end": 127.52,
     "text": "And because subtitles describe everything from monster squelches to bombs exploding,",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 127.519,
     "end": 130.879,
     "text": "it's a great way to learn new adjectives.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 130.879,
     "end": 137.68,
     "text": "Here's subtitler, Carli Vittowska, explaining to BBC Radio 4 programme Word of Mouse,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 137.68,
     "end": 141.28,
     "text": "how her choice of adjective creates emotion for the viewer.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 141.28,
     "end": 144.159,
-    "text": "It depends on the genre and depends on the shows.",
-    "speaker": null
+    "text": "It depends on the genre and depends on the shows,",
+    "speaker": "genrejaunty"
   },
   {
+    "order": 29,
     "start": 144.159,
     "end": 151.039,
     "text": "And so if you have a very upbeat sort of period piece where the music is very",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 151.12,
     "end": 154.479,
     "text": "jauntay, like you would use the word jauntay to describe the music,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 154.479,
     "end": 163.759,
     "text": "it's just, it's creating an idea of what a sound is like and using a very, very descriptive",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 163.759,
     "end": 165.519,
     "text": "word in order to do so.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 165.519,
     "end": 172.479,
     "text": "Carli bases her descriptions on the film's genre, a style of film, music or book with its own",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 172.479,
     "end": 178.159,
     "text": "particular set of features. The sound effects needed for a thriller like Stranger Things,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 178.24,
     "end": 183.52,
     "text": "Creeking Stairs and Sudden Screams are very different from the sounds used in historical",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 183.52,
     "end": 188.159,
     "text": "period dramas, which are more upbeat, light-hearted and cheerful.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 188.159,
     "end": 193.039,
     "text": "This influences the adjective Carli chooses to describe a sound.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 193.039,
     "end": 200,
     "text": "For example, upbeat music might be described as jauntay, full of energy and confidence.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 200,
     "end": 206.56,
     "text": "Subtitles started out as an accessibility feature for deaf audiences and to translate foreign",
-    "speaker": null
+    "speaker": "jaunty"
   },
   {
+    "order": 40,
     "start": 206.64,
     "end": 213.12,
     "text": "language films into English. But since the growth of online streaming services like Netflix,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 213.12,
     "end": 216.08,
     "text": "subtitling has become something of an art.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 216.08,
     "end": 222,
     "text": "Carli belongs to a team of subtitlers who try to make their descriptions as close as possible",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 222,
     "end": 229.36,
-    "text": "to the sounds they hear. Here she tells BBC Radio 4's Word of Mouth about a time her team found",
-    "speaker": null
+    "text": "to the sounds they hear. Here she tells BBC Radio 4’s Word of Mouth about a time her team found",
+    "speaker": "Beth"
   },
   {
+    "order": 44,
     "start": 229.36,
     "end": 231.36,
     "text": "exactly the right word.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 231.36,
     "end": 238.32,
     "text": "I loved gobsmacked silence because you were able to tell that people were like almost on the",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 238.32,
     "end": 245.28,
     "text": "verge of a gasp or on the verge of like a shock and that was the atmosphere. But there wasn't actually",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 245.28,
     "end": 251.36,
     "text": "a sound. So when my colleague came up with that one, I definitely wanted to give him a virtual high five.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 251.36,
     "end": 258.639,
     "text": "In this scene, the surprise characters were about to gasp, taking a short quick breath of air.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 258.639,
     "end": 264.159,
     "text": "There was no speech or sound in the scene, but Carli's team found the perfect adjective to",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 264.159,
     "end": 271.039,
     "text": "describe the silence. Gobsmacked, which is slang for being so surprised you can't speak.",
-    "speaker": null
+    "speaker": "gaspgobsmacked"
   },
   {
+    "order": 51,
     "start": 271.039,
     "end": 277.759,
     "text": "This was definitely one description that deserved a high five, lifting up your hand to clap hands",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 277.759,
     "end": 285.839,
     "text": "with someone else as a greeting or to say well done. In fact, the phrase gobsmacked silence was so good",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 285.919,
     "end": 290.639,
     "text": "it went viral and started being used in all kinds of situations.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 290.639,
     "end": 296.639,
-    "text": "Maybe gobsmacked was how the viewers of that TV news programme felt. You know, the mistaken",
-    "speaker": null
+    "text": "Maybe gobsmacked was how the viewers of that TV news programme felt, you know, the mistaken",
+    "speaker": "Neil"
   },
   {
+    "order": 55,
     "start": 296.639,
     "end": 303.919,
     "text": "subtitle you asked me about in your question. I guess the incorrect subtitle was we can't allow",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 303.919,
     "end": 311.199,
     "text": "Spider-Man to become Prime Minister. Which was the wrong answer I'm afraid. In fact, the interview",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 311.279,
     "end": 318.24,
     "text": "he said we can't allow that man to become Prime Minister. Speaking about Boris Johnson,",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 318.24,
     "end": 324.8,
     "text": "but the misheard subtitle appeared as Batman. Okay, let's recap the vocabulary we've learnt",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 324.8,
     "end": 331.919,
-    "text": "OK, let's recap the vocabulary we’ve learnt from this programme on subtitles, starting with genre – a style of film, music or book with its own particular set of characteristics.",
+    "text": "from this programme on subtitles, starting with genre. A style of film, music or book with its",
     "speaker": "genre"
   },
   {
+    "order": 60,
     "start": 331.919,
     "end": 338.959,
     "text": "own particular set of characteristics. Something which is upbeat is cheerful, hopeful and lighthearted.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 338.959,
     "end": 345.519,
-    "text": "The adjective jaunty means full of energy and confidence.",
+    "text": "The adjective jaunty means full of energy and confidence. If you gasp, you take in a short,",
     "speaker": "jaunty"
   },
   {
+    "order": 62,
     "start": 345.519,
     "end": 352.479,
     "text": "quick breath of air in surprise or in pain. You can use the slang expression gobsmacked when someone",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 352.479,
     "end": 359.279,
-    "text": "is so surprised they can't speak. And finally, if you give someone a high five, you hold up your hand",
-    "speaker": null
+    "text": "is so surprised they can’t speak. And finally, if you give someone a high five, you hold up your hand",
+    "speaker": "gobsmacked"
   },
   {
+    "order": 64,
     "start": 359.279,
     "end": 365.12,
     "text": "above your head, clapping hands with somebody else as a greeting or to say well done. Once again,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 365.12,
     "end": 373.199,
     "text": "our six minutes are up. Goodbye for now. Bye.",

@@ -1,818 +1,954 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 8.24,
     "text": "6MuteEnglish",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.88,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.64,
     "end": 15.12,
-    "text": "Hello. This is 6 Minute English and I'm Neil. And joining me today is Rob.",
+    "text": "Hello. This is 6 Minute English and I'm Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 15.12,
     "end": 16.64,
     "text": "And joining me today is Rob.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 16.64,
     "end": 17.44,
     "text": "Hello.",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 7,
     "start": 17.44,
     "end": 19.519,
     "text": "Rob, how do you feel about shopping?",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 19.519,
     "end": 24.08,
     "text": "Ugh, mooching around a shopping mall from one shop to another spending money,",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 24.08,
     "end": 25.6,
     "text": "it's my idea of hell.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 10,
     "start": 25.6,
     "end": 27.039,
     "text": "How about shopping online?",
     "speaker": "Neil"
   },
   {
+    "order": 11,
     "start": 27.279,
     "end": 28.559,
     "text": "Yes, much better.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 28.559,
     "end": 32.24,
-    "text": "Ah yes, much better – sitting in front of the TV and browsing online is much easier.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 32.24,
-    "end": 34.399,
-    "text": "Well, that can be a problem.",
+    "text": "Sitting in front of the TV and browsing online is much easier.",
     "speaker": null
   },
   {
+    "order": 13,
+    "start": 32.24,
+    "end": 34.399,
+    "text": "Well that can be a problem –",
+    "speaker": "Neil"
+  },
+  {
+    "order": 14,
     "start": 34.399,
     "end": 37.359,
     "text": "It's sometimes too easy, especially when we are tired",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 37.359,
     "end": 40,
     "text": "and we sometimes make purchases we regret.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 40,
     "end": 42.479,
     "text": "That's what we'll be talking about in this programme,",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 42.479,
     "end": 45.599,
     "text": "an activity known as vampire shopping.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 45.599,
     "end": 49.359,
     "text": "But before we continue, it's my job to set you a quiz question.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 49.359,
     "end": 50.32,
     "text": "So here goes.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 50.32,
     "end": 53.6,
     "text": "According to the UK's Office for National Statistics,",
+    "speaker": "Rob"
+  },
+  {
+    "order": 21,
+    "start": 53.679,
+    "end": 59.439,
+    "text": "at the end of 2018, what percentage of all retail sales took place online?",
     "speaker": null
   },
   {
-    "start": 53.679,
-    "end": 59.439,
-    "text": "I asked according to the UK's Office for National Statistics, at the end of 2018, what percentage of all retail sales took place online? Was it…",
-    "speaker": "Neil"
-  },
-  {
+    "order": 22,
     "start": 59.439,
     "end": 62.16,
     "text": "Was it A, 9.8%?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 62.16,
     "end": 67.12,
-    "text": "b) 19.8%, or",
+    "text": "b) 19.8%, or c) 29.8%",
     "speaker": "Neil"
   },
   {
+    "order": 24,
     "start": 67.12,
     "end": 69.439,
-    "text": "Buying things online is big business now, so I'll say c) 29.8%.",
+    "text": "Buying things online is big business now,",
     "speaker": "Rob"
   },
   {
+    "order": 25,
     "start": 69.439,
     "end": 72.48,
     "text": "so I'll say C, 29.8%.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 72.48,
     "end": 74.56,
     "text": "Well, you'll have to wait a bit to find out,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 74.56,
     "end": 77.84,
     "text": "but let's talk more now about vampire shopping.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 77.84,
     "end": 80.159,
     "text": "This term refers to shopping late at night,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 80.159,
     "end": 82.719,
     "text": "traditionally a time when vampires appear.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 82.799,
     "end": 85.2,
-    "text": "Most of us are asleep at this time,",
-    "speaker": null
+    "text": "Most of us are asleep at this time ",
+    "speaker": "insomniac"
   },
   {
+    "order": 31,
     "start": 85.2,
     "end": 87.28,
     "text": "but sleep deprived parents,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 87.28,
     "end": 89.76,
     "text": "shift workers and gamers might not be.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 89.76,
     "end": 92.799,
     "text": "If you're an insomniac, someone who can't sleep easily,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 92.799,
     "end": 96.079,
     "text": "it's tempting to open up your laptop and start shopping.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 96.079,
     "end": 98.56,
     "text": "Online shops are open 24 hours a day,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 98.56,
     "end": 101.519,
-    "text": "Online shops are open 24 hours a day so it's easy to get sucked in and do some shopping!",
-    "speaker": "Neil"
-  },
-  {
-    "start": 101.519,
-    "end": 103.359,
-    "text": "When you get sucked into something,",
+    "text": "so it's easy to get sucked in and do some shopping.",
     "speaker": null
   },
   {
+    "order": 37,
+    "start": 101.519,
+    "end": 103.359,
+    "text": "When you get sucked into something ",
+    "speaker": "get sucked into something"
+  },
+  {
+    "order": 38,
     "start": 103.359,
     "end": 106.239,
     "text": "it means you can't stop yourself getting involved with something",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 106.239,
     "end": 107.68,
     "text": "that you didn't want to do.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 107.68,
     "end": 109.68,
     "text": "So what you're saying, Neil, is at night,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 109.68,
     "end": 112.48,
     "text": "when we're very tired, we don't always think straight",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 112.56,
     "end": 114.079,
     "text": "and can make some bad decisions.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 114.079,
     "end": 114.96,
     "text": "That's right.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 114.96,
     "end": 118.48,
     "text": "And this shopping temptation can be particularly problematic",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 118.48,
     "end": 120.32,
     "text": "for those with mental health issues.",
-    "speaker": null
+    "speaker": "regretted"
   },
   {
+    "order": 46,
     "start": 120.32,
     "end": 122.719,
     "text": "It's something Helen Undy has been talking about",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 122.719,
     "end": 125.76,
     "text": "on the BBC Radio 4 program, You and Yours.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 125.76,
     "end": 129.36,
     "text": "She's the chief executive of the Money and Mental Health Institute.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 129.36,
     "end": 130.96,
     "text": "Let's hear what she had to say.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 131.759,
     "end": 134.24,
     "text": "Our ability to control our impulse to spend",
-    "speaker": null
+    "speaker": "sleep deprivedresist the urge"
   },
   {
+    "order": 51,
     "start": 134.24,
     "end": 136.08,
     "text": "and to resist things like advertising",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 136.08,
     "end": 138,
     "text": "is reduced when we sleep deprived.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 138,
     "end": 140.48,
     "text": "Well, mental health problems can have a similar effect,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 140.719,
     "end": 142.159,
     "text": "so the mental health problems themselves",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 142.159,
     "end": 144.639,
     "text": "make it harder to resist the urge to spend.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 144.639,
     "end": 146.959,
     "text": "And they also cause sleep deprivation,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 146.959,
     "end": 149.359,
     "text": "so you're alone, possibly surfing the internet",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 149.359,
     "end": 152,
     "text": "and both the lack of sleep and the mental health problems",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 152,
     "end": 154.479,
     "text": "make it harder to resist the things that you can see.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 155.199,
     "end": 158.159,
     "text": "Helen said that for all of us, when we're at sleep deprived,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 158.159,
     "end": 160,
     "text": "that means not having enough sleep,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 160,
     "end": 163.12,
     "text": "we find it harder to resist the urge to shop.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 163.12,
     "end": 166.879,
     "text": "We're more sucked in to shopping by the advertising we see.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 166.879,
     "end": 169.359,
     "text": "And resist the urge means stop yourself",
-    "speaker": null
+    "speaker": "resist the urge"
   },
   {
+    "order": 65,
     "start": 169.36,
     "end": 172.16,
     "text": "facting on a strong feeling to do something.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 172.16,
     "end": 175.6,
     "text": "But this is more serious for people with mental health issues.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 175.6,
     "end": 178,
     "text": "They are particularly sleep deprived",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 178,
     "end": 180.4,
     "text": "and along with everything that's going on in their minds,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 180.4,
     "end": 183.92,
     "text": "they find it harder to resist to stop themselves buying things.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 183.92,
     "end": 186.4,
     "text": "I suppose buying things at night, if you're alone,",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 186.4,
     "end": 189.44,
     "text": "gives you some comfort, even a feel good factor.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 189.44,
     "end": 193.04,
     "text": "Doing something that gives someone a happy and positive feeling.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 193.04,
     "end": 195.28,
     "text": "I certainly feel good when I've bought something,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 195.28,
     "end": 198.24,
     "text": "but Rob, have you ever bought something you regret?",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 198.24,
     "end": 201.28,
     "text": "Yes, spits of tech, even flight tickets to somewhere",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 201.28,
     "end": 203.84,
-    "text": "Yes. Bits of tech, even flight tickets to somewhere I didn't really want to go to – because they were cheap!",
+    "text": "I didn't really want to go to because they were cheap.",
     "speaker": "Rob"
   },
   {
+    "order": 77,
     "start": 203.84,
     "end": 207.2,
     "text": "Regret is a sad feeling you get when you've made a mistake",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 207.2,
     "end": 210.08,
     "text": "and wished you hadn't made the mistake in the first place.",
-    "speaker": null
+    "speaker": "feel-good factor.  feel-good factor"
   },
   {
+    "order": 79,
     "start": 210.08,
     "end": 213.439,
     "text": "We all have Regret's Rob, particularly when buying things.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 213.439,
     "end": 216,
     "text": "But there's usually the option to return something",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 216,
     "end": 217.28,
     "text": "and get a refund.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 217.28,
     "end": 219.439,
-    "text": "That's true, but it's not always easy.",
-    "speaker": null
-  },
-  {
-    "start": 219.439,
-    "end": 221.76,
-    "text": "That's true but it's not always easy. Let's hear what Helen Undy had to say about that.",
+    "text": "That's true but it's not always easy. ",
     "speaker": "Rob"
   },
   {
+    "order": 83,
+    "start": 219.439,
+    "end": 221.76,
+    "text": "Let's hear what Helen Undy had to say about that.",
+    "speaker": null
+  },
+  {
+    "order": 84,
     "start": 222.64,
     "end": 225.68,
     "text": "We found in our research that 75% of people,",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 225.76,
     "end": 228.48,
     "text": "so regardless of whether you've got a mental health problem or not,",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 228.48,
     "end": 231.84,
     "text": "three quarters of people didn't send back the last thing they bought online",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 231.84,
     "end": 233.04,
     "text": "that they regretted.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 233.04,
     "end": 235.84,
     "text": "Or we found that four in 10 people with mental health problems",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 235.84,
     "end": 238.319,
     "text": "didn't send things back because they were so ashamed",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 238.319,
     "end": 239.52,
     "text": "of the things that they were buying",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 239.52,
     "end": 241.439,
     "text": "that they just wanted to pretend it never happened.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 242.319,
     "end": 245.439,
     "text": "So she says that three quarters of people didn't send back",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 245.439,
     "end": 247.92,
     "text": "the last thing they bought that they regretted.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 247.92,
     "end": 249.52,
     "text": "Maybe they were too embarrassed.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 249.52,
     "end": 252.56,
     "text": "Possibly, but it's not always easy to return an item",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 252.64,
     "end": 257.12,
     "text": "and for those with mental health issues, it can be a struggle, a great effort.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 257.12,
     "end": 260.56,
     "text": "Helen Undy says that sometimes they were ashamed of their purchase.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 260.56,
     "end": 263.519,
     "text": "Well, I think we have all bought things we're ashamed of,",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 263.519,
     "end": 266.16,
     "text": "but while online shopping continues to expand,",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 266.16,
     "end": 268.399,
     "text": "the temptation will always be there.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 268.399,
     "end": 271.6,
-    "text": "Well your question earlier was about the rise in online shopping, so what's the answer, Neil?",
-    "speaker": "Rob"
+    "text": "Well, your question earlier was about the rise in online shopping,",
+    "speaker": null
   },
   {
+    "order": 102,
     "start": 271.6,
     "end": 272.959,
     "text": "so what's the answer, Neil?",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 272.959,
     "end": 276.959,
     "text": "I asked, according to the UK's Office for National Statistics,",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 276.959,
     "end": 282.319,
     "text": "at the end of 2018, what percentage of all retail sales took place online?",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 282.399,
     "end": 289.36,
     "text": "Was it A, 9.8%, B, 19.8%, or C, 29.8%.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 289.36,
     "end": 293.12,
-    "text": "I said c) 29.8%. I've got to be right!",
-    "speaker": "Rob"
+    "text": "I said C, 29.8%. I've got to be right.",
+    "speaker": "Neil"
   },
   {
+    "order": 107,
     "start": 293.12,
     "end": 294.159,
     "text": "Well, you're not.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 108,
     "start": 294.959,
     "end": 299.199,
     "text": "The rise was a bit smaller at B, 19.8%,",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 299.199,
     "end": 302.399,
     "text": "but that's still large compared with 10 years previously,",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 302.399,
     "end": 305.92,
     "text": "when the figure was just 5.8% of all retail sales.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 305.92,
     "end": 308.399,
     "text": "No doubt the figure will continue to rise.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 308.399,
     "end": 311.519,
     "text": "And before I nip off to do a bit of vampire shopping,",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 311.519,
     "end": 314.639,
     "text": "let's recap some of the vocabulary we've mentioned today,",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 314.639,
     "end": 316.479,
     "text": "starting with insomniac.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 316.479,
     "end": 319.359,
     "text": "And insomniac is someone who can't sleep easily.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 319.359,
     "end": 321.199,
     "text": "They suffer from insomnia.",
-    "speaker": null
+    "speaker": "insomniacinsomnia"
   },
   {
+    "order": 117,
     "start": 321.199,
     "end": 324.399,
     "text": "Next, we talked about to get sucked into something.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 324.399,
     "end": 327.599,
     "text": "This informal phrase means not being able to stop yourself",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 327.599,
     "end": 330.159,
     "text": "getting involved with something that you don't want to do.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 330.159,
     "end": 333.839,
     "text": "If you are sleep deprived, you do not have enough sleep.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 333.839,
     "end": 335.759,
     "text": "And if you resist the urge,",
-    "speaker": null
+    "speaker": "sleep deprived"
   },
   {
+    "order": 122,
     "start": 335.759,
     "end": 338.959,
     "text": "you stop yourself acting on a strong feeling to do something.",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 339.279,
     "end": 342.319,
     "text": "For example, resisting the urge to buy something online.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 342.319,
     "end": 344.959,
     "text": "But if you don't resist the urge to buy something,",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 344.959,
     "end": 347.359,
     "text": "it might have a feel-good factor.",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 347.359,
     "end": 351.199,
     "text": "A feel-good factor is something that makes you feel happy and positive.",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 351.199,
     "end": 354.479,
     "text": "But after buying something, you may have regret.",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 354.479,
     "end": 356.799,
     "text": "That's a sad feeling you get when you've made a mistake",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 356.799,
     "end": 359.279,
     "text": "and wish you hadn't made the mistake in the first place.",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 359.279,
     "end": 362.799,
     "text": "Well, hopefully you haven't regretted spending six minutes listening to us.",
     "speaker": null
   },
   {
+    "order": 131,
     "start": 362.799,
     "end": 365.199,
     "text": "Please join us next time, and in the meantime,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 132,
     "start": 365.199,
     "end": 368.319,
     "text": "why not check us out on your favourite social media platforms",
     "speaker": null
   },
   {
+    "order": 133,
     "start": 368.319,
     "end": 369.599,
     "text": "and on our app.",
     "speaker": null
   },
   {
+    "order": 134,
     "start": 369.599,
     "end": 370.399,
     "text": "Goodbye!",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 135,
     "start": 370.399,
     "end": 371.599,
     "text": "Goodbye!",
-    "speaker": "Neil"
+    "speaker": null
   }
 ]

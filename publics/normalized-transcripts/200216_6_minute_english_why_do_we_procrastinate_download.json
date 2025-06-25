@@ -1,473 +1,552 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 6,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 8,
     "end": 12,
     "text": "Hello, this is 6 Minute English from BBCLearningEnglish, I'm Sam",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12,
     "end": 13,
-    "text": "And I’m Neil.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 13,
-    "end": 15,
-    "text": "Come on Neil, let's make a start",
-    "speaker": null
-  },
-  {
-    "start": 15,
-    "end": 18,
-    "text": "Come on, Neil, let’s make a start! I’ve got a deadline to meet today, and I haven’t finished my work yet!",
+    "text": "And I'm Neil",
     "speaker": "Sam"
   },
   {
+    "order": 3,
+    "start": 13,
+    "end": 15,
+    "text": "Come on Neil, let's make a start",
+    "speaker": "Sam"
+  },
+  {
+    "order": 4,
+    "start": 15,
+    "end": 18,
+    "text": "I've got a deadline to meet today and I haven't finished my work yet",
+    "speaker": null
+  },
+  {
+    "order": 5,
     "start": 18,
     "end": 22,
     "text": "Let me guess, it's because you delayed and delayed",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 22,
     "end": 26,
     "text": "And put your work off until the last minute as usual",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 26,
     "end": 31,
     "text": "You're a real procrastinator, Sam, someone who keeps delaying things that need to be done",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 31,
     "end": 34,
-    "text": "What can I say? I work better when a deadline is approaching.",
+    "text": "What can I say? I work better when a deadline is approaching",
     "speaker": "Sam"
   },
   {
+    "order": 9,
     "start": 34,
     "end": 42,
     "text": "I see, but did you know that people who procrastinate have higher levels of stress and lower well-being?",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 42,
     "end": 47,
     "text": "Procrastination is also linked with lower financial and career success",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 47,
     "end": 50,
     "text": "So there's a lot of reasons not to do it",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 50,
     "end": 53,
     "text": "In this programme we're discussing procrastination",
-    "speaker": null
+    "speaker": "procrastination"
   },
   {
+    "order": 13,
     "start": 53,
     "end": 56,
     "text": "The act of delaying things that must be done until later",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 56,
     "end": 60,
     "text": "Often because they're difficult, boring or unpleasant",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 60,
     "end": 64,
     "text": "And as usual we'll be learning some new vocabulary along the way",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 64,
     "end": 68,
     "text": "So without wasting any more time I have a question for you, Sam",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 68,
     "end": 73,
     "text": "The fact that procrastinating or putting things off is bad for us",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 73,
     "end": 75,
     "text": "Doesn't stop people doing it",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 75,
     "end": 79,
     "text": "According to recent research by DePaul University in Chicago",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 79,
     "end": 86,
     "text": "What percentage of people procrastinate so much that it interferes with their day-to-day life?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 86,
     "end": 92,
     "text": "Is it a 10% b 20% or c 30%",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 92,
     "end": 97,
     "text": "I'll guess that around 10% of people have a serious procrastination problem",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 97,
     "end": 101,
     "text": "Okay, Sam, we'll find out the answer later in the programme",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 101,
     "end": 106,
     "text": "Sam is certainly not alone in putting things off until the last minute",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 25,
     "start": 106,
     "end": 112,
     "text": "Here's Ella Al-Shamahi, presenter of BBC Radio 4's Why Do We Do That?",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 112,
     "end": 117,
     "text": "Talking to comedian Ishaan Akbar about his procrastination habit",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 117,
     "end": 120,
     "text": "Would you say Ishaan that you're a procrastinator?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 120,
     "end": 124,
-    "text": "I am a serial procrastinator without a shadow of a doubt.",
-    "speaker": "without a shadow of a doubt."
+    "text": "I am a serial procrastinator without a shadow of a doubt",
+    "speaker": "Ella al-Shamahi"
   },
   {
+    "order": 29,
     "start": 124,
     "end": 127,
     "text": "Why? Why do you think you procrastinate?",
     "speaker": "Ella al-Shamahi"
   },
   {
+    "order": 30,
     "start": 127,
     "end": 131,
-    "text": "Over the years, I've told myself that I procrastinate because I work better under pressure. That's what I've told myself.",
-    "speaker": "pressure."
+    "text": "Over the years I've told myself that I procrastinate because I work better under pressure",
+    "speaker": null
   },
   {
+    "order": 31,
     "start": 131,
     "end": 134,
     "text": "That's what I've told myself",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 134,
     "end": 139,
     "text": "Ishaan thinks that he is a procrastinator without a shadow of a doubt",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 139,
     "end": 143,
-    "text": "Eshaan thinks that he is a procrastinator without a shadow of a doubt, a phrase which is used to emphasise that you are completely certain of something.",
+    "text": "A phrase which is used to emphasise that you are completely certain of something",
     "speaker": "without a shadow of a doubt"
   },
   {
+    "order": 34,
     "start": 143,
     "end": 148,
     "text": "Ishaan also says that like Sam, he works better under pressure",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 148,
     "end": 152,
     "text": "when he feels stressed or anxious because of having too much to do",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 152,
     "end": 159,
     "text": "But maybe also like Sam, Ishaan has a problem organising his workload and managing his time",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 159,
     "end": 162,
     "text": "Hang on Neil, my time management skills are okay",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 162,
     "end": 166,
     "text": "Thank you, with me it's more of an emotional response",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 39,
     "start": 166,
     "end": 172,
     "text": "I see a mountain of work feel threatened and think how on earth will I finish all that?",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 172,
     "end": 176,
     "text": "What Sam says is supported by a theory of human evolution",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 176,
     "end": 180,
     "text": "which explains how putting things off is an emotional response",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 180,
     "end": 185,
     "text": "Back when we were living in caves life was dangerous and short",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 185,
     "end": 187,
     "text": "and our ancestors were impulsive",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 187,
     "end": 194,
     "text": "They acted suddenly on instinct without thinking about the consequences of what they were doing",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 194,
     "end": 197,
     "text": "Back then being impulsive was a good thing",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 197,
     "end": 201,
     "text": "But in modern life with work goals and deadlines",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 201,
     "end": 205,
     "text": "when we are impulsive and get distracted we procrastinate",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 205,
     "end": 209,
     "text": "So rather than being a problem with time management",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 209,
     "end": 214,
     "text": "Sam should blame her caveman ancestors who acted on impulse",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 214,
     "end": 220,
     "text": "Let's listen again to comedian Ishaan Akbar talking about how he feels when he procrastinates",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 220,
     "end": 225,
     "text": "A lot of stuff you read about procrastination focuses on the time management element of it",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 52,
     "start": 225,
     "end": 232,
     "text": "I've probably got a better sense that for me it seems very squarely around the emotional aspect of it",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 232,
     "end": 238,
     "text": "Perhaps I get more emotional gratification from doing it last minute",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 238,
     "end": 247,
     "text": "I need to understand why I prefer that over the calm serenity of getting things done with oodles of time in my hands",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 247,
     "end": 252,
     "text": "In the same way that our ancestors felt good living on impulse",
-    "speaker": null
+    "speaker": "gratificationoodles"
   },
   {
+    "order": 56,
     "start": 252,
     "end": 259,
     "text": "Ishaan thinks he gets gratification of feeling of pleasure and satisfaction from doing things at the last minute",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 259,
     "end": 264,
     "text": "What he doesn't understand is why he prefers to work under pressure",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 264,
     "end": 268,
     "text": "Instead of finishing calmly with oodles or lots of time",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 268,
     "end": 275,
     "text": "Unlike Ishaan I'd rather finish my work feeling relaxed but there never seems to be enough time",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 275,
     "end": 282,
     "text": "Well breaking down the task into smaller stages also breaks down the level of threat you feel from your workload",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 61,
     "start": 282,
     "end": 290,
     "text": "Also forgiving yourself for procrastinating in the past seems helpful in avoiding procrastinating in the future",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 290,
     "end": 297,
     "text": "So forgive yourself and start making changes Sam before you end up like the time-wasters in my question",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 297,
     "end": 304,
     "text": "What percentage of people procrastinate so much that it interferes with day-to-day life?",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 304,
     "end": 306,
-    "text": "Well, I guessed it was 10 percent.",
-    "speaker": "Sam"
+    "text": "Well I guessed it was 10%",
+    "speaker": null
   },
   {
+    "order": 65,
     "start": 306,
     "end": 314,
     "text": "Which was the wrong answer I'm afraid in fact around 20% of us have a procrastination habit",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 314,
     "end": 317,
     "text": "So strong it makes life difficult",
-    "speaker": null
+    "speaker": "procrastination"
   },
   {
+    "order": 67,
     "start": 317,
     "end": 322,
     "text": "Okay let's recap the vocabulary we've learned from this program on procrastination",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 322,
     "end": 329,
     "text": "Delaying or putting off doing things until later, often because they're difficult, unpleasant or boring",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 329,
     "end": 335,
-    "text": "The phrase without a shadow of a doubt is used to emphasise that you are completely certain of something.",
-    "speaker": "without a shadow of a doubt"
+    "text": "The phrase without a shadow of a doubt is used to emphasise that you are completely certain of something",
+    "speaker": null
   },
   {
+    "order": 70,
     "start": 335,
     "end": 340,
-    "text": "If you’re under pressure, you feel stressed or anxious because of having too much to do.",
+    "text": "If you're under pressure you feel stressed or anxious because of having too much to do",
     "speaker": "under pressure"
   },
   {
+    "order": 71,
     "start": 340,
     "end": 346,
-    "text": "Impulsive behaviour is sudden and spontaneous, done without thinking about the consequences.",
-    "speaker": "Impulsive"
+    "text": "Impulsive behaviour is sudden and spontaneous, done without thinking about the consequences",
+    "speaker": null
   },
   {
+    "order": 72,
     "start": 346,
     "end": 350,
     "text": "Gradification means a feeling of pleasure and satisfaction",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 350,
     "end": 355,
     "text": "And finally when you have oodles of something you have a very large amount of something pleasant",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 355,
     "end": 358,
     "text": "Like time which once again we've run out of",
-    "speaker": null
+    "speaker": "Gratification"
   },
   {
+    "order": 75,
     "start": 358,
     "end": 365,
     "text": "I'm rushing off to finish my work Neil but remember to make time to join us again soon here at 6 Minute English",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 365,
     "end": 366,
     "text": "Bye for now",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 366,
     "end": 367,
     "text": "Goodbye",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 367,
     "end": 372,
     "text": "6 Minute English from BBCLearningEnglish.com",

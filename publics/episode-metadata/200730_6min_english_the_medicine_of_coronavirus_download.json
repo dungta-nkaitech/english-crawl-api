@@ -5,6 +5,31 @@
   "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p08l39w7.jpg",
   "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/200730_6min_english_the_medicine_of_coronavirus_download.mp3",
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/200730_6min_english_the_medicine_of_coronavirus.pdf",
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "word": "strain",
+      "definition": "strainslight variation of an original virus caused by mutation"
+    },
+    {
+      "word": "precursor",
+      "definition": "event or situation which existed before something and led to the development or existence of that thing"
+    },
+    {
+      "word": "red flag",
+      "definition": "symbol of danger and that some action needs to be taken"
+    },
+    {
+      "word": "hypothesis",
+      "definition": "idea which is suggested as a possible explanation of a particular situation but which has not yet been proved to be correct"
+    },
+    {
+      "word": "central nervous system",
+      "definition": "the body’s main system of nerve control consisting of the brain and spinal cord"
+    },
+    {
+      "word": "seizure",
+      "definition": "sudden, violent attack of an illness, especially one affecting the heart or brain"
+    }
+  ],
   "quiz": null
 }

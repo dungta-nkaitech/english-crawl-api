@@ -1,542 +1,632 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 13.519,
     "end": 17.6,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Sam.",
     "speaker": "Sam"
   },
   {
+    "order": 3,
     "start": 17.6,
     "end": 18.8,
-    "text": "And I’m Rob.",
-    "speaker": "Rob"
+    "text": "And I'm Rob.",
+    "speaker": null
   },
   {
+    "order": 4,
     "start": 18.8,
     "end": 23.92,
     "text": "Once in a while, a long comes a scientist who captures the public imagination",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 23.92,
     "end": 29.199,
-    "text": "Once in a while along comes a scientist who captures the public imagination and communicates their passion for science in an exciting and understandable way.",
+    "text": "and communicates their passion for science in an exciting and understandable way.",
     "speaker": "Sam"
   },
   {
+    "order": 6,
     "start": 29.199,
     "end": 34.399,
     "text": "In this programme, we'll be meeting one of America's best known popular scientists,",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 34.399,
     "end": 40.479,
     "text": "astronomer Neil deGrasse Tyson. He's a man with a gift for communicating and inspiring people",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 40.479,
     "end": 46.719,
     "text": "with his television shows and books on cosmology, the study of the origin and nature of the universe.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 46.719,
     "end": 52.879,
-    "text": "In his day job he runs the Hayden Planetarium in New York’s American Museum of Natural History, but Neil’s real mission is to encourage scientific thinking among the American public.",
+    "text": "In his day job he runs the Hayden Planetarium in New York’s American Museum of Natural History, ",
     "speaker": "Sam"
   },
   {
+    "order": 10,
     "start": 52.879,
     "end": 58.32,
     "text": "But Neil's real mission is to encourage scientific thinking among the American public.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 58.32,
     "end": 62.719,
     "text": "We'll be hearing from the famous astronomer and learning some new vocabulary soon.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 62.719,
     "end": 65.28,
     "text": "But first, I have a question for you, Sam.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 65.28,
     "end": 71.12,
     "text": "Science is ever changing with new discoveries updating our understanding all the time.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 71.12,
     "end": 74.96,
     "text": "For centuries, the Earth was thought to be the centre of the universe.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 74.96,
     "end": 79.359,
     "text": "But who was the first astronomer to have the correct idea that, in fact,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 79.359,
     "end": 82.799,
     "text": "the Earth and the planets revolve around the Sun?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 82.879,
     "end": 85.119,
     "text": "Was it A. Nikolaus Copernicus?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 85.119,
     "end": 86.48,
-    "text": "b)    Isaac Newton",
+    "text": "B. Isaac Newton?",
     "speaker": "Rob"
   },
   {
+    "order": 19,
     "start": 86.48,
     "end": 88.799,
     "text": "Or C. Galileo? Galileo?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 88.799,
     "end": 91.759,
-    "text": "Hmm, I’ll say it was c) Galileo.",
-    "speaker": "Sam"
+    "text": "Hmm, I'll say it was C. Galileo.",
+    "speaker": "Rob"
   },
   {
+    "order": 21,
     "start": 91.759,
     "end": 95.039,
     "text": "Okay, Sam, I'll reveal the correct answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 95.679,
     "end": 101.12,
     "text": "Recent events like the Covid pandemic and climate crisis have put scientists under pressure",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 23,
     "start": 101.12,
     "end": 104.719,
     "text": "from critics motivated by political views.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 104.719,
     "end": 108.719,
     "text": "Neil deGrasse Tyson thinks facts are not dependent on politics,",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 108.799,
     "end": 111.76,
     "text": "but should be established with a scientific method,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 111.76,
     "end": 116,
     "text": "a process of finding the truth through testing and experimentation.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 116,
     "end": 121.84,
     "text": "He is Neil explaining more about the scientific method to BBC World Service programme Hard Talk.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 123.12,
     "end": 128.479,
     "text": "If you have a brilliant idea and you test it and it un-earthes so much of what has been known before,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 128.479,
     "end": 130,
     "text": "we're going to double-check that.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 130,
     "end": 131.12,
     "text": "The rest of us.",
-    "speaker": null
+    "speaker": "double-checkcross his t’s and dot his i’sduplicate"
   },
   {
+    "order": 31,
     "start": 131.12,
     "end": 132.719,
     "text": "When he said, well, did he do it?",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 132.719,
     "end": 134.4,
     "text": "Cross his teeth and dot his eyes.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 134.4,
     "end": 135.039,
     "text": "Did he?",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 135.519,
     "end": 139.679,
     "text": "The power that's driving his experiment, you know, the wall current,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 139.679,
     "end": 142.479,
     "text": "let me check how that was conceived and done.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 142.479,
     "end": 145.599,
     "text": "And if no one can duplicate your results, it's not a result.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 146.719,
     "end": 150.079,
     "text": "Before scientists can confirm the truth of an experiment,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 150.079,
     "end": 152.079,
     "text": "their findings must be double-checked.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 152.719,
     "end": 156.639,
     "text": "Making certain something is correct by carefully examining it again.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 157.439,
     "end": 160.319,
     "text": "This process is called peer review.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 160.319,
     "end": 162.959,
     "text": "Other scientists double-checking the experiment",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 162.96,
     "end": 165.2,
     "text": "to make sure everything was done correctly.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 165.68,
     "end": 169.92,
     "text": "One way they do this is to duplicate or repeat the experiment",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 169.92,
     "end": 172.08,
     "text": "to see if they get the same result.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 172.08,
     "end": 177.28,
     "text": "In other words, Neil wants scientists to have crossed the teeth and dotted the eyes,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 177.92,
     "end": 182.879,
     "text": "a phrase which means paying attention to the small details of whatever you're doing.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 182.879,
     "end": 187.76,
     "text": "A scientific approach requires an open mind and critical thinking,",
-    "speaker": null
+    "speaker": "crossed the t’s and dotted the i’s"
   },
   {
+    "order": 48,
     "start": 187.76,
     "end": 192.879,
     "text": "but Neil believes the most important thing is to know the difference between fact and opinion.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 193.36,
     "end": 198.719,
     "text": "People have opinions about all kinds of things, but that doesn't make what they believe a fact.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 198.719,
     "end": 202.96,
-    "text": "Yet fact and opinion are becoming harder to separate,",
-    "speaker": null
+    "text": "Yet fact and opinion are becoming harder to separate.",
+    "speaker": "Sam"
   },
   {
+    "order": 51,
     "start": 202.96,
     "end": 208.159,
     "text": "as protest by anti-vaccine groups and climate change deniers have shown,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 208.159,
     "end": 213.439,
     "text": "many Americans, even presidents, seem suspicious of scientific fact.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 214.159,
     "end": 219.28,
     "text": "It's a worrying trend that Neil thinks is a result of the US education system,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 219.28,
     "end": 222.4,
     "text": "as he told BBC World Service Program Hard Talk.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 223.599,
     "end": 227.2,
     "text": "It has to do with how science is taught in the schools.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 227.2,
     "end": 230.56,
     "text": "It's currently taught as a body of information,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 230.56,
     "end": 233.36,
     "text": "the sexual effects that are imparted upon you,",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 233.36,
     "end": 236.24,
     "text": "and then you regurgitate that for an exam.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 236.96,
     "end": 240.56,
     "text": "That's an aspect of science, but it's not the most important part of science.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 240.56,
     "end": 244.159,
     "text": "The most important part of science is knowing how to question things,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 244.159,
     "end": 251.36,
     "text": "and knowing when an answer has emerged that represents an objective truth about this world.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 252.32,
     "end": 257.04,
     "text": "Neil says that science is taught by encouraging students to regurgitate facts,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 257.04,
     "end": 260.56,
     "text": "to repeat information without properly understanding it.",
-    "speaker": null
+    "speaker": "regurgitate"
   },
   {
+    "order": 64,
     "start": 260.56,
     "end": 266.4,
     "text": "Knowledge is important, but what's also needed is a questioning attitude that can recognize",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 266.4,
     "end": 270.08,
     "text": "objective truth, a truth about the natural world,",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 270.08,
     "end": 274.96,
     "text": "which is not influenced by human bias, opinions, or emotion.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 274.96,
     "end": 279.52,
     "text": "Without that, anyone is free to call whatever they like a fact,",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 279.599,
     "end": 281.599,
     "text": "which only leads to chaos.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 281.599,
     "end": 285.839,
     "text": "Right, no matter how hard I believe the moon is made of cheese,",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 285.839,
     "end": 289.68,
     "text": "or the sun goes around the earth, believing it doesn't make it true.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 290.159,
     "end": 293.759,
-    "text": "That sounds like something Neil deGrasse Tyson would agree with – and maybe Galileo too!",
-    "speaker": "Sam"
+    "text": "That sounds like something Neil deGrasse Tyson would agree with,",
+    "speaker": "Rob"
   },
   {
+    "order": 72,
     "start": 293.759,
     "end": 295.519,
     "text": "and maybe Galileo too.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 295.519,
     "end": 301.359,
-    "text": "Yes. In my question I asked who first came up with the idea that the Earth revolves around the Sun.",
+    "text": "Yes. In my question I asked who first came up with the idea that the Earth revolves around the Sun. ",
     "speaker": "Rob"
   },
   {
+    "order": 74,
     "start": 301.359,
     "end": 305.039,
     "text": "And I said it was a nascent astronomer, Galileo.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 305.039,
     "end": 307.68,
     "text": "Ah, which was the wrong answer I'm afraid.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 308.639,
     "end": 311.36,
     "text": "Galileo knew the earth revolved around the sun,",
-    "speaker": null
+    "speaker": "objective truth"
   },
   {
+    "order": 77,
     "start": 311.36,
     "end": 318.4,
     "text": "but the first person with the idea was Polish astronomer Nikolas Kepernicus in 1543.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 319.04,
     "end": 323.36,
     "text": "Unfortunately, centuries before the invention of television could spread the news of this",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 323.36,
     "end": 329.439,
     "text": "objective truth, a provable truth, which is uninfluenced by human bias or opinion.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 329.439,
     "end": 336.24,
     "text": "Okay, let's recap the rest of the vocabulary from our chat about American scientist Neil deGrasse",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 336.319,
     "end": 341.04,
     "text": "Tyson and his love of cosmology, the study of the universe.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 341.04,
     "end": 346.639,
-    "text": "To double-check something means to make certain it’s correct by carefully re-examining it. One way scientists do this is to duplicate, or repeat exactly, an experiment.",
+    "text": "To double-check something means to make certain it’s correct by carefully re-examining it.",
     "speaker": "double-checkduplicate"
   },
   {
+    "order": 83,
     "start": 346.639,
     "end": 352.16,
     "text": "One way scientists do this is to duplicate or repeat exactly an experiment.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 352.16,
     "end": 359.199,
     "text": "The idiom cross the T's and dot the eyes means to pay close attention to the details of what you're doing.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 359.199,
     "end": 365.12,
-    "text": "And finally, if you regurgitate facts, you just repeat them without properly understanding them – something a true scientist would never do!",
+    "text": "And finally, if you regurgitate facts, you just repeat them without properly understanding them ",
     "speaker": "egurgitate"
   },
   {
+    "order": 86,
     "start": 365.199,
     "end": 367.759,
     "text": "Something a true scientist would never do.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 367.759,
     "end": 370.24,
-    "text": "Once again, our six minutes are up. Goodbye for now!",
-    "speaker": "Sam"
+    "text": "Once again, our six minutes are up.",
+    "speaker": null
   },
   {
+    "order": 88,
     "start": 370.24,
     "end": 371.12,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 371.12,
     "end": 371.6,
-    "text": "Bye!",
-    "speaker": "Rob"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

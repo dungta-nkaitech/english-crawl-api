@@ -1,281 +1,328 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7,
     "end": 12,
     "text": "Hello, this is 6 Minute English from BBCLearningEnglish. I'm Georgie.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12,
     "end": 21,
-    "text": "And I’m Beth. Leaving home, getting married, and a parent dying are three of the most important experiences in many people’s lives. But perhaps the most defining moment in some women’s’ lives is ‘the miracle of birth’, in other words, having a baby.",
-    "speaker": "Beth"
+    "text": "And I'm Beth. Leaving home, getting married, and a parent dying are three of the most important experiences in many people's lives.",
+    "speaker": "Georgie"
   },
   {
+    "order": 3,
     "start": 21,
     "end": 27,
     "text": "But perhaps the most defining moment in some women's lives is the miracle of Beth.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 27,
     "end": 29,
     "text": "In other words, having a baby.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 29,
     "end": 34,
-    "text": "Throughout pregnancy, a lot of care and attention is given to expecting mums.",
-    "speaker": null
-  },
-  {
-    "start": 34,
-    "end": 42,
-    "text": "Throughout pregnancy a lot of care and attention is given to expecting mums. But as soon as the baby is born, this attention moves to the new-born baby, making sure they are healthy, warm and safe.",
+    "text": "Throughout pregnancy a lot of care and attention is given to expecting mums. ",
     "speaker": "Georgie"
   },
   {
+    "order": 6,
+    "start": 34,
+    "end": 42,
+    "text": "But as soon as the baby is born, this attention moves to the newborn baby, making sure they are healthy, warm, and safe.",
+    "speaker": null
+  },
+  {
+    "order": 7,
     "start": 42,
     "end": 54,
     "text": "We talk a lot about baby nutrition, but what the mother eats can be just as important, especially the first meal after the intense effort of giving birth,",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 54,
     "end": 59,
     "text": "whether it's chicken soup, a glass of champagne, or a good old cup of tea.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 59,
     "end": 66,
     "text": "In this programme, we're talking about what women eat and drink in the first few weeks after having a baby.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 66,
     "end": 70,
     "text": "And as usual, we'll be learning some useful new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 70,
     "end": 73,
-    "text": "But first, I have a question for you, Beth.",
-    "speaker": null
-  },
-  {
-    "start": 73,
-    "end": 81,
-    "text": "But first I have a question for you, Beth. A typical pregnancy lasts about 40 weeks, but when does an unborn baby’s stomach start to grow in the mother’s womb? Is it:",
+    "text": "But first I have a question for you, Beth. ",
     "speaker": "Georgie"
   },
   {
+    "order": 12,
+    "start": 73,
+    "end": 81,
+    "text": "A typical pregnancy lasts about 40 weeks. But when does an unborn baby's stomach start to grow in the mother's womb?",
+    "speaker": null
+  },
+  {
+    "order": 13,
     "start": 81,
     "end": 88,
     "text": "Is it A, at three weeks, B, at five weeks, or C, at eight weeks?",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 88,
     "end": 93,
-    "text": "I’ll say the baby's tummy starts to grow at about five weeks.",
-    "speaker": "Beth"
+    "text": "I'll say the baby's tummy starts to grow at about five weeks.",
+    "speaker": "Georgie"
   },
   {
+    "order": 15,
     "start": 93,
     "end": 98,
     "text": "Okay, Beth, we'll find out if that's the correct answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 98,
     "end": 110,
     "text": "Giving birth is not called labour for nothing. It's hard work, leaving the new mum physically and emotionally exhausted, and in need of food that's nourishing for both herself and her baby.",
-    "speaker": null
+    "speaker": "Georgie"
   },
   {
+    "order": 17,
     "start": 111,
     "end": 122,
     "text": "Here's Alison Omen-Lawi, Deputy Director of Nutrition to the United Nations World Food programme, explaining more to BBC World Service programme, the Food Chain.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 122,
     "end": 139,
-    "text": "A woman who is breastfeeding and during that postpartum time, the first six months, she could need up to 650 additional calories a day which actually is quite a bit more than she even needed in addition during pregnancy.",
-    "speaker": "breastfeedingpostpartum"
+    "text": "A woman who is breastfeeding and during that postpartum time the first six months, she could need up to 650 additional calories a day, which actually is quite a bit more than she even needed in addition during pregnancy.",
+    "speaker": null
   },
   {
+    "order": 19,
     "start": 139,
     "end": 148,
-    "text": "Alison says that women need to eat even more calories postpartum, meaning after childbirth, than they do during pregnancy. That’s especially true for mothers who are breastfeeding, feeding their baby directly with milk from her breasts.",
+    "text": "Alison says that women need to eat even more calories postpartum, meaning after childbirth, than they do during pregnancy",
     "speaker": "postpartum,breastfeeding,"
   },
   {
+    "order": 20,
     "start": 148,
     "end": 155,
     "text": "That's especially true for mothers who are breastfeeding, feeding their baby directly with milk from her breasts.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 155,
     "end": 165,
     "text": "How new mums get those extra calories changes from place to place, and different cultures have developed their own traditions about what foods are best.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 165,
     "end": 176,
     "text": "For Chinese American mum, Hang-U, roast pig trotters were one of the best things to eat after childbirth because they contain a lot of collagen which helps produce breast milk.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 176,
     "end": 193,
     "text": "And when rumour, whose Punjabi family originally comes from India, gave birth to a baby boy, her mother cooked panjiri, a kind of spicy nut mix with cashews, almonds and melon seeds to promote breast milk and help the healing process.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 193,
     "end": 202,
     "text": "Listen now as rumour explains how important her mother's help was to BBC World Service programme, the Food Chain.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 202,
     "end": 214,
     "text": "So the first ten days were amazing, my mum came to stay and it got so important because I had a C-section, so I had some very strong painkillers, I was in a days anyway.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 215,
     "end": 223,
     "text": "And to be honest, because she was here I was fed, so she would look after me while I would look after baby and my husband was very hands on as well.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 223,
     "end": 230,
     "text": "So that first ten days whilst it was really hard, I didn't fall apart, which I might have done if I'd been by myself.",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 28,
     "start": 230,
     "end": 239,
     "text": "When rumour talks about her mother's help, she uses the word gosh, an exclamation used to show a feeling of wonder or surprise.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 239,
     "end": 245,
     "text": "Rumour also says she was in a days because of medicine she was taking for pain.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 245,
     "end": 252,
     "text": "If someone is in a days, they feel confused and cannot think clearly, maybe because of a shock or surprise.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 252,
     "end": 266,
     "text": "Luckily rumour had help from her mum and also her husband, who was very hands on, meaning that he was closely involved in organising things and making decisions and didn't leave it up to someone else.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 267,
     "end": 274,
     "text": "Along with her mother's healthy home cooking, the help rumour got from her family meant she didn't fall apart.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 274,
     "end": 283,
     "text": "A phrase which means becomes so emotionally disturbed that you're unable to think or act calmly or to deal with the situation you're in.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 283,
     "end": 292,
     "text": "New moms have to be expert jugglers, balancing a new baby and recovering from childbirth with getting too little sleep.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 293,
     "end": 299,
     "text": "No wonder they need hot healthy food to eat. Right, isn't it time you revealed the answer to your question, Jody?",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 299,
     "end": 304,
     "text": "Sure, I asked you when an unborn baby's stomach starts to grow.",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 37,
     "start": 304,
     "end": 309,
     "text": "You guessed it was at five weeks, which was the correct answer, Beth.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 309,
     "end": 317,
     "text": "At about five weeks, the cells forming a baby's stomach, lungs, bone and brain all start to divide and grow.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 317,
     "end": 325,
     "text": "Right, let's recap the vocabulary we've learned in this programme, starting with postpartum, meaning following childbirth.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 325,
     "end": 330,
     "text": "Breastfeeding is feeding a baby directly with milk from the mother’s breasts.",
     "speaker": "Breastfeeding"
   },
   {
+    "order": 41,
     "start": 330,
     "end": 335,
-    "text": "The exclamation gosh! is used to express a feeling of surprise or wonder.",
-    "speaker": "gosh!"
+    "text": "The exclamation gosh is used to express a feeling of surprise or wonder.",
+    "speaker": null
   },
   {
+    "order": 42,
     "start": 335,
     "end": 342,
     "text": "If you're in a day's, you feel confused and unable to think clearly, often because of a shock or surprise.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 342,
     "end": 352,
     "text": "If someone is hands on, they're closely involved in organising things and making decisions, rather than just talking about it or getting someone else to do it.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 352,
     "end": 364,
     "text": "And finally, the phrasal verb fall apart, means to become seriously emotionally disturbed so that you're unable to think calmly or to deal with the difficult situation you are in.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 364,
     "end": 373,
     "text": "Once again, our six minutes are up. Join us again soon for more trending topics and useful vocabulary here at 6 Minute English.",
-    "speaker": null
+    "speaker": "hands-on"
   },
   {
+    "order": 46,
     "start": 373,
     "end": 375,
     "text": "Goodbye for now. Bye!",

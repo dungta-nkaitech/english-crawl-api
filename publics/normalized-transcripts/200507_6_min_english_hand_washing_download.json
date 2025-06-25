@@ -1,560 +1,653 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.56,
     "text": "From BBC Learning English",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.439,
     "end": 17.519,
-    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
-    "speaker": "Neil"
+    "text": "Hello, this is 6 Minute English from BBC Learning English. I'm Neil.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 17.519,
     "end": 21.359,
-    "text": "And I’m Georgina. I’ve got a puzzle for you, Neil. Ready?",
-    "speaker": "Georgina"
+    "text": "And I'm Georgina. I've got a puzzle for you, Neil. Ready?",
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 21.359,
     "end": 22.16,
     "text": "Sure.",
     "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 22.16,
     "end": 28.32,
-    "text": "OK. It’s a riddle. I’m as light as a feather but no one can hold me for very long. What am I?",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 28.32,
-    "end": 29.44,
-    "text": "What am I?",
+    "text": "OK, it's a riddle. I'm as light as a feather, but no one can hold me for very long.",
     "speaker": null
   },
   {
+    "order": 8,
+    "start": 28.32,
+    "end": 29.44,
+    "text": "What am I?",
+    "speaker": "Georgina"
+  },
+  {
+    "order": 9,
     "start": 29.44,
     "end": 34.32,
     "text": "Hmm. As light as a feather, but no one can hold you.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 34.32,
     "end": 36.88,
     "text": "No idea. What are you?",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 36.88,
     "end": 38.24,
     "text": "Your breath.",
-    "speaker": "Georgina"
+    "speaker": null
   },
   {
+    "order": 12,
     "start": 38.24,
     "end": 40.32,
     "text": "Ah, yes, I see.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 40.32,
     "end": 42.32,
     "text": "OK, then. I've got one for you.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 42.32,
     "end": 46.96,
-    "text": "Ah, yes, I see. OK, I’ve got one for you - I’m so big I’m everywhere but so small you can’t see me. What am I?",
-    "speaker": "Neil"
+    "text": "I'm so big, I'm everywhere, but so small you can't see me.",
+    "speaker": null
   },
   {
+    "order": 15,
     "start": 46.96,
     "end": 48.24,
     "text": "What am I?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 48.24,
     "end": 51.04,
-    "text": "You’re everywhere but I can’t see you? Hmmm, tricky… I give up.",
+    "text": "You’re everywhere but I can’t see you? ",
     "speaker": "Georgina"
   },
   {
+    "order": 17,
     "start": 51.04,
     "end": 52.48,
     "text": "Hmm.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 52.48,
     "end": 54.24,
     "text": "Tricky. I give up.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 54.24,
     "end": 56.96,
     "text": "Well, the answer is germs.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 56.96,
     "end": 65.68,
     "text": "And with the outbreak of coronavirus, people around the world have rediscovered the importance of fighting germs to stop the spread of disease.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 65.68,
     "end": 72.24,
     "text": "In this programme, we'll be discussing the importance of hand washing in the prevention of germs and viruses.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 72.24,
     "end": 81.599,
-    "text": "In this programme we’ll be the discussing the importance of handwashing in the prevention of germs and viruses. And we’ll start off by meeting the first person to realise that keeping hands clean can really help prevent diseases being passed on.",
+    "text": "And we'll start off by meeting the first person to realise that keeping hands clean can really help prevent diseases being passed on.",
     "speaker": "Georgina"
   },
   {
+    "order": 23,
     "start": 81.599,
     "end": 86.879,
     "text": "Ah, do you mean the 19th century Hungarian doctor Ignat's civil vice?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 86.879,
     "end": 93.599,
     "text": "He was known as the Savior of Mothers for keeping maternity wards germ-free and he had a very interesting life.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 93.599,
     "end": 96,
     "text": "But do you know what happened to him in the end?",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 96,
     "end": 97.599,
     "text": "That's my quiz question.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 97.599,
     "end": 100.399,
     "text": "Was it A, he won the Nobel Prize?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 100.399,
     "end": 104.079,
     "text": "B, he ended up in a hospital for mentally ill people,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 104.079,
     "end": 108.479,
     "text": "or C, he started the first company to produce hands-hope.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 108.479,
     "end": 115.28,
     "text": "Dr Semovise sounds like a scientific hero, so I'll say A, he won the Nobel Prize.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 115.28,
     "end": 117.92,
     "text": "Okay, we'll find out later if you were right.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 117.92,
     "end": 122.56,
     "text": "But what's for sure is that Ignat's Semovise was a hero to vowel Curtis,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 122.56,
     "end": 126.64,
     "text": "a director at the London School of Hygiene and Tropical Medicine.",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 34,
     "start": 126.64,
     "end": 129.84,
     "text": "Here she is talking to BBC Radio 4's science stories.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 130.56,
     "end": 132.96,
     "text": "Semovise is kind of my patron saint.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 133.759,
     "end": 138,
     "text": "Handwashing has been my life for the last 30 years working on trying to improve hygiene,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 138,
     "end": 139.52,
     "text": "mostly in developing countries.",
-    "speaker": null
+    "speaker": "patron saint.hygienejumped out"
   },
   {
+    "order": 38,
     "start": 139.52,
     "end": 145.52,
     "text": "And he was really the first to identify the importance of keeping hands clean in the prevention",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 145.52,
     "end": 147.28,
     "text": "of transmission of infection.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 147.28,
     "end": 150.719,
     "text": "And since the beginning of my career working in public health,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 150.719,
     "end": 155.6,
     "text": "I've been trying to understand how diseases get spread and what the best way of preventing it is.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 155.6,
     "end": 161.76,
     "text": "And handwashing jumped out as being the most important means of preventing infections,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 161.76,
     "end": 163.2,
     "text": "particularly in developing countries.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 163.84,
     "end": 166.879,
     "text": "Vals' work is all about improving hygiene,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 166.96,
     "end": 170.479,
     "text": "practices for maintaining health and preventing disease,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 170.479,
     "end": 172.319,
     "text": "especially through cleanliness.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 172.879,
     "end": 179.12,
     "text": "And she was clearly influenced by the work of Dr Semovise because she calls him her patron saint,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 179.12,
     "end": 183.919,
-    "text": "a kind of guide and protector, believed to give special help or inspiration.",
-    "speaker": null
+    "text": "- a kind of guide and protector believed to give special help or inspiration",
+    "speaker": "patron saint"
   },
   {
+    "order": 49,
     "start": 183.919,
     "end": 188.479,
     "text": "But Dr Semovise is also a good example of science communication.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 189.12,
     "end": 193.759,
     "text": "Getting the message out so people understand the importance of hygiene is difficult.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 194.319,
     "end": 200.479,
     "text": "And wash your hands, jumped out or made a strong impact as a simple message to communicate.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 200.959,
     "end": 202.079,
     "text": "Here's Vals again.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 202.639,
     "end": 209.599,
-    "text": "It wasn't until we wrote a paper in 2003 that showed the evidence that handwashing could save",
-    "speaker": null
+    "text": "It wasn’t until we wrote a paper in 2003 that showed the evidence that handwashing could save",
+    "speaker": "evidenceissue scream and shout"
   },
   {
+    "order": 54,
     "start": 209.599,
     "end": 214.799,
     "text": "a million lives that actually people started to take it seriously and handwashing became a big",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 214.799,
     "end": 216.719,
     "text": "important issue internationally.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 216.719,
     "end": 222.56,
     "text": "So for me the lesson from Semovises don't scream and shout and accuse people of doing things wrongly,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 222.56,
     "end": 227.439,
     "text": "but patiently get the data out there and tell your story in a positive way.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 228.479,
     "end": 234.319,
     "text": "The idea that handwashing is an essential part of hygiene is supported by scientific evidence.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 234.319,
     "end": 238.64,
     "text": "The facts and information used to show that a belief is true.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 238.64,
     "end": 243.439,
     "text": "In this case Vals' belief that handwashing could help save a million lives.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 243.439,
     "end": 249.12,
-    "text": "So, handwashing has become an important global issue - or topic of discussion - especially in places without access to clean sanitation and toilets.",
+    "text": "So handwashing has become an important global issue or topic of discussion,",
     "speaker": "issue"
   },
   {
+    "order": 62,
     "start": 249.2,
     "end": 253.599,
     "text": "especially in places without access to clean sanitation and toilets.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 254.24,
     "end": 257.68,
     "text": "Vals also mentions that if you want people to listen to your message,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 257.68,
     "end": 263.6,
     "text": "it's better to present the evidence in a positive scientific way instead of screaming and shouting,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 263.6,
     "end": 268.16,
     "text": "speaking in a forceful or even angry way to convince people you're right.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 268.16,
     "end": 271.519,
-    "text": "Right, people don’t listen if you scream and shout at them - they just think you’re strange.",
+    "text": "Right, people don’t listen if you scream and shout at them ",
     "speaker": "scream and shout"
   },
   {
+    "order": 67,
     "start": 271.519,
     "end": 273.28,
     "text": "They just think you're strange.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 273.28,
     "end": 276.079,
     "text": "Which brings me back to today's quiz question.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 276.079,
     "end": 279.759,
     "text": "Remember I asked you what happened to Dr. Semovise in the end?",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 279.759,
     "end": 282.959,
     "text": "And I said, eh, he won the Nobel Prize.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 282.959,
     "end": 288.159,
     "text": "Well, I'm afraid the answer was B, he actually ended up in a hospital for mentally ill people.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 288.719,
     "end": 291.439,
     "text": "Today we've been talking about handwashing,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 73,
     "start": 291.439,
     "end": 295.12,
     "text": "one of the single best ways to improve personal hygiene,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 295.12,
     "end": 297.519,
     "text": "the prevention of disease by keeping clean.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 298.24,
     "end": 302,
     "text": "Recently handwashing has become a top global issue,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 302.319,
     "end": 305.68,
     "text": "a subject or topic people are thinking and talking about.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 306.48,
     "end": 312.079,
-    "text": "Scientific evidence, the facts and information used to prove ideas true or valid,",
-    "speaker": null
+    "text": "Scientific evidence - the facts and information used to prove ideas true or valid",
+    "speaker": "evidence"
   },
   {
+    "order": 78,
     "start": 312.079,
     "end": 317.6,
     "text": "shows that handwashing jumped out or was easily noticed as one of the most important",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 317.6,
     "end": 320,
     "text": "methods to stop the spread of infection.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 320,
     "end": 327.199,
     "text": "The work of 19th century scientist Ignat Semovise was so inspiring that even today some doctors",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 327.519,
     "end": 330.399,
     "text": "consider him the patron saint of hygiene.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 330.399,
     "end": 334.479,
     "text": "An expression referring to a protecting or guiding saint",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 334.479,
     "end": 337.68,
     "text": "believed to give special help or inspiration.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 337.68,
     "end": 342.399,
     "text": "But communicating the message of wash your hands to people around the world is hard,",
-    "speaker": null
+    "speaker": "scream and shout"
   },
   {
+    "order": 85,
     "start": 342.399,
     "end": 347.36,
     "text": "especially if you just scream and shout or try to convince someone by talking to them in a",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 347.36,
     "end": 349.439,
     "text": "forceful or argumentative way.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 350.56,
     "end": 353.919,
     "text": "Okay, Neil, the scientific evidence has convinced me.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 353.92,
     "end": 357.36,
     "text": "I promise to make sure I regularly wash my hands.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 358.24,
     "end": 363.36,
     "text": "That's all from us today, but do join us again soon for more Topical Discussion and Vocabulary",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 363.36,
     "end": 366.48,
     "text": "here at BBC Learning English is 6 Minute English.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 366.48,
     "end": 369.759,
-    "text": "Stay safe and remember to wash your hands! Bye for now.",
-    "speaker": "Georgina"
+    "text": "Stay safe and remember to wash your hands. Bye for now.",
+    "speaker": "Neil"
   },
   {
+    "order": 92,
     "start": 370.4,
     "end": 370.879,
-    "text": "Bye!",
-    "speaker": "Neil"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

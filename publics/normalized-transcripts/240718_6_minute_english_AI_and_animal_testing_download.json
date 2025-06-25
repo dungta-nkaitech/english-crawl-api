@@ -1,452 +1,527 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7.679,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7.679,
     "end": 11.759,
     "text": "Hello, this is 6-minute English from BBC Learning English, I'm Phil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 11.759,
     "end": 13.04,
-    "text": "And I’m Georgie.",
-    "speaker": "Georgie"
+    "text": "And I'm Georgie.",
+    "speaker": "Phil"
   },
   {
+    "order": 3,
     "start": 13.04,
     "end": 17.6,
     "text": "Animal testing is when living animals are used in scientific research",
-    "speaker": null
+    "speaker": "Phil"
   },
   {
+    "order": 4,
     "start": 17.6,
     "end": 20.64,
     "text": "to find out how effective a new medicine is",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 20.64,
     "end": 23.6,
     "text": "or how safe a product is for humans.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 23.6,
     "end": 27.359,
     "text": "Scientists in favour of it argue that animal testing shows",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 27.359,
     "end": 30.879,
     "text": "whether medicines are safe or dangerous for humans",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 30.879,
     "end": 32.799,
     "text": "and has saved many lives.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 32.799,
     "end": 37.439,
     "text": "But animal rights campaigners say it's cruel and also ineffective",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 37.439,
     "end": 40.56,
     "text": "because animals and humans are so different.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 40.56,
     "end": 46.56,
     "text": "Under British law, medicines must be tested on two different types of animals,",
-    "speaker": null
+    "speaker": "human guinea pig"
   },
   {
+    "order": 12,
     "start": 46.56,
     "end": 50.879,
     "text": "usually starting with rats, mice or guinea pigs.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 50.879,
     "end": 54.96,
     "text": "And in everyday English, the term human guinea pig",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 54.96,
     "end": 59.359,
     "text": "can be used to mean the first people to have something tested on them.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 59.359,
     "end": 64.56,
     "text": "But now groups both for and against animal testing are thinking again",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 64.56,
     "end": 67.359,
     "text": "thanks to a recent development in the debate.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 67.359,
     "end": 68.159,
     "text": "AI",
-    "speaker": null
-  },
-  {
-    "start": 68.159,
-    "end": 71.519,
-    "text": "In this programme, we’ll be hearing how artificial intelligence could help reduce the need for scientific testing on animals.",
     "speaker": "Georgie"
   },
   {
+    "order": 18,
+    "start": 68.159,
+    "end": 71.519,
+    "text": "In this programme we'll be hearing how artificial intelligence",
+    "speaker": null
+  },
+  {
+    "order": 19,
     "start": 71.519,
     "end": 75.599,
     "text": "could help reduce the need for scientific testing on animals.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 75.599,
     "end": 79.12,
-    "text": "But first, I have a question for you Georgie.",
-    "speaker": null
+    "text": "But first I have a question for you, Georgie.",
+    "speaker": "Phil"
   },
   {
+    "order": 21,
     "start": 79.12,
     "end": 82.079,
     "text": "There's one commonly used medicine in particular,",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 82.159,
     "end": 85.359,
     "text": "which is harmful for animals but safe for humans.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 86.079,
     "end": 86.959,
     "text": "But what?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 88.079,
     "end": 96.239,
     "text": "Is it A, antibiotics, B, aspirin or C, parasitamol?",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 96.239,
     "end": 99.359,
     "text": "Mmm, I guess it's aspirin.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 99.359,
     "end": 103.599,
     "text": "Okay Georgie, I'll reveal the answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 103.599,
     "end": 108.48,
     "text": "Christine Roe is a science journalist who's interested in the animal testing debate.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 109.12,
     "end": 112.719,
     "text": "Here she explains to BBC World Service programme,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 112.719,
     "end": 117.6,
     "text": "TechLife, some of the limitations of testing medicines on animals.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 117.6,
     "end": 121.6,
-    "text": "Of course, you can't necessarily predict from a mouse or a dog what's going to happen in a human.",
-    "speaker": null
+    "text": "Of course, you can't necessarily predict from a mouse or a dog what's going to happen in a human,",
+    "speaker": "vice versa"
   },
   {
+    "order": 31,
     "start": 122.4,
     "end": 126.88,
     "text": "And there have been a number of cases where substances that have proven to be toxic",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 126.88,
     "end": 130.56,
     "text": "in animals have been proven to be safe in humans and vice versa.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 132.08,
     "end": 135.52,
     "text": "There are also, of course, animal welfare limitations to animal testing.",
-    "speaker": null
+    "speaker": "needle to thread,"
   },
   {
+    "order": 34,
     "start": 136.4,
     "end": 141.76,
     "text": "Most people, I think, if they had the choice would want their substances to be used on as few",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 141.76,
     "end": 145.28,
     "text": "animals or no animals as possible while still ensuring safety.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 145.92,
     "end": 151.2,
     "text": "Now that's been a really difficult needle to thread, but AI might help to make that what possible.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 151.2,
     "end": 156.719,
     "text": "Christine says that medicines which are safe for animals might not be safe for humans,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 156.719,
     "end": 158.96,
     "text": "but the opposite is also true.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 158.96,
     "end": 161.92,
     "text": "What's safe for humans might not be safe for animals.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 162.399,
     "end": 168.719,
     "text": "Christine uses the phrase vice versa to show that the opposite of what she says is also true.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 170.079,
     "end": 176.639,
-    "text": "Christine also uses the idiom to thread the needle, to describe a task which requires a lot of skill",
-    "speaker": null
+    "text": "Christine also uses the idiom to thread the needle to describe a task which requires a lot of skill ",
+    "speaker": "thread the needleneedle to thread."
   },
   {
+    "order": 42,
     "start": 176.639,
     "end": 181.039,
     "text": "and precision, especially one involving a conflict.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 181.039,
     "end": 187.919,
     "text": "Yes, medical animal testing may save human lives, but many people see it as cruel and",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 187.919,
     "end": 192,
     "text": "distressing for the animal. It's a difficult needle to thread.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 192.559,
     "end": 197.519,
     "text": "But now the challenge of threading that needle has got a little easier because of artificial",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 197.519,
     "end": 203.839,
     "text": "intelligence, predicting how likely a new medicine is to harm humans involves analyzing the",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 203.839,
     "end": 210.399,
     "text": "results of thousands of experiments, and one thing AI is really good at is analyzing mountains",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 210.399,
     "end": 217.439,
     "text": "and mountains of data. Here's Christine Roe again speaking with BBC World Services Tech Life.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 217.52,
     "end": 222.079,
-    "text": "So AI isn't the whole picture, of course, but it's an increasingly important part of the picture.",
-    "speaker": null
+    "text": "So, AI isn't the whole picture of course, but it's an increasingly important part of the picture.",
+    "speaker": "whole picturewade throughon top of that"
   },
   {
+    "order": 50,
     "start": 222.879,
     "end": 227.359,
     "text": "And one reason for that is that there is a huge amount of toxicology data to wade through",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 227.359,
     "end": 232.319,
     "text": "when it comes to determining and chemical safety. And on top of that, there's the staggering",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 232.319,
     "end": 235.12,
     "text": "number of chemicals being invented all of the time.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 235.12,
     "end": 239.199,
     "text": "AI helps scientists wade through huge amounts of data.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 239.919,
     "end": 246,
-    "text": "If you wade through something, you spend a lot of time and effort doing something boring or difficult, especially reading a lot of information.",
-    "speaker": "wade through something,"
+    "text": "If you wade through something, you spend a lot of time and effort doing something boring or",
+    "speaker": "The whole picture"
   },
   {
+    "order": 55,
     "start": 246,
     "end": 250.08,
     "text": "difficult, especially reading a lot of information.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 250.08,
     "end": 257.12,
     "text": "AI can process huge amounts of data and what's more, that amount keeps growing as new chemicals",
-    "speaker": null
+    "speaker": "on top of that,"
   },
   {
+    "order": 57,
     "start": 257.12,
     "end": 263.519,
     "text": "are invented. Christine uses the phrase on top of that, meaning in addition to something.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 263.519,
     "end": 269.6,
     "text": "Often this extra thing is negative. She means there's already so much data to understand,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 269.6,
     "end": 274.16,
     "text": "and additionally there's even more to be understood about these new chemicals.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 275.04,
     "end": 280.56,
     "text": "Of course, the good news is that with AI, testing on animals could one day stop.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 281.04,
     "end": 286.64,
     "text": "Although Christine warns that AI is not the whole picture, it's not a complete description",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 286.64,
     "end": 289.52,
     "text": "of something which includes all the relevant information.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 290.16,
     "end": 296.72,
     "text": "Nevertheless, the news is a step forward for both animal welfare and for modern medicine.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 297.36,
     "end": 301.04,
-    "text": "Speaking of which, what was the answer to your question Phil?",
-    "speaker": null
+    "text": "Speaking of which, what was the answer to your question, Phil",
+    "speaker": "Georgie"
   },
   {
+    "order": 65,
     "start": 301.12,
     "end": 306.48,
     "text": "What is a commonly used medicine which is safe for humans but harmful to animals?",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 306.48,
     "end": 314.48,
     "text": "I guess it was aspirin. Which was the correct answer. Right, let's recap the vocabulary we've",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 314.48,
     "end": 320.32,
     "text": "discussed starting with human guinea pigs, meaning the first people to have something",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 320.32,
     "end": 326.16,
     "text": "new tested on them. The phrase vice versa is used to indicate that the opposite of what you",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 326.24,
     "end": 334.08,
     "text": "have just said is also true. To thread the needle describes a task which requires extreme skill and",
-    "speaker": null
+    "speaker": "vice versa"
   },
   {
+    "order": 70,
     "start": 334.08,
     "end": 340.64,
     "text": "precision to do successfully. The whole picture means a complete description of something which",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 340.64,
     "end": 347.12,
     "text": "includes all the relevant information and opinions about it. If you wade through something,",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 347.12,
     "end": 353.52,
     "text": "you spend a lot of time and effort doing something boring or difficult, especially reading a lot",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 353.759,
     "end": 359.839,
     "text": "of information. And finally, the phrase on top of something means in addition to something",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 359.839,
     "end": 365.599,
     "text": "and that extra thing is often negative. That's all for this week. Goodbye for now. Bye!",
-    "speaker": null
+    "speaker": "on top of something"
   }
 ]

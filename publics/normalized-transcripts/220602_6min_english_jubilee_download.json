@@ -1,728 +1,849 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 13.12,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 13.12,
     "end": 16.399,
-    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 16.399,
-    "end": 18,
-    "text": "And I’m Sam.",
+    "text": " Hello. This is 6 Minute English from BBC Learning English",
     "speaker": "Sam"
   },
   {
+    "order": 4,
+    "start": 16.399,
+    "end": 18,
+    "text": "I'm Neil. And I'm Sam.",
+    "speaker": null
+  },
+  {
+    "order": 5,
     "start": 18,
     "end": 21.28,
     "text": "People in the UK are enjoying a four-day holiday,",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 6,
     "start": 21.28,
     "end": 26,
-    "text": "People in the UK are enjoying a four-day holiday as part of the celebrations for Queen Elizabeth II’s Platinum Jubilee.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 26,
-    "end": 29.839,
-    "text": "A Jubilee celebrates the anniversary of a special event",
+    "text": "as part of the celebrations for Queen Elizabeth II's Platinum Jubilee.",
     "speaker": null
   },
   {
+    "order": 7,
+    "start": 26,
+    "end": 29.839,
+    "text": "A jubilee celebrates the anniversary of a special event",
+    "speaker": "jubilee"
+  },
+  {
+    "order": 8,
     "start": 29.839,
     "end": 33.759,
     "text": "and the word is mostly associated with the royal family.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 33.759,
     "end": 38.88,
     "text": "In 2022, Queen Elizabeth II celebrates her Platinum Jubilee,",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 38.88,
     "end": 43.84,
     "text": "commemorating 70 years since she became Queen in 1952.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 43.84,
     "end": 46.48,
     "text": "People are doing all kinds of things to celebrate,",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 46.48,
     "end": 50,
     "text": "from large events at Buckingham Palace and St Paul's Cathedral,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 50,
     "end": 54.96,
     "text": "to smaller street parties in towns and cities up and down the country and abroad.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 54.96,
     "end": 59.12,
     "text": "In this programme, we look at the Platinum Jubilee in an unusual way",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 59.199,
     "end": 63.919,
     "text": "by hearing about a cake competition to make the official Jubilee cake,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 63.919,
     "end": 65.84,
     "text": "the Platinum pudding.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 65.84,
     "end": 69.84,
     "text": "And as usual, we'll be learning some related vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 69.84,
     "end": 73.519,
-    "text": "This isn't the first celebration of Queen Elizabeth's reign.",
-    "speaker": null
+    "text": "This isn’t the first celebration of Queen Elizabeth’s reign ",
+    "speaker": "reign"
   },
   {
+    "order": 19,
     "start": 73.519,
     "end": 77.2,
     "text": "The period of time when a monarch rules a country.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 77.2,
     "end": 81.84,
     "text": "In 1977, the Queen celebrated her silver Jubilee,",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 81.84,
     "end": 84.4,
     "text": "marking 25 years as Queen,",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 84.4,
     "end": 88.08,
     "text": "followed by her golden Jubilee in 2002",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 88.08,
     "end": 91.359,
     "text": "and her diamond Jubilee in 2012.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 91.359,
     "end": 94.96,
     "text": "But what's so special about this year's Platinum Jubilee",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 94.96,
     "end": 99.12,
     "text": "is that Queen Elizabeth II is the first British monarch ever to spend",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 99.12,
     "end": 101.04,
     "text": "70 years on the throne.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 101.04,
     "end": 102.88,
     "text": "And I have a question about it, Sam.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 102.88,
     "end": 107.04,
     "text": "Queen Elizabeth II is Britain's longest ever-raining monarch,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 107.04,
     "end": 110.64,
     "text": "but who was the previous longest-raining before her?",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 110.64,
     "end": 113.6,
-    "text": "a)    Henry VIII?",
-    "speaker": "Neil"
+    "text": "Was it A, Henry VIII, B,",
+    "speaker": null
   },
   {
+    "order": 31,
     "start": 113.599,
     "end": 117.039,
-    "text": "c)    Queen Victoria?",
+    "text": "Elizabeth I or C, Queen Victoria?",
     "speaker": "Neil"
   },
   {
+    "order": 32,
     "start": 117.039,
     "end": 120.479,
-    "text": "I know it’s c) Queen Victoria.",
-    "speaker": "Sam"
+    "text": "Hmm. I know it's C, Queen Victoria.",
+    "speaker": null
   },
   {
+    "order": 33,
     "start": 120.479,
     "end": 123.439,
     "text": "Okay. I'll reveal the answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 124,
     "end": 127.359,
     "text": "As the first monarch ever to have a Platinum Jubilee,",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 35,
     "start": 127.359,
     "end": 130.319,
     "text": "many celebrations are being planned for the Queen.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 130.319,
     "end": 132.959,
     "text": "These include an official birthday parade,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 132.959,
     "end": 137.519,
     "text": "Trooping the Colour, which ends with jet planes flying over Buckingham Palace",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 137.519,
     "end": 139.519,
     "text": "and the Platinum Pagent,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 139.519,
     "end": 141.599,
     "text": "a live concert in front of the palace,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 141.599,
     "end": 145.519,
     "text": "featuring music and dancing puppets of the Queen's favourite pets,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 145.519,
     "end": 148.879,
     "text": "her corgi dogs, and a performance by Ed Sheeran.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 148.879,
     "end": 150.799,
-    "text": "And that's just in London.",
-    "speaker": null
+    "text": "And that’s just in London.",
+    "speaker": "Sam"
   },
   {
+    "order": 43,
     "start": 150.799,
     "end": 152.159,
     "text": "All across the UK,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 152.159,
     "end": 154.799,
     "text": "street parties are being held for people to eat",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 154.799,
     "end": 156.799,
     "text": "and drink with friends and neighbours.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 156.799,
     "end": 159.919,
     "text": "There's a tradition of inventing a new food dish",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 159.919,
     "end": 161.439,
     "text": "to commemorate Jubilee's,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 161.439,
     "end": 164.56,
     "text": "going all the way back to the Victoria Sponge,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 164.56,
     "end": 166.799,
     "text": "a cake named after Queen Victoria.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 167.519,
     "end": 170.879,
     "text": "This year, a competition was held to find a new dish",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 170.96,
     "end": 173.759,
     "text": "to become the official pudding of the Jubilee.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 173.759,
     "end": 177.039,
     "text": "Here's BBC reporter Daniela Ralf to explain more.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 178.24,
     "end": 182.4,
     "text": "First, there was a Victoria Sponge, then, Coronation Chicken.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 182.96,
     "end": 186.159,
     "text": "Now we have a Queen Elizabeth II Platinum pudding.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 186.799,
     "end": 189.68,
     "text": "The winning lemon Swiss roll and amareti trifle",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 189.68,
     "end": 192.159,
     "text": "is a twist on a traditional trifle,",
-    "speaker": null
+    "speaker": "Trifle"
   },
   {
+    "order": 57,
     "start": 192.159,
     "end": 195.28,
     "text": "with layers of Swiss roll, jelly, custard,",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 195.28,
     "end": 197.68,
     "text": "mandarins, amareti biscuits, and cream.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 198.159,
     "end": 201.92,
     "text": "In 1953, a mix of chicken and curry cream sauce",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 201.92,
     "end": 204.879,
     "text": "called Coronation Chicken was invented",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 204.879,
     "end": 207.12,
     "text": "to celebrate Queen Elizabeth's coronation,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 207.12,
     "end": 209.52,
     "text": "the ceremony of which she was made queen.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 209.52,
     "end": 211.92,
     "text": "This year, competition winner Gemma Melvin",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 211.92,
     "end": 214.719,
     "text": "has invented a lemon and Swiss roll,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 214.719,
     "end": 216.319,
     "text": "amareti trifle,",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 216.319,
     "end": 218.56,
     "text": "as the official Jubilee cake.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 218.56,
     "end": 223.52,
     "text": "Trifle is a sweet, cold pudding made of three layers,",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 223.52,
     "end": 225.76,
     "text": "a layer of fruit and cake,",
-    "speaker": null
+    "speaker": "coronation"
   },
   {
+    "order": 69,
     "start": 226.079,
     "end": 230.239,
     "text": "a layer of custard, and a top layer of cream.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 230.799,
     "end": 234.399,
     "text": "Gemma's Jubilee trifle is a twist on a traditional trifle.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 234.959,
     "end": 237.759,
     "text": "When talking about food, people use the phrase",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 237.759,
     "end": 241.359,
     "text": "a twist on something to describe a new variation",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 241.359,
     "end": 244.239,
     "text": "of a traditional recipe using different,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 244.239,
     "end": 245.599,
     "text": "exciting ingredients.",
-    "speaker": null
+    "speaker": "a twist on"
   },
   {
+    "order": 75,
     "start": 246.159,
     "end": 249.439,
     "text": "Gemma learned her winning recipe from her grandmother's.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 249.439,
     "end": 252.719,
     "text": "She wants her trifle to be the people's pudding,",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 77,
     "start": 252.719,
     "end": 254.639,
     "text": "something to be enjoyed by everyone.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 255.119,
     "end": 257.839,
     "text": "Here is Gemma Melvin, describing how she felt",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 257.839,
     "end": 260.479,
     "text": "to discover her trifle had been chosen",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 260.479,
     "end": 262.56,
     "text": "as the official platinum pudding.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 263.519,
     "end": 264.56,
     "text": "I cannot believe it.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 265.519,
     "end": 267.12,
     "text": "Everything that I was up against",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 267.12,
     "end": 270.159,
     "text": "was just the most beautiful deserts and puddings",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 270.159,
     "end": 272,
     "text": "with beautiful stories.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 272,
     "end": 275.199,
     "text": "This quite humble trifle has won",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 275.199,
     "end": 276.879,
     "text": "is a bit surreal.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 278.079,
     "end": 282.56,
     "text": "Gemma describes her trifle as humble, modest, and not proud.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 283.28,
     "end": 285.759,
     "text": "Although the pudding contains ingredients like",
-    "speaker": null
+    "speaker": "humble"
   },
   {
+    "order": 89,
     "start": 285.759,
     "end": 290.079,
     "text": "amarethi biscuits and cream, which are good enough for a queen,",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 290.079,
     "end": 293.12,
     "text": "she wanted to base it on a humble trifle,",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 293.12,
     "end": 295.68,
     "text": "something everyone around the country can make.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 295.68,
     "end": 298.319,
     "text": "Enjoying a bowl of Gemma's platinum pudding",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 298.319,
     "end": 300.56,
     "text": "sounds like a great way for some to celebrate",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 300.56,
     "end": 302.8,
     "text": "the queen's 70-year reign.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 302.8,
     "end": 305.439,
     "text": "Which reminds me of your question, Neil.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 96,
     "start": 305.439,
     "end": 309.04,
     "text": "We know Elizabeth II has reigned for 70 years,",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 309.04,
     "end": 311.84,
     "text": "but who was the second longest serving monarch?",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 312.399,
     "end": 314.959,
     "text": "I said it was C, Queen Victoria.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 314.959,
     "end": 318,
     "text": "I'm glad you were so sure, because you were correct, Sam.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 318,
     "end": 320.719,
     "text": "Victoria was queen for almost 64 years,",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 320.719,
     "end": 323.839,
     "text": "which is a long time, but not as long as Elizabeth.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 323.839,
     "end": 326.719,
     "text": "Okay, let's recap the vocabulary from this programme",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 326.719,
     "end": 328.799,
     "text": "about the queen's Jubilee,",
-    "speaker": null
+    "speaker": "jubilee"
   },
   {
+    "order": 104,
     "start": 328.799,
     "end": 332.239,
     "text": "a celebration of the anniversary of a special event,",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 332.239,
     "end": 334.399,
     "text": "usually involving the royal family.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 334.399,
     "end": 337.599,
-    "text": "A king or queen’s reign means the period of time they rule a country.",
-    "speaker": "reign"
+    "text": "A king or queen's reign means the period of time",
+    "speaker": null
   },
   {
+    "order": 107,
     "start": 337.599,
     "end": 338.879,
     "text": "they rule a country.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 338.959,
     "end": 343.12,
-    "text": "A coronation is the ceremony at which someone is made monarch – the king or queen.",
-    "speaker": "coronation"
+    "text": "A coronation is the ceremony at which someone is made monarch,",
+    "speaker": null
   },
   {
+    "order": 109,
     "start": 343.12,
     "end": 344.48,
     "text": "the king or queen.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 344.48,
     "end": 348.079,
-    "text": "Trifle is a popular pudding made of a layer of fruit and cake, a layer of custard, and a top layer of cream.",
-    "speaker": "Trifle"
+    "text": "Trifle is a popular pudding made of a layer of fruit and cake,",
+    "speaker": null
   },
   {
+    "order": 111,
     "start": 348.079,
     "end": 351.279,
     "text": "a layer of custard, and a top layer of cream.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 351.279,
     "end": 354.56,
     "text": "If you say a food dish is a twist on something,",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 354.56,
     "end": 358,
     "text": "you mean it's a variation of a traditional recipe,",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 358,
     "end": 360.48,
     "text": "using new and exciting ingredients.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 360.48,
     "end": 364.56,
-    "text": "And finally, someone who is humble is modest, and not proud.",
-    "speaker": "humble"
-  },
-  {
-    "start": 364.56,
-    "end": 366.719,
-    "text": "If you were inspired by this recipe,",
+    "text": "And finally, someone who is humble is modest and not proud.",
     "speaker": null
   },
   {
+    "order": 116,
+    "start": 364.56,
+    "end": 366.719,
+    "text": "If you were inspired by this recipe,",
+    "speaker": "Sam"
+  },
+  {
+    "order": 117,
     "start": 366.719,
     "end": 368.159,
     "text": "why not try making it?",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 368.16,
     "end": 369.439,
     "text": "But that's all from us.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 369.439,
     "end": 370.32,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 370.32,
     "end": 370.96,
-    "text": "Goodbye!",
-    "speaker": "Neil"
+    "text": "Goodbye.",
+    "speaker": null
   }
 ]

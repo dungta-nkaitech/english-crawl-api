@@ -1,857 +1,1000 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.279,
-    "text": "6 Minute English.",
-    "speaker": null
+    "text": " 6 Minute English",
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 8.279,
     "end": 10.88,
     "text": "From BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.48,
     "end": 16.12,
-    "text": "Hello. This is 6 Minute English and I'm Neil.",
-    "speaker": "Neil"
+    "text": "Hello, this is 6 Minute English and I'm Neil.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 16.12,
     "end": 17.48,
     "text": "And I'm Georgina.",
-    "speaker": "Georgina"
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 17.48,
     "end": 20.879,
     "text": "Now Georgina, what do you know about free diving?",
     "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 20.879,
     "end": 23.839,
     "text": "Free diving is a sport where people dive underwater",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 23.839,
     "end": 27.039,
     "text": "as deep as they can without carrying air tanks.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 27.039,
     "end": 28.76,
     "text": "So just by holding their breath.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 28.76,
     "end": 31,
-    "text": "That's right, we're going to find out today",
-    "speaker": null
+    "text": "That’s right. We’re going to find out today",
+    "speaker": "Neil"
   },
   {
+    "order": 11,
     "start": 31,
     "end": 33.56,
     "text": "about a world record free diver.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 33.56,
     "end": 35,
     "text": "But first, a question.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 35,
     "end": 36.76,
     "text": "And this is a physics one.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 36.76,
     "end": 39,
     "text": "On dry land, at sea level,",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 39,
     "end": 41.8,
     "text": "the pressure or weight of all the air above us",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 41.8,
     "end": 44.12,
     "text": "is known as an atmosphere.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 44.12,
     "end": 46.68,
     "text": "How far underwater do you have to go",
-    "speaker": null
+    "speaker": "deprived  sensationsdeprivedsensationsdeprivedspookyintimidating"
   },
   {
+    "order": 18,
     "start": 46.68,
     "end": 49.799,
     "text": "until the weight of water is equal in pressure",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 49.799,
     "end": 51.799,
     "text": "to another atmosphere?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 51.799,
     "end": 57.04,
     "text": "Is it a, 1 meter, b, 10 meters, or c, 100 meters?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 57.039,
     "end": 58.64,
-    "text": "What do you think, Georgina?",
+    "text": "What do you think Georgina?",
     "speaker": "Neil"
   },
   {
+    "order": 22,
     "start": 58.64,
     "end": 59.64,
     "text": "Hmm.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 59.64,
     "end": 61.679,
     "text": "Well, water is much heavier than air,",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 24,
     "start": 61.679,
     "end": 65.439,
     "text": "but there is a lot of air above us, many kilometers.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 65.439,
     "end": 68.64,
     "text": "So I don't think 1 meter of water is heavy enough,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 68.64,
     "end": 70.159,
     "text": "same for 10 meters.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 70.159,
     "end": 74.28,
     "text": "So I think 100 meters is the equivalent of one atmosphere.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 74.28,
     "end": 77.12,
     "text": "OK, we'll find out if you are swimming comfortably",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 77.12,
     "end": 80.079,
     "text": "or completely out of your depth later.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 80.079,
     "end": 84.359,
     "text": "Herbert Nitch holds the world record for the deepest free dive.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 84.359,
     "end": 89.159,
     "text": "In 2012, he reached a depth of 253 meters.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 89.159,
     "end": 92.64,
     "text": "Recently, he spoke on the BBC World Service Radio Program",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 92.64,
     "end": 95.159,
     "text": "Outlook about his experiences.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 95.159,
     "end": 97.159,
     "text": "He spoke about how he trained himself",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 97.159,
     "end": 99.64,
     "text": "to hold his breath for a long time.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 99.64,
     "end": 102.68,
     "text": "Lungs are the organs in the body that hold the air",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 102.68,
     "end": 103.92,
     "text": "that we breathe in.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 103.92,
     "end": 106.799,
     "text": "And he says that he trains himself not by starting",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 106.799,
     "end": 110.68,
     "text": "with a big breath, but when his lungs are already empty.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 110.68,
     "end": 112.039,
     "text": "Why is that?",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 112.04,
     "end": 114,
     "text": "The reason why I do it on empty lungs",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 114,
     "end": 117,
-    "text": "is that the urge to breathe comes earlier,",
-    "speaker": null
+    "text": "is that the urge to breathe comes earlier ",
+    "speaker": "lungsurgelungs,urgeurge"
   },
   {
+    "order": 43,
     "start": 117,
     "end": 119.4,
     "text": "and this is when the training starts,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 119.4,
     "end": 122.719,
     "text": "because when you hold your breath on full lungs,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 122.719,
     "end": 125.64,
     "text": "urge to breathe comes like a human is in.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 125.64,
     "end": 129.159,
     "text": "But the time up to that point is not training at all.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 129.159,
     "end": 131.68,
     "text": "Only the time where you have to urge your breath",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 131.68,
     "end": 135.879,
     "text": "and fight against it, that's the time you're actually training.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 135.879,
     "end": 138.52,
-    "text": "So, why train with empty lungs?",
-    "speaker": "lungs"
+    "text": "So why train with empty lungs?",
+    "speaker": null
   },
   {
+    "order": 50,
     "start": 138.52,
     "end": 140.759,
     "text": "Because you have to practice not breathing",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 140.759,
     "end": 142.239,
     "text": "when you need to breathe.",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 52,
     "start": 142.239,
     "end": 143.599,
     "text": "Can you explain further?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 143.599,
-    "end": 144.639,
-    "text": "Of course.",
     "speaker": null
   },
   {
+    "order": 53,
+    "start": 143.599,
+    "end": 144.639,
+    "text": "Of course.",
+    "speaker": "Georgina"
+  },
+  {
+    "order": 54,
     "start": 144.639,
     "end": 147,
     "text": "Normally our breathing is automatic.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 147,
     "end": 149,
     "text": "We don't have to think about it.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 149,
     "end": 151.039,
     "text": "If you hold your breath, there is a point",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 151.039,
     "end": 153.439,
     "text": "where your body tells you that it's time to breathe.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 153.439,
     "end": 156.679,
-    "text": "And at that point, most of us will take a breath, won’t we?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 156.679,
-    "end": 157.759,
-    "text": "Exactly.",
+    "text": "And at that point, most of us will take a breath, won't we?",
     "speaker": null
   },
   {
+    "order": 59,
+    "start": 156.679,
+    "end": 157.759,
+    "text": "Exactly.",
+    "speaker": "urgeurgeurge"
+  },
+  {
+    "order": 60,
     "start": 157.759,
     "end": 161.879,
     "text": "Our body and brain is telling us, go on, breathe, take a breath.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 161.879,
     "end": 165.639,
     "text": "This strong feeling to do something is called an urge.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 165.639,
     "end": 167.319,
     "text": "To hold your breath for a long time,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 167.319,
     "end": 169.12,
     "text": "you have to ignore that urge.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 169.12,
     "end": 171.039,
     "text": "You have to fight against it.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 171.039,
     "end": 175.24,
     "text": "So to train to do that, it's a waste of time taking a big breath",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 175.24,
     "end": 177.96,
     "text": "because holding your breath when you don't need to breathe",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 177.96,
     "end": 179.4,
     "text": "isn't difficult.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 179.4,
     "end": 183.2,
     "text": "You have to practice fighting against that urge to breathe.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 183.2,
     "end": 185.52,
     "text": "Niche did a lot of free diving in lakes",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 185.52,
     "end": 187.56,
     "text": "in his home country of Austria.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 187.56,
     "end": 191.24,
     "text": "Diving in lakes is very different from diving in the ocean.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 191.24,
     "end": 193.92,
     "text": "Here he is describing the experience.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 193.92,
     "end": 195.84,
-    "text": "In the beginning, it's very spooky.",
-    "speaker": null
+    "text": "In the beginning it’s very spooky, ",
+    "speaker": "spookyintimidatingdeprivedsensations"
   },
   {
+    "order": 74,
     "start": 195.84,
     "end": 201.159,
     "text": "And yeah, it's not a pleasant feeling at all in the beginning.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 201.159,
     "end": 205.36,
     "text": "It's something actually quite intimidating.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 205.36,
     "end": 207.759,
     "text": "But after a while, you get used to it",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 207.759,
     "end": 210.439,
     "text": "and you learn to appreciate it actually,",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 210.439,
     "end": 212.719,
     "text": "that it's so quiet.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 212.719,
     "end": 216.199,
     "text": "Quiet and you're deprived of all sensations,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 216.199,
     "end": 219.12,
     "text": "except the cold, of course.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 219.12,
     "end": 221.68,
     "text": "And so you're here at your own heartbeat",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 222.759,
     "end": 225.52,
     "text": "because there's absolutely no sound.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 225.52,
     "end": 228.2,
     "text": "How does he describe the sensation?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 228.2,
-    "end": 232.719,
-    "text": "It's very cold, dark and quiet when diving deep in lakes.",
     "speaker": null
   },
   {
+    "order": 84,
+    "start": 228.2,
+    "end": 232.719,
+    "text": "It’s very cold, dark and quiet when diving deep in lakes ",
+    "speaker": "spookyspooky"
+  },
+  {
+    "order": 85,
     "start": 232.719,
     "end": 236.12,
     "text": "And at first, he says, the experience is spooky.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 236.12,
     "end": 239.48,
     "text": "This means it's a little scary and mysterious.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 239.48,
     "end": 242.92,
     "text": "In the same way, we might find a graveyard at night, spooky.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 242.92,
     "end": 244.24,
     "text": "That kind of feeling.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 244.24,
     "end": 246.56,
     "text": "And he also says it's intimidating,",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 246.56,
     "end": 248.56,
     "text": "which is a feeling of being frightened",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 248.56,
     "end": 252.32,
     "text": "by something stronger and more powerful than you are.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 252.32,
     "end": 253.76,
     "text": "And you experience these feelings",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 253.759,
     "end": 256.879,
     "text": "because you are deprived of all sensations.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 256.879,
     "end": 260.12,
     "text": "When you are deprived of something, it means you don't have it.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 260.12,
     "end": 264.48,
     "text": "It's taken away and sensations are the way we experience the world.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 264.48,
     "end": 267.24,
     "text": "So sound, sight and smell.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 267.24,
     "end": 269.68,
     "text": "Diving in cold, dark, silent waters,",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 269.68,
     "end": 273.039,
     "text": "you are deprived of many of our usual sensations.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 273.039,
     "end": 275.36,
     "text": "And that is spooky and intimidating.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 275.36,
     "end": 279.039,
     "text": "Rather him than me, I don't think I'd like that experience at all.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 279.039,
     "end": 281.199,
     "text": "Right, before we review our vocabulary,",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 281.199,
     "end": 283.839,
     "text": "let's have the answer to the quiz.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 283.839,
     "end": 286.079,
     "text": "How far underwater do you have to go",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 286.079,
     "end": 288.879,
     "text": "until the weight of water is equal in pressure",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 288.879,
     "end": 290.319,
     "text": "to another atmosphere?",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 290.319,
     "end": 292.159,
     "text": "Georgina, what did you say?",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 292.159,
     "end": 294,
     "text": "I thought 100 metres.",
     "speaker": "Georgina"
   },
   {
+    "order": 108,
     "start": 294,
     "end": 297.839,
     "text": "Well, that is actually the equivalent of 10 atmospheres.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 297.839,
     "end": 299.719,
     "text": "So the correct answer is 10 metres.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 299.719,
     "end": 302.24,
     "text": "Every 10 metres of depth in water",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 302.24,
     "end": 304.36,
     "text": "is the equivalent to the weight and pressure",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 304.36,
     "end": 306.879,
     "text": "of the air above us at sea level.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 306.879,
     "end": 309.319,
     "text": "There is a difference between fresh and salt water,",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 309.319,
     "end": 312.199,
     "text": "but it's not so much as to make your answer correct.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 312.199,
     "end": 313.879,
     "text": "Well done if you got that right.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 313.879,
     "end": 316.92,
-    "text": "Well I was clearly out of my depth with that question.",
+    "text": "Well I was clearly out of my depth with that question. ",
     "speaker": "Georgina"
   },
   {
+    "order": 117,
     "start": 316.92,
     "end": 318.959,
     "text": "And you were now vocabulary.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 318.959,
     "end": 322.92,
-    "text": "You were! Now vocabulary. The part of our body that holds our breath is our lungs.",
-    "speaker": "lungs"
+    "text": "The part of our body that holds our breath is our lungs.",
+    "speaker": null
   },
   {
+    "order": 119,
     "start": 322.92,
     "end": 327,
     "text": "A very strong need or desire to do something like breath is an urge.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 327,
     "end": 330.439,
     "text": "Something spooky is a little scary and mysterious.",
-    "speaker": "spooky"
+    "speaker": "urge"
   },
   {
+    "order": 121,
     "start": 330.439,
     "end": 332.439,
     "text": "And it can also be intimidating,",
-    "speaker": null
+    "speaker": "intimidating"
   },
   {
+    "order": 122,
     "start": 332.439,
     "end": 335.48,
     "text": "which means it's overpowering and frightening in a way",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 335.48,
     "end": 337.48,
     "text": "that makes you less confident.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 337.48,
     "end": 339.72,
     "text": "And to be deprived of sensations",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 339.72,
     "end": 343.72,
     "text": "means to have certain feelings like touch and hearing taken away.",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 343.72,
     "end": 346.2,
     "text": "So Georgina, do you fancy free diving?",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 346.2,
     "end": 349,
     "text": "Well, would I like to go hundreds of metres down",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 349,
     "end": 351.56,
     "text": "in cold, dark, silent water",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 129,
     "start": 351.56,
     "end": 353.48,
     "text": "without any breathing equipment?",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 353.48,
     "end": 354.759,
     "text": "Let me think about that.",
     "speaker": null
   },
   {
+    "order": 131,
     "start": 354.759,
     "end": 355.64,
     "text": "I've thought about it.",
     "speaker": null
   },
   {
+    "order": 132,
     "start": 355.64,
     "end": 356.439,
     "text": "No, thank you.",
     "speaker": null
   },
   {
+    "order": 133,
     "start": 356.439,
     "end": 358.68,
     "text": "Not my cup of tea either.",
     "speaker": null
   },
   {
+    "order": 134,
     "start": 358.68,
     "end": 362.12,
     "text": "And speaking of tea, it's time for us to go and get a cup of.",
     "speaker": null
   },
   {
+    "order": 135,
     "start": 362.12,
     "end": 363.4,
     "text": "That's all from us.",
     "speaker": null
   },
   {
+    "order": 136,
     "start": 363.4,
     "end": 364.52,
     "text": "Do join us next time.",
     "speaker": null
   },
   {
+    "order": 137,
     "start": 364.519,
     "end": 366.919,
     "text": "And if you get lonely, you can find us online",
     "speaker": null
   },
   {
+    "order": 138,
     "start": 366.919,
     "end": 369.959,
     "text": "on social media and on the BBC Learning English app.",
     "speaker": null
   },
   {
+    "order": 139,
     "start": 369.959,
     "end": 370.839,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 140,
     "start": 370.839,
     "end": 372.039,
-    "text": "Bye!",
-    "speaker": "Georgina"
+    "text": "Bye.",
+    "speaker": null
   },
   {
+    "order": 141,
     "start": 372.039,
     "end": 374.039,
     "text": "Six minutes English.",
     "speaker": null
   },
   {
+    "order": 142,
     "start": 374.039,
     "end": 376.199,
     "text": "From BBC Learning English.",

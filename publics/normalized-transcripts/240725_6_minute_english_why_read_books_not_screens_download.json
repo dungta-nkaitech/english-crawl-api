@@ -1,446 +1,520 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 8,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 8,
     "end": 12,
     "text": "Hello, this is 6-minute English from BBC Learning English, I'm Phil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12,
     "end": 16,
     "text": "And I'm Georgie. For me, there's nothing like reading a book.",
-    "speaker": null
+    "speaker": "Phil"
   },
   {
+    "order": 3,
     "start": 16,
     "end": 20,
     "text": "I love turning the pages and the smell of the paper.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 20,
     "end": 26,
     "text": "But nowadays, the fact is that much of the time we read from electronic screens, not paper.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 26,
     "end": 29,
-    "text": "Yes, like Georgie, I love books.",
-    "speaker": null
+    "text": "Yes. Like Georgie, I love books.",
+    "speaker": "Phil"
   },
   {
+    "order": 6,
     "start": 29,
     "end": 33,
     "text": "I also find that too much screen time hurts my eyes.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 33,
     "end": 39,
-    "text": "Yes. Like Georgie, I love books. I also find that too much screen time hurts my eyes. But the availability of digital information means that I end up reading from screens most days.",
-    "speaker": "Phil"
+    "text": "But the availability of digital information means that I end up reading from screens most days.",
+    "speaker": null
   },
   {
+    "order": 8,
     "start": 39,
     "end": 43,
     "text": "So, apart from sore eyes, is this a problem?",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 43,
     "end": 50,
     "text": "Is reading from screens harmless or could it be damaging us in some way, such as reducing our attention span?",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 50,
     "end": 54,
     "text": "The length of time that someone can keep concentrated on what they are doing?",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 54,
     "end": 60,
     "text": "That's what we'll be discussing in this programme. And of course, we'll be learning some useful new vocabulary too.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 60,
     "end": 64,
-    "text": "Great, but first, it's time for my question.",
-    "speaker": null
+    "text": "Great, but first it’s time for my question. ",
+    "speaker": "Phil"
   },
   {
+    "order": 13,
     "start": 64,
     "end": 72,
     "text": "Whether you prefer paper or screens, as humans, we're now reading more words than ever before.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 72,
     "end": 78,
     "text": "So, how many words does the average person read a day?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 78,
     "end": 88,
     "text": "Is it a 50,000 words, b 100,000 words, or c 200,000 words?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 88,
     "end": 91,
     "text": "I guess it's 50,000 words a day.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 91,
     "end": 96,
     "text": "Okay, Georgie, we'll find out the correct answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 96,
     "end": 100,
     "text": "Of course, there's little doubt that any kind of reading is good for you.",
-    "speaker": null
+    "speaker": "Georgie"
   },
   {
+    "order": 19,
     "start": 100,
     "end": 106,
     "text": "Here's Cressida Cow, author of the How to Train Your Dragon Children's Books,",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 106,
     "end": 108,
     "text": "which is speaking with BBC Ideas.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 108,
     "end": 116,
     "text": "Reading brings three magical powers, creativity, intelligence and empathy.",
-    "speaker": null
+    "speaker": "for the joy of it"
   },
   {
+    "order": 22,
     "start": 116,
     "end": 120,
     "text": "Reading for the joy of it is one of the two key factors in a kid's later economic success.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 120,
     "end": 125,
     "text": "You're more likely to not be in prison, to vote, to own your own home.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 125,
     "end": 130,
     "text": "All of these advantages and benefits happen as a result of lip-seeing.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 130,
     "end": 134,
     "text": "Cressida talks about the importance of reading for the joy of it.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 134,
     "end": 139,
     "text": "When you do an activity for the joy of it, you do it simply for the pleasure of doing it,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 139,
     "end": 142,
     "text": "rather than as a way to gain something else.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 142,
     "end": 148,
-    "text": "Cressida lists the many benefits of reading for children, including economic success in later life,",
-    "speaker": null
+    "text": "Cressida lists the many benefits of reading for children, including economic success in later life.",
+    "speaker": "Phil"
   },
   {
+    "order": 29,
     "start": 148,
     "end": 154,
     "text": "but many of these benefits depend on a state known as deep reading,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 154,
     "end": 160,
     "text": "analysing a text to understand its deeper meaning, and in test after test,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 160,
     "end": 166,
     "text": "researchers have shown that deep reading skills develop better when kids read from books.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 166,
     "end": 172,
     "text": "Professor Marianne Wolfe is a teacher and advocate for children's literacy around the world.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 172,
     "end": 176,
     "text": "Here she explains more about deep reading to BBC Ideas.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 176,
     "end": 180,
     "text": "When we read at a surface level, we're just getting the information.",
-    "speaker": null
+    "speaker": "surface levelanalogiesinferences"
   },
   {
+    "order": 35,
     "start": 180,
     "end": 186,
     "text": "When we read deeply, we use much more of our cerebral cortex.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 186,
     "end": 194,
     "text": "Deep reading means that we make analogies, we make inferences, which allows us to be truly critical",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 194,
     "end": 198,
     "text": "and a lidic, empathic human beings.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 198,
     "end": 205,
-    "text": "The reality is, it's not what or how much we read, but how we read that's really important.",
-    "speaker": null
+    "text": "The reality is, it's not what, or how much we read but how we read, that's really important",
+    "speaker": "skimming"
   },
   {
+    "order": 39,
     "start": 205,
     "end": 214,
     "text": "The very volume is having negative effects because to absorb that much, there's a propensity towards skinny.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 214,
     "end": 220,
     "text": "Professor Wolfe's research shows that reading from screens encourages reading at the surface level,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 220,
     "end": 225,
     "text": "quickly and superficially looking at what can be easily understood.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 225,
     "end": 229,
     "text": "Reading books, on the other hand, activates different areas of the brain,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 229,
     "end": 233,
     "text": "allowing a reader to develop positive traits like empathy,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 233,
     "end": 239,
     "text": "and to understand the deeper level of a book, including analogies and inferences.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 239,
     "end": 243,
     "text": "An analogy is a comparison between things that have similar features.",
-    "speaker": null
+    "speaker": "on the surface level"
   },
   {
+    "order": 46,
     "start": 243,
     "end": 249,
     "text": "For example, you might talk about the human heart using the analogy of a pump.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 249,
     "end": 255,
-    "text": "An inference is a guess, opinion or conclusion that you make based on the information you already have.",
-    "speaker": null
+    "text": "An inference is a guess, opinion, or conclusion that you make based on the information you already have",
+    "speaker": "inference inference"
   },
   {
+    "order": 48,
     "start": 255,
     "end": 260,
     "text": "For example, seeing smoke in the distance, you would make an inference that there's fire.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 260,
     "end": 265,
     "text": "It's these types of deeper, more subtle understanding that we get from reading books.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 265,
     "end": 270,
     "text": "So why is it that reading from screens doesn't develop these skills in the same way?",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 270,
     "end": 274,
     "text": "Well, the answer has to do with the volume.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 274,
     "end": 281,
     "text": "The sheer number of words, pens and notifications that screens bombard us with every day.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 281,
     "end": 285,
     "text": "Instead of deep reading, this encourages skimming,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 285,
     "end": 289,
     "text": "reading rapidly in order to get a general overview of something.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 289,
     "end": 293,
     "text": "I think it's time to reveal the answer to my question, Georgie.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 293,
     "end": 299,
     "text": "I asked you how many words does the average modern person read a day?",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 299,
     "end": 302,
     "text": "And I guess it was 50,000 words.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 302,
     "end": 304,
     "text": "Well, you were half right.",
-    "speaker": null
+    "speaker": "Georgie"
   },
   {
+    "order": 59,
     "start": 304,
     "end": 308,
     "text": "In fact, the correct answer was double that.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 308,
     "end": 312,
     "text": "100,000 words. Right.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 312,
     "end": 315,
     "text": "Let's recap the vocabulary we've learnt from this programme,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 315,
     "end": 322,
     "text": "starting with attention span, the length of time that someone can stay concentrated on one thing.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 322,
     "end": 327,
-    "text": "If you do something for the joy of it, you do it simply for the pleasure you get, rather than as a way to get something else.",
-    "speaker": "for the joy of it"
+    "text": "If you do something for the joy of it, you do it simply for the pleasure you get,",
+    "speaker": null
   },
   {
+    "order": 64,
     "start": 327,
     "end": 329,
     "text": "rather than as a way to get something else.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 329,
     "end": 335,
-    "text": "The phrase on the surface level describes looking at something quickly and superficially rather than trying to understand its full, deeper meaning.",
-    "speaker": "on the surface level"
+    "text": "The phrase on the surface level describes looking at something quickly and superficially,",
+    "speaker": null
   },
   {
+    "order": 66,
     "start": 335,
     "end": 339,
     "text": "rather than trying to understand its full, deeper meaning.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 339,
     "end": 343,
     "text": "An analogy is a comparison between things that have similar features.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 343,
     "end": 346,
     "text": "For example, a human heart and a pump.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 346,
     "end": 352,
     "text": "And an inference is a guess or conclusion that you make based on the information you already have,",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 352,
     "end": 355,
     "text": "like inferring fire from seeing smoke.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 355,
     "end": 362,
-    "text": "And finally, skimming is reading rapidly in order to get a general overview of the text being read. Once again, our six minutes are up. Goodbye for now!",
+    "text": "And finally, skimming is reading rapidly in order to get a general overview of the text being read.",
     "speaker": "skimming"
   },
   {
+    "order": 72,
     "start": 362,
     "end": 365,
     "text": "Once again, our six minutes are up. Good bye for now.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 365,
     "end": 366,
-    "text": "Bye!",
-    "speaker": "Georgie"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

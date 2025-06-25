@@ -1,689 +1,804 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.56,
     "text": "From BBC Learning English",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.519,
     "end": 15.919,
     "text": "Hello and welcome to 6 Minute English.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 15.919,
     "end": 16.96,
     "text": "I'm Cuthren.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 16.96,
     "end": 18.08,
     "text": "And I'm Rob.",
-    "speaker": null
+    "speaker": "Catherine"
   },
   {
+    "order": 7,
     "start": 18.08,
     "end": 20.32,
     "text": "And today we'll bring you a techie topic",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 20.32,
     "end": 22.96,
     "text": "along with 6 up-to-date vocabulary items.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 22.96,
     "end": 23.76,
     "text": "That's right.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 23.76,
     "end": 27.519,
     "text": "And today's techie topic is smartphones.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 27.599,
     "end": 30.879,
     "text": "So Rob, can you tell me which age group",
-    "speaker": null
+    "speaker": "Catherine"
   },
   {
+    "order": 12,
     "start": 30.879,
     "end": 34.479,
     "text": "have been buying smartphones at the fastest rate",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 13,
     "start": 34.479,
     "end": 37.679,
     "text": "over the last five years here in the UK?",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 37.679,
     "end": 40.96,
     "text": "Is it A 15 to 35-year-olds?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 41.92,
     "end": 45.28,
     "text": "B 35 to 55-year-olds?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 45.28,
     "end": 48.879,
     "text": "Or C 55 to 75-year-olds?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 48.879,
     "end": 50.879,
     "text": "OK. It's got to be the youngsters, hasn't it?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 50.879,
     "end": 53.439,
     "text": "It's got to be the 15 to 35-year-olds.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 53.439,
     "end": 55.92,
     "text": "Oh, well, we'll see whether you got that right or wrong",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 20,
     "start": 55.92,
     "end": 57.28,
     "text": "later on in the show.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 57.359,
     "end": 59.039,
     "text": "Now, Rob, a question.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 59.039,
     "end": 61.359,
     "text": "How old is your smartphone?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 61.359,
     "end": 63.679,
     "text": "OK, well mine, I bought a couple of years ago.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 63.679,
     "end": 64.879,
     "text": "And are you happy with it?",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 64.879,
-    "end": 66.719,
-    "text": "Yes, I am. It works just fine.",
-    "speaker": null
-  },
-  {
-    "start": 66.719,
-    "end": 68.32,
-    "text": "Yes, I am. It works just fine – it does everything I need it to do.",
     "speaker": "Rob"
   },
   {
-    "start": 68.32,
-    "end": 71.04,
-    "text": "So you're not worried about not having the latest model?",
-    "speaker": "Catherine"
+    "order": 25,
+    "start": 64.879,
+    "end": 66.719,
+    "text": "Yes, I am. It works just fine ",
+    "speaker": "Rob"
   },
   {
-    "start": 71.599,
-    "end": 73.599,
-    "text": "Not at all. My phone works really well.",
+    "order": 26,
+    "start": 66.719,
+    "end": 68.32,
+    "text": "It does everything I need it to do.",
     "speaker": null
   },
   {
+    "order": 27,
+    "start": 68.32,
+    "end": 71.04,
+    "text": "So you're not worried about not having the latest model?",
+    "speaker": null
+  },
+  {
+    "order": 28,
+    "start": 71.599,
+    "end": 73.599,
+    "text": "Not at all. My phone works really well ",
+    "speaker": "Rob"
+  },
+  {
+    "order": 29,
     "start": 73.599,
     "end": 75.84,
     "text": "It has all the functionality I need.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 75.84,
     "end": 78.64,
     "text": "And I'm not convinced that the latest model offers",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 78.64,
     "end": 80.64,
     "text": "any more than the one I've got, to be honest.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 80.64,
     "end": 84.64,
     "text": "Right. Well, functionality refers to the range of functions",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 84.64,
     "end": 87.92,
     "text": "a computer or other electronic device can perform.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 88.719,
     "end": 92.079,
     "text": "So let's listen now to Andrew Olowsky",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 92.079,
     "end": 94.96,
     "text": "from the tech news website, The Register.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 96,
     "end": 98.879,
     "text": "He explains why people are holding onto their phones",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 98.879,
     "end": 103.28,
     "text": "longer instead of rushing out to buy the latest model of phone.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 103.28,
     "end": 106.48,
     "text": "What's happened is that prices have gone up at the high end.",
-    "speaker": null
+    "speaker": "Andrew Orlowski, The Register"
   },
   {
+    "order": 39,
     "start": 106.48,
     "end": 109.68,
     "text": "And it's a kind of a cycle where people hang on to their phones for longer.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 109.68,
     "end": 112.24,
     "text": "Therefore, manufacturers charge more.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 112.319,
     "end": 116.239,
     "text": "And then people hang on to them longer to justify that higher purchase.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 117.039,
     "end": 120.64,
     "text": "So big brand names like iPhone and Samsung make phones",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 120.64,
     "end": 123.839,
     "text": "at the high end of the market, meaning the expensive ones.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 123.839,
     "end": 127.119,
     "text": "So once people have bought a handset, they hang onto it.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 127.119,
     "end": 129.28,
     "text": "If you hang onto something, you keep it.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 129.28,
     "end": 133.439,
     "text": "I've been hanging onto my phone for a couple of years and I'm hoping I won't need to change it",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 133.439,
     "end": 135.039,
     "text": "for another year or so, at least.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 135.68,
     "end": 139.599,
-    "text": "But what happens is if people aren't replacing their phones,",
-    "speaker": null
+    "text": "But what happens is, if people aren't replacing their phones",
+    "speaker": "Catherine"
   },
   {
+    "order": 49,
     "start": 139.599,
     "end": 142.719,
     "text": "the phone manufacturers don't make a big enough profit.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 142.719,
     "end": 145.12,
     "text": "So they start charging more.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 145.12,
     "end": 149.039,
     "text": "And this in turn makes people hang onto their phones even longer.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 149.039,
     "end": 152.56,
     "text": "So that's why Andrew Olowsky calls it a cycle.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 152.56,
     "end": 156.479,
     "text": "That's where one event leads to another and then off to repeats itself.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 156.479,
     "end": 158,
     "text": "So where will the cycle end?",
     "speaker": "Catherine"
   },
   {
+    "order": 55,
     "start": 158,
     "end": 158.959,
     "text": "Good question.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 158.959,
     "end": 163.84,
-    "text": "Good question! Let's listen to Andrew again, talking about where he thinks the smartphone market is heading.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 163.84,
-    "end": 168.719,
-    "text": "I think it's a very mature market now and you have to compare say a £900",
+    "text": "Let's listen to Andrew again talking about where he thinks the smartphone market is heading.",
     "speaker": null
   },
   {
+    "order": 57,
+    "start": 163.84,
+    "end": 168.719,
+    "text": "I think it's a very mature market now and you have to compare say a £900",
+    "speaker": "Andrew Orlowski, The Register"
+  },
+  {
+    "order": 58,
     "start": 168.719,
     "end": 174.879,
     "text": "galaxy note or a £1000 iPhone with a spectacular TV, you can £49",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 174.879,
     "end": 177.039,
     "text": "inch TV, you can get for £450.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 177.039,
     "end": 181.599,
     "text": "Now longer has that kind of must-have luster that it might have had four or five years ago.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 182.319,
     "end": 184.719,
-    "text": "What does 'mature' mean, Rob?",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 184.719,
-    "end": 186.319,
-    "text": "Mature means fully grown.",
+    "text": "So what does mature mean, Rob?",
     "speaker": null
   },
   {
+    "order": 62,
+    "start": 184.719,
+    "end": 186.319,
+    "text": "Mature means fully grown.",
+    "speaker": "Rob"
+  },
+  {
+    "order": 63,
     "start": 186.319,
     "end": 188.719,
     "text": "We're mature adults, for example, gathering.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 188.719,
     "end": 193.919,
-    "text": "Mature means fully-grown – we're mature adults for example, Catherine! And in a business context, a mature market is where supply is equal to demand.",
+    "text": "And in a business context, a mature market is where supply is equal to demand.",
     "speaker": "Mature"
   },
   {
+    "order": 65,
     "start": 194.56,
     "end": 198.24,
     "text": "And if something has must-have luster, what's that?",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 198.719,
     "end": 201.759,
-    "text": "A must-have item is something you feel you must have. And lustre means shine.",
+    "text": "A must-have item is something you feel you must have.",
     "speaker": "must-havelustre"
   },
   {
+    "order": 67,
     "start": 201.759,
     "end": 203.759,
     "text": "And luster means shine.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 203.759,
     "end": 208.879,
     "text": "Ooh, I love shining new things, especially when it's a nice piece of new tech.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 209.68,
     "end": 213.68,
     "text": "But £1000 is a lot of money for a phone.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 213.68,
     "end": 219.84,
     "text": "A spectacular £49 inch TV for only £450 sells like a bargain though.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 220.4,
     "end": 222.4,
     "text": "My TV's only got a small screen.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 222.4,
     "end": 224.24,
     "text": "Yeah, we'll stop there, Catherine.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 224.24,
     "end": 226.56,
-    "text": "Stop there, Catherine! It's time for the answer to today's question.",
-    "speaker": "Rob"
+    "text": "It's time for the answer to today's question.",
+    "speaker": null
   },
   {
+    "order": 74,
     "start": 227.199,
     "end": 234.56,
     "text": "Okay, so which age group have been buying smartphones at the fastest rate over the last five years",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 234.56,
     "end": 239.12,
     "text": "here in the UK? Is it a 15 to 35-year-olds,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 239.84,
     "end": 245.84,
     "text": "b 35 to 55-year-olds, or c 55 to 75-year-olds?",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 246.48,
     "end": 250,
     "text": "And I said the youngsters 15 to 35-year-olds.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 250,
     "end": 253.599,
     "text": "And you are absolutely wrong, I'm afraid, Rob.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 253.599,
     "end": 256.879,
     "text": "The answer is 55 to 75-year-olds.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 256.879,
     "end": 262.079,
     "text": "Although research also highlighted that this age group tended to use their smartphones",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 81,
     "start": 262.079,
     "end": 269.199,
     "text": "less than younger people, the study was based on a sample of 1163 people questioned",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 269.199,
     "end": 271.759,
     "text": "between May and June in 2017.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 271.759,
     "end": 273.199,
     "text": "Hmm, interesting.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 273.199,
     "end": 276.719,
     "text": "Okay, well I think it's time we looked back at the words we learned today.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 276.719,
     "end": 281.519,
     "text": "Our first word is functionality, which refers to the range of functions a computer",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 86,
     "start": 281.519,
     "end": 284,
     "text": "or other electronic device can perform.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 284,
     "end": 289.12,
-    "text": "'These two computers are similar in terms of both their price and functionality.'",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 289.12,
-    "end": 290.399,
-    "text": "Good example, Catherine.",
+    "text": "These two computers are similar in terms of both their price and functionality.",
     "speaker": null
   },
   {
+    "order": 88,
+    "start": 289.12,
+    "end": 290.399,
+    "text": "Good example Catherine. ",
+    "speaker": "Rob"
+  },
+  {
+    "order": 89,
     "start": 290.399,
     "end": 293.599,
     "text": "Number two, if you hang on to something, you keep it.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 293.599,
     "end": 297.039,
     "text": "For example, you should hang on to your old TV, Catherine.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 297.039,
     "end": 299.359,
     "text": "There's nothing wrong with a 30-inch screen.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 299.359,
     "end": 301.199,
     "text": "Thanks for the advice, Rob.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 301.199,
     "end": 303.599,
     "text": "And our next word is cycle.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 303.599,
     "end": 307.68,
     "text": "That's where one event leads to another and then often repeats itself.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 308.319,
     "end": 314,
     "text": "For example, I'm in a bad cycle of going to bed late and then over sleeping in the morning.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 314,
     "end": 315.68,
     "text": "You need to sort yourself out, Catherine.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 316.56,
     "end": 321.439,
     "text": "You're spending too much time on social media and all that blue screen time makes it very hard",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 321.439,
     "end": 324.72,
     "text": "to fall asleep. The last thing you need is a bigger TV.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 325.439,
     "end": 326.319,
     "text": "You're probably right.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 327.04,
     "end": 332.319,
     "text": "Okay, so the adjective mature means fully grown or fully developed.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 332.319,
     "end": 334.24,
     "text": "And here's an example of the verb form.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 334.56,
     "end": 338.96,
     "text": "My investments have matured and they're worth a lot of money now.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 338.96,
     "end": 340.639,
-    "text": "Right, moving on.",
-    "speaker": null
+    "text": "Right moving on, ",
+    "speaker": "Rob"
   },
   {
+    "order": 104,
     "start": 340.639,
     "end": 344.16,
     "text": "A must-have item is something you feel you must have.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 344.16,
     "end": 348.8,
-    "text": "Right moving on, a 'must-have item' is something you feel you must have! For example, 'Check out the latest must-have tech bargains on our website!'",
-    "speaker": "Rob"
+    "text": "For example, check out the latest must-have tech bargains on our website.",
+    "speaker": null
   },
   {
+    "order": 106,
     "start": 348.8,
     "end": 350.079,
     "text": "Like a huge TV.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 350.079,
     "end": 351.04,
     "text": "Yes.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 351.04,
     "end": 354.48,
     "text": "And finally, luster, which means shine.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 354.48,
     "end": 360.079,
     "text": "For example, I polished my brass door knob until it's shone with a pleasing luster.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 360.079,
     "end": 363.6,
     "text": "Okay, so before Rob heads off to polish his door knob,",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 363.76,
     "end": 366.56,
     "text": "and I nip out to buy a big new television,",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 366.56,
     "end": 370.24,
     "text": "please remember to check out our Facebook, Twitter and YouTube pages.",
+    "speaker": "Rob"
+  },
+  {
+    "order": 113,
+    "start": 370.879,
+    "end": 371.439,
+    "text": "Bye-bye.",
     "speaker": null
   },
   {
-    "start": 370.879,
-    "end": 371.439,
-    "text": "Bye!",
-    "speaker": "Rob/Catherine"
-  },
-  {
+    "order": 114,
     "start": 371.439,
     "end": 371.84,
     "text": "Bye.",

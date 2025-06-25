@@ -1,371 +1,433 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 2.64,
     "text": "6-Mete English",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 2.64,
     "end": 5.679,
     "text": "From BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 7.679,
     "end": 11.839,
     "text": "Hello, this is 6-Minute English from BBC Learning English. I'm Neil",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 11.839,
     "end": 13.12,
-    "text": "And I’m Beth.",
-    "speaker": "Beth"
+    "text": "And I'm Beth",
+    "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 13.12,
     "end": 20.719,
     "text": "Many of those leading the fight against climate change are young people who feel betrayed by politicians and adults.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 20.719,
     "end": 25.76,
     "text": "In survey after survey, children report feeling that they have no future,",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 25.76,
     "end": 29.76,
     "text": "that humanity is doomed and that governments are failing to act.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 29.92,
     "end": 34.64,
     "text": "This is causing many young people to feel worried about the state of the planet.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 34.64,
     "end": 40.96,
     "text": "There's even a name for it, climate anxiety, and it's also creating conflict between adults",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 40.96,
     "end": 43.6,
     "text": "and children in families and schools.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 43.6,
     "end": 48.719,
-    "text": "What's certain is that a solution to the climate emergency needs the cooperation of everyone,",
-    "speaker": null
+    "text": "What’s certain is that a solution to the climate emergency needs the cooperation of everyone,",
+    "speaker": "Neil"
   },
   {
+    "order": 11,
     "start": 48.719,
     "end": 54.88,
     "text": "both old and young. So can talking honestly about the climate help mend the divisions",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 54.88,
     "end": 58.96,
     "text": "between generations. That's what we'll be discussing in this programme,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 58.96,
     "end": 61.2,
     "text": "along with some useful new vocabulary.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 61.2,
     "end": 67.04,
     "text": "But first I have a question for you, Neil. Many young people's hopes and fears about",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 67.04,
     "end": 73.04,
     "text": "climate change are symbolised by the Swedish activist Greta Tumberg. These days, Greta",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 73.04,
     "end": 79.76,
     "text": "travels the world speaking about the climate emergency, but her protests started much smaller",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 79.84,
     "end": 85.6,
     "text": "in her hometown Stockholm. So how did Greta Tumberg's climate activism begin?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 86.24,
     "end": 90.24,
-    "text": "a)    plant trees in her school garden?",
-    "speaker": "Beth"
+    "text": "Did she, A, plant trees in her school garden,",
+    "speaker": null
   },
   {
+    "order": 19,
     "start": 90.24,
     "end": 96.48,
-    "text": "c)    recycle her school’s plastic waste?",
+    "text": "B skip school on Fridays, or C recycle her school's plastic waste?",
     "speaker": "Beth"
   },
   {
+    "order": 20,
     "start": 97.52,
     "end": 102.16,
     "text": "I think Greta Tumberg went on strike and skipped school on Fridays.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 102.16,
     "end": 105.84,
     "text": "Okay, Neil. I will reveal the correct answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 106.4,
     "end": 111.52,
     "text": "One recent survey showed that three quarters or more of young people in the UK",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 111.52,
     "end": 119.68,
     "text": "feel the future is frightening. Here, Mee aged 14 and Milly 11 share some of their fears with",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 119.68,
     "end": 126.719,
     "text": "BBC ideas. If climate change were like an animal or a plant, I think it'd be some sort of parasite",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 127.68,
     "end": 133.439,
     "text": "because it's the only thing that's actually growing and getting bigger while everything else",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 26,
     "start": 133.439,
     "end": 140.4,
     "text": "starts dying off. I think climate change is like really scary and the fact that lots of people",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 140.4,
     "end": 146.079,
     "text": "aren't doing much about it just sort of freaks me out. The environment is definitely very special",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 146.079,
     "end": 151.759,
     "text": "because if we get rid of it, there's nowhere else we can go. Like it's a very one-in-a-million",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 151.759,
     "end": 158.879,
     "text": "sort of planet. Mee calls climate change a parasite. In the natural world, a parasite is an animal",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 158.879,
     "end": 164.56,
     "text": "or plant that lives on another living thing and feeds from it. If you describe a person as a",
-    "speaker": null
+    "speaker": "one in a million"
   },
   {
+    "order": 31,
     "start": 164.56,
     "end": 170.24,
     "text": "parasite, you mean they are lazy and live off other people supporting them or giving them money.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 170.799,
     "end": 177.199,
     "text": "Likewise, Mee thinks climate change is sucking the goodness out of the planet and she uses a",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 177.199,
     "end": 184.479,
     "text": "slang idiom to describe her feelings. It freaks me out. If something freaks you out, it makes you",
-    "speaker": null
+    "speaker": "freaks me out!freaks you out"
   },
   {
+    "order": 34,
     "start": 184.479,
     "end": 191.919,
     "text": "become very emotional, upset or confused. Mee agrees what freaks her out is that governments don't",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 191.919,
     "end": 198.319,
     "text": "seem to be doing much about the problem. It's not as if we can escape anywhere. Humankind only has",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 198.319,
     "end": 206.239,
     "text": "one home, planet Earth. Mee calls Earth one in a million, meaning very special or rare. So what can",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 206.239,
     "end": 212.159,
     "text": "be done? Psychotherapist Caroline Hickman has visited 10 countries around the world talking to",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 212.159,
     "end": 218.639,
     "text": "over 100,000 teenagers about their climate fears. They told her about parents ignoring them when",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 218.639,
     "end": 224.079,
     "text": "they wanted to discuss their feelings and adults telling them fixing the planet is your job now.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 224.879,
     "end": 229.599,
     "text": "Here she gives BBC ideas some advice on discussing climate change with children.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 230.639,
     "end": 238.96,
-    "text": "My advice to adults, parents, teachers, is do not put it off. Don't push it away. Don't save it up",
-    "speaker": null
+    "text": "My advice to adults, parents, teachers, is do not put it off, don't push it away. Don't save it up",
+    "speaker": "put it offpush it away."
   },
   {
+    "order": 42,
     "start": 239.04,
     "end": 246.64,
     "text": "and just have that big conversation. Talk about it regularly. That's crucial. And it's okay for",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 246.64,
     "end": 252.159,
     "text": "you to say to your children, I don't have all the answers. We're not sure exactly how to deal with",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 252.159,
     "end": 259.68,
     "text": "all of this, but let's find out together. Caroline's top tip is to discuss the climate crisis regularly",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 259.68,
     "end": 266.24,
-    "text": "Caroline’s top tip is to discuss the climate crisis regularly, to talk with children about their climate fears and not put it off – not delay talking about it until later.",
-    "speaker": "put it off"
+    "text": "to talk with children about their climate fears and not put it off. Not delay talking about it",
+    "speaker": null
   },
   {
+    "order": 46,
     "start": 266.24,
     "end": 273.36,
     "text": "until later. Caroline also advises parents not to push it away to choose to forget about or ignore",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 273.36,
     "end": 279.84,
     "text": "the subject. A better response is to tell kids honestly. We don't have all the answers, but by",
-    "speaker": null
+    "speaker": "push it away"
   },
   {
+    "order": 48,
     "start": 279.84,
     "end": 285.759,
     "text": "sharing ideas we can work things out together. A more hopeful message. A one that shared by",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 285.759,
     "end": 292.079,
     "text": "climate champion Greta Tunberg. Yes, and it's time to reveal the answer to my question. How did",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 292.319,
     "end": 298.079,
-    "text": "I said it was by skipping school on Fridays…",
-    "speaker": "Neil"
-  },
-  {
-    "start": 298.079,
-    "end": 305.759,
-    "text": "Which was the correct answer. Greta started her school strike for climate in August 2018",
+    "text": "Greta Tunberg's climate activism begin, Neil? I said it was by skipping school on Fridays.",
     "speaker": null
   },
   {
+    "order": 51,
+    "start": 298.079,
+    "end": 305.759,
+    "text": "Which was the correct answer. Greta started her school strike for climate in August 2018",
+    "speaker": "Neil"
+  },
+  {
+    "order": 52,
     "start": 305.759,
     "end": 313.839,
     "text": "before it was taken up by over 1.6 million school children from 125 countries around the world.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 313.839,
     "end": 320.479,
     "text": "Okay, let's recap the vocabulary we've learned from this program starting with climate anxiety,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 320.48,
     "end": 327.04,
     "text": "feeling worried, afraid or depressed because of climate change. A parasite is an animal or plant",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 327.04,
     "end": 332.879,
     "text": "that feeds off another living thing. If something makes you feel very emotional or upset,",
-    "speaker": null
+    "speaker": "parasite"
   },
   {
+    "order": 56,
     "start": 332.879,
     "end": 339.12,
     "text": "you might say it freaks me out. The idiom one in a million describes something which is extremely",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 339.12,
     "end": 345.68,
     "text": "special, rare or unlikely. And finally two phrasal verbs to finish with, to put something off,",
-    "speaker": null
+    "speaker": "one in a million"
   },
   {
+    "order": 58,
     "start": 345.68,
     "end": 351.92,
     "text": "which means to delay doing it till later and to push something away, which means to decide to",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 351.92,
     "end": 358.72,
     "text": "forget about or ignore it. Once again, our six minutes are up. But remember to join us again soon",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 358.72,
     "end": 364.72,
     "text": "for more trending topics and useful vocabulary here at six minutes English. Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 364.72,
     "end": 365.199,
     "text": "Goodbye.",

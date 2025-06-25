@@ -1,437 +1,510 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7.679,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7.679,
     "end": 12.28,
     "text": "Hello, this is 6 Minute English from BBCLearningEnglish. I'm Phil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.28,
     "end": 17.679,
     "text": "And I'm Georgie. For most parents, their baby's first word is a special moment.",
-    "speaker": null
+    "speaker": "Phil"
   },
   {
+    "order": 3,
     "start": 17.679,
     "end": 21.92,
     "text": "This happens after an early stage of language development called Babel,",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 21.92,
     "end": 26,
     "text": "when babies start making simple sounds like Gah or Ma.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 26.079,
     "end": 30.8,
     "text": "Babies have to learn to use their mouth muscles to make specific sounds.",
-    "speaker": null
+    "speaker": "Phil"
   },
   {
+    "order": 6,
     "start": 30.8,
     "end": 34.32,
     "text": "They experiment with different sounds and mouth shapes.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 34.32,
     "end": 39.359,
     "text": "So what exactly is happening when babies start learning to speak?",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 39.359,
     "end": 40.719,
     "text": "What do you think Georgie?",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 40.719,
     "end": 44.879,
-    "text": "Well, Phil, I'm no expert, but I imagine they watch the adults around them and kind of copy and imitate what they do. What do you think?",
-    "speaker": "Georgie"
+    "text": "Well, Phil, I'm no expert, but I imagine they watch the adults around them",
+    "speaker": null
   },
   {
+    "order": 10,
     "start": 44.879,
     "end": 48.56,
     "text": "and kind of copy and imitate what they do. What do you think?",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 48.56,
     "end": 52.799,
     "text": "I definitely think that's what my children did when they were learning to speak.",
-    "speaker": null
+    "speaker": "Phil"
   },
   {
+    "order": 12,
     "start": 53.679,
     "end": 57.679,
     "text": "Well, let's compare our ideas with those of an expert.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 57.679,
     "end": 63.92,
     "text": "Professor Julian Pine from Liverpool University, speaking here on BBC Radio 4,",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 63.92,
     "end": 68,
     "text": "and he lists the skills that babies develop in order to speak.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 68,
     "end": 71.759,
     "text": "Well, one of the first things the child's got to do is they've got to break down the",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 71.759,
     "end": 76.4,
     "text": "speech stream into words. Then they've got to link the words to the things that they refer to",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 76.4,
     "end": 79.2,
     "text": "in the environment, so they've got to learn what the words mean.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 79.2,
     "end": 80.079,
     "text": "Right.",
-    "speaker": null
+    "speaker": "take it for grantedtake it for granted ambiguous"
   },
   {
+    "order": 19,
     "start": 80.159,
     "end": 83.599,
-    "text": "In this programme, we'll discover how babies learn to speak,",
-    "speaker": null
+    "text": "In this programme, we’ll discover how babies learn to speak,",
+    "speaker": "Georgie"
   },
   {
+    "order": 20,
     "start": 83.599,
     "end": 87.12,
     "text": "and as usual, we'll learn some useful new vocabulary.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 87.12,
     "end": 92.4,
     "text": "And on the subject of words, remember, you can find a list of this programme's vocabulary",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 92.4,
     "end": 95.759,
     "text": "on our website, bbclearningenglish.com.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 95.759,
     "end": 99.039,
     "text": "Some people find it helpful to study the vocabulary before listening.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 99.68,
     "end": 103.2,
     "text": "And another thing to do before listening is ask my question.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 103.759,
     "end": 109.439,
     "text": "Georgie, we've mentioned the babbling noises that babies make when learning to speak,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 109.439,
     "end": 115.679,
     "text": "but what age does this usually start? Is it a, around six months old?",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 116.399,
     "end": 121.92,
     "text": "b, around nine months old, or c, around one year old?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 121.92,
     "end": 126.4,
     "text": "Okay, I think my best guess would be a, around six months old.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 126.4,
     "end": 130.24,
     "text": "Okay, well, we'll find out a little bit later on in the programme.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 130.96,
     "end": 133.68,
     "text": "Let's return to Professor Pine's list.",
-    "speaker": null
+    "speaker": "Georgie"
   },
   {
+    "order": 31,
     "start": 134.159,
     "end": 139.599,
     "text": "The first thing babies do is recognise where individual words start and end.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 140.08,
     "end": 147.52,
     "text": "For this, it helps to know that, in English, at least, words often begin with a stressed syllable.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 147.52,
     "end": 152.879,
     "text": "The sound in a word which is emphasised by being spoken longer or louder.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 153.52,
     "end": 158.4,
     "text": "Learning this takes time, and here, Professor Pine and Michael Rosen,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 158.48,
     "end": 162.64,
     "text": "presenter of BBC Radio Falls programme, Word of Mouth,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 162.64,
     "end": 166,
     "text": "discussed children who haven't quite discovered it yet.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 166.64,
     "end": 172.24,
     "text": "And we can see this in the kind of errors that children make, because little kids will often call",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 172.24,
     "end": 178,
     "text": "the giraffe a raff, leaving off the unstressed syllable, because that's not typical English.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 178,
     "end": 182.719,
-    "text": "Ooh, and I’ve got an example of this - my son used to call a machine a ‘sminge’ – he just hit the stress, he didn't bother with the ‘ma’ bit.",
-    "speaker": "Michael Rosen"
+    "text": "Oh, and I've got an example of this. My son used to call a machine a sminge.",
+    "speaker": "errors"
   },
   {
+    "order": 40,
     "start": 183.439,
     "end": 185.599,
     "text": "He just hit the stress. He didn't bother with the muck bit.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 185.599,
     "end": 186.96,
     "text": "Yeah, exactly.",
     "speaker": "Professor Julian Pine"
   },
   {
+    "order": 42,
     "start": 187.04,
     "end": 189.68,
     "text": "Well, you may have thought it was my sminge, of course, to say something.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 189.68,
     "end": 193.52,
-    "text": "And the classic example, of course, is ‘nana’ instead of ‘banana’.",
+    "text": "Yes. And the classic example, of course, is Nana instead of banana.",
+    "speaker": null
+  },
+  {
+    "order": 44,
+    "start": 193.52,
+    "end": 195.2,
+    "text": "Yes. I think I call them that.",
     "speaker": "classic example"
   },
   {
-    "start": 193.52,
-    "end": 195.2,
-    "text": "Yes, I think I call them that!",
-    "speaker": "Michael Rosen"
-  },
-  {
+    "order": 45,
     "start": 196.8,
     "end": 203.28,
     "text": "One error or mistake infants make is calling a giraffe a raff, because they cut off the first",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 203.28,
     "end": 209.84,
     "text": "syllable, G, because it's not stressed. The classic example of this is when children say,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 209.84,
     "end": 216.8,
     "text": "Nana instead of banana, a classic example of something means the best example of it.",
-    "speaker": null
+    "speaker": "error"
   },
   {
+    "order": 48,
     "start": 216.8,
     "end": 221.2,
     "text": "One containing all the features you expect such a thing to have.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 221.2,
     "end": 226.4,
     "text": "For example, ants are a classic example of animals working together.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 226.4,
     "end": 232,
     "text": "The second skill babies develop as they learn to speak is correctly linking a word to the object",
-    "speaker": null
+    "speaker": "Georgie"
   },
   {
+    "order": 51,
     "start": 232,
     "end": 237.76,
     "text": "it refers to. In other words, knowing what the word means. As adults, we do this without thinking,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 237.76,
     "end": 244,
     "text": "but it's actually much harder than it sounds, as Professor Julian Pine explains to BBC Radio 4",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 244.24,
     "end": 249.28,
     "text": "programme, Word of mouth. Well, we take for granted the fact that it's kind of obvious what",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 249.28,
     "end": 254.159,
     "text": "words refer to in the environment, but actually if you look at it from the child's point of view,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 254.159,
     "end": 258.72,
     "text": "it's really difficult to work out what a word refers to, because there's so many things it could",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 258.72,
     "end": 264.48,
     "text": "refer to. So, you know, the speech signal is very ambiguous. How does the child know that you're",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 264.48,
     "end": 269.759,
     "text": "talking about the cup in front of you or the pen in front of you when you say fan or cup?",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 269.839,
     "end": 276.399,
     "text": "As adults, we take it for granted that when a friend says apple, they mean that round red thing",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 276.399,
     "end": 282.159,
     "text": "on the table. To take it for granted means to assume something without question.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 282.879,
     "end": 290.56,
     "text": "But for a baby, the link between the word apple and the object is not obvious, it's ambiguous,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 290.56,
     "end": 296.319,
     "text": "meaning it has more than one possible meaning. Wow, who knew so much was going on inside",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 296.319,
     "end": 302.8,
     "text": "baby's sponge-like brains as they soak up the sounds they hear? Right, Phil, isn't it time to reveal",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 302.8,
     "end": 309.279,
     "text": "the answer to your question? It is indeed. The question was at what age do babies start to make",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 309.279,
     "end": 315.759,
     "text": "babbling noises? And I said it was around six months. And that is the correct answer. Yay!",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 315.759,
     "end": 322.48,
     "text": "Baby, start to do this when they're about six months old. Okay, let's recap the vocabulary that",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 322.48,
     "end": 329.28,
     "text": "we've learnt starting with babble, the meaningless noises babies make as they're learning to speak.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 329.28,
     "end": 335.2,
     "text": "The stress syllable in a word is the sound which is emphasised by being longer, louder or higher.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 335.2,
     "end": 341.36,
     "text": "An error is a mistake. The classic example of something is the most typical example of it,",
-    "speaker": null
+    "speaker": "error"
   },
   {
+    "order": 69,
     "start": 341.36,
     "end": 348.16,
     "text": "containing its most important features. If you take something for granted, you accept or assume it",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 348.64,
     "end": 355.2,
-    "text": "without question. And finally, the adjective ambiguous means having more than one possible meaning.",
-    "speaker": null
+    "text": " without question. And finally, the adjective ambiguous means having more than one possible meaning",
+    "speaker": "take something for granted"
   },
   {
+    "order": 71,
     "start": 355.2,
     "end": 360.08,
     "text": "Once again, our six minutes are up, but if you're ready for more, you'll find the worksheet with a",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 360.08,
     "end": 365.44,
     "text": "quiz and a transcript for this programme on our website. See you there soon. Bye!",

@@ -5,6 +5,31 @@
   "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p0798k98.jpg",
   "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/190606_6min_english_motorcycles_download.mp3",
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/190606_6min_english_motorcycles.pdf",
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "word": "dissolves",
+      "definition": "dissolvesgets weaker"
+    },
+    {
+      "word": "mattering",
+      "definition": "being important"
+    },
+    {
+      "word": "interiority (uncommon word)",
+      "definition": "the quality of being inside"
+    },
+    {
+      "word": "empowered",
+      "definition": "with the ability, skill and strength to control your own life"
+    },
+    {
+      "word": "sexualised",
+      "definition": "sexualisedmade to look sexually appealing"
+    },
+    {
+      "word": "embodying",
+      "definition": "showing the true characteristics of something"
+    }
+  ],
   "quiz": null
 }

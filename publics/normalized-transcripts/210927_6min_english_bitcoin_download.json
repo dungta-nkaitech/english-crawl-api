@@ -1,443 +1,517 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 8.24,
     "text": "6MIT INGLEISH",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.88,
     "text": "From BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.839,
     "end": 17.519,
     "text": "Hello, this is 6MIT English from BBC Learning English. I'm Neil.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 18.24,
     "end": 19.039,
-    "text": "And I’m Sam.",
-    "speaker": "Sam"
+    "text": "And I'm Sam.",
+    "speaker": "Rob"
   },
   {
+    "order": 6,
     "start": 20.08,
     "end": 23.679,
     "text": "Have you seen my lottery tickets, Sam? I seem to have lost it somewhere.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 24.719,
     "end": 28.48,
     "text": "This is another one of your get rich quick schemes, Neil.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 29.28,
     "end": 34.159,
     "text": "People invent all kinds of ways to make a loss of money quickly and with little effort.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 34.799,
     "end": 40.88,
     "text": "Well, if you really want to get rich quick, maybe you should copy technology Tycoon Elon Musk.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 10,
     "start": 41.76,
     "end": 47.039,
     "text": "Recently, he invested $1.5 billion in the cryptocurrency Bitcoin.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 48.079,
     "end": 54.159,
-    "text": "Bitcoin has made some people very rich, very quickly, but as we’ll be hearing in this programme, it’s not without its critics.",
+    "text": "Bitcoin has made some people very rich, very quickly, but as we’ll be hearing in this program",
     "speaker": "Rob"
   },
   {
+    "order": 12,
     "start": 54.159,
     "end": 55.84,
     "text": "it's not without its critics.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 56.8,
     "end": 62.88,
     "text": "Creating Bitcoins, a process known as mining, uses huge amounts of electricity",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 62.88,
     "end": 68,
     "text": "and green campaigners and are questioning Bitcoin's impact on global energy use.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 69.04,
     "end": 72.24,
-    "text": "But before we find out more, it’s time for my quiz question. What year was bitcoin first released? Was it…",
+    "text": "But before we find out more, it’s time for my quiz question.",
     "speaker": "Rob"
   },
   {
+    "order": 16,
     "start": 73.2,
     "end": 75.359,
     "text": "What year was Bitcoin first released?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 76.159,
     "end": 83.28,
     "text": "Was it A 2009, B 2015 or C 2019?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 83.84,
     "end": 87.359,
-    "text": "I’ll go for b) 2015.",
-    "speaker": "Sam"
+    "text": "I'll go for B 2015.",
+    "speaker": "Rob"
   },
   {
+    "order": 19,
     "start": 87.359,
     "end": 91.599,
     "text": "Okay, we'll find out the answer later in the program.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 91.599,
     "end": 97.439,
     "text": "In this program, we are going to talk about Bitcoin, the use of the virtual currency.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 97.439,
     "end": 103.439,
     "text": "It's all very well for billionaires like Elon Musk, but what about the ordinary average person?",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 22,
     "start": 103.439,
     "end": 106.079,
     "text": "Is Bitcoin a good option for them?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 106.079,
     "end": 112.799,
-    "text": "Well, that's exactly what BBC World Service Programme tech tent wanted to find out.",
-    "speaker": null
+    "text": "Well, that’s exactly what BBC World Service programme Tech Tent wanted to find out ",
+    "speaker": "Rob"
   },
   {
+    "order": 24,
     "start": 113.2,
     "end": 118.56,
     "text": "By interviewing people in the street, here's what one Bitcoin fan, Heather Delaney, had to say.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 120.56,
     "end": 126.56,
     "text": "I invested in Bitcoin a number of years ago with the initial investment of only around $5.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 126.56,
     "end": 131.039,
     "text": "It meant that my risk was essentially the cost of a cup of coffee in a pastry.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 131.599,
     "end": 135.519,
     "text": "And as somebody who's quite risk-averse when it comes to investment,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 135.519,
     "end": 138.56,
     "text": "it did allow me to dip my toe into Bitcoin.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 138.64,
     "end": 142.319,
     "text": "Over time, I was able to invest at various points,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 142.319,
     "end": 149.759,
     "text": "as I really see Bitcoin as more of a long-term investment and part of my overall pension plan.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 152.159,
     "end": 155.199,
-    "text": "Heather describes herself as risk-averse.",
-    "speaker": null
-  },
-  {
-    "start": 155.199,
-    "end": 158,
-    "text": "Heather describes herself as risk-averse – she wants to avoid risks as much as possible.",
+    "text": "Heather describes herself as risk-averse ",
     "speaker": "risk-averse"
   },
   {
+    "order": 32,
+    "start": 155.199,
+    "end": 158,
+    "text": "She wants to avoid risks as much as possible.",
+    "speaker": null
+  },
+  {
+    "order": 33,
     "start": 159.36,
     "end": 164.319,
     "text": "By only investing $5, she was able to dip a toe into Bitcoin,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 164.319,
     "end": 168.159,
     "text": "try doing something slowly and carefully to test whether she liked it.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 168.64,
     "end": 173.12,
-    "text": "Over time, Heather's Bitcoin investment became part of her pension plan,",
-    "speaker": null
-  },
-  {
-    "start": 173.12,
-    "end": 177.599,
-    "text": "Over time, Heather’s bitcoin investment became part of her pension plan - a financial plan funded by your salary to save money for when you retire.",
+    "text": "Over time, Heather’s bitcoin investment became part of her pension plan ",
     "speaker": "pension plan -"
   },
   {
-    "start": 178.24,
-    "end": 181.12,
-    "text": "So, everything seems to be working out for Heather.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 181.12,
-    "end": 185.36,
-    "text": "But the recent buzz around Bitcoin has also highlighted another",
+    "order": 36,
+    "start": 173.12,
+    "end": 177.599,
+    "text": "a financial plan funded by your salary to save money for when you retire.",
     "speaker": null
   },
   {
+    "order": 37,
+    "start": 178.24,
+    "end": 181.12,
+    "text": "So everything seems to be working out for Heather.",
+    "speaker": null
+  },
+  {
+    "order": 38,
+    "start": 181.12,
+    "end": 185.36,
+    "text": "But the recent buzz around bitcoin has also highlighted another",
+    "speaker": "Sam"
+  },
+  {
+    "order": 39,
     "start": 185.36,
     "end": 187.68,
     "text": "less positive side of the story.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 187.68,
     "end": 189.84,
     "text": "Bitcoin's environmental footprint.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 191.12,
     "end": 196.719,
     "text": "Mining Bitcoin's, the complex process that creates new coins, uses a lot of electricity.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 197.359,
     "end": 204.159,
-    "text": "Mining bitcoins, the complex process that creates new coins, uses a lot of electricity. Recent estimates show that bitcoin has now overtaken the entire annual electricity use of Argentina!",
-    "speaker": "Rob"
+    "text": "Recent estimates show that Bitcoin has now overtaken the entire annual electricity use of Argentina.",
+    "speaker": null
   },
   {
+    "order": 43,
     "start": 204.719,
     "end": 209.599,
     "text": "Michelle Raox works at Cambridge University Centre for Alternative Finance,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 209.599,
     "end": 212.8,
-    "text": "which monitors Bitcoin's electrical consumption.",
-    "speaker": null
+    "text": " which monitors bitcoin’s electrical consumption",
+    "speaker": "Sam"
   },
   {
+    "order": 45,
     "start": 212.8,
     "end": 216.8,
     "text": "Here he is in conversation with BBC World Services, tech tent.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 220,
     "end": 223.439,
     "text": "Bitcoin consumes just a colossal amount of electricity.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 223.52,
     "end": 228.24,
     "text": "Now whether that electricity expenditures really worth the benefits or",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 228.24,
     "end": 231.52,
     "text": "think that really depends on how you value Bitcoin itself.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 231.52,
     "end": 236.8,
     "text": "But just looking at the electricity consumption, I think we need to put things a bit into perspective.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 236.8,
     "end": 240.8,
     "text": "So on the one hand, if you compare it to a country like Argentina,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 240.8,
     "end": 243.12,
     "text": "it's just incredible in the wind's firing.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 243.12,
     "end": 249.28,
     "text": "On the other hand, if you compare it to, for example, home appliances that are always on",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 249.28,
     "end": 255.12,
     "text": "standby but not being used in the US alone, that consumes twice as much electricity on the",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 255.12,
     "end": 257.12,
     "text": "yearly basis than the entire Bitcoin network.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 259.92,
     "end": 265.92,
     "text": "Michelle, thanks that to assess Bitcoin's energy use, we must put things into perspective,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 265.92,
     "end": 268.879,
     "text": "find the true objective value of something.",
-    "speaker": null
+    "speaker": "put things into perspective"
   },
   {
+    "order": 57,
     "start": 269.68,
     "end": 275.36,
     "text": "Comparing Bitcoin's energy use to a huge country like Argentina sounds monstrous.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 275.36,
     "end": 280.48,
     "text": "But looked at another way, Bitcoin only consumes half the electricity used by all US",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 280.48,
     "end": 286.72,
     "text": "televisions and other home appliances left on standby, which means powered on and ready to work when needed.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 287.68,
     "end": 293.92,
     "text": "So maybe the best get rich quick scheme is to save money on your electricity bills by turning off",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 293.92,
     "end": 299.68,
-    "text": "Well, it’s got to be easier than mining bitcoins – which reminds me….",
+    "text": "your TV e-neil. Well, it's got to be easier than mining bitcoins, which reminds me.",
+    "speaker": null
+  },
+  {
+    "order": 62,
+    "start": 300.079,
+    "end": 308.4,
+    "text": "Your quiz question, you asked what year Bitcoin was first released? 2009, 2015 or 2019.",
     "speaker": "Rob"
   },
   {
-    "start": 300.079,
-    "end": 308.4,
-    "text": "…of your quiz question. You asked what year bitcoin was first released, 2009, 2015 or 2019. And I said b) 2015.",
-    "speaker": "Sam"
-  },
-  {
+    "order": 63,
     "start": 308.4,
     "end": 311.28,
     "text": "And I said B, 2015.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 312.56,
     "end": 317.519,
-    "text": "Which was the wrong answer, I'm afraid, Sam! It was first released in 2009.",
+    "text": "Which was the wrong answer I'm afraid Sam, it was first released in 2009.",
     "speaker": "Rob"
   },
   {
+    "order": 65,
     "start": 318.96,
     "end": 325.519,
     "text": "So maybe we'd better keep buying lottery tickets. After all, it's a pretty good get rich quick scheme,",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 325.759,
     "end": 327.68,
     "text": "a way to make a lot of money quickly.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 328.639,
     "end": 334.399,
     "text": "Let's recap the other vocabulary now. Someone who is risk averse doesn't like taking risks.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 335.68,
     "end": 342.399,
-    "text": "If you dip a toe into something, you test it out slowly and carefully to see how it feels.",
-    "speaker": "dip a toe into something"
+    "text": "If you dip a toe into something, you test it out slowly and carefully to see how it feels.",
+    "speaker": "risk-averse"
   },
   {
+    "order": 69,
     "start": 343.68,
     "end": 347.279,
     "text": "A pension plan is a way of saving money for your retirement.",
     "speaker": "pension plan"
   },
   {
+    "order": 70,
     "start": 348.56,
     "end": 353.68,
     "text": "Pushing things into perspective means assessing the real importance of something,",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 353.68,
     "end": 356.079,
     "text": "often by comparing it to something similar.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 357.6,
     "end": 363.199,
-    "text": "Like comparing the energy use of bitcoin with the energy used by electrical appliances left on standby – ready to be used.",
+    "text": "Like comparing the energy use of bitcoin with the energy used by electrical appliances left on",
     "speaker": "on standby"
   },
   {
+    "order": 73,
     "start": 363.199,
     "end": 370.639,
     "text": "standby, ready to be used. And that's all we have time for. Bye for now. Bye bye.",

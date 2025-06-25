@@ -7,28 +7,8 @@
   "pdfUrl": "https://downloads.bbc.co.uk/learningenglish/features/6min/240905_6_minute_english_less_salt_better_health_worksheet.pdf",
   "vocabItems": [
     {
-      "word": "preserve (food)",
-      "definition": "treat food to prevent it from rotting so that it can be stored and eaten later"
-    },
-    {
-      "word": "nomads",
-      "definition": "people who travel from one place to another, often with animal livestock, rather than living in one place all the time"
-    },
-    {
-      "word": "dairy products",
-      "definition": "food which is made from milk, for example butter, cheese or yoghurt"
-    },
-    {
-      "word": "take a step back",
-      "definition": "(idiom) temporarily withdraw from a situation in order to think about it more calmly"
-    },
-    {
-      "word": "look at the bigger picture",
-      "definition": "(idiom) consider the overall meaning of something as opposed to specific details"
-    },
-    {
-      "word": "premature",
-      "definition": "happening too soon or before the proper time"
+      "word": "preserve (food)nomadsdairy productstake a step backlook at the bigger picturepremature",
+      "definition": "preserve (food)treat food to prevent it from rotting so that it can be stored and eaten laternomadspeople who travel from one place to another, often with animal livestock, rather than living in one place all the timedairy productsfood which is made from milk, for example butter, cheese or yoghurttake a step back(idiom) temporarily withdraw from a situation in order to think about it more calmlylook at the bigger picture(idiom) consider the overall meaning of something as opposed to specific detailsprematurehappening too soon or before the proper time"
     }
   ],
   "quiz": null

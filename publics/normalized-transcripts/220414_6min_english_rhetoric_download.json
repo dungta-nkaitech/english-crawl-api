@@ -1,419 +1,489 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 11.12,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 13.2,
     "end": 16.879,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 16.879,
     "end": 18.08,
-    "text": "And I’m Sam.",
-    "speaker": "Sam"
-  },
-  {
-    "start": 18.08,
-    "end": 22.08,
-    "text": "Friends, Romans, Countrymen, lend me your ears.",
+    "text": "And I'm Sam.",
     "speaker": null
   },
   {
-    "start": 22.08,
-    "end": 24.879,
-    "text": "‘Friends, Romans, countrymen, lend me your ears!’ Do you know where these famous words are from, Sam?",
+    "order": 5,
+    "start": 18.08,
+    "end": 22.08,
+    "text": "‘Friends, Romans, countrymen, lend me your ears",
     "speaker": "Neil"
   },
   {
+    "order": 6,
+    "start": 22.08,
+    "end": 24.879,
+    "text": "Do you know where these famous words are from, Sam?",
+    "speaker": null
+  },
+  {
+    "order": 7,
     "start": 24.879,
     "end": 31.199,
     "text": "I think that's a speech by Mark Antony in William Shakespeare's play, Julius Caesar.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 31.199,
     "end": 37.439,
     "text": "Wow, I'm impressed. Caesar has been assassinated and Mark Antony tries to persuade the crowd to",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 37.439,
     "end": 39.039,
     "text": "find his killers.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 10,
     "start": 39.039,
     "end": 45.039,
     "text": "Using words to persuade people, giving them a good reason to do what you say or to accept your",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 45.039,
     "end": 51.679,
     "text": "argument is known as rhetoric. In this programme, we'll be hearing all about rhetoric,",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 51.679,
     "end": 55.039,
     "text": "and of course, learning some related vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 55.039,
     "end": 59.2,
     "text": "The art of rhetoric started with the ancient Greek philosophers.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 14,
     "start": 59.2,
     "end": 64.64,
     "text": "Later, during the Roman Republic, politicians and statesmen used rhetoric in speeches",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 64.64,
     "end": 67.12,
     "text": "given to crowds in the public square.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 67.12,
     "end": 71.519,
     "text": "Although technology has transformed the way we communicate since then,",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 71.519,
     "end": 76.799,
     "text": "the art of rhetoric is still alive today. Modern politicians may prefer",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 76.879,
     "end": 83.679,
     "text": "Twitter to the public square, but they still use persuasive language, including soundbites,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 83.679,
     "end": 88.879,
     "text": "short sentences or phrases, giving a message in an easy to remember way.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 88.879,
     "end": 92.64,
-    "text": "We'll hear more soon, but first I have a question for you, Sam.",
-    "speaker": null
+    "text": "We’ll hear more soon but first I have a question for you, Sam. ",
+    "speaker": "Neil"
   },
   {
+    "order": 21,
     "start": 92.64,
     "end": 96.879,
     "text": "Roman politicians used many rhetorical tricks to persuade people,",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 96.879,
     "end": 103.84,
     "text": "including the Argumentum ad hominum, which was an attack on their opponent's moral character.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 103.84,
     "end": 107.28,
     "text": "Another was called the Argumentum ad baculum.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 107.28,
     "end": 115.52,
     "text": "But what did it mean? Was it A, an argument based on logic, B, an argument based on emotion,",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 115.52,
     "end": 118.96,
-    "text": "c) an argument based on the stick?",
+    "text": "or C, an argument based on the stick?",
     "speaker": "Neil"
   },
   {
+    "order": 26,
     "start": 119.76,
     "end": 125.12,
     "text": "Well, to persuade someone your argument needs to be logical, so I’ll say a).",
     "speaker": "Sam"
   },
   {
+    "order": 27,
     "start": 125.12,
     "end": 130.56,
     "text": "Okay, we'll find out the answer later. Whether you want someone to vote for you or to buy",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 130.56,
     "end": 135.28,
     "text": "what you're selling, rhetoric can make your message persuasive.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 135.28,
     "end": 140.719,
     "text": "During his career in the advertising industry, Sam Tatum learned a lot about persuading people.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 141.36,
     "end": 147.12,
     "text": "Here he explains the many uses of rhetoric to BBC World Service Program, the Y Factor.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 148.48,
     "end": 155.199,
     "text": "Rhetoric is persuasive language. We use it to rally, to simplify the complex, to inspire an",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 155.199,
     "end": 159.52,
     "text": "influence, but it's important, I think, to identify what strategies might be influencing us more",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 159.52,
     "end": 163.68,
     "text": "than we think. By understanding the power of language and shaping perceptions,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 163.68,
     "end": 167.12,
     "text": "we can start to say, I'm wondering why people are looking to be so concrete.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 167.12,
     "end": 171.04,
     "text": "Are we trying to pull the all over our eyes of something that's far more complex than we actually",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 171.04,
     "end": 178.08,
     "text": "state? As well as persuading people, Sam Tatum says rhetoric can be used to rally,",
-    "speaker": null
+    "speaker": "rallypull the wool over our eyes"
   },
   {
+    "order": 37,
     "start": 178.08,
     "end": 184.56,
     "text": "to bring people together in support of a common goal. A recent example of this is the way politicians",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 184.64,
     "end": 190.719,
     "text": "called the coronavirus, our enemy. The words politicians choose and the way they use them can",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 190.719,
     "end": 196.56,
     "text": "influence us more than we think. Sam Tatum says we should question whether political rhetoric is",
-    "speaker": null
+    "speaker": "pull the wool over our eyes"
   },
   {
+    "order": 40,
     "start": 196.56,
     "end": 202.48,
     "text": "trying to pull the wool over our eyes, an informal way of saying trick or deceive us.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 202.48,
     "end": 209.599,
     "text": "But in the age of 24 hour news updates and non-stocked Twitter has the skill of making a thoughtful",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 210.159,
     "end": 216.96,
     "text": "argument been lost. Here's Kendall Phillips, professor of political philosophy at Syracuse University,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 216.96,
     "end": 224.24,
     "text": "speaking to BBC World Services, the why factor. It's also hard to analyze the argument or reasoning",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 224.24,
     "end": 228.799,
     "text": "of a tweet, because 280 characters is not a way for me to lay out a logical argument with a major",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 228.799,
     "end": 235.28,
     "text": "premise of minor premise and a conclusion. It's much easier to just use a two word phrase or hashtag",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 235.28,
     "end": 240.8,
     "text": "that usually ends up adding to that kind of polemical division between my side and their side.",
-    "speaker": null
+    "speaker": "premiseconclusion polemical"
   },
   {
+    "order": 47,
     "start": 241.599,
     "end": 248.639,
     "text": "Global problems involve complex issues which cannot be solved in 280 letters, the maximum length",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 248.639,
     "end": 254.96,
     "text": "of a tweet allowed by Twitter. According to Professor Kendall, we need logical arguments containing",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 254.96,
     "end": 261.6,
     "text": "a premise, something which you think is true, and you use as the basis for developing your idea",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 261.6,
     "end": 268.32,
     "text": "and a conclusion, your decision or plan of action based on carefully considering all the relevant facts.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 268.96,
     "end": 274.08,
-    "text": "For example: climate change is damaging the planet – that’s a premise; therefore, we should act to stop it – that’s a conclusion.",
+    "text": "For example: climate change is damaging the planet – that’s a premise",
     "speaker": "Sam"
   },
   {
+    "order": 52,
     "start": 274.8,
     "end": 278.64,
     "text": "Therefore, we should act to stop it, that's a conclusion.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 279.36,
     "end": 284.8,
-    "text": "Few issues are simply black and white though, and this is a problem because Twitter debates are often polemical – argued very strongly either for or against a particular opinion or idea.",
-    "speaker": "polemical"
+    "text": "Few issues are simply black and white though, and this is a problem because Twitter debates are",
+    "speaker": null
   },
   {
+    "order": 54,
     "start": 284.8,
     "end": 291.6,
     "text": "often polemical, argued very strongly either for or against a particular opinion or idea.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 291.6,
     "end": 297.68,
     "text": "If you believe passionately in something, you need to explain it to people in a way they understand,",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 56,
     "start": 297.68,
     "end": 304.639,
     "text": "and in ancient times rhetoric also meant building bridges between people and finding common ground.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 305.28,
     "end": 311.12,
     "text": "Like those Romans you mentioned Neil. Yes, in my question I ask Sam for the meaning of the term",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 311.12,
     "end": 316.879,
     "text": "Argumentum Add Baculum. I guess it was an argument based on logic.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 316.879,
     "end": 323.199,
     "text": "Which was the wrong answer I'm afraid. In fact, argumentum add baculum means",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 323.199,
     "end": 328.879,
     "text": "the argument with a stick, or in other words, hitting somebody with a stick until they agree with you.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 61,
     "start": 329.439,
     "end": 334.72,
     "text": "I guess that's one way to win an argument. Okay, let's recap the vocabulary from the program,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 334.72,
     "end": 340,
     "text": "starting with soundbite, a short sentence or phrase designed to stick in the memory.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 340.24,
     "end": 344.639,
-    "text": "When people rally together, they unite to support a common goal.",
+    "text": "When people rally together, they unite to support a common goal",
     "speaker": "rally"
   },
   {
+    "order": 64,
     "start": 344.639,
     "end": 348.16,
     "text": "To pull the wall over someone's eyes means to trick someone.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 348.16,
     "end": 354.56,
-    "text": "Logical arguments contain a premise – a truth used as the basis for developing an argument, and a conclusion – a decision based on carefully considering all the relevant facts.",
+    "text": "Logical arguments contain a premise – a truth used as the basis for developing an argument",
     "speaker": "premiseconclusion"
   },
   {
+    "order": 66,
     "start": 354.56,
     "end": 360.319,
     "text": "and a conclusion, a decision based on carefully considering all the relevant facts.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 360.319,
     "end": 365.759,
     "text": "And finally, polemical means strongly attacking or defending an opinion or idea.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 365.759,
     "end": 369.519,
     "text": "But there's no arguing the fact that once again our six minutes are up.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 369.519,
     "end": 370.719,
     "text": "Goodbye for now. Bye.",

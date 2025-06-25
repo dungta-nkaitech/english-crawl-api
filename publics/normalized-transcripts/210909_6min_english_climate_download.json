@@ -1,506 +1,590 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7,
     "text": "Hi, Neil from BBC Learning English here. Did you know that we are now offering a new,",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7,
     "end": 12.4,
     "text": "weekly, extra episode of 6 Minute English exclusively on our website?",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.4,
     "end": 18.12,
     "text": "So, go to BBCLearningEnglish.com to find your favourite presenters on your favourite",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 18.12,
     "end": 24.92,
     "text": "programme. The extra episodes are only available on our website, BBCLearningEnglish.com.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 24.92,
     "end": 28.76,
     "text": "See you there.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 28.76,
     "end": 35.76,
     "text": "This is a download from BBC Learning English to find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 35.76,
     "end": 41.76,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 41.76,
     "end": 45.76,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 8,
     "start": 45.76,
     "end": 46.76,
-    "text": "And I’m Sam.",
-    "speaker": "Sam"
+    "text": "And I'm Sam.",
+    "speaker": null
   },
   {
+    "order": 9,
     "start": 46.76,
     "end": 50.76,
-    "text": "“No one is too small to make a difference”. Do you know who said that, Sam?",
+    "text": "No one is too small to make a difference. Do you know who said that, Sam?",
     "speaker": "Neil"
   },
   {
+    "order": 10,
     "start": 50.76,
     "end": 54.76,
     "text": "Wasn't it climate change after this, guess a chin book?",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 54.759,
     "end": 59.679,
-    "text": "That’s right. She went on to say this in her message to world leaders: “I don’t want you to be hopeful. I want you to act as if your house is on fire. Because it is.”",
+    "text": "That's right, she went on to say this in her message to world leaders. I don't want you",
     "speaker": "Neil"
   },
   {
+    "order": 12,
     "start": 59.679,
     "end": 65.759,
     "text": "to be hopeful. I want you to act as if your house is on fire because it is.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 65.759,
     "end": 70.64,
-    "text": "Her speech reflected the feelings of many young people around the world who think that not enough action is being taken on climate change.",
-    "speaker": "Sam"
+    "text": "Her speech reflected the feelings of many young people around the world who think that",
+    "speaker": null
   },
   {
+    "order": 14,
     "start": 70.64,
     "end": 74.56,
     "text": "not enough action is being taken on climate change.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 74.56,
     "end": 78.92,
     "text": "And they might be right, judging by the record breaking temperatures that hit Canada and",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 78.92,
     "end": 82.84,
     "text": "the northwest of the United States in July this year.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 17,
     "start": 82.84,
     "end": 88.12,
     "text": "Gressertumberg's plea to act like your house is on fire became a reality for residents",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 88.12,
     "end": 93.68,
     "text": "of the small town of Lyson, Canada, which burned to the ground in a shocking world fire,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 93.68,
     "end": 97.2,
     "text": "a fire that is burning strongly in out of control.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 97.2,
     "end": 103.159,
     "text": "So once the litun wildfire yet another climate change wake up call. A wake up call is the",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 103.159,
     "end": 108,
     "text": "expression used to describe a shocking event that should make people realise that action",
-    "speaker": null
+    "speaker": "wake-up call wake-up call"
   },
   {
+    "order": 22,
     "start": 108,
     "end": 110,
     "text": "is needed to change something.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 110,
     "end": 115.92,
     "text": "And they may not, according to some climatologists who worryingly say that what happened in Lyson",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 115.92,
     "end": 121.159,
     "text": "should not even have been possible. So in this programme we'll be asking if scientists",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 121.159,
     "end": 125.76,
     "text": "have dangerously misunderstood the realities of climate change.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 125.76,
     "end": 131.12,
-    "text": "But first it's time for my quiz question and it's about that extreme weather in Canada.",
-    "speaker": null
+    "text": "But first it’s time for my quiz question and it’s about that extreme weather in Canada.",
+    "speaker": "Neil"
   },
   {
+    "order": 27,
     "start": 131.12,
     "end": 136.199,
     "text": "It broke records when the temperature in Litton hit an all time high on the first of July,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 136.199,
     "end": 148.039,
     "text": "so just how hot did it get? Was it A 39.6 degrees, B 49.6 degrees or C 59.6 degrees Celsius?",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 148.039,
     "end": 155.239,
     "text": "All those temperatures look really high, especially for snowy Canada. I'll say A 39.6 degrees",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 155.239,
     "end": 156.239,
     "text": "C.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 31,
     "start": 156.239,
     "end": 161.56,
     "text": "Okay Sam, we'll find out at the answer later on. Seeing your hometown burn to the ground",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 161.56,
     "end": 167.4,
     "text": "was bad enough, but perhaps even worse was the fact that the wildfires were so unexpected.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 167.4,
     "end": 173,
     "text": "According to weather pass in modelling done by a team of Oxford University researchers,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 173,
     "end": 177.56,
     "text": "such extreme heat was impossible in theory at least.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 35,
     "start": 177.56,
     "end": 183.28,
     "text": "The research team was led by a climatologist Gert Jern van Olderberg. Here he is in conversation",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 183.28,
     "end": 188.24,
     "text": "with BBC World Service Programme Science in Action.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 37,
     "start": 188.24,
     "end": 192.36,
     "text": "This is a wake up call beyond the wake up calls that we've had before.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 192.36,
     "end": 199.159,
     "text": "Yes, it's a very big shock in the sense that we thought we knew that how heat waves react",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 199.159,
     "end": 203.96,
     "text": "to global warming and within which boundaries they are increasing. Of course they're increasing",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 203.96,
     "end": 209.719,
     "text": "in temperature, but it's a gradual process we thought. And then you get this thing and",
-    "speaker": null
+    "speaker": "heatwaves gradual jump"
   },
   {
+    "order": 41,
     "start": 209.719,
     "end": 213.6,
     "text": "it's not gradual at all. It's a huge jump.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 213.599,
     "end": 218.239,
     "text": "Professor Van Oldenberg had been studying the impact of global warming on heat waves,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 218.239,
     "end": 222.879,
     "text": "short periods of time when there were there is much hotter than usual.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 222.879,
     "end": 228.24,
-    "text": "Along with other climatologists, he thought that climate change was gradual – changing or happening slowly, over a long period of time.",
+    "text": "Along with other climatologists he thought that climate change was gradual, changing or",
     "speaker": "gradual"
   },
   {
+    "order": 45,
     "start": 228.24,
     "end": 231.84,
     "text": "happening slowly over a long period of time.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 231.84,
     "end": 237.479,
     "text": "But the Canadian heat waves caused him to think again. Instead of being gradual the temperatures",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 237.479,
     "end": 244.12,
     "text": "saw a jump or a sudden increase of five degrees. And it's the sudden jump that's got",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 244.12,
     "end": 247.879,
     "text": "Professor Van Oldenberg and his team worried.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 247.879,
     "end": 252.519,
     "text": "By collecting data from all over the world climatologists tried to predict changes in",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 252.519,
     "end": 254.759,
     "text": "the pattern of global warming.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 51,
     "start": 254.759,
     "end": 260.519,
     "text": "But as Gert Jern van Oldenberg told BBC World Services Science in Action, the heat wave",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 260.519,
     "end": 265.519,
     "text": "inlisten didn't fit these predictions at all.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 265.519,
     "end": 271.839,
     "text": "Everything looked like a nice regular, gradual trend like we were used to up to last year.",
-    "speaker": null
+    "speaker": "shaken our confidence"
   },
   {
+    "order": 54,
     "start": 271.839,
     "end": 276.279,
     "text": "And then you suddenly break all your records by four or five degrees. I mean this is something",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 276.279,
     "end": 281,
     "text": "that's not supposed to happen. And it has really shaken our confidence in how well we understand",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 281,
     "end": 284.479,
     "text": "the effect of climate change on heat waves.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 284.479,
     "end": 289.919,
     "text": "Despite all his research, Professor Van Oldenberg is still unable to explain such extreme",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 289.919,
     "end": 295.159,
     "text": "and sudden changes in the climate. And this he says has shaken his confidence, made",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 295.16,
     "end": 298.6,
     "text": "him doubt something that he was certain was true.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 298.6,
     "end": 304.12,
-    "text": "And it’s this lack of understanding worrying researchers because, as the story of the town of Lytton shows, the effects of climate change may be even worse than expected.",
+    "text": "And it’s this lack of understanding worrying researchers because, as the story of the town",
     "speaker": "Sam"
   },
   {
+    "order": 61,
     "start": 304.12,
     "end": 310.68,
     "text": "of Litten shows, the effects of climate change may be even worse than expected.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 310.68,
     "end": 314.44,
     "text": "Maybe it's time we all took notice of Gert Jern van Oldenberg's wake up call to take",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 314.44,
     "end": 321.2,
     "text": "action on climate change. Especially if even cold northern countries like Canada or Britain",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 321.199,
     "end": 327.24,
     "text": "for that matter can experience such extreme changes. Speaking of which Neil, what was the",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 65,
     "start": 327.24,
     "end": 329.24,
     "text": "answer to your quiz question?",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 329.24,
     "end": 334.56,
-    "text": "Ah yes, in my quiz question I asked you exactly how high the temperature reached in the Canadian town of Lytton. What did you say, Sam?",
-    "speaker": "Neil"
+    "text": "Ah yes, in my quiz question I asked you exactly how high the temperature reached in the Canadian",
+    "speaker": null
   },
   {
+    "order": 67,
     "start": 334.56,
     "end": 337.319,
     "text": "town of Litten. What did you say Sam?",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 337.319,
     "end": 343,
-    "text": "I thought it was a) 39.6 degrees Celsius. Was I right?",
+    "text": "I thought it was a 39.6 degrees Celsius was I right.",
     "speaker": "Sam"
   },
   {
+    "order": 69,
     "start": 343,
     "end": 349.919,
-    "text": "Well, you were close but in fact it got even hotter, actually reaching 49.6 degrees Celsius – the highest temperature ever recorded in Canada by at least 5 degrees!",
-    "speaker": "Neil"
+    "text": "Well you were close but in fact it got even hotter actually reaching 49.6 degrees Celsius.",
+    "speaker": null
   },
   {
+    "order": 70,
     "start": 349.92,
     "end": 354.64,
     "text": "The highest temperature ever recorded in Canada by at least 5 degrees.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 354.64,
     "end": 360.84,
     "text": "Phew, that is hot. Well we'd better recap the vocabulary from this programme because we",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 360.84,
     "end": 364.64,
     "text": "might be hearing these words a lot more in the future.",
-    "speaker": null
+    "speaker": "wildfire"
   },
   {
+    "order": 73,
     "start": 364.64,
     "end": 370.24,
     "text": "Let's start with a wildfire which is an out of control fire that is burning the countryside.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 370.24,
     "end": 375.36,
     "text": "A wake up call is an event which should make people realise that action needs to be taken",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 375.36,
     "end": 377.24,
     "text": "to change a situation.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 377.24,
     "end": 382.72,
     "text": "A heat wave is a period of days or weeks when the weather is much hotter than usual.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 382.72,
     "end": 385.439,
-    "text": "A jump is a sudden increase…",
-    "speaker": "jump"
+    "text": " A jump is a sudden increase",
+    "speaker": "heatwave"
   },
   {
+    "order": 78,
     "start": 385.439,
     "end": 389.56,
-    "text": "…whereas gradual means happening slowly, over a long time.",
+    "text": "Whereas gradual means happening slowly over a long time.",
     "speaker": "gradual"
   },
   {
+    "order": 79,
     "start": 389.56,
     "end": 393.879,
-    "text": "And finally, if something shakes your confidence, it makes you doubt something that you thought was true.",
-    "speaker": "shakes your confidence"
+    "text": "And finally if something shakes your confidence it makes you doubt something that you thought",
+    "speaker": null
   },
   {
+    "order": 80,
     "start": 393.879,
     "end": 394.879,
     "text": "was true.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 394.879,
     "end": 398.28,
     "text": "That’s it for our look at one of the hottest years on record.",
     "speaker": "Sam"
   },
   {
+    "order": 82,
     "start": 398.28,
     "end": 399.28,
-    "text": "Bye for now!",
-    "speaker": "Neil"
+    "text": "Bye for now.",
+    "speaker": null
   },
   {
+    "order": 83,
     "start": 399.28,
     "end": 400.28,
-    "text": "Bye!",
-    "speaker": "Sam"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

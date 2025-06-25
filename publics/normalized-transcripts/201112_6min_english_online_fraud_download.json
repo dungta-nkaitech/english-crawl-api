@@ -1,545 +1,636 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.04,
     "text": "From BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.2,
     "end": 17.199,
-    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
-    "speaker": "Neil"
+    "text": "Hello, this is 6 Minute English from BBC Learning English. I'm Neil.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 17.199,
     "end": 18.24,
-    "text": "And I’m Georgina.",
-    "speaker": "Georgina"
+    "text": "And I'm Georgina.",
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 19.199,
     "end": 22.48,
     "text": "Are you good at remembering your computer passwords, Georgina?",
     "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 23.44,
     "end": 26.719,
     "text": "Not really, Neil. I mostly use something easy to remember,",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 26.719,
     "end": 28.24,
     "text": "like my mother's major name,",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 28.479,
     "end": 29.759,
     "text": "or the street where I was born.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 30.479,
     "end": 33.039,
-    "text": "Or the name of your first pet, yes, me too.",
-    "speaker": null
+    "text": "Or the name of your first pet! Yes, me too ",
+    "speaker": "Neil"
   },
   {
+    "order": 11,
     "start": 33.039,
     "end": 36.32,
     "text": "But we should be more careful about online security, Georgina,",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 36.32,
     "end": 41.119,
     "text": "because of a worrying trend and the topic of this programme, online fraud.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 41.119,
     "end": 46.32,
     "text": "Online fraud involves using the internet to trick someone into giving away their money or data.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 46.32,
     "end": 52.079,
     "text": "It takes many forms from deceptive emails which trick us into paying money to the wrong bank account,",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 52.079,
     "end": 54.079,
     "text": "to the theft of credit card details.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 55.039,
     "end": 59.759,
-    "text": "It's regarded by some as a highly profitable and relatively low-risk crime,",
-    "speaker": null
-  },
-  {
-    "start": 59.759,
-    "end": 65.519,
-    "text": "It’s regarded by some as a highly profitable and relatively low-risk crime, so in this programme we’ll be finding out why it’s so easy for criminals, or fraudsters, to steal our money.",
+    "text": "It’s regarded by some as a highly profitable and relatively low-risk crime,",
     "speaker": "Neil"
   },
   {
+    "order": 17,
+    "start": 59.759,
+    "end": 65.519,
+    "text": "so in this programme we'll be finding out why it's so easy for criminals or fraudsters to steal our money.",
+    "speaker": null
+  },
+  {
+    "order": 18,
     "start": 66.48,
     "end": 70,
     "text": "And of course, we'll be learning some relative vocabulary along the way.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 70.56,
     "end": 72.719,
-    "text": "But first, it's time for our quiz question.",
-    "speaker": null
+    "text": "But first, it’s time for our quiz question.",
+    "speaker": "Neil"
   },
   {
+    "order": 20,
     "start": 73.28,
     "end": 80.719,
     "text": "In July, 2029 British men were arrested for defrauding the coronavirus job retention scheme,",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 80.719,
     "end": 84.4,
     "text": "a government fund for workers who've lost their job to COVID-19.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 84.879,
     "end": 89.039,
     "text": "They set up fake companies and applied fraudulently for money.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 89.039,
     "end": 94.4,
     "text": "But how much money has been claimed in total through the coronavirus job scheme in the UK?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 94.4,
     "end": 102.64,
     "text": "Is it a 17 billion pounds, b 27 billion pounds, or c 37 billion pounds?",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 104.159,
     "end": 108.4,
-    "text": "Hmm, it must be a lot, so I’ll say a) 17 billion pounds.",
-    "speaker": "Georgina"
+    "text": "It must be a lot, so I'll say a 17 billion pounds.",
+    "speaker": "Neil"
   },
   {
+    "order": 26,
     "start": 108.8,
     "end": 111.76,
     "text": "Okay, Georgina will find out later.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 111.76,
     "end": 117.44,
     "text": "Now, Rachel Tobak, CEO of Social Proof Security, is an expert in cybercrime.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 117.44,
     "end": 120.32,
     "text": "She describes herself as an ethical fraudster.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 29,
     "start": 120.32,
     "end": 126.56,
     "text": "Businesses wanting to combat fraud employ her to hack into their computer systems to find their weak spots.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 127.36,
     "end": 131.439,
-    "text": "Here, Rachel explains to BBC World Service programme, The Inquiry, how getting people’s information is the key to online fraud:",
-    "speaker": "Georgina"
+    "text": "Here, Rachel explains to BBC World Service programme The Inquiry,",
+    "speaker": null
   },
   {
+    "order": 31,
     "start": 131.439,
     "end": 134.8,
     "text": "how getting people's information is the key to online fraud.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 135.2,
     "end": 140.88,
     "text": "The reason why we're able to do that from an attacker mindset is because we use what's called",
-    "speaker": null
+    "speaker": "mindsetintelligence"
   },
   {
+    "order": 33,
     "start": 140.88,
     "end": 143.2,
     "text": "Ocent, open source intelligence.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 143.2,
     "end": 145.36,
     "text": "We look up everything about you.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 145.36,
     "end": 149.04,
     "text": "We can figure out who your assistant is, who your accountant is on LinkedIn.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 149.04,
     "end": 153.52,
     "text": "We know what emails you use from screenshots that you've put on your Instagram.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 154.32,
     "end": 159.76,
-    "text": "Rachel looks at fraud from a criminal’s mindset - someone’s way of thinking and the general attitudes and opinions they have about something.",
-    "speaker": "mindset"
+    "text": "Rachel looks at fraud from a criminal's mindset, someone's way of thinking and the general attitudes",
+    "speaker": null
   },
   {
+    "order": 38,
     "start": 159.76,
     "end": 161.52,
     "text": "and opinions they have about something.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 162.32,
     "end": 166.32,
-    "text": "From a fraudster's perspective, the most valuable thing is intelligence.",
-    "speaker": null
+    "text": "From a fraudster’s perspective, the most valuable thing is intelligence ",
+    "speaker": "intelligence"
   },
   {
+    "order": 40,
     "start": 166.32,
     "end": 171.04,
     "text": "Secret information about a government or country or in this case a person,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 171.04,
     "end": 174.56,
     "text": "such as the information people unwittingly post on social media.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 175.28,
     "end": 180,
-    "text": "Fraudsters use this intelligence to build up a picture of someone’s online activity.",
-    "speaker": "intelligence"
+    "text": "fraudsters use this intelligence to build up a picture of someone's online activity.",
+    "speaker": null
   },
   {
+    "order": 43,
     "start": 180.48,
     "end": 184.96,
     "text": "And as BBC World Service The Inquiry presenter, Shama Incosia explains,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 184.96,
     "end": 186.719,
     "text": "there are many ways of doing this.",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 45,
     "start": 187.68,
     "end": 192.719,
     "text": "Fraudsters have thousands of cover stories but the end goal is always the same,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 192.719,
     "end": 195.28,
     "text": "to trick people out of cash or possessions.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 195.919,
     "end": 199.039,
     "text": "Rachel says they have options for how to do that.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 199.039,
     "end": 202.719,
     "text": "Login details stolen during a data breach from one company,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 202.719,
     "end": 209.199,
     "text": "often using software or viruses called malware are used to infiltrate customer accounts at another.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 209.199,
     "end": 212.8,
-    "text": "To access people's data, fraudsters use cover stories.",
-    "speaker": null
+    "text": "To access people’s data, fraudsters use cover stories ",
+    "speaker": "cover stories"
   },
   {
+    "order": 51,
     "start": 212.8,
     "end": 215.52,
     "text": "False stories told in order to hide the truth.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 215.52,
     "end": 219.6,
     "text": "For example, they may pretend to be calling from your bank or credit card company.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 220.159,
     "end": 223.52,
     "text": "If people believe these cover stories and share personal data,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 223.52,
     "end": 225.76,
     "text": "this can result in a data breach.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 225.76,
     "end": 230.56,
     "text": "An occasion when private information can be seen by people who should not be able to see it.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 231.439,
     "end": 236.64,
-    "text": "Malware - computer software and viruses that are designed to damage the way a computer works – can also be used to gain login details and passwords…",
+    "text": "Malware - computer software and viruses that are designed to damage the way a computer works",
     "speaker": "Malware"
   },
   {
+    "order": 57,
     "start": 236.64,
     "end": 239.92,
     "text": "can also be used to gain login details and passwords.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 240.48,
     "end": 243.84,
     "text": "Data which is then used to infiltrate other online accounts,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 243.84,
     "end": 249.12,
     "text": "secretly enter a place, group or organization in order to spy on it or influence it.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 249.92,
     "end": 255.039,
     "text": "Modern fraudsters are so devious at collecting online information that many victims only realize",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 255.039,
     "end": 257.84,
-    "text": "what's happened after their bank accounts have been emptied,",
-    "speaker": null
-  },
-  {
-    "start": 257.84,
-    "end": 262.399,
-    "text": "Which I guess was the mindset behind those British fraudsters you mentioned earlier, Neil.",
-    "speaker": "mindset"
-  },
-  {
-    "start": 262.959,
-    "end": 267.84,
-    "text": "Ah yes, the nine men who tried to defraud the coronavirus jobs retention scheme.",
-    "speaker": null
-  },
-  {
-    "start": 267.84,
-    "end": 273.439,
-    "text": "Ah yes, the nine men who tried to defraud the Coronavirus Jobs Retention Scheme. Remember for my quiz question I asked you how much the scheme has paid out in total so far in the UK.",
+    "text": "what’s happened after their bank accounts have been emptied.",
     "speaker": "Neil"
   },
   {
-    "start": 274,
-    "end": 276.959,
-    "text": "I said, a) 17 billion pounds.",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 277.439,
-    "end": 282.719,
-    "text": "Well, in fact, it's even more the correct answer is b 27 billion pounds.",
+    "order": 62,
+    "start": 257.84,
+    "end": 262.399,
+    "text": "which I guess was the mindset behind those British fraudsters you mentioned earlier, Neil.",
     "speaker": null
   },
   {
+    "order": 63,
+    "start": 262.959,
+    "end": 267.84,
+    "text": "Ah yes, the nine men who tried to defraud the Coronavirus Jobs Retention Scheme.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 64,
+    "start": 267.84,
+    "end": 273.439,
+    "text": "Remember for my quiz question, I asked you how much the scheme has paid out in total so far in the UK.",
+    "speaker": null
+  },
+  {
+    "order": 65,
+    "start": 274,
+    "end": 276.959,
+    "text": "I said a 17 billion pounds.",
+    "speaker": null
+  },
+  {
+    "order": 66,
+    "start": 277.439,
+    "end": 282.719,
+    "text": "Well, in fact, it's even more the correct answer is b 27 billion pounds.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 67,
     "start": 282.719,
     "end": 288.159,
     "text": "Luckily, the £495,000 which these fraudsters tried to steal was recovered.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 288.959,
     "end": 292.959,
     "text": "Even so, Neil, I think I'm going to change my password soon.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 292.959,
     "end": 294.079,
     "text": "Better safe than sorry.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 294.719,
     "end": 296,
-    "text": "Good idea Georgina.",
-    "speaker": null
+    "text": "Good idea, Georgina",
+    "speaker": "intelligence"
   },
   {
+    "order": 71,
     "start": 296,
     "end": 299.919,
     "text": "In this program, we've been hearing about the rise in online fraud,",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 299.919,
     "end": 302.959,
     "text": "often committed when fraudsters gain intelligence.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 302.959,
     "end": 305.839,
     "text": "Secret information about a person posted on the internet.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 306.399,
     "end": 312.959,
     "text": "These criminals mindset or mentality is to surreptitially find information by creating a cover story,",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 312.959,
     "end": 315.919,
     "text": "a full story someone tells in order to hide the truth.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 316.799,
     "end": 320.879,
     "text": "By posing as clerks from your bank, for example, they might be able to access",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 320.879,
     "end": 324.479,
     "text": "sensitive private information, which they should not be able to see,",
-    "speaker": null
+    "speaker": "data breach"
   },
   {
+    "order": 78,
     "start": 324.479,
     "end": 326.719,
     "text": "an event sometimes called a data breach.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 327.519,
     "end": 332.079,
     "text": "Another way fraudsters infiltrate or gain access secretly without permission",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 332.079,
     "end": 334,
     "text": "is with the use of malware.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 334,
     "end": 338.24,
     "text": "Computer software and viruses designed to damage the way a computer works.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 339.039,
     "end": 343.039,
     "text": "If you want to find out more about keeping yourself safe from online fraud,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 83,
     "start": 343.039,
     "end": 346.8,
     "text": "search the BBC website using the term cyber security.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 346.8,
     "end": 352.799,
     "text": "And if you like topical discussion and want to learn how to use the vocabulary found in headlines,",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 352.799,
     "end": 355.279,
     "text": "why not check out our news review podcast.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 355.839,
     "end": 359.839,
     "text": "We also have a free app you can download for Android and iOS.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 360.799,
     "end": 367.839,
     "text": "And for more trending topics and real life vocabulary, look no further than six-letter English from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 367.839,
     "end": 369.839,
     "text": "See you next time, bye!",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 369.839,
     "end": 371.839,
     "text": "Goodbye!",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 90,
     "start": 371.839,
     "end": 375.839,
     "text": "Six-minute English from BBC Learning English.",

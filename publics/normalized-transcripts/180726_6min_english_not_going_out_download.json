@@ -1,569 +1,664 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6MtEnglish",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.12,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.24,
     "end": 14.88,
     "text": "Hello and welcome to 6 Minute English. I'm Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 14.88,
     "end": 16.32,
-    "text": "Hi! And I'm Catherine.",
-    "speaker": "Catherine"
+    "text": "Hi and I'm Catherine.",
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 16.32,
     "end": 20.64,
     "text": "No, Catherine. When was the last time you went for a walk in the country for fun,",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 20.64,
     "end": 22.719,
     "text": "for exercise or relaxation?",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 8,
     "start": 22.719,
     "end": 24.24,
     "text": "People do that?",
-    "speaker": "Catherine"
+    "speaker": null
   },
   {
+    "order": 9,
     "start": 24.24,
     "end": 26.32,
     "text": "Well, believe it or not, they do.",
     "speaker": "Neil"
   },
   {
+    "order": 10,
     "start": 26.32,
     "end": 28.8,
-    "text": "Interesting, people are strange.",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 28.8,
-    "end": 32.719,
-    "text": "Well, it sounds like you should pay close attention to today's programme,",
+    "text": "Oh, interesting. People are strange.",
     "speaker": null
   },
   {
-    "start": 32.719,
-    "end": 37.6,
-    "text": "Well, it sounds like you should pay close attention to today's programme because it's all about how fewer and fewer people are venturing out into the country.",
+    "order": 11,
+    "start": 28.8,
+    "end": 32.719,
+    "text": "Well, it sounds like you should pay close attention to today's programme ",
     "speaker": "venturingout"
   },
   {
+    "order": 12,
+    "start": 32.719,
+    "end": 37.6,
+    "text": "because it's all about how fewer and fewer people are venturing out into the country.",
+    "speaker": null
+  },
+  {
+    "order": 13,
     "start": 37.6,
     "end": 40.88,
     "text": "Well, I wonder if that word is part of the problem.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 40.88,
     "end": 47.359,
     "text": "To venture out somewhere suggests that it's a really big challenge or even a risky activity.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 47.359,
     "end": 52.799,
     "text": "I don't think a walk in the country is a particularly dangerous activity, even in bad weather.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 16,
     "start": 52.799,
     "end": 57.04,
     "text": "It's not one of the reasons people gave in a recent survey for why they don't do it.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 57.039,
     "end": 62.799,
     "text": "In fact, one of the biggest reasons people gave was that it wouldn't look good on their social media.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 62.799,
     "end": 66.48,
-    "text": "Well, of course, why would you go for a walk in the rain in the country if you couldn't get good snaps for your social media account?",
-    "speaker": "Catherine"
+    "text": "Well, of course. Why would you go for a walk in the rain in the country",
+    "speaker": null
   },
   {
+    "order": 19,
     "start": 66.48,
     "end": 70.079,
     "text": "if you couldn't get good snaps for your social media account?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 70.079,
     "end": 74.159,
-    "text": "Interesting. You should say that because it's the topic of this week's quiz question.",
-    "speaker": null
+    "text": "Interesting you should say that because it's the topic of this week's quiz question. ",
+    "speaker": "venture out"
   },
   {
+    "order": 21,
     "start": 74.159,
     "end": 79.2,
     "text": "In the survey, what percentage of people gave the poor social media photo opportunity",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 79.2,
     "end": 82.719,
     "text": "as their reason for not wanting to venture out into the countryside?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 82.719,
     "end": 89.2,
     "text": "Was it A around 10% B around 30% or C around 50%? What do you think?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 89.2,
     "end": 92.319,
-    "text": "To be honest, I don't think that would be a good excuse at all, so I'm going to say it's just 10%.",
-    "speaker": "Catherine"
+    "text": " To be honest, I don't think that would be a good excuse at all",
+    "speaker": "venture out"
   },
   {
+    "order": 25,
     "start": 92.319,
     "end": 95.359,
     "text": "so I'm going to say it's just 10%.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 95.359,
     "end": 97.439,
     "text": "Listen out for the answer at the end of the programme.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 27,
     "start": 98,
     "end": 101.519,
     "text": "Annabelle Shackleton is from an organisation called Leif,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 101.519,
     "end": 107.2,
     "text": "linking environment and farming. They want to encourage more people to visit the countryside.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 107.2,
     "end": 111.28,
     "text": "She recently appeared on the BBC's Farming Today Radio programme.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 111.28,
     "end": 116.56,
     "text": "She gave her response to the survey we mentioned, which revealed that many of us prefer to stay indoors.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 116.56,
     "end": 121.2,
     "text": "What does she say a quarter of people in the survey know and believe?",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 121.2,
     "end": 127.359,
     "text": "I can't believe that four in 10 millennials think that they should spend more time in the countryside",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 127.359,
     "end": 133.439,
     "text": "and a quarter of them know and believe that it's much better and easier to relax in the countryside,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 133.439,
     "end": 136.4,
     "text": "but they're just not going out. It's phenomenal.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 137.039,
     "end": 141.52,
     "text": "She was talking about a group in the survey which she called millennials.",
-    "speaker": null
+    "speaker": "millennialsmillennial"
   },
   {
+    "order": 36,
     "start": 142.24,
     "end": 149.52,
     "text": "This term refers to people who are young adults now, people who were born in the 1980s and 1990s.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 149.52,
     "end": 151.36,
     "text": "Are you a millennial, Neil?",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 151.36,
     "end": 155.759,
     "text": "No, I'm actually Generation X, the age group before millennials.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 155.759,
     "end": 159.12,
     "text": "We were born in the 1960s, 70s and early 80s.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 159.759,
     "end": 165.2,
     "text": "Shackleton said that a quarter of millennials know and believe that it's better and easier to relax",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 165.199,
     "end": 167.519,
     "text": "in the country, but they just don't go.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 167.519,
     "end": 169.599,
     "text": "She thought it was phenomenal.",
-    "speaker": null
+    "speaker": "phenomenal"
   },
   {
+    "order": 43,
     "start": 169.599,
     "end": 174.399,
     "text": "Now this adjective means that something is incredible, unbelievable.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 174.399,
     "end": 179.599,
     "text": "It's often used for something that's positive, something's very impressive or amazing.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 179.599,
     "end": 184.079,
     "text": "In this case though, she is using it to say how shocked and surprised she is,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 184.079,
     "end": 187.919,
     "text": "that people know going out in the country is good and a great way to relax,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 187.919,
     "end": 189.759,
     "text": "but they still don't do it.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 189.759,
     "end": 193.679,
     "text": "So what explanation does she have for this phenomenal behaviour?",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 193.76,
     "end": 195.2,
     "text": "Here's Annabelle Shackleton again.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 196,
     "end": 202.4,
     "text": "There are just so many other distractions and it's just so easy for people to stay indoors.",
-    "speaker": null
+    "speaker": "distractions"
   },
   {
+    "order": 51,
     "start": 202.4,
     "end": 206.319,
     "text": "You know, when they're using excuses like they haven't got the right closing,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 207.04,
     "end": 209.439,
     "text": "it's not Instagrammable, would you believe it?",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 209.439,
     "end": 211.2,
     "text": "And yes, it's a shame.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 212.08,
     "end": 215.12,
     "text": "She said that there are many other distractions.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 215.12,
     "end": 220,
     "text": "A distraction is something that takes your attention away from doing something.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 220.8,
     "end": 226.879,
     "text": "Usually we think of a distraction as something that delays us from doing something more important.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 226.879,
     "end": 231.52,
-    "text": "These days we have a lot of distractions or things that offer us easy entertainment. So it's very easy to come up with an excuse for not taking the time to go outside.",
+    "text": "These days we have a lot of distractions or things that offer us easy entertainment.",
     "speaker": "distractions"
   },
   {
+    "order": 58,
     "start": 231.52,
     "end": 236.159,
     "text": "and so it's very easy to come up with an excuse for not taking the time to go outside.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 236.159,
     "end": 239.36,
     "text": "Another very good excuse of course is the weather.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 239.36,
     "end": 243.599,
-    "text": "Another very good excuse of course is the weather. It's not a lot of fun to go out if it's cold and pouring with rain.",
-    "speaker": "Catherine"
+    "text": "It's not a lot of fun to go out if it's cold and pouring with rain.",
+    "speaker": null
   },
   {
+    "order": 61,
     "start": 243.599,
     "end": 248.24,
     "text": "Well, a very wise person once said that there's no such thing as the wrong weather,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 248.24,
     "end": 249.68,
     "text": "just the wrong clothing.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 63,
     "start": 249.76,
     "end": 254.159,
     "text": "True Neil, but you have to have the right clothing in the first place,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 254.159,
     "end": 260.4,
     "text": "and if the weather's terrible, you might not be able to get good pictures for your Instagram account.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 261.04,
     "end": 263.28,
     "text": "There might not be Instagrammable.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 264.16,
     "end": 269.12,
     "text": "Now, you're not going to find that word in the dictionary, but you probably know that the suffix",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 269.12,
     "end": 276.24,
     "text": "Abel means possible. So put Abel on the end of Instagram and you get Instagrammable.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 276.24,
     "end": 279.519,
     "text": "And that brings us neatly back to our question.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 69,
     "start": 279.519,
     "end": 283.599,
     "text": "What percentage of people in the survey said that they wouldn't go out in the country",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 283.599,
     "end": 286.719,
     "text": "because they wouldn't get good pictures for social media?",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 286.719,
     "end": 290.799,
     "text": "Was it around 10%, 30% or 50% or did you say Catherine?",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 290.799,
     "end": 291.839,
     "text": "I said 10.",
-    "speaker": "Catherine"
+    "speaker": null
   },
   {
+    "order": 73,
     "start": 291.839,
     "end": 293.599,
-    "text": "And the answer was about 30%!",
+    "text": "And the answer was about 30%",
     "speaker": "Neil"
   },
   {
+    "order": 74,
     "start": 293.599,
     "end": 295.599,
     "text": "What is the world coming to?",
-    "speaker": "Catherine"
+    "speaker": null
   },
   {
+    "order": 75,
     "start": 295.599,
     "end": 299.839,
     "text": "I don't know what the world's coming to, but we are coming to the end of the program.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 299.839,
     "end": 302.24,
     "text": "So time to review today's vocabulary.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 77,
     "start": 302.24,
     "end": 305.519,
     "text": "We started off with to venture out somewhere,",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 305.519,
     "end": 310.639,
     "text": "which means simply to go out somewhere, but usually when the conditions are bad.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 310.639,
     "end": 316,
     "text": "For example, it was pouring with rain, but I still decided to venture out to the shops.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 316,
     "end": 320.159,
-    "text": "We heard about millennials and generation X. Different age groups.",
-    "speaker": null
+    "text": "We heard about millennials and Generation X. Different age groups,",
+    "speaker": "millennials Generation Xmillennials Generation X"
   },
   {
+    "order": 81,
     "start": 320.159,
     "end": 324.879,
     "text": "Millennials are those who became adults in the early 21st century.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 324.879,
     "end": 330.719,
     "text": "And generation X are from the previous generation who became adults in the 1980s and 90s.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 330.72,
     "end": 336.48,
     "text": "Something phenomenal is amazing, surprising and unbelievable.",
-    "speaker": "phenomenal"
+    "speaker": null
   },
   {
+    "order": 84,
     "start": 336.48,
     "end": 341.12,
     "text": "And then we had distractions for activities that prevent us from doing more important things.",
     "speaker": "distractions"
   },
   {
+    "order": 85,
     "start": 341.12,
     "end": 344.88,
     "text": "And one of the biggest distractions is social media.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 344.88,
     "end": 349.44,
     "text": "Put the suffix abble onto the end of the name of a social media platform",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 349.44,
     "end": 353.68,
     "text": "and you create a word that describes something that's suitable for posting.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 353.68,
     "end": 355.52,
     "text": "So, Instagrammable.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 355.52,
     "end": 358.16,
     "text": "BBC Learning English is certainly Instagrammable,",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 358.16,
     "end": 361.52,
     "text": "Facebookable, Twitterble and YouTubeable.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 361.52,
     "end": 365.04,
     "text": "You can find us on all of those platforms as well as on our website.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 365.04,
     "end": 369.2,
     "text": "So do check us out there before joining us again for more 6 Minute English.",
+    "speaker": "instagramable"
+  },
+  {
+    "order": 93,
+    "start": 369.2,
+    "end": 369.68,
+    "text": "Goodbye.",
     "speaker": null
   },
   {
-    "start": 369.2,
-    "end": 369.68,
-    "text": "Goodbye!",
-    "speaker": "Catherine"
-  },
-  {
+    "order": 94,
     "start": 369.68,
     "end": 370.24,
     "text": "Goodbye.",

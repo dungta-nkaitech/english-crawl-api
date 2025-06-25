@@ -1,755 +1,881 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.32,
     "text": "6 Nudes English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.32,
     "end": 10.88,
     "text": "From BBC Learning English",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.08,
     "end": 14.32,
     "text": "Hello and welcome to 6 Minute English.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 14.32,
     "end": 16.719,
     "text": "I'm Neil and joining me today is Dan,",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 16.719,
     "end": 19.28,
     "text": "who is a producer at BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 19.28,
     "end": 20.719,
     "text": "That is his job.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 20.719,
     "end": 22,
     "text": "Hi everyone.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 22,
     "end": 24.4,
     "text": "Yes, that is my job, obviously.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 25.28,
     "end": 27.359,
     "text": "Why are we discussing that now, Neil?",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 27.359,
     "end": 31.28,
-    "text": "Well you haven't always been a producer at BBC Learning English, have you?",
+    "text": "Well you haven't always been a producer at BBC Learning English, have you? ",
     "speaker": "Neil"
   },
   {
+    "order": 12,
     "start": 31.28,
     "end": 33.439,
-    "text": "No… I used to be a teacher.",
-    "speaker": "Dan"
+    "text": "No, I used to be a teacher.",
+    "speaker": null
   },
   {
+    "order": 13,
     "start": 33.439,
     "end": 36.96,
     "text": "And before that, you know, way back your first ever job?",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 36.96,
     "end": 40.079,
     "text": "Ah, I had a paper round when I was 14.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 15,
     "start": 40.079,
     "end": 41.92,
     "text": "A paper round is a job.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 41.92,
     "end": 45.439,
     "text": "The job of delivering newspapers to people's homes.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 45.439,
     "end": 47.519,
     "text": "It's often done by teenagers.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 47.519,
     "end": 49.92,
     "text": "14 seems very young to be at work.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 19,
     "start": 50.399,
     "end": 52.56,
     "text": "And that's the topic of this 6 Minute English.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 52.56,
     "end": 54.96,
     "text": "Should school children have jobs?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 54.96,
     "end": 57.52,
     "text": "Seems fewer and fewer have these days.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 57.52,
     "end": 58.799,
     "text": "According to the statistics,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 59.52,
     "end": 61.28,
     "text": "we'll give you six words and expressions.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 61.28,
     "end": 63.359,
     "text": "And of course, our quiz question.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 63.359,
     "end": 64.159,
     "text": "You ready?",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 64.159,
     "end": 65.12,
-    "text": "You bet!",
-    "speaker": "Dan"
+    "text": "You bet.",
+    "speaker": null
   },
   {
+    "order": 27,
     "start": 65.12,
     "end": 69.519,
     "text": "What is the youngest age at which children are allowed to work in the UK?",
     "speaker": "Neil"
   },
   {
+    "order": 28,
     "start": 69.519,
     "end": 74.159,
     "text": "Is it a 12, b 13 or c 14?",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 74.159,
     "end": 76.56,
-    "text": "Well, I'm going to say 14,",
-    "speaker": null
+    "text": " Well, I'm going to say 14",
+    "speaker": "Neil"
   },
   {
+    "order": 30,
     "start": 76.56,
     "end": 78.879,
     "text": "just because that's how old I was.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 78.879,
     "end": 80.879,
     "text": "And it seems such a long time ago.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 80.879,
     "end": 84.64,
     "text": "Well, we'll find out if you're right or wrong at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 84.64,
     "end": 89.84,
     "text": "That let's start by hearing some British teenagers talking about their Saturday jobs.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 89.84,
     "end": 93.76,
     "text": "A Saturday job is the name we give to part-time work",
-    "speaker": null
+    "speaker": "Saturday jobs"
   },
   {
+    "order": 35,
     "start": 93.76,
     "end": 96.239,
     "text": "that teenagers do for extra money.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 96.239,
     "end": 97.84,
     "text": "As the name suggests,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 97.84,
     "end": 102.719,
     "text": "these jobs often take place on Saturdays, but not always.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 102.719,
     "end": 103.599,
-    "text": "That's right.",
-    "speaker": null
+    "text": "That's right ",
+    "speaker": "Neil"
   },
   {
+    "order": 39,
     "start": 103.599,
     "end": 109.04,
     "text": "Saturday job is a general term we use to describe part-time work done by teenagers.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 109.04,
     "end": 112.96,
     "text": "The work might take place on Sundays or any day of the week, in fact.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 112.959,
     "end": 117.119,
     "text": "Let's hear from these British children about their Saturday jobs.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 117.119,
     "end": 120.399,
     "text": "We have to face all the stuff on the shelves to make it look organised",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 120.399,
     "end": 123.119,
     "text": "and show customers where products are after the need to know.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 123.119,
     "end": 127.599,
-    "text": "On the average week I work nine hours, so two hours for two school nights,",
-    "speaker": null
+    "text": "On the average week I work nine hours, so two hours for two school nights ",
+    "speaker": "Insert Vox"
   },
   {
+    "order": 45,
     "start": 127.599,
     "end": 130.56,
     "text": "and then I work four hours on a Saturday and two hours on a Sunday.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 130.56,
     "end": 133.12,
     "text": "And then in their school holidays can work more,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 133.12,
     "end": 136.159,
     "text": "so it's like around 16 in the school holidays.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 137.12,
     "end": 142.56,
     "text": "The first teenager said the work involves making the shelves look organised.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 142.56,
     "end": 145.28,
     "text": "Shop work is a very typical Saturday job.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 145.28,
     "end": 148.8,
     "text": "Oh yes, I spent many a weekend and evenings stacking shelves.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 149.36,
     "end": 154.08,
     "text": "The second teenager's Saturday job takes place Saturdays, Sundays and evenings.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 52,
     "start": 154.08,
     "end": 157.439,
     "text": "As we said, a Saturday job is not just for Saturdays.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 157.439,
     "end": 162,
     "text": "A Saturday job is seen almost as a right of passage in the UK.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 162,
     "end": 165.92,
     "text": "A right of passage is the name we give to events or ceremonies",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 165.92,
     "end": 169.12,
     "text": "that form an important stage in a person's life.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 169.12,
     "end": 172.319,
     "text": "That's right, like graduating from school or having children.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 57,
     "start": 172.479,
     "end": 176.959,
     "text": "But according to the latest statistics in the UK, that is all changing.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 177.519,
     "end": 179.519,
     "text": "Listen to this BBC report.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 179.519,
     "end": 182.799,
     "text": "In order to work, they need a permit from the local authority.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 182.799,
     "end": 186.56,
     "text": "And our data shows the number being issued has fallen",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 186.56,
     "end": 193.84,
     "text": "from nearly 30,000 permits in 2012 to just 23,000 in 2016.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 193.84,
     "end": 198.639,
     "text": "Employers frequently bimmone the lack of work experience young people have,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 198.719,
     "end": 203.119,
     "text": "but teenagers are also facing pressure not to take up part-time jobs",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 203.119,
     "end": 205.839,
     "text": "and to concentrate on their studies instead.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 207.039,
     "end": 211.679,
-    "text": "So, it seems that fewer teenagers are taking Saturday jobs. But there's a conflict here.",
+    "text": "So, it seems that fewer teenagers are taking Saturday jobs.",
     "speaker": "Dan"
   },
   {
+    "order": 66,
     "start": 211.679,
     "end": 213.599,
     "text": "But there's a conflict here.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 213.599,
     "end": 218.239,
     "text": "Yes, on the one hand, employers bimmone the lack of work experience young people have.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 218.799,
     "end": 220.799,
     "text": "Bimmone, meaning complain about.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 220.799,
     "end": 222.319,
     "text": "It's a rather formal word.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 222.959,
     "end": 224.56,
     "text": "But on the other hand,",
-    "speaker": null
+    "speaker": "detrimental"
   },
   {
+    "order": 71,
     "start": 224.64,
     "end": 228.4,
     "text": "teenagers are facing pressure not to take part-time jobs",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 228.4,
     "end": 230.4,
     "text": "and to concentrate on their studies.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 231.199,
     "end": 236.64,
     "text": "Some people think working could be detrimental to a school child's academic progress.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 237.28,
     "end": 240.159,
     "text": "Detrimental, which means causing harm.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 240.159,
     "end": 241.439,
     "text": "It's a tricky one, isn't it?",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 241.439,
     "end": 245.199,
     "text": "I think my Saturday spent stacking shelves and serving fish and chips",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 245.199,
     "end": 250.08,
     "text": "taught me valuable lessons about working with adults and also managing my money.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 250.08,
     "end": 252.8,
     "text": "I don't think it was detrimental to my education.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 252.88,
     "end": 255.439,
-    "text": "Well, you managed to get a job at BBC Learning English.",
-    "speaker": null
+    "text": "Well, you managed to get a job at BBC Learning English!",
+    "speaker": "hinder"
   },
   {
+    "order": 80,
     "start": 255.439,
     "end": 256.4,
     "text": "That's true.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 256.4,
     "end": 260.24,
     "text": "As for me, my paper round taught me the value of hard work.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 260.24,
     "end": 261.759,
     "text": "It didn't hinder me.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 262.56,
     "end": 266.48,
     "text": "Hinder means to stop someone or something from making progress.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 266.48,
     "end": 269.759,
     "text": "Well, let's not talk too much in case we hinder our students",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 270.319,
     "end": 272.879,
     "text": "onto the answer to our quiz question.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 272.879,
     "end": 273.519,
     "text": "I ask this.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 274.16,
     "end": 278.319,
     "text": "What is the youngest age at which children are allowed to work in the UK?",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 278.319,
     "end": 282.16,
     "text": "Is it A 12, B 13 or C 14?",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 282.24,
     "end": 284,
-    "text": "I said c) 14.",
-    "speaker": "Dan"
+    "text": "And I said C 14.",
+    "speaker": null
   },
   {
+    "order": 90,
     "start": 284,
     "end": 286,
     "text": "And I'm afraid you are wrong.",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 91,
     "start": 286,
     "end": 287.04,
     "text": "No.",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 92,
     "start": 287.04,
     "end": 290.16,
     "text": "You're allowed to work from the age of 13 in the UK.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 290.16,
     "end": 293.439,
     "text": "Exceptions to this rule include TV, theatre and modelling.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 293.439,
     "end": 294.08,
-    "text": "Oh, well.",
+    "text": "Oh well –",
+    "speaker": "Dan"
+  },
+  {
+    "order": 95,
+    "start": 294.08,
+    "end": 296.08,
+    "text": "I guess I should have spent more time at school.",
     "speaker": null
   },
   {
-    "start": 294.08,
-    "end": 296.08,
-    "text": "Oh well – I guess I should have spent more time at school.",
-    "speaker": "Dan"
-  },
-  {
+    "order": 96,
     "start": 296.64,
     "end": 298.8,
     "text": "Shall we have a recap of the vocabulary?",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 97,
     "start": 298.8,
     "end": 300.8,
     "text": "Did you have a paper round as a kid, Neil?",
-    "speaker": "Dan"
+    "speaker": null
   },
   {
+    "order": 98,
     "start": 301.6,
     "end": 305.68,
-    "text": "No I didn't, but I did help my best friend James deliver newspapers - in return for a pound. Big money back in the 80s!",
-    "speaker": "Neil"
+    "text": "No, I didn't, but I did help my best friend James deliver newspapers",
+    "speaker": null
   },
   {
+    "order": 99,
     "start": 305.68,
     "end": 307.28,
     "text": "in return for a pound.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 307.28,
     "end": 308.879,
     "text": "Big money back in the 80s.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 308.879,
     "end": 311.76,
     "text": "Did you supplement your earnings with a Saturday job?",
     "speaker": "Saturday job"
   },
   {
+    "order": 102,
     "start": 311.759,
     "end": 312.319,
     "text": "I did.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 312.319,
     "end": 316.48,
     "text": "I had a Saturday job in a supermarket and also in a fishing chip shop.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 316.48,
     "end": 318.399,
     "text": "But it wasn't always on a Saturday.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 318.399,
     "end": 320.319,
     "text": "Dan, is there a wedding ring on your finger?",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 320.319,
     "end": 320.959,
-    "text": "Yes, it is.",
-    "speaker": null
+    "text": "Yes it is. ",
+    "speaker": "Dan"
   },
   {
+    "order": 107,
     "start": 321.68,
     "end": 324.959,
     "text": "Marriage is a right of passage in many cultures.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 324.959,
     "end": 327.12,
     "text": "It's an important stage in a person's life.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 327.839,
     "end": 330.8,
     "text": "Talking of which, are those your kids on your screensaver?",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 330.8,
     "end": 331.279,
     "text": "Yep.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 331.279,
     "end": 334.48,
     "text": "Having children is another example of a right of passage.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 335.68,
     "end": 337.039,
     "text": "See how tired I look.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 337.039,
     "end": 339.199,
-    "text": "Do not bemoan your lack of sleep.",
-    "speaker": null
+    "text": "Do not bemoan your lack of sleep!",
+    "speaker": "Dan"
   },
   {
+    "order": 114,
     "start": 339.199,
     "end": 341.12,
     "text": "I'm sure they're wonderful people.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 341.68,
     "end": 345.28,
     "text": "Bemoan is quite a formal way of saying complain about.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 345.28,
     "end": 347.519,
     "text": "I think it's okay to bemoan a lack of sleep.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 348.079,
     "end": 350.399,
-    "text": "I think it's OK to bemoan my lack of sleep – it can have a detrimental effect on my health.",
-    "speaker": "Neil"
+    "text": "It can have a detrimental effect on my health.",
+    "speaker": null
   },
   {
+    "order": 118,
     "start": 350.399,
     "end": 353.36,
     "text": "Ah, detrimental, meaning harmful.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 353.36,
     "end": 357.439,
     "text": "As long as your tiredness doesn't hinder your work on six minute English.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 357.439,
     "end": 361.68,
     "text": "Well, I'd never let anything hinder my work on six minute English.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 361.68,
     "end": 364.24,
     "text": "That means stop from making progress.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 364.24,
     "end": 366.16,
-    "text": "I admire your dedication! Goodbye!",
-    "speaker": "Dan"
+    "text": "I admire your dedication.",
+    "speaker": "Neil"
   },
   {
+    "order": 123,
     "start": 366.8,
     "end": 367.6,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 367.6,
     "end": 368.16,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 371.12,
     "end": 373.92,
     "text": "From BBCLearningEnglish.com",

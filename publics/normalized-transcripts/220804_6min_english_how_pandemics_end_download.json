@@ -1,431 +1,503 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.44,
     "text": "This is a download from BBC Learning English to find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 13.919,
     "end": 17.92,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Sam.",
     "speaker": "Sam"
   },
   {
+    "order": 2,
     "start": 17.92,
     "end": 23.839,
     "text": "And I'm Neil. In March 2020, the World Health Organization, the WHO,",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 23.839,
     "end": 29.839,
     "text": "declared Covid-19 a pandemic. Now, after two and a half years in the shadow of Covid,",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 29.839,
     "end": 35.039,
     "text": "for many people, travel restrictions are ending, and many people around the world are starting",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 5,
     "start": 35.039,
     "end": 40.48,
     "text": "their lives again. But not everyone. Whether it's because of lockdowns and not seeing friends,",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 40.48,
     "end": 46.719,
     "text": "or getting sick, even dying, everyone wants to see an end to the pandemic. But with cases of Covid",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 46.719,
     "end": 51.519,
     "text": "infections still in the millions, and doctors warning about new variants of the disease,",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 51.52,
     "end": 57.28,
     "text": "is the pandemic really coming to an end? In this programme, we'll be finding out how pandemics end,",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 57.28,
     "end": 61.2,
     "text": "and, as usual, we'll be learning some related vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 61.2,
     "end": 66,
     "text": "Of course, pandemics are nothing new. Ancient texts are full of stories of",
-    "speaker": null
+    "speaker": "eradicated"
   },
   {
+    "order": 11,
     "start": 66,
     "end": 71.76,
     "text": "plagues which spread death in disease before eventually going away. In the middle ages,",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 71.76,
     "end": 77.28,
     "text": "the black death that killed over half of Europe's population lasted for four years.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 77.92,
     "end": 83.519,
     "text": "It's only with modern vaccines that diseases have been eradicated, completely ended.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 84.239,
     "end": 90.4,
     "text": "So, Neil, my question this week is, which disease was eradicated in 1977?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 90.96,
     "end": 95.68,
     "text": "Was it A, cholera, B, polio, or C, smallpox?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 96.319,
     "end": 98.719,
-    "text": "I'm going to say c) smallpox.",
-    "speaker": "Neil"
+    "text": "I'm going to say C, smallpox.",
+    "speaker": "eradicated"
   },
   {
+    "order": 17,
     "start": 98.719,
     "end": 101.84,
     "text": "Okay, I'll reveal the answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 101.84,
     "end": 106.96,
     "text": "Of course, the idea that the pandemic might not be ending isn't something people want to hear.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 19,
     "start": 107.28,
     "end": 112.48,
     "text": "Most people are sick of worrying about Covid and can't wait for things to get back to normal.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 112.48,
     "end": 118.32,
     "text": "But as Yale University Physician Professor Nicholas Christakis explained to BBC World Service",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 118.32,
     "end": 123.599,
     "text": "programme, the inquiry, it's not just the biological disease that needs to end.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 123.599,
     "end": 125.92,
     "text": "Pandemics have a social ending too.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 126.56,
     "end": 131.039,
-    "text": "Pandemics are not just a biological phenomenon, they're also a social phenomenon,",
-    "speaker": null
+    "text": "Pandemics are not just a biological phenomenon, they’re also a social phenomenon,",
+    "speaker": "declare victory,prematurelyheads in the sand."
   },
   {
+    "order": 24,
     "start": 131.039,
     "end": 136.159,
     "text": "and they end socially. And one of the ways that they end socially is when everyone just",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 136.24,
     "end": 141.599,
     "text": "sort of agrees that they have ended, when everyone is simply willing to tolerate more risk.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 141.599,
     "end": 147.359,
     "text": "In other words, we sort of declare victory, maybe prematurely, or another way of thinking about it",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 147.359,
     "end": 148.639,
     "text": "is we put our heads in the sand.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 149.68,
     "end": 154.8,
     "text": "Biologically, Covid still exists in the world, and most of us would rather not catch it.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 154.8,
     "end": 159.439,
     "text": "But if you're vaccinated, the risk of getting seriously ill is much lower.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 159.439,
     "end": 162.96,
     "text": "So it's reasonable to make plans to resume normal life.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 162.96,
     "end": 169.439,
     "text": "When enough people do this, we declare victory, a phrase meaning to announce something to be finished",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 169.439,
     "end": 173.6,
     "text": "before it actually is. But when it looks good enough.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 173.6,
     "end": 179.6,
     "text": "The danger is that we declare victory prematurely, too soon before it's the best time to do so.",
-    "speaker": null
+    "speaker": "prematurelybury your head in the sand"
   },
   {
+    "order": 34,
     "start": 180.159,
     "end": 185.68,
     "text": "Professor Christakis uses another idiom for this to bury your head in the sand,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 185.68,
     "end": 190.96,
     "text": "meaning to deliberately refuse to accept the truth about something you find unpleasant.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 190.96,
     "end": 196.32,
     "text": "It's also true that pandemics do not end in the same way for everyone everywhere.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 196.32,
     "end": 201.68,
-    "text": "It’s also true that pandemics do not end in the same way for everyone, everywhere. Rich western countries with the resources to vaccinate their populations are in a better position than most.",
-    "speaker": "Sam"
+    "text": "Rich, Western countries with the resources to vaccinate their populations are in a better position",
+    "speaker": null
   },
   {
+    "order": 38,
     "start": 201.68,
     "end": 206.8,
     "text": "than most. Professor Dora Varga is an expert on the history of medicine.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 206.8,
     "end": 211.6,
     "text": "She compares the Covid pandemic to an ongoing disease for which we have no cure",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 40,
     "start": 211.6,
     "end": 216.96,
     "text": "and which has killed millions since its outbreak in the 1980s, HIV AIDS.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 217.68,
     "end": 221.92,
     "text": "Here is Professor Varga speaking with the BBC World Services, the inquiry.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 222.96,
     "end": 229.52,
     "text": "What happens with the case of HIV AIDS is that it became from being an immediate death sentence",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 229.52,
     "end": 235.36,
     "text": "basically to a manageable chronic disease. But that happens in societies that have the means",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 235.36,
     "end": 238.4,
     "text": "and the infrastructure to make that possible with medication.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 238.4,
     "end": 242.4,
     "text": "And that is not necessarily true for all parts of the world.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 242.4,
     "end": 247.039,
     "text": "But we don't think about the HIV AIDS pandemic as an ongoing pandemic.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 247.92,
     "end": 254.319,
     "text": "Although HIV has no cure, modern medical drugs allow people to continue living with the disease",
-    "speaker": null
+    "speaker": "death sentence"
   },
   {
+    "order": 48,
     "start": 254.319,
     "end": 261.04,
     "text": "for years. HIV is no longer a death sentence, a phrase meaning the punishment of death for",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 261.04,
     "end": 267.759,
     "text": "committing a crime or from an incurable disease. Nowadays, HIV is no longer fatal.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 267.839,
     "end": 272.719,
     "text": "It has become a disease which can be controlled and is chronic or long-lasting.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 272.719,
     "end": 276.879,
     "text": "We no longer think of AIDS as a pandemic, but that's not true everywhere,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 276.879,
     "end": 281.439,
     "text": "only in countries which can provide the necessary medical drugs and support.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 281.439,
     "end": 286.319,
     "text": "Finding the right balance of Covid restrictions for communities of people exhausted by the",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 54,
     "start": 286.319,
     "end": 292.159,
     "text": "pandemic is an easy. Many scientists are warning that we haven't yet reached the beginning of",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 292.159,
     "end": 297.519,
     "text": "the end of Covid, but hopefully we're at least reaching the end of the beginning.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 297.519,
     "end": 304,
-    "text": "Let’s finish the programme on a hopeful note by remembering that diseases can and do eventually end – like in your quiz question, Sam.",
-    "speaker": "Neil"
+    "text": "Let's finish the programme on a hopeful note by remembering that diseases can and do eventually end.",
+    "speaker": null
   },
   {
+    "order": 57,
     "start": 304,
     "end": 306,
     "text": "Like in your quiz question, Sam.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 306,
     "end": 312.799,
     "text": "Ah yes, I asked which disease was eradicated in 1977. Neil said it was smallpox,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 312.799,
     "end": 315.439,
     "text": "which was the correct answer. Well done, Neil.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 60,
     "start": 316.079,
     "end": 323.279,
     "text": "Smallpox no longer occurs naturally, but did you know that samples of smallpox do still exist,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 323.279,
     "end": 327.519,
     "text": "frozen in American and Soviet laboratories during the Cold War?",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 327.519,
     "end": 331.439,
     "text": "As if the thought that the Covid pandemic might never end isn't scary enough.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 332.239,
     "end": 334.959,
     "text": "Right, let's recap the vocabulary we've learnt,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 334.959,
     "end": 339.839,
     "text": "starting with eradicate to completely get rid of something such as a disease.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 339.839,
     "end": 344.959,
-    "text": "If you declare victory, you announce something to be finished before it actually is. The danger is doing this is that you announce it prematurely, or too soon.",
+    "text": "If you declare victory, you announce something to be finished before it actually is.",
     "speaker": "declare victoryprematurely"
   },
   {
+    "order": 66,
     "start": 344.959,
     "end": 349.599,
     "text": "The danger in doing this is that you announce it prematurely or too soon.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 349.6,
     "end": 355.68,
-    "text": "The idiom bury your head in the sand means to refuse to accept or look at a situation you don’t like.",
-    "speaker": "bury your head in the sand"
+    "text": "The idiom, bury your head in the sand, means to refuse to accept or look at a situation you don't like.",
+    "speaker": null
   },
   {
+    "order": 68,
     "start": 355.68,
     "end": 361.52,
-    "text": "A death sentence means the punishment of death for committing a crime, or from an incurable disease.",
+    "text": "A death sentence means the punishment of death for committing a crime, or from an incurable disease",
     "speaker": "death sentence"
   },
   {
+    "order": 69,
     "start": 361.52,
     "end": 365.76,
     "text": "And finally, a chronic disease is one which lasts for a long time.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 365.76,
     "end": 370.56,
-    "text": "And finally, a chronic disease is one which lasts for a long time. Even though the pandemic hasn’t ended, our programme has because our six minutes are up. Bye for now!",
-    "speaker": "chronic"
+    "text": "Even though the pandemic hasn't ended, our programme has because our six minutes are up.",
+    "speaker": null
   },
   {
+    "order": 71,
     "start": 370.56,
     "end": 371.76,
     "text": "Bye for now. Bye.",

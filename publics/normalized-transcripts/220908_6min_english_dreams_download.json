@@ -1,386 +1,450 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7,
     "text": "This is a download from BBC Learning English. To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7,
     "end": 14,
     "text": "6Nate English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 14,
     "end": 18,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 18,
     "end": 19,
-    "text": "And I’m Beth.",
-    "speaker": "Beth"
+    "text": "And I'm Beth.",
+    "speaker": null
   },
   {
+    "order": 4,
     "start": 19,
     "end": 23,
-    "text": "When I was a boy, I wanted to be a fireman when I grew up. How about you, Beth? Did you have any childhood dreams?",
+    "text": "When I was a boy, I wanted to be a fireman when I grew up.",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 23,
     "end": 26,
     "text": "How about you, Beth? Did you have any childhood dreams?",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 26,
     "end": 30,
-    "text": "I wanted to be an astronaut and fly to the Moon…",
-    "speaker": "Beth"
-  },
-  {
-    "start": 30,
-    "end": 35,
-    "text": "When we're young, most of us have big dreams and plans for the future.",
+    "text": "I wanted to be an astronaut and fly to the moon.",
     "speaker": null
   },
   {
-    "start": 35,
-    "end": 44,
-    "text": "When we’re young most of us have big dreams and plans for the future. Unfortunately, as we grow up these childhood dreams often get lost in the adult world of jobs, money, families and careers. But not for everyone…",
+    "order": 7,
+    "start": 30,
+    "end": 35,
+    "text": "When we’re young most of us have big dreams and plans for the future. ",
     "speaker": "Neil"
   },
   {
+    "order": 8,
+    "start": 35,
+    "end": 44,
+    "text": "Unfortunately, as we grow up, these childhood dreams often get lost in the adult world of jobs, money, families and careers.",
+    "speaker": null
+  },
+  {
+    "order": 9,
     "start": 44,
     "end": 46,
     "text": "But not for everyone.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 46,
     "end": 54,
     "text": "Daisy, from New Zealand and Herman from Argentina, are two people who decided to follow their childhood dreams.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 54,
     "end": 62,
     "text": "They wanted the world to become a utopia, a perfect, ideal society where everyone is happy and gets along with each other.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 62,
     "end": 72,
     "text": "In this programme, we'll be hearing how Daisy and Herman made their dreams come true, not by changing the world, but by changing themselves.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 72,
     "end": 76,
     "text": "And as usual, we'll be learning some new vocabulary too.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 76,
     "end": 83,
     "text": "But before that, I have a question for you, Beth. Following your dreams can be tough, but not following them can you?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 83,
     "end": 88,
     "text": "Not following them can leave you regretting all the things you wanted to do, but didn't.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 16,
     "start": 88,
     "end": 99,
     "text": "In 2012, Australian nurse Bronny Ware wrote her bestselling book, The Top 5 Regrets of the Dying, after interviewing terminally ill patients about their life regrets.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 99,
     "end": 102,
     "text": "So, what do you think their top regret was?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 102,
     "end": 106,
-    "text": "a)    I wish I hadn’t worked so hard?",
-    "speaker": "Neil"
+    "text": "Was it A, I wish I hadn't worked so hard?",
+    "speaker": null
   },
   {
+    "order": 19,
     "start": 106,
     "end": 111,
-    "text": "b)    I wish I had followed my dreams?  or",
+    "text": "B, I wish I had followed my dreams or C, I wish I'd made more money.",
     "speaker": "Neil"
   },
   {
+    "order": 20,
     "start": 111,
     "end": 115,
     "text": "Well, I'll guess it's B, they wish they'd followed their dreams.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 115,
     "end": 119,
     "text": "Okay, Beth, I'll reveal the correct answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 119,
     "end": 128,
     "text": "The first dreamer we're going to meet lives in Riverside, a peace loving community in New Zealand where everyone shares everything.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 128,
     "end": 135,
     "text": "Riverside members work for the community's businesses, including a farm, a hotel and a cafe.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 136,
     "end": 141,
     "text": "All the money they earn is collected and shared between everyone equally.",
-    "speaker": null
-  },
-  {
-    "start": 141,
-    "end": 146,
-    "text": "Daisy, who was born in East Germany, joined Riverside in 2004.",
-    "speaker": null
-  },
-  {
-    "start": 146,
-    "end": 152,
-    "text": "Daisy, who was born in East Germany, joined Riverside in 2004. Here she explains her belief in sharing to BBC World Service programme, The Documentary.",
     "speaker": "Neil"
   },
   {
+    "order": 25,
+    "start": 141,
+    "end": 146,
+    "text": "Daisy, who was born in East Germany, joined Riverside in 2004.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 26,
+    "start": 146,
+    "end": 152,
+    "text": "Here she explains her belief in sharing to BBC World Service programme, The Documentary.",
+    "speaker": null
+  },
+  {
+    "order": 27,
     "start": 152,
     "end": 160,
     "text": "What I think I always believed in is that the sharing of resources can provide a group of people with quite a great advantage,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 160,
     "end": 166,
     "text": "but it doesn't matter how many hours you work or what work you do, everyone is getting the same amount.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 166,
     "end": 176,
     "text": "And there is something that many people outside of Riverside really struggle with and where they are often getting this communism label attached to us.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 176,
     "end": 180,
     "text": "Because it seems so outlandish for people.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 180,
     "end": 183,
-    "text": "Riverside isn't a communist community.",
-    "speaker": null
+    "text": "Riverside isn’t a communist community.",
+    "speaker": "struggle withstruggle with"
   },
   {
+    "order": 32,
     "start": 183,
     "end": 188,
     "text": "In fact, people with many different political views live there.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 188,
     "end": 194,
     "text": "But Daisy says that local people struggle with the idea that everything is shared.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 194,
     "end": 199,
-    "text": "If you struggle with an idea, you find it difficult to accept.",
-    "speaker": "struggle with"
+    "text": "If you struggle with an idea, you find it difficult to accept or think about it.",
+    "speaker": null
   },
   {
+    "order": 35,
     "start": 199,
     "end": 206,
-    "text": "Daisy also says some local people call Riverside outlandish – strange and unusual.",
-    "speaker": "outlandish"
+    "text": "Daisy also says some local people call Riverside outlandish, strange and unusual.",
+    "speaker": null
   },
   {
+    "order": 36,
     "start": 206,
     "end": 210,
     "text": "Our second group of dreamers are a family, the Zaps.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 210,
     "end": 224,
     "text": "In 2000, childhood sweethearts, Herman and Candelaria Zap bought a vintage car and set off from Argentina to travel around the world with less than $3,500 in their pockets.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 224,
     "end": 235,
     "text": "22 years and three children later, they have visited over a hundred countries, meeting with countless people and experiences on the way.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 235,
     "end": 244,
     "text": "Here, Herman Zap explains to BBC World Services the documentary, how following his dream has changed him for the better.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 244,
     "end": 248,
     "text": "I am so happy with the Herman. There is now that I know now.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 41,
     "start": 248,
     "end": 253,
     "text": "It's not the one who wanted to conquer the world, but the one who was conquered by the world.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 253,
     "end": 255,
     "text": "I learned so much from people.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 255,
     "end": 260,
     "text": "It's amazing how the more you meet people, the more you know story, how much more humble you become.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 260,
     "end": 269,
     "text": "You notice that you are a beautiful tiny piece of sand, but I am very important piece of sand like everyone is, right?",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 269,
     "end": 278,
     "text": "After many years traveling, meeting new people and hearing their stories, Herman is more humble, not proud or arrogant.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 278,
     "end": 287,
     "text": "He no longer wants to conquer the world to control it by force, rather he has been conquered by his experiences.",
+    "speaker": "humbleconquer"
+  },
+  {
+    "order": 47,
+    "start": 287,
+    "end": 302,
+    "text": "Herman compares himself to a beautiful but tiny piece of sand and uses the phrase, a grain of sand, to describe things which are insignificant in themselves, but at the same time are an important part of the whole.",
     "speaker": null
   },
   {
-    "start": 287,
-    "end": 302,
-    "text": "Herman compares himself to a beautiful but tiny piece of sand and uses the phrase a grain of sand to describe things which are insignificant in themselves, but at the same time are an important part of the whole.",
-    "speaker": "a grain of sand"
-  },
-  {
+    "order": 48,
     "start": 302,
     "end": 312,
     "text": "Daisy and Herman are rare examples of dreamers who follow their dream and found a happy life lived without regret, which reminds me of your question, Neil.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 312,
     "end": 317,
     "text": "Yes, I asked about Brony Wears book, The Top 5 Regrets of the Dying.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 317,
     "end": 320,
     "text": "What do you think the number one regret was, Beth?",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 51,
     "start": 320,
     "end": 324,
     "text": "I guess it was B, not following your dreams.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 324,
     "end": 326,
     "text": "Which was the right answer.",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 53,
     "start": 326,
     "end": 332,
     "text": "Not having the courage to follow your dreams was listed as the top life regret.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 332,
     "end": 337,
     "text": "At least we have people like Daisy and Herman to remind us dreams can come true.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 337,
     "end": 346,
     "text": "Okay, let's recap the vocabulary from this programme, starting with Utopia, a perfect world where everyone is happy.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 346,
     "end": 350,
     "text": "If you struggle with an idea, you find it difficult to accept.",
-    "speaker": null
+    "speaker": "utopia"
   },
   {
+    "order": 57,
     "start": 350,
     "end": 354,
-    "text": "The adjective, outlandish, means strange and unusual.",
+    "text": "The adjective outlandish means strange and unusual.",
     "speaker": "outlandish"
   },
   {
+    "order": 58,
     "start": 354,
     "end": 358,
     "text": "To conquer something means to control it by force.",
-    "speaker": "conquer"
+    "speaker": null
   },
   {
+    "order": 59,
     "start": 358,
     "end": 362,
     "text": "Someone who is humble is not proud or arrogant.",
     "speaker": "humble"
   },
   {
+    "order": 60,
     "start": 362,
     "end": 369,
     "text": "Similarly, the phrase, a grain of sand, describes something which is both insignificant yet somehow important.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 369,
     "end": 371,
-    "text": "Once again, our six minutes are up. Bye for now!",
+    "text": "Once again, our six minutes are up.",
     "speaker": "Beth"
   },
   {
+    "order": 62,
     "start": 371,
     "end": 372,
     "text": "Bye for now.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 372,
     "end": 373,
-    "text": "Goodbye!",
-    "speaker": "Neil"
+    "text": "Goodbye.",
+    "speaker": null
   }
 ]

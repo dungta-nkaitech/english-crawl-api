@@ -1,467 +1,545 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 6,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 8,
     "end": 12.4,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 2,
     "start": 12.4,
     "end": 14.32,
-    "text": "And I’m Beth.",
-    "speaker": "Beth"
+    "text": "And I'm Beth.",
+    "speaker": null
   },
   {
+    "order": 3,
     "start": 14.32,
     "end": 19.199,
     "text": "Beth, what do you think about when I say the word octopus?",
     "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 19.199,
     "end": 22.199,
     "text": "Well, I know they're intelligent.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 22.199,
     "end": 25,
     "text": "They can change colour to hide in their surroundings.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 25,
     "end": 28,
     "text": "And of course, they have eight arms,",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 28,
     "end": 32,
     "text": "but I have to admit, I also think about how they taste.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 32,
     "end": 33,
     "text": "Delicious.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 33,
     "end": 35,
     "text": "Yeah, I think that too.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 35,
     "end": 37,
-    "text": "As do plenty of other people.",
-    "speaker": null
+    "text": " as do plenty of other people",
+    "speaker": "umamiUmami"
   },
   {
+    "order": 11,
     "start": 37,
     "end": 43,
     "text": "Octopus is most commonly eaten in South Korea, Spain, Portugal and Japan,",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 43,
     "end": 46,
     "text": "where they can't get enough of that umami flavour.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 46,
     "end": 51,
     "text": "Umami is one of the five basic tastes and is a savoury flavour.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 51,
     "end": 55,
     "text": "Until recently, octopus has only been caught in the wild.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 55,
     "end": 62,
     "text": "But now, a Spanish multinational company has announced it will be ready to sell farmed octopus soon,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 62,
     "end": 68,
     "text": "which campaigners have described as ethically and ecologically unjustified.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 68,
     "end": 71,
     "text": "This is because octopuses are sentient.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 71,
     "end": 77,
     "text": "An adjective describing a thing that experiences feelings like pleasure and pain.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 77,
     "end": 83,
     "text": "Humans and many other animals like pigs, monkeys and birds are also sentient.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 83,
     "end": 89,
     "text": "So, is it okay to farm octopus when they have been shown to experience feelings?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 89,
     "end": 94,
     "text": "In this programme, we'll be discussing whether farming octopus can ever be ethical.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 94,
     "end": 99,
     "text": "And as usual, we'll be learning some useful new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 99,
     "end": 102,
-    "text": "But first, I have a question for you, Beth.",
-    "speaker": null
+    "text": "But first I have a question for you, Beth. ",
+    "speaker": "Neil"
   },
   {
+    "order": 24,
     "start": 102,
     "end": 106,
     "text": "Octopuses are known for their ability to problem solve.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 106,
     "end": 109,
     "text": "And when kept in tanks, have been known to escape.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 109,
     "end": 117,
     "text": "But where did Inky the octopus go when he broke out of his tank at the New Zealand National Aquarium in 2016?",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 117,
     "end": 121,
-    "text": "a) down a drain into the Pacific Ocean?",
-    "speaker": "Neil"
+    "text": "Was it A, down a drain into the Pacific Ocean?",
+    "speaker": null
   },
   {
+    "order": 28,
     "start": 121,
     "end": 127,
-    "text": "b) to the tank of a female octopus? or,",
+    "text": "B, to the tank of a female octopus or C to the Aquarium Carp Hark.",
+    "speaker": null
+  },
+  {
+    "order": 29,
+    "start": 127,
+    "end": 132,
+    "text": "Hmm, I'll guess he went to the tank of a female octopus.",
     "speaker": "Neil"
   },
   {
-    "start": 127,
-    "end": 132,
-    "text": "Hmm, I’ll guess he went to the tank of a female octopus.",
-    "speaker": "Beth"
-  },
-  {
+    "order": 30,
     "start": 132,
     "end": 135,
     "text": "Okay, Beth, I'll reveal the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 136,
     "end": 140,
     "text": "In many countries, it's not easy to find octopus in shops.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 32,
     "start": 140,
     "end": 146,
     "text": "But if plans for farmed octopus go ahead, you're much more likely to see it in the supermarket.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 146,
     "end": 152,
     "text": "Claire Marshall, who's been reporting on the octopus farm story since 2019,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 152,
     "end": 159,
     "text": "explains why octopuses have not been farmed before, as she told BBC World Service programme The Food Chain.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 160,
     "end": 168,
     "text": "They've got an incredibly complex life cycle, and it's scientists have been sort of working feverishly to try to close that life cycle,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 168,
     "end": 172,
     "text": "particularly in Mexico and Japan and obviously in Spain.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 172,
     "end": 177,
     "text": "They need life, food, the larvae, and also octopuses are incredibly solitary,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 177,
     "end": 185,
     "text": "and it just makes it really hard to manage to basically keep them in captivity at a commercial scale.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 185,
     "end": 190,
-    "text": "Octopuses are difficult to farm because they have a complex life cycle.",
-    "speaker": null
+    "text": "Octopuses are difficult to farm because they have a complex life cycle,",
+    "speaker": "life cycle"
   },
   {
+    "order": 40,
     "start": 190,
     "end": 195,
     "text": "The series of changes an animal goes through, starting with birth and ending with death.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 195,
     "end": 202,
     "text": "Unlike traditional farmed animals like chickens and pigs who are social animals and can be kept together,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 202,
     "end": 206,
     "text": "octopuses are solitary, meaning they like to live alone.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 206,
     "end": 211,
     "text": "This makes keeping them in captivity very difficult because of space.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 212,
     "end": 216,
     "text": "If an animal lives in captivity, it's kept somewhere and not allowed to leave,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 216,
     "end": 219,
     "text": "even if it wants to, like in a zoo.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 219,
     "end": 224,
     "text": "But it's not only space that is a problem when it comes to farming octopuses,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 224,
     "end": 227,
     "text": "it's their capacity to feel emotions as well.",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 48,
     "start": 227,
     "end": 233,
     "text": "Scientific researcher Dr Heather Browning has been studying the sentience of octopuses",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 233,
     "end": 236,
     "text": "for a British Government Commissioned report.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 236,
     "end": 243,
     "text": "She shared the report findings with Ruth Alexander, presenter of BBC Radio Full Program, The Food Chain.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 243,
     "end": 248,
     "text": "Sorry, we wanted to look at whether they had specific kinds of nerve connections,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 248,
     "end": 255,
     "text": "or they had specific kinds of brains, and whether they were capable of performing certain kinds of trade-off behaviors,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 255,
     "end": 262,
     "text": "or pain-related behaviors, learning behaviors, that we thought would correlate with the probability of sentience.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 262,
     "end": 269,
     "text": "And what we found for octopuses in particular is they seemed to me many of the criteria that we laid out.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 269,
     "end": 273,
-    "text": "The scientists found that octopuses do experience feelings,",
-    "speaker": null
+    "text": "The scientists found that octopuses do experience feelings ",
+    "speaker": "trade-offTrade-off"
   },
   {
+    "order": 56,
     "start": 273,
     "end": 279,
     "text": "because they show typical characteristics of sentient creatures, such as trade-off behavior.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 279,
     "end": 283,
     "text": "Trade-off means giving up one thing in return for another,",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 283,
     "end": 286,
     "text": "such as giving up shelter for food.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 286,
     "end": 293,
     "text": "So it looks like the debate about whether it's okay to farm and eat octopuses will continue.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 293,
     "end": 297,
     "text": "Okay, Beth, I think it's time I revealed the answer to my question.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 297,
     "end": 304,
-    "text": "OK, Beth. I think it’s time I revealed the answer to my question. I asked you where Inky the octopus went when he escaped his tank at the New Zealand National Aquarium.",
-    "speaker": "Neil"
+    "text": "I asked you where Inky the Octopus went when he escaped his tank at the New Zealand National Aquarium.",
+    "speaker": null
   },
   {
+    "order": 62,
     "start": 304,
     "end": 308,
     "text": "And I said it was to the tank of a female octopus.",
     "speaker": "Beth"
   },
   {
+    "order": 63,
     "start": 308,
     "end": 311,
     "text": "Well, that was the wrong answer I'm afraid.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 311,
     "end": 315,
     "text": "In fact, Inky the Octopus was trying to reach the tank of a female,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 315,
     "end": 321,
     "text": "but he found a drain instead, which led straight to the Pacific Ocean.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 321,
     "end": 326,
     "text": "Okay, let's recap the vocabulary we've learned from this program, starting with Umami.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 326,
     "end": 333,
     "text": "The flavor octopus has, which can be described as savory, and is one of the five basic tastes.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 333,
     "end": 338,
-    "text": "If something is sentient, it experiences feelings such as joy and pain.",
+    "text": "If something is sentient, it experiences feelings such as joy and pain. ",
     "speaker": "sentient,"
   },
   {
+    "order": 69,
     "start": 338,
     "end": 343,
     "text": "Life cycle is the series of changes something goes through from birth to death.",
-    "speaker": "Life cycle"
-  },
-  {
-    "start": 343,
-    "end": 346,
-    "text": "If something is solitary it likes to live alone.",
-    "speaker": "solitary"
-  },
-  {
-    "start": 346,
-    "end": 351,
-    "text": "In captivity means an animal is kept somewhere and is not allowed to leave.",
-    "speaker": "In captivity"
-  },
-  {
-    "start": 351,
-    "end": 356,
-    "text": "And finally, trade-off means to exchange one thing for another.",
     "speaker": null
   },
   {
+    "order": 70,
+    "start": 343,
+    "end": 346,
+    "text": "If something is solitary it likes to live alone. ",
+    "speaker": "solitary"
+  },
+  {
+    "order": 71,
+    "start": 346,
+    "end": 351,
+    "text": "In captivity means an animal is kept somewhere and is not allowed to leave.",
+    "speaker": null
+  },
+  {
+    "order": 72,
+    "start": 351,
+    "end": 356,
+    "text": "And finally, trade-off means to exchange one thing for another.",
+    "speaker": "trade-off"
+  },
+  {
+    "order": 73,
     "start": 356,
     "end": 358,
     "text": "Once again, our six minutes are up.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 358,
     "end": 363,
     "text": "Join us again soon for more useful vocabulary here at six minutes English.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 363,
     "end": 364,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 364,
     "end": 365,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 365,
     "end": 371,
     "text": "Six minutes English from BBCLearningEnglish.com",

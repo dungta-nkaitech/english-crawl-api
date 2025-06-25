@@ -28,8 +28,8 @@ export class EpisodeRepository {
             `INSERT INTO episodes (
                 id, title, description,
                 thumbnail_url, audio_url, pdf_url,
-                episode_url, created_at
-            ) VALUES ($1,$2,$3,$4,$5,$6,$7,$8)`,
+                episode_url, quiz_url, created_at
+            ) VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9)`,
             [
                 episode.id,
                 episode.title,
@@ -38,6 +38,7 @@ export class EpisodeRepository {
                 episode.audioUrl || null,
                 episode.pdfUrl || null,
                 episode.episodeUrl,
+                episode.quizUrl || null,
                 now,
             ],
         );

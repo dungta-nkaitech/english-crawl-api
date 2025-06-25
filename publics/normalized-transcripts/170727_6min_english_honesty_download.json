@@ -1,944 +1,1101 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.32,
-    "text": "6 Minute English.",
-    "speaker": null
+    "text": "6 Minute English,",
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 8.32,
     "end": 11.279,
     "text": "From BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 11.279,
     "end": 13.2,
     "text": "Hello and welcome to 6 Minute English,",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 13.2,
     "end": 16.879,
     "text": "where we bring you an interesting topic and six items of vocabulary.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 16.879,
     "end": 18.8,
     "text": "I'm Neil and joining me is Rob.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 18.8,
     "end": 19.76,
     "text": "Hello there.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 19.76,
     "end": 22.719,
     "text": "And today we've got six minutes to talk about honesty",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 22.719,
     "end": 24.879,
     "text": "and how honest people are,",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 24.879,
     "end": 27.519,
     "text": "particularly when it comes to spending money.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 27.519,
     "end": 29.679,
     "text": "So Neil, what's an honesty box?",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 29.759,
     "end": 31.359,
     "text": "Well, it's where you pay for something",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 13,
     "start": 31.359,
     "end": 33.039,
     "text": "by putting money in a box,",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 33.039,
     "end": 36.64,
     "text": "but it's up to you to put in the right amount.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 36.64,
     "end": 38.719,
     "text": "A small business might use this method",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 38.719,
     "end": 41.439,
     "text": "to take money for things like parking your car",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 41.439,
     "end": 42.719,
     "text": "or buying a newspaper",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 42.719,
     "end": 45.92,
     "text": "because it means you don't need a sales assistant.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 45.92,
     "end": 49.12,
     "text": "Hmm, but that means people could take a newspaper",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 49.12,
     "end": 52.079,
     "text": "or park their car without paying anything.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 52.079,
     "end": 55.439,
     "text": "An honesty box relies on people being honest.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 55.439,
     "end": 57.6,
     "text": "The adjective honest means truthful",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 57.6,
     "end": 59.2,
     "text": "and not trying to cheat people.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 24,
     "start": 59.2,
     "end": 60.88,
-    "text": "And the noun is honesty,",
-    "speaker": null
+    "text": "And the noun is honesty ",
+    "speaker": "Neil"
   },
   {
+    "order": 25,
     "start": 60.88,
     "end": 62.88,
     "text": "the quality of being truthful.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 62.88,
     "end": 64.879,
     "text": "Have you ever cheated an honesty box, Rob?",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 64.879,
     "end": 66.96,
     "text": "Ha, absolutely not. I never have.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 66.96,
     "end": 68,
     "text": "Honestly?",
     "speaker": "Neil"
   },
   {
+    "order": 29,
     "start": 68,
     "end": 69.28,
     "text": "Honestly.",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 30,
     "start": 69.28,
     "end": 70.4,
     "text": "And to cheat, by the way,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 70.4,
     "end": 72.32,
     "text": "means to trick or deceive someone",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 72.32,
     "end": 73.76,
     "text": "to get something you want.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 73.76,
     "end": 76.96,
     "text": "Honesty is the best policy, as they say.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 76.96,
     "end": 80.079,
     "text": "Which, of course, leads us onto our quiz.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 80.079,
     "end": 82.24,
-    "text": "The 6 Minute English Quiz.",
-    "speaker": null
-  },
-  {
-    "start": 82.24,
-    "end": 85.68,
-    "text": "The 6 minute English quiz! Who said ‘honesty is the best policy’? Was it…",
-    "speaker": "Dan"
-  },
-  {
-    "start": 86.4,
-    "end": 88.64,
-    "text": "a) Donald Trump",
-    "speaker": "Dan"
-  },
-  {
-    "start": 88.64,
-    "end": 92.799,
-    "text": "b) Benjamin Franklin or",
-    "speaker": "Dan"
-  },
-  {
-    "start": 92.799,
-    "end": 95.2,
-    "text": "Honestly, Neil! Everyone will know the answer to that.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 95.2,
-    "end": 97.439,
-    "text": "But do you know the answer to that, Rob?",
+    "text": " The 6 minute English quiz",
     "speaker": "Neil"
   },
   {
+    "order": 36,
+    "start": 82.24,
+    "end": 85.68,
+    "text": "Who said honesty is the best policy?",
+    "speaker": "Neil"
+  },
+  {
+    "order": 37,
+    "start": 86.4,
+    "end": 88.64,
+    "text": "Was it A, Donald Trump?",
+    "speaker": null
+  },
+  {
+    "order": 38,
+    "start": 88.64,
+    "end": 92.799,
+    "text": "B, Benjamin Franklin, or C, Richard Nixon?",
+    "speaker": null
+  },
+  {
+    "order": 39,
+    "start": 92.799,
+    "end": 95.2,
+    "text": "Honestly, Neil, everyone will know the answer to that.",
+    "speaker": null
+  },
+  {
+    "order": 40,
+    "start": 95.2,
+    "end": 97.439,
+    "text": "Ah, but do you know the answer to that, Rob?",
+    "speaker": null
+  },
+  {
+    "order": 41,
     "start": 97.439,
     "end": 100,
     "text": "Well, I'll have an honest guess.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 42,
+    "start": 100,
+    "end": 102.159,
+    "text": "I think it's B, Benjamin Franklin.",
     "speaker": null
   },
   {
-    "start": 100,
-    "end": 102.159,
-    "text": "Well, I'll have an honest guess. I think it's b) Benjamin Franklin.",
-    "speaker": "Rob"
-  },
-  {
+    "order": 43,
     "start": 102.159,
     "end": 103.439,
     "text": "Well, you might be right,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 44,
     "start": 103.439,
     "end": 105.519,
     "text": "but you might not. We'll find out at the end.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 105.519,
     "end": 108.319,
     "text": "I did like your use of honesty there, Rob.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 108.319,
     "end": 110.079,
     "text": "We can use the adverb, honestly,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 110.079,
     "end": 111.359,
     "text": "at the beginning of a sentence",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 111.359,
     "end": 113.519,
     "text": "to show that we're feeling irritated.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 113.519,
     "end": 116.079,
     "text": "For example, when your co-presenter picks a quiz question,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 116.079,
     "end": 116.96,
     "text": "that's too easy.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 117.039,
     "end": 117.919,
     "text": "Okay, okay.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 117.919,
     "end": 120.64,
     "text": "Let's move on now and hear from Philip Graves,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 120.64,
     "end": 124.239,
     "text": "a psychologist and author of the book, Consumerology,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 124.239,
     "end": 128,
     "text": "who can tell us about why honesty isn't always the best policy.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 128.879,
     "end": 130.799,
     "text": "The question is not our most consumers honest.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 130.799,
     "end": 132.719,
     "text": "The question is our most people honest,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 132.719,
     "end": 134.24,
     "text": "and the answer to that is no.",
-    "speaker": null
+    "speaker": "Philip Graves, Psychologist and author of the book Consumerology"
   },
   {
+    "order": 58,
     "start": 134.24,
     "end": 137.359,
     "text": "We have evolved with the capacity to be dishonest.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 137.359,
     "end": 140.719,
     "text": "It's part of our evolutionary psychological makeup,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 140.719,
     "end": 145.439,
     "text": "because if we can gain an advantage over the people around us,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 145.439,
     "end": 147.12,
     "text": "we have a greater chance of surviving.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 147.12,
     "end": 149.12,
     "text": "Now, what's important in that",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 149.12,
     "end": 152.4,
     "text": "is that we also benefit from being in a social group,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 152.4,
     "end": 154.639,
     "text": "and that was important in our evolutionary past.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 154.639,
     "end": 156.4,
     "text": "So there is a balance to strike",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 156.4,
     "end": 160,
     "text": "between the extent to which we can further our own nest,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 160,
     "end": 161.039,
     "text": "so to speak,",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 161.039,
     "end": 164,
     "text": "and the risk of being ostracised by the group.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 165.199,
     "end": 168.159,
-    "text": "A consumer is a person who buys things or services – for example, food or clothes.",
-    "speaker": "consumer"
+    "text": "A consumer is a person who buys things or services,",
+    "speaker": null
   },
   {
+    "order": 70,
     "start": 168.159,
     "end": 170.24,
     "text": "for example, food or clothes.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 170.24,
     "end": 172.639,
-    "text": "Or the use of a parking space – or a taxi.",
+    "text": "Or the use of a parking space or a taxi.",
     "speaker": "Rob"
   },
   {
+    "order": 72,
     "start": 172.719,
     "end": 176.319,
     "text": "Now, if I park my car and I don't pay for the parking space,",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 176.319,
     "end": 177.599,
     "text": "I'm being dishonest,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 177.599,
     "end": 179.599,
     "text": "but I'm also saving money.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 179.599,
     "end": 181.919,
     "text": "And Philip Graves says being dishonest",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 76,
     "start": 181.919,
     "end": 184.319,
     "text": "is part of our psychological makeup.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 184.319,
     "end": 185.439,
     "text": "What does that mean?",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 185.439,
     "end": 188.879,
     "text": "Our psychological makeup is the way the human mind works,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 188.879,
     "end": 190.319,
     "text": "the way we think.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 80,
     "start": 190.319,
     "end": 192.479,
     "text": "And it makes sense to be dishonest",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 81,
     "start": 192.479,
     "end": 195.359,
     "text": "if you gain an advantage through this behaviour.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 195.359,
     "end": 198.239,
     "text": "So when you take something without paying for it,",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 198.239,
     "end": 200.719,
     "text": "you save money, you can spend on something else.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 200.8,
     "end": 204.24,
-    "text": "So why do we place such importance on being honest then? – If we benefit from being dishonest?",
-    "speaker": "Neil"
+    "text": "So why do we place such importance on being honest then",
+    "speaker": null
   },
   {
+    "order": 85,
     "start": 204.24,
     "end": 206.4,
     "text": "if we benefit from being dishonest?",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 206.4,
     "end": 208.96,
-    "text": "Because it's selfish behaviour,",
-    "speaker": null
+    "text": "Because it's selfish behaviour ",
+    "speaker": "Rob"
   },
   {
+    "order": 87,
     "start": 208.96,
     "end": 211.84,
     "text": "which other members of our social group won't like.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 211.84,
     "end": 215.759,
     "text": "If everybody acted selfishly and dishonestly all the time,",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 215.759,
     "end": 218.24,
     "text": "the world will be a very unpleasant place.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 218.24,
     "end": 218.879,
     "text": "Selfish.",
+    "speaker": "Rob"
+  },
+  {
+    "order": 91,
+    "start": 218.879,
+    "end": 222.24,
+    "text": "Meaning only caring about yourself and not about other people.",
     "speaker": null
   },
   {
-    "start": 218.879,
-    "end": 222.24,
-    "text": "Selfish – meaning only caring about yourself and not about other people. That's a good point, Rob.",
-    "speaker": "Selfish"
-  },
-  {
+    "order": 92,
     "start": 222.24,
     "end": 223.36,
     "text": "That's a good point, Rob.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 223.36,
     "end": 227.039,
-    "text": "Yes, societies work better if people behave co-operatively – which means working together towards shared goals.",
-    "speaker": "co-operatively"
+    "text": "Yes, societies work better if people behave cooperatively,",
+    "speaker": null
   },
   {
+    "order": 94,
     "start": 227.039,
     "end": 230.159,
     "text": "which means working together towards shared goals.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 230.24,
     "end": 232.799,
-    "text": "So honesty really is the best policy then – at least most of the time!",
-    "speaker": "Neil"
+    "text": "So honesty really is the best policy then,",
+    "speaker": null
   },
   {
+    "order": 96,
     "start": 232.799,
     "end": 234.319,
     "text": "at least most of the time.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 234.319,
     "end": 237.12,
-    "text": "And now it's time for the answer to the quiz. Who said ‘honesty is the best policy’?",
-    "speaker": "Dan"
+    "text": "And now it's time for the answer to the quiz.",
+    "speaker": null
   },
   {
+    "order": 98,
     "start": 237.12,
     "end": 240.319,
     "text": "Who said honesty is the best policy?",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 240.319,
     "end": 241.359,
     "text": "What do you think, Rob?",
     "speaker": "Neil"
   },
   {
+    "order": 100,
     "start": 241.359,
     "end": 243.359,
     "text": "Okay, well, was it Benjamin Franklin?",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 243.359,
     "end": 245.759,
     "text": "And that was the right answer.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 245.759,
     "end": 246.56,
     "text": "Hey.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 103,
     "start": 246.56,
     "end": 248.479,
     "text": "Maybe the question was too easy.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 248.479,
     "end": 251.199,
     "text": "Benjamin Franklin wrote it in a book of Proverbs",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 251.199,
     "end": 253.199,
     "text": "called Poor Richards Almanac",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 253.199,
     "end": 256.319,
     "text": "between 1732 and 1758.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 256.319,
     "end": 258.24,
     "text": "Other famous quotes include,",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 258.24,
     "end": 260.96,
     "text": "There are no gains without pains.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 260.96,
     "end": 263.199,
     "text": "And have you something to do tomorrow?",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 263.199,
     "end": 263.92,
     "text": "Do it today.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 265.12,
     "end": 267.68,
     "text": "Okay, well, let's follow Franklin's wise words",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 267.68,
     "end": 270.8,
     "text": "and move right ahead with the vocabulary items we learned today.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 271.36,
     "end": 274,
     "text": "First up was the adjective Honest,",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 274,
     "end": 277.04,
     "text": "meaning truthful and not trying to cheat people.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 277.04,
     "end": 279.759,
     "text": "For example, Neil has a very honest face.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 280.56,
     "end": 285.199,
     "text": "Okay, then there's honesty and honestly,",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 285.199,
     "end": 287.439,
     "text": "the noun and adverb forms.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 287.519,
     "end": 288.639,
     "text": "For example,",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 288.639,
     "end": 290.24,
     "text": "um, honestly, Rob,",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 290.24,
     "end": 292.079,
-    "text": "Honestly, Rob, hurry up and do the second item!",
+    "text": "hurry up and do the second item.",
     "speaker": "Neil"
   },
   {
+    "order": 121,
     "start": 292.079,
     "end": 293.279,
     "text": "Okay, okay, I'm getting there.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 293.92,
     "end": 298.079,
-    "text": "OK, OK, I'm getting there! To cheat – means to behave dishonestly to get what you want.",
-    "speaker": "Rob"
+    "text": "To cheat means to behave dishonestly to get what you want.",
+    "speaker": null
   },
   {
+    "order": 123,
     "start": 298.079,
     "end": 300.56,
-    "text": "My granny always used to cheat in card games. It was so annoying!",
+    "text": "My granny always used to cheat in card games.",
     "speaker": "Neil"
   },
   {
+    "order": 124,
     "start": 300.56,
     "end": 301.839,
     "text": "It was so annoying.",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 301.839,
     "end": 304.8,
-    "text": "And I always used to cheat in spelling tests at school!",
-    "speaker": "Rob"
+    "text": "And I always used to cheat in spelling tests at school.",
+    "speaker": null
   },
   {
+    "order": 126,
     "start": 304.8,
     "end": 306.48,
     "text": "How dishonest, Rob.",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 306.48,
     "end": 308.72,
     "text": "Okay, number three, consumer.",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 308.72,
     "end": 312.159,
-    "text": "How dishonest, Rob! OK, number three. Consumer – a person who buys goods or services for their own personal use.",
-    "speaker": "Neil"
+    "text": "A person who buys goods or services for their own personal use.",
+    "speaker": null
   },
   {
+    "order": 129,
     "start": 312.159,
     "end": 315.759,
-    "text": "For example, 'I am a big consumer of chocolate bars'.",
-    "speaker": "Rob"
+    "text": "For example, I am a big consumer of chocolate bars.",
+    "speaker": null
   },
   {
+    "order": 130,
     "start": 316.079,
     "end": 317.439,
     "text": "That's horrible English, Rob.",
     "speaker": null
   },
   {
+    "order": 131,
     "start": 317.439,
     "end": 322.24,
     "text": "How about we ask UK consumers how much money they spend on food every month?",
     "speaker": null
   },
   {
+    "order": 132,
     "start": 322.24,
     "end": 324.48,
     "text": "Okay, I agree. That's a better example.",
     "speaker": null
   },
   {
+    "order": 133,
     "start": 324.48,
     "end": 326.639,
     "text": "Anyway, I never consume chocolate.",
     "speaker": null
   },
   {
+    "order": 134,
     "start": 326.639,
     "end": 327.759,
     "text": "Right, number four.",
     "speaker": null
   },
   {
+    "order": 135,
     "start": 327.759,
     "end": 330.879,
     "text": "Psychological makeup, the way our minds work.",
     "speaker": null
   },
   {
+    "order": 136,
     "start": 331.439,
     "end": 332.56,
     "text": "The way we think.",
     "speaker": null
   },
   {
+    "order": 137,
     "start": 332.56,
     "end": 336.319,
     "text": "For example, he had the psychological makeup of a serial killer.",
     "speaker": null
   },
   {
+    "order": 138,
     "start": 336.319,
     "end": 337.839,
     "text": "Ur, that's nasty.",
     "speaker": null
   },
   {
+    "order": 139,
     "start": 337.839,
     "end": 342.319,
-    "text": "That's nasty! Moving on – selfish – caring only about yourself and not other people.",
-    "speaker": "Neil"
+    "text": "Moving on, selfish, caring only about yourself and not other people.",
+    "speaker": null
   },
   {
+    "order": 140,
     "start": 342.319,
     "end": 344.079,
-    "text": "You only made yourself a cup of tea – that was a selfish thing to do!",
+    "text": "You only made yourself a cup of tea ",
     "speaker": "Rob"
   },
   {
+    "order": 141,
     "start": 344.079,
     "end": 345.599,
     "text": "That was a selfish thing to do.",
     "speaker": null
   },
   {
+    "order": 142,
     "start": 345.6,
     "end": 346.48,
-    "text": "What???",
-    "speaker": "Neil"
-  },
-  {
-    "start": 346.48,
-    "end": 347.68,
-    "text": "It was just an example.",
+    "text": "What?",
     "speaker": null
   },
   {
+    "order": 143,
+    "start": 346.48,
+    "end": 347.68,
+    "text": "It was just an example.",
+    "speaker": "Rob"
+  },
+  {
+    "order": 144,
     "start": 347.68,
     "end": 348.96,
     "text": "You're not selfish, Neil.",
     "speaker": null
   },
   {
+    "order": 145,
     "start": 348.96,
     "end": 351.84,
     "text": "You're actually the most cooperative person I know.",
     "speaker": null
   },
   {
+    "order": 146,
     "start": 351.84,
     "end": 354.64,
     "text": "You're happy to work with others towards a common goal.",
     "speaker": null
   },
   {
+    "order": 147,
     "start": 354.64,
     "end": 356.16,
-    "text": "Not selfish then?",
-    "speaker": "Neil"
+    "text": "Ah, not selfish, then.",
+    "speaker": null
   },
   {
+    "order": 148,
     "start": 356.16,
     "end": 358.24,
-    "text": "Never selfish. Always co-operative… And honest too.",
+    "text": "Never selfish. Always co-operative",
     "speaker": "Rob"
   },
   {
+    "order": 149,
     "start": 358.24,
     "end": 359.76,
     "text": "And honest too.",
     "speaker": null
   },
   {
+    "order": 150,
     "start": 359.76,
     "end": 360.56,
     "text": "Great.",
     "speaker": null
   },
   {
+    "order": 151,
     "start": 360.56,
     "end": 363.76,
-    "text": "Great. Now, I honestly recommend that listeners visit our Facebook, Twitter, Instagram and YouTube pages.",
-    "speaker": "Neil"
+    "text": "Now, I honestly recommend that listeners visit our Facebook,",
+    "speaker": null
   },
   {
+    "order": 152,
     "start": 363.76,
     "end": 366.24,
     "text": "Twitter, Instagram and YouTube pages.",
     "speaker": null
   },
   {
+    "order": 153,
     "start": 366.24,
     "end": 369.439,
-    "text": "You can co-operate with other learners in your common goal of improving your English! Bye-bye!",
+    "text": "You can cooperate with other learners in your common goal",
     "speaker": "Rob"
   },
   {
+    "order": 154,
     "start": 369.439,
     "end": 371.12,
     "text": "of improving your English.",
     "speaker": null
   },
   {
+    "order": 155,
     "start": 371.12,
     "end": 371.6,
     "text": "Bye-bye.",
     "speaker": null
   },
   {
+    "order": 156,
     "start": 371.6,
     "end": 372.08,
-    "text": "Goodbye!",
-    "speaker": "Neil"
+    "text": "Goodbye.",
+    "speaker": null
   }
 ]

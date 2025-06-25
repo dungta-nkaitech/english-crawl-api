@@ -1,569 +1,664 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 10.96,
     "text": "6Nate English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 13.2,
     "end": 17.359,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 17.359,
     "end": 18.64,
-    "text": "And I’m Rob.",
-    "speaker": "Rob"
+    "text": "And I'm Rob.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 18.64,
     "end": 23.28,
-    "text": "It’s great that you’re here to keep me company – to spend time with me so I don’t get lonely – because loneliness is the subject of this programme.",
+    "text": "It’s great that you’re here to keep me company – to spend time with me so I don’t get lonely",
     "speaker": "keep me company"
   },
   {
+    "order": 6,
     "start": 23.28,
     "end": 26.4,
     "text": "because loneliness is the subject of this programme.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 26.399,
     "end": 31.759,
     "text": "It's good to be here, Neil. I think many of us have experienced loneliness at some point.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 31.759,
     "end": 36.399,
     "text": "Maybe you felt lonely because all your friends have gone out for dinner without you,",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 36.399,
     "end": 40.32,
     "text": "or maybe you felt lonely just because you don't fit in somewhere.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 40.32,
     "end": 45.2,
-    "text": "Yes, that's when we sometimes use the expression to feel lonely in a crowd.",
-    "speaker": null
+    "text": "Yes, that’s when we sometimes use the expression ‘to feel lonely in a crowd",
+    "speaker": "Neil"
   },
   {
+    "order": 11,
     "start": 45.2,
     "end": 48.56,
     "text": "Well, we'll be exploring if this is a new idea or something.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 48.56,
     "end": 53.84,
     "text": "Humans have always experienced, and along the way we'll be teaching you some new vocabulary.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 53.84,
     "end": 58.08,
-    "text": "But now I’m here to keep you company, how about a question for me?",
-    "speaker": "Rob"
-  },
-  {
-    "start": 58.08,
-    "end": 62.64,
-    "text": "Of course. Well, one possibly lonely man is Mauro Morandi.",
+    "text": "But now I'm here to keep you company. How about a question for me?",
     "speaker": null
   },
   {
+    "order": 14,
+    "start": 58.08,
+    "end": 62.64,
+    "text": "Of course! Well, one possibly lonely man is Mauro Morandi.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 15,
     "start": 62.64,
     "end": 68.48,
     "text": "He's lived alone on Boudelli Island in Italy for many years, but how many years exactly?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 68.48,
     "end": 70.64,
     "text": "Is it A, six years?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 70.64,
     "end": 74,
-    "text": "b) 31 years, or",
+    "text": "b) 31 years, or c) 44 years?",
     "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 74,
     "end": 78.08,
     "text": "Hmm, 44 years will be tough, as with 31.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 78.08,
     "end": 79.92,
     "text": "So I'll go for six years.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 79.92,
     "end": 82.56,
     "text": "Okay, Rob, we'll find out later if that's right.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 82.56,
     "end": 87.519,
     "text": "Now, I'm sure we all want to be alone from time to time to escape the demands of our colleagues",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 22,
     "start": 87.519,
     "end": 92.079,
     "text": "or the pressures of real life, but would we really want to be totally alone?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 92.079,
     "end": 93.6,
-    "text": "Well, I certainly wouldn't.",
-    "speaker": null
-  },
-  {
-    "start": 93.6,
-    "end": 100.24,
-    "text": "Well, I certainly wouldn’t. And research has found that prolonged social isolation is bad for us, particularly mentally.",
+    "text": "Well, I certainly wouldn’t.",
     "speaker": "Rob"
   },
   {
+    "order": 24,
+    "start": 93.6,
+    "end": 100.24,
+    "text": "And research has found that prolonged social isolation is bad for us, particularly mentally.",
+    "speaker": null
+  },
+  {
+    "order": 25,
     "start": 100.24,
     "end": 106.159,
     "text": "It's an interesting topic, and one that the BBC Radio 4 program thinking allowed has been exploring.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 106.159,
     "end": 110.719,
     "text": "It's guest, Faye Bound Alberti, reader in history at the University of York,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 110.719,
     "end": 114.879,
     "text": "explained how loneliness is a relatively new emotional state.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 114.879,
     "end": 118.159,
     "text": "A state is a condition at a particular time.",
-    "speaker": null
-  },
-  {
-    "start": 118.159,
-    "end": 123.359,
-    "text": "A state is a condition at a particular time. Let’s hear what she had to say about references to loneliness in literature.",
     "speaker": "Rob"
   },
   {
+    "order": 29,
+    "start": 118.159,
+    "end": 123.359,
+    "text": "Let's hear what she had to say about references to loneliness in literature.",
+    "speaker": null
+  },
+  {
+    "order": 30,
     "start": 123.359,
     "end": 126.96,
     "text": "Well, novels are fascinating because there's a difference between novels in the 18th century",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 126.96,
     "end": 130.4,
     "text": "when the first came into being, and novels in the 19th century, in the 18th century,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 130.4,
     "end": 134.24,
     "text": "something like Robinson Crusoe, there's not a single reference to loneliness.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 134.24,
     "end": 137.36,
     "text": "By the 19th century, novels are full of lonely people,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 137.36,
     "end": 139.599,
     "text": "and that reflects those kinds of social changes.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 139.599,
     "end": 142.879,
     "text": "Give me some examples. What may I can't just an example?",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 142.879,
     "end": 146.079,
     "text": "Well, I suppose I'm thinking about if you compare something like",
-    "speaker": null
+    "speaker": "Interviewer"
   },
   {
+    "order": 37,
     "start": 146.079,
     "end": 150.639,
     "text": "weathering heights where you have this desi on the part of the heroin to find love,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 150.639,
     "end": 154.479,
     "text": "which is bundled up too in this sense of the self has not been complete",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 154.479,
     "end": 156.959,
     "text": "without another, or test of the Derbevelles.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 156.959,
     "end": 160.24,
     "text": "And so Victorian fiction in particular tends to be full of women",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 160.24,
     "end": 162.479,
     "text": "who are in search of the significant other,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 162.479,
     "end": 167.28,
     "text": "and needing to find happiness and an absence of loneliness in the domestic.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 167.36,
     "end": 170.879,
     "text": "It's interesting that Faye mentions the story of Robinson Crusoe",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 170.879,
     "end": 175.039,
     "text": "about a man living on a desert island does not mention the word loneliness.",
-    "speaker": null
+    "speaker": "social change"
   },
   {
+    "order": 45,
     "start": 175.759,
     "end": 180.639,
     "text": "But because of a shift in how people behaved and thought in the 19th century,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 180.639,
     "end": 185.92,
     "text": "called social change, loneliness became an emotion that was written about in stories.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 186.56,
     "end": 190.159,
     "text": "Ah, but loneliness tended to be something affecting women.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 190.159,
     "end": 194.639,
     "text": "They were searching for happiness by finding a significant other, a partner,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 194.639,
     "end": 198.319,
     "text": "usually a man who they wanted to marry, how things have changed.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 198.879,
     "end": 205.119,
     "text": "Yes, now Faye also went on to talk about how some female authors, like Virginia Woolf,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 205.119,
     "end": 209.919,
     "text": "looked for solitude that's being alone, because that helped them be creative.",
-    "speaker": null
+    "speaker": "solitude"
   },
   {
+    "order": 52,
     "start": 210.719,
     "end": 216.479,
     "text": "Even today being alone gives us headspace and time to think, as long as it doesn't last forever.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 216.479,
     "end": 220.159,
     "text": "Anyway, as we mentioned, we've probably all been lonely at some point,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 220.159,
     "end": 223.359,
     "text": "and Faye Boundau Bertie told the thinking allowed program",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 223.36,
     "end": 225.44,
     "text": "that loneliness can take many forms.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 226.56,
     "end": 231.28,
-    "text": "Absolutely, I think that loneliness is something that affects all people,",
-    "speaker": null
+    "text": "Absolutely, I think that loneliness is something that affects all people ",
+    "speaker": "pinch pointschronic"
   },
   {
+    "order": 57,
     "start": 231.28,
     "end": 232.96,
     "text": "but at different times in their lives.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 232.96,
     "end": 235.04,
     "text": "And I describe it in terms of pinch points.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 235.04,
     "end": 239.12,
     "text": "There are times when we change, we become, we get marriage, we become mothers,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 239.12,
     "end": 240.32,
     "text": "we get divorced.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 240.32,
     "end": 244.72,
     "text": "Anything that changes our life might put us under temporary loneliness.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 244.72,
     "end": 247.12,
     "text": "When it's a problem, is it when it becomes chronic?",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 247.76,
     "end": 251.68,
     "text": "It seems that there are certain times in our lives when we might feel lonely,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 251.68,
     "end": 255.68,
     "text": "when we break up with a partner or have a baby and feel isolated, for example.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 256.24,
     "end": 261.68,
     "text": "These are moments that Faye describes as pinch points, times in your life when there are difficulties",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 261.68,
     "end": 263.519,
     "text": "and things slow down or change.",
-    "speaker": null
+    "speaker": "Solitude"
   },
   {
+    "order": 67,
     "start": 264.16,
     "end": 269.439,
     "text": "We could say loneliness at these times is understandable, normal and temporary.",
-    "speaker": null
+    "speaker": "chronic"
   },
   {
+    "order": 68,
     "start": 269.92,
     "end": 275.28,
     "text": "When it becomes a bigger issue, it's what Faye describes as chronic, so long lasting.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 275.92,
     "end": 278.8,
     "text": "And loneliness isn't always obvious to other people,",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 278.8,
     "end": 283.84,
     "text": "so it's good to check in with friends and family to see how they're feeling and to ask if they're okay.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 284.4,
     "end": 287.759,
     "text": "Of course, it would be difficult to check in on Mauro Morandi,",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 287.759,
     "end": 292.879,
     "text": "who he's been living on Boudelli Island in Italy for many years, but how many years exactly?",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 293.6,
     "end": 296.4,
     "text": "Well, I thought six years. Was I right?",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 296.96,
     "end": 300.48,
     "text": "I'm afraid not, it's actually been 31 years.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 75,
     "start": 300.48,
     "end": 304.48,
     "text": "He told National Geographic magazine, I'm sort of in prison here,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 304.48,
     "end": 306.48,
     "text": "but it's a prison that I chose for myself.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 307.12,
     "end": 309.52,
     "text": "So I'm guessing he's got used to his own company.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 309.52,
     "end": 311.68,
     "text": "I certainly couldn't live alone for that long.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 311.68,
     "end": 313.92,
     "text": "I'd be too lonely. I need company, Rob.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 314.64,
     "end": 315.84,
-    "text": "Yeah, me too, Neil.",
-    "speaker": null
+    "text": "Yeah, me too Neil! ",
+    "speaker": "to keep someone company"
   },
   {
+    "order": 81,
     "start": 316.4,
     "end": 319.12,
     "text": "And loneliness is what we've been discussing in this program.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 319.12,
     "end": 322.08,
     "text": "Here's a recap of some of the vocabulary we've mentioned.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 322.64,
     "end": 328,
     "text": "Firstly, to keep someone company is to spend time with someone so they don't get lonely.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 328.64,
     "end": 331.68,
     "text": "Social change is a shift in how people behave and think.",
-    "speaker": "Social change"
+    "speaker": null
   },
   {
+    "order": 85,
     "start": 332.48,
     "end": 336.639,
     "text": "A significant other is an informal way of describing a partner.",
-    "speaker": "significant other"
+    "speaker": null
   },
   {
+    "order": 86,
     "start": 337.6,
     "end": 339.84,
     "text": "Solitude describes being alone.",
-    "speaker": "Solitude"
+    "speaker": null
   },
   {
+    "order": 87,
     "start": 340.72,
     "end": 346.16,
-    "text": "When talking about life, pinch points are times where there are difficulties and things slow down or change. And chronic describes a health condition that is long lasting.",
-    "speaker": "pinch pointschronic"
+    "text": "When talking about life, pinch points are times where there are difficulties and things slow",
+    "speaker": null
   },
   {
+    "order": 88,
     "start": 346.16,
     "end": 351.04,
     "text": "down or change. And chronic describes a health condition that is long-lasting.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 351.6,
     "end": 354.16,
     "text": "And that's all we have time for in this program.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 90,
     "start": 354.16,
     "end": 357.519,
     "text": "But remember, you can find more useful vocabulary,",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 357.519,
     "end": 362.56,
     "text": "trending topics and help with your language learning here at BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 362.56,
     "end": 366.959,
     "text": "We also have an app that you can download for free from the app stores.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 366.959,
     "end": 370.719,
     "text": "And of course, we are all over social media. Bye for now.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 370.719,
     "end": 371.279,
     "text": "Bye-bye.",

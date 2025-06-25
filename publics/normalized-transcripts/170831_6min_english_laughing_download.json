@@ -1,845 +1,986 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6Nate English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.279,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.4,
     "end": 14.48,
     "text": "Hello and welcome to 6 Minute English,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 14.48,
     "end": 16.559,
     "text": "where we bring you an entertaining topic",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 16.559,
     "end": 19.199,
     "text": "and six related items of vocabulary.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 19.199,
     "end": 20,
     "text": "I'm Neil.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 20,
     "end": 22.48,
     "text": "LAUGHTER",
-    "speaker": null
+    "speaker": "guffaw"
   },
   {
+    "order": 9,
     "start": 22.48,
     "end": 24.8,
     "text": "And those...",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 24.8,
     "end": 26.8,
     "text": "Gaffors you can hear...",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 26.8,
     "end": 27.679,
     "text": "LAUGHTER",
-    "speaker": null
+    "speaker": "Tim"
   },
   {
+    "order": 12,
     "start": 27.679,
     "end": 29.679,
     "text": "...are coming from Tim.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 29.679,
     "end": 31.679,
     "text": "So, what's so funny, Tim?",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 31.679,
     "end": 32.88,
-    "text": "LAUGHTER",
-    "speaker": null
+    "text": "Laughter",
+    "speaker": "Sophie Scott, cognitive neuroscientist"
   },
   {
+    "order": 15,
     "start": 32.88,
     "end": 34.159,
     "text": "Can you...",
-    "speaker": null
+    "speaker": "Tim"
   },
   {
+    "order": 16,
     "start": 34.159,
     "end": 35.679,
     "text": "Can you pass me the last of four to...",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 35.679,
     "end": 37.039,
     "text": "Yes, OK, here you go.",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 18,
     "start": 38.32,
     "end": 40.88,
     "text": "Well, it was just something our producer said",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 40.88,
     "end": 42.56,
     "text": "before I came into the studio.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 43.439,
     "end": 46,
     "text": "A Gaffor, by the way, is a loud laugh",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 46,
     "end": 47.679,
     "text": "that you can't control.",
-    "speaker": null
+    "speaker": "Tim"
   },
   {
+    "order": 22,
     "start": 47.679,
     "end": 50.239,
     "text": "LAUGHTER",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 23,
     "start": 50.239,
     "end": 53.2,
     "text": "So, while Tim laughed his head off,",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 53.2,
     "end": 55.039,
     "text": "and that means to laugh very loudly",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 55.039,
     "end": 57.679,
     "text": "for a long time, I'll introduce the show.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 57.679,
     "end": 60.24,
     "text": "Today, Tim, we're talking about laughter",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 60.24,
     "end": 61.759,
     "text": "and how it could kill you.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 61.759,
     "end": 62.719,
-    "text": "LAUGHTER",
-    "speaker": null
+    "text": "laughter",
+    "speaker": "Neil"
   },
   {
+    "order": 29,
     "start": 62.719,
     "end": 64.719,
     "text": "Oh, come on, Neil.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 64.719,
     "end": 66.56,
     "text": "That's not funny.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 66.56,
     "end": 67.76,
     "text": "Laughing is good for you.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 67.76,
     "end": 68.879,
     "text": "Everyone knows that.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 68.879,
     "end": 71.28,
     "text": "Well, not when you laugh like that, Tim.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 71.28,
     "end": 73.359,
     "text": "You're bright red in the face.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 73.359,
     "end": 76.239,
     "text": "You've got tears streaming down your face",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 76.239,
     "end": 78.159,
     "text": "and you nearly choked on a glass of water.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 78.96,
     "end": 80.64,
     "text": "Choke means to stop breathing",
-    "speaker": null
+    "speaker": "Tim"
   },
   {
+    "order": 38,
     "start": 80.64,
     "end": 83.28,
     "text": "because something's blocking your throat, by the way.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 83.28,
     "end": 85.359,
     "text": "Now, without laughing or choking,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 85.359,
     "end": 87.679,
     "text": "can you please tell me how many times a day",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 87.679,
     "end": 89.84,
     "text": "the average adult laughs?",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 89.84,
     "end": 95.519,
     "text": "Is it A, 17, B, 70, or C, 700?",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 43,
     "start": 96.079,
     "end": 97.039,
     "text": "Mmm.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 97.039,
     "end": 100.079,
     "text": "Or surely it depends on what type of person you are.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 100.079,
     "end": 101.439,
     "text": "Mmm, maybe it does.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 101.439,
     "end": 104.64,
-    "text": "Maybe it does. That's why I'm asking about the average number of times Tim, so just make an intelligent guess.",
-    "speaker": "Neil"
+    "text": "That's why I'm asking about the average number of times, Tim.",
+    "speaker": "Tim"
   },
   {
+    "order": 47,
     "start": 104.64,
     "end": 106.239,
     "text": "So, just make an intelligent guess.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 106.239,
     "end": 107.12,
     "text": "OK.",
-    "speaker": null
+    "speaker": "Tim"
   },
   {
+    "order": 49,
     "start": 107.12,
     "end": 108.64,
     "text": "Well, I laugh a lot,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 108.64,
     "end": 112,
     "text": "so I'm going to say 70 times a day.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 112.159,
     "end": 115.68,
     "text": "700 seems like you'd be laughing all the time.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 115.68,
     "end": 117.84,
     "text": "But you've worried me, Neil.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 117.84,
     "end": 121.84,
     "text": "I know we sometimes say I nearly died laughing,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 121.84,
     "end": 125.359,
     "text": "but nobody does actually die laughing, do they?",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 125.359,
     "end": 129.52,
     "text": "Well, I think the risk of dying of laughter is probably low,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 129.52,
     "end": 133.759,
     "text": "but in theory, what happens when we laugh is potentially dangerous?",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 133.759,
     "end": 136.319,
     "text": "Let's listen to cognitive neuroscientists",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 136.319,
     "end": 139.84,
     "text": "Sophie Scott talking about what happens when we laugh.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 140.24,
     "end": 144.64,
     "text": "Laughter, in a competition for control of your ribcage",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 144.64,
     "end": 147.84,
     "text": "in your brain between laughter and breathing and speaking,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 147.84,
     "end": 149.84,
     "text": "laughter will always win.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 149.84,
     "end": 151.84,
     "text": "And laughter just takes those same muscles",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 151.84,
     "end": 155.84,
     "text": "and it squeezes them out, out, out, out, out, out.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 155.84,
     "end": 156.84,
     "text": "It goes out, out, out, out.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 156.84,
     "end": 158.84,
     "text": "And notably, it does not want to let you breathe in.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 158.84,
     "end": 159.84,
     "text": "It's trying to kill you.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 159.84,
     "end": 163.84,
     "text": "It's quite, it's quite dangerous.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 163.84,
     "end": 167.84,
     "text": "So, when you laugh a lot, your diaphragm,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 167.84,
     "end": 171.84,
     "text": "that's the sheet of muscle below your lungs,",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 171.84,
     "end": 174.84,
     "text": "contracts and squeezes the air out of your lungs.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 174.84,
     "end": 176.84,
     "text": "This makes it hard to breathe,",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 176.84,
     "end": 179.84,
     "text": "which is why you were gasping for breath earlier, Tim,",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 179.84,
     "end": 181.84,
     "text": "and that's why laughter can kill you.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 181.84,
     "end": 184.84,
     "text": "Gasping means having difficulty breathing.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 184.84,
     "end": 188.84,
     "text": "Well, I've caught my breath now, I didn't die,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 188.84,
     "end": 192.84,
     "text": "and I think it's fair to say, Neil, that laughter is good for you.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 192.84,
     "end": 195.84,
     "text": "And when you laugh, your body releases happy hormones,",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 195.84,
     "end": 197.84,
     "text": "and according to some research,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 197.84,
     "end": 201.84,
     "text": "people feel less pain as a result of having a good laugh.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 201.84,
     "end": 205.84,
     "text": "So, scientists are saying laughter is a sort of natural pain killer?",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 205.84,
     "end": 207.84,
     "text": "Apparently, yes.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 207.84,
     "end": 210.84,
     "text": "They've done research where they make people laugh",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 210.84,
     "end": 213.84,
     "text": "and then test their pain levels afterwards.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 213.84,
     "end": 216.84,
     "text": "And they found that if people only chuckle a bit,",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 216.84,
     "end": 218.84,
     "text": "it doesn't act as a pain killer,",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 218.84,
     "end": 221.84,
     "text": "but if you laugh a lot, it does.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 221.84,
     "end": 223.84,
-    "text": "So, a chuckle sounds like this.",
-    "speaker": null
+    "text": "So a chuckle sounds like this [",
+    "speaker": "Chuckling"
   },
   {
+    "order": 88,
     "start": 223.84,
     "end": 227.84,
     "text": "Chuckling means to laugh quietly,",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 227.84,
     "end": 229.84,
     "text": "so you need belly laughter then.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 229.84,
     "end": 231.84,
     "text": "Great big gaffer.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 231.84,
     "end": 232.84,
     "text": "That's right.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 232.84,
     "end": 235.84,
     "text": "Gaffer is pretty much the opposite of a chuckle.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 235.84,
     "end": 237.84,
     "text": "I was gafforing earlier in the show,",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 237.84,
     "end": 241.84,
     "text": "and would you like to demonstrate your own gaffer, Neil?",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 241.84,
     "end": 245.84,
     "text": "Ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 245.84,
     "end": 247.84,
     "text": "Fantastic.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 97,
     "start": 247.84,
     "end": 249.84,
     "text": "Can I try pinching you now,",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 249.84,
     "end": 251.84,
     "text": "and test whether you feel any pain?",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 251.84,
     "end": 252.84,
     "text": "No, you can't, Tim.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 252.84,
     "end": 255.84,
-    "text": "No, you can't, Tim. It's time for the answer to today's quiz question. I asked you:",
-    "speaker": "Neil"
+    "text": "It's time for the answer to today's quiz question.",
+    "speaker": null
   },
   {
+    "order": 101,
     "start": 255.84,
     "end": 259.84,
     "text": "I asked you, how many times a day does the average adult laugh?",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 259.84,
     "end": 264.84,
     "text": "Is it a 17, b 70 or c 700?",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 264.84,
     "end": 266.84,
     "text": "I said 70…",
     "speaker": "Tim"
   },
   {
+    "order": 104,
     "start": 266.84,
     "end": 269.84,
     "text": "Ah, sorry. The right answer is actually 17,",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 269.84,
     "end": 271.84,
     "text": "less than you thought I'm afraid, Tim.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 271.84,
     "end": 275.84,
     "text": "But children laugh on average 300 times a day.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 275.84,
     "end": 277.84,
     "text": "Ooh, that's a big difference.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 277.84,
     "end": 280.84,
     "text": "You see, Neil, we all need to laugh more,",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 280.839,
     "end": 283.839,
     "text": "and you shouldn't be trying to tell us that laughing is dangerous.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 283.839,
     "end": 284.839,
     "text": "Maybe you're right.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 284.839,
     "end": 287.839,
     "text": "So let's move on and go over the words we learned today.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 287.839,
     "end": 291.839,
     "text": "The first one is gaffor, which is a loud laugh that you can't control.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 291.839,
     "end": 294.839,
     "text": "Neil surprised us with his deep gaffor.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 294.839,
     "end": 297.839,
     "text": "Next up, number two, to laugh your head off,",
+    "speaker": "Tim"
+  },
+  {
+    "order": 115,
+    "start": 297.839,
+    "end": 300.839,
+    "text": "means to laugh very loudly for a long time.",
     "speaker": null
   },
   {
-    "start": 297.839,
-    "end": 300.839,
-    "text": "Next up – number two – to 'laugh your head off' – means to laugh very loudly for a long time.",
-    "speaker": "Neil"
-  },
-  {
+    "order": 116,
     "start": 300.839,
     "end": 303.839,
     "text": "It's a really funny movie. You laugh your head off.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 303.839,
     "end": 306.839,
     "text": "Okay, number three, choke, means to stop breathing",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 306.839,
     "end": 308.839,
     "text": "because something is blocking your throat.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 308.839,
     "end": 311.839,
-    "text": "“I nearly choked to death on a cheese sandwich.”",
-    "speaker": "Tim"
+    "text": "I nearly choked to death on a cheese sandwich.",
+    "speaker": null
   },
   {
+    "order": 120,
     "start": 311.839,
     "end": 314.839,
     "text": "Well, poor Tim, you should eat more slowly.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 314.839,
     "end": 316.839,
     "text": "Diafram is our next word,",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 316.839,
     "end": 320.839,
     "text": "and that's the sheet of muscle separating your lungs from your stomach.",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 320.839,
     "end": 324.839,
     "text": "We use our diaphragm for breathing, talking and laughing.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 324.839,
     "end": 328.839,
-    "text": "“Do opera singers have more powerful diaphragms than other people?”",
+    "text": "“Do opera singers have more powerful diaphragms than other people",
     "speaker": "Tim"
   },
   {
+    "order": 125,
     "start": 328.839,
     "end": 330.839,
     "text": "I don't know the answer to that, Tim.",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 330.839,
     "end": 333.839,
     "text": "So number five, which is gasping,",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 333.839,
     "end": 335.839,
     "text": "which means having difficulty breathing.",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 335.839,
     "end": 339.839,
     "text": "He was gasping for breath as he swam to the surface of the swimming pool.",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 339.839,
     "end": 343.839,
     "text": "But gas also means to be shocked or surprised by something.",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 343.839,
     "end": 348.839,
-    "text": "But 'gasp' also means to be shocked or surprised by something. For example, “I gasped in astonishment when I heard Neil laugh.”",
+    "text": "For example, I gasped in astonishment when I heard Neil laugh.",
     "speaker": "Tim"
   },
   {
+    "order": 131,
     "start": 348.839,
     "end": 351.839,
-    "text": "Our final word is 'chuckle' which means to laugh quietly.",
-    "speaker": "Neil"
+    "text": "Our final word is chuckle, which means to laugh quietly.",
+    "speaker": null
   },
   {
+    "order": 132,
     "start": 351.839,
     "end": 355.839,
-    "text": "“The audience chuckled through the show but they didn't seem very amused.”",
+    "text": "“The audience chuckled through the show but they didn't seem very amused.",
     "speaker": "Tim"
   },
   {
+    "order": 133,
     "start": 355.839,
     "end": 356.839,
     "text": "Oh dear.",
     "speaker": null
   },
   {
+    "order": 134,
     "start": 356.839,
     "end": 358.839,
     "text": "Well, I hope our audience has been amused today.",
     "speaker": null
   },
   {
+    "order": 135,
     "start": 358.839,
     "end": 362.839,
     "text": "If you're looking for more laughs, then please check out our Facebook,",
     "speaker": null
   },
   {
+    "order": 136,
     "start": 362.839,
     "end": 365.839,
     "text": "Twitter, Instagram and YouTube pages.",
     "speaker": null
   },
   {
+    "order": 137,
     "start": 365.839,
     "end": 368.839,
     "text": "You may find something to make you chuckle or guffaw there.",
     "speaker": null
   },
   {
+    "order": 138,
     "start": 368.839,
     "end": 369.839,
-    "text": "Bye!",
-    "speaker": "Tim and Neil"
+    "text": "Bye.",
+    "speaker": null
   },
   {
+    "order": 139,
     "start": 369.839,
     "end": 370.839,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 140,
     "start": 370.839,
     "end": 373.839,
     "text": "Six minutes in bush from the BBC.",

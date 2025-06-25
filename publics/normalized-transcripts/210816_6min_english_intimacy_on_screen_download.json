@@ -1,566 +1,660 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 13.759,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 13.759,
     "end": 17.679,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 17.679,
     "end": 21.679,
-    "text": "And I’m Georgina. When we think about romantic Hollywood movies, there have been some famous examples over the years.",
-    "speaker": "Georgina"
+    "text": "And I'm Georgina. When we think about romantic Hollywood movies,",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 21.679,
     "end": 25.039,
     "text": "there have been some famous examples over the years.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 25.039,
     "end": 27.6,
     "text": "There are classic black and white romance movies like",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 27.6,
     "end": 32.32,
     "text": "1951's a street car named Desire, and the love affair between Humphrey Bogart",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 32.32,
     "end": 35.84,
     "text": "and Ingrid Bergman in Casablanca, made in 1942.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 9,
     "start": 36.4,
     "end": 38.64,
     "text": "You're really showing your age, Neil.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 38.64,
     "end": 41.92,
     "text": "What about more recent movies like When Harry Met Sally?",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 41.92,
     "end": 46.56,
     "text": "Or that famous kiss between the characters Jack and Rose in the film Titanic?",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 46.56,
     "end": 49.2,
-    "text": "In their time, all these movies were blockbusters,",
-    "speaker": null
+    "text": "In their time all these movies were blockbusters –",
+    "speaker": "blockbusters"
   },
   {
+    "order": 13,
     "start": 49.2,
     "end": 53.68,
     "text": "very popular and successful films which sold millions of cinematic hits.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 53.759,
     "end": 58.159,
     "text": "And this success was often due to the on-screen romance between the leading actors.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 58.719,
     "end": 61.679,
     "text": "In romantic movies, love is in the air.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 61.679,
     "end": 66,
     "text": "Couples hold hands and kiss, or in other words, they show intimacy,",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 66,
     "end": 68.48,
     "text": "a close romantic or sexual relationship.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 69.2,
     "end": 73.039,
     "text": "But while real couples kiss and hold hands all the time,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 19,
     "start": 73.039,
     "end": 76,
     "text": "actors in movies are just pretending to be intimate,",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 76,
     "end": 77.68,
     "text": "and this can lead to problems.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 78.4,
     "end": 82,
     "text": "Yes, whether it's a kiss or a full nudity sex scene,",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 82,
     "end": 86.159,
     "text": "filming intimate scenes from movies and TV is a delicate business,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 86.159,
     "end": 88.319,
     "text": "as we'll be finding out in this programme.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 88.959,
     "end": 92.079,
     "text": "But first, Georgina, I have a quiz question for you.",
     "speaker": "Neil"
   },
   {
+    "order": 25,
     "start": 92.079,
     "end": 95.84,
     "text": "Let me guess. Another black and white classic from the 1950s?",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 96.56,
     "end": 98.719,
-    "text": "Yes, 1953 to be exact.",
-    "speaker": null
+    "text": "Yes - 1953 to be exact",
+    "speaker": "Neil"
   },
   {
+    "order": 27,
     "start": 99.359,
     "end": 102.4,
     "text": "This movie won the Oscar for Best Picture.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 102.4,
     "end": 106.24,
     "text": "The film thrilled audiences with a famous beach kiss between actors,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 106.24,
     "end": 110.24,
     "text": "Bert Lancaster and Dev Recur, as they rolled around in the waves.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 110.399,
     "end": 114.799,
     "text": "But what was the movie? Was it A, West Side Story, B,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 114.799,
     "end": 117.679,
     "text": "from here to eternity, or C, Singing in the Rain?",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 118.399,
     "end": 123.919,
     "text": "Well, 1953 was a long before I was born, but I'll guess B, from here to eternity.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 124.56,
     "end": 127.28,
     "text": "Okay, Georgina, we'll find out later on if that's right.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 128,
     "end": 132.159,
-    "text": "OK Georgina, we’ll find out later on if that’s right. In 1953 an on-screen kiss was still considered a little naughty.",
-    "speaker": "Neil"
+    "text": "In 1953, an on-screen kiss was still considered a little naughty.",
+    "speaker": "Georgina"
   },
   {
+    "order": 35,
     "start": 132.799,
     "end": 137.919,
     "text": "But by 2020 and the filming of the BBC television dramas Normal People,",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 36,
     "start": 137.919,
     "end": 141.199,
     "text": "and I may destroy you, things had changed.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 141.199,
     "end": 144.319,
     "text": "nudity and sexual content had become commonplace.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 144.959,
     "end": 147.919,
     "text": "Eta O'Brien worked on both these BBC dramas.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 147.919,
     "end": 151.439,
     "text": "She describes herself as an intimacy coordinator,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 151.439,
     "end": 155.759,
     "text": "someone who helps actors and directors plan and film intimate scenes.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 156.079,
     "end": 160.639,
-    "text": "Listen as she gives her definition of intimacy to BBC World Service programme, The Conversation:",
+    "text": "Listen as she gives her definition of intimacy to BBC World Service programme,",
     "speaker": "intimacy"
   },
   {
+    "order": 42,
     "start": 160.639,
     "end": 161.679,
     "text": "the conversation.",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 43,
     "start": 163.279,
     "end": 167.759,
     "text": "A handhold, a stroke of the cheek, you know, through to a hug,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 167.759,
     "end": 170.799,
     "text": "and then obviously right the way through to intimate content.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 170.799,
     "end": 175.28,
     "text": "It might be familial content of an adult to a child.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 175.28,
     "end": 178.799,
     "text": "It could be the content of perhaps a medical procedure,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 178.799,
     "end": 184.959,
     "text": "someone having, you know, a mammogram or it could be right the way through to intimacy,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 184.959,
     "end": 186.399,
     "text": "you know, similar to sexual content.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 187.84,
     "end": 190.799,
     "text": "Eta's definition of intimacy is very wide,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 190.799,
     "end": 195.759,
-    "text": "Ita’s definition of intimacy is very wide, including hugging and stroking – gently touching someone in a pleasurable way.",
+    "text": "including hugging and stroking, gently touching someone in a pleasurable way.",
     "speaker": "stroking"
   },
   {
+    "order": 51,
     "start": 195.759,
     "end": 198.399,
     "text": "It also includes simulated sex.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 198.399,
     "end": 202.319,
     "text": "Movie actors aren't really having sex, they're simulating it,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 202.319,
     "end": 205.599,
     "text": "pretending to do something so that it looks real but is not.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 206.399,
     "end": 211.359,
     "text": "Just like dance sequences in musicals, intimate movie scenes are planned and choreographed",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 211.359,
     "end": 216.719,
     "text": "the forehand, so the director, film crew and above all the actors are comfortable with what's",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 216.719,
     "end": 217.359,
     "text": "being filmed.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 218.239,
     "end": 223.599,
-    "text": "But recent scandals about the on-set behaviour of some British and American film stars have highlighted how delicate a balance this is.",
-    "speaker": "Georgina"
+    "text": "But recent scandals about the on-set behaviour of some British and American film stars",
+    "speaker": null
   },
   {
+    "order": 58,
     "start": 223.599,
     "end": 226.159,
     "text": "have highlighted how delicate a balance this is.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 227.28,
     "end": 231.519,
     "text": "Here's Eta O'Brien again talking to BBC World Services, the conversation",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 231.519,
     "end": 236.719,
-    "text": "Here’s Ita O’Brien again talking to BBC World Service’s, The Conversation, about the different ways that intimate scenes are filmed on either side of the Atlantic, in Britain and the US.",
-    "speaker": "Neil"
+    "text": "about the different ways that intimate scenes are filmed on either side of the Atlantic in Britain",
+    "speaker": null
   },
   {
+    "order": 61,
     "start": 236.719,
     "end": 237.599,
     "text": "and in the US.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 239.28,
     "end": 244.639,
-    "text": "With actors from the US, what they do have, what they put in place is that with each and every",
-    "speaker": null
+    "text": "With actors from the US, what they do have, what they put in place is that with each and every",
+    "speaker": "each and everywaivereach and every"
   },
   {
+    "order": 63,
     "start": 244.639,
     "end": 250.4,
     "text": "intimate scene, we create a nudity, a stroke, a similar to sex, waiver for each and every scene.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 250.4,
     "end": 253.28,
     "text": "And I actually really like that way of working.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 253.28,
     "end": 258.72,
     "text": "In the UK, actors are asked to sign a nudity clause and generally that's an overall",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 258.72,
     "end": 259.92,
     "text": "for the whole of a production.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 261.439,
     "end": 266.24,
     "text": "British actors sign only one document with a nudity clause to cover the whole film,",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 266.24,
     "end": 272.079,
     "text": "but in the US actors sign a waiver, a legal document that allows or prevents an action that is",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 272.079,
     "end": 274.079,
     "text": "different from how things are usually done.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 274.72,
     "end": 279.04,
     "text": "Eta thinks it's better if the actors agree to each and every scene,",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 279.04,
     "end": 284.64,
     "text": "and she uses the phrase each and every because it emphasizes that she means every single one.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 285.2,
     "end": 289.92,
     "text": "In this way, there is no confusion about what should or shouldn't happen on set,",
+    "speaker": "each and every"
+  },
+  {
+    "order": 73,
+    "start": 289.92,
+    "end": 294.48,
+    "text": "leaving the director and actors free to make dramatic and romantic blockbusters.",
     "speaker": null
   },
   {
-    "start": 289.92,
-    "end": 294.48,
-    "text": "In this way there is no confusion about what should or shouldn’t happen on set, leaving the director and actors free to make dramatic and romantic blockbusters.",
-    "speaker": "Neil"
-  },
-  {
+    "order": 74,
     "start": 295.12,
     "end": 299.28,
     "text": "You mean like that famous beach scene, kissing and rolling in the waves, Neil?",
     "speaker": "Georgina"
   },
   {
+    "order": 75,
     "start": 299.84,
     "end": 301.36,
     "text": "Ah, you mean my quiz question.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 301.36,
     "end": 307.12,
     "text": "When I asked you, what was the name of the 1953 movie featuring a famous beach kiss between",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 307.12,
     "end": 309.84,
     "text": "movie stars Bert Lancaster and Deborah Kerr?",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 310.319,
     "end": 312,
     "text": "What did you say, Georgina?",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 312,
     "end": 314.639,
-    "text": "I said it was b), From Here to Eternity.",
-    "speaker": "Georgina"
+    "text": "I said it was B from here to eternity,",
+    "speaker": null
   },
   {
+    "order": 80,
     "start": 315.199,
     "end": 321.439,
     "text": "which is the right answer, well done Georgina, so you do like classic black and white movies after all.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 321.439,
     "end": 324.48,
     "text": "Not really Neil, but I remember my granddad watching it.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 325.12,
     "end": 329.199,
     "text": "Okay, let's recap the vocabulary from this program about intimacy,",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 329.199,
     "end": 331.6,
     "text": "a close romantic or sexual relationship.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 332.16,
     "end": 337.28,
     "text": "A blockbuster is a very popular and successful movie or a book that sells many copies.",
     "speaker": "blockbuster"
   },
   {
+    "order": 85,
     "start": 338,
     "end": 342.08,
-    "text": "If you stroke someone’s face, you touch it gently in a pleasurable way.",
-    "speaker": "stroke"
+    "text": "If you stroke someone's face, you touch it gently in a pleasurable way.",
+    "speaker": null
   },
   {
+    "order": 86,
     "start": 342.879,
     "end": 346.72,
-    "text": "To simulate means to do or make something that looks real but is not.",
+    "text": "To simulate means to do or make something that looks real but is not. ",
     "speaker": "simulate"
   },
   {
+    "order": 87,
     "start": 347.439,
     "end": 352.8,
-    "text": "In the US, a waiver is a legal document to either allow or prevent something being done in a different way from usual.",
-    "speaker": "waiver"
+    "text": "In the US, a waiver is a legal document to either allow or prevent something being done",
+    "speaker": null
   },
   {
+    "order": 88,
     "start": 352.8,
     "end": 354.32,
     "text": "in a different way from usual.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 355.04,
     "end": 360.32,
-    "text": "And you can use the phrase, each and every to emphasise that you mean every single one of something.",
+    "text": "And you can use the phrase, each and every to emphasise that you mean every single one of something",
     "speaker": "each and every"
   },
   {
+    "order": 90,
     "start": 361.12,
     "end": 365.92,
     "text": "That's all for this romantic edition of Six Minute English, but join us here again soon",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 365.92,
     "end": 368.639,
     "text": "for more topical chat and useful vocabulary.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 368.639,
     "end": 369.839,
     "text": "Bye for now!",
     "speaker": "Neil"
   },
   {
+    "order": 93,
     "start": 369.839,
     "end": 370.639,
     "text": "Bye!",
-    "speaker": "Georgina"
+    "speaker": null
   }
 ]

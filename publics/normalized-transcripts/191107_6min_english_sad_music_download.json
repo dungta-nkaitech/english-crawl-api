@@ -1,554 +1,646 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 11.439,
     "text": "6Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 12.4,
     "end": 14.8,
     "text": "Hello. This is 6 Minute English, I'm Sam.",
     "speaker": "Sam"
   },
   {
+    "order": 4,
     "start": 14.8,
     "end": 16,
     "text": "And I'm Neil.",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 16,
     "end": 18.16,
     "text": "Do you like sad music, Neil?",
     "speaker": "Sam"
   },
   {
+    "order": 6,
     "start": 18.16,
     "end": 21.199,
     "text": "Well, when I was younger, if I had a breakup with a girlfriend,",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 21.199,
     "end": 23.039,
     "text": "I would listen to sad songs.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 23.039,
     "end": 24.96,
     "text": "Songs which reflected my mood.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 24.96,
     "end": 28.24,
-    "text": "And do you still listen to those songs now?",
-    "speaker": "Sam"
-  },
-  {
-    "start": 28.239,
-    "end": 30.639,
-    "text": "Not so much, but I do still like them.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 30.639,
-    "end": 36.32,
-    "text": "Well, it seems as if there might be a biological reason why some of us do like sad songs.",
+    "text": "Hmm, and do you still listen to those songs now?",
     "speaker": null
   },
   {
+    "order": 10,
+    "start": 28.239,
+    "end": 30.639,
+    "text": " Not so much, but I do still like them",
+    "speaker": "Sam"
+  },
+  {
+    "order": 11,
+    "start": 30.639,
+    "end": 36.32,
+    "text": "Well, it seems as if there might be a biological reason why some of us do like sad songs.",
+    "speaker": "Sam"
+  },
+  {
+    "order": 12,
     "start": 36.96,
     "end": 40.239,
     "text": "We'll look at this topic a little more after this week's quiz question,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 40.239,
     "end": 42.079,
     "text": "which is about music videos.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 42.56,
     "end": 45.2,
     "text": "The music video has been around for a while,",
-    "speaker": null
+    "speaker": "hormonecomforting"
   },
   {
+    "order": 15,
     "start": 45.2,
     "end": 50.399,
     "text": "but in what year was MTV, the first dedicated music video channel,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 50.959,
     "end": 52.079,
     "text": "launched in the US?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 52.879,
     "end": 54.959,
     "text": "Was it A, 1981?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 55.6,
     "end": 60.16,
-    "text": "B: 1982, or",
+    "text": "B: 1982, or C: 1983",
     "speaker": "Sam"
   },
   {
+    "order": 19,
     "start": 60.16,
     "end": 60.719,
-    "text": "Well…",
+    "text": "Oh, well.",
+    "speaker": null
+  },
+  {
+    "order": 20,
+    "start": 61.359,
+    "end": 62.32,
+    "text": " What do you think, Neil",
     "speaker": "Neil"
   },
   {
-    "start": 61.359,
-    "end": 62.32,
-    "text": "What do you think, Neil?",
-    "speaker": "Sam"
-  },
-  {
+    "order": 21,
     "start": 62.32,
     "end": 63.359,
     "text": "Going to have a guess.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 64,
     "end": 65.2,
     "text": "Is it the early 80s?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 66.4,
     "end": 67.76,
     "text": "Hmm, well, yes.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 68.319,
     "end": 70,
-    "text": "Well, yes. Care to be more specific?",
-    "speaker": "Sam"
-  },
-  {
-    "start": 70,
-    "end": 73.76,
-    "text": "Well… Well, it was a long time ago – I was just a small boy. I'm going to go for 1982.",
+    "text": "Care to be more specific?",
     "speaker": "Neil"
   },
   {
+    "order": 25,
+    "start": 70,
+    "end": 73.76,
+    "text": "Well… Well, it was a long time ago – I was just a small boy",
+    "speaker": "Neil"
+  },
+  {
+    "order": 26,
     "start": 74.48,
     "end": 76.799,
     "text": "I'm going to go for 1982.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 76.799,
     "end": 79.68,
     "text": "Okay, I will have the answer later in the programme,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 79.68,
     "end": 82.319,
     "text": "but first, more about sad songs.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 82.959,
     "end": 88.399,
     "text": "Professor David Huron from Ohio State University has conducted research in this area,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 88.399,
     "end": 93.679,
     "text": "and he discussed it recently on the BBC World Service Radio programme, the Y Factor.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 93.679,
     "end": 100.079,
     "text": "He was looking at why some people like sad music and other people really don't like it at all,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 100.079,
     "end": 102.639,
     "text": "as he says they just can't stand it.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 103.28,
     "end": 105.28,
     "text": "He believes it's to do with a hormone.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 105.839,
     "end": 108.56,
     "text": "A hormone is a natural chemical in our bodies,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 108.56,
     "end": 112.32,
     "text": "which can have an effect on various systems and also emotions.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 113.12,
     "end": 115.519,
     "text": "Listen out for the name of the hormone he mentions.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 117.12,
     "end": 120.48,
     "text": "One of the things that we were interested in is what's the difference between people who listen",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 120.48,
     "end": 126.24,
     "text": "to sad music and who love it, and people who listen to sad music and who just can't stand it?",
-    "speaker": null
+    "speaker": "can’t standhormonelactation’comforting"
   },
   {
+    "order": 39,
     "start": 126.24,
     "end": 130.08,
     "text": "In our research, it started pointing towards a hormone called prolactin.",
-    "speaker": null
+    "speaker": "hormonehormone comfortingcomforting"
   },
   {
+    "order": 40,
     "start": 130.64,
     "end": 134.96,
     "text": "Now, prolactin, as you might guess from the name, is associated with lactation,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 135.36,
     "end": 140.159,
     "text": "breastfeeding, when people cry, they also release prolactin.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 140.719,
     "end": 145.04,
     "text": "And there are circumstances in which prolactin seems to have this comforting effect.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 146.64,
     "end": 148.879,
-    "text": "So which hormone did he mention?",
-    "speaker": "hormone"
+    "text": "So, which hormone did he mention?",
+    "speaker": null
   },
   {
+    "order": 44,
     "start": 148.879,
     "end": 154.159,
-    "text": "He talked about the hormone called prolactin which he said was connected to lactation. This is the production of milk by mammals to feed their young.",
-    "speaker": "hormonelactation"
+    "text": "He talked about the hormone called prolactin, which he said was connected to lactation.",
+    "speaker": null
   },
   {
+    "order": 45,
     "start": 154.159,
     "end": 157.68,
     "text": "This is the production of milk by mammals to feed their young.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 158.319,
     "end": 163.68,
     "text": "What he noted was, this hormone can be released when people cry, and in some cases,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 163.68,
     "end": 169.76,
     "text": "this hormone has a comforting effect. When something is comforting, it makes you feel better.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 169.76,
     "end": 172.719,
     "text": "It calms your emotions. Let's listen again.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 174.08,
     "end": 177.2,
     "text": "One of the things that we were interested in is what's the difference between people who",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 177.2,
     "end": 183.12,
     "text": "listen to sad music and who love it, and people who listen to sad music and who just can't stand it?",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 183.12,
     "end": 187.12,
     "text": "In our research, it started pointing towards a hormone called prolactin.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 187.68,
     "end": 191.92,
     "text": "Now, prolactin, as you might guess from the name, is associated with lactation,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 191.919,
     "end": 197.119,
     "text": "for breastfeeding, when people cry, they also release prolactin.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 197.679,
     "end": 202,
     "text": "And there are circumstances in which prolactin seems to have this comforting effect.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 203.599,
     "end": 207.759,
-    "text": "So, what conclusions did he make about this hormone and how it might be working? Professor Huron explains.",
+    "text": "So, what conclusions did he make about this hormone and how it might be working?",
     "speaker": "hormone"
   },
   {
+    "order": 56,
     "start": 208.319,
     "end": 209.839,
     "text": "Professor Huron explains.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 211.359,
     "end": 216.56,
     "text": "So, the thought was that perhaps what's going on is that the people who are enjoying listening to sad music",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 217.039,
     "end": 222,
     "text": "are receiving some sort of excess of prolactin, and people who are listening to sad music,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 222,
     "end": 226.159,
     "text": "and they just find it incredibly sad and unhelpful, and they don't want to listen to it.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 226.159,
     "end": 229.599,
     "text": "Maybe they're not getting enough prolactin when they listen to the music.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 230.719,
     "end": 235.439,
     "text": "So, what's happening? Or as Professor Huron said, what's going on?",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 235.439,
     "end": 239.68,
     "text": "Well, it seems quite simple, though. I'm sure it's very complicated.",
-    "speaker": null
+    "speaker": "what’sgoing on"
   },
   {
+    "order": 63,
     "start": 239.68,
     "end": 245.28,
     "text": "People who like sad music are maybe getting too much prolactin, or more than is normal.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 245.28,
     "end": 251.28,
     "text": "He describes this as an excess of prolactin, and maybe people who don't like sad music aren't",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 251.28,
     "end": 257.68,
     "text": "getting enough. So, the idea is that prolactin is a hormone which we find comforting.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 257.68,
     "end": 262.319,
     "text": "If our body's released it when we hear sad music, it gives us a good feeling.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 262.319,
     "end": 268.399,
     "text": "But if prolactin isn't released, or there isn't enough of it, we just find the sad music sad,",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 268.399,
     "end": 270.399,
     "text": "and it doesn't help to tear us up.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 270.399,
     "end": 272.959,
     "text": "I guess so, but you know, emotions are funny things.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 272.959,
     "end": 278.399,
     "text": "It's weird to think that our feelings are caused by different natural chemicals that run around the body.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 278.399,
     "end": 279.439,
     "text": "Absolutely.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 280.239,
     "end": 285.279,
     "text": "Okay, we're going to take another look at today's vocabulary, but first, the answer to this week's quiz.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 286,
     "end": 292,
     "text": "The music video has been around for a while, but in what year was MTV, the first dedicated",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 292,
     "end": 301.919,
     "text": "music video channel launched in the US? Was it A, 1981, B, 1982, or C, 1983, and Neil, you said?",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 302.4,
     "end": 304.96,
     "text": "I said it was definitely the early 80s.",
     "speaker": "Neil"
   },
   {
+    "order": 76,
     "start": 304.96,
     "end": 308.879,
     "text": "Well, you’re not wrong there, but which year exactly?",
     "speaker": "Sam"
   },
   {
+    "order": 77,
     "start": 308.879,
     "end": 310.72,
-    "text": "‘82?",
+    "text": "82.",
     "speaker": "Neil"
   },
   {
+    "order": 78,
     "start": 310.72,
     "end": 318.08,
-    "text": "Ah well, you’ll need to dig out a sad song to make you feel better now because the answer was 1981.",
+    "text": "Ah well, you’ll need to dig out a sad song to make you feel better now because the answer was 1981. ",
     "speaker": "Sam"
   },
   {
+    "order": 79,
     "start": 318.08,
     "end": 322.08,
-    "text": "Oh dear, I can feel my prolactin levels dropping already!",
-    "speaker": "Neil"
+    "text": "Oh, dear. I can feel my prolactin levels dropping already.",
+    "speaker": null
   },
   {
+    "order": 80,
     "start": 322.08,
     "end": 325.759,
     "text": "I'm sure you can't, but let's move on to the vocabulary.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 325.759,
     "end": 329.52,
-    "text": "I’m sure you can’t! But let’s move on to vocabulary. If you can’t stand something, it means you really don’t like it.",
+    "text": "If you can't stand something, it means you really don't like it.",
     "speaker": "can’t stand"
   },
   {
+    "order": 82,
     "start": 329.839,
     "end": 332.799,
-    "text": "A hormone is one of the body’s natural chemicals.",
-    "speaker": "hormone"
+    "text": "A hormone is one of the body's natural chemicals.",
+    "speaker": null
   },
   {
+    "order": 83,
     "start": 332.799,
     "end": 339.12,
     "text": "And the hormone prolactin is connected with lactation, which is the production of milk by mammals.",
     "speaker": "lactation"
   },
   {
+    "order": 84,
     "start": 339.12,
     "end": 343.12,
     "text": "Something that is comforting makes you feel better emotionally.",
-    "speaker": "comforting"
-  },
-  {
-    "start": 343.12,
-    "end": 348.079,
-    "text": "The phrase what’s going on has a very similar meaning to 'what’s happening'.",
-    "speaker": "what’s going on"
-  },
-  {
-    "start": 348.079,
-    "end": 353.279,
-    "text": "And an excess of something is 'too much or a more than normal amount of that thing'.",
-    "speaker": "excess"
-  },
-  {
-    "start": 353.279,
-    "end": 357.839,
-    "text": "Well, before you have an excess of our company, we should wrap up.",
     "speaker": null
   },
   {
+    "order": 85,
+    "start": 343.12,
+    "end": 348.079,
+    "text": "The phrase what’s going on has a very similar meaning to 'what’s happening'",
+    "speaker": "what’s going on"
+  },
+  {
+    "order": 86,
+    "start": 348.079,
+    "end": 353.279,
+    "text": "And an excess of something is too much or a more than normal amount of that thing.",
+    "speaker": null
+  },
+  {
+    "order": 87,
+    "start": 353.279,
+    "end": 357.839,
+    "text": "Well, before you have an excess of our company, we should wrap up.",
+    "speaker": "excess"
+  },
+  {
+    "order": 88,
     "start": 357.839,
     "end": 360.799,
     "text": "Thanks for listening, and we hope you'll join us again soon,",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 360.799,
     "end": 365.519,
     "text": "as ever, don't forget that you can find more from the BBC Learning English team online",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 365.519,
     "end": 369.599,
     "text": "across social media and on our very own app. Bye for now.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 369.599,
     "end": 370.399,
-    "text": "Goodbye!",
-    "speaker": "Neil"
+    "text": "Goodbye.",
+    "speaker": null
   }
 ]

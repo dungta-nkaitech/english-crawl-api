@@ -1,407 +1,475 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.839,
     "text": "Hi, Neil from BBC Learning English here. Did you know that we are now offering a new,",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 5.839,
     "end": 10.96,
     "text": "weekly, extra episode of 6 Minute English exclusively on our website?",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 11.519,
     "end": 17.44,
     "text": "So go to BBCLearningEnglish.com to find your favourite presenters on your favourite programme.",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 18.08,
     "end": 24.16,
     "text": "The extra episodes are only available on our website, BBCLearningEnglish.com. See you there.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 24.8,
     "end": 31.039,
     "text": "This is a download from BBC Learning English to find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 38.399,
     "end": 42.159,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 6,
     "start": 42.159,
     "end": 46.24,
     "text": "And I'm Sam. Do you think robots could ever become intelligence, Sam?",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 46.24,
     "end": 50.879,
-    "text": "Well, if you believe Hollywood movies like ‘Robocop’, robots will grow more powerful than their human creators and take control.",
-    "speaker": "Sam"
+    "text": "Well, if you believe Hollywood movies like Robocop, robots will grow more powerful than their",
+    "speaker": "Neil"
   },
   {
+    "order": 8,
     "start": 50.88,
     "end": 56.24,
     "text": "human creators and take control. You've been watching too many sci-fi movies, Sam.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 56.24,
     "end": 61.68,
-    "text": "You’ve been watching too many sci-fi movies, Sam! But seriously - do you think robots will ever be able to think or dream? Could they fall in love or create art?",
+    "text": "But seriously, do you think robots will ever be able to think or dream? Could they fall in love or",
     "speaker": "Neil"
   },
   {
+    "order": 10,
     "start": 61.68,
     "end": 67.439,
     "text": "create art? It's hard to say, but because of the huge advances in artificial intelligence over",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 67.439,
     "end": 73.84,
     "text": "the last 10 years, questions like these are being asked more and more. In this programme, we'll be",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 73.84,
     "end": 80.32,
     "text": "meeting a very unusual person, if that's the right word, who could help answer some of these questions.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 13,
     "start": 80.319,
     "end": 86.959,
     "text": "She's called Ada. She's an artist who can draw, paint and create sculptures, and she's a robot.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 86.959,
     "end": 94.079,
     "text": "Yes, the humanoid robot Ada uses a robotic arm and a pencil to draw what it sees with a camera in",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 94.079,
     "end": 100.079,
     "text": "its eye. It's very lifelike and can even talk to the people whose picture it's drawing.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 100.079,
     "end": 104.959,
-    "text": "We'll hear more about this extraordinary robot and the team of inventors behind her soon.",
-    "speaker": null
+    "text": "We’ll hear more about this extraordinary robot and the team of inventors behind her soon,",
+    "speaker": "Neil"
   },
   {
+    "order": 17,
     "start": 105.039,
     "end": 111.679,
     "text": "First, I have a quiz question. The name Ada uses the abbreviation for artificial intelligence,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 111.679,
     "end": 118.559,
     "text": "AI, to make a woman's first name. But which famous real-life Ada was the robot named after?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 118.559,
     "end": 124.639,
     "text": "Was it Ada Brown, B, Ada Lovelace or C, Ada Marys?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 124.639,
     "end": 127.919,
-    "text": "I think it must be, b) Ada Lovelace.",
-    "speaker": "Sam"
+    "text": "I think it must be B, Ada Lovelace.",
+    "speaker": "Neil"
   },
   {
+    "order": 21,
     "start": 127.919,
     "end": 133.919,
     "text": "Okay, Sam, we'll find out if that's right later. Of course, building a realistic robot that can see,",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 133.919,
     "end": 139.199,
     "text": "hold a pencil and draw is not easy. Behind the creation of Ada was a team led by Cornish",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 139.199,
     "end": 146.799,
     "text": "Robotics Company, Engineered Art, and supported by engineers in Leeds who built her robotic arms",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 146.799,
     "end": 152.719,
     "text": "by using AI Systems, developed at Oxford University. Here's Chief Engineer Marcus Hold,",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 152.719,
     "end": 158.959,
     "text": "introducing presenter Carl Boss to the still unfinished Ada for the first time for BBC World Service",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 159.12,
     "end": 164.719,
     "text": "programme in the studio. It's very strange because on first glance she looks incredibly",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 27,
     "start": 164.719,
     "end": 170.8,
     "text": "scary, like a dystopian robot from the future, but when you see her move and express,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 170.8,
     "end": 178.56,
     "text": "she becomes incredibly cute. People tend to refer to them as he or she, they're drawn to the robots.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 178.56,
     "end": 184.719,
     "text": "So much of our communication is nonverbal. I'm gesturing with my arms, I'm smiling,",
-    "speaker": null
+    "speaker": "communicationnon-verbalappeal"
   },
   {
+    "order": 30,
     "start": 184.719,
     "end": 192.08,
     "text": "and our robots are a big part of their appeal and their human nature is in the way they behave",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 192.08,
     "end": 198.479,
     "text": "and move, and it's great that you're picking up on that from something that has no skin.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 198.479,
     "end": 205.12,
     "text": "When Carl first meets Ada, he sees a wired up metal skull without skin. She looks like a robot",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 205.12,
     "end": 209.84,
     "text": "from a dystopia, an imaginary future world where everything is bad.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 209.84,
     "end": 215.28,
     "text": "But as Carl spends more time with Ada, he begins to see her move and express herself.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 215.28,
     "end": 221.599,
     "text": "She smiles, blinks and uses facial expressions and hand gestures, known as nonverbal communication",
-    "speaker": null
+    "speaker": "non-verbal communication"
   },
   {
+    "order": 36,
     "start": 221.599,
     "end": 228,
     "text": "to appear more human. This human-like behaviour is part of Ada's appeal, the quality in someone",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 228,
     "end": 235.28,
     "text": "that makes them attractive or interesting. And soon, Carl is calling the robot, she instead of it.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 235.759,
     "end": 241.68,
     "text": "Former Art Gallery owner, Aiden Mellor, manages the Ada project. Here he is speaking to the BBC",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 241.68,
     "end": 247.759,
-    "text": "Former art gallery owner, Aidan Mellor, manages the Ai-Da project. Here he is speaking to BBC World Service’s, In The Studio, about the complex process involved in building a working robot:",
+    "text": "World Services in the studio about the complex process involved in building a working robot.",
     "speaker": "Neil"
   },
   {
+    "order": 40,
     "start": 247.759,
     "end": 252.56,
     "text": "We've got the programmers and researchers working at Oxford University and Goldsmiths,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 252.56,
     "end": 258.319,
     "text": "and they're doing the algorithmic programming, programming the AI that is going to be eventually used",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 258.319,
     "end": 262.959,
     "text": "for the art pieces that we're doing. But we've also got a couple of guys who are actually working",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 262.959,
     "end": 269.759,
     "text": "on her arm, the her ability to draw and actually getting her to do a compelling drawing of what she",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 269.759,
     "end": 275.919,
     "text": "sees. Some battles still to be won before the show. We will eventually hopefully iron all the",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 275.919,
     "end": 281.839,
     "text": "issues before that time. One challenge the teen faced was building a robotic arm that could allow",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 281.839,
     "end": 288.959,
     "text": "Ada to draw pictures that were compelling, exciting, interesting and able to keep your attention.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 288.959,
     "end": 294.799,
-    "text": "In combining an electronic AI brain with mechanical robot eyes and arms there were many battles to be won – difficulties and technical obstacles to be overcome.",
-    "speaker": "battles to be won"
+    "text": "In combining an electronic AI brain with mechanical robot eyes and arms, there were many battles",
+    "speaker": "compelling"
   },
   {
+    "order": 48,
     "start": 294.799,
     "end": 300.159,
     "text": "to be won, difficulties and technical obstacles to be overcome. And at the time of the interview,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 300.159,
     "end": 307.039,
     "text": "the teen still had some issues to iron out removing problems by finding solutions. Before Ada's",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 307.039,
     "end": 313.279,
     "text": "opening show, an exhibition of her artwork at the Design Museum in London. Amazing, it's nice to",
-    "speaker": null
+    "speaker": "issues to iron out"
   },
   {
+    "order": 51,
     "start": 313.279,
     "end": 318.399,
     "text": "think that a robot could be the next Picasso instead of an outer control sci-fi policeman.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 318.399,
     "end": 322.719,
     "text": "Yes, and the whole project was inspired by a real life woman. Whose name was?",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 323.439,
     "end": 325.679,
     "text": "What was the answer to your quiz question, Neil?",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 54,
     "start": 325.679,
     "end": 332,
     "text": "Ah yes, I asked Sam which famous Ada was the real life inspiration behind the robot Ada.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 332,
     "end": 335.519,
     "text": "And I said, be Ada Lovelace, was I right?",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 335.519,
     "end": 341.359,
     "text": "You were right, Sam. Ada is named after Ada Lovelace, the 19th century English mathematician",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 341.359,
     "end": 343.759,
     "text": "and first computer programmer in the world.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 58,
     "start": 343.759,
     "end": 349.599,
     "text": "Okay, Neil, let's recap the vocabulary from this programme, starting with dystopia, an imaginary",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 349.599,
     "end": 355.839,
     "text": "future society where everything is bad. Nonverbal communication is communication using physical",
-    "speaker": null
+    "speaker": "dystopia"
   },
   {
+    "order": 60,
     "start": 355.839,
     "end": 361.839,
     "text": "gestures and facial expressions instead of speech. The appeal of something is a quality it has which",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 361.839,
     "end": 367.599,
     "text": "people find attractive. If something is compelling, it holds your attention because you find it so",
+    "speaker": "appeal"
+  },
+  {
+    "order": 62,
+    "start": 367.6,
+    "end": 373.92,
+    "text": "interesting. A battle to be won means a problem to be solved or an obstacle to overcome.",
     "speaker": null
   },
   {
-    "start": 367.6,
-    "end": 373.92,
-    "text": "A battle to be won means a problem to be solved or an obstacle to overcome.",
+    "order": 63,
+    "start": 373.92,
+    "end": 379.2,
+    "text": " And finally, to iron something out means to remove or find solutions to a problem",
     "speaker": "battle to be won"
   },
   {
-    "start": 373.92,
-    "end": 379.2,
-    "text": "And finally, to iron something out means to remove or find solutions to a problem.",
-    "speaker": "iron something out"
-  },
-  {
+    "order": 64,
     "start": 379.2,
     "end": 385.84,
-    "text": "With artificial intelligence improving so fast it may not be too long before we see robot presenters of Six Minute English!",
+    "text": "With artificial intelligence improving so fast it may not be too long before we see robot ",
     "speaker": "Sam"
   },
   {
+    "order": 65,
     "start": 385.84,
     "end": 391.439,
     "text": "presenters of six minute English. But until Sam and I are replaced by AI, we hope you'll join us",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 391.439,
     "end": 396.48,
-    "text": "But until Sam and I are replaced by AI we hope you’ll join us again next time for more trending topics and useful vocabulary, here at BBC Learning English. Bye for now!",
-    "speaker": "Neil"
+    "text": "again next time for more trending topics and useful vocabulary here at BBC Learning English.",
+    "speaker": null
   },
   {
+    "order": 67,
     "start": 396.48,
     "end": 397.759,
     "text": "Goodbye for now. Goodbye.",

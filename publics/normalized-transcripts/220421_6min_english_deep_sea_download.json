@@ -1,425 +1,496 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 13.2,
     "end": 17.28,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Sam.",
     "speaker": "Sam"
   },
   {
+    "order": 3,
     "start": 17.28,
     "end": 18.32,
     "text": "And I'm Neil.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 18.32,
     "end": 24.4,
-    "text": "And I’m Neil. The 20th of July 1969 was a big day in history. Do you know why, Sam?",
-    "speaker": "Neil"
+    "text": "The 20th of July 1969 was a big day in history. Do you know why, Sam?",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 24.4,
     "end": 27.76,
     "text": "Wasn’t that when Neil Armstrong first set foot on the Moon?",
     "speaker": "Sam"
   },
   {
+    "order": 6,
     "start": 27.76,
     "end": 32.88,
     "text": "Right. But it's often forgotten that some of the most dramatic photographs taken on the Apollo",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 32.88,
     "end": 37.039,
     "text": "Space Mission weren't of the moon at all. They were of Earth.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 37.039,
     "end": 42.079,
     "text": "It wasn't until we went to the moon that we really saw the size of Earth's oceans and",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 42.079,
     "end": 44.48,
     "text": "named ourselves the Blue Planet.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 45.2,
     "end": 50.88,
     "text": "Despite most of our planet being covered by water, the ocean remains a place of unexplored",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 50.88,
     "end": 54.719,
     "text": "mystery, of sea monsters like Moby Dick and the Kraken.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 12,
     "start": 55.439,
     "end": 61.119,
     "text": "In this programme, we'll be diving into the deep seas, seeing some of its strange sites and,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 61.119,
     "end": 64.319,
     "text": "as usual, learning some related vocabulary too.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 64.319,
     "end": 67.28,
     "text": "But before that, I have a question for you, Sam.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 67.28,
     "end": 71.12,
     "text": "You were right when you said that most of the Earth is covered by water.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 71.12,
     "end": 75.359,
     "text": "But do you know exactly how much of the Earth's surface is ocean?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 75.359,
     "end": 80.56,
     "text": "Is it a 50% B 60% or C 70%?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 81.2,
     "end": 85.439,
-    "text": "Well, it is called the Blue Planet, so I’ll say c) 70 percent.",
-    "speaker": "Sam"
+    "text": "Well, it is called the Blue Planet, so I'll say C 70%.",
+    "speaker": "Neil"
   },
   {
+    "order": 19,
     "start": 86.32,
     "end": 89.359,
     "text": "Okay, I'll reveal the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 89.359,
     "end": 94.56,
     "text": "The first thing to say about the deep ocean is that the rules of life down there are very",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 21,
     "start": 94.56,
     "end": 99.359,
     "text": "different from the rules on land. Sunlight cannot reach the very bottom of the ocean,",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 99.359,
     "end": 103.2,
     "text": "a place between two and three kilometres down known as the Deep Abyss.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 103.2,
     "end": 110,
     "text": "So it is totally dark and extremely cold, and the weight of water creates massive amounts of pressure.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 110.56,
     "end": 117.359,
     "text": "This extreme environment is stranger than fiction, and home to things which seem to be from another planet.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 117.359,
     "end": 123.12,
     "text": "Things like hydrothermal vents, volcanic hot springs which break through the ocean floor.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 123.76,
     "end": 129.199,
     "text": "Oceanographer Alex Rogers joined an expedition which discovered a hydrothermal vent",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 129.199,
     "end": 135.12,
     "text": "in the ocean near Antarctica. He told his story to BBC World Service programme Discovery.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 135.2,
     "end": 142.4,
-    "text": "Well, the first problem is actually finding them because they cover a very small area,",
-    "speaker": null
+    "text": "Well, the first problem is actually finding them because they cover a very small area ",
+    "speaker": "a needle in a haystackthin on the groundabundant"
   },
   {
+    "order": 29,
     "start": 142.4,
     "end": 145.92,
     "text": "so it is literally like trying to find a needle in a haystack.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 146.48,
     "end": 150.8,
     "text": "But when you do come across them, I mean the deep ocean is food limited,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 150.8,
     "end": 157.439,
     "text": "so life is quite thin on the ground, and then suddenly your camera just stumbles into this area",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 157.439,
     "end": 163.52,
     "text": "where there is just abundant life all over the sea floor and around these vents.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 165.12,
     "end": 170.4,
     "text": "Alex says that finding these small thermal vents at the bottom of the ocean is like finding a needle",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 170.4,
     "end": 177.2,
-    "text": "Alex says that finding these small thermal vents at the bottom of the ocean is like finding a needle in a haystack, an idiom meaning almost impossible to find because the area you have to search is so large.",
-    "speaker": "finding a needle in a haystack"
-  },
-  {
-    "start": 178,
-    "end": 183.759,
-    "text": "Because there's no sunlight on the ocean floor, it's hard for plants and creatures to survive,",
+    "text": "in a haystack, an idiom meaning almost impossible to find because the area you have to search is so large.",
     "speaker": null
   },
   {
+    "order": 35,
+    "start": 178,
+    "end": 183.759,
+    "text": "Because there’s no sunlight on the ocean floor, it’s hard for plants and creatures to survive,",
+    "speaker": "thin on the groundabundant"
+  },
+  {
+    "order": 36,
     "start": 183.759,
     "end": 188.8,
     "text": "so forms of life are thin on the ground. There are only a few of them.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 189.439,
     "end": 194.56,
     "text": "Alex cannot find anything to film with his camera until suddenly he nears the vent",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 194.56,
     "end": 201.759,
     "text": "and sees plants and animals everywhere. Here there is more than enough or abundant life.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 201.759,
     "end": 206.24,
     "text": "To picture a hydrothermal vent, imagine an underwater volcano,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 206.24,
     "end": 214.08,
     "text": "billowing clouds of what looks like smoke heat the sea water to a temperature of 386 degrees C.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 214.08,
     "end": 218.24,
     "text": "This creates a warm environment of all kinds of weird and wonderful creatures,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 218.24,
     "end": 224.4,
     "text": "including vent muscles, chew worms and blind yeti crabs, so called because of their hairy claws.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 224.56,
     "end": 227.84,
     "text": "Some of which get cooked because the water is so hot.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 227.84,
     "end": 232.4,
-    "text": "What's amazing is that while these vents may be as old as Earth itself,",
-    "speaker": null
+    "text": "What’s amazing is that while these vents may be as old as Earth itself,",
+    "speaker": "Sam"
   },
   {
+    "order": 45,
     "start": 232.4,
     "end": 239.36,
     "text": "they were only discovered in the 1970s. So are there more mysteries hiding in the depotion?",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 239.36,
     "end": 244.4,
     "text": "That's the question BBC World Services Discovery asked marine biologist,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 244.4,
     "end": 246.48,
     "text": "Kerry Howell. Here's what she said.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 248.24,
     "end": 252.719,
     "text": "I have absolutely no doubt that there is plenty more to discover down there.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 252.8,
     "end": 257.519,
     "text": "It's really vast. It's quite hard to get your head around how vast the deep sea is and it is",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 257.519,
     "end": 264,
     "text": "most of our planet. We barely scratched the surface of exploration of this unique environment.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 264,
     "end": 269.759,
     "text": "If you think that vents were only discovered in the 70s, there's great potential for a",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 269.759,
     "end": 274.879,
     "text": "Lord else to come. We've only been exploring this environment for the last 150 years.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 274.879,
     "end": 278.399,
     "text": "I mean, before that we didn't think there was any life down there at all.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 278.399,
     "end": 283.599,
     "text": "So it's a very young science is deep sea biology and so there's a lot more to discover.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 285.599,
     "end": 290,
-    "text": "In terms of ocean exploration, Kerry thinks we've only scratched the surface,",
-    "speaker": null
-  },
-  {
-    "start": 290,
-    "end": 294.319,
-    "text": "In terms of ocean exploration Kerry thinks we’ve only scratched the surface – found out a little bit about something, but not enough to fully understand it.",
+    "text": "In terms of ocean exploration Kerry thinks we’ve only scratched the surface –",
     "speaker": "scratched the surface"
   },
   {
+    "order": 56,
+    "start": 290,
+    "end": 294.319,
+    "text": "found out a little bit about something, but not enough to fully understand it.",
+    "speaker": null
+  },
+  {
+    "order": 57,
     "start": 294.319,
     "end": 300.079,
     "text": "That's because the ocean is vast, extremely big. So vast, in fact,",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 300.079,
     "end": 305.12,
-    "text": "That’s because the ocean is vast – extremely big. So vast, in fact, that it’s hard to get your head around it, or difficult to really understand.",
-    "speaker": "vast hard to get your head around it"
+    "text": "that it's hard to get your head around it or difficult to really understand.",
+    "speaker": null
   },
   {
+    "order": 59,
     "start": 305.12,
     "end": 310.879,
-    "text": "But how vast, exactly, Sam? In my question I asked how much of the Earth’s surface is covered by water.",
+    "text": "But how vast, exactly, Sam? In my question I asked how much of the Earth’s surface is covered by water",
     "speaker": "Neil"
   },
   {
+    "order": 60,
     "start": 311.439,
     "end": 314.16,
-    "text": "And I said it was c) 70 percent.",
-    "speaker": "Sam"
+    "text": "And I said it was C, 70 percent.",
+    "speaker": null
   },
   {
+    "order": 61,
     "start": 314.16,
     "end": 320.16,
-    "text": "Which was the correct answer! Well, 71 percent to be precise, but either way it’s hard to get your head around or difficult to fully understand.",
+    "text": "Which was the correct answer! Well, 71 percent to be precise, but either way it’s hard to get your",
     "speaker": "hard to get your head around"
   },
   {
+    "order": 62,
     "start": 320.16,
     "end": 326.319,
     "text": "head around or difficult to fully understand. Okay, we'd better recap the other vocabulary too,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 326.319,
     "end": 332.639,
-    "text": "OK, we’d better recap the other vocabulary too, starting with the idiom, finding a needle in a haystack meaning that something is almost impossible to find because you have to search so widely for it.",
-    "speaker": "finding a needle in a haystack"
+    "text": "starting with the idiom finding a needle in a haystack, meaning that something is almost impossible",
+    "speaker": null
   },
   {
+    "order": 64,
     "start": 332.639,
     "end": 338.56,
     "text": "to find because you have to search so widely for it. If something is thin on the ground,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 338.56,
     "end": 342.959,
     "text": "there is very little of it, but if it's abundant there's plenty or more than enough.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 343.599,
     "end": 349.519,
-    "text": "When you only scratch the surface, you find out a little about something, but not enough to fully understand it.",
-    "speaker": "scratch the surface"
+    "text": "When you only scratch the surface, you find out a little about something, but not enough to fully",
+    "speaker": "thin on the groundabundant"
   },
   {
+    "order": 67,
     "start": 349.519,
     "end": 355.279,
-    "text": "And finally, vast is another way of saying extremely large, huge or enormous.",
-    "speaker": "vast"
+    "text": "understand it. And finally, vast is another way of saying extremely large, huge or enormous.",
+    "speaker": null
   },
   {
+    "order": 68,
     "start": 355.839,
     "end": 361.039,
     "text": "And like the vast oceans, our time is limited to just six minutes and it's up.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 361.04,
     "end": 367.36,
-    "text": "Unlike the vast oceans, our time is limited to just six minutes and it’s up. So, join us again soon for more amazing adventures and, of course, useful vocabulary, here at 6 Minute English. Goodbye for now!",
-    "speaker": "Sam"
+    "text": "So join us again soon for more amazing adventures and of course, useful vocabulary here at 6 Minute",
+    "speaker": "vast"
   },
   {
+    "order": 70,
     "start": 367.36,
     "end": 369.6,
     "text": "English. Goodbye for now. Goodbye.",

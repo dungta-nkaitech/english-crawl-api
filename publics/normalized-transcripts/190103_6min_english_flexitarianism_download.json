@@ -1,776 +1,905 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.04,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.08,
     "end": 14.4,
-    "text": "Hello. This is 6 Minute English I'm Neil.",
-    "speaker": "Neil"
+    "text": "Hello, this is 6 Minute English, I'm Neil.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 14.4,
     "end": 15.439,
     "text": "And I'm Catherine.",
-    "speaker": "Catherine"
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 15.439,
     "end": 17.92,
     "text": "Catherine, are you flexitarian?",
     "speaker": "flexitarian"
   },
   {
+    "order": 7,
     "start": 17.92,
     "end": 20,
-    "text": "No, I’m not really religious, Neil.",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 20,
-    "end": 23.28,
-    "text": "It's not a religion, it's a diet.",
+    "text": "Oh no, I'm not really religious, Neil.",
     "speaker": null
   },
   {
+    "order": 8,
+    "start": 20,
+    "end": 23.28,
+    "text": "It’s not a religion! It’s a diet.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 9,
     "start": 23.28,
     "end": 26.16,
     "text": "It means mainly eating plant-based foods",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 26.16,
     "end": 28.08,
     "text": "and only occasionally eating meat.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 28.159,
     "end": 29.679,
     "text": "Oh, I see.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 29.679,
     "end": 30.559,
     "text": "Sorry.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 30.559,
     "end": 32.96,
     "text": "Well, I don't eat too much meat,",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 32.96,
     "end": 36,
     "text": "so I'm kind of on the way to flexitarianism.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 36,
     "end": 38.719,
-    "text": "Some people don't eat meat for ethical reasons.",
-    "speaker": null
+    "text": "Some people don’t eat meat for ethical reasons.",
+    "speaker": "ethicalflexitarian flexitarian"
   },
   {
+    "order": 16,
     "start": 38.719,
     "end": 41.119,
     "text": "That means that for them, it's wrong to eat meat.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 41.119,
     "end": 44.32,
     "text": "It's wrong that animals should be killed for our food.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 44.719,
     "end": 47.039,
     "text": "But one of the reasons for being flexitarian",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 47.039,
     "end": 49.119,
     "text": "and only eating meat once in a while",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 49.119,
     "end": 51.28,
     "text": "is for the benefit of the planet.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 51.28,
     "end": 54,
     "text": "According to a recent report, being flexitarian",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 54,
     "end": 55.84,
     "text": "is healthier for the individual",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 55.84,
     "end": 58.48,
     "text": "that can also help to fight climate change.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 58.48,
     "end": 61.6,
     "text": "Before we look in more detail at this topic, a question.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 61.6,
     "end": 63.52,
     "text": "Do you like peppers, Catherine?",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 63.52,
     "end": 64.48,
     "text": "Yes, I do.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 64.48,
     "end": 65.12,
-    "text": "Yes, I do. Is that correct?",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 66.079,
-    "end": 69.52,
-    "text": "Well, that's not the quiz question, but this is.",
+    "text": "Is that correct?",
     "speaker": null
   },
   {
+    "order": 28,
+    "start": 66.079,
+    "end": 69.52,
+    "text": "Well, that's not the quiz question! But this is.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 29,
     "start": 69.52,
     "end": 72.4,
     "text": "All peppers are in the same food group.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 72.4,
     "end": 74,
     "text": "What group is it?",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 74,
     "end": 77.92,
     "text": "Are peppers fruit, vegetables, or herbs?",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 77.92,
     "end": 78.56,
-    "text": "Any ideas?",
+    "text": " Any ideas",
     "speaker": "Neil"
   },
   {
+    "order": 33,
     "start": 79.84,
     "end": 82,
-    "text": "This one sounds like a trick question,",
-    "speaker": null
+    "text": "This one sounds like a trick question ",
+    "speaker": "Catherine"
   },
   {
+    "order": 34,
     "start": 82,
     "end": 85.6,
     "text": "but I think it's obviously vegetables.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 86.079,
     "end": 89.039,
     "text": "Well, you'll have to wait a bit to find out.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 89.039,
     "end": 90.879,
     "text": "I'll have the answer later in the program.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 90.879,
     "end": 94.319,
     "text": "Now, Dr. Marco Springman is from the University of Oxford",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 94.319,
     "end": 97.28,
     "text": "and was one of the lead authors of a major report",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 97.28,
     "end": 99.359,
     "text": "that looked at the global food system",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 99.359,
     "end": 100.879,
     "text": "and how it affects the climate.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 101.599,
     "end": 106,
     "text": "On the BBC Today program, he talked about what changes would be needed.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 106,
     "end": 107.919,
     "text": "Does he mention just one thing?",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 110.079,
     "end": 114,
     "text": "We really found that a combination of measures",
-    "speaker": null
+    "speaker": "a combination of measuresambitious"
   },
   {
+    "order": 44,
     "start": 114,
     "end": 117.2,
     "text": "would be needed to stay within environmental limits.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 117.2,
     "end": 121.76,
     "text": "And those include changes towards healthier, more plant-based diets,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 122.96,
     "end": 124.799,
     "text": "ambitious technological improvements",
-    "speaker": null
+    "speaker": "combination of measures"
   },
   {
+    "order": 47,
     "start": 124.799,
     "end": 127.04,
     "text": "and changes in farming management,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 127.04,
     "end": 129.12,
     "text": "and a reduction of food loss and waste.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 131.199,
     "end": 133.759,
-    "text": "So did he mention just one thing, Catherine?",
-    "speaker": "Neil"
+    "text": "So, did he mention just one thing, Catherine?",
+    "speaker": null
   },
   {
+    "order": 50,
     "start": 133.759,
     "end": 134.96,
     "text": "No, not at all.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 134.96,
     "end": 138.56,
     "text": "He said that there would need to be a combination of measures,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 138.56,
     "end": 141.68,
     "text": "which means a variety of different actions,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 141.76,
     "end": 145.04,
     "text": "including moving to a plant-based diet,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 145.599,
     "end": 148.879,
     "text": "developing technology, changing the way we farm",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 148.879,
     "end": 150.8,
     "text": "and wasting less food.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 150.8,
     "end": 154.719,
     "text": "He described the need for ambitious technological improvements.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 154.719,
     "end": 158.159,
     "text": "Ambitious here means the developments will have to be impressive",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 158.159,
     "end": 160.159,
     "text": "above the ordinary, not simple.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 161.12,
     "end": 165.04,
     "text": "Dr. Springman was asked if we had to completely remove meat from the food",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 165.04,
     "end": 166.4,
     "text": "that we eat to be healthy.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 166.879,
     "end": 168.319,
     "text": "What was his recommendation?",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 168.479,
     "end": 174.479,
     "text": "Well, we surveyed literature on what a healthy diet is.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 174.479,
     "end": 178.319,
     "text": "And according to that, if you treat it as luxury, it's probably okay,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 178.319,
     "end": 181.359,
     "text": "but you shouldn't have more than one serving of red meat,",
-    "speaker": null
+    "speaker": "surveyed the literaturea luxury"
   },
   {
+    "order": 65,
     "start": 181.359,
     "end": 184.079,
     "text": "which includes beef and pork per week.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 184.079,
     "end": 188.56,
     "text": "So, the more plant-based to go, you go the healthier and the lower",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 188.56,
     "end": 190.079,
     "text": "and environmental impacts in the food.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 190.079,
     "end": 191.68,
-    "text": "And lamb is just the same…",
-    "speaker": "BBC Today programme presenter"
+    "text": "And lamb is just the same?",
+    "speaker": null
   },
   {
+    "order": 69,
     "start": 191.68,
     "end": 192.079,
     "text": "Yes.",
     "speaker": "Dr Marco Springmann"
   },
   {
+    "order": 70,
     "start": 194.319,
     "end": 196.799,
-    "text": "So do we need to cut out meat entirely?",
-    "speaker": "Neil"
+    "text": "So, do we need to cut out meat entirely?",
+    "speaker": null
   },
   {
+    "order": 71,
     "start": 197.28,
     "end": 202.32,
-    "text": "He says that while a plant-based diet is certainly healthier, you could still have some red meat but only once a week.",
+    "text": "He says that while a plant-based diet is certainly healthier, ",
     "speaker": "Catherine"
   },
   {
+    "order": 72,
     "start": 202.32,
     "end": 206.24,
     "text": "you could still have some red meat, but only once a week.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 206.24,
     "end": 209.28,
     "text": "Yes, he said, think of it as a luxury.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 209.28,
     "end": 213.28,
     "text": "A luxury food is one that we really enjoy that don't eat very often.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 213.28,
     "end": 215.84,
     "text": "Perhaps because it's very expensive or rare.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 215.84,
     "end": 218.48,
-    "text": "Or delicious, but very bad for us.",
-    "speaker": null
+    "text": "Or delicious but very bad for us. ",
+    "speaker": "Catherine"
   },
   {
+    "order": 77,
     "start": 218.48,
     "end": 221.439,
     "text": "We eat it as a treat, but not every day.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 222.24,
     "end": 226,
     "text": "Springman says we should think of red meat in the same way.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 226.08,
     "end": 229.12,
     "text": "It shouldn't be a regular part of our diet.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 229.12,
     "end": 230.879,
     "text": "How did he come to this opinion?",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 230.879,
     "end": 234,
-    "text": "How did he come to this opinion? Did they just make it up themselves because it sounds like a good idea?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 234.879,
-    "end": 236.08,
-    "text": "Not at all, Neil.",
+    "text": "Did they just make it up themselves because it sounds like a good idea?",
     "speaker": null
   },
   {
+    "order": 82,
+    "start": 234.879,
+    "end": 236.08,
+    "text": "Not at all, Neil.",
+    "speaker": "surveyed the literature"
+  },
+  {
+    "order": 83,
     "start": 236.08,
     "end": 239.039,
     "text": "He said that they surveyed the literature.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 239.039,
     "end": 241.599,
     "text": "This means that as part of their report,",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 241.599,
     "end": 246.319,
     "text": "they studied different scientific research that had previously been published.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 247.12,
     "end": 251.28,
     "text": "Their advice is based on the evidence of those research papers.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 252.08,
     "end": 254.479,
     "text": "Okay, now the answer to our quiz question.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 254.479,
     "end": 257.199,
     "text": "I asked to what food group do peppers belong?",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 257.199,
     "end": 261.599,
     "text": "Was it A, fruit, B, vegetables, C, herbs?",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 261.599,
     "end": 262.639,
-    "text": "Catherine, you said?",
+    "text": " Catherine, you said",
     "speaker": "Neil"
   },
   {
+    "order": 91,
     "start": 262.639,
     "end": 264.24,
     "text": "I said b) vegetables.",
     "speaker": "Catherine"
   },
   {
+    "order": 92,
     "start": 264.879,
     "end": 265.519,
     "text": "Oh dear.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 265.519,
     "end": 267.199,
     "text": "Good try, but not right.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 267.199,
     "end": 268.48,
     "text": "Thanks for playing.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 268.48,
     "end": 270.319,
     "text": "The answer is A, fruit.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 270.959,
     "end": 271.439,
-    "text": "a) fruit",
+    "text": " fruit",
     "speaker": "Neil"
   },
   {
+    "order": 97,
     "start": 272.719,
     "end": 273.439,
-    "text": "Fruit? Really?",
+    "text": " Really",
     "speaker": "Catherine"
   },
   {
+    "order": 98,
     "start": 273.439,
     "end": 274.159,
     "text": "Yes.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 274.159,
     "end": 277.279,
     "text": "A fruit is the part of a plant that contains the seeds.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 277.279,
     "end": 282.959,
     "text": "So peppers, like tomatoes, pumpkins, avocados, and olives are actually fruit.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 283.039,
     "end": 284.879,
     "text": "Well done if you got that one right.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 284.879,
     "end": 286.239,
     "text": "Now our vocabulary.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 286.239,
     "end": 288.799,
     "text": "Our first word is flexitarian.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 288.799,
     "end": 291.759,
     "text": "This is the term for a diet that is mainly plant based,",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 291.759,
     "end": 293.519,
     "text": "but can include meat occasionally.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 294.159,
     "end": 296.159,
     "text": "Our next word is ethical.",
-    "speaker": null
+    "speaker": "ethicalethical"
   },
   {
+    "order": 107,
     "start": 296.799,
     "end": 299.839,
     "text": "This is in the context of choosing not to eat meat.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 300.399,
     "end": 303.199,
     "text": "Some people are vegetarian because they don't like meat.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 303.759,
     "end": 305.839,
     "text": "Some because they want a healthier diet.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 306.399,
     "end": 309.039,
     "text": "And some for ethical reasons,",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 309.039,
     "end": 312.799,
     "text": "this means that their choice is because they feel it is the right thing",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 313.68,
     "end": 316.639,
     "text": "The next phrase was a combination of measures.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 316.639,
     "end": 319.6,
     "text": "This means taking different actions to achieve something,",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 319.6,
     "end": 321.04,
     "text": "not just doing one thing.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 321.6,
     "end": 323.52,
     "text": "We then had ambitious.",
-    "speaker": null
+    "speaker": "ambitiousambitious ambitious"
   },
   {
+    "order": 116,
     "start": 323.52,
     "end": 328.8,
     "text": "If a person's ambitious, it means they want to get on in life and be successful.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 328.8,
     "end": 333.759,
     "text": "But ambitious can also be used to describe a plan or achievement",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 333.759,
     "end": 337.199,
     "text": "which is impressive and above the ordinary.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 337.199,
     "end": 340,
     "text": "The next phrase was to survey the literature.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 340.079,
     "end": 344.959,
-    "text": "The next phrase was to survey the literature. This means to 'study and analyse the different scientific research on a particular subject'.",
-    "speaker": "survey the literature"
-  },
-  {
-    "start": 344.959,
-    "end": 347.68,
-    "text": "And finally we had luxury.",
+    "text": "This means to study and analyse the different scientific research on a particular subject.",
     "speaker": null
   },
   {
-    "start": 347.68,
-    "end": 353.759,
-    "text": "And finally we had luxury. When talking about food, a luxury is something that we only eat occasionally as a special treat because it’s expensive or unhealthy but delicious.",
+    "order": 121,
+    "start": 344.959,
+    "end": 347.68,
+    "text": "And finally we had luxury.",
     "speaker": "luxurya luxury"
   },
   {
+    "order": 122,
+    "start": 347.68,
+    "end": 353.759,
+    "text": "When talking about food, a luxury is something that we only eat occasionally as a special treat",
+    "speaker": null
+  },
+  {
+    "order": 123,
     "start": 353.759,
     "end": 357.519,
     "text": "because it's expensive or unhealthy, but delicious.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 357.519,
     "end": 360.079,
     "text": "Well, I'm off for a plate of delicious vegetables.",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 360.8,
     "end": 365.839,
     "text": "Please join us next time and why not check us out on your favourite social media platform on our app.",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 365.839,
     "end": 368.639,
     "text": "And of course the website bbclearningenglish.com.",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 368.639,
     "end": 369.36,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 369.36,
     "end": 370,
-    "text": "Bye!",
-    "speaker": "Catherine"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

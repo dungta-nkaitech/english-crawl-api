@@ -1,596 +1,695 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.32,
     "end": 15.04,
     "text": "Hello. This is 6 Minute English. I'm Rob.",
     "speaker": "Rob"
   },
   {
+    "order": 3,
     "start": 15.04,
     "end": 15.919,
     "text": "And I'm Sam.",
-    "speaker": "Sam"
+    "speaker": null
   },
   {
+    "order": 4,
     "start": 15.919,
     "end": 18.879,
     "text": "In this program, we're talking about biscuits.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 18.879,
     "end": 21.359,
-    "text": "Really? That’s not what I was told… oh hold on, you’re lying.",
-    "speaker": "Sam"
+    "text": "Really? That's not what I was told.",
+    "speaker": "Rob"
   },
   {
+    "order": 6,
     "start": 22.16,
     "end": 23.92,
     "text": "Oh, hold on, you're lying.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 23.92,
     "end": 25.6,
-    "text": "Yes, you're right, Sam.",
-    "speaker": null
+    "text": "Yes, you’re right, Sam.",
+    "speaker": "Rob"
   },
   {
+    "order": 8,
     "start": 25.6,
     "end": 28.8,
     "text": "I am lying simply to demonstrate our topic.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 28.879,
     "end": 33.92,
     "text": "Lying and how to detect it, you detected my lie very easily, Sam.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 33.92,
     "end": 37.12,
     "text": "I could tell from the smirk on your face that you were telling a fib.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 37.76,
     "end": 40.64,
     "text": "That's the word for a small, inoffensive lie.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 40.64,
     "end": 45.519,
     "text": "To be honest, talking about lie detecting will be much more interesting than biscuits.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 13,
     "start": 46.32,
     "end": 49.6,
     "text": "But first, let's start with a question for you to answer.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 49.6,
     "end": 55.519,
     "text": "A competition is held in Cumbria in the UK every year to find and award the title of",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 55.52,
     "end": 58,
     "text": "the biggest liar in the world.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 16,
     "start": 58,
     "end": 61.44,
     "text": "But which type of people are not allowed to take part?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 61.44,
     "end": 66.32,
     "text": "A, farmers, B, lawyers, or C, estate agents?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 66.32,
     "end": 67.6,
     "text": "What do you think, Sam?",
     "speaker": "Rob"
   },
   {
+    "order": 19,
     "start": 67.6,
     "end": 72.48,
     "text": "Well, I'd be lying if I said I knew, but based on personal experience,",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 72.48,
     "end": 74.4,
     "text": "I'd say estate agents.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 21,
     "start": 74.4,
     "end": 76.079,
     "text": "They'd find it too easy.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 76.079,
     "end": 80.8,
     "text": "Ah, well, that's your opinion, but I'll let you know if you're right at the end of the program.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 81.439,
     "end": 85.12,
     "text": "So, lying is something I'm sure a lot of us do.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 85.2,
     "end": 88.48,
     "text": "Sometimes to avoid trouble, sometimes to cheat people,",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 88.48,
     "end": 90.88,
     "text": "or sometimes just to impress someone.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 90.88,
     "end": 93.52,
     "text": "Did you know I can speak seven languages, Sam?",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 93.52,
     "end": 96.16,
     "text": "That's just a bare face lie, Rob.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 96.16,
     "end": 101.04,
     "text": "But I can see how easy lying can be, and that's what neuroscientists Sophie Scott thinks.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 101.6,
     "end": 105.439,
     "text": "Here she is on BBC Radio 4's seriously podcast,",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 30,
     "start": 105.439,
     "end": 108.56,
     "text": "explaining how we sometimes lie just to be nice.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 110,
     "end": 114.88,
     "text": "Often what we mean by lying is someone setting out two DCs with their words or their",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 114.879,
     "end": 120.719,
     "text": "actions, but actually normal conversation probably can only happen because we don't actually say",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 120.719,
     "end": 124.319,
     "text": "all the time exactly what we really think and what we really mean.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 124.319,
     "end": 129.599,
     "text": "And that kind of cooperation is at the heart, I think, of a lot of social interactions for humans,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 129.599,
     "end": 133.28,
     "text": "and I think that's one of the strong pushes to make conversation polite,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 133.28,
     "end": 136,
     "text": "and therefore frequently not actually truthful.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 137.599,
     "end": 141.039,
-    "text": "So, Sophie mentions two types of lying.",
-    "speaker": null
+    "text": "So Sophie mentions two types of lying. ",
+    "speaker": "deceive"
   },
   {
+    "order": 38,
     "start": 141.039,
     "end": 143.759,
     "text": "There's the one where we try to deceive someone,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 143.84,
     "end": 148,
     "text": "so that's trying to hide something by tricking someone to gain an advantage.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 148.799,
     "end": 152.879,
     "text": "That's like you're getting me to pay £10 for a cinematic it,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 152.879,
     "end": 154.879,
     "text": "when actually there were only £5.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 156.159,
     "end": 161.68,
     "text": "That's just dishonest, but there are also what we like to call white lies.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 161.68,
     "end": 164.719,
     "text": "Small lies we tell to avoid obsessing someone.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 165.359,
     "end": 168.719,
     "text": "Those are lies that aren't intended to give you an advantage.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 169.039,
     "end": 172.079,
-    "text": "Yes, Sophie Scott says we use them in normal conversation – when we don’t say what we really mean.",
+    "text": "Yes, Sophie Scott says we use them in normal conversation ",
     "speaker": "Rob"
   },
   {
+    "order": 46,
     "start": 172.16,
     "end": 174.64,
     "text": "When we don't say what we really mean.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 174.64,
     "end": 179.6,
     "text": "So we want to make conversation polite because we want to cooperate with each other.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 179.6,
     "end": 182.08,
     "text": "She says cooperation is at the heart.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 182.8,
     "end": 187.6,
     "text": "Something that's at the heart is the most important or essential part.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 188.4,
     "end": 193.2,
-    "text": "Now, telling lies is one thing, but how do you know if we're being lied to?",
-    "speaker": null
+    "text": "Now telling lies is one thing but how do you know if we’re being lied to?  ",
+    "speaker": "Rob"
   },
   {
+    "order": 51,
     "start": 193.76,
     "end": 198.4,
     "text": "Sometimes there are telltale signs, such as someone's face turning red or someone",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 198.4,
     "end": 199.599,
     "text": "shuffling their feet.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 199.599,
     "end": 205.04,
     "text": "But if you really want to know if someone is lying, maybe we should listen to Richard Weisman,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 205.04,
     "end": 207.92,
     "text": "a psychologist at the University of Hertfordshire.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 207.92,
     "end": 210.879,
     "text": "He or he is speaking on the seriously podcast.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 212.4,
     "end": 214.56,
     "text": "Lies in general say less.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 215.599,
     "end": 220.24,
     "text": "They tend to have a longer what's called response latency, which is the time between the end",
-    "speaker": null
+    "speaker": "responselatency"
   },
   {
+    "order": 58,
     "start": 220.24,
     "end": 222.4,
     "text": "of the question and the beginning of the answer.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 222.96,
     "end": 226.879,
     "text": "And that also tends to be an emotional distance in the lie.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 226.879,
     "end": 232.96,
     "text": "So the words me, my, I, all those things tend to drop away in lies.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 232.96,
     "end": 237.439,
     "text": "And it's much, much harder for lies to control what they're saying and how they're saying it.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 237.439,
     "end": 239.199,
     "text": "So focus your attention there.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 239.199,
     "end": 240.56,
     "text": "You become a better lie detector.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 242.319,
     "end": 245.199,
     "text": "Hmm, some good advice from Richard Weisman.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 245.199,
     "end": 250.319,
     "text": "So to detect lies, we need to listen out for the response latency.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 250.319,
     "end": 255.599,
     "text": "A term using psychology to describe the time taken between a stimulus or question",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 255.599,
     "end": 256.879,
     "text": "and a response to it.",
-    "speaker": null
+    "speaker": "deceive"
   },
   {
+    "order": 68,
     "start": 257.439,
     "end": 261.04,
     "text": "The bigger the gap, the more chance there is that someone is lying.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 261.04,
     "end": 262.319,
     "text": "Is that a good summary, Sam?",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 262.8,
     "end": 264.719,
     "text": "Hmm, sort of, Rob.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 265.279,
     "end": 272.159,
-    "text": "Sort of, Rob. Richard also suggests we focus on – or concentrate on – what and how people are saying things too. There’s probably more to it than just that.",
-    "speaker": "Sam"
+    "text": "Richard also suggests we focus on or concentrate on what and how people are saying things too.",
+    "speaker": null
   },
   {
+    "order": 72,
     "start": 273.12,
     "end": 275.6,
     "text": "There's probably more to it than just that.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 275.6,
     "end": 277.759,
     "text": "Well, now you know how to detect my lies, Sam.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 277.759,
     "end": 280.8,
     "text": "Maybe honesty is the best policy, as they say.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 281.12,
     "end": 285.6,
     "text": "So I'm now going to give you an honest answer to the question I asked earlier.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 285.6,
     "end": 293.199,
     "text": "A competition is held in Cumbry in the UK every year to award the title of the biggest liar in the world.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 293.199,
     "end": 297.04,
     "text": "But which type of people are not allowed to take part?",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 297.04,
     "end": 301.6,
     "text": "A, farmers, B, lawyers or C, estate agents.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 301.6,
     "end": 305.28,
-    "text": "c)    Estate agents",
-    "speaker": "Rob"
-  },
-  {
-    "start": 305.28,
-    "end": 307.519,
-    "text": "And you are wrong, I'm afraid.",
+    "text": "Well, I guess C, estate agents.",
     "speaker": null
   },
   {
+    "order": 80,
+    "start": 305.28,
+    "end": 307.519,
+    "text": "And you are wrong, I'm afraid.",
+    "speaker": "Sam"
+  },
+  {
+    "order": 81,
     "start": 308.24,
     "end": 313.039,
     "text": "Lawyers, as well as politicians, are not allowed to enter the competition.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 313.039,
     "end": 317.919,
     "text": "It's claimed they are judged to be too skilled at telling porquies.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 317.919,
     "end": 323.039,
     "text": "Porquies is an informal word for pork pies and that rhymes with lies.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 323.039,
     "end": 325.599,
     "text": "Hmm, fascinating stuff, Rob.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 325.599,
     "end": 326.56,
-    "text": "And that's no lie.",
-    "speaker": null
-  },
-  {
-    "start": 327.199,
-    "end": 330.479,
-    "text": "Fascinating stuff, Rob and that’s no lie! But now, shall we recap some of the vocabulary we’ve heard today?",
+    "text": " and that’s no lie",
     "speaker": "Sam"
   },
   {
+    "order": 86,
+    "start": 327.199,
+    "end": 330.479,
+    "text": "But now shall we recap some of the vocabulary we've heard today?",
+    "speaker": null
+  },
+  {
+    "order": 87,
     "start": 330.479,
     "end": 331.199,
     "text": "Yeah, why not?",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 331.759,
     "end": 334.399,
-    "text": "Why not? A fib is a small inoffensive lie.",
-    "speaker": "fib."
+    "text": "A fib is a small, inoffensive lie.",
+    "speaker": null
   },
   {
+    "order": 89,
     "start": 335.199,
     "end": 340.239,
-    "text": "A white lie is also a small lie, told to avoid upsetting someone.",
-    "speaker": "white lie"
+    "text": "A white lie is also a small lie told to avoid upsetting someone.",
+    "speaker": null
   },
   {
+    "order": 90,
     "start": 340.239,
     "end": 345.919,
     "text": "When you deceive someone, you try to hide something by tricking them to gain an advantage.",
-    "speaker": "deceive"
+    "speaker": null
   },
   {
+    "order": 91,
     "start": 345.919,
     "end": 352.159,
     "text": "When something is at the heart of something, it is the most important or essential part of it.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 352.159,
     "end": 358.56,
     "text": "And we heard about response latency, a term used in psychology to describe the time taken",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 358.56,
     "end": 363.12,
     "text": "between a stimulus or question and a response to it.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 363.12,
     "end": 364.399,
     "text": "Okay, thank you Sam.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 364.399,
     "end": 366.399,
     "text": "That's all from 6 Minute English.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 96,
     "start": 366.399,
     "end": 368.56,
     "text": "We look forward to your company next time.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 368.56,
     "end": 369.36,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 369.36,
     "end": 370.319,
-    "text": "Bye everyone!",
-    "speaker": "Sam"
+    "text": "Bye everyone.",
+    "speaker": null
   }
 ]

@@ -1,530 +1,618 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 2.64,
     "text": "6-Mute English",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 2.64,
     "end": 5.6,
     "text": "From BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 7.9190000000000005,
     "end": 12.04,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 12.04,
     "end": 13.16,
-    "text": "And I’m Beth.",
-    "speaker": "Beth"
+    "text": "And I'm Beth.",
+    "speaker": null
   },
   {
+    "order": 4,
     "start": 13.16,
     "end": 17.28,
-    "text": "Shhh! Quiet please! I’m trying to read here, Beth!",
+    "text": "Shhh! Quiet please! I’m trying to read here, Beth! ",
     "speaker": "Shhh"
   },
   {
+    "order": 5,
     "start": 17.28,
     "end": 20.8,
-    "text": "Oh, excuse me! I didn’t know this was a library.",
-    "speaker": "Beth"
+    "text": "Oh, excuse me. I didn't know this was a library.",
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 20.8,
     "end": 25.6,
     "text": "Well, what exactly is a library? Have you ever thought about that?",
     "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 25.679,
     "end": 30,
-    "text": "Well, somewhere with lots of books I suppose, where you go to read or study.",
-    "speaker": "Beth"
-  },
-  {
-    "start": 30,
-    "end": 33.84,
-    "text": "A symbol of knowledge and learning, a place to keep warm in the winter,",
+    "text": "Well, somewhere with lots of books, I suppose, where you go to read or study.",
     "speaker": null
   },
   {
+    "order": 8,
+    "start": 30,
+    "end": 33.84,
+    "text": "A symbol of knowledge and learning, a place to keep warm in the winter,",
+    "speaker": "Neil"
+  },
+  {
+    "order": 9,
     "start": 33.84,
     "end": 37.2,
     "text": "or somewhere to murder victims in a crime novel.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 37.2,
     "end": 40.8,
     "text": "Libraries can be all of these things and more.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 40.8,
     "end": 45.04,
     "text": "In this programme, we'll be looking into the hidden life of the library,",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 45.04,
     "end": 49.6,
     "text": "including one of the most famous, the great library of Alexandra,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 49.6,
     "end": 54.56,
     "text": "founded in ancient Egypt, in around 285 BCE.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 54.56,
     "end": 58.24,
     "text": "And as usual, we'll be learning some useful new vocabulary",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 58.24,
     "end": 61.92,
     "text": "and doing it all in a whisper, so as not to disturb anyone.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 61.92,
     "end": 63.52,
-    "text": "Glad to hear it.",
-    "speaker": null
+    "text": "Glad to hear it!",
+    "speaker": "Neil"
   },
   {
+    "order": 17,
     "start": 63.52,
     "end": 68.719,
     "text": "But before we get out our library cards, I have a question for you, Beth.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 68.719,
     "end": 73.12,
     "text": "Founded in 1973 in central London, the British library",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 73.12,
     "end": 78.719,
     "text": "is one of the largest libraries in the world, containing around 200 million books.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 78.719,
     "end": 82.4,
     "text": "But which of the following can be found on its shelves?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 82.48,
     "end": 86.32,
-    "text": "a)    the earliest known printing of the Bible?",
-    "speaker": "Neil"
+    "text": "Is it A, the earliest known printing of the Bible?",
+    "speaker": null
   },
   {
+    "order": 22,
     "start": 86.32,
     "end": 91.04,
-    "text": "b)    the first edition of The Times’ newspaper from 1788? or,",
+    "text": "B, the first edition of the Times newspaper from 1788,",
     "speaker": "Neil"
   },
   {
+    "order": 23,
     "start": 91.04,
     "end": 95.52,
-    "text": "c)    the original manuscripts of the Harry Potter books?",
-    "speaker": "Neil"
+    "text": "C, the original manuscripts of the Harry Potter books.",
+    "speaker": null
   },
   {
+    "order": 24,
     "start": 95.52,
     "end": 100.08,
-    "text": "I’ll guess it’s the first edition of the famous British newspaper, 'The Times’.",
+    "text": "I’ll guess it’s the first edition of the famous British newspaper, 'The Times",
     "speaker": "Beth"
   },
   {
+    "order": 25,
     "start": 100.08,
     "end": 103.68,
     "text": "Okay, Beth, I'll reveal the answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 104.64,
     "end": 107.36,
     "text": "Libraries mean different things to different people,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 107.36,
     "end": 111.36,
     "text": "so who better to ask than someone who has written the book on it?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 111.359,
     "end": 116,
     "text": "Literally, Professor Andrew Pettigree is the author of a new book,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 116,
     "end": 118.719,
     "text": "A Fragile History of the Library.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 118.719,
     "end": 125.439,
     "text": "Here he explains what a library means to him on BBC Radio 3 programme, Art and Ideas.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 125.439,
     "end": 129.84,
-    "text": "Well, in my view, a library is any collection of books,",
-    "speaker": null
+    "text": "Well, in my view, a library is any collection of books ",
+    "speaker": "painfully paperbacks"
   },
   {
+    "order": 32,
     "start": 129.84,
     "end": 134.8,
     "text": "which is deliberately put together by its owner or patron.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 135.439,
     "end": 140.48,
     "text": "So in the 15th century, a library can be 30 manuscripts",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 140.48,
     "end": 143.52,
     "text": "painfully put together during the course of a lifetime,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 144.08,
     "end": 147.2,
     "text": "or it can be two shelves of paperbacks in your home.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 147.92,
     "end": 154.08,
     "text": "Andrew defines a library as any collection of books someone has intentionally built up.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 154.08,
     "end": 156.96,
     "text": "This could be as simple as a few paperbacks,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 156.96,
     "end": 160.48,
     "text": "cheap books with a cover made of thick paper.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 160.479,
     "end": 165.039,
     "text": "Today, books are available everywhere from supermarkets to train stations,",
-    "speaker": null
+    "speaker": "painfully painfullypainstakingly"
   },
   {
+    "order": 40,
     "start": 165.039,
     "end": 168,
     "text": "but back in history, that wasn't the case.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 168,
     "end": 171.919,
     "text": "In earlier centuries, printed books or manuscripts were rare,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 171.919,
     "end": 175.359,
     "text": "and may have been painfully collected over many years.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 175.919,
     "end": 180.799,
     "text": "Andrew uses the advert painfully or painstakingly to describe something",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 180.799,
     "end": 182.879,
     "text": "which took a lot of care and effort to do.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 183.439,
     "end": 188.399,
     "text": "But paperback books and private collections are only part of the story.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 188.4,
     "end": 192.719,
     "text": "You may not believe it, but libraries are places of power.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 192.719,
     "end": 199.12,
     "text": "To find out why, we have to go back in time to the ancient Egyptian port of Alexandria",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 199.12,
     "end": 201.439,
     "text": "in the 3rd century BCE.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 201.439,
     "end": 206.719,
-    "text": "The great library of Alexandria held the largest collection of books in the ancient world.",
-    "speaker": null
+    "text": "The Great Library of Alexandria held the largest collection of books in the ancient world.",
+    "speaker": "Neil"
   },
   {
+    "order": 50,
     "start": 206.719,
     "end": 209.68,
     "text": "Founded in the city built by Alexander the Great,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 209.68,
     "end": 214.64,
     "text": "the library's mission was to bring together a copy of every book then in existence.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 215.359,
     "end": 218.159,
     "text": "According to history professor Islam Issa,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 218.159,
     "end": 222.719,
     "text": "there were two reasons why the great library made Alexandria so powerful.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 222.719,
     "end": 227.359,
     "text": "As he explained to BBC Radio 3 program, art and ideas.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 227.359,
     "end": 232.239,
     "text": "The first is being in a location at the intersection of the continents",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 232.239,
     "end": 238.159,
     "text": "and bringing a diverse set of people together to live in harmony or relative harmony",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 238.159,
     "end": 240.159,
     "text": "can bring about economic prosperity.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 240.799,
     "end": 245.52,
     "text": "And the second is quite simply that knowledge equals power.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 246.479,
     "end": 249.439,
     "text": "And so the library is a form of soft power.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 249.439,
     "end": 254.56,
     "text": "It's a way of saying that Alexandria is an important centre of knowledge,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 254.56,
     "end": 258.719,
     "text": "a regional capital by being the guardians of knowledge.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 258.719,
     "end": 262.24,
     "text": "Alexandria was the meeting point of different cultures",
-    "speaker": null
+    "speaker": "harmony"
   },
   {
+    "order": 63,
     "start": 262.24,
     "end": 265.839,
     "text": "where different ideas and philosophies were exchanged.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 265.839,
     "end": 269.36,
     "text": "This atmosphere encouraged people to live in harmony,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 269.36,
     "end": 271.92,
     "text": "peacefully and cooperatively with each other.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 271.92,
     "end": 277.12,
     "text": "But the main reason for the great library's importance is that knowledge equals power,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 277.68,
     "end": 282.72,
     "text": "a saying meaning that the more someone knows the more they will be able to control events.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 283.439,
     "end": 286.72,
     "text": "Alexandria became the capital of soft power,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 286.72,
     "end": 292.24,
     "text": "the use of political and cultural knowledge rather than military power to influence events.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 292.879,
     "end": 296.48,
-    "text": "Now, maybe it’s time to reveal the answer to your question, Neil?",
+    "text": "Now maybe it's time to reveal the answer to your question Neil.",
     "speaker": "Beth"
   },
   {
+    "order": 71,
     "start": 296.48,
     "end": 301.36,
-    "text": "Sure, I asked you which famous text could be found in The British Library.",
-    "speaker": "Neil"
+    "text": "Sure, I asked you which famous text could be found in the British Library.",
+    "speaker": null
   },
   {
+    "order": 72,
     "start": 301.92,
     "end": 305.6,
     "text": "I guess it was the first edition of the Times newspaper.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 305.6,
     "end": 306.64,
     "text": "So was I right?",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 74,
     "start": 306.64,
     "end": 309.52,
     "text": "That was the correct answer.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 309.52,
     "end": 313.04,
     "text": "In the British Library you'll find the first copy of the Times,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 313.04,
     "end": 316.48,
     "text": "along with the first editions of many famous books.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 316.48,
     "end": 320.72,
     "text": "Okay, let's recap the vocabulary we've learned in this program, starting with",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 322.08,
     "end": 325.92,
     "text": "an exclamation used to ask someone to be quiet.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 326,
     "end": 332.24,
     "text": "A paperback is a type of book with a cover made of thick paper and sold relatively cheaply.",
     "speaker": "paperback"
   },
   {
+    "order": 80,
     "start": 333.28,
     "end": 339.36,
-    "text": "Doing something painstakingly or painfully means doing it in a way showing that lots of care and effort has been taken.",
-    "speaker": "painstakingly painfully"
+    "text": "Doing something painstakingly or painfully means doing it in a way showing that lots of care",
+    "speaker": null
   },
   {
+    "order": 81,
     "start": 339.36,
     "end": 345.6,
-    "text": "Harmony is a situation where people cooperate peacefully with each other.",
+    "text": "and effort has been taken. Harmony is a situation where people cooperate peacefully with each other.",
+    "speaker": null
+  },
+  {
+    "order": 82,
+    "start": 345.6,
+    "end": 350.16,
+    "text": "According to the expression knowledge equals power, the more you know,",
     "speaker": "Harmony"
   },
   {
-    "start": 345.6,
-    "end": 350.16,
-    "text": "According to the expression, knowledge equals power, the more you know, the more you’re able to control events.",
-    "speaker": "knowledge equals power"
-  },
-  {
+    "order": 83,
     "start": 350.16,
     "end": 352.4,
     "text": "the more you're able to control events.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 352.959,
     "end": 358.799,
     "text": "And finally, soft power involves using political or cultural means rather than",
-    "speaker": null
+    "speaker": "soft power"
   },
   {
+    "order": 85,
     "start": 358.799,
     "end": 363.839,
     "text": "military power to get what you want. Once again, our six minutes are up.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 363.839,
     "end": 365.12,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 365.12,
     "end": 365.599,
-    "text": "Goodbye!",
-    "speaker": "Neil"
+    "text": "Goodbye.",
+    "speaker": null
   }
 ]

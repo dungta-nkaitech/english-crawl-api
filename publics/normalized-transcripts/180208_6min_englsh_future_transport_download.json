@@ -1,668 +1,779 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 13.519,
     "end": 16.24,
-    "text": "Hello, I'm Rob and this is 6 Minute English,",
-    "speaker": null
+    "text": "Hello I'm Rob and this is 6 Minute English– ",
+    "speaker": "Rob"
   },
   {
+    "order": 3,
     "start": 16.24,
     "end": 18.64,
     "text": "the show that brings you an interesting topic,",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 18.64,
     "end": 20.32,
     "text": "authentic listening practice,",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 20.32,
     "end": 23.92,
     "text": "and some vocabulary to help you improve your language skills.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 23.92,
     "end": 25.16,
     "text": "And hello, I'm Neil.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 25.16,
     "end": 27.839,
     "text": "Our topic today is transport.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 28.079,
     "end": 32.159,
     "text": "How do you think you'll be travelling to work in say 30 years time, Rob?",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 32.159,
     "end": 36.32,
     "text": "Well, not only will home working be more prevalent, that means common,",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 36.32,
     "end": 39.28,
     "text": "but I hope I won't be working in 30 years time.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 11,
     "start": 39.28,
     "end": 40.32,
     "text": "Good answer.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 40.32,
     "end": 44.399,
-    "text": "Good answer! But if we look back and see how transport has changed in the last 30 years, it makes you wonder what the future holds.",
-    "speaker": "Neil"
+    "text": "But if we look back and see how transport has changed in the last 30 years,",
+    "speaker": null
   },
   {
+    "order": 13,
     "start": 44.399,
     "end": 46.879,
     "text": "it makes you wonder what the future holds.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 46.879,
     "end": 51.12,
     "text": "Yes, we've seen how air travel has become commonplace for many people.",
-    "speaker": null
+    "speaker": "commonplace"
   },
   {
+    "order": 15,
     "start": 51.12,
     "end": 53.6,
     "text": "Commonplace means not unusual.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 53.6,
     "end": 56.32,
     "text": "And there's been the development of high speed train travel.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 56.399,
     "end": 58.64,
     "text": "But the main priority has been speed,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 58.64,
     "end": 61.2,
     "text": "going faster to make your journey quicker.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 61.2,
     "end": 66.319,
-    "text": "That's true, and we'll be discussing some ideas for making transport even faster soon. But let's not waste any time and speed on to today's quiz question.",
-    "speaker": "Neil"
+    "text": "That's true, and we'll be discussing some ideas for making transport even faster soon.",
+    "speaker": null
   },
   {
+    "order": 20,
     "start": 66.319,
     "end": 70.48,
     "text": "But let's not waste any time and speed on to today's quiz question.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 70.48,
     "end": 73.68,
-    "text": "Yes, time waits for no one, not even you, Neil.",
-    "speaker": null
+    "text": "yes, time waits for no one, not even you Neil. ",
+    "speaker": "Rob"
   },
   {
+    "order": 22,
     "start": 73.68,
     "end": 75.599,
     "text": "So, can you answer this question?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 75.599,
     "end": 77.519,
     "text": "According to Guinness World Records,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 24,
     "start": 77.519,
     "end": 81.76,
     "text": "in which country has the fastest ever train been recorded?",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 81.76,
     "end": 83.84,
     "text": "Is it in a China,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 83.84,
     "end": 86.32,
     "text": "B, Japan, or C, France?",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 86.32,
     "end": 89.52,
     "text": "Mmm, all these countries have fast trains,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 89.52,
     "end": 92.48,
     "text": "but I've heard the Chinese trains go particularly fast,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 92.48,
     "end": 94.56,
     "text": "so I'm going to say, A, China.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 94.56,
     "end": 98.88,
     "text": "Well, you'll have to wait until the end of the programme to see if you're right.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 31,
     "start": 98.88,
     "end": 102.32,
     "text": "But let's talk more now about the future of transport.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 102.32,
     "end": 105.52,
     "text": "One development we hear much about is automation.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 105.52,
     "end": 109.92,
-    "text": "Automation means using machines to do work that humans normally do.",
-    "speaker": null
+    "text": "Automation means ‘using machines to do work that humans normally do",
+    "speaker": "Neil"
   },
   {
+    "order": 34,
     "start": 109.92,
     "end": 113.52,
     "text": "And in terms of transport, this means driverless vehicles.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 113.599,
     "end": 117.439,
     "text": "It won't be too long before we become the passenger in a driverless car.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 117.439,
     "end": 118.64,
     "text": "Hmm, scary.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 118.64,
     "end": 121.679,
     "text": "And the French train engineering company Allstom",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 121.679,
     "end": 125.039,
     "text": "is planning to test automated freight trains later this year.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 125.039,
     "end": 131.12,
     "text": "The automated train prototype can travel for about 100 kilometres without driver intervention.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 131.12,
     "end": 135.28,
     "text": "A prototype is the first version of something which can be tested",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 135.28,
     "end": 137.439,
     "text": "before it's produced in large quantities.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 137.439,
     "end": 140.719,
     "text": "Of course, some trains are already driven by computers,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 43,
     "start": 140.8,
     "end": 144.96,
     "text": "but there's an exciting plan to develop a form of driverless vehicle",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 144.96,
     "end": 151.039,
     "text": "that could move you around at 1,123 kilometres per hour.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 151.039,
     "end": 153.599,
     "text": "Come on, Neil. That sounds a bit far-fetched.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 153.599,
     "end": 156.4,
     "text": "Like flying cars that we see in sci-fi movies,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 156.4,
     "end": 159.599,
     "text": "it's difficult to believe because it's unlikely to happen.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 159.599,
     "end": 163.52,
-    "text": "Well you say that but it's already being tested in Nevada in the USA and has a name – Hyperloop One.",
+    "text": "Well, you say that, but it's already being tested in Nevada in the USA,",
     "speaker": "Neil"
   },
   {
+    "order": 49,
     "start": 163.52,
     "end": 166,
     "text": "and has a name Hyperloop 1.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 166,
     "end": 167.199,
-    "text": "Tell me more!",
-    "speaker": "Rob"
-  },
-  {
-    "start": 167.199,
-    "end": 170.079,
-    "text": "The idea is you get loaded into a pod,",
+    "text": "Oh, tell me more.",
     "speaker": null
   },
   {
+    "order": 51,
+    "start": 167.199,
+    "end": 170.079,
+    "text": "The idea is, you get loaded into a pod",
+    "speaker": "Neil"
+  },
+  {
+    "order": 52,
     "start": 170.08,
     "end": 172.8,
     "text": "and then you're pushed through a metal tube at high speed,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 172.8,
     "end": 176.32,
     "text": "taking you to your destination in minutes rather than hours.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 176.32,
     "end": 182,
     "text": "Anita Sengukta is the lead systems engineer and says there's nothing scary about it.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 182,
     "end": 186.32,
     "text": "The Hyperloop is a Maglev train in a vacuum system,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 186.32,
     "end": 187.28,
     "text": "or a vacuum tube.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 187.28,
     "end": 190.8,
     "text": "And so you can also think of it as an aircraft flying at 200,000 feet,",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 190.8,
     "end": 192.8,
     "text": "so people don't have any issue flying in airplanes,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 192.8,
     "end": 194.8,
     "text": "and people don't have any issue going in Maglev trains.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 194.8,
     "end": 197.76,
     "text": "This is simply combining the two and allows you to be more energy-efficient.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 198.56,
     "end": 203.199,
     "text": "So Anita Sengukta explained the type of technology the Hyperloop used.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 203.199,
     "end": 205.12,
-    "text": "First, she mentioned Maglev.",
-    "speaker": null
+    "text": " First she mentioned maglev ",
+    "speaker": "maglev"
   },
   {
+    "order": 63,
     "start": 205.12,
     "end": 208.159,
     "text": "That's a short way of saying magnetic elevation.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 208.159,
     "end": 212.639,
     "text": "It's when trains travel on magnetic track rather than conventional rails.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 212.639,
-    "end": 215.199,
-    "text": "And then she mentioned a vacuum system.",
     "speaker": null
   },
   {
+    "order": 65,
+    "start": 212.639,
+    "end": 215.199,
+    "text": "And then she mentioned a vacuum system ",
+    "speaker": "Neil"
+  },
+  {
+    "order": 66,
     "start": 215.199,
     "end": 219.599,
     "text": "A vacuum is a space that has all the air and other gases removed from it,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 219.599,
     "end": 224.159,
     "text": "so the tube, these pods traveling, have no air, so there's no resistance.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 224.159,
     "end": 227.519,
     "text": "And these technologies are more efficient and they save energy.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 227.6,
     "end": 228.719,
     "text": "Which is a good thing.",
-    "speaker": null
-  },
-  {
-    "start": 229.36,
-    "end": 232.8,
-    "text": "Which is a good thing. This sounds like a great way to travel but will it take off?",
     "speaker": "Neil"
   },
   {
+    "order": 70,
+    "start": 229.36,
+    "end": 232.8,
+    "text": "This sounds like a great way to travel, but will it take off?",
+    "speaker": null
+  },
+  {
+    "order": 71,
     "start": 232.8,
     "end": 237.28,
     "text": "Well, BBC Technology correspondent Rory Kethelin Jones isn't so sure.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 237.28,
     "end": 242.16,
     "text": "He thinks it will be quite challenging to convince governments to allow long metal tubes",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 242.16,
     "end": 244.08,
     "text": "to be built on or below ground.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 244.08,
     "end": 246.8,
     "text": "But we have to try these new technologies, Rob.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 246.8,
     "end": 250.48,
     "text": "If we didn't, we'd still be traveling around on horse and cart.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 250.48,
     "end": 251.92,
     "text": "Hmm, a good point, Neil.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 251.92,
     "end": 257.28,
     "text": "And we wouldn't have been able to travel at the great speeds mentioned in today's question.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 257.279,
     "end": 260.399,
     "text": "Now, earlier, I asked you, according to Guinness World Records,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 260.399,
     "end": 264.159,
     "text": "in which country has the fastest ever train travelled?",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 264.159,
     "end": 268.319,
     "text": "Is it in a China, be Japan or see France?",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 268.879,
     "end": 270.799,
-    "text": "And I said a) China.",
-    "speaker": "Neil"
+    "text": " And I said a) China",
+    "speaker": "Rob"
   },
   {
+    "order": 82,
     "start": 271.679,
     "end": 272.639,
     "text": "And you were wrong, no?",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 273.519,
     "end": 276.399,
-    "text": "China does have some very fast trains,",
-    "speaker": null
+    "text": " China does have some very fast trains",
+    "speaker": "Rob"
   },
   {
+    "order": 84,
     "start": 276.399,
     "end": 281.759,
     "text": "but the fastest recorded train was a maglev from the central Japan railway company,",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 281.759,
     "end": 286.079,
     "text": "which ran on a test track at a speed of 603 kilometers per hour.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 286.159,
     "end": 288.639,
     "text": "Now, that would make my commute to work very quick.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 288.639,
     "end": 289.12,
     "text": "Hmm.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 289.12,
     "end": 293.759,
     "text": "Okay, shall we recap some of the vocabulary we've heard today, starting with",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 293.759,
     "end": 294.719,
     "text": "commonplace?",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 90,
     "start": 294.719,
     "end": 298.56,
     "text": "Yes, which means not unusual or often seen.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 298.56,
     "end": 302.479,
     "text": "For example, free wifi and coffee shops is commonplace these days.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 302.479,
     "end": 303.759,
     "text": "And very useful it is, too.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 304.399,
     "end": 309.599,
     "text": "Next, we had automation, meaning using a machine to do something instead of a human.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 309.599,
     "end": 314.399,
     "text": "Automation in the car making industry has led to the loss of hundreds of jobs.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 314.399,
     "end": 318.239,
-    "text": "Of course, when you build a new car, you need to make a prototype.",
-    "speaker": null
+    "text": "Of course when you build a new car you need to make a prototype – ",
+    "speaker": "prototype"
   },
   {
+    "order": 96,
     "start": 318.239,
     "end": 323.759,
     "text": "That's the first version of something which can be tested before it's produced in large quantities.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 323.759,
     "end": 329.439,
     "text": "The prototype of a new solar powered bike has been so successful that it's now going into mass production.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 330.159,
     "end": 332.56,
     "text": "Come on, Rob, that sounds a bit far-fetched.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 332.56,
     "end": 336.399,
-    "text": "Come on Rob, that sounds a bit far-fetched – and by that I mean ‘so unbelievable it's unlikely to happen.’",
-    "speaker": "far-fetched"
-  },
-  {
-    "start": 336.399,
-    "end": 341.039,
-    "text": "Well, something people once thought far-fetched is now a reality, and that's maglev,",
+    "text": "And by that, I mean, so unbelievable, it's unlikely to happen.",
     "speaker": null
   },
   {
+    "order": 100,
+    "start": 336.399,
+    "end": 341.039,
+    "text": "Well something people once thought far-fetched is now a reality and that's maglev – ",
+    "speaker": "maglev"
+  },
+  {
+    "order": 101,
     "start": 341.04,
     "end": 346.56,
     "text": "that's short for magnetic elevation, and is how some of the world's fastest trains travel.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 347.2,
     "end": 349.84,
     "text": "Finally, we discussed the word vacuum.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 349.84,
     "end": 353.76,
     "text": "It's a space that has had all the air and other gases removed from it,",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 353.76,
     "end": 355.52,
     "text": "basically an empty space.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 355.52,
     "end": 362.4,
     "text": "The plan for Virgin's Hyperloop 1 is to make a maglev even faster by putting it in a vacuum tube.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 362.4,
     "end": 365.2,
     "text": "And that brings us to the end of today's 6 Minute English.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 365.2,
     "end": 369.68,
     "text": "Don't forget to check out our YouTube, Facebook, Twitter and Instagram pages,",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 369.68,
     "end": 370.72,
     "text": "and we'll see you next time.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 370.8,
     "end": 371.36,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 371.36,
     "end": 371.84,
-    "text": "Bye",
-    "speaker": "Rob"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

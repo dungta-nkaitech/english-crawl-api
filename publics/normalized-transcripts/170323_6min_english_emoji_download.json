@@ -1,908 +1,1059 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 8.24,
     "text": "6-Mute English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.279,
     "text": "From BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 11.279,
     "end": 13.04,
-    "text": "Hello and welcome to 6 Minute English,",
-    "speaker": null
+    "text": "Hello and welcome to 6 Minute English–",
+    "speaker": "Dan"
   },
   {
+    "order": 5,
     "start": 13.04,
     "end": 14.88,
     "text": "the show that brings you an interesting topic,",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 14.88,
     "end": 18.48,
     "text": "authentic listening practice and six new items of vocabulary.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 18.48,
     "end": 20,
     "text": "I'm Dan and I'm Neil.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 20,
     "end": 22.64,
-    "text": "And I'm Neil. We’ll be discussing the rise of those little graphics we call emojis and emoticons.",
-    "speaker": "Neil"
+    "text": "We'll be discussing the rise of those little graphics",
+    "speaker": null
   },
   {
+    "order": 9,
     "start": 22.64,
     "end": 24.8,
     "text": "we call emojis and emoticons.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 24.8,
     "end": 27.839,
-    "text": "You know, I think emojis are a vital tool for communication. And actually, they’re not that new, either.",
+    "text": "You know, I think emojis are a vital tool for communication",
     "speaker": "Dan"
   },
   {
+    "order": 11,
     "start": 27.839,
     "end": 29.76,
     "text": "and actually they're not that new either.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 29.839,
     "end": 30.48,
     "text": "Oh really?",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 13,
     "start": 30.48,
     "end": 33.92,
-    "text": "Well, that’s the perfect opportunity to ask this week’s question. When was the first emoticon used? Was it?",
+    "text": "Well, that’s the perfect opportunity to ask this week’s question.",
     "speaker": "Dan"
   },
   {
+    "order": 14,
     "start": 33.92,
     "end": 35.84,
     "text": "When was the first emoticon used?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 35.84,
     "end": 41.679,
     "text": "Was it A, 1606, B, 1862 or C, 1982?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 41.679,
     "end": 43.439,
-    "text": "It must be 1982. I’ll go with c).",
-    "speaker": "Neil"
+    "text": "It must be 1982.",
+    "speaker": "Dan"
   },
   {
+    "order": 17,
     "start": 43.439,
     "end": 44.719,
     "text": "I'll go with C.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 44.719,
     "end": 47.6,
     "text": "We'll find out if you'll write or wrong later in the program.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 47.6,
     "end": 51.2,
-    "text": "You know, I think we should clear one thing up before we go any further: what’s the difference between an emoticon and an emoji?",
-    "speaker": "Neil"
+    "text": "You know, I think we should clear one thing up before we go any further.",
+    "speaker": "Dan"
   },
   {
+    "order": 20,
     "start": 51.2,
     "end": 54.64,
     "text": "What's the difference between an emoticon and an emoji?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 54.64,
     "end": 55.359,
     "text": "Good point.",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 22,
     "start": 55.359,
     "end": 56.96,
     "text": "emoticons came first.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 57.039,
     "end": 60.16,
     "text": "They're the images made using normal keys on a keyboard.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 60.16,
     "end": 62.399,
     "text": "Usually punctuation, letters and numbers.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 62.399,
     "end": 68,
     "text": "For example, a colon, two dots followed by the curved line of a closed bracket is a...",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 68,
     "end": 68.96,
     "text": "A smiley face.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 68.96,
     "end": 69.84,
     "text": "Hey!",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 28,
     "start": 69.84,
     "end": 73.359,
-    "text": "A smiley face. Something you use in way too many of your emails!",
-    "speaker": "Neil"
-  },
-  {
-    "start": 73.359,
-    "end": 74.64,
-    "text": "Well, thanks.",
+    "text": "Something you use in way too many of your emails.",
     "speaker": null
   },
   {
+    "order": 29,
+    "start": 73.359,
+    "end": 74.64,
+    "text": "Well, thanks!",
+    "speaker": "Dan"
+  },
+  {
+    "order": 30,
     "start": 74.64,
     "end": 77.439,
     "text": "Whereas an emoji is something completely different,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 77.439,
     "end": 78.96,
     "text": "it's an actual image.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 78.96,
     "end": 81.2,
     "text": "It could be a simple yellow smiley face",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 81.2,
     "end": 83.04,
     "text": "or something like the dancing lady",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 83.04,
     "end": 84.4,
     "text": "or even a bowl of noodles.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 84.48,
     "end": 85.04,
     "text": "Ah, yes.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 85.04,
     "end": 87.44,
     "text": "All those little images we have in our phones.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 87.44,
     "end": 88.88,
     "text": "But you'll have to convince me.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 88.88,
     "end": 91.12,
     "text": "Why do people use them so much?",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 91.12,
     "end": 93.6,
     "text": "Well, let's listen to Professor Viv Evans.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 93.6,
     "end": 96,
     "text": "He wrote a book called The Emoji Code.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 96,
     "end": 101.28,
     "text": "They enable us to express emotion and empathy in digital communication.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 101.28,
     "end": 105.28,
     "text": "Increasingly, what we're finding is that digital communication is taking over",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 105.28,
     "end": 107.68,
     "text": "from certain aspects of face-to-face interaction.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 108.32,
     "end": 110.32,
     "text": "In the UK today, for example,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 110.32,
     "end": 113.84,
     "text": "adults spend 22 hours online on average,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 113.92,
     "end": 114.719,
     "text": "each week.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 114.719,
     "end": 117.04,
     "text": "One of the reasons emoji is so interesting",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 117.04,
     "end": 121.52,
     "text": "is they really do enable us to express our emotional selves much more effectively.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 121.52,
     "end": 122.159,
     "text": "Oh, OK.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 122.159,
     "end": 125.04,
-    "text": "So he used a very useful word, empathy.",
-    "speaker": null
-  },
-  {
-    "start": 125.04,
-    "end": 128.96,
-    "text": "Ok so he used a very useful word - empathy. It means ‘the ability to show you understand someone else’s feelings’. Ok – tell me more Dan.",
+    "text": "so he used a very useful word - empathy",
     "speaker": "empathy"
   },
   {
+    "order": 51,
+    "start": 125.04,
+    "end": 128.96,
+    "text": "It means the ability to show you understand someone else's feelings.",
+    "speaker": null
+  },
+  {
+    "order": 52,
     "start": 128.96,
     "end": 130.48,
     "text": "OK, tell me more, Dan.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 130.48,
     "end": 131.12,
     "text": "Yes.",
-    "speaker": null
+    "speaker": "Interactioninteract"
   },
   {
+    "order": 54,
     "start": 131.12,
     "end": 134.64,
     "text": "Adding an emoticon can show you understand and express emotion",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 134.64,
     "end": 137.039,
     "text": "and show empathy more clearly.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 137.039,
     "end": 142,
     "text": "In digital communication, we lack the visual signals we have in face-to-face interaction,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 142,
     "end": 143.039,
     "text": "as he says.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 143.039,
     "end": 146.719,
     "text": "Interaction, meaning when people or things communicate with each other.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 146.719,
     "end": 150.799,
-    "text": "Interaction, meaning ‘when people or things communicate with each other’. We can also interact with things like machines, computers and social media.",
-    "speaker": "Interactioninteract"
-  },
-  {
-    "start": 150.799,
-    "end": 151.359,
-    "text": "Yes.",
+    "text": "We can also interact with things like machines, computers, and social media.",
     "speaker": null
   },
   {
-    "start": 151.359,
-    "end": 157.039,
-    "text": "Yes, Professor Evans says 60% of information when we’re talking to each other comes from non-verbal cues.",
-    "speaker": "non-verbalcues"
+    "order": 60,
+    "start": 150.799,
+    "end": 151.359,
+    "text": "Yes.",
+    "speaker": "cue"
   },
   {
+    "order": 61,
+    "start": 151.359,
+    "end": 157.039,
+    "text": "Professor Evans says 60% of information when we're talking to each other comes from non-verbal cues.",
+    "speaker": null
+  },
+  {
+    "order": 62,
     "start": 157.039,
     "end": 158.56,
     "text": "Wow, that's a lot.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 158.56,
     "end": 161.439,
-    "text": "Wow, that’s a lot. A cue is a signal that you need to do something.",
-    "speaker": "cue"
+    "text": "A cue is a signal that you need to do something.",
+    "speaker": null
   },
   {
+    "order": 64,
     "start": 161.439,
     "end": 164.56,
     "text": "For example, an actor goes on stage after their cue.",
-    "speaker": "cue"
+    "speaker": null
   },
   {
+    "order": 65,
     "start": 164.56,
     "end": 168.479,
     "text": "And non-verbal means without using spoken language.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 168.479,
     "end": 171.84,
     "text": "So here in the studio, there are lots of other non-verbal signals",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 171.84,
     "end": 174.479,
     "text": "about how we're feeling, non-verbal cues.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 174.479,
     "end": 179.28,
     "text": "For example, my facial expression, my body language, the look in my eyes, Dan.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 179.28,
     "end": 182.24,
-    "text": "There's a glint of rage in there somewhere, Neil.",
-    "speaker": null
+    "text": "There’s a glint of rage in there somewhere, Neil.",
+    "speaker": "Dan"
   },
   {
+    "order": 70,
     "start": 182.24,
     "end": 185.039,
     "text": "OK, so let's apply this to digital communication.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 185.039,
     "end": 188.48,
     "text": "Imagine I sent you a text saying, I hit my finger with a hammer.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 188.48,
     "end": 190,
     "text": "How would you respond?",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 190,
     "end": 191.039,
     "text": "Well, it depends.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 191.039,
     "end": 192.64,
-    "text": "Well, it depends. Did you hurt yourself badly?",
-    "speaker": "Neil"
+    "text": "Did you hurt yourself badly?",
+    "speaker": null
   },
   {
+    "order": 75,
     "start": 192.64,
     "end": 195.52,
-    "text": "If I followed it with a sad face emoji, then…?",
+    "text": "If I followed it with a sad face emoji, then…? ",
     "speaker": "Dan"
   },
   {
+    "order": 76,
     "start": 195.52,
     "end": 198.24,
     "text": "Then I guess I know you hurt yourself.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 198.24,
     "end": 199.12,
     "text": "I'll pull you.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 199.12,
     "end": 201.599,
-    "text": "But if I followed it with a laughing emoji,",
-    "speaker": null
-  },
-  {
-    "start": 201.599,
-    "end": 204.319,
-    "text": "But if I followed it with a laughing emoji – the one with the tears coming out because I’m laughing so much?",
+    "text": "But if I followed it with a laughing emoji ",
     "speaker": "Dan"
   },
   {
-    "start": 204.319,
-    "end": 208,
-    "text": "Then I’d probably reply saying how stupid and clumsy you are!",
-    "speaker": "clumsy"
-  },
-  {
-    "start": 208,
-    "end": 209.12,
-    "text": "Exactly.",
+    "order": 79,
+    "start": 201.599,
+    "end": 204.319,
+    "text": "the one with the tears coming out because I'm laughing so much,",
     "speaker": null
   },
   {
+    "order": 80,
+    "start": 204.319,
+    "end": 208,
+    "text": "then I'd probably reply saying, how stupid and clumsy you are.",
+    "speaker": null
+  },
+  {
+    "order": 81,
+    "start": 208,
+    "end": 209.12,
+    "text": "Exactly ",
+    "speaker": "non-verbal cue"
+  },
+  {
+    "order": 82,
     "start": 209.12,
     "end": 212.4,
     "text": "Without adding the emoji, it's hard to know my emotional state.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 212.4,
     "end": 216.159,
     "text": "The emoji is the non-verbal cue, like my facial expression.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 216.159,
     "end": 219.12,
     "text": "By the way, is there an emoji meaning clumsy?",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 219.12,
     "end": 221.36,
     "text": "Clumsy means physically awkward.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 221.36,
     "end": 224.56,
     "text": "Someone whose clumsy falls over a lot and drops things.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 224.56,
     "end": 227.68,
     "text": "Anyway, you were saying emoticons aren't as new as I think.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 227.76,
     "end": 229.599,
-    "text": "Yes, I asked when they were invented. Is it a)1606, b)1862 or c)1982?",
+    "text": "Yes, I asked when they were invented.",
     "speaker": "Dan"
   },
   {
+    "order": 89,
     "start": 229.599,
     "end": 234.8,
     "text": "Is it A, 1606, B, 1862, or C, 1982?",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 234.8,
     "end": 236.56,
-    "text": "I said 1982.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 236.56,
-    "end": 239.36,
-    "text": "Well, in fact, a witty speech Abraham Lincoln reprinted",
+    "text": "And I said 1982.",
     "speaker": null
   },
   {
+    "order": 91,
+    "start": 236.56,
+    "end": 239.36,
+    "text": "Well, in fact, a witty speech Abraham Lincoln reprinted",
+    "speaker": "Dan"
+  },
+  {
+    "order": 92,
     "start": 239.36,
     "end": 243.76,
     "text": "in a newspaper as far back as 1862 included a semi-colon",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 243.76,
     "end": 245.2,
     "text": "with closed brackets.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 245.2,
     "end": 246.319,
-    "text": "Like a winking face?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 246.319,
-    "end": 247.36,
-    "text": "Exactly.",
+    "text": "Like a winking face.",
     "speaker": null
   },
   {
+    "order": 95,
+    "start": 246.319,
+    "end": 247.36,
+    "text": "Exactly.",
+    "speaker": "typo"
+  },
+  {
+    "order": 96,
     "start": 247.36,
     "end": 250.879,
     "text": "Although people think this was sadly just a typographical error,",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 250.879,
     "end": 253.84,
     "text": "or what we normally call a typo, a typo,",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 253.84,
     "end": 257.6,
-    "text": "A typo – a spelling mistake made when typing too fast or carelessly.",
-    "speaker": "typo"
-  },
-  {
-    "start": 257.6,
-    "end": 261.28,
-    "text": "The official birth of emoticons is usually given as 1982",
+    "text": "a spelling mistake made when typing too fast or carelessly.",
     "speaker": null
   },
   {
+    "order": 99,
+    "start": 257.6,
+    "end": 261.28,
+    "text": "The official birth of emoticons is usually given as 1982",
+    "speaker": "Dan"
+  },
+  {
+    "order": 100,
     "start": 261.28,
     "end": 265.04,
     "text": "when a US professor instructed his students to use smiley faces",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 265.04,
     "end": 267.2,
     "text": "to indicate jokes in a digital communication.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 267.92,
     "end": 270.24,
     "text": "Wow, so they're over 30 years old.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 270.24,
     "end": 272.08,
     "text": "Maybe I should start using them.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 272.08,
     "end": 274.879,
     "text": "Let's round up with another look at today's words.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 274.879,
     "end": 275.68,
     "text": "Sure.",
-    "speaker": null
+    "speaker": "empathyempathy"
   },
   {
+    "order": 106,
     "start": 275.68,
     "end": 277.92,
     "text": "The first word we had was empathy.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 277.92,
     "end": 279.28,
     "text": "Do you have a lot of empathy, Neil?",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 279.28,
     "end": 282.56,
     "text": "Yes, I think I'm quite good at understanding other people's feelings.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 282.56,
     "end": 284.4,
     "text": "My friends tell me that anyway.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 284.4,
     "end": 286.96,
     "text": "It's important to empathize with your colleagues too.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 287.039,
     "end": 288.479,
-    "text": "That's not what I saw in your eyes.",
-    "speaker": null
-  },
-  {
-    "start": 289.199,
-    "end": 292.399,
-    "text": "That’s not what I saw in your eyes! Yes, empathy is an important part of all human interaction.",
+    "text": "That’s not what I saw in your eyes!",
     "speaker": "empathyinteraction"
   },
   {
+    "order": 112,
+    "start": 289.199,
+    "end": 292.399,
+    "text": "Yes, empathy is an important part of all human interaction.",
+    "speaker": null
+  },
+  {
+    "order": 113,
     "start": 292.399,
     "end": 293.359,
     "text": "Nicely done.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 293.359,
     "end": 296.479,
-    "text": "Nicely done. If two people interact, it means they ‘communicate with each other and react to each other’. It’s a pretty broad term.",
-    "speaker": "interact"
+    "text": "If two people interact, it means they communicate with each other",
+    "speaker": null
   },
   {
+    "order": 115,
     "start": 296.479,
     "end": 297.919,
     "text": "and react to each other.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 297.919,
     "end": 299.519,
     "text": "It's a pretty broad term.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 299.519,
     "end": 303.759,
     "text": "We could also talk about the way children interact with the internet way too much.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 304.079,
     "end": 307.599,
     "text": "Next up, we had non-verbal meaning without spoken language.",
-    "speaker": null
+    "speaker": "interact"
   },
   {
+    "order": 119,
     "start": 307.599,
     "end": 309.12,
     "text": "When I first travelled to Poland,",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 309.12,
     "end": 313.039,
     "text": "I used a lot of non-verbal communication to get my message across.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 313.039,
     "end": 315.839,
     "text": "Hand movements, counting with fingers, things like that.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 315.919,
     "end": 316.879,
     "text": "Next word, Dan?",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 316.879,
     "end": 317.599,
-    "text": "Next word.",
-    "speaker": null
+    "text": "Next word…",
+    "speaker": "cue cuecuecue"
   },
   {
+    "order": 124,
     "start": 317.599,
     "end": 318.399,
     "text": "Aha!",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 318.399,
     "end": 321.279,
     "text": "That is my cue to say the next word, which is, in fact,",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 321.279,
     "end": 322.079,
     "text": "cue.",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 322.079,
     "end": 324,
     "text": "A cue is a signal to do something.",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 324,
     "end": 326.879,
     "text": "A commander could give his officer a cue to attack.",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 326.879,
     "end": 329.519,
     "text": "Or I could give you a cue to sing a song?",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 329.519,
     "end": 330.079,
     "text": "No thanks.",
     "speaker": null
   },
   {
+    "order": 131,
     "start": 330.079,
     "end": 332.639,
     "text": "I'll stick with defining words, thank you.",
     "speaker": null
   },
   {
+    "order": 132,
     "start": 332.639,
     "end": 335.519,
     "text": "Like clumsy, meaning physically awkward.",
     "speaker": null
   },
   {
+    "order": 133,
     "start": 335.519,
     "end": 338.239,
     "text": "I'd have to say, Dan, you're a sporty guy,",
     "speaker": null
   },
   {
+    "order": 134,
     "start": 338.239,
     "end": 339.359,
     "text": "a talented footballer.",
     "speaker": null
   },
   {
+    "order": 135,
     "start": 339.359,
     "end": 340.559,
     "text": "You're not clumsy at all.",
     "speaker": null
   },
   {
+    "order": 136,
     "start": 340.559,
     "end": 342.719,
     "text": "Well, that's what I thought until I broke my leg",
     "speaker": null
   },
   {
+    "order": 137,
     "start": 342.719,
     "end": 345.039,
     "text": "after a clumsy opponent ran into me.",
-    "speaker": null
+    "speaker": "clumsy"
   },
   {
+    "order": 138,
     "start": 345.28,
     "end": 346.319,
     "text": "Ouch!",
     "speaker": null
   },
   {
+    "order": 139,
     "start": 346.319,
     "end": 347.92,
     "text": "Finally, we had type.",
     "speaker": null
   },
   {
+    "order": 140,
     "start": 349.2,
     "end": 351.52,
     "text": "Oh, no hang on, that's not right.",
     "speaker": null
   },
   {
+    "order": 141,
     "start": 351.52,
     "end": 353.28,
     "text": "It should say, typo.",
     "speaker": null
   },
   {
+    "order": 142,
     "start": 353.28,
     "end": 356.24,
     "text": "A typo is a mistake in a written document",
     "speaker": null
   },
   {
+    "order": 143,
     "start": 356.24,
     "end": 358,
     "text": "or a digital file or message.",
     "speaker": null
   },
   {
+    "order": 144,
     "start": 358,
     "end": 360.56,
     "text": "Always check your scripts for typos before reading them, Neil.",
-    "speaker": null
+    "speaker": "typos"
   },
   {
+    "order": 145,
     "start": 360.56,
     "end": 362.48,
     "text": "And that's the end of today's 6 Minute English.",
     "speaker": null
   },
   {
+    "order": 146,
     "start": 362.48,
     "end": 364,
     "text": "Please join us again soon.",
     "speaker": null
   },
   {
+    "order": 147,
     "start": 364,
     "end": 365.68,
     "text": "And we are on social media too,",
     "speaker": null
   },
   {
+    "order": 148,
     "start": 365.68,
     "end": 367.84,
     "text": "Facebook, Twitter, Instagram and YouTube.",
     "speaker": null
   },
   {
+    "order": 149,
     "start": 367.84,
     "end": 368.72,
     "text": "See you there.",
     "speaker": null
   },
   {
+    "order": 150,
     "start": 368.72,
     "end": 369.52,
-    "text": "Bye!",
-    "speaker": "Both"
+    "text": "Bye-bye.",
+    "speaker": null
   }
 ]

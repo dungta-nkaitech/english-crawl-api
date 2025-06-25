@@ -1,347 +1,405 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.6,
     "text": "This is a download from BBC Learning English to find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 5.6,
     "end": 11.12,
     "text": "6MtEnglish from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 13.599,
     "end": 19.44,
-    "text": "Hello, I’m Neil. And welcome to 6 Minute English, where we vigorously discuss a new topic and six related items of vocabulary.",
+    "text": "Hello, I'm Neil and welcome to 6 Minute English, where we vigorously discuss a new topic",
     "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 19.44,
     "end": 25.519,
     "text": "and six related items of vocabulary. And hello, I'm Rob. Today, we're discussing",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 25.519,
     "end": 31.6,
-    "text": "And hello, I’m Rob. Today we’re discussing vigorous exercise – and whether adults take enough of it! Vigorous means using a lot of energy to do something.",
-    "speaker": "Vigorous"
+    "text": "vigorous exercise and whether adults take enough of it. Vigorous means using a lot of energy",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 31.6,
     "end": 38.48,
     "text": "to do something. So how many steps do you do in a day, Rob? How many steps? How should I know,",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 38.48,
     "end": 43.76,
     "text": "Neil? It will be pretty hard to count them all. Come on, you can track steps on your phone.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 43.76,
     "end": 49.2,
     "text": "I do 10,000 a day, which is the magic number for keeping fit and healthy apparently.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 49.92,
     "end": 55.28,
     "text": "Not if you sawn to Neil, surely. Sauntering from the sofa to the fridge and back, or",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 55.28,
     "end": 61.359,
     "text": "from the house to the car. Well, I never sawn to a rob. Sauntur means to walk slowly,",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 61.359,
     "end": 67.519,
     "text": "and you'd have to make a lot of trips to the fridge to clock up 10,000 steps. To get some vigorous",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 67.519,
     "end": 75.439,
     "text": "exercise, you need to get out and about. Round the park at a brisk pace. Brisk means quick and energetic,",
-    "speaker": null
+    "speaker": "Saunter"
   },
   {
+    "order": 12,
     "start": 75.439,
     "end": 82.159,
     "text": "the opposite of sauntering. Okay, well, perhaps you can tell me, Neil, how many people aged between",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 82.159,
     "end": 95.359,
     "text": "40 and 60 do less than 10 minutes brisk walking every month? Is it a 4%? B 14% or C 40%.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 96.959,
     "end": 102.319,
     "text": "I'm going to say 4%, because 10 minutes is such a short amount of time.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 103.199,
     "end": 109.84,
-    "text": "Indeed. Now, I’ve got another question for you, Neil. Why is exercise so important? Because it sounds pretty boring – counting steps, going to the gym, running on a machine.",
-    "speaker": "Rob"
+    "text": "Indeed. Now, I've got another question for you, Neil. Why is exercise so important? Because",
+    "speaker": "Neil"
   },
   {
+    "order": 16,
     "start": 109.84,
     "end": 114.719,
     "text": "it sounds pretty boring, counting steps, going to the gym, running on a machine. Well,",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 115.359,
     "end": 121.92,
-    "text": "Well, when you exercise, you stimulate the body’s natural repair system. Your body will actually stay younger if you exercise!",
+    "text": "when you exercise, you stimulate the body's natural repair system. Your body will actually stay younger",
     "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 121.92,
     "end": 127.92,
     "text": "if you exercise. That sounds good. Exercise also lowers your risk of developing illnesses,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 127.92,
     "end": 134.56,
-    "text": "such as heart disease, cancer and diabetes. Hmm, I'm getting a bit worried now, Neil,",
-    "speaker": null
+    "text": "such as heart disease, cancer, and diabetes. Hmm. I’m getting a bit worried now, Neil",
+    "speaker": "Neil"
   },
   {
+    "order": 20,
     "start": 134.56,
     "end": 139.36,
-    "text": "Hmm. I’m getting a bit worried now, Neil. But I don’t have enough time to do a thousand steps every day… I’m far too busy!",
-    "speaker": "Rob"
-  },
-  {
-    "start": 139.36,
-    "end": 145.12,
-    "text": "Well, Rob, now might be a good time to listen to Julia Bradbury. She's a TV presenter and",
+    "text": "but I don't have enough time to do a thousand steps every day. I'm far too busy.",
     "speaker": null
   },
   {
+    "order": 21,
+    "start": 139.36,
+    "end": 145.12,
+    "text": "Well, Rob. Now might be a good time to listen to Julia Bradbury. She’s a TV presenter and",
+    "speaker": "Neil"
+  },
+  {
+    "order": 22,
     "start": 145.12,
     "end": 150.24,
     "text": "outdoor walking enthusiast who will explain how she builds walking into her busy life.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 153.28,
     "end": 158.4,
     "text": "I will walk to meetings instead of catching a bus or getting a taxi or a car into meetings.",
-    "speaker": null
+    "speaker": "INSERT"
   },
   {
+    "order": 24,
     "start": 158.4,
     "end": 164.48,
     "text": "And I will also, if I can't build that into my working day, if it's a day when I haven't got",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 164.56,
     "end": 169.519,
     "text": "meetings, I'm maybe at home with the kids, I will take the time, I will take my kids out with the",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 169.519,
     "end": 174.959,
     "text": "buggy and I will definitely do 30, 40 minutes, at least every day, going to the park, going to the",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 174.959,
     "end": 180.639,
     "text": "shops, picking up my things on route and really sort of building it into my life, taking the stairs",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 180.639,
     "end": 187.039,
     "text": "and not taking lifts. All of these kinds of little decisions can intremently build up to creating",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 187.12,
     "end": 194.4,
     "text": "more walking time in your day. So, if you build something into your day or your life,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 194.4,
     "end": 199.68,
     "text": "you include it from the beginning. And Julia Bradbury has built walking into her day,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 200.399,
     "end": 206.399,
     "text": "even though she's very busy too, Rob, you should learn from her. So she walks instead of driving",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 32,
     "start": 206.399,
     "end": 213.12,
     "text": "or taking the bus and takes the stairs instead of the lift. Hmm, I could do those things. You could",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 213.12,
     "end": 218.879,
     "text": "indeed, before you know it, you'd be doing 10,000 steps because the amount of walking you do in a day",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 218.879,
     "end": 226.719,
     "text": "builds incrementally. Incrementally means gradually increasing in size. Okay, well, before I think",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 226.719,
     "end": 233.2,
     "text": "that over, perhaps I could tell you the answer to today's quiz question. Okay, you asked me how many",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 233.2,
     "end": 239.439,
     "text": "people age between 40 and 60 do less than 10 minutes brisk walking every month? The options were",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 240.079,
     "end": 245.439,
     "text": "A4% B14% or C40%",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 246.479,
     "end": 253.919,
-    "text": "And you said 4%. But I’m afraid it’s actually 40%. And that’s according to the Government body Public Health England here in the UK.",
-    "speaker": "Rob"
+    "text": "and you said 4% but I'm afraid it's actually 40% and that's according to the government body",
+    "speaker": "Neil"
   },
   {
+    "order": 39,
     "start": 253.919,
     "end": 259.68,
     "text": "public health England here in the UK. Oh dear, that's a lot more people than I expected",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 260.319,
     "end": 265.759,
     "text": "but it isn't that surprising. People in all age groups are leading more sedentary lifestyles these",
-    "speaker": null
+    "speaker": "sedentary"
   },
   {
+    "order": 41,
     "start": 265.759,
     "end": 271.439,
     "text": "days. Our job is very sedentary which means it involves a lot of sitting and not much exercise.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 272.24,
     "end": 276.879,
     "text": "Well, I might just run on the spot while we go with the new vocabulary we've learned today.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 277.439,
     "end": 282.879,
-    "text": "Good plan. First up we heard ‘vigorous’ – which means using a lot of energy to do something.",
+    "text": "Good plan. First up, we heard vigorous which means using a lot of energy to do something.",
     "speaker": "Neil"
   },
   {
+    "order": 44,
     "start": 285.68,
     "end": 292.079,
     "text": "Okay, I'm running vigorously on the spot. Great example. And good to see you taking some vigorous",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 292.159,
     "end": 300.8,
-    "text": "Great example! And good to see you taking some vigorous exercise! Number two – ‘saunter’ – means to walk slowly in a relaxed way. “When I saw Rob, I sauntered over to say hello.”",
+    "text": "exercise. Number two, saunter means to walk slowly in a relaxed way. When I saw Rob, I sauntered",
     "speaker": "Neil"
   },
   {
+    "order": 46,
     "start": 300.8,
     "end": 308.56,
-    "text": "Hi Neil. Number three – ‘brisk’ means quick and energetic.",
-    "speaker": "Rob"
+    "text": "over to say hello. Hi Neil. Number three, brisk means quick and energetic. It's important to take",
+    "speaker": null
   },
   {
+    "order": 47,
     "start": 308.56,
     "end": 315.36,
     "text": "some brisk exercise every day. Yes, and I'm beginning to realise that that might be true.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 315.36,
     "end": 320.319,
-    "text": "Yep! I think you've done enough jogging for today, Rob. You’ve probably done about a hundred steps.",
-    "speaker": "Neil"
+    "text": "Yep, I think you've done enough jogging for today, Rob. You've probably done about a hundred steps.",
+    "speaker": "Rob"
   },
   {
+    "order": 49,
     "start": 320.399,
     "end": 326.719,
     "text": "Oh, is that all? Okay, number four, if you build something into something, you include it from",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 326.719,
     "end": 332.399,
-    "text": "“It’s important to build regular exercise into your daily routine.”",
-    "speaker": "Neil"
+    "text": "the beginning. It's important to build regular exercise into your daily routine. Very good advice.",
+    "speaker": null
   },
   {
+    "order": 51,
     "start": 333.199,
     "end": 337.6,
-    "text": "Very good advice. Number five is ‘incrementally’ which means gradually increasing in size.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 338.24,
-    "end": 344.079,
-    "text": "Incremental is the adjective. “The company has been making incremental changes to its pay structure.”",
+    "text": "Number five is incrementally which means gradually increasing in size.",
     "speaker": "Neil"
   },
   {
+    "order": 52,
+    "start": 338.24,
+    "end": 344.079,
+    "text": "Incremental is the adjective. “The company has been making incremental changes to its pay structure",
+    "speaker": "Neil"
+  },
+  {
+    "order": 53,
     "start": 344.079,
     "end": 349.759,
     "text": "Does that mean we're getting a pay rise? I doubt it. And finally, number six, sedentary means",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 349.759,
     "end": 355.439,
-    "text": "I doubt it! And finally, number six – ‘sedentary’ means sitting a lot and not taking much exercise. For example, “It’s bad for your health to lead such a sedentary lifestyle.”",
+    "text": "sitting a lot and not taking much exercise. For example, it's bad for your health to lead such a",
     "speaker": "Neil"
   },
   {
+    "order": 55,
     "start": 355.439,
     "end": 360.56,
     "text": "sedentary lifestyle. Ah, do you really know, did Neil? Well, it's time to go now, but if today's",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 360.56,
     "end": 366.959,
     "text": "show has inspired you to step out and take more exercise, please let us know by visiting our Twitter,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 366.959,
     "end": 371.36,
     "text": "Facebook and YouTube pages and telling us all about it. Goodbye. Bye-bye.",

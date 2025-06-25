@@ -1,533 +1,622 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.12,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.56,
     "end": 15.359,
     "text": "Hello and welcome to 6 Minute English, I'm Neil.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 15.359,
     "end": 19.12,
     "text": "This is the programme where in just 6 minutes we discuss an interesting topic",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 19.12,
     "end": 23.199,
     "text": "and teach them related English vocabulary and joining me to do this is Rob.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 23.199,
     "end": 24,
     "text": "Hello.",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 8,
     "start": 24,
     "end": 26.8,
     "text": "In this programme we're discussing Shardonfreude.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 26.879,
     "end": 29.359,
     "text": "A hold on the ill, Shardonfreude.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 29.359,
     "end": 31.12,
     "text": "That's a German word.",
-    "speaker": null
+    "speaker": "schadenfreude"
   },
   {
+    "order": 11,
     "start": 31.12,
     "end": 33.679,
     "text": "Shardonfreude is what we call a lone word.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 33.679,
     "end": 38.159,
-    "text": "Schadenfreude is what we can call a loanword - a word from one language that is used in another language without being changed.",
+    "text": "A word from one language that is used in another language without being changed.",
     "speaker": "loanword"
   },
   {
+    "order": 13,
     "start": 38.159,
     "end": 41.28,
     "text": "So you're right, Shardonfreude is used in English.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 41.28,
     "end": 47.439,
-    "text": "So you're right – schadenfreude is used in English and am I right in thinking it describes the satisfying feeling you get when something bad happens to someone else?",
-    "speaker": "Rob"
-  },
-  {
-    "start": 47.439,
-    "end": 48.48,
-    "text": "to someone else?",
+    "text": "And am I right in thinking it describes the satisfying feeling you get when something bad happens",
     "speaker": null
   },
   {
+    "order": 15,
+    "start": 47.439,
+    "end": 48.48,
+    "text": "to someone else?",
+    "speaker": "Neil"
+  },
+  {
+    "order": 16,
     "start": 48.48,
     "end": 49.92,
     "text": "You're absolutely right, Rob.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 49.92,
     "end": 53.359,
     "text": "Imagine you're in a queue at the supermarket and someone pushes in.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 53.359,
     "end": 56.4,
     "text": "But when they got to pay their credit card doesn't work.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 56.399,
     "end": 60.159,
     "text": "Think of the feeling you might get just seeing their misfortune.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 60.159,
     "end": 61.6,
     "text": "Another word for bad luck.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 61.6,
     "end": 64.64,
-    "text": "Yes, that is a very satisfying feeling – but it's quite a mean feeling too.",
-    "speaker": "Rob"
+    "text": "Yes, that is a very satisfying feeling.",
+    "speaker": null
   },
   {
+    "order": 22,
     "start": 64.64,
     "end": 66.64,
     "text": "But it's quite a mean feeling too.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 66.64,
     "end": 70.959,
-    "text": "It is, but we'll be discussing why that feeling could actually be good for us.",
-    "speaker": null
+    "text": "It is but we'll be discussing why that feeling could actually be good for us. ",
+    "speaker": "Neil"
   },
   {
+    "order": 24,
     "start": 70.959,
     "end": 75.599,
     "text": "But first, let's set a question for you, Rob, and our listeners at home to answer.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 75.599,
     "end": 80,
     "text": "This is about false cognates, also called false friends.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 80,
     "end": 83.519,
     "text": "Words that look the same in two languages but have different meanings.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 83.519,
     "end": 87.84,
     "text": "So in English, we have the word rat, but what does that mean in German?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 87.84,
     "end": 89.84,
-    "text": "a)    a big mouse",
+    "text": "Is it A a big mouse?",
     "speaker": "Neil"
   },
   {
+    "order": 29,
     "start": 89.84,
     "end": 92.799,
     "text": "B a noise or C advice?",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 92.799,
     "end": 95.439,
-    "text": "That's tricky because I don't speak German. So I'll guess and say b) annoyed.",
-    "speaker": "Rob"
+    "text": "That's tricky because I don't speak German.",
+    "speaker": "Neil"
   },
   {
+    "order": 31,
     "start": 95.439,
     "end": 98.719,
     "text": "So I'll guess and say B a noise.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 98.719,
     "end": 101.039,
     "text": "Well, I'll have the answer later on.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 33,
     "start": 101.039,
     "end": 104.079,
     "text": "Now let's talk more about Shardonfreude.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 104.079,
     "end": 107.679,
     "text": "Enjoying someone's misfortune can certainly make us feel good.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 107.679,
     "end": 111.039,
     "text": "And studies have shown this feeling is quite normal,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 111.04,
     "end": 114.4,
     "text": "particularly when it happens to someone we envy.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 114.4,
     "end": 117.92,
     "text": "If we see a wealthy celebrity suffering on a reality TV show",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 117.92,
     "end": 121.84,
     "text": "or are exposed for not paying their taxes, we feel good.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 121.84,
     "end": 123.84,
     "text": "We say they've had their comeuppance.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 123.84,
     "end": 126.56,
     "text": "That's a good word, meaning a person's bad luck",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 41,
     "start": 126.56,
     "end": 130.879,
-    "text": "We mentioned comeuppance which describes a person's misfortune that is considered to be deserved punishment for something bad that they've done.",
-    "speaker": "comeuppance"
+    "text": "that is considered to be deserved punishment for something bad that they've done.",
+    "speaker": "loanword"
   },
   {
+    "order": 42,
     "start": 130.879,
     "end": 135.2,
     "text": "Let's hear from psychologist Wilco Van Dyke from the University of Leiden,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 135.2,
     "end": 139.92,
     "text": "who's been talking about this on the BBC Radio 4 program all in the mind.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 139.919,
     "end": 143.759,
     "text": "What have his studies found about our enjoyment of others misfortune?",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 144.719,
     "end": 150,
     "text": "People especially feel Shardonfreude when they think the misfortune is deserved.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 150,
     "end": 153.039,
     "text": "Then the question is where does joy arise?",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 153.039,
     "end": 157.279,
     "text": "Is this actually joy experienced towards the misfortunes of others?",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 157.279,
     "end": 161.919,
     "text": "Or is it also at least partly joy about a just situation?",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 161.919,
     "end": 167.119,
     "text": "Is that this misfortune of another actually appeals to a sense of justice?",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 167.2,
     "end": 172.159,
     "text": "That's also the reason why we like the misfortunes of hypocrites.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 172.159,
     "end": 176.48,
     "text": "Because if they fall down, that also is a deserved situation.",
-    "speaker": null
+    "speaker": "a just situationjusticehypocrites"
   },
   {
+    "order": 52,
     "start": 177.28,
     "end": 183.36,
     "text": "Okay, so Wilco Van Dyke's studies found we get joy when someone's misfortune is deserved.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 183.36,
     "end": 188,
     "text": "There is justice. In other words, the punishment someone receives is fair.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 188,
     "end": 191.28,
-    "text": "And a just situation means a fair situation.",
-    "speaker": null
+    "text": "And a just situation means a fair situation ",
+    "speaker": "a just situation"
   },
   {
+    "order": 55,
     "start": 191.28,
     "end": 195.2,
     "text": "It's right. So I guess he's saying we're not just being mean.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 195.199,
     "end": 201.519,
     "text": "Yes, and he also mentioned the type of people whose misfortune is just and deserved are hypocrites.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 201.519,
     "end": 207.439,
-    "text": "Hypocrites are people who claim to have certain moral beliefs but actually behave in a way that shows they are not sincere.",
-    "speaker": "Hypocrites"
+    "text": "People who claim to have certain moral beliefs but actually behave in a way that shows they are not sincere.",
+    "speaker": "justicejust"
   },
   {
+    "order": 58,
     "start": 207.439,
     "end": 211.759,
     "text": "The all in the mind program also heard from another expert on the subject,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 211.759,
     "end": 216,
     "text": "author and historian of emotions, Dr Tiffany Watt-Smith.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 60,
     "start": 216,
     "end": 220.879,
     "text": "She talks about how Shardonfreude is a subjective thing based on our feelings,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 220.879,
     "end": 224,
     "text": "and it's not as simple as deciding what is right or wrong.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 224.639,
     "end": 229.84,
     "text": "What word does she use that means to express sympathy to someone about someone's bad luck?",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 231.039,
     "end": 236.56,
     "text": "We don't really experience emotions either or things. It's not black or white.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 236.56,
     "end": 240.479,
     "text": "I think it's perfectly reasonable that we could genuinely commiserate with someone else's",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 240.479,
     "end": 245.36,
     "text": "misfortune at the same time as a terrible slice-smile spreading across our lips because",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 245.36,
     "end": 249.68,
     "text": "it's something that we've envied about them has turned out to not work out so well or whatever.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 250.48,
     "end": 255.439,
     "text": "We have a much deeper ability to hold contradictory emotions in mind, much more so than",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 255.439,
     "end": 257.36,
     "text": "your average moral philosopher would allow.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 258.72,
     "end": 262.639,
     "text": "Interesting stuff. She says when something goes wrong for someone,",
-    "speaker": null
-  },
-  {
-    "start": 262.639,
-    "end": 267.68,
-    "text": "Interesting stuff. She says when something goes wrong for someone, we have the ability to commiserate with them – that's the word for expressing sympathy to someone about their bad luck.",
     "speaker": "commiserate"
   },
   {
+    "order": 70,
+    "start": 262.639,
+    "end": 267.68,
+    "text": "we have the ability to commiserate with them. That's the word for expressing sympathy to someone",
+    "speaker": null
+  },
+  {
+    "order": 71,
     "start": 267.68,
     "end": 272.879,
     "text": "about their bad luck. So overall, Tiffany Watt-Smith thinks we have a range of emotions",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 272.879,
     "end": 278.48,
     "text": "when we experience Shardonfreude. But these are contradictory emotions, different and opposite",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 278.48,
     "end": 284.8,
     "text": "emotions. Maybe Neil, we should just be nicer people. No way. I loved seeing Germany getting",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 284.8,
     "end": 290.879,
     "text": "knocked out of last year's World Cup. Not really. Talking of Germany earlier, we mentioned false",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 290.879,
     "end": 296.72,
     "text": "friends and I asked, in English, we have the word rat. But what does that mean in German?",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 296.72,
     "end": 305.84,
     "text": "Is it A, a big mouse, B, annoyed, C, advice? And Rob, you said? I said B, annoyed. And that is",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 305.839,
     "end": 311.919,
-    "text": "And that is the wrong answer, I'm afraid. The right answer is c) advice. Well done if you knew that at home. Now on to the vocabulary we looked at in this programme.",
-    "speaker": "Neil"
+    "text": "the wrong answer I'm afraid. The right answer is C, advice. Well done if you knew that at home.",
+    "speaker": null
   },
   {
+    "order": 78,
     "start": 311.919,
     "end": 318.719,
     "text": "Now on to the vocabulary we looked at in this programme. So today we've been talking about Shardonfreude.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 318.719,
     "end": 324.399,
-    "text": "So today we've been talking about schadenfreude – that describes the satisfying feeling you get when something bad happens to someone else.",
-    "speaker": "schadenfreude"
+    "text": "That describes the satisfying feeling you get when something bad happens to someone else.",
+    "speaker": null
   },
   {
+    "order": 80,
     "start": 324.399,
     "end": 329.359,
     "text": "And that's an example of a lone word, a word from one language that is used in another language",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 329.359,
     "end": 335.12,
     "text": "without being changed. In this case, German. We mentioned comeuppance, which describes a person's",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 335.12,
     "end": 340.16,
     "text": "misfortune that is considered to be deserved punishment for something bad that they've done.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 340.16,
     "end": 345.519,
-    "text": "Next we mentioned justice – that's the punishment someone receives that is fair for what they've done. And the word just describes something that is fair and right.",
-    "speaker": "justicejust"
+    "text": "Next we mentioned justice. That's the punishment someone receives that is fair for what they've done.",
+    "speaker": null
   },
   {
+    "order": 84,
     "start": 345.519,
     "end": 351.68,
     "text": "And the word just describes something that is fair and right. Hippocrits are people who claim to",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 351.68,
     "end": 356.959,
     "text": "have certain moral beliefs, but actually behave in a way that shows their not sincere.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 356.959,
     "end": 362.16,
-    "text": "And finally commiserate is a word that means expressing sympathy to someone about their bad luck. That's the verb. The noun form is commiseration.",
+    "text": "And finally commiserate is a word that means expressing sympathy to someone about their bad luck. ",
     "speaker": "commiseratecommiseration"
   },
   {
+    "order": 87,
     "start": 362.24,
     "end": 365.76,
     "text": "That's the verb. The noun form is commiseration.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 365.76,
     "end": 370.16,
     "text": "Well commiserations Neil, we run out of time for this programme. See you soon. Goodbye.",

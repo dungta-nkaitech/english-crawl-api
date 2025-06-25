@@ -1,818 +1,954 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 8.24,
-    "text": "6 Minute English.",
-    "speaker": null
+    "text": "6 Minute English–",
+    "speaker": "Rob"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.56,
     "text": "From BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.439,
     "end": 15.919,
     "text": "Hello and welcome to 6 Minute English.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 15.919,
     "end": 18,
     "text": "The show that brings you an interesting topic,",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 18,
     "end": 20.879,
     "text": "authentic listening practice and vocabulary",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 20.879,
     "end": 22.96,
     "text": "to help you improve your language skills.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 22.96,
     "end": 23.679,
     "text": "I'm Rob.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 23.679,
     "end": 24.879,
     "text": "And I'm Catherine.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 24.879,
     "end": 26.96,
     "text": "In this programme we'll be discussing",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 26.96,
     "end": 29.679,
     "text": "quitting drinking and staying dry.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 29.759,
     "end": 32.88,
     "text": "Right, so when you say quitting you mean giving up",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 13,
     "start": 32.88,
     "end": 35.92,
     "text": "and when you say drinking you're particularly referring",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 35.92,
     "end": 37.759,
     "text": "to the activity of drinking alcohol.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 37.759,
     "end": 38.64,
     "text": "Exactly Rob.",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 39.519,
-    "end": 41.28,
-    "text": "But what about staying dry?",
     "speaker": null
   },
   {
-    "start": 41.28,
-    "end": 42.64,
-    "text": "But, what about staying dry? It's nothing to do with the weather?",
+    "order": 16,
+    "start": 39.519,
+    "end": 41.28,
+    "text": "But, what about staying dry",
     "speaker": "Rob"
   },
   {
+    "order": 17,
+    "start": 41.28,
+    "end": 42.64,
+    "text": "It's nothing to do with the weather.",
+    "speaker": null
+  },
+  {
+    "order": 18,
     "start": 42.64,
     "end": 43.679,
     "text": "No, that's true.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 43.679,
     "end": 48.239,
     "text": "The adjective dry here means no alcohol.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 48.239,
     "end": 52.159,
     "text": "And I, Rob, am currently having a dry January.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 52.159,
     "end": 55.92,
     "text": "Oh yes, your new year's resolution is to give up alcohol for one month.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 55.92,
     "end": 56.879,
     "text": "Any reason?",
-    "speaker": null
+    "speaker": "resolution"
   },
   {
+    "order": 23,
     "start": 56.96,
     "end": 60.24,
     "text": "Yes, I'm doing it in order to improve my health",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 60.24,
     "end": 61.92,
     "text": "and save some money.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 61.92,
     "end": 63.84,
     "text": "And a resolution, by the way,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 63.84,
     "end": 66.4,
     "text": "is a promise to yourself to do something",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 66.4,
     "end": 68.24,
     "text": "or not to do something?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 68.24,
     "end": 70.4,
     "text": "Right, well they seem like good reasons.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 70.4,
     "end": 72.719,
     "text": "And for now we must keep up our resolution",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 30,
     "start": 72.719,
     "end": 74.96,
     "text": "to always start the programme with a question.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 74.96,
     "end": 76.32,
     "text": "So are you ready for it, Catherine?",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 76.32,
     "end": 77.92,
-    "text": "I am, crack on, Rob!",
-    "speaker": "Catherine"
+    "text": "I am Crack on Rob.",
+    "speaker": null
   },
   {
+    "order": 33,
     "start": 77.92,
     "end": 82.159,
     "text": "Okay, according to data from the World Health Organization in 2015,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 82.159,
     "end": 85.84,
-    "text": "which country consumed the most alcohol per person?",
-    "speaker": null
+    "text": " which country consumed the most alcohol per person",
+    "speaker": "Rob"
   },
   {
+    "order": 35,
     "start": 85.84,
     "end": 86.8,
     "text": "Was it A?",
+    "speaker": "Rob"
+  },
+  {
+    "order": 36,
+    "start": 86.879,
+    "end": 87.92,
+    "text": "Australia?",
     "speaker": null
   },
   {
-    "start": 86.879,
-    "end": 87.92,
-    "text": "a)    Australia",
-    "speaker": "Rob"
-  },
-  {
+    "order": 37,
     "start": 87.92,
     "end": 89.039,
-    "text": "b)    Finland",
+    "text": "B? Finland?",
     "speaker": "Rob"
   },
   {
+    "order": 38,
     "start": 89.039,
     "end": 90.879,
-    "text": "c)    The Czech Republic",
-    "speaker": "Rob"
+    "text": "Or C? The Czech Republic?",
+    "speaker": null
   },
   {
+    "order": 39,
     "start": 90.879,
     "end": 93.28,
     "text": "So, well they all sound quite likely,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 93.28,
     "end": 97.28,
     "text": "but I did visit Prague once and I had a lovely time.",
-    "speaker": null
+    "speaker": "Catherine"
   },
   {
+    "order": 41,
     "start": 97.28,
     "end": 100.719,
     "text": "So I'm going to say, see the Czech Republic.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 100.719,
     "end": 104.079,
     "text": "Okay, well as always we'll find out the answer later on.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 104.079,
     "end": 106.64,
     "text": "But let's continue our discussion about drinking",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 106.64,
     "end": 109.679,
     "text": "or informally known as boozing and trying to give it up.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 110.319,
     "end": 112.879,
     "text": "We all know that too much drinking can be bad for us",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 112.879,
     "end": 115.439,
     "text": "and that's why you, Catherine, have decided to quit",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 115.439,
     "end": 116.879,
     "text": "but only for a month.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 116.879,
     "end": 120.64,
     "text": "Yes, just a month, but it's a start and I might continue",
-    "speaker": null
+    "speaker": "to shed"
   },
   {
+    "order": 49,
     "start": 120.64,
     "end": 123.92,
     "text": "into February, but I'm seeing the benefits already.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 123.92,
     "end": 125.759,
     "text": "I've managed to shed some weight,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 125.759,
     "end": 128.079,
     "text": "most of which I actually put on over Christmas.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 128.079,
     "end": 129.28,
     "text": "Yeah, I can see.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 129.28,
     "end": 132.159,
     "text": "So to shed here simply means lose.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 132.159,
     "end": 135.12,
     "text": "And I bet your sobriety is helping you sleep better.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 135.12,
     "end": 138,
     "text": "sobriety by the way means the state of not being drunk.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 138,
     "end": 139.919,
-    "text": "It is actually and I'm not alone.",
-    "speaker": null
+    "text": "It is actually. And I'm not alone",
+    "speaker": "Catherine"
   },
   {
+    "order": 57,
     "start": 139.919,
     "end": 143.68,
     "text": "A study of 857 British adults",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 143.76,
     "end": 147.52,
     "text": "by Dr Richard Davisse from the University of Sussex",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 147.52,
     "end": 150.8,
     "text": "found that after going for a month without alcohol,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 150.8,
     "end": 156,
     "text": "62% of the people in the study said they had better sleep.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 156,
     "end": 160.8,
     "text": "So Rob, does that tempt you to become T total and stop drinking?",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 160.8,
     "end": 162.319,
     "text": "Uh, not me, Catherine.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 162.319,
     "end": 165.36,
-    "text": "Not me Catherine. I need a drink to help me relax and be more sociable – you know how shy I am!",
-    "speaker": "Rob"
+    "text": "I need a drink to help me relax and be more sociable.",
+    "speaker": null
   },
   {
+    "order": 64,
     "start": 165.36,
     "end": 166.879,
     "text": "You know how shy I am.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 166.879,
     "end": 168.96,
-    "text": "Yes, of course Rob.",
-    "speaker": null
+    "text": "Yes of course Rob! ",
+    "speaker": "Catherine"
   },
   {
+    "order": 66,
     "start": 168.96,
     "end": 171.68,
     "text": "Well, maybe you should listen to Catherine Gray.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 171.68,
     "end": 174.48,
     "text": "Now she's the author of a book called",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 174.48,
     "end": 177.68,
     "text": "The Unexpected Joy of Being Sober,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 177.68,
     "end": 180.719,
     "text": "which she wrote after she discovered the negative effects",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 180.719,
     "end": 183.84,
     "text": "of going to too many work related parties",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 183.84,
     "end": 186.319,
     "text": "where she was just drinking too much.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 186.319,
     "end": 191.12,
     "text": "Here she is speaking on BBC Radio 4's Woman's Hour programme.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 191.12,
     "end": 194.56,
     "text": "I had a lot of social anxiety and when I quit,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 194.56,
     "end": 195.68,
     "text": "I had to deal with that.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 195.68,
     "end": 197.2,
     "text": "I think I used drinking as a crutch,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 197.2,
     "end": 198.24,
     "text": "a confidence crutch.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 198.24,
     "end": 201.6,
     "text": "It eased the way to go to big glittering parties and stuff.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 202.079,
     "end": 206.079,
     "text": "And when I quit, I had to learn real confidence in a way.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 207.199,
     "end": 209.84,
-    "text": "So Catherine worked in the magazine business,",
-    "speaker": null
+    "text": "So Catherine worked in the magazine business ",
+    "speaker": "Catherine"
   },
   {
+    "order": 80,
     "start": 209.84,
     "end": 213.519,
     "text": "which involved going to lots of boozy parties.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 213.519,
     "end": 217.199,
     "text": "Drinking, she says, helped her deal with a nervous and worried feeling",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 217.199,
     "end": 219.28,
     "text": "that she had when she met new people.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 219.28,
     "end": 221.759,
     "text": "She called it social anxiety.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 221.759,
     "end": 224.639,
     "text": "Yes, and she used drinking as a crutch.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 224.639,
     "end": 227.439,
     "text": "Her crutch here is something you depend on for support,",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 227.439,
     "end": 229.68,
     "text": "and sometimes you rely on it too much.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 229.76,
     "end": 233.68,
-    "text": "Yes, and eventually she decided to abstain from drinking.",
-    "speaker": null
+    "text": "Yes and eventually she decided to abstain from drinking –",
+    "speaker": "abstain"
   },
   {
+    "order": 88,
     "start": 233.68,
     "end": 237.76,
     "text": "In other words, stop doing something that's enjoyable but bad for you",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 237.76,
     "end": 239.439,
     "text": "and she feels much better for it.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 239.439,
     "end": 242.96,
     "text": "So Rob, come on, haven't you got the willpower to just quit drinking",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 242.96,
     "end": 244.719,
     "text": "for just 30 days?",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 244.719,
     "end": 248.48,
     "text": "Well, according to Catherine Grey, that wouldn't be long enough.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 248.48,
     "end": 252.24,
     "text": "Experts say that it takes 66 days for a new habit to bed in,",
-    "speaker": null
+    "speaker": "bed in"
   },
   {
+    "order": 94,
     "start": 252.24,
     "end": 254.96,
     "text": "so I would always recommend trying it for 90 days.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 254.96,
     "end": 258,
     "text": "30 days is the hard bit before you get to the rewards.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 258.079,
     "end": 261.279,
     "text": "Because after 66 days it starts getting a lot easier",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 261.279,
     "end": 264.319,
     "text": "and you start really feeling better in yourself.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 264.319,
     "end": 268.959,
     "text": "Right, so it takes 66 days for doing a regular activity,",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 268.959,
     "end": 271.12,
     "text": "a habit to bed in.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 271.12,
     "end": 275.839,
     "text": "And bed in means to become normal and start working properly.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 275.839,
     "end": 281.759,
     "text": "Now, earlier, I asked you, according to data from the World Health Organization in 2015,",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 281.759,
     "end": 285.519,
     "text": "which country consumed the most alcohol per person?",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 285.519,
     "end": 287.199,
-    "text": "a)    Australia",
-    "speaker": "Rob"
-  },
-  {
-    "start": 288.079,
-    "end": 290.8,
-    "text": "c)    The Czech Republic",
-    "speaker": "Rob"
-  },
-  {
-    "start": 290.8,
-    "end": 293.68,
-    "text": "And I said the Czech Republic. Was I right?",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 293.68,
-    "end": 295.36,
-    "text": "You were Catherine Spot on.",
+    "text": "Was it A Australia?",
     "speaker": null
   },
   {
+    "order": 104,
+    "start": 288.079,
+    "end": 290.8,
+    "text": "Finland or C the Czech Republic?",
+    "speaker": null
+  },
+  {
+    "order": 105,
+    "start": 290.8,
+    "end": 293.68,
+    "text": "And I said the Czech Republic, was I right?",
+    "speaker": "Rob"
+  },
+  {
+    "order": 106,
+    "start": 293.68,
+    "end": 295.36,
+    "text": "You were Catherine. Spot on",
+    "speaker": "Rob"
+  },
+  {
+    "order": 107,
     "start": 295.36,
     "end": 296.16,
     "text": "Yes.",
+    "speaker": "resolution"
+  },
+  {
+    "order": 108,
+    "start": 296.16,
+    "end": 302,
+    "text": "Apparently 14.1 litres of pure alcohol is consumed per person each year.",
     "speaker": null
   },
   {
-    "start": 296.16,
-    "end": 302,
-    "text": "You were Catherine. Spot on, well done. Apparently, 14.1 litres of pure alcohol is consumed per person each year.",
-    "speaker": "Rob"
-  },
-  {
+    "order": 109,
     "start": 302,
     "end": 305.519,
     "text": "Well, like I said, they do make good beer in the Czech Republic.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 305.519,
     "end": 309.12,
     "text": "But people be careful only drink it in moderation.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 309.92,
     "end": 313.36,
     "text": "Now Rob, shall we take a look at the vocabulary we've mentioned today?",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 313.36,
     "end": 314.16,
     "text": "Indeed, yes.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 314.16,
     "end": 316.959,
     "text": "The first word we had was resolution.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 316.959,
     "end": 320.479,
     "text": "That's a promise to yourself to do or not do something.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 320.479,
     "end": 324.879,
     "text": "Catherine's news resolution was to give up drinking alcohol for a whole month.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 324.879,
     "end": 326.799,
     "text": "Yes, and I'm still doing it, Rob.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 326.799,
     "end": 329.839,
     "text": "The plan is to shed a few kilos and get fit.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 330.56,
     "end": 335.759,
     "text": "So, for example, Rob shed lots of weight when he went on a cake-free diet.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 335.759,
     "end": 338.159,
-    "text": "Really? I'd never give up cake, Catherine.",
-    "speaker": null
+    "text": "Really? I'd never give up cake Catherine, ",
+    "speaker": "sobriety"
   },
   {
+    "order": 120,
     "start": 338.159,
     "end": 342.799,
     "text": "But I could be tempted to give up booze as I know sobriety is good for my health.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 342.799,
     "end": 346.079,
     "text": "That's the noun word to mean the state of not being drunk.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 346.159,
     "end": 348.399,
     "text": "Now, our next word was abstain.",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 348.399,
     "end": 353.199,
     "text": "And that means not do something that's enjoyable, but bad for you.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 353.199,
     "end": 358.959,
     "text": "So, Rob needs to abstain from eating cakes if he wants to wear his skinny jeans.",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 359.759,
     "end": 361.279,
     "text": "Are you dropping a hint there, Catherine?",
-    "speaker": null
+    "speaker": "bed in"
   },
   {
+    "order": 126,
     "start": 361.919,
     "end": 365.36,
     "text": "Now, our final word is actually two words, bed in.",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 365.36,
     "end": 368.479,
     "text": "It means to become normal and start working properly.",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 368.479,
     "end": 371.279,
     "text": "It took a while for the new computer system to bed in,",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 371.279,
     "end": 373.279,
     "text": "but now it's working perfectly.",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 373.279,
     "end": 377.519,
     "text": "That's brilliant because now we can go online and find more BBC Learning English",
     "speaker": null
   },
   {
+    "order": 131,
     "start": 377.519,
     "end": 380.239,
     "text": "programs at BBCLearningEnglish.com.",
     "speaker": null
   },
   {
+    "order": 132,
     "start": 380.239,
     "end": 382.319,
     "text": "And that's all for today's Six Minute English.",
     "speaker": null
   },
   {
+    "order": 133,
     "start": 382.319,
     "end": 383.679,
     "text": "We hope you enjoyed it.",
     "speaker": null
   },
   {
+    "order": 134,
     "start": 383.679,
     "end": 384.559,
     "text": "Bye for now.",
     "speaker": null
   },
   {
+    "order": 135,
     "start": 384.559,
     "end": 385.359,
     "text": "Bye.",
-    "speaker": "Rob"
+    "speaker": null
   }
 ]

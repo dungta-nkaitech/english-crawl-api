@@ -1,458 +1,534 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.52,
     "text": "This is a download from BBC Learning English. To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 13.519,
     "end": 17.359,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 2,
     "start": 17.359,
     "end": 19.039,
-    "text": "And I’m Georgina.",
-    "speaker": "Georgina"
+    "text": "And I'm Georgina.",
+    "speaker": null
   },
   {
+    "order": 3,
     "start": 19.039,
     "end": 24.16,
     "text": "In this program, we're talking about something the whole world knows about coronavirus.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 24.719,
     "end": 29.519,
     "text": "Sadly, COVID-19 has been responsible for more than 2 million deaths globally.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 30,
     "end": 34.799,
-    "text": "What’s believed to have started in the city of Wuhan in China went on to become a pandemic – a disease that affects many people around the world.",
-    "speaker": "pandemic"
+    "text": "What's believed to have started in the city of Wuhan in China went on to become a pandemic,",
+    "speaker": "Georgina"
   },
   {
+    "order": 6,
     "start": 34.799,
     "end": 37.52,
     "text": "a disease that affects many people around the world.",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 7,
     "start": 38.159,
     "end": 43.439,
     "text": "Unsurprisingly, we've discussed this a lot on 6 Minute English, but over a year on,",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 8,
     "start": 43.439,
     "end": 49.039,
     "text": "since the first outbreak, it's good to take stock or look back over the situation and see what",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 49.039,
     "end": 52.56,
     "text": "we have learnt. And find out how our knowledge has changed.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 53.039,
     "end": 56.32,
     "text": "Before we do that, Georgina, let's test your knowledge with a question.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 56.88,
     "end": 63.6,
     "text": "In 1918, stroke 1919, another major virus known as Spanish flu swept across the world.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 63.6,
     "end": 67.12,
     "text": "Do you know approximately how many people were infected by it?",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 67.12,
     "end": 72.159,
     "text": "Was it A, 5 million, B, 50 million or C, 500 million?",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 72.159,
     "end": 76.799,
-    "text": "Well, I know it was bad, so I’m going for the awful number of 500 million.",
-    "speaker": "Georgina"
+    "text": "Well, I know it was bad, so I'm going for the awful number of 500 million.",
+    "speaker": "Neil"
   },
   {
+    "order": 15,
     "start": 77.599,
     "end": 79.84,
     "text": "Okay, I'll reveal the right answer later on.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 79.84,
     "end": 82.96,
     "text": "Now, back to the current coronavirus pandemic.",
-    "speaker": null
+    "speaker": "took hold"
   },
   {
+    "order": 17,
     "start": 82.959,
     "end": 89.28,
     "text": "It was only at the end of December 2019 when reports of a new flu-like infection first came out",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 89.28,
     "end": 95.359,
     "text": "China. Within weeks, millions of people were in lockdown as the virus took hold around the world.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 95.919,
     "end": 101.839,
     "text": "Took hold means it became stronger and was difficult to stop. We all had to change the way we lived",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 101.839,
     "end": 108.239,
     "text": "to stop it spreading. But while we played our part by washing our hands, wearing masks and staying",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 108.239,
     "end": 113.199,
     "text": "at home, some people were busy working for a solution to fight this deadly virus.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 113.839,
     "end": 118.719,
     "text": "You're talking about the scientist, Georgina. Their response was immediate and it's something",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 118.719,
     "end": 122.799,
     "text": "the BBC World Service Programme Science and Action has been reflecting on.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 122.799,
     "end": 128.319,
     "text": "At the beginning of the outbreak, Jenny Rohn, a virologist from University College London,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 25,
     "start": 128.319,
     "end": 132.719,
     "text": "spoke to the programme about her concerns if the virus turned out to be like flu.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 133.28,
     "end": 134.24,
     "text": "Here's what she said.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 134.56,
     "end": 140.719,
     "text": "Seasonal flu is a huge killer and if you've probably seen the numbers, it makes the Wuhan virus so",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 140.719,
     "end": 145.36,
     "text": "that it's a bit wimpy. That's simply because of the sheer number of people that flu infects every year.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 145.36,
     "end": 150.8,
     "text": "And if the Wuhan virus started spreading like that and going all over the world, you would see",
-    "speaker": null
+    "speaker": "wimpysheer"
   },
   {
+    "order": 30,
     "start": 150.8,
     "end": 152.8,
     "text": "a lot of people dead. This is why people are worried.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 153.92,
     "end": 158.719,
     "text": "So we know flu is a virus that can spread easily and can affect many, many people.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 158.719,
     "end": 163.68,
     "text": "This is why at the time, comparing it with the new coronavirus, made COVID look wimpy.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 163.76,
     "end": 167.52,
     "text": "That's a word to describe something or someone that's feeble, not very strong.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 168.159,
     "end": 174.159,
     "text": "Yes, Jenny called the great or significant number of people affected by flu as sheer numbers.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 174.8,
     "end": 180,
     "text": "The fear at the time was if coronavirus spread like flu, it would kill many people.",
+    "speaker": "sheer numbers"
+  },
+  {
+    "order": 36,
+    "start": 180.48,
+    "end": 184.8,
+    "text": "Well, we all know what happened next. It did spread, but working behind the scenes,",
     "speaker": null
   },
   {
-    "start": 180.48,
-    "end": 184.8,
-    "text": "Well, we all know what happened next – it did spread. But, working behind the scenes, scientists developed tests we could use to see if we were infected.",
-    "speaker": "Neil"
-  },
-  {
+    "order": 37,
     "start": 184.8,
     "end": 188.48,
     "text": "scientists developed tests we could use to see if we were infected.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 188.48,
     "end": 193.2,
     "text": "But the main challenge was to develop a vaccine that could stop us becoming infected",
-    "speaker": null
-  },
-  {
-    "start": 193.199,
-    "end": 198.719,
-    "text": "But the main challenge was to develop a vaccine that could stop us becoming infected altogether. This involved people around the world working together to share information.",
     "speaker": "Georgina"
   },
   {
+    "order": 39,
+    "start": 193.199,
+    "end": 198.719,
+    "text": "altogether. This involved people around the world working together to share information.",
+    "speaker": null
+  },
+  {
+    "order": 40,
     "start": 199.039,
     "end": 202.079,
     "text": "This work started straight away. And Dr Peter Dasack,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 202.079,
     "end": 207.759,
     "text": "zoologist and president of Eco Health Alliance, told the Science in Action program that this",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 207.759,
     "end": 211.359,
     "text": "initial response in China helped with the development of a vaccine.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 212.719,
     "end": 218.799,
     "text": "Despite whatever on says, you know, they had a system to find unusual pneumonia cases.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 218.88,
     "end": 224.16,
     "text": "We now think that that system kicked in. Maybe not on the first actual case of COVID,",
-    "speaker": null
+    "speaker": "kicked ingenome"
   },
   {
+    "order": 45,
     "start": 224.16,
     "end": 228.4,
     "text": "but certainly within a couple of months of the first case, it seems.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 228.4,
     "end": 234.16,
     "text": "So that's quite quick. And then from that point, to actually getting a full genome genetic sequence",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 234.16,
     "end": 238.8,
     "text": "of the virus was very quick and getting that published and publicly available.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 238.8,
     "end": 244,
     "text": "And then rapidly developing diagnostic tests and vaccines now. That's really worked well.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 244.4,
     "end": 250.319,
     "text": "So China had a scientific system which kicked in or started happening quite quickly.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 250.319,
     "end": 256,
     "text": "Within a few months of the first coronavirus outbreak, experts began to work out the full genome",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 256,
     "end": 259.68,
     "text": "of the virus. That's the full amount of genetic information of something.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 259.68,
     "end": 265.839,
     "text": "This genetic information was made publicly available and helped towards the development of various",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 265.839,
     "end": 270.24,
-    "text": "vaccines that we see now, which is hopefully our way out of this pandemic.",
-    "speaker": null
+    "text": "vaccines that we see now – which is hopefully our way out of this pandemic",
+    "speaker": "Georgina"
   },
   {
+    "order": 54,
     "start": 270.879,
     "end": 275.92,
     "text": "Let's hope so, Georgina. The science is amazing and has explained in more detail in the BBC's",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 275.92,
     "end": 280.8,
     "text": "Science in Action program. But now let's get back to our quiz question. Earlier I asked you",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 280.8,
     "end": 286.16,
     "text": "how many people were infected by Spanish flu back in 1918-1919?",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 286.16,
     "end": 289.04,
     "text": "I guessed 500 million. Was I right?",
     "speaker": "Georgina"
   },
   {
+    "order": 58,
     "start": 289.68,
     "end": 294.48,
-    "text": "You were, Georgina. An incredible 500 million people around the world were infected by the Spanish flu virus and over 50 million people died worldwide.",
-    "speaker": "Neil"
+    "text": "You were Georgina. An incredible 500 million people around the world were infected by the",
+    "speaker": null
   },
   {
+    "order": 59,
     "start": 294.48,
     "end": 298.879,
     "text": "Spanish flu virus and over 50 million people died worldwide.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 298.879,
     "end": 304.959,
-    "text": "Well, the death toll from coronavirus hasn’t been that bad, but is still a significant number.",
-    "speaker": "Georgina"
+    "text": "Well, the death toll from coronavirus hasn't been that bad, but is still a significant number.",
+    "speaker": null
   },
   {
+    "order": 61,
     "start": 304.959,
     "end": 309.279,
     "text": "Okay, well, we've just time to recap some of the vocabulary we've discussed today,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 309.279,
     "end": 313.68,
     "text": "starting with pandemic, a disease that affects many people around the world.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 313.68,
     "end": 318.48,
     "text": "When something took hold, it means it became stronger and was difficult to stop.",
     "speaker": "took hold"
   },
   {
+    "order": 64,
     "start": 318.48,
     "end": 323.04,
-    "text": "The word wimpy describes something or someone that’s feeble or not very strong.",
-    "speaker": "wimpy"
+    "text": "The word wimpy describes something or someone that's feeble or not very strong.",
+    "speaker": null
   },
   {
+    "order": 65,
     "start": 323.04,
     "end": 328.719,
-    "text": "Something that is sheer is great or significant – so sheer numbers means a great amount of something.",
+    "text": "Something that is sheer is great or significant. So sheer numbers means a great amount",
     "speaker": "sheersheer numbers"
   },
   {
+    "order": 66,
     "start": 328.72,
     "end": 332.8,
-    "text": "When something kicks in it starts to happen.",
-    "speaker": "kicks in"
+    "text": "of something. When something kicks in, it starts to happen.",
+    "speaker": null
   },
   {
+    "order": 67,
     "start": 332.8,
     "end": 337.12,
     "text": "And a genome is a full amount of genetic information of something.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 337.12,
     "end": 341.28,
     "text": "Well, we're out of time, but there's lots more six minute English programs to enjoy on our",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 341.28,
     "end": 346.96,
     "text": "website at BBCLearningEnglish.com. And if you like topical discussions and want to learn",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 70,
     "start": 346.96,
     "end": 353.04,
     "text": "how to use the vocabulary found in headlines, why not try out on NewsReview podcast?",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 353.04,
     "end": 359.2,
     "text": "You'll find programs specifically about COVID-19 and lots of other interesting topics.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 359.2,
     "end": 364.64,
     "text": "Remember, we also have an app that you can download for free from the app stores.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 364.64,
     "end": 368.48,
     "text": "And of course, we are on most social media platforms.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 369.12,
     "end": 370.72,
     "text": "Thanks for listening and goodbye.",
     "speaker": "Neil"
   },
   {
+    "order": 75,
     "start": 370.72,
     "end": 371.52,
     "text": "Goodbye.",
-    "speaker": "Georgina"
+    "speaker": null
   }
 ]

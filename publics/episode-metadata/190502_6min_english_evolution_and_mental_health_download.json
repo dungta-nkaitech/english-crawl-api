@@ -5,6 +5,31 @@
   "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p074ltns.jpg",
   "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/190502_6min_english_evolution_and_mental_health_download.mp3",
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/190502_6min_english_evolution_and_mental_health.pdf",
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "word": "anxiety",
+      "definition": "anxietya feeling of worry and fear"
+    },
+    {
+      "word": "natural selection",
+      "definition": "a principle of evolution when random changes in an organism’s biology may lead it to being more successful in its environment"
+    },
+    {
+      "word": "to shape",
+      "definition": "to have an important impact on the way something develops"
+    },
+    {
+      "word": "to cope with",
+      "definition": "to manage a difficult situation"
+    },
+    {
+      "word": "life-threatening",
+      "definition": "life-threateningpossibly causing death"
+    },
+    {
+      "word": "to go off",
+      "definition": "(talking about an alarm)starts making its warning noise"
+    }
+  ],
   "quiz": null
 }

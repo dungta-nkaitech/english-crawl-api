@@ -1,665 +1,776 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6MtEnglish",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.12,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.48,
     "end": 15.439,
-    "text": "Hello, and welcome to 6 Minute English. I'm Neil.",
+    "text": "Hello, and welcome to 6 Minute English. I'm Neil",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 15.439,
     "end": 16.879,
     "text": "And hello, I'm Rob.",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 16.879,
     "end": 20.4,
-    "text": "Now, then, Rob, what do you know about unicorns?",
+    "text": "Now, then, Rob, what do you know about unicorns",
     "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 20.4,
     "end": 24.719,
     "text": "Ah, well, the unicorn is a fantasy creature from history.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 24.719,
     "end": 27.6,
     "text": "In our tradition, it looks like a white horse",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 27.6,
     "end": 30.48,
     "text": "with a single spiral horn coming out of its head.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 30.48,
     "end": 32.48,
     "text": "Erm, why do you ask?",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 32.48,
     "end": 36.32,
     "text": "Well, funnily enough, unicorns are the topic of this programme.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 12,
     "start": 36.32,
     "end": 38.8,
     "text": "Before we learn more, though, a question.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 38.8,
     "end": 41.039,
     "text": "What do we call the study of legendary creatures,",
-    "speaker": null
+    "speaker": "potentdeployedpressing"
   },
   {
+    "order": 14,
     "start": 41.039,
     "end": 44.64,
     "text": "like the Loch Ness Monster, Bigfoot and Unicorns?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 44.64,
     "end": 47.2,
-    "text": "a) Cryptozoology,",
-    "speaker": "Neil"
+    "text": "Is it a Crypto-Zoology,",
+    "speaker": null
   },
   {
+    "order": 16,
     "start": 47.2,
     "end": 50.96,
-    "text": "b) Protozoology, or",
+    "text": "b) Protozoology, or c) Paleozoology?",
     "speaker": "Neil"
   },
   {
+    "order": 17,
     "start": 50.96,
     "end": 53.28,
     "text": "Have you got any idea about that, Rob?",
     "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 53.28,
     "end": 56.64,
     "text": "Ah, well, I know this because it was a topic of a 6 Minute English programme",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 56.64,
     "end": 59.359,
     "text": "a while back, in 2008 to be exact.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 59.359,
     "end": 61.6,
     "text": "So I think I'll keep the answer to myself.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 61.6,
     "end": 65.28,
     "text": "Okay, well, for everyone else, we'll have the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 66,
     "end": 70.239,
     "text": "Over the last few years, unicorns have been popping up all over the place.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 23,
     "start": 70.239,
     "end": 75.2,
     "text": "On t-shirts, in movies, as toys, and even in political conversations.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 75.2,
     "end": 75.92,
     "text": "Why is this?",
-    "speaker": null
+    "speaker": "panacea"
   },
   {
+    "order": 25,
     "start": 76.64,
     "end": 79.04,
     "text": "Natalie Lawrence is a natural historian.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 79.04,
     "end": 83.439,
     "text": "She appeared on the BBC's Woman's Hour programme to discuss the topic.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 83.439,
     "end": 85.359,
     "text": "Listen out for the answer to this question.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 86,
     "end": 89.76,
     "text": "Why does she say people used to drink out of unicorn horns?",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 92.48,
     "end": 96.959,
     "text": "Those original stories were developed in a time when magic actually existed in the world.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 96.959,
     "end": 99.12,
     "text": "The world was still very enchanted.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 99.12,
     "end": 101.12,
     "text": "The idea that unicorns are very strong animal,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 101.92,
     "end": 103.76,
     "text": "and also that could achieve magical feats.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 103.76,
     "end": 107.28,
     "text": "So unicorn horn used to be seen as a panacea for all sorts of",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 107.28,
     "end": 109.68,
     "text": "ills and a guard against poison.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 109.68,
     "end": 113.439,
     "text": "So people used to drink out of unicorn horn cups to prevent themselves getting poisoned.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 113.519,
     "end": 116.64,
     "text": "And I think that idea of it being magical and having magical powers",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 116.64,
     "end": 118.399,
     "text": "is still, has still come through today.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 121.039,
     "end": 123.759,
     "text": "Why did they drink from unicorn horn cups?",
     "speaker": "Neil"
   },
   {
+    "order": 39,
     "start": 124.319,
     "end": 126.959,
     "text": "Well, they were supposed to have magical powers,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 126.959,
     "end": 129.68,
-    "text": "Well, they were supposed to have magical powers so people drank from them so they wouldn't get poisoned.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 130.319,
-    "end": 133.599,
-    "text": "Yes, she said they could perform magical feats.",
+    "text": "so people drank from them so they wouldn't get poisoned.",
     "speaker": null
   },
   {
+    "order": 41,
+    "start": 130.319,
+    "end": 133.599,
+    "text": "Yes, she said they could perform magical feats.",
+    "speaker": "featsfeat"
+  },
+  {
+    "order": 42,
     "start": 134.159,
     "end": 137.12,
     "text": "A feat is something that is difficult to do or achieve,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 137.12,
     "end": 139.52,
     "text": "like recording this programme without making a mistake.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 139.52,
     "end": 140.479,
     "text": "That's a real feat.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 141.039,
     "end": 142.56,
     "text": "Well, we usually do it.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 142.56,
     "end": 144.399,
-    "text": "Well, we usually do it. It must just be unicorn magic.",
-    "speaker": "Rob"
+    "text": "It must just be unicorn magic.",
+    "speaker": null
   },
   {
+    "order": 47,
     "start": 145.28,
     "end": 147.359,
     "text": "No, just the magic of edicing Rob.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 147.359,
     "end": 151.359,
-    "text": "No, just the magic of editing, Rob! Now, she also said that unicorn horn was seen as a panacea. What does that mean?",
-    "speaker": "panacea"
+    "text": "Now, she also said that unicorn horn was seen as a panacea.",
+    "speaker": null
   },
   {
+    "order": 49,
     "start": 151.919,
     "end": 152.959,
     "text": "What does that mean?",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 152.959,
     "end": 155.439,
     "text": "A panacea is another word for a cure.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 156.079,
     "end": 159.839,
     "text": "Something that can protect you from illness or help you recover if you're sick.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 160.639,
     "end": 163.759,
     "text": "But is all this true about the unicorn horn?",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 163.759,
     "end": 167.599,
     "text": "Well, seeing as how unicorns don't and never have existed,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 167.599,
     "end": 169.439,
     "text": "it's unlikely to be true.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 169.439,
     "end": 173.599,
     "text": "She says these stories come from a time when the world was enchanted.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 173.599,
     "end": 176.879,
     "text": "This means it was a time when people believed in magic",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 176.879,
     "end": 181.199,
     "text": "and the possibility of mysterious creatures from mysterious parts of the world.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 182,
     "end": 185.12,
     "text": "It seems as if these days people are looking for a bit of magic,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 185.12,
     "end": 186.96,
     "text": "a bit of enchantment in their lives.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 187.439,
     "end": 191.039,
     "text": "The unicorn has also come to be a term commonly used in politics",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 191.039,
     "end": 194.8,
     "text": "to refer to unrealistic ideas and plans.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 194.8,
     "end": 195.919,
     "text": "Why is this?",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 195.919,
     "end": 197.28,
     "text": "Here's Natalie Lawrence again.",
-    "speaker": null
+    "speaker": "potent"
   },
   {
+    "order": 64,
     "start": 199.759,
     "end": 201.84,
-    "text": "Because it's such a potent cultural symbol at the moment,",
-    "speaker": null
+    "text": "Because it's such a potent cultural symbol at the moment ",
+    "speaker": "potentdeployedpressing"
   },
   {
+    "order": 65,
     "start": 203.039,
     "end": 207.199,
     "text": "it's being deployed in one of the most pressing issues of our time as well.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 207.199,
     "end": 214.96,
     "text": "So, and the idea of the UK trying to be its own special unicorn, potentially.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 217.599,
     "end": 220,
     "text": "So Rob, what is she talking about here?",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 68,
     "start": 220,
     "end": 224.719,
     "text": "Well, we're in a very complicated time, politically, in the UK at the moment.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 224.719,
     "end": 227.199,
     "text": "She says they are pressing times,",
-    "speaker": null
+    "speaker": "pressingpressing"
   },
   {
+    "order": 70,
     "start": 227.199,
     "end": 232.399,
     "text": "a term which means something important but difficult has to be done in a very short time.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 232.959,
     "end": 237.359,
     "text": "A pressing matter is an important one that has to be dealt with urgently.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 238.079,
     "end": 243.679,
     "text": "Now, at the time of recording, our parliament can't agree on the current pressing matter of Brexit,",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 243.679,
     "end": 246.319,
     "text": "and each side says the other has unicorns.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 246.879,
     "end": 250.159,
     "text": "There's nothing special or magical about these unicorns.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 250.159,
     "end": 251.199,
     "text": "It's a negative comment.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 251.839,
     "end": 256,
     "text": "A unicorn is a fantasy idea, a plan that has no chance of working.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 256.879,
     "end": 262.879,
     "text": "She says unicorns are a potent symbol, which means they're a very strong and recognisable symbol.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 263.439,
     "end": 267.759,
     "text": "And this symbol is being used, or as she said being deployed.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 267.759,
     "end": 271.92,
     "text": "This is the same word that would be used when you send a military force somewhere.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 271.92,
     "end": 274.399,
     "text": "You deploy the army in a military conflict,",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 274.399,
     "end": 278.72,
     "text": "and in the current political conflict they are deploying the word unicorn.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 279.92,
     "end": 281.199,
     "text": "Here's Natalie Lawrence again.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 281.519,
     "end": 285.519,
     "text": "Because it's such a potent cultural symbol at the moment,",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 286.8,
     "end": 290.399,
     "text": "it's being deployed in one of the most pressing issues of our time as well.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 290.399,
     "end": 298.719,
     "text": "And the idea of the UK trying to be its own special unicorn, but potentially.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 301.279,
     "end": 304.48,
     "text": "Right, our pressing matter now is the vocabulary review.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 304.959,
     "end": 308.159,
     "text": "Before that, though, the answer to this week's question.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 308.24,
     "end": 311.76,
     "text": "What do we call the study of legendary creatures like the Loch Ness,",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 311.76,
     "end": 314.16,
     "text": "Monster, Bigfoot and Unicorns?",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 314.16,
     "end": 320.32,
     "text": "Is it a crypto-zoology, b, proto-zoology, or c, paleo-zoology?",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 321.12,
     "end": 322.72,
-    "text": "Rob, you knew the answer to this, didn't you?",
+    "text": "You knew the answer to this, didn't you?",
     "speaker": "pressing"
   },
   {
+    "order": 92,
     "start": 322.72,
     "end": 323.6,
-    "text": "I did. Yes.",
-    "speaker": null
+    "text": "I did, yes.",
+    "speaker": "Rob"
   },
   {
+    "order": 93,
     "start": 323.6,
     "end": 327.68,
     "text": "If you look back at our archive to September 2008,",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 327.68,
     "end": 332.16,
     "text": "you will find an episode all about a crypto-zoology.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 332.16,
     "end": 332.8,
     "text": "Well done.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 332.8,
     "end": 335.84,
     "text": "If you got that right, particularly if you remember that program.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 336.399,
     "end": 342.319,
     "text": "Now, vocabulary from this program, there was enchanted to talk about a time when magic was",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 342.319,
     "end": 343.679,
     "text": "believed to be real.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 343.679,
     "end": 348.879,
-    "text": "A feat is something that is very difficult to achieve and a panacea is a cure.",
+    "text": "A feat is something that is very difficult to achieve and a panacea is a cure. ",
     "speaker": "featpanacea"
   },
   {
+    "order": 100,
     "start": 348.879,
     "end": 351.679,
     "text": "Something that's potent is strong and powerful.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 351.679,
     "end": 354.239,
     "text": "And if you deploy something, you use it.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 354.239,
     "end": 356,
     "text": "You put it into operation.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 356,
     "end": 358.159,
-    "text": "And something pressing is urgent, it needs to be done soon.",
+    "text": "And something pressing is urgent,",
     "speaker": "pressing"
   },
   {
+    "order": 104,
     "start": 358.159,
     "end": 360,
     "text": "It needs to be done soon.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 360,
     "end": 361.839,
     "text": "Right, that's it from us now.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 361.839,
     "end": 363.439,
     "text": "Hope you can join us again soon.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 363.439,
     "end": 366.959,
     "text": "If you can't wait, you can find BBC Learning English on social media,",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 366.959,
     "end": 369.12,
     "text": "online, and on our very own app.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 369.12,
     "end": 369.759,
     "text": "Bye for now.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 369.759,
     "end": 370.24,
     "text": "Bye-bye.",

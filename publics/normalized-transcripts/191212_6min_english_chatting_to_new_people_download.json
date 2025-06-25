@@ -1,704 +1,821 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.88,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.64,
     "end": 15.439,
-    "text": "Hello. This is 6 Minute English and I'm Neil. Joining me for our discussion is Georgina.",
-    "speaker": "Neil"
+    "text": "Hello, this is 6 Minute English and I'm Neil.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 15.439,
     "end": 17.839,
     "text": "Joining me for our discussion is Georgina.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 17.839,
     "end": 18.64,
-    "text": "Hello!",
-    "speaker": "Georgina"
+    "text": "Hello.",
+    "speaker": null
   },
   {
+    "order": 7,
     "start": 18.64,
     "end": 22.64,
     "text": "Now Georgina, you're a chatty, social kind of person, aren't you?",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 22.64,
     "end": 24.48,
     "text": "Well, yes, I think so.",
-    "speaker": "Georgina"
+    "speaker": "Neil"
   },
   {
+    "order": 9,
     "start": 24.48,
     "end": 28.64,
     "text": "But would you go up to a stranger and strike up a conversation?",
     "speaker": "Neil"
   },
   {
+    "order": 10,
     "start": 28.64,
     "end": 30.32,
     "text": "That might be going too far.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 30.32,
     "end": 33.12,
-    "text": "That might be going too far – if you don’t know them, what are you going to start talking about?",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 33.12,
-    "end": 34.399,
-    "text": "A good question.",
+    "text": "If you don't know them, what are you going to start talking about?",
     "speaker": null
   },
   {
+    "order": 12,
+    "start": 33.12,
+    "end": 34.399,
+    "text": "A good question.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 13,
     "start": 34.399,
     "end": 37.039,
     "text": "But maybe you should, because in this programme,",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 37.039,
     "end": 40.88,
     "text": "we're looking at how talking to strangers might actually be good for you.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 40.88,
     "end": 44.079,
     "text": "But first, let me talk to you about today's question.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 44.079,
     "end": 45.519,
     "text": "I'd like you to answer this.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 46.24,
     "end": 49.04,
     "text": "To make conversation, we need words.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 49.04,
     "end": 51.92,
     "text": "So according to the Oxford English Dictionary,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 51.92,
     "end": 56.24,
     "text": "approximately how many words are in use in the English language.",
-    "speaker": null
-  },
-  {
-    "start": 56.32,
-    "end": 60.56,
-    "text": "a)    171,146",
-    "speaker": "Neil"
-  },
-  {
-    "start": 60.56,
-    "end": 65.28,
-    "text": "b)    271,146",
-    "speaker": "Neil"
-  },
-  {
-    "start": 65.28,
-    "end": 70.719,
-    "text": "c)    371,146",
-    "speaker": "Neil"
-  },
-  {
-    "start": 70.719,
-    "end": 76.079,
-    "text": "We use a lot of words in English, but not 371,000 – so I’ll go for a) 171,146.",
     "speaker": "Georgina"
   },
   {
+    "order": 20,
+    "start": 56.32,
+    "end": 60.56,
+    "text": "Is it A, 171,146?",
+    "speaker": null
+  },
+  {
+    "order": 21,
+    "start": 60.56,
+    "end": 65.28,
+    "text": "B, 271,146?",
+    "speaker": "Neil"
+  },
+  {
+    "order": 22,
+    "start": 65.28,
+    "end": 70.719,
+    "text": "Or C, 371,146?",
+    "speaker": null
+  },
+  {
+    "order": 23,
+    "start": 70.719,
+    "end": 76.079,
+    "text": "We use a lot of words in English, but not 371,000 ",
+    "speaker": "Georgina"
+  },
+  {
+    "order": 24,
     "start": 76.079,
     "end": 82.079,
     "text": "So I'll go for A, 171,146.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 82.079,
     "end": 86.159,
     "text": "Okay, well, as always, I'll reveal the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 86.159,
     "end": 90.319,
-    "text": "Now let's continue our conversation about having conversations with strangers.",
-    "speaker": null
+    "text": "Now, let’s continue our conversation about having conversations with strangers",
+    "speaker": "Neil"
   },
   {
+    "order": 27,
     "start": 91.039,
     "end": 94.719,
     "text": "Many of us spend part of every day surrounded by strangers,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 94.719,
     "end": 98.399,
     "text": "whether on our commute to work, sitting in a park or cafe,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 98.399,
     "end": 99.92,
     "text": "or visiting the supermarket.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 99.92,
     "end": 106.239,
     "text": "But we rarely reach out and talk to them because we fear it would make us both feel uncomfortable or awkward.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 106.239,
     "end": 111.28,
     "text": "And Gillian Sandstrom, social psychologist from Essex University in the UK,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 111.28,
     "end": 112.959,
     "text": "can't explain why.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 113.039,
     "end": 117.119,
     "text": "Here she is speaking on BBC Radio 4s all in the Minds programme.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 118.079,
     "end": 121.28,
     "text": "We kind of underestimate, we have this negative voice in our head",
-    "speaker": null
+    "speaker": "underestimateanticipating"
   },
   {
+    "order": 35,
     "start": 121.28,
     "end": 123.199,
     "text": "that's telling us, oh, I shouldn't have said that.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 123.199,
     "end": 124.559,
     "text": "Why did I do that?",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 124.559,
     "end": 126.399,
     "text": "I said that story better last time.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 127.119,
     "end": 129.359,
     "text": "But the other person doesn't know any of that.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 129.359,
     "end": 134.479,
     "text": "And they're probably, they might be anticipating that they won't have a positive conversation.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 134.479,
     "end": 135.68,
     "text": "And then they do.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 135.68,
     "end": 138.479,
     "text": "And they think, wow, that person was amazing.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 138.479,
     "end": 142.56,
     "text": "So we walk around with this fear that the other person isn't going to be interested in",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 142.56,
     "end": 143.36,
     "text": "talking to us.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 144.64,
     "end": 146.159,
     "text": "Fascinating stuff.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 146.159,
     "end": 151.68,
-    "text": "Fascinating stuff. So we have a negative voice in our head telling us about all the bad things that might happen. We basically underestimate ourselves.",
-    "speaker": "underestimate"
+    "text": "So we have a negative voice in our head telling us about all the bad things that might happen.",
+    "speaker": null
   },
   {
+    "order": 46,
     "start": 151.68,
     "end": 154.24,
     "text": "We basically underestimate ourselves.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 154.24,
     "end": 159.759,
-    "text": "To underestimate means to think that something is smaller or less important than it really is. We worry that what we say won’t be interesting or important enough.",
+    "text": "To underestimate means to think that something is smaller or less important than it really is.",
     "speaker": "Neil"
   },
   {
+    "order": 48,
     "start": 159.759,
     "end": 163.439,
     "text": "We worry that what we say won't be interesting or important enough.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 164.4,
     "end": 166.879,
     "text": "But the other person doesn't know that.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 166.879,
     "end": 170.4,
     "text": "They're also anticipating or guessing the outcome.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 170.4,
     "end": 174.24,
     "text": "They're thinking that if they have a conversation, it won't go well.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 174.24,
     "end": 178.56,
     "text": "But of course, when strangers do talk to each other, it normally goes well.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 178.56,
     "end": 181.28,
-    "text": "Yes, it's just fear that is stopping us.",
-    "speaker": null
-  },
-  {
-    "start": 181.84,
-    "end": 186.24,
-    "text": "Yes, it’s just fear that is stopping us. But if we get over that fear, and get chatting, people might actually like us – and we might make new friends.",
+    "text": "Yes, it’s just fear that is stopping us.",
     "speaker": "Neil"
   },
   {
+    "order": 54,
+    "start": 181.84,
+    "end": 186.24,
+    "text": "But if we get over that fear and get chatting, people might actually like us.",
+    "speaker": null
+  },
+  {
+    "order": 55,
     "start": 186.24,
     "end": 187.68,
     "text": "We might make new friends.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 188.24,
     "end": 191.92,
-    "text": "Another reason why you should pluck up the courage to talk to strangers is that it’s good for our health!",
-    "speaker": "pluck up the courage"
+    "text": "Another reason why you should pluck up the courage to talk to strangers",
+    "speaker": null
   },
   {
+    "order": 57,
     "start": 191.92,
     "end": 194,
     "text": "is that it is good for our health.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 194,
     "end": 195.2,
     "text": "Plug up the courage.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 195.2,
     "end": 198.96,
     "text": "That's a good phrase, Georgina, meaning force yourself to do something",
-    "speaker": null
+    "speaker": "Pluck up the courageconnecting"
   },
   {
+    "order": 60,
     "start": 199.04,
     "end": 200.32,
     "text": "that you're scared about.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 200.32,
     "end": 203.52,
     "text": "And, research by the University of Chicago,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 203.52,
     "end": 208.319,
     "text": "found we may often underestimate the positive impact of connecting with others",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 208.319,
     "end": 211.12,
     "text": "for both our own and others well-being.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 211.12,
     "end": 216,
     "text": "And connecting here means starting or having a good relationship with someone.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 216,
     "end": 218.48,
     "text": "So the research found that, for example,",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 218.48,
     "end": 221.76,
     "text": "having a conversation with a stranger on your way to work",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 221.76,
     "end": 224.879,
     "text": "may leave you both feeling happier than you would think.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 224.879,
     "end": 227.84,
     "text": "Julian Sandstrom also spoke about her research",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 227.84,
     "end": 231.599,
     "text": "and the power of talking to strangers on the UNIORS program.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 231.599,
     "end": 233.36,
     "text": "Listen out for the word connected.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 71,
     "start": 234.48,
     "end": 237.439,
     "text": "What we've shown in the research is that it's really good for your mood.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 237.439,
     "end": 240.879,
     "text": "So people are in a better mood after they reach out and have a conversation,",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 240.879,
     "end": 242.08,
     "text": "however minimal.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 242.08,
     "end": 245.28,
     "text": "And the other thing that the research has shown is it just makes people feel more",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 245.28,
     "end": 246.319,
     "text": "connected to each other.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 247.199,
     "end": 247.92,
-    "text": "There you go.",
-    "speaker": null
+    "text": "There you go!",
+    "speaker": "moodmood"
   },
   {
+    "order": 77,
     "start": 247.92,
     "end": 250.319,
     "text": "Talking to strangers is good for our mood.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 250.319,
     "end": 252.48,
     "text": "And mood means the way we feel.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 252.48,
     "end": 257.04,
     "text": "It's good for our mental health and we might discover people actually like us.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 257.12,
     "end": 261.68,
     "text": "And even if we're an introvert, a person who prefers to be alone rather than with others,",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 262.24,
     "end": 265.76,
     "text": "experiments have shown that talking to others can make us happier.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 265.76,
     "end": 269.28,
     "text": "The problem remains now that when speaking to someone new,",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 269.28,
     "end": 270.8,
     "text": "what do you talk about?",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 270.8,
     "end": 272.8,
     "text": "How about some interesting facts?",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 272.8,
     "end": 276.48,
     "text": "Like approximately how many words are in use in the English language?",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 276.48,
     "end": 278.4,
     "text": "Which is what I asked you earlier.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 278.4,
     "end": 282.08,
     "text": "Is it a 171 146?",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 282.8,
     "end": 286.8,
     "text": "B 271 146?",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 287.599,
     "end": 292,
     "text": "Or C 371 146?",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 292,
     "end": 293.519,
     "text": "What did you say, Georgina?",
     "speaker": "Neil"
   },
   {
+    "order": 91,
     "start": 293.519,
     "end": 297.839,
     "text": "I said 171 146.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 297.839,
     "end": 298.879,
     "text": "Was I right?",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 93,
     "start": 298.879,
     "end": 300.319,
     "text": "Spot on Georgina.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 300.319,
     "end": 301.12,
     "text": "Well done.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 301.12,
     "end": 308.719,
     "text": "Yes, there's an estimated 171 146 words currently in use in the English language,",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 308.72,
     "end": 311.28,
     "text": "according to the Oxford English dictionary,",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 311.28,
     "end": 313.68,
     "text": "plus many more obsolete words.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 314.16,
     "end": 318.32,
-    "text": "I shall pick a few of them and make conversation with someone on the Tube later, but not before we recap some of the vocabulary we’ve explained.",
+    "text": "I shall pick a few of them and make conversation with someone on the Tube later,",
     "speaker": "Georgina"
   },
   {
+    "order": 99,
     "start": 318.32,
     "end": 322.32,
     "text": "But not before we recap some of the vocabulary we've explained.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 322.32,
     "end": 325.76,
     "text": "Yes, so we highlighted six words starting with underestimate,",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 325.76,
     "end": 330.16,
-    "text": "Yes – so we highlighted six words, starting with underestimate which is to think that something is smaller or less important than it really is.",
-    "speaker": "underestimate"
+    "text": "which is to think that something is smaller or less important than it really is.",
+    "speaker": null
   },
   {
+    "order": 102,
     "start": 330.16,
     "end": 334.32,
-    "text": "Anticipating means guessing or expecting a certain outcome. I anticipate this programme to be 6 minutes long!",
+    "text": "Anticipating means guessing or expecting a certain outcome.",
     "speaker": "Georgina"
   },
   {
+    "order": 103,
     "start": 334.32,
     "end": 337.12,
     "text": "I anticipate this programme to be six minutes long.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 337.12,
     "end": 337.84,
     "text": "That's a given.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 338.479,
     "end": 341.439,
     "text": "Next, we mentioned the phrase to pluck up the courage,",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 341.439,
     "end": 345.679,
-    "text": "That’s a given! Next, we mentioned the phrase to pluck up the courage,meaning to force yourself to do something that you’re scared or nervous about.",
-    "speaker": "to pluck up the courage"
+    "text": "meaning to force yourself to do something that you're scared or nervous about.",
+    "speaker": null
   },
   {
+    "order": 107,
     "start": 345.679,
     "end": 350.479,
-    "text": "When you connect with someone, it means you start or have a good relationship with someone. I think we’ve connected on this programme, Neil!",
+    "text": "When you connect with someone, it means you start or have a good relationship with someone.",
     "speaker": "connect"
   },
   {
+    "order": 108,
     "start": 350.479,
     "end": 352.56,
     "text": "I think we've connected on this programme, Neil.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 352.56,
     "end": 353.759,
     "text": "Absolutely, Georgina.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 354.399,
     "end": 356.479,
     "text": "And that's put me in a good mood.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 356.479,
     "end": 358.399,
     "text": "Mood means the way we feel.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 358.399,
     "end": 362.959,
     "text": "And finally, an introvert is a person who prefers to spend time on their own.",
     "speaker": "introvert"
   },
   {
+    "order": 113,
     "start": 362.959,
     "end": 364,
     "text": "Thanks, Georgina.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 364,
     "end": 369.279,
     "text": "Well, that's our conversation over that you can hear more from us on our website and on our app.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 369.279,
     "end": 370,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 370,
     "end": 370.72,
-    "text": "Bye!",
-    "speaker": "Georgina"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

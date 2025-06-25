@@ -1,800 +1,933 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.279,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.32,
     "end": 17.839,
     "text": "Welcome to 6 Minute English, where we bring you an interesting topic and six items of vocabulary.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 17.839,
-    "end": 20.879,
-    "text": "And all in just six minutes, of course. I'm Catherine.",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 20.879,
-    "end": 25.28,
-    "text": "And I'm Neil. Today is technology built to fail.",
     "speaker": null
   },
   {
+    "order": 5,
+    "start": 17.839,
+    "end": 20.879,
+    "text": "And all in just six minutes, of course. I'm Catherine.",
+    "speaker": null
+  },
+  {
+    "order": 6,
+    "start": 20.879,
+    "end": 25.28,
+    "text": "And I'm Neil. Today is technology built to fail.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 7,
     "start": 25.28,
     "end": 28.879,
     "text": "And are we throwing away too much technology and harming the planet?",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 28.879,
     "end": 31.279,
     "text": "Catherine, tell me how old is your TV?",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 31.279,
     "end": 34.079,
     "text": "My TV has just had its fifth birthday.",
-    "speaker": "Catherine"
+    "speaker": null
   },
   {
+    "order": 10,
     "start": 34.079,
     "end": 35.839,
     "text": "And your mobile phone?",
     "speaker": "Neil"
   },
   {
+    "order": 11,
     "start": 35.839,
     "end": 37.039,
     "text": "It's about two and a half.",
-    "speaker": "Catherine"
+    "speaker": null
   },
   {
+    "order": 12,
     "start": 38.079,
     "end": 41.519,
     "text": "So you do like to have gizmos, but not necessarily the latest.",
     "speaker": "gizmos"
   },
   {
+    "order": 13,
     "start": 41.519,
     "end": 42.399,
     "text": "Exactly.",
-    "speaker": "Catherine"
+    "speaker": null
   },
   {
+    "order": 14,
     "start": 42.399,
     "end": 46.48,
-    "text": "Gizmo – nice word. A gizmo is a small piece of technology – otherwise called a gadget.",
+    "text": "Gizmo – nice word. A gizmo is a small piece of technology",
     "speaker": "Gizmogizmo"
   },
   {
+    "order": 15,
     "start": 46.48,
     "end": 48.079,
     "text": "otherwise called a gadget.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 48.079,
     "end": 51.599,
     "text": "And of course, I'm not alone in buying gadgets from time to time.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 51.599,
     "end": 54.159,
     "text": "They actually keep on getting more advanced,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 54.159,
     "end": 56.32,
     "text": "so people keep buying new ones.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 56.32,
     "end": 58.96,
     "text": "Technology also gets cheaper and cheaper.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 20,
+    "start": 58.96,
+    "end": 62.64,
+    "text": "In fact, many gadgets are more expensive to fix than replace.",
     "speaker": null
   },
   {
-    "start": 58.96,
-    "end": 62.64,
-    "text": "Technology also gets cheaper and cheaper. In fact, many gadgets are more expensive to fix than replace.",
-    "speaker": "Neil"
-  },
-  {
+    "order": 21,
     "start": 63.28,
     "end": 67.04,
-    "text": "And this means that we throw a lot of gadgets away – but how many?",
-    "speaker": "Catherine"
+    "text": "And this means that we throw a lot of gadgets away, but how many?",
+    "speaker": null
   },
   {
+    "order": 22,
     "start": 67.76,
     "end": 73.28,
-    "text": "See if you can guess: how much electronic waste is thrown away every year globally? Is it…",
+    "text": "See if you can guess: how much electronic waste is thrown away every year globally",
     "speaker": "Neil"
   },
   {
+    "order": 23,
     "start": 73.28,
     "end": 80.719,
     "text": "Is it A, 420 tonnes, B, 4.2 million tonnes, or C, 42 million tonnes?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 80.719,
     "end": 82.96,
     "text": "And I do actually know the answer to this one,",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 82.96,
     "end": 85.039,
     "text": "so I'm going to keep quiet just for once.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 85.12,
     "end": 87.6,
     "text": "Ah, first time for everything.",
-    "speaker": null
+    "speaker": "Catherine"
   },
   {
+    "order": 27,
     "start": 87.6,
     "end": 89.68,
     "text": "So to bring us back to our main point,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 89.68,
     "end": 92.32,
     "text": "is technology no longer built to last?",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 92.32,
     "end": 94.88,
     "text": "Let's hear first from Professor Tim Cooper,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 94.88,
     "end": 98.08,
     "text": "who's an expert in sustainable consumption and production",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 98.08,
     "end": 100.56,
     "text": "at Nottingham Trent University in the UK.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 100.56,
     "end": 105.84,
-    "text": "Sustainable, by the way, means able to continue over a long period of time.",
-    "speaker": null
+    "text": "Sustainable, by the way, means 'able to continue over a long period of time",
+    "speaker": "Sustainable"
   },
   {
+    "order": 33,
     "start": 106.48,
     "end": 110.96,
     "text": "We often use it to mean able to continue without causing harm,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 110.96,
     "end": 112.88,
     "text": "like environmental damage.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 112.879,
     "end": 114.959,
     "text": "What's the problem with mobile phones?",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 116.64,
     "end": 119.039,
     "text": "A classic example of this is the mobile phone,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 119.039,
     "end": 122.239,
     "text": "where, for example, screens are glued into the product.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 122.239,
     "end": 124.56,
     "text": "Now they know that if there was a screw,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 124.56,
     "end": 127.039,
     "text": "their consumer could easily win a screen crack,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 127.039,
     "end": 129.84,
     "text": "which is obviously a very common problem with mobile phones,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 129.84,
     "end": 131.28,
     "text": "unscrew and put a new screen on.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 131.28,
     "end": 132.96,
     "text": "They don't. They know, perfectly well,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 132.96,
     "end": 136.639,
     "text": "that that would be a way in which mobile phones would last longer.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 136.639,
     "end": 139.68,
     "text": "They don't want that. They want you to replace your mobile phone every year or two.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 140.08,
     "end": 144.719,
-    "text": "Professor Cooper says that mobile phones' screens crack often – and generally when that happens people buy a new one.",
+    "text": "Professor Cooper says that mobile phones' screens crack often",
     "speaker": "Neil"
   },
   {
+    "order": 46,
     "start": 144.719,
     "end": 147.76,
     "text": "and generally, when that happens, people buy a new one.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 147.76,
     "end": 151.599,
     "text": "That's partly because mobile phones screens are glued on,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 151.599,
     "end": 153.439,
     "text": "rather than screwed on.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 153.439,
     "end": 156.64,
     "text": "Now a screw is a piece of metal, like a nail,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 156.64,
     "end": 158.96,
     "text": "but with a raised twisted part,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 158.96,
     "end": 161.92,
     "text": "and we use screws to join two things together.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 162.48,
     "end": 164.879,
     "text": "The verb form is the same to screw,",
-    "speaker": null
+    "speaker": "screwunscrewunscrew"
   },
   {
+    "order": 53,
     "start": 164.879,
     "end": 166.4,
     "text": "and the opposite is to unscrew.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 166.96,
     "end": 169.84,
     "text": "If you could unscrew a cracked screen and then replace it,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 169.84,
     "end": 172.8,
     "text": "there'd be no need to buy a whole new phone, he says.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 172.8,
     "end": 176.319,
-    "text": "He thinks that generally, people have lowered their expectations when it comes to how long things should last.",
-    "speaker": "lowered their expectations"
+    "text": "He thinks that generally, people have lowered their expectations",
+    "speaker": null
   },
   {
+    "order": 57,
     "start": 176.319,
     "end": 179.28,
     "text": "when it comes to how long things should last.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 179.28,
     "end": 180.879,
-    "text": "Expectations is a good word,",
-    "speaker": null
+    "text": "Expectations is a good word ",
+    "speaker": "ExpectationsexpectationExpectationslowered"
   },
   {
+    "order": 59,
     "start": 180.879,
     "end": 183.92,
     "text": "and expectation is a strong belief something will happen.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 183.92,
     "end": 186.319,
     "text": "Expectations can be raised or lowered.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 186.319,
     "end": 189.52,
     "text": "Or managed. To manage your expectations",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 189.52,
     "end": 193.36,
     "text": "means to not let your expectations get so high",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 193.36,
     "end": 196.72,
     "text": "that you then become disappointed when something fails.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 196.72,
     "end": 199.52,
     "text": "Yes, by way of an example, Professor Cooper says",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 65,
     "start": 199.52,
     "end": 203.28,
     "text": "that his parents washing machine lasted for 37 years.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 203.28,
     "end": 206.08,
     "text": "These days, they last between five and ten.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 206.08,
     "end": 208.64,
     "text": "Yeah, and we don't see electrical products",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 208.64,
     "end": 212.24,
     "text": "as an investment in the same way that people used to.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 212.24,
     "end": 214.72,
     "text": "We now worry that what we buy today",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 214.72,
     "end": 216.56,
     "text": "will become obsolete tomorrow.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 216.56,
     "end": 219.2,
-    "text": "Obsolete, no longer valid or useful.",
-    "speaker": null
+    "text": "Obsolete – no longer valid or useful",
+    "speaker": "Obsolete"
   },
   {
+    "order": 72,
     "start": 219.2,
     "end": 222.32,
     "text": "And also, he says we've become so used to cheap products",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 222.319,
     "end": 224.879,
     "text": "that we don't want to spend more on good quality.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 224.879,
     "end": 226.239,
-    "text": "So what's to be done?",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 226.239,
-    "end": 228.079,
-    "text": "Cooper suggests that if we can afford it,",
+    "text": "So, what's to be done?",
     "speaker": null
   },
   {
+    "order": 75,
+    "start": 226.239,
+    "end": 228.079,
+    "text": "Cooper suggests that if we can afford it,",
+    "speaker": "Neil"
+  },
+  {
+    "order": 76,
     "start": 228.079,
     "end": 231.199,
     "text": "we really should try to buy higher quality products.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 231.199,
     "end": 233.599,
     "text": "And manufacturers should put labels on their products,",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 233.599,
     "end": 235.759,
     "text": "saying how long they're designed to last.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 235.759,
     "end": 237.199,
     "text": "An interesting idea.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 237.199,
     "end": 241.12,
     "text": "Cooper says that over two million pounds worth of electrical goods",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 241.12,
     "end": 243.759,
     "text": "are thrown away each year in the UK.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 243.759,
     "end": 245.919,
     "text": "He calls it a throw away culture.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 245.919,
     "end": 249.28,
     "text": "A culture in which we throw things out much more easily.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 84,
     "start": 249.28,
     "end": 250.799,
     "text": "Not good for the planet either.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 250.88,
     "end": 253.92,
     "text": "So, will you try to keep your mobile for a bit longer",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 253.92,
     "end": 256.879,
     "text": "or are you already tempted by the latest model, Catherine?",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 256.879,
     "end": 258.639,
     "text": "I'm happy with the one I've got,",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 258.639,
     "end": 260.879,
     "text": "but I'm going to protect the screen very carefully.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 260.879,
     "end": 261.84,
     "text": "Yes, a good idea.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 90,
     "start": 262.48,
     "end": 264.96,
     "text": "Maybe this will help you make up your mind, though.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 264.96,
     "end": 268.72,
     "text": "I asked how many tons of electrical waste are thrown away globally?",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 268.72,
     "end": 270.24,
     "text": "And I said I know the answer.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 270.24,
     "end": 272.879,
     "text": "It's actually 42 million tons,",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 272.879,
     "end": 275.92,
     "text": "according to a UN report back in 2015.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 275.92,
     "end": 277.92,
     "text": "The figure could be a lot higher now.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 277.92,
     "end": 280.16,
     "text": "And as you know, my mobile isn't very heavy,",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 280.16,
     "end": 283.76,
     "text": "so 42 million tons is an awful lot of phones.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 284.56,
     "end": 286.24,
     "text": "While we try to picture that,",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 286.24,
     "end": 288.96,
     "text": "let's quickly run through today's vocabulary.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 288.96,
     "end": 291.28,
     "text": "So, first up was Gizmo,",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 291.28,
     "end": 293.68,
     "text": "a small piece of technology, a gadget.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 293.68,
     "end": 295.36,
     "text": "Smart phones, smart watches,",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 295.36,
     "end": 298.72,
     "text": "fitness trackers, satnav's, or gizmos.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 298.72,
     "end": 302,
     "text": "We had sustainable, able to last or continue.",
-    "speaker": null
+    "speaker": "gizmos"
   },
   {
+    "order": 105,
     "start": 302,
     "end": 304.16,
     "text": "We talk about sustainable energy,",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 304.16,
     "end": 306.24,
     "text": "sustainable economic development.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 306.24,
     "end": 308.8,
-    "text": "The opposite would be unsustainable development.",
-    "speaker": null
-  },
-  {
-    "start": 308.8,
-    "end": 312.079,
-    "text": "The opposite would be unsustainable development… And another pair of words – to screw and to unscrew.",
+    "text": "The opposite would be unsustainable development…",
     "speaker": "unsustainable screwunscrew"
   },
   {
+    "order": 108,
+    "start": 308.8,
+    "end": 312.079,
+    "text": "And another pair of words to screw and to unscrew.",
+    "speaker": null
+  },
+  {
+    "order": 109,
     "start": 312.079,
     "end": 314.4,
     "text": "A screw is that little metal thing,",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 314.4,
     "end": 317.52,
     "text": "like a nail, that we used to join things together.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 317.52,
     "end": 319.439,
     "text": "You can screw shelves into the wall,",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 319.439,
     "end": 321.439,
     "text": "you can screw furniture together.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 321.439,
     "end": 323.6,
-    "text": "And when you move house, you unscrew it.",
-    "speaker": null
+    "text": "And when you move house you unscrew it. ",
+    "speaker": "unscrew lower your expectations"
   },
   {
+    "order": 114,
     "start": 324.319,
     "end": 326.879,
     "text": "Three more to lower your expectations.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 328,
     "end": 330.24,
     "text": "What have you lowered your expectations about?",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 331.68,
     "end": 332.639,
     "text": "So many things.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 333.6,
     "end": 336.639,
     "text": "Becoming a millionaire, I don't think that's going to happen.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 336.639,
     "end": 340.24,
     "text": "Or I could say, a company has lowered his expectations",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 340.24,
     "end": 342.8,
     "text": "about performance over the next five years.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 342.8,
     "end": 344.959,
-    "text": "Yes, another one looking ahead into the future.",
-    "speaker": null
+    "text": "Yes – another one looking ahead into the future",
+    "speaker": "obsolete"
   },
   {
+    "order": 121,
     "start": 344.959,
     "end": 348.319,
     "text": "I'm pretty sure my computer will be obsolete in 10 years.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 348.319,
     "end": 349.759,
     "text": "It will no longer be used.",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 349.759,
     "end": 351.12,
     "text": "It will be out of date.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 351.12,
     "end": 354,
     "text": "I just urge you, Neil, when you do get a new one,",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 354,
     "end": 357.039,
     "text": "please recycle this one responsibly.",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 357.039,
     "end": 359.519,
     "text": "We already live in a throwaway culture.",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 359.519,
     "end": 361.439,
-    "text": "Yes, it's pretty unsustainable.",
-    "speaker": null
+    "text": "Yes – it's pretty unsustainable",
+    "speaker": "unsustainableobsolete"
   },
   {
+    "order": 128,
     "start": 361.439,
     "end": 364.719,
     "text": "Now, before your laptop or phone becomes obsolete,",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 364.72,
     "end": 367.6,
     "text": "I suggest you check out our Facebook, Twitter, Instagram",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 367.6,
     "end": 368.48,
     "text": "and YouTube pages.",
     "speaker": null
   },
   {
+    "order": 131,
     "start": 369.12,
     "end": 369.76,
     "text": "Bye for now.",
     "speaker": null
   },
   {
+    "order": 132,
     "start": 369.76,
     "end": 370.96,
-    "text": "Bye!",
-    "speaker": "unsustainableobsolete"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

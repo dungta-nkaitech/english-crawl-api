@@ -1,371 +1,433 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7.679,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7.679,
     "end": 12.48,
     "text": "Hello, this is 6-minute English from BBCLearningEnglish. I'm Phil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.48,
     "end": 19.76,
-    "text": "And I'm Beth. Nowadays, I often see people carrying water bottles with them to make sure they drink enough. How much water do you drink a day, Phil?",
-    "speaker": "Beth"
+    "text": "And I'm Beth. Nowadays, I often see people carrying water bottles with them to make sure they drink enough.",
+    "speaker": "Phil"
   },
   {
+    "order": 3,
     "start": 19.76,
     "end": 22.4,
     "text": "How much water do you drink a day, Phil?",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 22.4,
     "end": 26.48,
     "text": "Oh, I don't know. Maybe about a litre?",
     "speaker": "Phil"
   },
   {
+    "order": 5,
     "start": 26.559,
     "end": 30.399,
     "text": "Okay. And do you know how much water you should drink a day?",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 31.039,
     "end": 33.679,
     "text": "I think it's probably about two litres.",
     "speaker": "Phil"
   },
   {
+    "order": 7,
     "start": 34.64,
     "end": 42.56,
     "text": "Well, the number many people have heard is two litres a day. Of course, everyone needs to drink some water.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 42.56,
     "end": 49.84,
     "text": "Over half the human body is made up of it. But exactly how much water do we need to stay healthy?",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 49.84,
     "end": 55.12,
     "text": "That's what we'll be discussing in this programme along with some useful new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 55.119,
     "end": 60.719,
-    "text": "And speaking of vocabulary, remember you can download all the new words and phrases from this programme, plus worksheet exercises to help you learn them, on our website, bbclearningenglish.com.",
+    "text": "And speaking of vocabulary, remember you can download all the new words and phrases from this programme,",
     "speaker": "Phil"
   },
   {
+    "order": 11,
     "start": 60.719,
     "end": 65.039,
     "text": "Plus, worksheet exercises to help you learn them on our website,",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 65.039,
     "end": 67.439,
     "text": "BBCLearningEnglish.com.",
-    "speaker": null
+    "speaker": "Dehydration"
   },
   {
+    "order": 13,
     "start": 67.439,
     "end": 71.2,
     "text": "Great. But first, I have a question for you, Phil.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 71.2,
     "end": 79.68,
-    "text": "Great! But first I have a question for you, Phil. I mentioned that over half the human body consists of water, but there's an even higher percentage of water in our blood. But how much? Is our blood:",
-    "speaker": "Beth"
+    "text": "I mentioned that over half the human body consists of water. But there's an even higher percentage of water in our blood.",
+    "speaker": null
   },
   {
+    "order": 15,
     "start": 79.92,
     "end": 84.96,
     "text": "But how much is our blood A around 80% water?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 84.96,
     "end": 90.72,
-    "text": "b)    around 90% water? or,",
+    "text": "B around 90% water? Or C 100% water?",
     "speaker": "Beth"
   },
   {
+    "order": 17,
     "start": 90.72,
     "end": 94.24,
     "text": "I think it's around 80% water.",
     "speaker": "Phil"
   },
   {
+    "order": 18,
     "start": 94.24,
     "end": 98.32,
     "text": "Okay. I will reveal the correct answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 98.32,
     "end": 104.08,
     "text": "Our blood needs water so it can carry nutrients to the body's cells and organs.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 104.08,
     "end": 107.76,
     "text": "The amount recommended is often given as two litres a day.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 107.84,
     "end": 112.64,
     "text": "But why? Here to discuss this with BBC World Service programme,",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 112.64,
     "end": 116.48,
     "text": "the food chain is a biologist, Professor John Speakman.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 116.48,
     "end": 123.359,
-    "text": "So I'm not sure how it was arrived at, but it seems to be a number that has taken grip on a very large number of countries.",
-    "speaker": null
+    "text": "So, I'm not sure how it was arrived at but it seems to be a number that has taken grip on a very large number of countries.",
+    "speaker": "arrived attaken grippretty muchpretty much"
   },
   {
+    "order": 24,
     "start": 123.359,
     "end": 128.4,
     "text": "So if you look at government recommendations around the world, they're pretty much all the same.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 128.4,
     "end": 132.719,
     "text": "They're pretty much all the same. Everybody's got to be drinking two litres of water.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 133.359,
     "end": 139.199,
     "text": "Professor Speakman doesn't know how the number of two litres a day was arrived at,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 139.199,
     "end": 146.879,
     "text": "how it was decided or calculated. Nevertheless, the idea of drinking two litres a day has taken grip",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 146.879,
     "end": 152.639,
     "text": "on many governments around the world. When you say an idea has taken grip on something,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 152.639,
     "end": 154.96,
     "text": "you mean it's taken control of it?",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 154.96,
     "end": 161.28,
     "text": "Yes, Professor Speakman says that pretty much all governments are giving pretty much the same",
-    "speaker": null
+    "speaker": "pretty muchpretty muchpretty much"
   },
   {
+    "order": 31,
     "start": 161.28,
     "end": 168.719,
     "text": "recommendation. He uses the phrase pretty much to mean almost. For example, pretty much all",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 168.719,
     "end": 174.24,
     "text": "governments advise drinking two litres a day means almost all governments advise it.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 174.719,
     "end": 180,
     "text": "What Professor Speakman doesn't have, however, is any scientific evidence for this advice.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 180,
     "end": 187.28,
     "text": "The number of exactly two litres isn't based on scientific fact. It's more of a ballpark figure.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 187.36,
     "end": 191.759,
     "text": "A number which is a guess, but which you still believe is approximately correct.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 192.4,
     "end": 196.879,
     "text": "Actually, the amount of water in our bodies is changing all the time.",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 37,
     "start": 196.879,
     "end": 202.96,
     "text": "Like your bank balance, which goes down when you spend money, your body loses water all the time",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 202.96,
     "end": 209.84,
     "text": "when you breathe, sweat or go to the toilet. Exactly how much you need to drink depends on how much water",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 209.84,
     "end": 213.68,
     "text": "your body needs to replace, and that mainly depends on your size.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 214.48,
     "end": 221.599,
     "text": "But what happens when we drink less than we should? Here's hydration expert Dr Nidio Rodriguez Sanchez",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 221.599,
     "end": 227.2,
     "text": "describing the effects of dehydration to BBC World Services, the food chain.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 227.2,
     "end": 232.56,
     "text": "And also many times we start getting dehydrated and we don't realize we are dehydrated,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 232.56,
     "end": 240.48,
     "text": "so it's very common that we feel tired or we feel like we're a bit of a headache or even we",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 240.56,
     "end": 244.639,
     "text": "think we are hungry and we go and get some food and naturally what is happening is that we are",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 244.639,
     "end": 250.799,
     "text": "thirsty, that we are dehydrated, we're starting to show some signs or some symptoms of dehydration.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 251.679,
     "end": 257.839,
     "text": "Dr Sanchez describes the effect of dehydration, the condition of not having enough water in your",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 257.839,
     "end": 265.199,
     "text": "body so that you feel ill or weak. She mentions feeling tired, having a headache or a dry mouth",
-    "speaker": null
+    "speaker": "dehydrated symptomsdehydration"
   },
   {
+    "order": 48,
     "start": 265.199,
     "end": 271.68,
     "text": "as symptoms of dehydration, symptoms are signs or feelings in the body showing the presence",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 271.68,
     "end": 278.8,
     "text": "of some illness or condition. So whether you drink a little more or a little less, it seems that",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 278.8,
     "end": 284.319,
     "text": "around two litres of water a day is a good way to keep your blood and body healthy.",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 51,
     "start": 284.959,
     "end": 290.719,
     "text": "Speaking of which Phil, it's time to reveal the answer to my question. What percentage of our",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 290.72,
     "end": 301.92,
     "text": "blood is water? You said 80% and the answer is 90% our blood consists of around 90% water.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 302.64,
     "end": 308.88,
     "text": "Okay, let's recap the vocabulary we've used, starting with the phrase to arrive at a number,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 308.88,
     "end": 316,
     "text": "meaning to decide it by doing calculations. If an idea takes grip on something, it takes control",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 316.56,
     "end": 324.48,
-    "text": "of it. The phrase pretty much means almost. For example, pretty much everyone likes chocolate,",
-    "speaker": null
+    "text": " of it. The phrase pretty much means almost; for example, pretty much everyone likes chocolate",
+    "speaker": "takes grip on"
   },
   {
+    "order": 56,
     "start": 324.48,
     "end": 330.72,
     "text": "which means almost everyone likes chocolate. A ballpark figure is a phrase meaning a number which",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 330.72,
     "end": 338.319,
     "text": "is an acceptably accurate approximation. Dehydration is the condition of not having enough water in",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 338.319,
     "end": 346.48,
     "text": "your body so that you feel ill or weak. And finally, a symptom is a sign or feeling in the body",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 346.48,
     "end": 353.199,
     "text": "showing the presence of an illness or condition. Once again, our six minutes are up. Why not join",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 353.199,
     "end": 360.319,
     "text": "me now and head over to our website, BBCLearningEnglish.com. Download the worksheet for this program and",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 360.319,
     "end": 365.279,
     "text": "test yourself to see how much you remember. See you there soon. Bye.",

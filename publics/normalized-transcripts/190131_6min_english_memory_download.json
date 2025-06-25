@@ -1,464 +1,541 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.88,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.48,
     "end": 15.2,
     "text": "Hello and welcome to 6 Minute English. I'm Neil.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 15.2,
     "end": 19.199,
     "text": "This is the programme where in just 6 minutes we discuss an interesting topic",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 19.199,
     "end": 21.76,
     "text": "and teach some related English vocabulary.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 21.76,
     "end": 23.359,
     "text": "Enjoying me to do this is Rob.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 23.359,
     "end": 28.24,
     "text": "Hello. Sorry, Neil. How long did you say this programme is?",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 28.239,
     "end": 30.639,
     "text": "6 minutes. It's 6 Minute English, Rob.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 30.639,
     "end": 33.519,
     "text": "Right. Okay. Sorry. What's your name again?",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 33.519,
     "end": 37.2,
     "text": "Neil. My name's Neil, Rob. What's happened to your memory?",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 37.2,
     "end": 41.759,
     "text": "Sorry, Neil. Too many things on my mind. It's affecting my short-term memory.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 13,
     "start": 41.759,
     "end": 46.799,
-    "text": "Sorry, Neil – too many things on my mind, it's affecting my short-term memory, but what I can remember is that in this programme we're talking about improving our memory.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 46.799,
-    "end": 49.28,
-    "text": "We are, and I think you might find it quite useful.",
+    "text": "But what I can remember is that in this programme we're talking about improving our memory.",
     "speaker": null
   },
   {
+    "order": 14,
+    "start": 46.799,
+    "end": 49.28,
+    "text": "We are and I think you might find it quite useful! ",
+    "speaker": "Neil"
+  },
+  {
+    "order": 15,
     "start": 49.28,
     "end": 54.48,
     "text": "Storing information is an important function of our brains and scientists are always looking at ways",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 54.479,
     "end": 58.799,
     "text": "to improve it, but also to stop it deteriorating or becoming worse.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 58.799,
     "end": 63.839,
     "text": "Yes. And we all know that memories, that's the noun for things we remember from the past,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 63.839,
     "end": 68,
     "text": "are nice to have, but also important for remembering who people are,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 68,
     "end": 70.239,
     "text": "where things are kept and how things look.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 70.239,
     "end": 75.28,
-    "text": "Soon we'll be discussing a new idea for improving your memory, but not before I've set today's",
-    "speaker": null
+    "text": "Soon we'll be discussing a new idea for improving your memory but not before I've set today's ",
+    "speaker": "Neil"
   },
   {
+    "order": 21,
     "start": 75.28,
     "end": 81.199,
     "text": "quiz question. There are many ways we can improve our memory, but one way is through the type of",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 81.2,
     "end": 87.439,
     "text": "food we eat. According to the BBC Food website, which type of food supports good memory function?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 87.439,
     "end": 91.68,
     "text": "Is it a, eggs, b, spinach or sea bananas?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 91.68,
     "end": 97.599,
     "text": "Well, as a kid I was always told that spinach was good for me, pop I ate it to make him strong,",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 97.599,
     "end": 99.68,
     "text": "so I'll say b, spinach.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 26,
     "start": 99.68,
     "end": 102.079,
     "text": "Well, I'll have the answer later on.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 27,
     "start": 102.079,
     "end": 107.52,
     "text": "Now let's talk more about improving our memory. Memory is the ability to encode,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 108.159,
     "end": 112.799,
     "text": "recall information, but a number of factors can affect people's memory processes,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 112.799,
     "end": 116.159,
     "text": "including health, anxiety, mood, stress and tiredness.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 116.159,
     "end": 121.599,
     "text": "That's why, for example, if you're taking an exam, it's important to get a good night's sleep",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 121.599,
     "end": 126.56,
-    "text": "That's why, for example, if you're taking an exam it's important to get a good night's sleep and to keep healthy. But Neil, when you're revising for an exam, what helps you to remember facts?",
-    "speaker": "Rob"
+    "text": "and to keep healthy. But Neil, when you're revising for an exam, what helps you to remember facts?",
+    "speaker": null
   },
   {
+    "order": 32,
     "start": 126.56,
     "end": 129.68,
     "text": "I tend to write things down again and again and again and again.",
     "speaker": "Neil"
   },
   {
+    "order": 33,
     "start": 129.68,
     "end": 133.919,
     "text": "Ah, well, that's one way, but people have different styles to help them remember.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 133.919,
     "end": 138,
     "text": "According to the BBC's iWonderGuide, there are three different styles,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 138,
     "end": 144.959,
     "text": "visual, auditory and kinesthetic. That's learning by doing and practicing something over and over again.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 144.959,
     "end": 146.159,
     "text": "That sounds like me.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 146.159,
     "end": 150.959,
     "text": "But recently a new study has come up with a method that could possibly be the best way to improve",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 38,
     "start": 150.959,
     "end": 156.56,
     "text": "your memory, and that's by drawing. Darryl O'Connor, whose professor of psychology at the University",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 156.56,
     "end": 161.199,
     "text": "of Leeds has been speaking about it on the BBC Radio 4 program all in the mind.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 161.519,
     "end": 162.799,
     "text": "See if you can work out why.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 164.479,
     "end": 170.079,
     "text": "The authors certainly argue that one of the things that happens is by drawing these particular objects",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 170.079,
     "end": 177.599,
     "text": "that it leads to this increased contextual representation of the object in one's mind.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 177.599,
     "end": 183.359,
     "text": "It makes a lot of intuitive sense, the idea that if you have encoded something in a greater",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 183.359,
     "end": 188.479,
     "text": "level of detail, it's like you're more likely to remember it. It's much stronger than just",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 188.479,
     "end": 191.039,
     "text": "remembering that writing down the words.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 192.799,
     "end": 198.56,
     "text": "Okay, so let's try to explain that. Drawing something leads to increased contextual",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 198.56,
     "end": 204.719,
     "text": "representation of the object, but something is contextual. It is in the situation where it usually",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 204.719,
     "end": 210,
     "text": "exists. So as you draw something, you're creating a picture in your mind about what it is,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 210,
     "end": 215.199,
     "text": "how you use it, and where it's used. I wonder if this means artists have good memories.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 215.199,
     "end": 220.399,
     "text": "Maybe Darryl O'Connor says that when you draw, you are encoding something in a greater level",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 220.399,
     "end": 226.639,
     "text": "of detail, more than you would by just writing things down. Encoding is changing information into",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 52,
     "start": 226.639,
     "end": 232.239,
     "text": "a form that can be stored and later recalled. That's because as you draw, you're thinking about",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 232.239,
     "end": 238.639,
     "text": "different aspects of the object. He says it makes intuitive sense. Intuitive means it's based on",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 238.639,
     "end": 244.079,
     "text": "feelings rather than facts or proof, so you just feel it's the best thing to do. Of course,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 244.08,
     "end": 249.6,
-    "text": "Of course this is just one more way to improve your memory. I have also heard that doing crossword puzzles and Sudoku can help, especially when you're older.",
-    "speaker": "Neil"
+    "text": "this is just one more way to improve your memory. I have also heard that doing crossword puzzles and",
+    "speaker": "intuitive sense"
   },
   {
+    "order": 56,
     "start": 249.6,
     "end": 255.36,
     "text": "Sudoku can help, especially when you're older. Yes, as we get older, we can often have more difficulty",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 255.36,
     "end": 260.72,
     "text": "retrieving information from our memory, and people with Alzheimer's find it very difficult to",
-    "speaker": null
+    "speaker": "Alzheimer’s"
   },
   {
+    "order": 58,
     "start": 260.72,
     "end": 266.48,
     "text": "encode information. So anyway, to keep our memory working is a good thing. Basically, we need",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 266.48,
     "end": 271.759,
     "text": "brain training. Brain training and eating the right food, Rob. You might remember that earlier I",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 271.759,
     "end": 278.24,
-    "text": "Brain training and eating the right food Rob! You might remember that earlier I asked you, according to the BBC Food website, which type of food supports good memory function? Is it…",
-    "speaker": "Neil"
+    "text": "asked you, according to the BBC Food website, which type of food supports good memory function?",
+    "speaker": null
   },
   {
+    "order": 61,
     "start": 278.24,
     "end": 286.159,
     "text": "Is it a, eggs, b, spinach or c, bananas? And Rob, you said, I do remember and I said b, spinach.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 286.159,
     "end": 292.56,
     "text": "And that is sort of the wrong answer. In fact, they were all correct. They are all examples of food",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 63,
     "start": 292.56,
     "end": 298.639,
     "text": "that can help support good memory. Apparently, foods rich in b vitamins are important as they provide",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 298.639,
     "end": 304.159,
     "text": "protection for the brain as we age and support good memory function. I think it's time to change my",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 304.159,
     "end": 309.68,
     "text": "diet. Now, once in the vocabulary we looked at in this program. So today we've been talking about",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 309.68,
     "end": 315.839,
-    "text": "So today we've been talking about our memory – we use our memory to remember things and memories is the noun for things we remember from the past.",
+    "text": "our memory. We use our memory to remember things and memories is the noun for things we remember",
     "speaker": "memorymemories"
   },
   {
+    "order": 67,
     "start": 315.839,
     "end": 321.68,
     "text": "from the past. Then we discussed a learning style known as kinesthetic, that is learning by doing",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 321.68,
     "end": 327.039,
     "text": "and practicing something over and over again. We heard from Professor Darryl O'Connor who talked",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 327.04,
     "end": 333.12,
-    "text": "We heard from Professor Daryl O'Connor, who talked about contextual representation - when something is contextual, you see it in the situation where it usually exists.",
+    "text": "about contextual representation. When something is contextual, you see it in the situation where it",
     "speaker": "contextual contextual"
   },
   {
+    "order": 70,
     "start": 333.12,
     "end": 339.2,
     "text": "usually exists. Next, we talked about encoding, that is, changing information into a form that can",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 339.2,
     "end": 345.92,
     "text": "be stored and later recalled. And we mentioned intuitive sense. Having an intuitive sense means doing",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 345.92,
     "end": 351.439,
     "text": "something based on feelings rather than facts or proof. So you just feel it's the best thing to do.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 351.439,
     "end": 356.4,
-    "text": "And finally we mentioned Alzheimer’s – a disease affecting the brain that makes it difficult to remember things and it gets worse as you get older.",
-    "speaker": "Alzheimer’s"
+    "text": "And finally, we mentioned Alzheimer's, a disease affecting the brain that makes it difficult to",
+    "speaker": "intuitive sense"
   },
   {
+    "order": 74,
     "start": 356.399,
     "end": 361.12,
     "text": "remember things and it gets worse as you get older. Well, there are lots of new words to remember",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 361.12,
     "end": 365.199,
     "text": "there, but that's all for this program. Don't forget to visit us on Facebook, Twitter,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 365.199,
     "end": 370.56,
     "text": "Instagram and YouTube and our website, BBCLearningEnglish.com. Bye for now. Goodbye.",
-    "speaker": null
+    "speaker": "Neil"
   }
 ]

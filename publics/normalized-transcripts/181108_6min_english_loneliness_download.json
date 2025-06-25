@@ -1,611 +1,713 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 11.519,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 12.56,
     "end": 15.12,
     "text": "Hello. Welcome to 6 Minute English, I'm Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 15.12,
     "end": 16.08,
     "text": "And I'm Sam.",
-    "speaker": "Sam"
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 16.08,
     "end": 20.48,
-    "text": "And we are sitting here in New Broadcasting House, in the middle of London. Would you say, Sam, that this is an isolated place?",
+    "text": "And we are sitting here in New Broadcasting House, in the middle of London",
     "speaker": "isolated"
   },
   {
+    "order": 6,
     "start": 20.48,
     "end": 23.28,
     "text": "Would you say, Sam, that this is an isolated place?",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 23.28,
     "end": 25.679,
     "text": "Oh, no. Not at all.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 25.679,
     "end": 29.6,
-    "text": "Oh no, not at all. Isolated means far away from other places and people.",
-    "speaker": "Isolated"
+    "text": "Isolated means far away from other places and people.",
+    "speaker": null
   },
   {
+    "order": 9,
     "start": 29.6,
     "end": 32.719,
-    "text": "Does that mean then, do you think, that you can't be lonely here, with all these people around and all these things to do?",
+    "text": "Does that mean then do you think that you can't be lonely here",
     "speaker": "Neil"
   },
   {
+    "order": 10,
     "start": 32.719,
     "end": 35.359,
     "text": "with all these people around and all these things to do?",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 35.359,
     "end": 36.8,
     "text": "Ah, good question.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 37.439,
     "end": 39.76,
     "text": "Can you be lonely in a crowd?",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 39.76,
     "end": 41.12,
     "text": "Yes, of course.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 41.12,
     "end": 45.52,
     "text": "I think you can be because being lonely isn't about physical isolation.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 46.24,
     "end": 51.84,
     "text": "I think you can be lonely anywhere if you feel that you're disconnected from the world around you,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 51.84,
     "end": 54.4,
     "text": "if you feel that no one understands you.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 54.4,
     "end": 58.56,
     "text": "If you are living happily in isolation in the Scottish Highlands, for example,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 59.2,
     "end": 61.92,
     "text": "I'm sure you could feel only if you came here to London.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 62.56,
     "end": 65.359,
     "text": "Well, loneliness is today's topic.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 20,
     "start": 65.359,
     "end": 68.32,
     "text": "The BBC has just completed a big survey about it,",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 68.32,
     "end": 70.799,
     "text": "which we will learn more about shortly.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 70.799,
     "end": 72.64,
     "text": "But first, of course, a question,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 73.359,
     "end": 77.52,
     "text": "where is the most isolated inhabited place on the planet,",
-    "speaker": null
+    "speaker": "to regulateto control"
   },
   {
+    "order": 24,
     "start": 77.52,
     "end": 80.879,
     "text": "by which I mean the place furthest away from anywhere else,",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 81.439,
     "end": 83.68,
     "text": "with the fewest people living there?",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 83.68,
     "end": 86.56,
     "text": "Is it a MacMurdo station in Antarctica?",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 87.28,
     "end": 91.2,
     "text": "B, Seawa Oasis in Egypt's western desert?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 91.2,
     "end": 95.6,
     "text": "Or is it C, the island of Tristan, D'Akunya in the South Atlantic?",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 95.6,
     "end": 96.56,
-    "text": "What do you think, Sam?",
+    "text": " What do you think, Sam",
     "speaker": "Neil"
   },
   {
+    "order": 30,
     "start": 96.56,
     "end": 98.799,
-    "text": "I've got absolutely no idea.",
-    "speaker": null
+    "text": "I've got absolutely no idea,",
+    "speaker": "Sam"
   },
   {
+    "order": 31,
     "start": 98.799,
     "end": 100.32,
     "text": "So this is just a guess.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 101.04,
     "end": 103.28,
     "text": "I think it's the one in Antarctica.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 103.28,
     "end": 104.4,
     "text": "I'm going to go with that.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 104.4,
     "end": 107.52,
     "text": "Well, we'll have the answer later on in the programme.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 108.24,
     "end": 112.56,
     "text": "Loneliness is seen as a big problem for the mental health of the population,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 112.56,
     "end": 115.84,
     "text": "so much so that the British government has a minister for loneliness.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 116.4,
     "end": 119.439,
     "text": "But which age group suffers most from loneliness?",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 120.079,
     "end": 123.2,
     "text": "Here is a BBC report about the research.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 124.56,
     "end": 129.12,
     "text": "There is a common stereotype that loneliness affects only the old and the isolated.",
-    "speaker": null
+    "speaker": "stereotypeisolatedintensely"
   },
   {
+    "order": 40,
     "start": 129.12,
     "end": 134.8,
     "text": "It does, but what this experiment also shows is that loneliness is felt throughout life.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 134.8,
     "end": 141.68,
     "text": "People age between 16 and 24 experience loneliness more often and more intensely than any other age group.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 142.24,
     "end": 148.8,
     "text": "So according to the research, Sam, which section of society is most affected by loneliness?",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 43,
     "start": 148.8,
     "end": 153.68,
     "text": "Hmm, this might be a surprise, but it's 16 to 24-year-olds.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 153.68,
     "end": 158.8,
     "text": "I was surprised by that because like many, I would have guessed that it was older people.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 158.8,
     "end": 162.8,
     "text": "Hmm, the reporter did say that that was a stereotype.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 162.8,
     "end": 166.719,
     "text": "A stereotype is nothing to do with stereo music,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 47,
     "start": 166.8,
     "end": 173.039,
     "text": "but it's the noun we use to describe a very simple and basic judgment of someone and their",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 173.039,
     "end": 179.36,
     "text": "character and personality based on their age, nationality, profession and so on.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 180.079,
     "end": 187.759,
     "text": "So a stereotype of British people is that we can't cook, we have bad teeth, we're very reserved",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 187.759,
     "end": 189.28,
     "text": "and never say what we mean.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 189.28,
     "end": 192.159,
     "text": "Ah, I don't know what you mean, my cooking is wonderful, Sam.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 192.879,
     "end": 196.799,
     "text": "And the stereotype is that old people get lonely.",
-    "speaker": null
+    "speaker": "stereotype"
   },
   {
+    "order": 53,
     "start": 196.799,
     "end": 201.759,
     "text": "Much like the stereotypes of British people, this may be true in some cases.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 202.4,
     "end": 205.039,
     "text": "I've eaten some of your home-cooked meals, remember Neil?",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 205.759,
     "end": 207.759,
     "text": "But it's not true for the majority.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 208.4,
     "end": 212.719,
     "text": "It is young people who feel lonely more often and more intensely.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 213.359,
     "end": 215.439,
     "text": "Intensely here means strongly.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 216.079,
     "end": 220.56,
     "text": "The feeling of loneliness is stronger in young people than older people.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 221.199,
     "end": 226.719,
     "text": "The reporter goes on to give some explanation for why young people might be more lonely.",
     "speaker": "Neil"
   },
   {
+    "order": 60,
     "start": 228.319,
     "end": 233.28,
     "text": "Researchers from the University of Manchester who analysed the data suggested feeling lonely",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 233.28,
     "end": 238.8,
     "text": "may play the young because it's a time of identity change, figuring out your place in the world",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 238.8,
     "end": 240.719,
     "text": "and of learning to regulate emotions.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 242.319,
     "end": 245.599,
     "text": "He says that feeling lonely may play young people.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 245.599,
     "end": 246.8,
-    "text": "What does he mean there?",
-    "speaker": null
+    "text": " what does he mean there",
+    "speaker": "plague"
   },
   {
+    "order": 65,
     "start": 246.8,
     "end": 250.319,
     "text": "Hmm, if you're plagued by something,",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 250.319,
     "end": 252.159,
     "text": "it means that it troubles you.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 252.639,
     "end": 255.439,
     "text": "It bothers you and not just once.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 255.439,
     "end": 259.439,
     "text": "It's something that happens continually or repeatedly.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 259.439,
     "end": 264.079,
     "text": "And he says this maybe because at that age, we're still figuring out our place in the world.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 264.079,
     "end": 267.92,
     "text": "We're trying to understand the world and what we're supposed to do with our lives.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 267.92,
     "end": 273.519,
-    "text": "He also suggests that younger people have not yet learned how to regulate their emotions, which is another way of saying to control their emotions.",
-    "speaker": "to regulateto control"
+    "text": "He also suggests that younger people have not yet learned how to regulate their emotions,",
+    "speaker": null
   },
   {
+    "order": 72,
     "start": 273.519,
     "end": 277.68,
     "text": "which is another way of saying to control their emotions.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 278.24,
     "end": 281.04,
     "text": "Right, time to review this week's vocabulary.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 281.04,
     "end": 284.48,
     "text": "But before that, let's have the answer to the quiz.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 284.48,
     "end": 289.12,
     "text": "I asked where is the most isolated inhabited place on the planet?",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 289.12,
     "end": 292.639,
-    "text": "a) McMurdo Station in Antarctica",
-    "speaker": "Neil"
+    "text": "Is it A, McMurdo station in Antarctica?",
+    "speaker": null
   },
   {
+    "order": 77,
     "start": 292.639,
     "end": 296.879,
     "text": "B, Sea What Oasis in Egypt's western desert?",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 296.879,
     "end": 300.24,
     "text": "Or C, the island of Tristan, D'Aquiniar in the South Atlantic?",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 300.24,
     "end": 301.759,
-    "text": "What did you say, Sam?",
+    "text": "What did you say Sam?",
     "speaker": "isolated"
   },
   {
+    "order": 80,
     "start": 301.759,
     "end": 302.48,
-    "text": "I said a).",
+    "text": "I said a)",
     "speaker": "Sam"
   },
   {
+    "order": 81,
     "start": 303.36,
     "end": 307.199,
     "text": "Well, I'm afraid to say the answer is actually C,",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 307.199,
     "end": 310.56,
     "text": "the island of Tristan, D'Aquiniar in the South Atlantic.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 310.56,
     "end": 317.839,
     "text": "It has a population of fewer than 300 and it's only accessible by a six-day voyage by ship from South Africa.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 317.839,
     "end": 321.199,
     "text": "So, uh, not so popular place for a weekend break?",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 321.199,
     "end": 322.879,
-    "text": "Indeed not.",
-    "speaker": null
+    "text": " Indeed not",
+    "speaker": "Sam"
   },
   {
+    "order": 86,
     "start": 322.879,
     "end": 326,
     "text": "Now it's time for a recap of our vocabulary.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 326,
     "end": 329.919,
     "text": "The first word was isolated, which Tristan, D'Aquiniar certainly is.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 329.919,
     "end": 332.879,
     "text": "It means far away from other places and people.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 332.959,
     "end": 338.24,
     "text": "Then there was stereotype, the noun for a simplistic view of a person or group",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 338.24,
     "end": 341.759,
     "text": "based on their nationality, aid, profession and the like.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 341.759,
     "end": 343.839,
     "text": "Intensely means strongly.",
-    "speaker": "Neil"
+    "speaker": "stereotype"
   },
   {
+    "order": 92,
     "start": 343.839,
     "end": 348.56,
     "text": "Being plagued by something means it causes you problems and difficulties.",
     "speaker": "plagued"
   },
   {
+    "order": 93,
     "start": 348.56,
     "end": 352.959,
     "text": "If you are trying to figure something out, you are trying to understand it.",
-    "speaker": "figure  out"
+    "speaker": null
   },
   {
+    "order": 94,
     "start": 352.959,
     "end": 356.079,
     "text": "And to regulate something means to control it.",
     "speaker": "to regulate"
   },
   {
+    "order": 95,
     "start": 356.079,
     "end": 358.639,
     "text": "Well, sadly that's the end of the program.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 358.639,
     "end": 361.04,
     "text": "Hopefully you won't feel too lonely without us.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 361.04,
     "end": 364.879,
     "text": "Remember, we're always here on Instagram, Facebook, Twitter, YouTube,",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 364.879,
     "end": 368.879,
     "text": "our app and of course the website, BBCLearningEnglish.com.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 368.879,
     "end": 370.16,
     "text": "See you soon, goodbye.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 370.16,
     "end": 371.68,
-    "text": "Bye!",
-    "speaker": "Sam"
+    "text": "Bye.",
+    "speaker": null
   },
   {
+    "order": 101,
     "start": 371.68,
     "end": 374.4,
     "text": "Six-minute English from the BBC.",

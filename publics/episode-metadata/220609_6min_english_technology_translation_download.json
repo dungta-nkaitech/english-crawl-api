@@ -7,12 +7,8 @@
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/220609_6min_english_technology_translation.pdf",
   "vocabItems": [
     {
-      "word": "metaphor",
-      "definition": "way of describing a person or thing by comparing it to something else, often found in poetry and literature"
-    },
-    {
-      "word": "It's raining cats and dogs!",
-      "definition": "(idiom) It is raining heavily!"
+      "word": "metaphorIt's raining cats and dogs!chunkroteautomatedflummox",
+      "definition": "metaphorway of describing a person or thing by comparing it to something else, often found in poetry and literatureIt's raining cats and dogs!(idiom) It is raining heavily!chunka large part of somethingrotelearnt by memory in order to be repeated rather than properly understoodautomateddone by machines instead of humansflummoxconfuse someone so much that they don't know what to do"
     }
   ],
   "quiz": null

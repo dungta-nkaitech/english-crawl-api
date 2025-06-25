@@ -1,713 +1,832 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 12.08,
     "text": "6M English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 12.08,
     "end": 15.28,
     "text": "Hello and welcome to 6 Minute English. I'm Alice…",
     "speaker": "Alice"
   },
   {
+    "order": 4,
     "start": 15.28,
     "end": 19.199,
     "text": "And I'm Neil. What do you think about autonomous cars, Alice?",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 19.199,
     "end": 23.28,
     "text": "Mmm, an autonomous or independent and driverless car",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 23.28,
     "end": 26.56,
     "text": "is a vehicle that is capable of sensing its environment",
-    "speaker": null
+    "speaker": "autonomous"
   },
   {
+    "order": 7,
     "start": 26.56,
     "end": 28.8,
     "text": "and navigating without human input.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 28.8,
     "end": 30.64,
     "text": "I think they're a great idea.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 30.64,
     "end": 33.359,
     "text": "A navigate means to find the way to get to a place.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 33.359,
     "end": 35.6,
     "text": "I'm not sure I would trust a computer to drive me.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 35.6,
     "end": 37.52,
     "text": "It might go wrong and crash into a wall.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 38.24,
     "end": 43.679,
-    "text": "Maybe, but actually most car accidents involve an element of human error.",
-    "speaker": null
+    "text": "Maybe, but actually most car accidents involve an element of human error,",
+    "speaker": "human error"
   },
   {
+    "order": 13,
     "start": 43.679,
     "end": 47.519,
     "text": "And human error means the mistakes we make because we're human.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 47.519,
     "end": 52.88,
     "text": "For example, people who are behind the wheel while tired or drunk or distracted.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 52.88,
     "end": 56.159,
     "text": "Behind the wheel, in other words, in control of a car.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 56.239,
     "end": 59.599,
     "text": "Yes, I often see people talking on their mobile phones or texting",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 59.599,
     "end": 61.439,
     "text": "instead of looking at the road.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 61.439,
     "end": 63.759,
     "text": "They're being irresponsible drivers, Neil.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 64.239,
     "end": 66.879,
     "text": "Driving is the subject of today's show.",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 20,
     "start": 66.879,
     "end": 68.56,
     "text": "I have a question for you.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 68.56,
     "end": 73.759,
     "text": "On average, how many people around the world die each day from road accidents?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 73.759,
     "end": 80.239,
     "text": "Is it A, 300, B, 3000 or C, 30,000?",
-    "speaker": null
-  },
-  {
-    "start": 80.239,
-    "end": 82.719,
-    "text": "And I'm going to say b) 3,000.",
     "speaker": "Neil"
   },
   {
+    "order": 23,
+    "start": 80.239,
+    "end": 82.719,
+    "text": "And I'm going to say B, 3000.",
+    "speaker": "Alice"
+  },
+  {
+    "order": 24,
     "start": 82.719,
     "end": 86.319,
     "text": "Well, we'll see if you're right or not later on in the show.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 86.319,
     "end": 88.239,
     "text": "Are you a petrolhead, Neil?",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 88.239,
     "end": 91.84,
     "text": "No, I'm not a petrolhead, which is someone who loves cars and driving.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 91.84,
     "end": 94.719,
     "text": "But I know Eddie Jordan, a racing team owner, is.",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 28,
     "start": 95.439,
     "end": 97.68,
     "text": "And what does he love about driving?",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 97.68,
     "end": 99.359,
     "text": "He'll answer this question himself.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 99.359,
     "end": 99.92,
     "text": "Let's listen.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 31,
     "start": 101.039,
     "end": 103.84,
-    "text": "When I get in a car, I feel a different person.",
-    "speaker": null
+    "text": "When I get in a car I feel a different person, ",
+    "speaker": "Eddie Jordan, racing team owner"
   },
   {
+    "order": 32,
     "start": 103.84,
     "end": 105.92,
     "text": "I feel that I'm now in control.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 105.92,
     "end": 108.319,
     "text": "I can turn on the music or I can turn it off.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 108.319,
     "end": 111.28,
     "text": "I can do all sorts of different things that I feel good about.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 112.239,
     "end": 116.079,
     "text": "When I was flat out with the Jordan team, I did have a driver.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 116.079,
     "end": 120.48,
     "text": "And that was one to be able to make calls and to be able to receive calls and to be able to work in the car.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 120.48,
     "end": 122.079,
     "text": "Not because I didn't want to drive.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 122.079,
     "end": 127.04,
     "text": "And I always felt cheap that there was a driver there taking the pleasure that I should be having.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 127.04,
     "end": 129.68,
     "text": "So when I get in the car, it has to be a fun experience.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 130.879,
     "end": 131.92,
     "text": "Eddie Jordan there.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 131.92,
     "end": 135.52,
     "text": "And doing something flat out means that maximum capacity.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 135.52,
     "end": 138.159,
     "text": "Do you feel like a different person when you're driving, Alice?",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 138.159,
     "end": 138.96,
     "text": "No.",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 44,
     "start": 138.96,
     "end": 140.96,
     "text": "And unlike Eddie Jordan,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 140.96,
     "end": 144.56,
     "text": "I'd love to have a driver or a driverless car for that matter.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 144.56,
     "end": 148,
     "text": "It gives you time to do other things like getting some work done.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 148,
     "end": 151.36,
     "text": "I certainly wouldn't feel cheated of the pleasure of driving.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 151.36,
     "end": 153.12,
     "text": "I agree with Eddie Jordan.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 153.12,
     "end": 154.64,
     "text": "I would feel a bit cheated.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 154.64,
     "end": 157.52,
     "text": "And I have to admit, I'm a bit of a backseat driver.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 157.52,
     "end": 161.04,
     "text": "I sit in the passenger seat and give the driver unwanted advice.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 161.04,
     "end": 162.719,
-    "text": "Well, just think, Neil.",
-    "speaker": null
+    "text": "Well just think, Neil, ",
+    "speaker": "Alice"
   },
   {
+    "order": 53,
     "start": 162.719,
     "end": 166.159,
     "text": "In a driverless car, you wouldn't need to give the computer advice",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 166.159,
     "end": 170.4,
     "text": "because it would be making the right decisions to get you to your destination safely.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 170.4,
     "end": 172.96,
     "text": "But can you override the computer, you know,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 172.96,
     "end": 175.599,
-    "text": "But can you override the computer? You know, if you felt that it was making bad decisions?",
-    "speaker": "Neil"
+    "text": "if you felt that it was making bad decisions?",
+    "speaker": null
   },
   {
+    "order": 57,
     "start": 175.599,
     "end": 179.36,
     "text": "Uber ride in this context means to stop an automatic action",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 179.36,
     "end": 180.879,
     "text": "by taking control yourself.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 181.52,
     "end": 183.759,
     "text": "airline pilots do that, don't they?",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 183.759,
     "end": 186.56,
     "text": "They fly on autopilot for most of the journey,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 186.56,
     "end": 190.8,
     "text": "but override it in order to take control of the plane for takeoff and landing.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 190.8,
     "end": 195.439,
     "text": "I would feel happier if I could take back control of an automated car if I wanted to.",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 63,
     "start": 195.439,
     "end": 199.36,
     "text": "Well, let's listen now to Brian Fung, a technology reporter",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 199.36,
     "end": 204,
     "text": "who's experienced what it is to be in a driverless car that has no steering wheels,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 204,
     "end": 207.44,
     "text": "no brake pedals, no emergency brake, no gear shifter.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 208.16,
     "end": 212.16,
     "text": "Google is developing a car in which everything will be self-contained.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 214.16,
     "end": 216.8,
     "text": "Well, the biggest thing you notice right off the bat is that",
-    "speaker": null
+    "speaker": "Brian Fung, technology reporter"
   },
   {
+    "order": 68,
     "start": 217.52,
     "end": 221.12,
     "text": "the car accelerates a little bit more aggressively than a regular car might,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 221.12,
     "end": 224.88,
     "text": "and it breaks a little bit more aggressively than a regular car might.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 224.88,
     "end": 228.32,
     "text": "But other than that, it takes about 10 seconds for you to get",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 228.799,
     "end": 230,
     "text": "pretty comfortable.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 230,
     "end": 232.959,
     "text": "And the car knew how to stop for red lights.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 232.959,
     "end": 235.599,
     "text": "It knew how to run through yellow lights.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 235.599,
     "end": 241.359,
     "text": "It could detect pedestrians and navigate its way around parked cars.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 241.359,
     "end": 246.639,
     "text": "All in all, it felt very similar to a regular car driving experience.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 246.639,
     "end": 251.199,
     "text": "And I think that's one of the most surprising and exciting things about it is",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 251.199,
     "end": 252.319,
     "text": "just how mundane it was.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 253.759,
     "end": 257.439,
     "text": "Brian Fung says he noticed right off the bat that the Google car",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 257.439,
     "end": 260.879,
     "text": "accelerated and brake more aggressively than a regular car,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 260.879,
     "end": 263.439,
     "text": "and right off the bat means immediately.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 263.439,
     "end": 269.12,
     "text": "But he also says it took him only 10 seconds to get used to it and feel comfortable.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 269.12,
     "end": 273.839,
-    "text": "As the car navigated appropriately and responded to different traffic situations,",
-    "speaker": null
+    "text": " as the car navigated appropriately and responded to different traffic situations",
+    "speaker": "Alice"
   },
   {
+    "order": 83,
     "start": 273.839,
     "end": 276.8,
     "text": "including pedestrians and parked cars.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 276.8,
     "end": 281.279,
     "text": "Well, that all sounds very nice, but I think I'd still prefer to be in the driving seat.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 281.279,
     "end": 286.72,
-    "text": "Well, that all sounds very nice, but I think I'd still prefer to be in the driving seat – and that means 'in control of a situation'. You can take the driverless car, and do your work, Alice.",
-    "speaker": "in the driving seat"
-  },
-  {
-    "start": 286.8,
-    "end": 290.4,
-    "text": "Well, the future is likely to be all about automated transport.",
+    "text": "And that means in control of a situation, you can take the driverless car and do your work, Alice.",
     "speaker": null
   },
   {
+    "order": 86,
+    "start": 286.8,
+    "end": 290.4,
+    "text": "Well, the future is likely to be all about automated transport ",
+    "speaker": "Alice"
+  },
+  {
+    "order": 87,
     "start": 291.2,
     "end": 296.56,
     "text": "Plains, trains, buses and cars, and you simply won't have a choice, Neil.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 296.56,
     "end": 298.64,
-    "text": "Maybe you'll be allowed to hire a car you can drive yourself, just for fun.",
-    "speaker": "Neil"
+    "text": "Maybe you'll be allowed to hire a car.",
+    "speaker": null
   },
   {
+    "order": 89,
     "start": 298.64,
     "end": 300.4,
     "text": "You can drive yourself just for fun.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 300.4,
     "end": 301.44,
     "text": "Maybe.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 301.44,
     "end": 305.04,
-    "text": "Maybe. But I like the idea of a future with safe driverless roads.",
-    "speaker": "Alice"
+    "text": "But I like the idea of a future with safe driverless roads.",
+    "speaker": null
   },
   {
+    "order": 92,
     "start": 305.04,
     "end": 306.56,
     "text": "I still need some convincing.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 306.56,
     "end": 308.88,
     "text": "And that brings us back to today's quiz question.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 308.88,
     "end": 311.2,
     "text": "Can you tell us the answer now, please, Alice?",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 311.2,
     "end": 312.4,
     "text": "Of course I can.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 312.399,
     "end": 318.959,
-    "text": "Of course I can! I asked: On average, around how many people around the world die each day from road accidents? Is it… a) 300, b) 3,000 or c) 30,000?",
-    "speaker": "Alice"
+    "text": "I asked, on average, around how many people around the world die each day from road accidents.",
+    "speaker": null
   },
   {
+    "order": 97,
     "start": 318.959,
     "end": 325.199,
     "text": "Is it A, 300, B, 3000 or C, 30,000?",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 325.199,
     "end": 326.479,
-    "text": "And I said 3,000.",
+    "text": "And I said 3,000",
     "speaker": "Neil"
   },
   {
+    "order": 99,
     "start": 327.279,
     "end": 330,
     "text": "And unfortunately, Neil, that's right.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 330,
     "end": 338.319,
     "text": "Nearly 1.3 million people die in road crashes each year, on average 3,287 deaths a day.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 338.319,
     "end": 341.919,
     "text": "That's according to annual global road crash statistics.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 341.92,
     "end": 343.92,
     "text": "Now, here are the words we learned today:",
     "speaker": "Neil"
   },
   {
+    "order": 103,
     "start": 344.56,
     "end": 345.6,
-    "text": "autonomous",
-    "speaker": "Neil"
+    "text": "Autonomous.",
+    "speaker": null
   },
   {
+    "order": 104,
     "start": 346.64,
     "end": 347.6,
-    "text": "navigate",
+    "text": "navigate ",
     "speaker": "Neil"
   },
   {
+    "order": 105,
     "start": 348.4,
     "end": 349.52,
-    "text": "human error",
-    "speaker": "Neil"
+    "text": "Human error.",
+    "speaker": null
   },
   {
+    "order": 106,
     "start": 350.4,
     "end": 351.68,
-    "text": "behind the wheel",
+    "text": "behind the wheel ",
     "speaker": "Neil"
   },
   {
+    "order": 107,
     "start": 352.56,
     "end": 353.6,
-    "text": "petrol head",
-    "speaker": "Neil"
+    "text": "Petrol head.",
+    "speaker": null
   },
   {
+    "order": 108,
     "start": 354.72,
     "end": 355.759,
-    "text": "flat out",
+    "text": "flat out ",
     "speaker": "Neil"
   },
   {
+    "order": 109,
     "start": 356.72,
     "end": 358,
-    "text": "backseat driver",
-    "speaker": "Neil"
+    "text": "Backseat driver.",
+    "speaker": null
   },
   {
+    "order": 110,
     "start": 358.879,
     "end": 360,
-    "text": "override",
+    "text": "override ",
     "speaker": "Neil"
   },
   {
+    "order": 111,
     "start": 360.8,
     "end": 362,
-    "text": "right off the bat",
-    "speaker": "Neil"
+    "text": "Right off the bat.",
+    "speaker": null
   },
   {
+    "order": 112,
     "start": 362.879,
     "end": 364.16,
-    "text": "in the driving seat",
+    "text": "in the driving seat ",
     "speaker": "Neil"
   },
   {
+    "order": 113,
     "start": 364.48,
     "end": 367.04,
-    "text": "And that's the end of today's 6 Minute English. Don't forget to join us again soon!",
-    "speaker": "Alice"
+    "text": "And that's the end of today's 6 Minute English.",
+    "speaker": null
   },
   {
+    "order": 114,
     "start": 367.04,
     "end": 369.04,
     "text": "Don't forget to join us again soon.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 369.04,
     "end": 369.84,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 369.84,
     "end": 370.639,
-    "text": "Bye!",
-    "speaker": "Both"
+    "text": "Bye.",
+    "speaker": null
   },
   {
+    "order": 117,
     "start": 371.12,
     "end": 372.639,
     "text": "6 Minute English.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 372.639,
     "end": 373.839,
     "text": "From the BBC.",

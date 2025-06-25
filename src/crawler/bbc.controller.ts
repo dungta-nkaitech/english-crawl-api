@@ -22,7 +22,7 @@ export class BbcController {
 
     @Get('crawl-metadata')
     async crawlMetadata() {
-        const data = await this.bbcService.crawlAllMetadata();  
+        const data = await this.bbcService.crawlAllMetadata();
         return data.length;
     }
 }

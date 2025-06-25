@@ -1,476 +1,555 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 11.439,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 13.599,
     "end": 17.839,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 17.839,
     "end": 25.28,
     "text": "And I'm Sam. When Neil and I record 6 Minute English face to face in the BBC Learning English",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 25.28,
     "end": 31.359,
     "text": "studio, which I'm happy to say we are doing right now, we look at each other as we speak.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 31.359,
     "end": 38.24,
     "text": "We smile and use hand gestures and facial expressions in a type of communication called body language.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 38.24,
     "end": 43.76,
-    "text": "But during the Covid pandemic, everyday meetings with work colleagues, teachers and friends, and 6 Minute English recording - all moved online.",
+    "text": "But during the Covid pandemic, everyday meetings with work colleagues, teachers and friends,",
     "speaker": "Neil"
   },
   {
+    "order": 8,
     "start": 43.76,
     "end": 47.52,
     "text": "and 6 Minute English recordings all moved online.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 47.52,
     "end": 52.96,
     "text": "Video meetings using software like Zoom and Skype became the normal way to communicate with",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 52.96,
     "end": 59.039,
     "text": "family and friends. And whenever it happens with Covid in the future, it seems they're here to stay.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 59.039,
     "end": 65.519,
     "text": "In this programme, we’ll be asking: how has body language changed in the world of online video meetings?",
     "speaker": "Neil"
   },
   {
+    "order": 12,
     "start": 65.519,
     "end": 71.12,
     "text": "We'll meet the person who wrote the rule book for clear communication in the digital age,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 71.12,
     "end": 75.359,
     "text": "Erica Darwin, author of a new book, Digital Body Language.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 75.359,
     "end": 80.159,
     "text": "But before that, I have a question for you, Sam, and it's about Erica Darwin.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 80.159,
     "end": 86.479,
     "text": "She may be a communications expert now, but growing up in Pennsylvania, she was a shy and quiet",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 16,
     "start": 86.479,
     "end": 92.879,
     "text": "school girl. So how did Erica beat her shyness and become the confident communicator she is today?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 92.879,
     "end": 96.319,
-    "text": "a) attend public speaking classes?,",
-    "speaker": "Neil"
+    "text": "Did she A, attend public speaking classes?",
+    "speaker": null
   },
   {
+    "order": 18,
     "start": 96.319,
     "end": 103.039,
-    "text": "b) copy the body language of the cool kids at school?  or,",
-    "speaker": "Neil"
+    "text": "B, copy the body language of the cool kids at school, or C, raise her hand to answer the teacher's",
+    "speaker": null
   },
   {
+    "order": 19,
     "start": 103.039,
     "end": 106.079,
-    "text": "c) raised her hand to answer the teacher’s questions, even if she didn’t know the answer?",
+    "text": "questions, even if she didn't know the answer.",
     "speaker": "Neil"
   },
   {
+    "order": 20,
     "start": 106.159,
     "end": 110.64,
     "text": "I guess C, she raised her hand to answer the teacher's questions.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 110.64,
     "end": 114.56,
     "text": "Okay, Sam, we'll reveal the correct answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 115.2,
     "end": 122.079,
     "text": "In face-to-face meetings, we immediately see someone's reaction to what we said through eye contact,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 122.079,
     "end": 125.519,
     "text": "where two people look into each other's eyes as they talk.",
-    "speaker": null
-  },
-  {
-    "start": 125.519,
-    "end": 131.52,
-    "text": "Unfortunately, using a web camera to make eye contact is almost impossible in online meetings and this often creates a kind of ‘distancing’ effect.",
     "speaker": "Neil"
   },
   {
+    "order": 24,
+    "start": 125.519,
+    "end": 131.52,
+    "text": "Unfortunately, using a web camera to make eye contact is almost impossible in online meetings ",
+    "speaker": "Neil"
+  },
+  {
+    "order": 25,
     "start": 131.52,
     "end": 135.199,
     "text": "and this often creates a kind of distancing effect.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 135.28,
     "end": 138.319,
     "text": "Erica Darwin makes several suggestions to help with this.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 138.959,
     "end": 145.119,
-    "text": "Erica Dhawan makes several suggestions to help with this. See if you can hear the final suggestion she makes to Michael Rosen as part of BBC Radio 4’s Word of Mouth.",
-    "speaker": "Sam"
+    "text": "See if you can hear the final suggestion she makes to Michael Rosen as part of BBC Radio 4,",
+    "speaker": null
   },
   {
+    "order": 28,
     "start": 145.119,
     "end": 145.919,
     "text": "Word of mouth.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 29,
     "start": 147.039,
     "end": 154,
     "text": "And last but not least, slow down. Remember when it was completely normal to have a one-minute pause",
-    "speaker": null
+    "speaker": "brainstormingprocess"
   },
   {
+    "order": 30,
     "start": 154,
     "end": 157.599,
     "text": "in a room with one another, because we knew where we were thinking and brainstorming.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 157.599,
     "end": 161.839,
     "text": "If we don't hear someone speak on video, we ask them if they're on mute.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 161.84,
     "end": 163.84,
     "text": "Practice what I call the five-second rule.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 163.84,
     "end": 168.879,
     "text": "Wait five seconds before speaking to make sure individuals have time to process the ideas,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 168.879,
     "end": 172.48,
     "text": "especially if there may be technology or accessibility issues.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 174,
     "end": 176.879,
-    "text": "Did you hear Erica’s last piece of advice, Neil?",
-    "speaker": "Sam"
-  },
-  {
-    "start": 176.879,
-    "end": 182.8,
-    "text": "Yes, she recommends slowing down, something we do naturally face-to-face when we're thinking",
+    "text": "Did you hear Erica's last piece of advice, Neil?",
     "speaker": null
   },
   {
+    "order": 36,
+    "start": 176.879,
+    "end": 182.8,
+    "text": "Yes, she recommends slowing down, something we do naturally face-to-face when we’re thinking",
+    "speaker": "brainstorming"
+  },
+  {
+    "order": 37,
     "start": 182.8,
     "end": 188.96,
     "text": "or brainstorming. That's discussing suggestions with a group of people to come up with new ideas",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 188.96,
     "end": 190.159,
     "text": "or to solve problems.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 190.64,
     "end": 196.96,
-    "text": "Slowing down gives us time to process new information – to understand it by thinking carefully and reflecting on it.",
-    "speaker": "process"
+    "text": "Slowing down gives us time to process new information, to understand it by thinking carefully",
+    "speaker": null
   },
   {
+    "order": 40,
     "start": 196.96,
     "end": 198.48,
     "text": "and reflecting on it.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 198.48,
     "end": 203.04,
     "text": "Erica compares online body language to learning a new language.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 203.04,
     "end": 207.36,
     "text": "It takes practice, especially when it comes to smiling and laughing.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 207.36,
     "end": 210.879,
     "text": "Something Michael Rosen finds hard to do in video meetings.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 210.879,
     "end": 216.24,
     "text": "Listen to him discussing this problem with Erica Darwin, the BBC Radio 4's Word of mouth.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 216.4,
     "end": 221.92,
     "text": "Do you think it's killing off people, laughing and smiling in the way we do when we're all together",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 221.92,
     "end": 223.2,
     "text": "in the live situation?",
-    "speaker": null
+    "speaker": "Michael Rosen"
   },
   {
+    "order": 47,
     "start": 223.2,
     "end": 229.68,
     "text": "I would say that it is much less likely that we laugh and smile on camera for a few reasons.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 229.68,
     "end": 236.32,
     "text": "Number one, laughing is often done in unison, where we can quickly pick up the energy of someone",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 236.32,
     "end": 239.28,
     "text": "smiling or laughing and feed off of that and laugh ourselves.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 239.28,
     "end": 244.08,
     "text": "When it comes to screen delays, the fact that it's not natural to see our own camera",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 244.16,
     "end": 248.64,
     "text": "being distracted by that, we are much more less likely to laugh and smile.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 248.64,
     "end": 254.64,
     "text": "One of the ways we can overcome this is by creating intentional moments in our meetings for",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 254.64,
     "end": 255.92,
     "text": "the water cooler effect.",
-    "speaker": null
-  },
-  {
-    "start": 257.439,
-    "end": 264.16,
-    "text": "Erica points out that laughing often happens in unison – together and at the same time.",
-    "speaker": "in unison"
-  },
-  {
-    "start": 264.16,
-    "end": 267.04,
-    "text": "Yes, if someone starts laughing it makes me laugh too.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 267.6,
-    "end": 273.199,
-    "text": "She also thinks it’s important to make time for employees to chat informally about things unrelated to work – their weekend plans or last night’s TV show.",
     "speaker": "Sam"
   },
   {
+    "order": 54,
+    "start": 257.439,
+    "end": 264.16,
+    "text": "Erica points out that laughing often happens in unison – together and at the same time",
+    "speaker": "in unison"
+  },
+  {
+    "order": 55,
+    "start": 264.16,
+    "end": 267.04,
+    "text": "Yes, if someone starts laughing, it makes me laugh too.",
+    "speaker": null
+  },
+  {
+    "order": 56,
+    "start": 267.6,
+    "end": 273.199,
+    "text": "She also thinks it's important to make time for employees to chat informally about things",
+    "speaker": null
+  },
+  {
+    "order": 57,
     "start": 273.279,
     "end": 277.439,
     "text": "unrelated to work, though we can plans or last night's TV show.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 278.24,
     "end": 283.439,
-    "text": "And she uses the expression, the water cooler effect which comes from the United States where office workers sometimes meet at the water fountain to chat.",
-    "speaker": "water cooler effect"
+    "text": "And she uses the expression, the water cooler effect, which comes from the United States,",
+    "speaker": null
   },
   {
+    "order": 59,
     "start": 283.439,
     "end": 287.759,
     "text": "where office workers sometimes meet at the water fountain to chat.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 287.759,
     "end": 293.12,
     "text": "So the water cooler effect refers to informal conversations that people have in their office",
-    "speaker": null
-  },
-  {
-    "start": 293.12,
-    "end": 299.439,
-    "text": "So, the water cooler effect refers to informal conversations that people have in their office or workplace, maybe in the lift, the office kitchen or, if there is one, by an actual water cooler.",
     "speaker": "water cooler effect"
   },
   {
+    "order": 61,
+    "start": 293.12,
+    "end": 299.439,
+    "text": "or workplace, maybe in the lift, the office kitchen or if there is one by an actual water cooler.",
+    "speaker": null
+  },
+  {
+    "order": 62,
     "start": 300,
     "end": 305.6,
     "text": "Erica Darwin seems very comfortable communicating online, but she's had lots of time to practice",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 305.6,
     "end": 306.719,
     "text": "since her school days.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 306.719,
     "end": 312.56,
-    "text": "Ah yes, Neil, in your quiz question you asked how Erica conquered her shyness at school. I guessed that she raised her hand to answer the teacher’s questions.",
+    "text": "Ah, yes, Neil, in your quiz question, you asked how Erica conquered her shyness at school.",
     "speaker": "Sam"
   },
   {
+    "order": 65,
     "start": 313.36,
     "end": 316.72,
     "text": "I guess that she raised her hand to answer the teacher's questions.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 317.199,
     "end": 322.56,
-    "text": "It was a good guess, Sam, but the correct answer is b – she copied the body language of her cool teenage classmates, so probably lots of rolled eyes and slouching!",
-    "speaker": "Neil"
+    "text": "It was a good guess, Sam, but the correct answer is B. She copied the body language of her",
+    "speaker": null
   },
   {
+    "order": 67,
     "start": 322.56,
     "end": 327.68,
     "text": "cool teenage classmates, so probably lots of rolled eyes and slouching.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 328.639,
     "end": 333.6,
     "text": "Okay, let's recap the vocabulary from this program about online body language,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 333.6,
     "end": 336.959,
     "text": "nonverbal ways of communicating using the body.",
+    "speaker": "body language"
+  },
+  {
+    "order": 70,
+    "start": 336.959,
+    "end": 341.759,
+    "text": "Eye contact is when two people look at each other's eyes at the same time.",
     "speaker": null
   },
   {
-    "start": 336.959,
-    "end": 341.759,
-    "text": "Eye contact is when two people look at each other’s eyes at the same time.",
-    "speaker": "Eye contact"
-  },
-  {
+    "order": 71,
     "start": 341.759,
     "end": 346.96,
     "text": "Brain storming involves a group discussion to generate new ideas or solutions.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 346.96,
     "end": 352,
-    "text": "When we process information, we think about it carefully in order to understand it.",
-    "speaker": "process"
+    "text": " When we process information, we think about it carefully in order to understand it",
+    "speaker": "Brainstorming"
   },
   {
+    "order": 73,
     "start": 352,
     "end": 356.24,
-    "text": "In unison means happening together and at the same time",
+    "text": "In unison means happening together and at the same time ",
     "speaker": "In unison"
   },
   {
+    "order": 74,
     "start": 356.319,
     "end": 361.28,
-    "text": "And finally, the water cooler effect is an American expression to describe informal conversations between people at work.",
-    "speaker": "water cooler effect"
+    "text": "And finally, the water cooler effect is an American expression to describe",
+    "speaker": null
   },
   {
+    "order": 75,
     "start": 361.28,
     "end": 364.639,
     "text": "informal conversations between people at work.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 364.639,
     "end": 369.759,
     "text": "Neil is looking at his watch, which is body language that tells me our six minutes are up!",
     "speaker": "Sam"
   },
   {
+    "order": 77,
     "start": 369.759,
     "end": 370.639,
-    "text": "Goodbye for now!",
-    "speaker": "Neil"
+    "text": "Goodbye for now.",
+    "speaker": null
   },
   {
+    "order": 78,
     "start": 370.639,
     "end": 371.12,
-    "text": "Goodbye!",
-    "speaker": "Sam"
+    "text": "Goodbye.",
+    "speaker": null
   }
 ]

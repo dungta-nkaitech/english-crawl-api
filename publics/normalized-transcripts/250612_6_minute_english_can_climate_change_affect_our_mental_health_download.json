@@ -1,530 +1,618 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7.679,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7.679,
     "end": 13.04,
     "text": "Hello and welcome to 6-Minute English from BBC Learning English. I'm Beth.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 13.04,
     "end": 16.96,
     "text": "And I'm Neil. Today we're going to talk about climate change",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 3,
     "start": 16.96,
     "end": 20.08,
     "text": "and how it can affect people's mental health.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 20.08,
     "end": 23.039,
     "text": "Natural disasters and the impacts of climate change",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 23.039,
     "end": 25.199,
     "text": "can be stressful, isn't that right, Beth?",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 25.199,
     "end": 29.28,
     "text": "Yeah, definitely. In today's episode we're going to find out",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 7,
     "start": 29.28,
     "end": 32.56,
     "text": "about how people can protect their mental health",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 32.56,
     "end": 37.52,
     "text": "from the impacts of climate change. We'll be hearing from a psychiatry expert",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 37.52,
     "end": 41.76,
     "text": "and a man who survived a wildfire and helped rebuild his town.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 41.76,
     "end": 44,
     "text": "But first, Beth, I have a question for you.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 44.64,
     "end": 49.6,
     "text": "Scientists aren't always sure whether natural disasters like floods and wildfires",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 49.6,
     "end": 52.719,
     "text": "are as a result of human-caused climate change.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 53.28,
     "end": 58.719,
     "text": "But in January 2025, big wildfires affected big parts of Los Angeles",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 58.719,
     "end": 62.56,
     "text": "in California. But according to the research organisation",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 62.56,
     "end": 66.159,
     "text": "World Weather Attribution, human-caused climate change",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 66.159,
     "end": 74.4,
     "text": "made the fires A 10% more likely, B 35% more likely, or C 20% less likely.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 75.359,
     "end": 77.84,
-    "text": "Erm… I'm going to say 10% more likely.",
-    "speaker": "Beth"
+    "text": "I'm going to say 10% more likely.",
+    "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 77.84,
     "end": 80.96,
     "text": "Okay, well, we'll find out the answer at the end of the program.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 81.84,
     "end": 87.28,
-    "text": "OK. Well, we'll find out the answer at the end of the programme. Now, natural disasters like floods and wildfires can destroy homes and communities.",
+    "text": "Now natural disasters like floods and wildfires can destroy homes and communities.",
     "speaker": "Neil"
   },
   {
+    "order": 20,
     "start": 87.28,
     "end": 91.04,
     "text": "People who live in areas affected by natural disasters",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 91.04,
     "end": 93.68,
     "text": "can often experience climate trauma.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 93.68,
     "end": 98.079,
     "text": "Trauma is what we call the very bad and long-lasting emotional effects",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 98.079,
     "end": 99.92,
     "text": "of an event or experience.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 24,
     "start": 99.92,
     "end": 105.68,
     "text": "Professor Jotty Misra is an expert in climate trauma at the University of California.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 105.68,
     "end": 111.439,
     "text": "She explained more about the condition to Greia Jackson, host of BBC World Service program,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 111.439,
     "end": 112.48,
     "text": "the climate question.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 27,
     "start": 113.2,
     "end": 116.48,
     "text": "Climate trauma is not an individual trauma.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 116.48,
     "end": 122.56,
-    "text": "Climate trauma is not an individual trauma, it's a community-wide trauma which really requires community-wide healing.",
-    "speaker": "trauma traumatrauma"
-  },
-  {
-    "start": 122.56,
-    "end": 125.68,
-    "text": "Yeah, I'm really struck by what you've said about the fact that it's",
+    "text": "It's a community-wide trauma, which really requires community-wide healing.",
     "speaker": null
   },
   {
+    "order": 29,
+    "start": 122.56,
+    "end": 125.68,
+    "text": "Yeah, I'm really struck by what you've said about the fact that it's",
+    "speaker": "struck byreknits"
+  },
+  {
+    "order": 30,
     "start": 125.68,
     "end": 129.039,
     "text": "whole communities that are affected, not individuals,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 129.039,
     "end": 134.719,
     "text": "but also part of the solution is about the community and how it rebuild and",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 134.719,
     "end": 136,
     "text": "renits together.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 136,
     "end": 142.159,
     "text": "Absolutely, yes. So we've found that individuals who have a greater",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 142.159,
     "end": 145.599,
     "text": "sense of positive support from their family",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 145.599,
     "end": 150.56,
     "text": "and a greater sense of meaningful connection with their community,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 150.56,
     "end": 153.199,
     "text": "they are in general more resilient.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 154.159,
     "end": 157.84,
     "text": "Jotty's research on climate trauma has found that it affects",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 157.84,
     "end": 160.719,
-    "text": "communities rather than individuals.",
-    "speaker": null
+    "text": " communities rather than individuals",
+    "speaker": "Beth"
   },
   {
+    "order": 39,
     "start": 160.719,
     "end": 165.199,
     "text": "Host of the program, Greia Jackson, is struck by what Jotty says.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 165.199,
     "end": 169.84,
-    "text": "Host of the programme Graihagh Jackson is struck by what Jyoti says. If you're struck by an idea, you find it particularly interesting or impressive.",
-    "speaker": "struck bystruck by"
+    "text": "If you're struck by an idea, you find it particularly interesting or impressive.",
+    "speaker": null
   },
   {
+    "order": 41,
     "start": 170.4,
     "end": 175.28,
     "text": "Greia says that part of the solution to climate trauma could be in how the community",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 175.28,
     "end": 176.879,
     "text": "renits together.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 176.879,
     "end": 181.039,
-    "text": "This means how the social connections in a community are restored.",
-    "speaker": null
+    "text": " This means how the social connections in a community are restored",
+    "speaker": "reknits togetherclose-knit"
   },
   {
+    "order": 44,
     "start": 181.039,
     "end": 187.439,
     "text": "We can often describe a community as close-knit, which means everyone helps and supports each other.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 187.439,
     "end": 193.759,
     "text": "Jotty explains that having a strong community also helps reduce or heal climate trauma.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 193.759,
     "end": 198.56,
     "text": "She says that research has found that people who have a strong community are more resilient",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 198.56,
     "end": 201.599,
     "text": "when bad things, like natural disasters, happen.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 201.599,
     "end": 206.8,
     "text": "If you're resilient, you're able to get better more easily after something difficult or bad happens.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 207.36,
     "end": 211.039,
     "text": "One person who had to be resilient is Brad Sherwood.",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 50,
     "start": 211.039,
     "end": 217.36,
     "text": "He survived a wildfire in Northern California in 2017 called the Tub Spire.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 217.36,
     "end": 221.199,
     "text": "But when he returned home, his neighborhood was destroyed.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 221.199,
     "end": 225.92,
     "text": "Brad started to volunteer for a local support network called After the Fire",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 225.919,
     "end": 228,
     "text": "to try to rebuild his community.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 228,
     "end": 231.439,
     "text": "As he explained to BBC World Service Program, the climate question.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 232.239,
     "end": 236,
     "text": "The silver lining in all this, if it wasn't for the Tub Spire,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 236,
     "end": 242.399,
     "text": "we wouldn't be working as a community right now to build a new community plaza.",
-    "speaker": null
+    "speaker": "silver liningresilient hurdle"
   },
   {
+    "order": 57,
     "start": 242.399,
     "end": 245.679,
     "text": "We were a close community before the Tub Spire,",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 245.679,
     "end": 249.599,
     "text": "but afterwards we are so much stronger and resilient.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 251.039,
     "end": 253.039,
     "text": "I think our children are as well.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 253.679,
     "end": 255.359,
     "text": "They can jump over any hurdle.",
+    "speaker": "jump over any hurdle. hurdles"
+  },
+  {
+    "order": 61,
+    "start": 256.079,
+    "end": 262.24,
+    "text": "Brad says that the work to rebuild and improve his community is the silver lining to the fire.",
     "speaker": null
   },
   {
-    "start": 256.079,
-    "end": 262.24,
-    "text": "Brad says that the work to rebuild and improve his community is the silver lining to the fire. The expression silver lining means a positive thing that comes from a negative situation.",
-    "speaker": "silver liningsilver lining"
-  },
-  {
+    "order": 62,
     "start": 262.24,
     "end": 268.079,
     "text": "The expression silver lining means a positive thing that comes from a negative situation.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 268.079,
     "end": 272.639,
     "text": "Brad's community became more resilient after the fire, including the children.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 272.639,
     "end": 275.919,
     "text": "He says that they can jump over any hurdle.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 275.919,
     "end": 279.919,
-    "text": "And we can describe challenges or difficult things in life as hurdles.",
-    "speaker": "hurdles"
+    "text": " we can describe challenges or difficult things in life as hurdles",
+    "speaker": "silver lining"
   },
   {
+    "order": 66,
     "start": 280.56,
     "end": 285.039,
     "text": "And it's quite inspiring, I think, to hear how Brad has taken a bad situation",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 285.04,
     "end": 286.8,
     "text": "and tried to stay resilient.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 287.36,
     "end": 293.36,
     "text": "Now the organisation that Brad volunteer for after the fire are helping those impacted by the",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 293.36,
     "end": 295.6,
     "text": "fires in LA in January.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 70,
+    "start": 295.6,
+    "end": 302.8,
+    "text": "Which reminds me, I asked you Beth about the impacts of human-made climate change on the wildfires in LA in January.",
     "speaker": null
   },
   {
-    "start": 295.6,
-    "end": 302.8,
-    "text": "Which reminds me, I asked you, Beth, about the impacts of human-made climate change on the wildfires in LA in January.",
-    "speaker": "Neil"
-  },
-  {
+    "order": 71,
     "start": 302.8,
     "end": 306,
     "text": "And I said 10% more likely.",
-    "speaker": "Beth"
+    "speaker": null
   },
   {
+    "order": 72,
     "start": 306,
     "end": 310.879,
-    "text": "Which was, I'm afraid, the wrong answer. It was actually 35%.",
-    "speaker": "Neil"
+    "text": "Which was, I'm afraid the wrong answer, it was actually 35%.",
+    "speaker": null
   },
   {
+    "order": 73,
     "start": 310.879,
     "end": 311.68,
     "text": "Wow.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 311.759,
     "end": 316.16,
     "text": "Okay, well let's recap the vocabulary we've learned starting with trauma,",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 316.16,
     "end": 322.16,
-    "text": "Wow. OK. Well, let's recap the vocabulary we've learnt, starting with trauma, which is what we call the very bad and long-lasting emotional effects of an event or experience.",
-    "speaker": "trauma"
+    "text": "which is what we call the very bad and long-lasting emotional effects of an event or experience.",
+    "speaker": null
   },
   {
+    "order": 76,
     "start": 322.16,
     "end": 325.439,
-    "text": "If you're struck by an idea or something someone has said, you find it particularly interesting or impressive.",
+    "text": "If you're struck by an idea or something someone has said,",
     "speaker": "struck by"
   },
   {
+    "order": 77,
     "start": 325.439,
     "end": 328.56,
     "text": "you find it particularly interesting or impressive.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 328.56,
     "end": 332.639,
     "text": "If a community re-knits together, it becomes closer again.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 332.639,
     "end": 336.639,
-    "text": "If a community reknits together, it becomes closer again. And a close-knit community is where everyone looks after each other.",
-    "speaker": "reknits togetherclose-knit"
+    "text": "And a close-knit community is where everyone looks after each other.",
+    "speaker": null
   },
   {
+    "order": 80,
     "start": 336.639,
     "end": 341.199,
     "text": "Resilient means able to get better more easily when bad things happen.",
-    "speaker": "Resilient"
+    "speaker": null
   },
   {
+    "order": 81,
     "start": 341.279,
     "end": 346,
     "text": "A silver lining is a positive thing that comes from a negative situation.",
-    "speaker": "silver lining"
+    "speaker": null
   },
   {
+    "order": 82,
     "start": 346,
     "end": 350.8,
     "text": "And we can describe challenges or difficult things in life as hurdles.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 350.8,
     "end": 358,
     "text": "Once again, our six minutes are up, but why not try the interactive quiz on our websites to test what you've learnt?",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 358,
     "end": 360.56,
     "text": "And we have a free worksheet as well.",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 85,
     "start": 360.56,
     "end": 363.439,
     "text": "Just visit BBCLearningEnglish.com.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 363.439,
     "end": 364.959,
-    "text": "Thanks for listening and goodbye!",
-    "speaker": "Neil"
+    "text": "Thanks for listening and goodbye.",
+    "speaker": null
   },
   {
+    "order": 87,
     "start": 364.959,
     "end": 365.439,
     "text": "Bye!",
-    "speaker": "Beth"
+    "speaker": null
   }
 ]

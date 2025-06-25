@@ -1,323 +1,377 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7.679,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7.679,
     "end": 13.599,
     "text": "Hello, this is 6-Mute English from BBCLearningEnglish. I'm Georgi and I'm Beth.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 13.599,
     "end": 19.839,
     "text": "Mentionation is an issue that's not often talked about, yet every month it affects",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 19.839,
     "end": 26.879,
     "text": "billions of women around the world. Mentionation or periods are a natural process that typically",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 26.879,
     "end": 32.719,
     "text": "happen once a month, when women and girls bleed from their vagina for a few days as part of",
-    "speaker": null
+    "speaker": "Georgie"
   },
   {
+    "order": 5,
     "start": 32.719,
     "end": 39.84,
     "text": "the reproductive cycle. When this happens, women need special products like sanitary pads or tampons",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 39.84,
     "end": 46.56,
     "text": "to manage the flow of blood and go about their day-to-day life. Unfortunately, over 500 million",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 46.56,
     "end": 51.92,
-    "text": "people around the world either don't have access to these products or can't afford to buy them,",
-    "speaker": null
+    "text": " people around the world either don't have access to these products or can't afford to buy them",
+    "speaker": "Georgie"
   },
   {
+    "order": 8,
     "start": 51.92,
     "end": 58.96,
     "text": "and this is called period poverty. Period poverty has serious consequences. For example,",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 58.96,
     "end": 64.719,
     "text": "girls on their periods not going to school affects their education, and women who can't work during",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 64.719,
     "end": 71.04,
     "text": "their period have less income. What's more, it can cause health problems because without sanitary",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 71.04,
     "end": 77.12,
     "text": "products it's easy to get infections. In this programme we'll be learning about one project",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 77.12,
     "end": 83.439,
     "text": "fighting period poverty affecting thousands of women refugees, and of course we'll be learning",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 83.439,
     "end": 90.719,
     "text": "some useful new vocabulary as well. But first Georgi, I have a question for you. Periods affect girls",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 90.719,
     "end": 99.84,
     "text": "and women of reproductive age. That's roughly half the female population or 26% of the global population,",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 99.84,
     "end": 111.52,
     "text": "but how many people is that? Is it a 2.1 billion people, b 2.3 billion people, or c 2.5 billion people?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 111.52,
     "end": 118.32,
     "text": "I guess it's about 2.1 billion people. Okay Georgi, I will reveal the answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 119.28,
     "end": 126.719,
     "text": "Ella Lambert was a student at Bristol University when she started the Pacha Mama project in 2020",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 126.719,
     "end": 132.479,
     "text": "during the first Covid lockdown. She'd heard about period poverty and decided to put her lockdown",
-    "speaker": null
+    "speaker": "Georgie"
   },
   {
+    "order": 19,
     "start": 132.479,
     "end": 139.84,
     "text": "time to good use by making sanitary pads. Pieces of soft material used to absorb menstrual blood.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 140.56,
     "end": 147.039,
     "text": "Here's Ella explaining how her project got started to BBC World Service programme people fixing",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 147.039,
     "end": 151.919,
     "text": "the world. So I borrowed a sewing machine from a friend, I learned how to sew on YouTube,",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 151.919,
     "end": 156.719,
-    "text": "So I borrowed a sewing machine from a friend, I learned how to sew on YouTube, and then I just started making pads. And even now to this day, I can't sew anything else, only pads.",
+    "text": "and then I just started making pads. And even now to this day I can't sew anything else, only pads.",
     "speaker": "sew  to this day"
   },
   {
+    "order": 23,
     "start": 159.199,
     "end": 165.279,
     "text": "Ella started making reusable sanitary pads, which aren't a new thing. They're made from",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 165.279,
     "end": 170.799,
     "text": "absorbent fabrics such as fleece and cotton sheets, which means that they can be used over and",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 170.799,
     "end": 177.279,
     "text": "over again after they're washed, unlike disposable pads. Ella spent lockdown learning how to sew,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 177.28,
     "end": 183.12,
     "text": "how to join pieces of material by hand using a needle and thread or with a sewing machine.",
-    "speaker": null
+    "speaker": "sewto this dayto this day"
   },
   {
+    "order": 27,
     "start": 183.68,
     "end": 189.039,
     "text": "In fact, Ella was so focused on sewing sanitary pads she didn't make anything else.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 189.92,
     "end": 196.8,
     "text": "And to this day, pads are the only thing she knows how to sew. Ella uses the phrase to this day,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 196.8,
     "end": 205.36,
     "text": "to say up to and including the present moment. Sanitary pads aren't easy to make. The outer layer",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 205.44,
     "end": 211.52,
     "text": "has to be soft because it touches the skin, but they also need to be absorbent, able to soak up",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 211.52,
     "end": 218.96,
     "text": "liquids like blood and hold them. What's more, Ella designed her pads to be washed and used again,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 218.96,
     "end": 225.92,
     "text": "unlike most sanitary pads bought in shops, which are disposable, designed to be thrown away after",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 225.92,
     "end": 233.2,
     "text": "they've been used. Ella's network of volunteers sewing reusable sanitary pads grew. And to date,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 233.199,
     "end": 239.28,
     "text": "the Pachamama project has donated tens of thousands of period products to refugees, fleeing",
-    "speaker": null
+    "speaker": "Georgie"
   },
   {
+    "order": 35,
     "start": 239.28,
     "end": 247.119,
     "text": "conflict in Syria, Turkey and Lebanon, as well as women here in the UK. Plus, the project is helping",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 247.119,
     "end": 254.719,
     "text": "in other ways too. Despite affecting so many people and being necessary for life itself, many",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 254.719,
     "end": 262.879,
     "text": "cultures consider menstruation unclean or shameful, not a topic of polite conversation, but",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 262.959,
     "end": 268.959,
     "text": "Ella thinks her project is giving refugees the confidence to talk about periods. As she told",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 268.959,
     "end": 276.879,
     "text": "BBC World Services, people fixing the world. I have seen such major change in such a short period",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 276.879,
     "end": 281.279,
     "text": "of time. Like the women originally who were distributing the pads were barely even speak about",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 281.279,
     "end": 285.92,
     "text": "it and we had it behind a curtain. And now they're chatted away about the pads with their male",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 285.92,
     "end": 292,
     "text": "colleagues, anyone that comes into the shop. Before, most women refugees would barely talk about",
-    "speaker": null
+    "speaker": "barely chat away"
   },
   {
+    "order": 43,
     "start": 292,
     "end": 298.639,
     "text": "menstruation. They would only just scarcely talk about it. But now they're happily chatting away,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 298.639,
     "end": 304.72,
     "text": "passing the time talking to other women and even to male colleagues. I think it's time I reveal",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 304.72,
     "end": 313.12,
-    "text": "I think it’s time I reveal the answer to my question – as a number, how many women make up the 26% of the world’s population who menstruate?",
+    "text": "the answer to my question. As a number, how many women make up the 26% of the world's population",
     "speaker": "Beth"
   },
   {
+    "order": 46,
     "start": 313.199,
     "end": 321.68,
     "text": "who menstruates? I said it was 2.1 billion people, which was the correct answer. Okay, let's recap the",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 321.68,
     "end": 328,
     "text": "vocabulary we've learned in this programme, starting with the verb to sew, to join material together",
-    "speaker": null
+    "speaker": "sew"
   },
   {
+    "order": 48,
     "start": 328,
     "end": 335.04,
     "text": "using a needle and thread, either by hand or with a sewing machine. The phrase to this day means up to",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 335.04,
     "end": 341.759,
     "text": "and including the present moment. The adjective absorbent means able to soak up and hold liquid,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 341.759,
     "end": 349.039,
-    "text": "and the adjective disposable means designed to be thrown away after use. If you barely do something,",
-    "speaker": null
+    "text": " and the adjective disposable means designed to be thrown away after use. If you barely do something",
+    "speaker": "absorbentdisposable"
   },
   {
+    "order": 51,
     "start": 349.039,
     "end": 355.599,
     "text": "you only just do it by the smallest amount. And finally, to chat away means to pass the time",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 355.599,
     "end": 361.759,
-    "text": "by talking a lot with someone. Once again, our six minutes are up. We hope you'll join us again",
-    "speaker": null
+    "text": " by talking a lot with someone. Once again our six minutes are up! We hope you’ll join us again",
+    "speaker": "chat away"
   },
   {
+    "order": 53,
     "start": 361.759,
     "end": 365.199,
     "text": "next time here at six minute English. Bye for now. Bye!",

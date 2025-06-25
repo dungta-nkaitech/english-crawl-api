@@ -1,485 +1,566 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7,
     "end": 13,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I'm Phil.",
     "speaker": "Phil"
   },
   {
+    "order": 2,
     "start": 13,
     "end": 19.1,
-    "text": "And I'm Pippa. Have you ever phoned up a company and had your call held in a queue? If you have, then you've probably heard messages like this:",
-    "speaker": "Pippa"
+    "text": "And I'm Pippa. Have you ever phoned up a company and had your call held in a queue?",
+    "speaker": null
   },
   {
+    "order": 3,
     "start": 19.1,
     "end": 23,
     "text": "If you have, then you've probably heard messages like this.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 23,
     "end": 28.6,
-    "text": "Hello, your call is important to us. You are number 89 in the queue.",
-    "speaker": null
-  },
-  {
-    "start": 28.6,
-    "end": 33.6,
-    "text": "Hello. Your call is important to us. You are number 89 in the queue. If you'd like to continue to hold, press 1. If you'd like to return to the main menu, press 0.",
+    "text": "Hello. Your call is important to us. You are number 89 in the queue.",
     "speaker": "AI call agent"
   },
   {
-    "start": 33.6,
-    "end": 37.6,
-    "text": "How do you feel when your phone call is put on hold, Phil?",
-    "speaker": "Pippa"
+    "order": 5,
+    "start": 28.6,
+    "end": 33.6,
+    "text": "If you'd like to continue to hold press 1, if you'd like to return to the main menu press 0,",
+    "speaker": null
   },
   {
+    "order": 6,
+    "start": 33.6,
+    "end": 37.6,
+    "text": "how do you feel when your phone call is put on hold, Phil?",
+    "speaker": null
+  },
+  {
+    "order": 7,
     "start": 37.6,
     "end": 40.6,
     "text": "Ah, frustrated usually.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 40.6,
     "end": 45.6,
-    "text": "Oh, frustrated usually, although I do like it when there's a number saying how many people are in front of you. That's good.",
+    "text": "Although I do like it when there's a number saying how many people are in front of you.",
     "speaker": "Phil"
   },
   {
+    "order": 9,
     "start": 45.6,
     "end": 50.6,
     "text": "Well, when your call is finally connected, it's usually a call centre worker you'll speak to,",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 50.6,
     "end": 54.6,
     "text": "a real live person who'll hopefully fix your problem.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 54.6,
     "end": 60.6,
     "text": "But increasingly, this work is now done using artificial intelligence or AI.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 60.6,
     "end": 64.599,
     "text": "And this is causing problems in countries like India and the Philippines,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 64.599,
     "end": 68.599,
     "text": "where call centre jobs make up a big part of the economy.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 68.599,
     "end": 75.599,
-    "text": "In this programme, we'll be asking who's really in charge at the call centre? Humans or AI?",
-    "speaker": null
+    "text": "In this programme, we'll be asking who's really in charge at the call centre: humans or AI?",
+    "speaker": "Phil"
   },
   {
+    "order": 15,
     "start": 75.599,
     "end": 79.599,
     "text": "As always, we'll be learning some useful new vocabulary.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 79.599,
     "end": 84.599,
     "text": "And remember, you can read along with the programme and find the list of new words and phrases",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 84.599,
     "end": 89.599,
     "text": "by visiting our website, bbclearningenglish.com.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 89.599,
     "end": 92.599,
     "text": "But now, I have a question for you, Phil.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 92.599,
     "end": 97.599,
     "text": "Around the world, numbers of call centre workers have grown rapidly in recent years.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 97.599,
     "end": 102.599,
     "text": "If you're listening to this, maybe you're a call centre worker yourself.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 102.599,
     "end": 107.599,
     "text": "So, approximately how many people work in call centres globally, Phil?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 107.599,
     "end": 113.599,
     "text": "Is it a 7 million, b 17 million or c 27 million?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 113.599,
     "end": 117.599,
-    "text": "I think b) 17 million.",
-    "speaker": "Phil"
+    "text": "I think b 17 million.",
+    "speaker": "Pippa"
   },
   {
+    "order": 24,
     "start": 117.599,
     "end": 122.599,
     "text": "Okay, well, you'll have to listen to the end to find out the answer.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 122.599,
     "end": 129.599,
     "text": "Now, one worker worried about the impact of AI on jobs in the Philippines is Miley and Gabelona,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 129.599,
     "end": 133.599,
     "text": "president of the call centre workers union, B-I-E-N.",
-    "speaker": null
+    "speaker": "Pippa"
   },
   {
+    "order": 27,
     "start": 133.599,
     "end": 139.599,
     "text": "Here, she tells BBC World Service programme TechLife about some of the difficulties of her job",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 139.599,
     "end": 142.599,
     "text": "and why she fears for the future.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 142.599,
     "end": 150.599,
     "text": "So, and this person is quite already aggravated and he keeps on yelling and that's the difficult part",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 150.599,
     "end": 157.599,
     "text": "because the mental stress also, you have to pacify the client and you have to make sure",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 157.599,
     "end": 160.599,
     "text": "you're able to resolve the concern.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 160.599,
     "end": 167.599,
     "text": "And then the difficult part on that conversation is that you're being monitored by an AI.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 167.599,
     "end": 171.599,
-    "text": "I mean, eventually AI would replace us.",
-    "speaker": null
+    "text": "I mean, eventually AI would replace… us",
+    "speaker": "you knowin the near futureas a matter of fact,"
   },
   {
+    "order": 34,
     "start": 171.599,
     "end": 176.599,
     "text": "It's going to displace workers in, you know, eventually in the near future.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 176.599,
     "end": 184.599,
     "text": "Even as a matter of fact, there's been a study that says that about 300,000 workers",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 184.599,
     "end": 191.599,
     "text": "or around 27% of workers that's going to be displaced because of AI.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 191.599,
     "end": 192.599,
     "text": "And it's slowly happening.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 192.599,
     "end": 196.599,
     "text": "Call centre work involves dealing with customers who've phoned up to complain.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 196.599,
     "end": 201.599,
     "text": "They're often angry, aggravated and yelling or shouting down the phone.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 201.599,
     "end": 205.599,
     "text": "It's Miley's job to pacify them, to calm them down.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 205.599,
     "end": 211.599,
     "text": "If that wasn't stressful enough, Miley's conversations are monitored by AI systems",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 211.599,
     "end": 215.599,
     "text": "to see how well she fixes her clients problems.",
-    "speaker": null
+    "speaker": "in the near future"
   },
   {
+    "order": 43,
     "start": 215.599,
     "end": 219.599,
     "text": "You might think AI was built to support workers like Miley,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 219.599,
     "end": 223.599,
     "text": "but she fears AI will replace her in the near future,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 223.599,
     "end": 226.599,
     "text": "a phrase meaning very soon or within a short time.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 226.599,
     "end": 232.599,
     "text": "Miley emphasizes her fears about being replaced by giving details about the study she read",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 232.599,
     "end": 237.599,
     "text": "which claim that 27% of workers will be displaced by AI.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 237.599,
     "end": 242.599,
     "text": "She uses the phrase as a matter of fact to emphasise what she's saying",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 242.599,
     "end": 245.599,
     "text": "and to give more detail as evidence to support it.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 245.599,
     "end": 249.599,
     "text": "But Miley thinks AI will never fully replace humans.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 249.599,
     "end": 254.599,
-    "text": "She says AI lacks one important quality, empathy.",
-    "speaker": null
+    "text": " She says AI lacks one important quality, empathy",
+    "speaker": "Pippa"
   },
   {
+    "order": 52,
     "start": 254.599,
     "end": 258.6,
     "text": "Here she explains more to BBC World Services tech life.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 258.6,
     "end": 264.6,
     "text": "Well, I don't think AI could be, you know, empathetic or whenever they talk.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 264.6,
     "end": 269.6,
     "text": "I mean, if ever a machine or a robot talks to them, you know,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 269.6,
     "end": 275.6,
     "text": "people learn more compassionate than, you know, when you talk to a robot.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 275.6,
     "end": 279.6,
     "text": "Miley says that AI is not empathetic.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 279.6,
     "end": 283.6,
     "text": "Unlike humans, it can't put itself in someone else's place",
-    "speaker": null
+    "speaker": "empathetic."
   },
   {
+    "order": 58,
     "start": 283.6,
     "end": 286.6,
     "text": "and share their feelings or experiences.",
-    "speaker": null
+    "speaker": "as a matter of fact"
   },
   {
+    "order": 59,
     "start": 286.6,
     "end": 291.6,
     "text": "If you listen carefully to Miley's speech, you'll notice she says you know a lot.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 291.6,
     "end": 296.6,
     "text": "Frazes like you know, um, and are are called filler words",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 296.6,
     "end": 301.6,
     "text": "and are used to give the speaker time to think or to express uncertainty.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 301.6,
     "end": 305.6,
     "text": "Right, I think it's time I revealed the answer to my question, Phil.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 305.6,
     "end": 310.6,
     "text": "I asked you how many call centre workers are there globally?",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 310.6,
     "end": 312.6,
     "text": "And I said 17 million.",
     "speaker": "Phil"
   },
   {
+    "order": 65,
     "start": 312.6,
     "end": 315.6,
     "text": "Which is the right answer.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 315.6,
     "end": 319.6,
     "text": "Okay, let's recap the vocabulary we've learned in this programme,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 319.6,
     "end": 323.6,
     "text": "starting with yelling another word for shouting.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 323.6,
     "end": 327.6,
     "text": "To pacify someone means to calm them down when they're angry.",
     "speaker": "pacify"
   },
   {
+    "order": 69,
     "start": 327.6,
     "end": 332.6,
-    "text": "In the near future means very soon, or within a short time.",
-    "speaker": "In the near future"
+    "text": "In the near future means very soon or within a short time.",
+    "speaker": null
   },
   {
+    "order": 70,
     "start": 332.6,
     "end": 336.6,
     "text": "The phrase as a matter of fact is used to add emphasis to what you're saying,",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 336.6,
     "end": 339.6,
     "text": "to give more detail about what you've just said",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 339.6,
     "end": 342.6,
     "text": "or to introduce something that contrasts with it.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 342.6,
     "end": 347.6,
-    "text": "If you're empathetic, you're able to put yourself in someone else's position and share their feelings or experiences.",
-    "speaker": "empathetic"
+    "text": "If you're empathetic, you're able to put yourself in someone else's position",
+    "speaker": null
   },
   {
+    "order": 74,
     "start": 347.6,
     "end": 350.6,
     "text": "and share their feelings or experiences.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 350.6,
     "end": 356.6,
     "text": "And finally, filler words like, um, are, and you know,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 356.6,
     "end": 361.6,
     "text": "give the speaker more time to think or to express uncertainty.",
-    "speaker": null
+    "speaker": "you know'"
   },
   {
+    "order": 77,
     "start": 361.6,
     "end": 364.6,
     "text": "Once again, our six minutes are up.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 364.6,
     "end": 365.6,
-    "text": "Bye!",
-    "speaker": "Pippa"
+    "text": "Bye.",
+    "speaker": null
   },
   {
+    "order": 79,
     "start": 365.6,
     "end": 366.6,
     "text": "Bye.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 366.6,
     "end": 371.6,
     "text": "Six-minute English from BBCLearningEnglish.com.",

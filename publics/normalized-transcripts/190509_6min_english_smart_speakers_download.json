@@ -1,539 +1,629 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.6,
     "text": "This is a download from BBC Learning English to find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 5.6,
     "end": 11.2,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.4,
     "end": 16.399,
-    "text": "Hello and welcome to 6 Minute English. I'm Dan.",
+    "text": "Hello and welcome to 6 Minute English. I'm Dan. And I'm Rob",
     "speaker": "Dan"
   },
   {
+    "order": 3,
     "start": 16.399,
     "end": 19.199,
     "text": "So Dan, what's a- oh, sorry.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 20.8,
     "end": 22,
     "text": "Oh it's my wife.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 22.96,
     "end": 24,
     "text": "Hang on.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 24.8,
     "end": 26,
     "text": "You didn't answer!",
     "speaker": "Dan"
   },
   {
+    "order": 7,
     "start": 26.399,
     "end": 30.96,
     "text": "Well, don't take this personally, Dan, but I'm not exactly crazy about someone",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 30.96,
     "end": 32.719,
     "text": "eavesdropping on my phone call.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 32.719,
     "end": 36.719,
     "text": "If you eavesdrop on something, you secretly listen to someone's conversation.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 36.719,
     "end": 38,
     "text": "Something's a private, you know.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 38,
     "end": 40.56,
-    "text": "Oh, of course, I totally understand.",
-    "speaker": null
+    "text": "Oh! Of course! I totally understand.",
+    "speaker": "Dan"
   },
   {
+    "order": 12,
     "start": 41.679,
     "end": 43.359,
     "text": "One quick question for you, though.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 43.359,
     "end": 46.96,
     "text": "Do you have a smart speaker, you know, like Google Assistant,",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 46.96,
     "end": 49.679,
     "text": "Amazon's Alexa, or Apple's Siri?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 49.679,
     "end": 51.039,
     "text": "Ah sure, yes, I've got one.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 51.039,
     "end": 52.079,
     "text": "It's great.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 52.079,
     "end": 54.159,
     "text": "I can ask it all sorts of questions.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 54.159,
     "end": 59.039,
     "text": "It tells me about the news and whether it plays music, when I want, it does all sorts.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 59.039,
     "end": 62.079,
     "text": "You just give it a voice command and it does what you want.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 62.079,
     "end": 63.679,
     "text": "So it can hear you, can it?",
     "speaker": "Dan"
   },
   {
+    "order": 21,
     "start": 63.679,
     "end": 64.64,
-    "text": "Of course.",
-    "speaker": null
+    "text": " Of course",
+    "speaker": "Rob"
   },
   {
+    "order": 22,
     "start": 64.64,
     "end": 67.599,
     "text": "How else can you give it a voice command all the time?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 67.599,
     "end": 68.879,
-    "text": "Well, I assume so.",
-    "speaker": "Rob"
+    "text": " Well, I assume so",
+    "speaker": "Dan"
   },
   {
+    "order": 24,
     "start": 68.879,
     "end": 71.039,
     "text": "So how do you know it's not eavesdropping on you?",
     "speaker": "eavesdropping"
   },
   {
+    "order": 25,
     "start": 71.84,
     "end": 74.56,
     "text": "Well, I, uh, oh, I see.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 74.56,
     "end": 75.92,
-    "text": "Well, I… oh… I see. I hadn't thought of that.",
-    "speaker": "Rob"
+    "text": "I hadn't thought of that.",
+    "speaker": null
   },
   {
+    "order": 27,
     "start": 75.92,
     "end": 78.56,
     "text": "Well, that's our topic for this 6 Minute English.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 78.56,
     "end": 80.959,
     "text": "How safe is your smart speaker?",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 29,
     "start": 80.959,
     "end": 83.759,
     "text": "However, before that, here is our quiz question.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 84.239,
     "end": 88.879,
-    "text": "Of course! Earlier I asked by what percentage the number of smart speakers used in US households increased from December 2017 to December 2018? Was it…",
-    "speaker": "Dan"
+    "text": "By what percentage the number of smart speakers used in US households increased",
+    "speaker": null
   },
   {
+    "order": 31,
     "start": 88.879,
     "end": 92.079,
     "text": "from December 2017 to December 2018?",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 92.079,
     "end": 98.079,
     "text": "Is it a around 40%, b around 60% or c around 80%.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 98.079,
     "end": 101.92,
-    "text": "Oh, well, I know they are very popular even in my household. So I'm going to go for c) around 80%.",
-    "speaker": "Rob"
+    "text": "Oh, well, I know they are very popular even in my household.",
+    "speaker": "Dan"
   },
   {
+    "order": 34,
     "start": 101.92,
     "end": 104.879,
     "text": "So I'm going to go for c around 80%.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 104.879,
     "end": 107.92,
     "text": "Well, we'll find out if you're right later in the program.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 108.479,
     "end": 110.64,
     "text": "So smart speakers and privacy.",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 37,
     "start": 111.359,
     "end": 116.4,
     "text": "Florian Schalb is an assistant professor at the University of Michigan School of Information.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 116.4,
     "end": 119.439,
     "text": "Here he is speaking on the BBC World Service Program,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 119.439,
     "end": 121.68,
     "text": "the wife factor about smart speakers.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 122.239,
     "end": 125.359,
     "text": "What does he say people are introducing into their homes?",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 127.039,
     "end": 131.759,
     "text": "You're basically introducing listening bug in your home in your most intimate space.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 131.759,
     "end": 136.4,
     "text": "While the companies say they're only actively listened to what's going on in your home",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 136.4,
     "end": 140.479,
     "text": "when they hear the keyword, the microphone is still on the whole time in order to be able to",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 140.479,
     "end": 145.119,
     "text": "detect that keyword. We don't know to what extent companies are cooperating with the government",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 145.119,
     "end": 150.319,
     "text": "or to what extent the government might try to circumvent companies' security mechanisms",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 150.319,
     "end": 153.039,
     "text": "in order to then be able to listen to what you're doing.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 154.879,
     "end": 157.359,
     "text": "So what did he say people are introducing, Rob?",
     "speaker": "Dan"
   },
   {
+    "order": 48,
     "start": 157.359,
     "end": 160.879,
     "text": "He basically said we're introducing a listening bug.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 161.679,
     "end": 166.079,
-    "text": "He basically said we're introducing a listening bug. Now, a bug is a small electronic device used for secretly listening to conversations. Much like a spy would use.",
-    "speaker": "bugbug"
+    "text": "Now a bug is a small electronic device used for secretly listening to conversations,",
+    "speaker": null
   },
   {
+    "order": 50,
     "start": 166.079,
     "end": 167.839,
     "text": "much like a spy would use.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 167.92,
     "end": 171.439,
-    "text": "Yes, and he mentioned it was in our most intimate space! Intimate means 'private and personal'.",
+    "text": "Yes, and he mentioned it was in our most intimate space!",
     "speaker": "intimateIntimate"
   },
   {
+    "order": 52,
     "start": 172.08,
     "end": 174.319,
     "text": "Intimate means private and personal.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 175.2,
     "end": 178.879,
-    "text": "Well, I can't think of anywhere more intimate than my home.",
-    "speaker": "intimate"
-  },
-  {
-    "start": 179.52,
-    "end": 183.759,
-    "text": "He also said that the smart speakers' microphone is on the whole time,",
+    "text": "Well I can't think of anywhere more intimate than my home. Indeed.",
     "speaker": null
   },
   {
-    "start": 183.759,
-    "end": 188.64,
-    "text": "Indeed! He also said that the smart speaker's microphone is on the whole time – even though the companies insist that they're only actively listening when the keyword is said.",
+    "order": 54,
+    "start": 179.52,
+    "end": 183.759,
+    "text": " He also said that the smart speaker's microphone is on the whole time",
     "speaker": "Dan"
   },
   {
-    "start": 188.64,
-    "end": 193.28,
-    "text": "Yes, he suggested that we can't know how far a company might be co-operating with a government to eavesdrop on people.",
-    "speaker": "eavesdrop"
+    "order": 55,
+    "start": 183.759,
+    "end": 188.64,
+    "text": "even though the companies insist that they're only actively listening when the keyword is said.",
+    "speaker": null
   },
   {
+    "order": 56,
+    "start": 188.64,
+    "end": 193.28,
+    "text": "Yes, he suggested that we can't know how far a company might be cooperating with a government",
+    "speaker": null
+  },
+  {
+    "order": 57,
     "start": 193.439,
     "end": 198.08,
     "text": "to eavesdrop on people or whether a government might be circumventing a smart speaker's",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 198.08,
     "end": 203.12,
     "text": "security and listening in any way without the company or owner's permission.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 203.759,
     "end": 207.12,
     "text": "Circumvent means cleverly bypass or go round.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 207.92,
     "end": 213.199,
-    "text": "Circumvent means 'cleverly bypass or go around'. So if all this eavesdropping is possible, why are smart speakers so popular?",
-    "speaker": "Circumvent"
+    "text": "So if all this eavesdropping is possible, why are smart speakers so popular?",
+    "speaker": "circumventing"
   },
   {
+    "order": 61,
     "start": 213.199,
     "end": 217.199,
     "text": "Good question. And here's Florian Schalber again with an answer.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 217.199,
     "end": 222.159,
     "text": "He conducted a study on people's attitudes to privacy when it came to smart speakers.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 222.719,
     "end": 226.4,
     "text": "How do people feel about having a smart speaker that could eavesdrop on them?",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 64,
     "start": 227.439,
     "end": 232.639,
     "text": "What we often saw as people just being resigned to this is the tradeoff they have to make",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 232.639,
     "end": 236.479,
     "text": "if they want to enjoy the convenience that a smart speaker provides to them.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 237.519,
     "end": 241.28,
-    "text": "He said that people are resigned to the privacy tradeoff.",
-    "speaker": null
+    "text": "He said that people are resigned to the privacy trade-off",
+    "speaker": "are resigned totrade-offare resigned to"
   },
   {
+    "order": 67,
     "start": 241.84,
     "end": 246.479,
     "text": "If you're resigned to something, you accept something unpleasant that can't be changed.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 246.479,
     "end": 249.039,
     "text": "Yes, and a tradeoff is a compromise.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 249.12,
     "end": 252.56,
-    "text": "Yes and a trade-off is a compromise. You accept something bad to also receive something good.",
-    "speaker": "tradeoff"
+    "text": "You accept something bad to also receive something good.",
+    "speaker": null
   },
   {
+    "order": 70,
     "start": 252.56,
     "end": 257.839,
-    "text": "So people accept that a smart speaker gives them advantages, even though there could be downsides?",
+    "text": "So people accept that a smart speaker gives them advantages, even though there could be",
     "speaker": "Rob"
   },
   {
+    "order": 71,
     "start": 257.839,
     "end": 263.839,
     "text": "downsides. Yes. In the grand scheme of things, the data that these devices here is probably not",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 263.839,
     "end": 268.319,
     "text": "that significant considering all the data companies have about us already anyway.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 269.519,
     "end": 272.159,
-    "text": "So can I have the answer to the quiz then?",
-    "speaker": "Rob"
+    "text": "So can I have the answer to the quiz then? Of course.",
+    "speaker": null
   },
   {
+    "order": 74,
     "start": 272.959,
     "end": 278,
     "text": "Earlier I asked by what percentage the number of smart speakers used in US households",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 278,
     "end": 286.24,
     "text": "increased from December 2017 to December 2018. Was it A, around 40%, B, around 60%, or C,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 286.24,
     "end": 291.92,
     "text": "around 80%. What did you say, Rob? I said C, around 80%. And you are right.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 291.92,
     "end": 301.439,
     "text": "C, the answer is around 80%. From 66 million in December 2017 to 118 million in December 2018,",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 301.439,
     "end": 307.92,
     "text": "and around 10 million people in the UK now use one too. I guess they're not worried about eavesdrops.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 308.8,
     "end": 314.8,
-    "text": "Nice slide into the vocabulary there, Dan. If someone eavesdrops on you, it means they secretly listen to your conversation.",
-    "speaker": "eavesdrops"
+    "text": "Nice slide into the vocabulary there, Dan. If someone eavesdrops on you, it means they secretly",
+    "speaker": "eavesdropping"
   },
   {
+    "order": 80,
     "start": 314.8,
     "end": 319.759,
     "text": "listen to your conversation. They could be eavesdropping on you through a bug, which is a small",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 319.759,
     "end": 325.6,
     "text": "electronic device used to secretly listen to conversations. Yes, they may have bugged your most",
-    "speaker": null
+    "speaker": "bug"
   },
   {
+    "order": 82,
     "start": 325.6,
     "end": 331.839,
     "text": "intimate or private and personal spaces. Next we had circumvent. If you circumvent something,",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 331.919,
     "end": 338.399,
     "text": "such as security, you cleverly bypass it or go around it. Then we had resigned. If you are",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 338.399,
     "end": 344.56,
-    "text": "resigned to something, it means you accept something unpleasant that can't be changed. And lastly,",
+    "text": " resigned to something, it means you accept something unpleasant that can't be changed. And lastly",
+    "speaker": "resignedresigned"
+  },
+  {
+    "order": 85,
+    "start": 344.56,
+    "end": 350.719,
+    "text": "we had trade-off. A trade-off is a compromise. You get something good, but you also get something",
     "speaker": null
   },
   {
-    "start": 344.56,
-    "end": 350.719,
-    "text": "And lastly, we had trade-off. A trade-off is a compromise. You get something good, but you also get something bad.",
-    "speaker": "trade-offtrade-off"
-  },
-  {
+    "order": 86,
     "start": 350.719,
     "end": 356.879,
     "text": "bad. Right, like six minutes English, a great discussion and vocabulary, but the trade-off is",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 356.879,
     "end": 363.04,
     "text": "it only lasts six minutes, which is just about now actually time to go. So until next time,",
+    "speaker": "trade-off"
+  },
+  {
+    "order": 88,
+    "start": 363.04,
+    "end": 369.12,
+    "text": "find us all over the place online and on social media. Just search for BBC Learning English.",
     "speaker": null
   },
   {
-    "start": 363.04,
-    "end": 369.12,
-    "text": "Which is just about now, actually - time to go. So until next time, find us all over the place online and on social media. Just search for BBC Learning English. Bye for now.",
-    "speaker": "Dan"
-  },
-  {
+    "order": 89,
     "start": 369.12,
     "end": 370.399,
     "text": "Bye for now. Goodbye.",

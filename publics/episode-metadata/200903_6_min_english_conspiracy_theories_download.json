@@ -5,6 +5,31 @@
   "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p08qvl2p.jpg",
   "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/200903_6_min_english_conspiracy_theories_download.mp3",
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/200903_6min_english_conspiracy_theories.pdf",
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "word": "down the rabbit hole",
+      "definition": "down the rabbit holeenter a situation which seems interesting and uncomplicated at first but ends up becoming strange, confusing and hard to escape from"
+    },
+    {
+      "word": "pretext",
+      "definition": "pretend reason for doing something that is used to hide the real reason"
+    },
+    {
+      "word": "bonkers",
+      "definition": "bonkerssilly, stupid or crazy (informal)"
+    },
+    {
+      "word": "disdain",
+      "definition": "disliking something because you feel it does not deserve your attention or respect"
+    },
+    {
+      "word": "get to the bottom of (something)",
+      "definition": "get to the bottom of (something)discover the real but sometimes hidden reason why something happens"
+    },
+    {
+      "word": "sweeping",
+      "definition": "something spoken or written about that is too general and does not carefully consider all the relevant facts"
+    }
+  ],
   "quiz": null
 }

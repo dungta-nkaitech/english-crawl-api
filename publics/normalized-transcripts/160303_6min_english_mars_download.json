@@ -1,641 +1,748 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 12.08,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 12.08,
     "end": 15.759,
     "text": "Hello and welcome to 6 Minute English. I'm Sophie…",
     "speaker": "Sophie"
   },
   {
+    "order": 4,
     "start": 15.759,
     "end": 20.32,
-    "text": "And I'm Neil. Sophie – did you see the beautiful sky last night?",
-    "speaker": "Neil"
+    "text": "And I'm Neil. Sophie, did you see the beautiful sky last night?",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 20.32,
     "end": 22.48,
     "text": "No, I went to bed early. Why?",
     "speaker": "Sophie"
   },
   {
+    "order": 6,
     "start": 22.48,
     "end": 26.24,
     "text": "I was wondering if there was life out there.",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 7,
     "start": 26.239,
     "end": 30.32,
     "text": "You mean life on other planets? That's just science fiction, Neil.",
     "speaker": "Sophie"
   },
   {
+    "order": 8,
     "start": 30.32,
     "end": 34.799,
-    "text": "It isn't! People are fascinated by life on other planets for a good reason.",
-    "speaker": "Neil"
+    "text": "It isn't. People are fascinated by life on other planets for a good reason.",
+    "speaker": null
   },
   {
+    "order": 9,
     "start": 34.799,
     "end": 36.96,
     "text": "You believe in little green men?",
     "speaker": "Sophie"
   },
   {
+    "order": 10,
     "start": 36.96,
     "end": 39.92,
-    "text": "Not necessarily… but possibly.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 39.92,
-    "end": 43.119,
-    "text": "Well, Mars is our closest neighbour in the solar system",
+    "text": "Not necessarily, but possibly.",
     "speaker": null
   },
   {
+    "order": 11,
+    "start": 39.92,
+    "end": 43.119,
+    "text": "Well, Mars is our closest neighbour in the solar system",
+    "speaker": "Sophie"
+  },
+  {
+    "order": 12,
     "start": 43.119,
     "end": 45.759,
     "text": "and the subject of today's show.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 45.759,
     "end": 48.719,
     "text": "And that brings me on to our usual quiz question.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 48.719,
     "end": 50.799,
     "text": "How long is a day on Mars?",
-    "speaker": null
+    "speaker": "evolved"
   },
   {
+    "order": 15,
     "start": 50.799,
     "end": 55.2,
     "text": "Is it about a five hours, b 25 hours,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 55.2,
     "end": 58.4,
-    "text": "Or c) 45 hours?",
+    "text": "or c 45 hours?",
     "speaker": "Sophie"
   },
   {
+    "order": 17,
     "start": 58.4,
     "end": 64.48,
-    "text": "And I think it must be c 45 hours. Things are weird on other planets.",
-    "speaker": null
+    "text": "And I think it must be c) 45 hours. Things are weird on other planets",
+    "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 64.48,
     "end": 68,
     "text": "And Mars is further from the sun than us.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 68,
     "end": 72.4,
     "text": "Mars may be our closest neighbour, but it's hardly in our backyard, is it?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 72.4,
     "end": 77.04,
     "text": "It is in astronomical terms, Neil. It's visible to the naked eye,",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 77.04,
     "end": 79.28,
     "text": "meaning without using instruments,",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 79.28,
     "end": 82.48,
     "text": "and it's reachable by spacecraft.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 82.48,
     "end": 87.12,
     "text": "Well, we'll find out later on in the show whether you got the answer right or not.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 87.12,
     "end": 93.359,
     "text": "Now, can you tell me, Neil, why people like you get excited about the possibility of life on Mars?",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 93.359,
     "end": 96.64,
     "text": "Well, Mars is similar to Earth in some important ways,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 96.64,
     "end": 100.719,
-    "text": "which means if life developed on our planet, why not Mars?",
-    "speaker": null
+    "text": " which means if life developed on our planet, why not Mars",
+    "speaker": "Neil"
   },
   {
+    "order": 27,
     "start": 100.719,
     "end": 107.04,
     "text": "That's true. Its temperature is in the right zone, not too hot and not too cold.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 107.04,
     "end": 110.719,
     "text": "But actually, we could find Mars pretty cold.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 110.799,
     "end": 118.959,
     "text": "An average temperature would be around minus 63 degrees Celsius compared to Earth's 14 degrees Celsius.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 118.959,
     "end": 121.76,
     "text": "It's also very arid or dry.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 121.76,
     "end": 125.359,
     "text": "And it needs to be wet for life to develop, doesn't it?",
     "speaker": "Neil"
   },
   {
+    "order": 32,
     "start": 125.359,
     "end": 130.159,
     "text": "That's right. Many scientists think that liquid water is essential for life,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 130.159,
     "end": 134.079,
     "text": "but there may have been water on the surface of Mars in the past.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 134.079,
     "end": 138.719,
     "text": "And recent research suggests that there may be water underground.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 138.719,
     "end": 142,
     "text": "Let's hear some more about this from Professor John Zanecki,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 142,
     "end": 144.8,
     "text": "who teaches space science at the Open University.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 145.919,
     "end": 150.96,
     "text": "We are now seeing that in fact, Mars probably does have water, not liquid water.",
-    "speaker": null
+    "speaker": "INSERT"
   },
   {
+    "order": 38,
     "start": 150.96,
     "end": 154.319,
     "text": "There is ice just below the surface,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 154.319,
     "end": 160.159,
     "text": "and there's even just recently tantalising evidence that perhaps water does flow periodically.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 160.159,
     "end": 163.439,
     "text": "Now, and also coupled with the fact that here on Earth,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 163.439,
     "end": 166.56,
     "text": "we're finding that life in very primitive form",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 166.56,
     "end": 169.039,
     "text": "exists in the most extreme environments.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 169.039,
     "end": 172.8,
     "text": "These are the so-called extremophiles that exist at the bottom of the ocean,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 172.8,
     "end": 174.64,
     "text": "so life is much, much tougher.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 175.599,
     "end": 177.68,
     "text": "What does tantalising mean, Sophie?",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 177.68,
     "end": 182.56,
     "text": "It means something you want that's almost, but not quite, within reach.",
-    "speaker": null
+    "speaker": "tantalizing"
   },
   {
+    "order": 47,
     "start": 182.56,
     "end": 186.24,
     "text": "So, scientists would love to think water flows on Mars,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 186.24,
     "end": 190,
     "text": "but the evidence isn't strong enough for this to be certain.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 190,
     "end": 192.879,
     "text": "The other interesting point the Professor makes",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 192.879,
     "end": 197.039,
     "text": "is that life makes this in the very harsh Martian environment,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 197.039,
     "end": 201.759,
     "text": "because primitive life exists in extreme places on Earth.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 201.759,
     "end": 205.12,
-    "text": "Extremophiles are organisms, or small creatures,",
-    "speaker": null
+    "text": "Extremophiles are organisms – or small creatures",
+    "speaker": "xtremophilesorganismsradiation"
   },
   {
+    "order": 53,
     "start": 205.12,
     "end": 208.56,
     "text": "that live in very extreme environments and can survive conditions",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 208.56,
     "end": 210.8,
     "text": "that would kill most other organisms.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 210.8,
     "end": 213.359,
     "text": "But on Mars, they would be living underground,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 213.359,
     "end": 217.759,
     "text": "because the radiation, or light in heat from the sun,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 217.759,
     "end": 221.039,
     "text": "would kill any organisms living on the surface of the planet.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 221.599,
     "end": 225.039,
     "text": "So, why doesn't the sun's radiation kill us then, Sophie?",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 225.039,
     "end": 230.239,
-    "text": "The Earth has a strong magnetic field created by its hot molten core – or centre – and this protects us from the Sun's harmful solar winds.",
-    "speaker": "core"
+    "text": "The Earth has a strong magnetic field created by its hot molten core,",
+    "speaker": null
   },
   {
+    "order": 60,
     "start": 230.239,
     "end": 234.879,
     "text": "or centre, and this protects us from the sun's harmful solar wind.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 234.879,
     "end": 236.239,
-    "text": "And what about Mars?",
-    "speaker": null
-  },
-  {
-    "start": 236.239,
-    "end": 238.639,
-    "text": "And what about Mars - why doesn't it have a magnetic field?",
+    "text": "And what about Mars ",
     "speaker": "Neil"
   },
   {
+    "order": 62,
+    "start": 236.239,
+    "end": 238.639,
+    "text": "Why doesn't it have a magnetic field?",
+    "speaker": null
+  },
+  {
+    "order": 63,
     "start": 238.639,
     "end": 241.68,
     "text": "It used to, four billion years ago.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 241.68,
     "end": 245.12,
     "text": "It's possible that a massive collision with an asteroid",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 245.12,
     "end": 249.359,
     "text": "might have heated up Mars' core, disrupting the magnetic fields.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 249.36,
     "end": 253.52,
-    "text": "And if you disrupt a process, you stop it from continuing normally.",
-    "speaker": null
+    "text": "And if you disrupt a process you stop it from continuing normally. ",
+    "speaker": "disrupt"
   },
   {
+    "order": 67,
     "start": 253.52,
     "end": 256.16,
     "text": "Now, to return to the subject of collisions,",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 256.16,
     "end": 259.439,
     "text": "Sophie, I have something very interesting to tell you.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 259.439,
     "end": 260.56,
-    "text": "Yes?",
-    "speaker": "Sophie"
-  },
-  {
-    "start": 260.56,
-    "end": 264.08,
-    "text": "A meteorite, or a piece of rock from outer space,",
+    "text": "Yes.",
     "speaker": null
   },
   {
+    "order": 70,
+    "start": 260.56,
+    "end": 264.08,
+    "text": "A meteorite – or a piece of rock from outer space",
+    "speaker": "meteorite"
+  },
+  {
+    "order": 71,
     "start": 264.08,
     "end": 267.92,
     "text": "might have crashed into the Earth millions of years ago.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 267.92,
     "end": 272.639,
     "text": "That meteorite might have contained",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 272.639,
     "end": 275.36,
     "text": "Martian life forms.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 275.36,
     "end": 278.72,
     "text": "So we might be descended from...",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 278.72,
     "end": 280.48,
     "text": "Martians.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 280.48,
     "end": 282.879,
     "text": "Well, that's actually an interesting idea, Neil.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 282.879,
     "end": 285.52,
     "text": "But let's listen to Professor John Zanekki",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 285.52,
     "end": 289.04,
     "text": "talking about interplanetary life.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 289.04,
     "end": 292.56,
     "text": "If we do find traces of life on Mars,",
-    "speaker": null
+    "speaker": "INSERT"
   },
   {
+    "order": 80,
     "start": 292.56,
     "end": 295.84,
     "text": "we don't know, do we, whether it evolved independently,",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 295.84,
     "end": 297.52,
     "text": "or was it perhaps seeded from Earth?",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 297.52,
     "end": 299.84,
     "text": "It is possible that life forms from Earth,",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 299.84,
     "end": 304.08,
     "text": "travel to Mars, and perhaps it existed there, or the other way around.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 304.079,
     "end": 308.24,
     "text": "So, life on Mars may have evolved or developed on its own,",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 308.24,
     "end": 311.759,
     "text": "or it might have arrived from Earth in a lump of rock,",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 311.759,
     "end": 312.959,
     "text": "or the other way around.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 312.959,
     "end": 316.719,
     "text": "So, Martians might be humans, or we might be Martians,",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 316.719,
     "end": 319.68,
     "text": "one big interplanetary happy family, Sophie.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 319.68,
     "end": 321.519,
     "text": "Well, Neil, let's hope you stay happy",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 321.519,
     "end": 324.799,
     "text": "after you hear the answer to today's quiz question.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 324.799,
     "end": 327.759,
     "text": "I asked, how long is a day on Mars?",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 327.759,
     "end": 333.759,
     "text": "Is it A, five hours, B, 25 hours, or C, 45 hours?",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 333.839,
     "end": 336.319,
-    "text": "And I said C, 45 hours.",
-    "speaker": null
-  },
-  {
-    "start": 336.319,
-    "end": 338.079,
-    "text": "And I said c) 45 hours – they must have a long day over there.",
+    "text": "And I said c) 45 hours ",
     "speaker": "Neil"
   },
   {
+    "order": 94,
+    "start": 336.319,
+    "end": 338.079,
+    "text": "They must have a long day over there.",
+    "speaker": null
+  },
+  {
+    "order": 95,
     "start": 338.079,
     "end": 340.24,
     "text": "And you were wrong.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 340.24,
     "end": 343.12,
     "text": "The correct answer is B, because a day on Mars",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 343.12,
     "end": 345.519,
     "text": "is slightly longer than here on Earth.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 345.519,
     "end": 347.519,
     "text": "It's 25 hours.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 347.519,
     "end": 351.12,
     "text": "Anyway, can we at least hear the words we learnt today?",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 351.12,
     "end": 354.56,
     "text": "They are the naked eye, arid,",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 354.56,
     "end": 360.24,
     "text": "tantalising, extrema files, organisms, radiation,",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 360.319,
     "end": 365.04,
     "text": "core, disrupt, meteorite, evolved.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 365.04,
     "end": 368.079,
     "text": "Well, that's the end of today's six minute English.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 368.079,
     "end": 369.84,
     "text": "Join us again soon. Bye-bye.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 369.84,
     "end": 371.36,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 371.36,
     "end": 374.079,
     "text": "Six minute English from the BBC.",

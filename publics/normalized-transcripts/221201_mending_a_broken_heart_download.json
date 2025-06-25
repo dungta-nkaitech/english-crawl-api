@@ -1,647 +1,755 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6M8English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.12,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.28,
     "end": 17.039,
     "text": "Hello, this is 6M8English from BBC Learning English. I'm Sam.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 17.039,
     "end": 18.32,
     "text": "And I'm Neil.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 6,
     "start": 18.32,
     "end": 21.28,
     "text": "There are a million songs about falling in love",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 21.28,
     "end": 24.4,
     "text": "and just as many about being broken-hearted.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 24.4,
     "end": 27.039,
     "text": "Do you remember the first time you fell in love, Sam?",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 27.119,
     "end": 32.32,
     "text": "Ah, yes. I was 14 and it seemed like every word of every love song",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 32.32,
     "end": 34,
     "text": "had been written just for me.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 11,
     "start": 34,
     "end": 37.119,
     "text": "There's a strong connection between music and love.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 37.119,
     "end": 38.96,
     "text": "As Shakespeare famously wrote,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 38.96,
     "end": 41.519,
     "text": "if music be the food of love, play on.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 42.159,
     "end": 45.12,
     "text": "In this programme, we'll be meeting a singer-songwriter",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 45.12,
     "end": 48.879,
     "text": "who used music to express her feelings of falling in love",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 48.879,
     "end": 53.039,
     "text": "and later to mend her broken heart when the relationship ended.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 53.039,
     "end": 56.879,
     "text": "And as usual, we'll be learning some new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 56.88,
     "end": 58.88,
-    "text": "But first, I have a question for you, Neil.",
-    "speaker": null
+    "text": "But first I have a question for you, Neil. ",
+    "speaker": "Sam"
   },
   {
+    "order": 19,
     "start": 59.6,
     "end": 63.04,
     "text": "Your mention of Shakespeare reminds me of Romeo and Juliet,",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 63.04,
     "end": 67.52,
     "text": "his famous lovers who fall in love despite their fighting families",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 67.52,
     "end": 69.92,
     "text": "only to die tragically young.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 69.92,
     "end": 74.159,
     "text": "But in which Italian city was Romeo and Juliet set?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 74.159,
     "end": 79.2,
     "text": "Was it A, Florence, B, Venice, or C, Verona?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 79.2,
     "end": 83.84,
-    "text": "I think it must be one of the world’s most romantic cities - Florence.",
-    "speaker": "Neil"
+    "text": "I think it must be one of the world's most romantic cities, Florence.",
+    "speaker": "Sam"
   },
   {
+    "order": 25,
     "start": 83.84,
     "end": 87.52,
     "text": "Okay, Neil, I'll reveal the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 87.52,
     "end": 90.799,
     "text": "Julia Jacqueline is an Australian singer-songwriter",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 90.799,
     "end": 93.92,
     "text": "whose song don't know how to keep loving you,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 28,
     "start": 93.92,
     "end": 97.2,
     "text": "reach number eight in the Australian pop charts.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 97.2,
     "end": 100.4,
     "text": "Her song lyrics explore feelings of falling in love",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 100.4,
     "end": 103.12,
     "text": "as well as the pain of breaking up.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 103.12,
     "end": 106.08,
-    "text": "Julia's songs are written from experience.",
-    "speaker": null
+    "text": "Julia’s songs are written from experience.",
+    "speaker": "soulmate"
   },
   {
+    "order": 32,
     "start": 106.08,
     "end": 108.879,
     "text": "Several years ago, she quit her band in Australia",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 108.879,
     "end": 110.879,
     "text": "and bought a one-way ticket to London",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 110.879,
     "end": 113.439,
     "text": "to be with her boyfriend and soulmate.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 113.439,
     "end": 117.28,
     "text": "The person who she felt a special romantic connection with.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 117.28,
     "end": 120.239,
     "text": "But things didn't work out as she'd hopes",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 120.239,
     "end": 123.84,
     "text": "and she found herself alone and working in a depressing job.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 124.4,
     "end": 126.159,
     "text": "Julia turned to music,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 126.159,
     "end": 128.8,
     "text": "pouring her feelings of lost love into the songs",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 128.8,
     "end": 132.56,
     "text": "which later became her first album as a successful musician.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 133.28,
     "end": 137.68,
     "text": "So when BBC World Service programme the conversation spoke with her,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 137.68,
     "end": 140.719,
     "text": "they asked Julia what she would tell her younger self.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 141.68,
     "end": 145.84,
     "text": "The one thing that was just very heartbreaking for me at that age",
-    "speaker": null
+    "speaker": "cynicismvalidatedgo for it!"
   },
   {
+    "order": 44,
     "start": 145.84,
     "end": 150.56,
     "text": "was kind of adult cynicism, I guess, about love.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 150.56,
     "end": 152.639,
     "text": "I found that really difficult.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 152.639,
     "end": 156.719,
     "text": "You know, now when a young person is like really in love at 14,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 156.719,
     "end": 160.479,
     "text": "I know that as an adult, all your instincts are telling them to like,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 162,
     "end": 164.479,
     "text": "you know, that it's probably not going to work, you know?",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 164.479,
     "end": 166.639,
     "text": "And that's like just relax or whatever.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 166.639,
     "end": 170.4,
     "text": "But I remember at the time just desperately wanting to be validated by adults",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 170.4,
     "end": 172.319,
     "text": "and not be told that I was being stupid.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 173.2,
     "end": 175.92,
     "text": "I don't know, I'd probably just be like, yeah, go for it.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 176.48,
     "end": 180.4,
     "text": "Many teenagers have a romantic ideal of everlasting love,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 180.4,
     "end": 185.36,
     "text": "often in contrast to the beliefs of adults which Julia calls cynicism.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 185.36,
     "end": 188.08,
     "text": "The belief that something will not be successful",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 188.08,
     "end": 190.879,
     "text": "or that the people involved are not sincere.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 190.879,
     "end": 195.12,
     "text": "The young Julia wanted to feel validated to get confirmation",
-    "speaker": null
+    "speaker": "validated‘Go for it!’"
   },
   {
+    "order": 58,
     "start": 195.12,
     "end": 197.52,
     "text": "that her feelings were worthwhile and valued.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 198.08,
     "end": 201.2,
     "text": "She wanted someone to tell her, go for it,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 201.2,
     "end": 204.88,
     "text": "a phrase used to encourage a person to do whatever it takes",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 204.88,
     "end": 206.08,
     "text": "to make something work.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 206.96,
     "end": 210.56,
     "text": "Young love is delicate and it's easy to be pessimistic.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 210.56,
     "end": 212.879,
     "text": "I mean, how many couples do you know Sam",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 212.879,
     "end": 216.719,
     "text": "who met as teenagers and stayed together for the rest of their lives?",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 216.719,
     "end": 218.8,
-    "text": "I don't know many, it's true.",
-    "speaker": null
+    "text": "I don’t know many, it’s true.",
+    "speaker": "Sam"
   },
   {
+    "order": 66,
     "start": 218.8,
     "end": 224.56,
     "text": "Neuroscientist Dr Lucy Brown is co-creator of the Anatomy of Love,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 224.56,
     "end": 228,
     "text": "a website exploring the science of romance.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 228,
     "end": 231.68,
     "text": "She thinks we need to be more realistic about falling in love",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 231.68,
     "end": 235.439,
     "text": "as she explains here to BBC World Services, the conversation.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 236.319,
     "end": 239.759,
     "text": "I wish someone had said, you know, love is wonderful, yes, go for it,",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 239.759,
     "end": 244.08,
     "text": "but heartbreak happens, you know, and maybe this isn't going to last.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 245.439,
     "end": 249.199,
     "text": "Maybe it is, but maybe it isn't and just realize that",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 249.199,
     "end": 253.439,
     "text": "it can be one of the most devastating experiences in your life,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 253.439,
     "end": 255.12,
     "text": "but you're going to get over it.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 255.12,
     "end": 260.319,
-    "text": "Dr Brown thinks it's important to know that relationships can end in heartbreak,",
-    "speaker": null
+    "text": "Dr Brown thinks it’s important to know that relationships can end in heartbreak ",
+    "speaker": "heartbreak"
   },
   {
+    "order": 76,
     "start": 260.319,
     "end": 264.319,
-    "text": "Heartbreak describes feelings of great sadness, as if your heart is broken.",
-    "speaker": "Heartbreak"
+    "text": "feelings of great sadness as if your heart is broken,",
+    "speaker": "Go for it!"
   },
   {
+    "order": 77,
     "start": 264.319,
     "end": 266.72,
     "text": "especially after the end of a romantic affair.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 267.36,
     "end": 270.8,
     "text": "But she also wants young people to know that whatever happens,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 270.8,
     "end": 273.04,
     "text": "they can't get over it.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 273.04,
     "end": 276.56,
     "text": "Feel better again after something has made them unhappy.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 276.56,
     "end": 279.68,
     "text": "Falling in love is one of the great experiences in life",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 82,
     "start": 279.68,
     "end": 282.72,
     "text": "and developing the strength the face whatever happens",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 282.8,
     "end": 285.76,
     "text": "makes it more likely that the story ends happily,",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 285.76,
     "end": 288.48,
     "text": "unlike the tale of Romeo and Juliet.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 288.8,
     "end": 291.92,
     "text": "I think it's time to reveal the answer to my question, Neil,",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 291.92,
     "end": 296.48,
-    "text": "I think it’s time to reveal the answer to my question – in which Italian city does the story of Romeo and Juliet take place?",
-    "speaker": "Sam"
+    "text": "in which Italian city does the story of Romeo and Juliet take place?",
+    "speaker": null
   },
   {
+    "order": 87,
     "start": 296.48,
     "end": 299.12,
-    "text": "I said it was Florence – so, was I right?",
+    "text": "I said it was Florence, so was I right?",
     "speaker": "Neil"
   },
   {
+    "order": 88,
     "start": 299.12,
     "end": 304.4,
     "text": "Well, Florence is a romantic city, but the correct answer is Verona.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 304.4,
     "end": 306.96,
     "text": "Verona was little known in Shakespeare's time,",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 306.96,
     "end": 309.92,
     "text": "but nowadays thousands of tourists visit the sites",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 309.92,
     "end": 313.36,
     "text": "connected with the story, including the famous balcony",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 313.36,
     "end": 315.92,
     "text": "where Romeo declared his eternal love.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 316.64,
     "end": 320.319,
     "text": "Okay, let's recap the vocabulary we've learned starting with",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 320.319,
     "end": 325.68,
     "text": "soulmate, the special person who you feel a strong romantic bond to.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 325.68,
     "end": 330.319,
     "text": "Sinicism describes the belief that something will not work out successfully.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 330.319,
     "end": 335.04,
-    "text": "If you are validated, you get external confirmation that your actions, ideas or feelings are worthwhile and valuable.",
-    "speaker": "validated"
+    "text": "If you are validated, you get external confirmation that your actions, ideas",
+    "speaker": "Cynicism"
   },
   {
+    "order": 97,
     "start": 335.04,
     "end": 337.6,
     "text": "or feelings are worthwhile and valued.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 337.68,
     "end": 342.08,
-    "text": "You can use the phrase, Go for it! to encourage someone to make whatever efforts are necessary to get something done.",
-    "speaker": "Go for it!"
+    "text": "You can use the phrase go for it to encourage someone to make whatever efforts",
+    "speaker": null
   },
   {
+    "order": 99,
     "start": 342.08,
     "end": 344.56,
     "text": "are necessary to get something done.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 344.56,
     "end": 347.52,
     "text": "Heartbreak describes feelings of great sadness",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 347.52,
     "end": 349.2,
     "text": "as if your heart is broken.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 349.2,
     "end": 353.2,
     "text": "And finally, to get over something means to feel better again",
-    "speaker": null
+    "speaker": "get over something"
   },
   {
+    "order": 103,
     "start": 353.2,
     "end": 355.439,
     "text": "after something has made you unhappy.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 356.24,
     "end": 360.64,
     "text": "Once again, our six minutes are up, but there's time for one more famous saying",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 360.64,
     "end": 366.56,
     "text": "and I think it's good advice, better to have loved and lost than never to have loved at all.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 366.639,
     "end": 367.92,
     "text": "Bye for now.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 367.92,
     "end": 369.12,
     "text": "Goodbye.",

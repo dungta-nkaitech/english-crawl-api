@@ -1,692 +1,807 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.88,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.96,
     "end": 16.08,
-    "text": "Hello and welcome to 6 Minute English. I'm Neil…",
-    "speaker": "Neil"
+    "text": "Hello and welcome to 6 Minute English, I'm Neil.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 16.08,
     "end": 22.96,
     "text": "And I'm Alice. My chair feels uncomfortable today. How does yours feel?",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 22.96,
     "end": 25.12,
     "text": "Oh mine's fine, very comfortable, thank you.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 25.12,
     "end": 28.96,
-    "text": "Well, it would be nice if you offered to give me your chair, Neil.",
-    "speaker": "Alice"
+    "text": "Hmm, well it would be nice if you offered to give me your chair, Neil.",
+    "speaker": null
   },
   {
+    "order": 8,
     "start": 29.76,
     "end": 34,
-    "text": "What? No chance. Well, I would be uncomfortable then, wouldn't I?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 34,
-    "end": 36.24,
-    "text": "You should give me your seat, Neil.",
+    "text": "What, no chance. Well, I would be uncomfortable then, wouldn't I?",
     "speaker": "Alice"
   },
   {
-    "start": 36.24,
-    "end": 40.32,
-    "text": "Should I? Well, now might be a good time to mention that chivalry is the subject of today's show.",
-    "speaker": "Neil"
+    "order": 9,
+    "start": 34,
+    "end": 36.24,
+    "text": "Hmm, you should give me your seat, Neil.",
+    "speaker": null
   },
   {
+    "order": 10,
+    "start": 36.24,
+    "end": 40.32,
+    "text": "Should I? Well, now might be a good time to mention that",
+    "speaker": "Alice"
+  },
+  {
+    "order": 11,
     "start": 40.32,
     "end": 43.28,
     "text": "shivalry is the subject of today's show.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 43.28,
     "end": 48.32,
     "text": "Shivalry, these days, means polite behaviour, usually, by men towards women.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 48.32,
     "end": 54.32,
     "text": "Though, in the past, it referred to a code of behaviour, followed by knights in the middle ages.",
-    "speaker": null
+    "speaker": "Chivalry"
   },
   {
+    "order": 14,
     "start": 54.32,
     "end": 57.12,
     "text": "It was all about honour and courage in battle.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 57.199,
     "end": 60.159,
     "text": "And only later on about being polite to the ladies.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 60.799,
     "end": 63.839,
     "text": "Well, we aren't living in the middle ages anymore, are we?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 63.839,
     "end": 67.28,
     "text": "No comment. Let's go for our traditional question.",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 18,
     "start": 67.28,
     "end": 69.039,
     "text": "I have a literary one for you today.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 69.679,
     "end": 74.319,
     "text": "Who wrote the novel Don Quixote, about a 50 year old man traveling Spain in search of",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 74.319,
     "end": 77.519,
     "text": "nightly adventures in Rusty Armor and a cardboard helmet?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 78.239,
     "end": 81.28,
     "text": "Was it, eh, Miguel de Cervantes?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 81.28,
     "end": 85.519,
-    "text": "Or c) William Shakespeare?",
-    "speaker": "Alice"
+    "text": "V, Leo Tolstoy, or C, William Shakespeare?",
+    "speaker": null
   },
   {
+    "order": 23,
     "start": 85.519,
     "end": 88.56,
-    "text": "I think - I'm going to get it right today, Alice – I'm going to say a) Miguel de Cervantes.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 88.56,
-    "end": 91.359,
-    "text": "a) Miguel de Cervantes",
+    "text": "I think I'm going to get it right today, Alice.",
     "speaker": "Alice"
   },
   {
+    "order": 24,
+    "start": 88.56,
+    "end": 91.359,
+    "text": "I'm going to say A, Miguel de Cervantes.",
+    "speaker": null
+  },
+  {
+    "order": 25,
     "start": 91.359,
     "end": 96.159,
     "text": "Hmm, well, we'll find out later on in the show if you're right or not.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 96.159,
     "end": 99.119,
     "text": "But first, do you think shivalry is dead, Neil?",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 99.119,
     "end": 102.719,
     "text": "No, not at all. These traditions are alive and kicking.",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 28,
     "start": 102.719,
     "end": 107.359,
     "text": "In Poland, at any rate, if something is alive and kicking, it means it's active.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 107.359,
     "end": 112.959,
     "text": "The BBC reporter, Adam Eastern, saw it with his own eyes and is going to describe it for us.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 113.039,
     "end": 119.759,
     "text": "Medieval night tournaments, a battle reenactments, a popular across Europe.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 119.759,
     "end": 123.919,
     "text": "But there's something about dressing up as a night that particularly appeals to people here in",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 123.919,
     "end": 127.919,
     "text": "Poland. In the summer, there's events every weekend.",
-    "speaker": null
+    "speaker": "INSERT"
   },
   {
+    "order": 33,
     "start": 127.919,
     "end": 132.639,
     "text": "And here in Malbok, northern Poland, home to Europe's largest medieval castle,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 132.639,
     "end": 134.719,
     "text": "there's one of the biggest of the seasons.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 134.719,
     "end": 140.4,
     "text": "There's archery, crossbow, jousting, other horse skills, and more than 100,000 people come to watch",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 140.4,
     "end": 144.64,
     "text": "these tournaments. The BBC reporter, Adam Eastern.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 144.64,
     "end": 147.12,
-    "text": "The BBC reporter Adam Easton. By the way, what's a re-enactment, Neil?",
+    "text": "By the way, what's a reenactment, Neil?",
     "speaker": "re-enactment"
   },
   {
+    "order": 38,
     "start": 147.12,
     "end": 150.56,
     "text": "It's where you perform the actions of a past event.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 150.56,
     "end": 155.92,
     "text": "And in Malbok, in Poland, they stage battle reenactments every weekend, apparently,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 155.92,
     "end": 157.439,
     "text": "at least in the summer months.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 157.439,
     "end": 160.719,
     "text": "Hmm, it doesn't sound like my cup of tea.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 160.719,
     "end": 164.08,
-    "text": "Mmm… it doesn't sound like my cup of tea – and that means it doesn't sound like something I would enjoy doing – how about you, Neil?",
+    "text": "And that means it doesn't sound like something I would enjoy doing.",
     "speaker": "my cup of tea"
   },
   {
+    "order": 43,
     "start": 164.08,
     "end": 165.2,
     "text": "How about you, Neil?",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 165.2,
     "end": 168.64,
     "text": "Well, I'm not sure about the archery, crossbow and jousting.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 168.719,
     "end": 171.599,
     "text": "It all sounds like too much hard work.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 171.599,
     "end": 173.839,
     "text": "But I'd definitely enjoy the dressing up.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 173.839,
     "end": 175.359,
     "text": "Hmm, excellent.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 175.359,
     "end": 181.199,
     "text": "Well, jousting is where two people fight on horseback using a lance or long pole",
-    "speaker": null
+    "speaker": "joustinglancetournament"
   },
   {
+    "order": 49,
     "start": 181.199,
     "end": 187.199,
     "text": "to try to knock the other person off their horse, especially as part of a tournament or sporting event.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 188,
     "end": 191.519,
     "text": "So with the dressing up, Neil, I'm curious.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 191.519,
     "end": 194.56,
     "text": "I can't imagine you as a knight in shining armour, to be honest.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 194.56,
     "end": 195.679,
     "text": "Come on, Alice.",
-    "speaker": null
+    "speaker": "fetching"
   },
   {
+    "order": 53,
     "start": 195.76,
     "end": 199.04,
     "text": "I'd look very appealing to any damsel in distress.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 199.04,
     "end": 203.04,
-    "text": "Come on, Alice. I'd look very appealing to any damsel in distress. A damsel in distress is a young unmarried woman in need of help.",
-    "speaker": "damsel in distress"
+    "text": "A damsel in distress is a young unmarried woman in need of help.",
+    "speaker": null
   },
   {
+    "order": 55,
     "start": 203.04,
     "end": 207.84,
     "text": "OK, you might make a very fetching or attractive knight, Neil,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 207.84,
     "end": 211.04,
     "text": "but you should get used to actually helping the ladies.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 211.04,
     "end": 213.04,
     "text": "Maybe offering me your seat.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 213.04,
     "end": 215.76,
     "text": "I'm still sitting uncomfortably here.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 215.76,
     "end": 216.719,
     "text": "Come on, Alice.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 216.719,
     "end": 219.439,
     "text": "A knight needs to sit comfortably too.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 219.439,
     "end": 221.68,
     "text": "We've always been the ones with battles to fight.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 221.68,
     "end": 222.48,
     "text": "Hmm.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 222.56,
     "end": 227.599,
     "text": "But at some point in the history of shivori, prowess or skill on the battlefield,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 227.599,
     "end": 233.839,
     "text": "became combined with a set of conventions or rules governing other aspects of behaviour.",
-    "speaker": null
+    "speaker": "prowessconventions"
   },
   {
+    "order": 65,
     "start": 233.839,
     "end": 239.439,
     "text": "This included a knight's moral and religious duties and how to conduct their love affairs.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 239.439,
     "end": 242.319,
     "text": "Professor Laura Ash at Oxford University explains.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 243.359,
     "end": 248.639,
     "text": "The really strange thing is the idea that love should somehow make you a better knight.",
-    "speaker": null
+    "speaker": "INSERT"
   },
   {
+    "order": 68,
     "start": 248.639,
     "end": 252.079,
     "text": "I mean, this is what is suddenly claimed in the late 12th century,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 252.08,
     "end": 254.4,
     "text": "and it makes very little sense.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 254.4,
     "end": 257.92,
     "text": "If you imagine a footballer telling his teammates that being in love makes him a better footballer.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 258.879,
     "end": 262,
     "text": "That was Professor Laura Ash, and I agree with her.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 262,
     "end": 266.4,
-    "text": "That was Professor Laura Ashe. And I agree with her. What has being a great footballer or a great warrior got to do with love?",
-    "speaker": "Neil"
+    "text": "What has being a great footballer or a great warrior got to do with love?",
+    "speaker": null
   },
   {
+    "order": 73,
     "start": 266.4,
     "end": 269.84,
     "text": "Well, cordially love was a social code governing behaviour",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 269.84,
     "end": 274.96,
     "text": "between aristocratic men and women that developed at the same time and amongst the same people as",
-    "speaker": null
+    "speaker": "courtly love intertwined"
   },
   {
+    "order": 75,
     "start": 274.96,
     "end": 280,
     "text": "shivori, and the two became intertwined or hard to separate from them on.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 280,
     "end": 283.439,
     "text": "And aristocrats are people of high social rank.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 283.439,
     "end": 287.92,
     "text": "Okay, Alice, I think it's time you told us the answer to today's quiz question.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 287.92,
     "end": 288.8,
     "text": "Good idea.",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 79,
     "start": 288.8,
     "end": 295.519,
     "text": "Okay, I asked who wrote the novel Don Quixote about a 50-year-old man traveling Spain in search of",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 295.519,
     "end": 298.879,
     "text": "nightly adventures in Rusty Armor and a cardboard helmet?",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 299.439,
     "end": 306.399,
     "text": "Was it A. Miguel de Cervantes, B. Leo Tolstoy or C. William Shakespeare?",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 306.399,
     "end": 309.36,
-    "text": "And I said a) Miguel de Cervantes.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 309.36,
-    "end": 311.12,
-    "text": "And you were right.",
+    "text": "And I said A. Miguel de Cervantes.",
     "speaker": null
   },
   {
+    "order": 83,
+    "start": 309.36,
+    "end": 311.12,
+    "text": "And you were right!",
+    "speaker": "Alice"
+  },
+  {
+    "order": 84,
     "start": 311.12,
     "end": 311.92,
     "text": "Hey!",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 85,
     "start": 311.92,
     "end": 313.199,
     "text": "Well done!",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 313.199,
     "end": 318.4,
     "text": "Don Quixote was written by Miguel de Cervantes and published in 1605.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 318.4,
     "end": 321.92,
     "text": "It's a comic novel which describes what happens to an elderly night,",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 321.92,
     "end": 325.36,
     "text": "who, his head muddled by reading too many romances,",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 325.36,
     "end": 330,
     "text": "sets out on his old horse with his companion Santu Panzer to seek adventure.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 330,
     "end": 331.6,
     "text": "Very interesting, Alice.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 331.6,
     "end": 334,
-    "text": "Very interesting, Alice. Now can we hear the words we learned today?",
-    "speaker": "Neil"
+    "text": "Now, can we hear the words we learned today?",
+    "speaker": null
   },
   {
+    "order": 92,
     "start": 334,
     "end": 334.639,
     "text": "Sure.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 334.639,
     "end": 338.24,
-    "text": "alive and kicking",
-    "speaker": "Alice"
+    "text": "They are shivori, alive and kicking,",
+    "speaker": null
   },
   {
+    "order": 94,
     "start": 338.319,
     "end": 339.84,
     "text": "re-enactment",
     "speaker": "Alice"
   },
   {
+    "order": 95,
     "start": 339.84,
     "end": 341.439,
-    "text": "my cup of tea",
+    "text": "my cup of tea ",
     "speaker": "Alice"
   },
   {
+    "order": 96,
     "start": 341.439,
     "end": 342.96,
-    "text": "jousting",
-    "speaker": "Alice"
+    "text": "jousting,",
+    "speaker": null
   },
   {
+    "order": 97,
     "start": 342.96,
     "end": 344.16,
-    "text": "lance",
+    "text": "lance ",
     "speaker": "Alice"
   },
   {
+    "order": 98,
     "start": 344.16,
     "end": 345.36,
-    "text": "tournament",
-    "speaker": "Alice"
+    "text": "tournament,",
+    "speaker": null
   },
   {
+    "order": 99,
     "start": 345.36,
     "end": 346.8,
-    "text": "fetching",
+    "text": "fetching ",
     "speaker": "Alice"
   },
   {
+    "order": 100,
     "start": 346.8,
     "end": 349.12,
-    "text": "damsel in distress",
-    "speaker": "Alice"
+    "text": "damsel in distress,",
+    "speaker": null
   },
   {
+    "order": 101,
     "start": 349.12,
     "end": 350.56,
-    "text": "prowess",
+    "text": "prowess ",
     "speaker": "Alice"
   },
   {
+    "order": 102,
     "start": 350.56,
     "end": 352.319,
-    "text": "conventions",
-    "speaker": "Alice"
+    "text": "conventions,",
+    "speaker": null
   },
   {
+    "order": 103,
     "start": 352.319,
     "end": 354.079,
-    "text": "courtly love",
+    "text": "courtly love ",
     "speaker": "Alice"
   },
   {
+    "order": 104,
     "start": 354.079,
     "end": 355.6,
-    "text": "intertwined",
-    "speaker": "Alice"
+    "text": "intertwined,",
+    "speaker": null
   },
   {
+    "order": 105,
     "start": 355.6,
     "end": 357.28,
-    "text": "aristocrats",
+    "text": "aristocrats ",
     "speaker": "Alice"
   },
   {
+    "order": 106,
     "start": 357.28,
     "end": 359.759,
     "text": "Well, that's the end of today's six-minute English.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 359.759,
     "end": 361.28,
     "text": "Please join us again soon.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 361.28,
     "end": 362.72,
     "text": "And by the way, Alice,",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 362.72,
     "end": 364.079,
     "text": "would you like my chair?",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 364.079,
     "end": 365.04,
     "text": "It's very comfortable.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 365.04,
     "end": 368.079,
-    "text": "Oh, thank you - now that the programme is over, Neil!",
+    "text": "Oh, thank you now that the programme is over, Neil.",
     "speaker": "Alice"
   },
   {
+    "order": 112,
     "start": 368.24,
     "end": 369.12,
     "text": "Better late than never.",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 113,
     "start": 369.839,
     "end": 370.399,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 370.399,
     "end": 370.879,
-    "text": "Bye.",
-    "speaker": "Both"
+    "text": "Bye-bye.",
+    "speaker": null
   }
 ]

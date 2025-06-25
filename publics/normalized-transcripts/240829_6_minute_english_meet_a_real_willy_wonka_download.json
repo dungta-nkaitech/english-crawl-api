@@ -1,629 +1,734 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 8.24,
     "text": "6 Nuit English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 8.24,
     "end": 12.88,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 2,
     "start": 12.88,
     "end": 14.439,
-    "text": "And I’m Beth.",
-    "speaker": "Beth"
+    "text": "And I'm Beth.",
+    "speaker": null
   },
   {
+    "order": 3,
     "start": 14.439,
     "end": 19.199,
     "text": "In Britain, millions of kids grow up reading the books of Roll Dal.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 19.199,
     "end": 24.32,
     "text": "Before his death in 1990, Roll Dal wrote over 30 children's books,",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 24.32,
     "end": 28.12,
     "text": "including best sellers like Matilda and the BFG.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 28.12,
     "end": 31.8,
     "text": "But one book in particular is many people's favourite.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 31.8,
     "end": 33.679,
     "text": "Charlie and the Chocolate Factory.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 33.679,
     "end": 37.56,
     "text": "Ah, yes, I remember the story of Charlie Bucket,",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 37.56,
     "end": 42.079,
     "text": "the poor kid who's luck turns around when he wins a golden ticket",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 42.079,
     "end": 44.719,
     "text": "to the local chocolate factory.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 44.719,
     "end": 47.799,
     "text": "The factory is run by the mysterious Willy Wonka",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 47.799,
     "end": 52.52,
     "text": "who invents all kinds of sweets and chocolates for the children to try.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 52.52,
     "end": 57.04,
     "text": "Everything from strawberry coated fudge to marshmallow pillows.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 57.039,
     "end": 60.399,
     "text": "Neil, I really wanted to visit that chocolate factory.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 60.399,
     "end": 63.759,
     "text": "Now, if that story sounds familiar, then maybe as a kid,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 63.759,
     "end": 67.28,
     "text": "you also dreamed of tasting chocolate for a living.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 17,
     "start": 67.28,
     "end": 70.719,
     "text": "In this programme, we'll be meeting a real life, Willy Wonka,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 70.719,
     "end": 73.239,
     "text": "someone whose job involves exactly that,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 73.239,
     "end": 75.719,
     "text": "inventing and tasting chocolate bars.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 75.719,
     "end": 79.879,
     "text": "And as usual, we'll be learning some useful new vocabulary too.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 79.879,
     "end": 85.28,
     "text": "Hella Antilla has the kind of job most people can only dream of.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 85.32,
     "end": 88.799,
     "text": "Hella is head of research and development at FASER,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 88.799,
     "end": 91.079,
     "text": "a confectionery company in Finland,",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 91.079,
     "end": 96.4,
     "text": "which has been making and selling chocolate for over 130 years.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 96.4,
     "end": 100.84,
     "text": "Hella is responsible for buying the cocoa beans used to make chocolate",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 100.84,
     "end": 104.719,
     "text": "and coming up with ideas for new chocolate products to sell.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 104.719,
     "end": 107.84,
     "text": "So, my question for you, Neil, is this,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 107.84,
     "end": 111.52,
     "text": "what is Britain's best selling chocolate bar?",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 111.52,
     "end": 113.48,
     "text": "Is it A, Kit Kat?",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 113.48,
     "end": 116.88,
-    "text": "b) Snickers? or,",
+    "text": "b) Snickers? or, c) Mars",
     "speaker": "Beth"
   },
   {
+    "order": 31,
     "start": 116.88,
     "end": 120.96,
     "text": "Hmm, well, I'm going to guess that it's Kit Kat.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 120.96,
     "end": 125.68,
     "text": "OK, Neil, I will reveal the correct answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 125.68,
     "end": 131.319,
     "text": "With over 6,000 employees, FASER is Finland's largest chocolate maker.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 131.319,
     "end": 137.759,
     "text": "Just like Willy Wonka, Hella and her team think up new and exciting chocolate products.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 137.759,
     "end": 140.84,
     "text": "Here, Hella explains more to Ruth Alexander",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 140.84,
     "end": 144.759,
     "text": "for BBC World Service programme, The Food Chain.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 37,
     "start": 144.759,
     "end": 147.84,
     "text": "Part of your job is to travel around the world and eat chocolate?",
     "speaker": "Ruth Alexander"
   },
   {
+    "order": 38,
     "start": 147.84,
     "end": 150.12,
     "text": "That would be a dream.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 150.12,
     "end": 154.879,
     "text": "But of course, you get the different information from different sources around the world.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 154.879,
     "end": 159.4,
     "text": "So, I think there is a brilliant amount of ideas.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 159.4,
     "end": 163.439,
     "text": "Then it is just that OK, when is the right time",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 163.439,
     "end": 167.4,
     "text": "to actually develop and launch certain type of products?",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 167.4,
     "end": 171,
     "text": "Then there is a consumer demand.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 171,
     "end": 176,
-    "text": "How does it feel when you've developed a new product, a new taste, and it's on the shelves and people are going for it?",
+    "text": "How does it feel when you've developed a new product, a new taste,",
     "speaker": "on the shelvesgoing for it"
   },
   {
+    "order": 45,
     "start": 176,
     "end": 180.159,
     "text": "And it's on the shelves and people are going for it?",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 180.159,
     "end": 181.08,
     "text": "It feels great.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 181.08,
     "end": 186.4,
-    "text": "It feels great! You really feel proud of my team who is creating the products and creating the taste experience. It’s really a great feeling.",
-    "speaker": "Helle Anttila"
+    "text": "You really feel proud of my team who is creating the products and creating",
+    "speaker": null
   },
   {
+    "order": 48,
     "start": 186.4,
     "end": 187.64,
     "text": "the taste experience.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 187.64,
     "end": 190.08,
     "text": "It's really a great feeling.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 190.08,
     "end": 194.08,
-    "text": "Can you tell us about any flops where you just feel like we, chocolate eaters, just weren't ready for it?",
+    "text": "Can you tell us about any flops where you just feel like",
     "speaker": "flops"
   },
   {
+    "order": 51,
     "start": 194.08,
     "end": 198.28,
     "text": "that we chocolate eaters just weren't ready for it?",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 198.28,
     "end": 202.04,
     "text": "I think those flops are as important as the products we'd",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 202.04,
     "end": 206.68,
     "text": "are gaining grade sales because you always learn.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 206.68,
     "end": 210,
     "text": "Hella describes her chocolate maker job as a dream,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 210,
     "end": 212.439,
     "text": "something that you want to happen very much,",
-    "speaker": null
+    "speaker": "a dream"
   },
   {
+    "order": 56,
     "start": 212.439,
     "end": 214.72,
     "text": "but is not very likely to.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 214.72,
     "end": 218.2,
     "text": "But in Hella's case, her dream came true.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 218.2,
     "end": 221.84,
     "text": "After they invent a new chocolate bar, Hella's team carefully",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 221.84,
     "end": 225.84,
     "text": "choose the best time to launch it to introduce the new product",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 225.84,
     "end": 227.36,
     "text": "to the public.",
-    "speaker": null
+    "speaker": "a dreama dream come true"
   },
   {
+    "order": 61,
     "start": 227.36,
     "end": 231.879,
     "text": "Usually this only happens when there is enough consumer demand.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 231.879,
     "end": 235.28,
     "text": "A measurement of how much customers want to buy something",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 235.28,
     "end": 239.28,
-    "text": "based on factors like its price and availability.",
-    "speaker": null
+    "text": " based on factors like its price and availability",
+    "speaker": "Consumer demand"
   },
   {
+    "order": 64,
     "start": 239.28,
     "end": 241.439,
     "text": "If consumer demand is strong,",
-    "speaker": null
+    "speaker": "hits the shelvesgo for"
   },
   {
+    "order": 65,
     "start": 241.439,
     "end": 244.719,
     "text": "phaser starts to advertise and promote their new chocolate bar",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 244.719,
     "end": 247.8,
     "text": "before it hits the shelves, an idiom meaning",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 247.8,
     "end": 251.52,
     "text": "that it becomes available for people to buy in the shops.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 251.52,
     "end": 255.719,
     "text": "Then it's just a question of waiting to see if people go for",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 255.719,
     "end": 258.4,
     "text": "or choose the new product.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 258.4,
     "end": 261.8,
     "text": "Some of Hella's biggest successes have been her blueberry",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 261.8,
     "end": 265.68,
     "text": "truffle and the heart-shaped gaysher bar she invented.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 265.68,
     "end": 270.16,
     "text": "But sometimes the new chocolate bar she thinks up is a flop,",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 270.16,
     "end": 273.16,
     "text": "completely unsuccessful or a failure.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 273.16,
     "end": 277.68,
     "text": "Flop or not, Hella thinks she has one of the best jobs in the world.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 277.68,
     "end": 280.28,
     "text": "Even if she doesn't get to eat as much of her chocolate",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 280.279,
     "end": 282.519,
     "text": "inventions as Willy Wonka.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 282.519,
     "end": 284.799,
     "text": "Anyway, speaking of best-selling chocolate,",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 284.799,
     "end": 287.799,
     "text": "isn't it time to reveal the answer to your question, Beth?",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 287.799,
     "end": 292.199,
     "text": "Right, I asked you about Britain's best-selling chocolate bar.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 292.199,
     "end": 296.519,
     "text": "And you guessed it's the Kit Kat, which was the wrong answer.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 296.519,
     "end": 298.079,
     "text": "I'm afraid, Neil.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 298.079,
     "end": 302.279,
     "text": "In fact, the UK's most popular chocolate is the Mars bar,",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 302.279,
     "end": 307.319,
     "text": "meaning that over 3 million bars get made every day.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 307.319,
     "end": 311,
     "text": "OK, let's recap the vocabulary we've learnt in this programme",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 311,
     "end": 315,
     "text": "starting with a dream, something you really want to happen",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 315,
     "end": 316.639,
     "text": "but is not likely to.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 316.639,
     "end": 319.8,
     "text": "And the related idiom, a dream come true",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 319.8,
     "end": 323.04,
     "text": "when what you really want to happen actually does.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 323.04,
     "end": 326.199,
     "text": "When a company launches a new consumer product,",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 326.199,
     "end": 329,
-    "text": "When a company launches a new consumer product, they introduce it to the public for the first time.",
-    "speaker": "launches"
+    "text": "they introduce it to the public for the first time.",
+    "speaker": null
   },
   {
+    "order": 91,
     "start": 329,
     "end": 332.48,
     "text": "Consumer demand is a measurement of consumers' desire",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 332.48,
     "end": 336.719,
-    "text": "Consumer demand is a measurement of consumers’ desire to buy a product based on factors like its price and availability.",
-    "speaker": "Consumer demand"
+    "text": "to buy a product based on factors like its price and availability.",
+    "speaker": null
   },
   {
+    "order": 93,
     "start": 336.76,
     "end": 338.6,
     "text": "When a product hits the shelves,",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 338.6,
     "end": 341.44,
-    "text": "When a product hits the shelves, it becomes available for purchase in the shops.",
-    "speaker": "hits the shelves"
-  },
-  {
-    "start": 341.44,
-    "end": 344.08,
-    "text": "If you go for something, you choose it.",
+    "text": "it becomes available for purchase in the shops.",
     "speaker": null
   },
   {
+    "order": 95,
+    "start": 341.44,
+    "end": 344.08,
+    "text": "If you go for something, you choose it.",
+    "speaker": "go for"
+  },
+  {
+    "order": 96,
     "start": 344.08,
     "end": 346.6,
     "text": "For example, in a restaurant, you might say,",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 346.6,
     "end": 348.76,
     "text": "I think I'll go for the fish.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 348.76,
     "end": 350.72,
     "text": "And finally, if something is a flop,",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 350.72,
     "end": 354.2,
     "text": "it's completely unsuccessful, a failure.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 354.2,
     "end": 356,
     "text": "Once again, our six minutes are up,",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 356,
     "end": 358,
     "text": "but remember to join us again next time",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 358,
     "end": 362.36,
     "text": "for more trending topics and useful vocabulary here at 6 Minute English.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 362.36,
     "end": 364,
     "text": "Goodbye for now. Bye.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 364,
     "end": 369.48,
     "text": "6 Minute English from BBCLearningEnglish.com",

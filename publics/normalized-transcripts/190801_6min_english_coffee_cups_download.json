@@ -1,731 +1,853 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.64,
     "text": "6MIT INGLEISH",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.64,
     "end": 11.439,
     "text": "From BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.12,
     "end": 15.599,
-    "text": "Hello, and welcome to 6 Minute English. I'm Neil.",
+    "text": "Hello, and welcome to 6 Minute English. I'm Neil",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 15.599,
     "end": 16.559,
     "text": "And I'm Rob.",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 16.559,
     "end": 20.64,
     "text": "Now Rob, we've talked before on this program about our love of coffee.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 20.64,
     "end": 23.6,
-    "text": "Oh yes, indeed. I couldn’t function without it.",
-    "speaker": "Rob"
+    "text": "Oh yes indeed, I couldn't function without it.",
+    "speaker": "Neil"
   },
   {
+    "order": 8,
     "start": 23.6,
     "end": 28.879,
     "text": "But have you ever thought about the environmental consequences of all those disposable coffee cups?",
     "speaker": "disposable"
   },
   {
+    "order": 9,
     "start": 28.879,
     "end": 32.32,
-    "text": "Oh yes, indeed. I always carry a reusable cup with me so I don’t have to throw one away.",
-    "speaker": "reusable"
+    "text": "Oh yes indeed, I always carry a reusable cup with me,",
+    "speaker": null
   },
   {
+    "order": 10,
     "start": 32.32,
     "end": 34.159,
     "text": "so I don't have to throw one away.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 34.159,
     "end": 37.439,
     "text": "So if a disposable cup is one you throw away,",
-    "speaker": null
-  },
-  {
-    "start": 37.439,
-    "end": 40.879,
-    "text": "So if a disposable cup is one you throw away, a reusable one is one that you can use again and again.",
     "speaker": "disposablereusable"
   },
   {
+    "order": 12,
+    "start": 37.439,
+    "end": 40.879,
+    "text": "a reusable one is one that you can use again and again.",
+    "speaker": null
+  },
+  {
+    "order": 13,
     "start": 40.879,
     "end": 43.84,
     "text": "Yes, there's a big problem with disposable cups,",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 43.84,
     "end": 46.32,
     "text": "in that many of them can't be recycled.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 46.32,
     "end": 50.079,
     "text": "So there's a lot of waste for something we only use for a short time.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 50.879,
     "end": 54.56,
     "text": "What are the big coffee shop chains doing about this problem?",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 17,
     "start": 54.56,
     "end": 58.239,
     "text": "We'll find out a little bit more shortly, but first a quiz for you.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 58.32,
     "end": 61.44,
     "text": "Which country drinks the most coffee per capita?",
-    "speaker": null
+    "speaker": "nudgereusablefighting tooth and nail"
   },
   {
+    "order": 19,
     "start": 61.44,
     "end": 65.28,
     "text": "So not the total amount of coffee, but the average per person.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 65.28,
     "end": 69.68,
     "text": "Is it a, Japan, B, Kenya or C, Finland?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 69.68,
     "end": 70.799,
-    "text": "What do you think, Rob?",
+    "text": "What do you think Rob?",
     "speaker": "Neil"
   },
   {
+    "order": 22,
     "start": 70.799,
     "end": 71.92,
-    "text": "Oh, tricky.",
-    "speaker": null
+    "text": "oh, tricky.",
+    "speaker": "Rob"
   },
   {
+    "order": 23,
     "start": 71.92,
     "end": 74.48,
     "text": "Now I don't think the Japanese are big coffee drinkers,",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 74.48,
     "end": 76.879,
     "text": "and I know they produce a lot of coffee in Kenya.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 77.76,
     "end": 79.52,
     "text": "I'm surprised the USA isn't on the list,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 79.52,
     "end": 82.719,
     "text": "but I'm going to go for Finland just because.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 82.719,
     "end": 85.359,
     "text": "Well, we'll see if you're right later in the program.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 85.519,
     "end": 87.2,
     "text": "On a recent BBC,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 87.2,
     "end": 88.719,
     "text": "you and yours radio program,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 88.719,
     "end": 90.959,
     "text": "they discuss the topic of coffee cups.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 90.959,
     "end": 95.359,
     "text": "Some of the big chains are now charging customers more for a disposable cup",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 95.359,
     "end": 98.159,
     "text": "and giving discounts if people bring their own reusable.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 98.719,
     "end": 102.159,
     "text": "However, not all of the shops actually collect old cups",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 102.159,
     "end": 104.4,
     "text": "and sort them for recycling in the shop itself.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 105.039,
     "end": 107.039,
     "text": "Here's Jasra Bardier from Starbucks.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 107.68,
     "end": 111.519,
     "text": "Is the store only interested in facilities inside their shops?",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 111.599,
     "end": 115.039,
-    "text": "It is something that we are in the process of rolling out,",
-    "speaker": null
+    "text": "It is something that we are in the process of rolling out ",
+    "speaker": "rolling outinfrastructure"
   },
   {
+    "order": 38,
     "start": 115.039,
     "end": 117.039,
     "text": "and it will be in all of our stores.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 39,
     "start": 117.039,
     "end": 120.239,
     "text": "It's also not just our stores in which these cups end up.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 120.239,
     "end": 122.879,
     "text": "So we're doing a lot of work outside of our store environment",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 122.879,
     "end": 126.239,
     "text": "to ensure that paper cups can be recycled on the go.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 126.239,
     "end": 128.879,
     "text": "We're working with our environmental charity partner Hubbub",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 128.879,
     "end": 132,
     "text": "to increase recycling infrastructure outside of our stores,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 132,
     "end": 135.359,
     "text": "because that too is where a lot of our cups will end up.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 136.159,
     "end": 139.68,
     "text": "So are they just working in their stores at improving recycling?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 139.68,
-    "end": 140.56,
-    "text": "Well, no.",
     "speaker": null
   },
   {
+    "order": 46,
+    "start": 139.68,
+    "end": 140.56,
+    "text": "Well no, ",
+    "speaker": "infrastructure"
+  },
+  {
+    "order": 47,
     "start": 140.879,
     "end": 145.12,
     "text": "Well, no. After all, most people take their coffee out of the stores,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 145.12,
     "end": 148.8,
     "text": "so they're working on the recycling infrastructure outside as well.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 149.439,
     "end": 152,
     "text": "This will be things like bins and collection points,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 152,
     "end": 154.4,
     "text": "which are clearly marked for coffee cups.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 154.4,
     "end": 158,
     "text": "And what about enabling recycling cups in store?",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 52,
     "start": 158,
     "end": 162,
     "text": "Well, she said that was something they are rolling out to all stores.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 162,
     "end": 165.28,
     "text": "Rolling out here means introducing over a period of time,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 165.28,
     "end": 168.24,
     "text": "so it's starting to happen, but it's not finished yet.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 168.24,
     "end": 169.52,
-    "text": "Let’s listen again.",
-    "speaker": "Neil"
+    "text": "Let's listen again.",
+    "speaker": null
   },
   {
+    "order": 56,
     "start": 170.879,
     "end": 173.52,
     "text": "It is something that we are in the process of rolling out,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 173.52,
     "end": 175.52,
     "text": "and it will be in all of our stores.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 175.52,
     "end": 178.8,
     "text": "It's also not just our stores in which these cups end up.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 178.8,
     "end": 181.68,
     "text": "So we're doing a lot of work outside of our store environment",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 181.68,
     "end": 185.439,
     "text": "to ensure that paper cups can be recycled on the go.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 185.439,
     "end": 187.92,
     "text": "We're working with our environmental charity partner Hubbub",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 187.92,
     "end": 191.039,
     "text": "to increase recycling infrastructure outside of our stores,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 191.039,
     "end": 193.68,
     "text": "because that too is where a lot of our cups will end up.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 194.879,
     "end": 197.599,
     "text": "Not everyone, however, believes that the coffee chains",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 65,
     "start": 197.599,
     "end": 199.92,
     "text": "are doing everything that they can.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 200,
     "end": 203.199,
     "text": "This is Mary Kray, a member of the British Parliament.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 203.199,
     "end": 206.799,
     "text": "She compares the situation to that of the plastic bag charge.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 207.359,
     "end": 211.839,
     "text": "This was a law brought in to force shops to charge customers for plastic bags,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 211.839,
     "end": 213.519,
     "text": "which previously had been free.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 214.799,
     "end": 217.759,
     "text": "If you think you're having to pay extra for something,",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 217.759,
     "end": 219.599,
     "text": "as we saw with the plastic bags,",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 219.599,
     "end": 222.479,
     "text": "we think a similar psychological measure is needed,",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 222.479,
     "end": 225.439,
     "text": "a nudge measure, to encourage people to remember",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 225.439,
     "end": 228.479,
     "text": "to bring their reusable cup with them.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 228.56,
     "end": 232.959,
     "text": "And of course, this is something that the coffee shops have been fighting tooth and nail.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 233.759,
     "end": 238.239,
     "text": "She thinks that we consumers need a nudge to help us remember our reusable cups.",
     "speaker": "nudge reusable"
   },
   {
+    "order": 77,
     "start": 238.239,
     "end": 241.28,
     "text": "Yes, we need a nudge, which is a little push, a reason.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 241.28,
     "end": 244.799,
     "text": "In this case, she is thinking of a law to make them charge more.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 245.359,
     "end": 247.839,
     "text": "But she says the coffee chains really don't want this.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 247.839,
     "end": 250.639,
     "text": "They are, she says, fighting it tooth and nail.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 250.639,
     "end": 252.399,
     "text": "If you fight something tooth and nail,",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 252.399,
     "end": 255.359,
     "text": "you're against it completely and try to stop it.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 255.359,
     "end": 257.519,
     "text": "Let's hear MP Mary Kray again.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 258.319,
     "end": 261.279,
     "text": "If you think you're having to pay extra for something,",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 261.279,
     "end": 263.12,
     "text": "as we saw with the plastic bags,",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 263.12,
     "end": 266,
     "text": "we think a similar psychological measure is needed,",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 266,
     "end": 268.959,
     "text": "a nudge measure, to encourage people to remember",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 268.959,
     "end": 272,
     "text": "to bring their reusable cup with them.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 272,
     "end": 276.399,
     "text": "And of course, this is something that the coffee shops have been fighting tooth and nail.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 277.599,
     "end": 282.399,
-    "text": "Time to review our vocabulary, but first, let’s have the answer to the quiz question. Which country drinks the most coffee per capita? Is it:",
-    "speaker": "Neil"
+    "text": "Time to review our vocabulary, but first let's have the answer to the quiz question.",
+    "speaker": null
   },
   {
+    "order": 91,
     "start": 282.399,
     "end": 285.68,
     "text": "Which country drinks the most coffee per capita?",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 285.84,
     "end": 287.84,
-    "text": "a) Japan",
-    "speaker": "Neil"
+    "text": "Is it A, Japan?",
+    "speaker": null
   },
   {
+    "order": 93,
     "start": 287.84,
     "end": 290.48,
-    "text": "b) Kenya, or",
+    "text": "b) Kenya, or c) Finland",
     "speaker": "Neil"
   },
   {
+    "order": 94,
     "start": 290.48,
     "end": 291.84,
     "text": "What do you think, Rob?",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 291.84,
     "end": 294.24,
     "text": "I took a bit of a guess at Finland.",
-    "speaker": "Rob"
+    "speaker": "Neil"
   },
   {
+    "order": 96,
     "start": 294.24,
     "end": 297.519,
     "text": "Well, congratulations, your guess was correct.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 97,
     "start": 297.519,
     "end": 302.399,
     "text": "The fins on average get through an amazing 12 kilograms of coffee a year each.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 303.12,
     "end": 305.04,
     "text": "Now onto the vocabulary.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 305.04,
     "end": 307.6,
     "text": "We had a couple of related but opposite words.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 307.6,
     "end": 312.96,
     "text": "Something disposable is designed to be used once or a few times and then thrown away.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 312.959,
     "end": 316.56,
     "text": "And a reusable is designed to be used again and again.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 316.56,
     "end": 322.479,
-    "text": "We then had rolling out which in a business sense is the process of gradually introducing something new. This could be a new system, new product, new technology or even a new way of doing things.",
+    "text": "We then had rolling out which in a business sense is the process of gradually introducing something new. ",
     "speaker": "rolling out"
   },
   {
+    "order": 103,
     "start": 322.479,
     "end": 325.199,
     "text": "This could be a new system, new product, new technology,",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 325.199,
     "end": 327.039,
     "text": "or even a new way of doing things.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 327.68,
     "end": 330.319,
     "text": "New ideas often need new infrastructure.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 330.319,
     "end": 334,
     "text": "This is usually physical structures that are needed to make something work.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 334,
     "end": 338.799,
     "text": "For example, rail infrastructure includes things like tracks, stations and signals.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 338.799,
     "end": 342.079,
-    "text": "A nudge is a small push to encourage us to do something.",
-    "speaker": null
-  },
-  {
-    "start": 342.079,
-    "end": 345.519,
-    "text": "A nudge is a small push, to encourage us to do something. You don’t need a nudge to carry a reusable coffee cup, do you?",
+    "text": "A nudge is a small push, to encourage us to do something",
     "speaker": "nudgenudge reusable"
   },
   {
+    "order": 109,
+    "start": 342.079,
+    "end": 345.519,
+    "text": "You don't need a nudge to carry a reusable coffee cup, do you?",
+    "speaker": null
+  },
+  {
+    "order": 110,
     "start": 345.519,
     "end": 346.959,
     "text": "Oh no, I'm all for it.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 346.959,
     "end": 351.12,
     "text": "In fact, I'd fight tooth and nail to keep hold of my reusable,",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 351.12,
     "end": 354.8,
     "text": "which is quite a coincidence, as that was our last expression today.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 354.8,
     "end": 359.839,
     "text": "To fight tooth and nail means to make a strong effort to try to stop something or achieve something.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 359.839,
     "end": 360.799,
-    "text": "Well, that's all from us.",
-    "speaker": null
+    "text": "Well, that’s all from us.",
+    "speaker": "Neil"
   },
   {
+    "order": 115,
     "start": 360.799,
     "end": 362.799,
     "text": "We look forward to your company next time.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 362.799,
     "end": 366.399,
     "text": "Until then, you can find us in all the usual places on social media,",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 366.399,
     "end": 367.759,
     "text": "online and on our app.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 367.759,
     "end": 369.919,
     "text": "Just search for BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 369.919,
     "end": 370.719,
-    "text": "Goodbye!",
-    "speaker": "Rob"
+    "text": "Goodbye.",
+    "speaker": null
   },
   {
+    "order": 120,
     "start": 370.719,
     "end": 371.199,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 372.079,
     "end": 374.879,
     "text": "Six-minute English from the BBC.",

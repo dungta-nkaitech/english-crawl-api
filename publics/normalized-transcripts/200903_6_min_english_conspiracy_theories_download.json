@@ -1,392 +1,457 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.44,
     "text": "This is a download from BBC Learning English. To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 14.4,
     "end": 18.32,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 2,
     "start": 18.32,
     "end": 25.039,
     "text": "And I'm Sam. Tell me, Sam, do you think Neil Armstrong really landed on the moon in 1969?",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 25.039,
     "end": 31.679,
     "text": "I mean, that must be fake news. And who shot John F Kennedy? Surely the CIA were involved,",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 31.679,
     "end": 34.32,
     "text": "unless it was the giant lizards controlling the government?",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 35.039,
     "end": 40.879,
     "text": "Oh dear, it looks like reading online conspiracies has sent Neil down the rabbit hole.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 40.879,
     "end": 48.32,
     "text": "An expression used to describe a situation which seems interesting and uncomplicated at first,",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 48.32,
     "end": 53.12,
     "text": "but ends up becoming strange, confusing, and hard to escape from.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 53.759,
     "end": 59.039,
     "text": "Luckily, in this programme, we'll be hearing some advice on how to talk to people who've become",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 59.039,
     "end": 65.599,
     "text": "convinced by online conspiracies. It seems that during times of crisis, as people feel uncertain",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 65.599,
     "end": 70,
-    "text": "It seems that during times of crisis,  as people feel uncertain and fearful, they actively look for information to feel more secure.",
+    "text": "and fearful, they actively look for information to feel more secure.",
     "speaker": "Neil"
   },
   {
+    "order": 11,
     "start": 70,
     "end": 76.319,
-    "text": "Nowadays this information is often found online, and while there are reliable facts out there, there’s also a lot of misinformation.",
-    "speaker": "Sam"
+    "text": "Nowadays, this information is often found online. And while there are reliable facts out there,",
+    "speaker": null
   },
   {
+    "order": 12,
     "start": 76.319,
     "end": 79.039,
     "text": "there's also a lot of misinformation.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 79.76,
     "end": 84.48,
-    "text": "Somebody who's the target of many conspiracy theories is Microsoft's Bill Gates.",
-    "speaker": null
+    "text": "Somebody who’s the target of many conspiracy theories is Microsoft’s Bill Gates ",
+    "speaker": "Neil"
   },
   {
+    "order": 14,
     "start": 84.48,
     "end": 91.68,
     "text": "And our BBC fact checkers have been busy debunking or exposing some of the more bizarre accusations",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 91.68,
     "end": 96.88,
     "text": "made against him. But what strange behaviour has Bill Gates been accused of recently?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 96.88,
     "end": 102.96,
-    "text": "a) being a member of the Chinese Communist Party?,",
-    "speaker": "Neil"
+    "text": "That's my quiz question for today. Is it A being a member of the Chinese Communist Party?",
+    "speaker": null
   },
   {
+    "order": 17,
     "start": 103.599,
     "end": 110.639,
     "text": "B being an alien lizard? Or C being involved in the assassination of John F Kennedy?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 110.639,
     "end": 115.919,
     "text": "They all sound pretty silly to me, but I guess B being an alien lizard.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 116.559,
     "end": 120.319,
     "text": "Okay, Sam, if you say so, we'll find out the answer later.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 120.319,
     "end": 124.079,
     "text": "Now, I'm not the only one who's been doing some internet research.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 21,
     "start": 124.079,
     "end": 129.599,
     "text": "Ever since the outbreak of the Covid pandemic, there's been an avalanche of online conspiracies",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 129.599,
     "end": 135.359,
     "text": "linking Bill Gates to the coronavirus. Here's Mariana Spring, presenter of BBC World Service",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 135.359,
     "end": 137.519,
     "text": "Programme Trending, to tell us more.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 138.479,
     "end": 143.84,
-    "text": "The Microsoft founder is a rich and powerful person and he's funded research into vaccines.",
-    "speaker": null
+    "text": "The Microsoft founder is a rich and powerful person and he’s funded research into vaccines ",
+    "speaker": "bonkers pretext disdain"
   },
   {
+    "order": 25,
     "start": 143.84,
     "end": 149.12,
     "text": "That's why he's become a target. Some of the claims are bonkers. That he wants to use the virus as",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 149.12,
     "end": 154.479,
     "text": "a pretext to microchip everyone in the world. Others say a vaccine would actually kill people",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 154.479,
     "end": 159.439,
     "text": "rather than save their lives. These ideas are without any evidence. We should treat them with",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 159.439,
     "end": 166.479,
     "text": "the disdain they deserve. Some conspiracies claim that Bill Gates wants to implant microchips in",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 166.479,
     "end": 173.199,
     "text": "people and that he's using the coronavirus as a pretext, a pretend reason for doing something",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 173.199,
     "end": 179.439,
     "text": "that is used to hide the real reason. Claims like these are described as bonkers",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 179.439,
     "end": 184.479,
     "text": "an informal way to say silly, stupid or crazy and should therefore be treated with",
-    "speaker": null
+    "speaker": "bonkersdisdain"
   },
   {
+    "order": 32,
     "start": 184.56,
     "end": 190.479,
     "text": "disdain, disliking something because you feel it does not deserve your attention or respect.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 190.479,
     "end": 196.719,
-    "text": "But while you might not believe such bonkers theories yourself, it’s not hard to see how people looking for answers can get sucked down online rabbit holes.",
-    "speaker": "bonkersdownrabbit holes"
+    "text": "But while you might not believe such bonkers theories yourself, it's not hard to see how people",
+    "speaker": null
   },
   {
+    "order": 34,
     "start": 196.719,
     "end": 201.679,
     "text": "looking for answers can get sucked down online rabbit holes.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 202.56,
     "end": 209.199,
     "text": "So how would you deal with someone spreading baseless conspiracies about Covid vaccines or Bill Gates?",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 209.28,
     "end": 212.959,
     "text": "The BBC's trending programs spoke to Dr. Yovon Biford,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 212.959,
     "end": 216.719,
     "text": "senior psychology lecturer with the Open University about it.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 38,
+    "start": 217.359,
+    "end": 224.399,
+    "text": "He thinks it's important to separate the conspiracy from the theorist. The former, the belief,",
     "speaker": null
   },
   {
-    "start": 217.359,
-    "end": 224.399,
-    "text": "He thinks it’s important to separate the conspiracy from the theorist. The former, the belief, we have to dismiss, but the latter, the person, is more complex.",
-    "speaker": "Sam"
-  },
-  {
+    "order": 39,
     "start": 224.399,
     "end": 229.839,
     "text": "we have to dismiss. But the latter, the person, is more complex.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 230.719,
     "end": 235.919,
     "text": "Here's BBC Trending's presenter, Mariana Spring, again to sum up Dr. Biford's advice.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 236.319,
     "end": 240.799,
     "text": "How do you talk to someone who's at risk of being sucked into the rabbit hole?",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 42,
     "start": 240.799,
     "end": 246.639,
     "text": "First, establish a basis of understanding. Approach them on their own terms and avoid sweeping",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 246.639,
     "end": 252.239,
     "text": "dismissals or saying, you're wrong. Try not to judge and try to get to the bottom of the often",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 252.239,
     "end": 258.639,
     "text": "legitimate concern at the heart of the conspiracy. Present them with facts and research. Try to do this",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 258.639,
     "end": 264,
     "text": "neutrally. You can't force anyone to change their mind, but you can make sure they have valid",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 264.079,
     "end": 270.879,
     "text": "information. While some conspiracies may be harmless, others are more dangerous.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 270.879,
     "end": 276.639,
     "text": "People thinking that vaccines will kill them might worsen the coronavirus situation worldwide,",
-    "speaker": null
+    "speaker": "get to the bottom of"
   },
   {
+    "order": 48,
     "start": 276.639,
     "end": 283.12,
     "text": "so we need to get to the bottom of these claims. Discover the real, but sometimes hidden reason,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 283.12,
     "end": 289.12,
     "text": "why something happens. A good way to engage people in discussion is to avoid sweeping claims or",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 289.199,
     "end": 294.16,
     "text": "statements, speaking or writing about things in a way that is too general and does not carefully",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 294.16,
     "end": 301.12,
     "text": "consider all the relevant facts. And by doing so calmly and neutrally, you might persuade them to",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 301.12,
     "end": 307.92,
     "text": "reconsider, the funny business Bill Gates is supposedly involved with. Ah, yes, you mean our quiz",
-    "speaker": null
-  },
-  {
-    "start": 307.92,
-    "end": 312.879,
-    "text": "Ah yes, you mean our quiz question. I asked you what Bill Gates has recently been accused of by conspiracy theorists.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 313.68,
-    "end": 320,
-    "text": "And I said b) being an alien lizard. But thinking about it now, that seems pretty unlikely!",
     "speaker": "Sam"
   },
   {
-    "start": 320.639,
-    "end": 324.639,
-    "text": "In fact the answer was a) being a member of the Chinese Communist Party.",
-    "speaker": "Neil"
+    "order": 53,
+    "start": 307.92,
+    "end": 312.879,
+    "text": "question. I asked you what Bill Gates has recently been accused of by conspiracy theorists.",
+    "speaker": null
   },
   {
+    "order": 54,
+    "start": 313.68,
+    "end": 320,
+    "text": "And I said b) being an alien lizard. But thinking about it now, that seems pretty unlikely",
+    "speaker": "Sam"
+  },
+  {
+    "order": 55,
+    "start": 320.639,
+    "end": 324.639,
+    "text": "In fact, the answer was A being a member of the Chinese Communist Party.",
+    "speaker": null
+  },
+  {
+    "order": 56,
     "start": 325.279,
     "end": 330.639,
     "text": "Okay, so today we've been hearing advice on how to deal with online conspiracy theories.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 330.639,
     "end": 338.319,
     "text": "Some of which are totally bonkers, silly, stupid and crazy, or involve a complicated pretext.",
-    "speaker": null
+    "speaker": "bonkerspretext"
   },
   {
+    "order": 58,
     "start": 338.319,
     "end": 342.079,
     "text": "Pretend reason used to hide someone's true motivation.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 342.56,
     "end": 347.759,
-    "text": "These can be treated with disdain – dislike because they are unworthy of our attention or respect.",
-    "speaker": "disdain"
+    "text": "These can be treated with disdain, dislike because they are unworthy of our attention or respect.",
+    "speaker": null
   },
   {
+    "order": 60,
     "start": 348.479,
     "end": 354.879,
-    "text": "But with so many conspiracies online, it’s easy to get lost down the rabbit hole – intrigued by a situation which seems interesting but ends up confusing and hard to escape from.",
+    "text": "But with so many conspiracies online, it's easy to get lost down the rabbit hole, intrigued by",
     "speaker": "down the rabbit hole"
   },
   {
+    "order": 61,
     "start": 354.879,
     "end": 360.399,
     "text": "a situation which seems interesting, but ends up confusing and hard to escape from.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 360.399,
     "end": 366.079,
-    "text": "It’s important to get to the bottom of these theories - discover the real but hidden reason behind them.",
-    "speaker": "get to the bottom of"
+    "text": "It's important to get to the bottom of these theories, discover the real, but hidden reason behind them.",
+    "speaker": null
   },
   {
+    "order": 63,
     "start": 366.159,
     "end": 372.8,
     "text": "And to present people with facts, avoiding sweeping or overgeneralized statements.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 372.8,
     "end": 375.759,
-    "text": "That’s all for this programme. Goodbye for now!",
+    "text": "That’s all for this programme. Goodbye for now! Bye bye!",
     "speaker": "Neil"
   }
 ]

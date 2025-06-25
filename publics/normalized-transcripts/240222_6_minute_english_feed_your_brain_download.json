@@ -1,530 +1,618 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7.52,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7.52,
     "end": 11.019,
     "text": "Hello, this is 6 Minute English from BBCLearningEnglish.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 11.019,
     "end": 12.019,
     "text": "I'm Phil.",
-    "speaker": null
+    "speaker": "Phil"
   },
   {
+    "order": 3,
     "start": 12.019,
     "end": 13.56,
     "text": "And I'm Georgie.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.56,
     "end": 15.32,
     "text": "Has this ever happened to you?",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 15.32,
     "end": 21.719,
     "text": "You eat a doughnut and get a sugar rush, a strong feeling of excitement and energy, only",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 21.719,
     "end": 24.56,
     "text": "to collapse an hour later with a headache.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 24.56,
     "end": 29.96,
     "text": "Food affects us more than we realise, and that's because what we eat, halters our brain",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 29.96,
     "end": 33.24,
     "text": "in chemistry, changing our mood and emotions.",
-    "speaker": null
+    "speaker": "Phil"
   },
   {
+    "order": 9,
     "start": 33.24,
     "end": 37.679,
     "text": "Our brain is working 24 hours a day, even while we sleep.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 37.679,
     "end": 41.039,
     "text": "So it needs more fuel than other body parts.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 41.039,
     "end": 45,
     "text": "So, can we eat our way to feeling happy?",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 45,
     "end": 50.12,
     "text": "In this programme, we'll be discussing the relationship between food and the brain.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 50.12,
     "end": 54.6,
     "text": "And as usual, we'll be learning some useful new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 54.6,
     "end": 56.12,
-    "text": "Sounds great, Georgie.",
-    "speaker": null
+    "text": "Sounds great, Georgie,",
+    "speaker": "Phil"
   },
   {
+    "order": 15,
     "start": 56.12,
     "end": 59.52,
     "text": "But first, I have a question for you.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 59.52,
     "end": 64.96,
     "text": "What are the ingredients with an average brain weighing 1.5 kilos are one of the cleverest",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 64.96,
     "end": 65.96,
     "text": "animals?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 65.96,
     "end": 69.48,
     "text": "But which mammal has the biggest brain?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 69.48,
     "end": 76.8,
     "text": "Is it an African elephant, bee, a dolphin or sea, a sperm whale?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 76.8,
     "end": 79.48,
-    "text": "Hmm, I think it’s an African elephant.",
-    "speaker": "Georgie"
+    "text": "I think it's an African elephant.",
+    "speaker": "Phil"
   },
   {
+    "order": 21,
     "start": 79.48,
     "end": 80.48,
     "text": "Okay, Georgie.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 80.48,
     "end": 83.879,
     "text": "I'll reveal the answer later in the programme.",
-    "speaker": null
+    "speaker": "Phil"
   },
   {
+    "order": 23,
     "start": 83.879,
     "end": 89.48,
     "text": "Now, did you know that despite making up only 2% of our total weight, our brain is",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 89.48,
     "end": 93,
     "text": "20% of the body's energy.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 93,
     "end": 96.159,
     "text": "Nutritionist Dr. Rita Achari does.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 96.159,
     "end": 100.2,
     "text": "She thinks we should be specifically eating four-hour brains.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 100.2,
     "end": 105.76,
     "text": "As she explained to BBC World Service programme, the food chain.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 105.76,
     "end": 108.04,
     "text": "Eating every day, right?",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 108.04,
     "end": 111.12,
     "text": "And eating a balanced diet.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 111.12,
     "end": 116.4,
     "text": "So you get the full complement of vitamins and minerals.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 116.4,
     "end": 117.4,
     "text": "It's critical.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 117.4,
     "end": 125.44,
     "text": "If you go low in something in one day, if you just don't eat any protein for a day or",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 125.44,
     "end": 129.8,
     "text": "for me in my situation, if I don't eat any vegetables, I know the next day I'm not",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 129.8,
     "end": 131.2,
     "text": "a sharp.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 131.2,
     "end": 137.04,
-    "text": "Number one on Dr. Achari's list of brain foods is a regular and balanced diet.",
-    "speaker": null
+    "text": "Number one on Dr Achari’s list of brain foods is a regular and balanced diet, ",
+    "speaker": "Georgie"
   },
   {
+    "order": 36,
     "start": 137.04,
     "end": 142.439,
     "text": "A diet containing the proper types and amounts of food needed to stay healthy.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 142.439,
     "end": 144.12,
     "text": "Remember the rainbow rule?",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 144.12,
     "end": 148.359,
     "text": "Eat foods of many different colours with lots of leafy greens.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 148.359,
     "end": 154,
     "text": "A balanced diet also includes different types of nutrients, vitamins, fibre, protein and",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 154,
     "end": 155,
     "text": "so on.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 155,
     "end": 158.199,
     "text": "But including these isn't always possible.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 158.199,
     "end": 163,
     "text": "You might go low on, meaning have very little of one food type.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 163,
     "end": 168.879,
     "text": "Dr. Achari says that when this happens to her, she's not as sharp as intelligent and",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 168.879,
     "end": 171.439,
     "text": "quick to notice things as usual.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 171.439,
     "end": 176.56,
-    "text": "Dr Achari names lots of different foods which help boost our brains, from wild caught Alaskan salmon and avocado, to berries and walnuts.",
+    "text": "Dr Achari names lots of different foods which help boost our brains, ",
     "speaker": "Georgie"
   },
   {
+    "order": 46,
     "start": 176.56,
     "end": 181.56,
     "text": "From wild caught Alaskan salmon and avocado to berries and walnuts.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 181.56,
     "end": 185.879,
     "text": "But hang on Georgie, wild caught Alaskan salmon.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 185.879,
     "end": 188.56,
     "text": "Very nice and very expensive.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 188.56,
     "end": 192.919,
     "text": "It sounds like these super foods are just for the super rich.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 192.919,
     "end": 196.319,
     "text": "Well, not according to Blogger Michel Munt.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 196.319,
     "end": 201.799,
     "text": "After she is telling BBC World Services the food chain, how eating well needn't cost",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 201.799,
     "end": 202.799,
     "text": "a fortune.",
-    "speaker": null
+    "speaker": "Georgie"
   },
   {
+    "order": 53,
     "start": 202.799,
     "end": 211,
     "text": "It's not expensive and everyone's got a freeze of these days so yes, you can batch cook",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 211,
     "end": 216.28,
     "text": "things, freeze them and then use them in like a week's time or something.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 216.28,
     "end": 220.799,
     "text": "So I think the problem is that again it's about our lifestyles.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 220.799,
     "end": 225.56,
     "text": "It's about the fact that we feel like we've got limited time and therefore people are trying",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 225.56,
     "end": 232.28,
     "text": "to cut the tongue down the kitchen by cooking things that are pre-made or even worse we're",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 232.28,
     "end": 234.319,
     "text": "just chucking it in the microwave.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 234.319,
     "end": 242.319,
     "text": "But actually you can do fresh food in 20 minutes flat.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 242.319,
     "end": 247.52,
     "text": "Michel's idea for brain food on a budget involves batch cooking.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 247.52,
     "end": 253.599,
     "text": "Batch cooking means cooking a lot of food at one time then saving some to eat later,",
-    "speaker": null
+    "speaker": "batch cookingBatch cooking"
   },
   {
+    "order": 62,
     "start": 253.599,
     "end": 255.84,
     "text": "usually by freezing it.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 255.84,
     "end": 262.199,
     "text": "Although microwave ready meals are convenient, they lack many nutrients needed by the brain.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 262.199,
     "end": 267.519,
     "text": "Luckily, adding some fresh vegetables to batch cooked food means anyone can make a brain",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 267.519,
     "end": 274.079,
     "text": "healthy meal quickly or in 20 minutes flat, as Michel says, using the word flat to mean",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 274.079,
     "end": 278.079,
     "text": "exactly and to emphasise that it can be done quickly.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 278.079,
     "end": 283.04,
-    "text": "OK, so we need balanced diets, and batch cooking for big brains! Now let’s test your brain, Georgie, with my question.",
+    "text": "OK, so we need balanced diets, and batch cooking for big brains",
     "speaker": "Phil"
   },
   {
+    "order": 68,
     "start": 283.04,
     "end": 287.08,
     "text": "Now let's test your brain Georgie with my question.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 287.08,
     "end": 294.16,
-    "text": "Right. You asked which mammal has the biggest brain, and I guessed it was an African elephant…",
-    "speaker": "Georgie"
-  },
-  {
-    "start": 294.16,
-    "end": 297.76,
-    "text": "Which was the wrong answer I'm afraid?",
+    "text": "Right, you asked which mammal has the biggest brain and I guessed it was an African elephant.",
     "speaker": null
   },
   {
-    "start": 297.76,
-    "end": 304.759,
-    "text": "Which was… the wrong answer, I'm afraid! In fact, the biggest brain belongs to the sperm whale, weighing about 8 kilos. And the sperm whale’s main food? Fish!",
+    "order": 70,
+    "start": 294.16,
+    "end": 297.76,
+    "text": "Which was the wrong answer I'm afraid?",
     "speaker": "Phil"
   },
   {
+    "order": 71,
+    "start": 297.76,
+    "end": 304.759,
+    "text": "In fact the biggest brain belongs to the sperm whale, weighing about 8 kilos and the sperm",
+    "speaker": null
+  },
+  {
+    "order": 72,
     "start": 304.759,
     "end": 307.36,
     "text": "whale's main food, fish.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 307.36,
     "end": 313,
     "text": "OK, let's recap the vocabulary we've learned in this programme starting with sugar",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 313,
     "end": 314,
     "text": "rush.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 314,
     "end": 320.399,
-    "text": "OK, let’s recap the vocabulary we've learned in this programme starting with sugar rush, suddenly feeling excited and full of energy after eating food which contains a lot of sugar.",
-    "speaker": "sugar rush"
+    "text": "Suddenly feeling excited and full of energy after eating food which contains a lot of sugar.",
+    "speaker": null
   },
   {
+    "order": 76,
     "start": 320.399,
     "end": 326.199,
     "text": "A balanced diet includes the correct combinations of food needed to stay healthy.",
     "speaker": "A balanced diet"
   },
   {
+    "order": 77,
     "start": 326.199,
     "end": 330,
     "text": "If you go low on something, you have very little of it.",
-    "speaker": "go low"
+    "speaker": null
   },
   {
+    "order": 78,
     "start": 330,
     "end": 336.079,
     "text": "If you describe someone as sharp, you mean they’re intelligent and quick to react to things.",
     "speaker": "sharp"
   },
   {
+    "order": 79,
     "start": 336.079,
     "end": 341.839,
     "text": "Batch cooking means cooking a lot of food at the same time and saving some for later.",
-    "speaker": "Batch cooking"
-  },
-  {
-    "start": 341.839,
-    "end": 348.159,
-    "text": "And finally, doing something in 20 minutes flat means 20 minutes exactly and is used",
     "speaker": null
   },
   {
+    "order": 80,
+    "start": 341.839,
+    "end": 348.159,
+    "text": "And finally, doing something in 20 minutes flat means 20 minutes exactly and is used",
+    "speaker": "20 minutes flat"
+  },
+  {
+    "order": 81,
     "start": 348.159,
     "end": 351.959,
     "text": "to emphasise that it's done very quickly.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 351.959,
     "end": 354.359,
     "text": "Once again our six minutes are up.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 354.359,
     "end": 360.159,
     "text": "Have fun cooking up your own brain boosting breakfasts and remember to join us again next",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 360.159,
     "end": 361.159,
     "text": "time.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 361.159,
     "end": 362.159,
     "text": "Here at 6 Minute English.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 362.159,
     "end": 363.159,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 363.159,
     "end": 364.159,
-    "text": "Bye!",
-    "speaker": "Georgie"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

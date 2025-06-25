@@ -1,833 +1,972 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.679,
     "end": 14.72,
     "text": "Hello and welcome to 6 Minute English.",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 3,
     "start": 14.72,
     "end": 17.16,
     "text": "I'm Dan, and joining me today is Neil Heinew.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 17.16,
     "end": 18.16,
     "text": "Hi, Dan.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 18.16,
     "end": 20.559,
     "text": "What's with the protective gear in helmet?",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 20.559,
     "end": 24.24,
-    "text": "I'm just getting ready for the inevitable rise of the machines.",
-    "speaker": null
+    "text": "I’m just getting ready for the inevitable rise of the machines.",
+    "speaker": "Dan"
   },
   {
+    "order": 7,
     "start": 24.24,
     "end": 29.44,
     "text": "That's the takeover of the world by artificial intelligence, or AI,",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 29.44,
     "end": 32.28,
     "text": "which some people predict will happen.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 32.28,
     "end": 35.52,
-    "text": "Inevitable means cannot be avoided or stopped. Rise of the machines? What do you mean?",
-    "speaker": "Neil"
+    "text": "Inevitable means cannot be avoided or stopped.",
+    "speaker": null
   },
   {
+    "order": 10,
     "start": 35.52,
     "end": 38.079,
     "text": "Rise of the machines, what do you mean?",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 38.079,
     "end": 40.56,
-    "text": "It's our topic in this 6 Minute English.",
-    "speaker": null
+    "text": "It’s our topic in this 6 Minute English.",
+    "speaker": "Dan"
   },
   {
+    "order": 12,
     "start": 40.56,
     "end": 44.32,
     "text": "We'll be talking about that, giving you six related pieces of vocabulary,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 44.32,
     "end": 47.439,
     "text": "and of course, our regular quiz question.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 47.439,
     "end": 50.079,
-    "text": "That’s the first thing you’ve said that makes any sense. What’s the question?",
-    "speaker": "Neil"
+    "text": "That's the first thing you've said that makes any sense.",
+    "speaker": null
   },
   {
+    "order": 15,
     "start": 50.079,
     "end": 51.28,
     "text": "What's the question?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 51.28,
     "end": 57.12,
     "text": "The word robot, as we use it today, was first used in a 1920s check play,",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 57.119,
     "end": 59.599,
     "text": "Rossum's Universal Robots.",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 18,
     "start": 59.599,
     "end": 63.559,
     "text": "But before this, what was its original meaning?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 63.559,
     "end": 68.759,
     "text": "A. Forced labour, B. Metal man, or C. Heartless thing.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 68.759,
     "end": 72.28,
-    "text": "I will go for a) forced labour",
-    "speaker": "Neil"
+    "text": " I will go for a) forced labour",
+    "speaker": "Dan"
   },
   {
+    "order": 21,
     "start": 72.28,
     "end": 75.64,
     "text": "We’ll find out if you were right or not later in the show.",
     "speaker": "Dan"
   },
   {
+    "order": 22,
     "start": 75.64,
     "end": 76.56,
     "text": "OK, Dan.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 76.56,
     "end": 77.879,
-    "text": "OK Dan. Tell me what’s going on.",
-    "speaker": "Neil"
+    "text": "Tell me what's going on.",
+    "speaker": null
   },
   {
+    "order": 24,
     "start": 77.879,
     "end": 83.519,
     "text": "I saw a news article written by BBC Technology Correspondent Rory Ketlin Jones",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 83.56,
     "end": 87.92,
-    "text": "about the recent CES technology show in Las Vegas.",
-    "speaker": null
+    "text": " about the recent CES technology show in Las Vegas",
+    "speaker": "Dan"
   },
   {
+    "order": 26,
     "start": 87.92,
     "end": 92.159,
     "text": "He interviewed David Hansen, founder of Hansen Robotics,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 92.159,
     "end": 96.479,
     "text": "who said it was his ambition to achieve an AI",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 96.479,
     "end": 100.759,
     "text": "that can beat humans at any intellectual task.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 100.759,
     "end": 102.399,
     "text": "Surely it's a good thing.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 102.399,
     "end": 107.439,
     "text": "Better AI and Robotics could take over many of the jobs that we don't want to do,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 107.439,
     "end": 112.319,
     "text": "or that are so important to get 100% right, like air traffic control.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 112.319,
     "end": 114.199,
     "text": "We'd never have another plane crash.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 114.199,
     "end": 117.319,
     "text": "It would be infallible, because it would be so clever.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 117.319,
     "end": 119.719,
     "text": "Infallible means never failing.",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 35,
     "start": 119.719,
     "end": 121.319,
     "text": "And that's what bothers me.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 121.319,
     "end": 124.759,
     "text": "What happens when its intelligence surpasses hours?",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 124.759,
     "end": 127.399,
     "text": "Why should it do what we want it to do?",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 127.399,
     "end": 130.519,
     "text": "To surpass something is to do or be better than it.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 130.519,
     "end": 132.439,
     "text": "Dan, you've been watching too many movies.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 132.439,
     "end": 135.519,
     "text": "Robot's fighting humanity is a popular theme.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 135.519,
     "end": 136.519,
     "text": "Guess what?",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 136.519,
     "end": 138.24,
     "text": "Humanity often wins.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 138.24,
     "end": 141.639,
     "text": "And besides, we would program the computer to be benevolent.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 141.639,
     "end": 144.279,
     "text": "Benevolent means kind and helpful.",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 45,
     "start": 144.279,
     "end": 145.559,
     "text": "But that's just it.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 145.559,
     "end": 150.119,
     "text": "Once the intelligence becomes sentient, or able to think for itself,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 150.119,
     "end": 151.879,
     "text": "who knows what it will do?",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 151.879,
     "end": 154.359,
     "text": "We humans are not exactly perfect, you know.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 154.359,
     "end": 159.079,
     "text": "What happens if it decides that it's better than us and wants us out of the way?",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 159.079,
     "end": 161.919,
     "text": "Don't worry, Asimov thought of that.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 161.919,
     "end": 165.039,
     "text": "Isaac Asimov was an American science fiction writer",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 165.039,
     "end": 167.759,
     "text": "who, among other things, wrote about robots.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 167.759,
     "end": 171.759,
     "text": "He came up with three laws that every robot would have to follow",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 171.759,
     "end": 174,
     "text": "to stop it from acting against humanity.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 174,
     "end": 175.519,
     "text": "So we're safe.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 175.519,
     "end": 177.039,
-    "text": "I'm not so sure.",
-    "speaker": null
+    "text": "I’m not so sure.",
+    "speaker": "Dan"
   },
   {
+    "order": 57,
     "start": 177.039,
     "end": 179.519,
     "text": "A sentient robot could make up its own mind",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 179.519,
     "end": 181.84,
     "text": "about how to interpret the laws.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 181.84,
     "end": 185.479,
     "text": "For example, imagine if we created an AI system",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 185.479,
     "end": 187.359,
     "text": "to protect all of humanity.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 187.359,
     "end": 189.319,
     "text": "Well, that's great. No more war.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 189.319,
     "end": 191.239,
-    "text": "Well, that’s great! No more war. No more murder. No more fighting.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 191.239,
-    "end": 194,
-    "text": "Do you really think that humans can stop fighting?",
+    "text": "No more murder, no more fighting.",
     "speaker": null
   },
   {
+    "order": 63,
+    "start": 191.239,
+    "end": 194,
+    "text": "Do you really think that humans can stop fighting?",
+    "speaker": "Dan"
+  },
+  {
+    "order": 64,
     "start": 194,
     "end": 196.719,
     "text": "What if the AI decides that the only way",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 196.719,
     "end": 200.56,
     "text": "to stop us from hurting ourselves and each other",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 200.56,
     "end": 203.28,
     "text": "is to control everything we do?",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 203.28,
     "end": 206.68,
     "text": "So it takes over to protect us.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 206.68,
     "end": 210.36,
     "text": "Then we would lose our freedom to a thing that we created",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 210.36,
     "end": 214.319,
     "text": "that is infallible and more intelligent than we are.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 214.319,
     "end": 215.919,
     "text": "That's the end, Neil.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 215.919,
     "end": 217.879,
     "text": "I think that's a little far-fetched,",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 217.879,
     "end": 219.439,
     "text": "which means difficult to believe.",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 73,
     "start": 219.439,
     "end": 221.24,
     "text": "I'm sure others don't think that way.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 221.24,
     "end": 222.039,
     "text": "OK.",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 75,
     "start": 222.039,
     "end": 224.36,
     "text": "Let's hear what the learning English teams say",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 224.36,
     "end": 227.88,
     "text": "when I ask them if they're worried that AI and robots",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 227.88,
     "end": 230.68,
     "text": "could take over the world.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 230.68,
     "end": 233.76,
     "text": "Well, it's possible, but unlikely.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 233.76,
     "end": 235.96,
     "text": "They'll come a point where our technology will be limited",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 235.96,
     "end": 240.24,
     "text": "and probably before real AI is achieved.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 240.24,
     "end": 242.32,
     "text": "Never in a million years.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 82,
     "start": 242.32,
     "end": 245.72,
     "text": "First of all, we'd program them so that they couldn't.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 245.72,
     "end": 248.52,
     "text": "And secondly, we'd beat them anyway.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 248.52,
     "end": 252.04,
     "text": "Haven't you ever seen a movie?",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 252.04,
     "end": 254.04,
     "text": "I totally think you could happen.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 254.039,
     "end": 256.599,
     "text": "We only have to make a robot that's smart enough",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 256.599,
     "end": 258.439,
     "text": "to start thinking for itself.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 258.439,
     "end": 261.719,
     "text": "After that, who knows what it might do?",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 261.719,
     "end": 263.439,
-    "text": "A mixed bag of opinions there, Dan. It seems you aren’t alone.",
+    "text": "A mixed bag of opinions there, Dan.",
     "speaker": "Neil"
   },
   {
+    "order": 90,
     "start": 263.439,
     "end": 265.56,
     "text": "It seems you aren't alone.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 265.56,
     "end": 266.36,
     "text": "Nope.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 266.36,
     "end": 269.759,
-    "text": "Nope. But I don’t exactly have an army of support either. I guess we’ll just have to wait and see.",
-    "speaker": "Dan"
+    "text": "But I don't exactly have an army of support, either.",
+    "speaker": null
   },
   {
+    "order": 93,
     "start": 269.759,
     "end": 271.48,
     "text": "I guess we'll just have to wait and see.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 271.48,
     "end": 272.519,
     "text": "Speak for yourself.",
-    "speaker": null
-  },
-  {
-    "start": 272.519,
-    "end": 275.279,
-    "text": "Speak for yourself. I’ve waited long enough – for our quiz question that is.",
     "speaker": "Neil"
   },
   {
+    "order": 95,
+    "start": 272.519,
+    "end": 275.279,
+    "text": "I've waited long enough for our quiz question, that is.",
+    "speaker": null
+  },
+  {
+    "order": 96,
     "start": 275.279,
     "end": 275.879,
     "text": "Oh, yeah.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 275.879,
     "end": 279.279,
-    "text": "Oh yeah! I asked you what the original meaning of the word ‘robot’ was before it was used in its modern form.",
-    "speaker": "Dan"
+    "text": "I asked you what the original meaning of the word robot was",
+    "speaker": null
   },
   {
+    "order": 98,
     "start": 279.279,
     "end": 282.159,
     "text": "before it was used in its modern form.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 282.68,
     "end": 284.92,
     "text": "Shall we take a look at the vocabulary there?",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 284.92,
     "end": 285.76,
     "text": "Okay.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 285.76,
     "end": 287.6,
-    "text": "First, we had inevitable.",
-    "speaker": null
+    "text": ". First we had inevitable",
+    "speaker": "Neil"
   },
   {
+    "order": 102,
     "start": 287.6,
     "end": 291.8,
     "text": "If something is inevitable, then it cannot be avoided or stopped.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 291.8,
     "end": 293.8,
     "text": "Can you think of something inevitable, Neil?",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 293.8,
     "end": 297.88,
-    "text": "It is inevitable that one day the sun will stop burning.",
-    "speaker": null
+    "text": "It is inevitable that one day the Sun will stop burning.",
+    "speaker": "Neil"
   },
   {
+    "order": 105,
     "start": 297.88,
     "end": 301.879,
     "text": "Then we had infallible, which means never failing.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 301.879,
     "end": 303.48,
     "text": "Give us an example, Dan.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 303.48,
     "end": 306.08,
     "text": "The vaccine for the vaccine is inevitable.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 306.08,
     "end": 307.08,
     "text": "It's inevitable.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 307.08,
     "end": 308.08,
     "text": "It's inevitable.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 308.08,
     "end": 309.08,
     "text": "It's inevitable.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 309.08,
     "end": 312.08,
     "text": "It's inevitable that one day the sun will stop burning.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 312.079,
     "end": 315.56,
     "text": "After smallpox is infallible, the natural spread of that disease",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 315.56,
     "end": 317.56,
     "text": "has been completely stopped.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 317.56,
     "end": 319.879,
     "text": "After that was surpasses.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 319.879,
     "end": 322.399,
     "text": "If something surpasses something else,",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 322.399,
     "end": 324.36,
     "text": "then it becomes better than it.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 324.36,
     "end": 326.959,
     "text": "Many parents across the world hope that their children",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 326.959,
     "end": 330.719,
     "text": "will surpass them in wealth, status, or achievement.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 330.719,
     "end": 333.959,
     "text": "After that, we heard benevolent, which means kind and helpful.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 333.959,
     "end": 336.599,
     "text": "Name a person famous for being benevolent, Dan.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 336.599,
     "end": 337.399,
     "text": "Hmm.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 337.399,
     "end": 340.36,
     "text": "Father Christmas is a benevolent character.",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 340.36,
     "end": 342.48,
     "text": "After that, we heard sentient.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 342.48,
     "end": 345.879,
     "text": "If something is sentient, it is able to think for itself.",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 345.879,
     "end": 351,
     "text": "Indeed, many people wonder about the possibility of sentient life on other planets.",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 351,
     "end": 354.72,
     "text": "Finally, we heard far-fetched, which means difficult to believe.",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 354.72,
     "end": 357.879,
     "text": "Like that far-fetched story you told me the other day about being late,",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 357.879,
     "end": 359.16,
     "text": "because of a dragon, Dan.",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 359.16,
     "end": 360.6,
-    "text": "I swear it was real.",
-    "speaker": null
+    "text": "I swear it was real!",
+    "speaker": "Dan"
   },
   {
+    "order": 130,
     "start": 360.6,
     "end": 362.68,
     "text": "It had a big sharp teeth and everything.",
     "speaker": null
   },
   {
+    "order": 131,
     "start": 362.68,
     "end": 363.879,
     "text": "Yeah, yeah, yeah.",
     "speaker": null
   },
   {
+    "order": 132,
     "start": 363.879,
     "end": 366.04,
     "text": "And that's the end of this six-minute English.",
     "speaker": null
   },
   {
+    "order": 133,
     "start": 366.04,
     "end": 369.28,
     "text": "Don't forget to check out our Facebook, Twitter, and YouTube pages.",
     "speaker": null
   },
   {
+    "order": 134,
     "start": 369.279,
     "end": 370.279,
     "text": "See you next time.",
     "speaker": null
   },
   {
+    "order": 135,
     "start": 370.279,
     "end": 371.279,
     "text": "Bye!",
     "speaker": "Dan"
   },
   {
+    "order": 136,
     "start": 371.279,
     "end": 372.279,
     "text": "Bye.",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 137,
     "start": 372.279,
     "end": 374.079,
     "text": "Six-minute English.",
     "speaker": null
   },
   {
+    "order": 138,
     "start": 374.079,
     "end": 376.279,
     "text": "From BBCLearningEnglish.com.",

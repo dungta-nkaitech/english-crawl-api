@@ -5,6 +5,31 @@
   "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p06jz51w.jpg",
   "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/180906_6min_english_sedentary_download.mp3",
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/180906_6min_english_sedentary.pdf",
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "word": "sedentary",
+      "definition": "adjective used to describe a lifestyle which involves a lot of sitting and not much exercise"
+    },
+    {
+      "word": "life expectancy",
+      "definition": "the age to which you are expected to live"
+    },
+    {
+      "word": "shirker",
+      "definition": "someone who avoids doing something they don't like, usually because they are lazy"
+    },
+    {
+      "word": "tongue-in-cheek",
+      "definition": "something meant to be humorous and not taken seriously"
+    },
+    {
+      "word": "stern",
+      "definition": "adjective that means serious and strict"
+    },
+    {
+      "word": "clipboard",
+      "definition": "a board you attach papers to so that you can write on them as you walk around"
+    }
+  ],
   "quiz": null
 }

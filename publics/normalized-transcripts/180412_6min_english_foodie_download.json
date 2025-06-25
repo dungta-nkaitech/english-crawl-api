@@ -1,611 +1,713 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 13.519,
     "end": 16.16,
     "text": "Hello and welcome to 6 Minute English. I'm Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 16.16,
     "end": 17.16,
     "text": "And I'm Rob.",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 4,
     "start": 17.16,
     "end": 20.08,
     "text": "Now Rob, you look like you enjoy a good meal.",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 20.08,
     "end": 26,
-    "text": "Ha. Well, I do like eating out and I like to think I know a good meal when I have one.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 26.239,
-    "end": 30.079,
-    "text": "Well, that should give you an advantage with today's quiz.",
+    "text": "Ha, well I do like eating out, and I like to think I know a good meal when I have one.",
     "speaker": null
   },
   {
+    "order": 6,
+    "start": 26.239,
+    "end": 30.079,
+    "text": "Well that should give you an advantage with today’s quiz. ",
+    "speaker": "Neil"
+  },
+  {
+    "order": 7,
     "start": 30.079,
     "end": 34.159,
     "text": "In 2016, which is the last year we have statistics for,",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 34.159,
     "end": 38.799,
     "text": "how many restaurants and mobile food services were there in the UK?",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 38.799,
     "end": 42.24,
-    "text": "a) about 75,000,",
-    "speaker": "Neil"
+    "text": "Was it A, about 75,000?",
+    "speaker": null
   },
   {
+    "order": 10,
     "start": 42.24,
     "end": 47.2,
-    "text": "b) about 83,000, or",
+    "text": "b) about 83,000, or c) about 93,000",
     "speaker": "Neil"
   },
   {
+    "order": 11,
     "start": 47.2,
     "end": 53.28,
-    "text": "Well, I know there are a lot, so I’m going to say 93,000 – but that is just a guess.",
+    "text": "Well, I know there are a lot, so I’m going to say 93,000 – but that is just a guess",
     "speaker": "Rob"
   },
   {
+    "order": 12,
     "start": 53.28,
     "end": 56.32,
     "text": "I'll reveal the answer a little later in the programme.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 56.32,
     "end": 59.039,
     "text": "Today we're talking about being a foodie.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 59.039,
     "end": 61.2,
     "text": "Rob, what is a foodie?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 61.2,
     "end": 65.68,
-    "text": "Well, I would describe a foodie as someone who has a strong interest in food.",
-    "speaker": null
+    "text": "Well I would describe a foodie as someone who has a strong interest in food. ",
+    "speaker": "Rob"
   },
   {
+    "order": 16,
     "start": 65.68,
     "end": 68,
     "text": "They like preparing it as well as eating it.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 68,
     "end": 72.96,
     "text": "They like using good ingredients, and they're probably not fans of fast food.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 72.96,
     "end": 76.159,
     "text": "Angela Hartnett is one of Britain's top chefs.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 76.159,
     "end": 80.079,
     "text": "In the BBC podcast The Bottom Line, she talked about this topic.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 80.079,
     "end": 85.28,
     "text": "In this first clip, how does she describe people who say they are foodies?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 85.28,
     "end": 91.2,
     "text": "I think people who say they're foodies, by the books watch TV and will cook a little bit.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 91.2,
     "end": 97.28,
     "text": "She's saying that people who say they are foodies may not actually know that much about food.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 97.28,
     "end": 102,
     "text": "They buy books and watch cookery programmes on TV and will cook a little bit.",
-    "speaker": null
+    "speaker": "Angela Hartnett"
   },
   {
+    "order": 24,
     "start": 102,
     "end": 105.599,
-    "text": "A little bit is a common phrase that means a small amount,",
-    "speaker": null
+    "text": "A little bit is a common phrase that means ‘a small amount",
+    "speaker": "Neil"
   },
   {
+    "order": 25,
     "start": 105.599,
     "end": 109.84,
     "text": "and if you do something a little bit, it means you don't do it a lot.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 109.92,
     "end": 114.48,
     "text": "You could just say a little, but adding a bit to the phrase makes it very natural.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 115.2,
     "end": 118.4,
     "text": "Well, we heard a little bit of Angela Hartnett there.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 118.4,
     "end": 119.76,
     "text": "Let's hear more now.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 119.76,
     "end": 121.76,
     "text": "What's her description of a foodie?",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 123.439,
     "end": 129.28,
-    "text": "My idea of a foodie is the very European idea that people go and shop every day.",
-    "speaker": null
+    "text": "My idea of a foodie is the very European idea that people go and shop every day,",
+    "speaker": "Angela Hartnett"
   },
   {
+    "order": 31,
     "start": 129.28,
     "end": 132.08,
     "text": "They understand one end of a pig from another.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 133.439,
     "end": 137.84,
     "text": "And maybe that's a bit romantic, but my mother and I look at my grandmother and I are back.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 137.84,
     "end": 142.64,
     "text": "And they made food. They knew about what was expensive, they knew about quality and stuff like that.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 144.56,
     "end": 146.8,
     "text": "Rob, do you know one end of a pig from another?",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 35,
     "start": 146.8,
     "end": 147.759,
     "text": "Well, I hope so.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 147.759,
     "end": 152.96,
-    "text": "But the point Angela Hartnett is making is that a true foodie has a good understanding,",
-    "speaker": null
+    "text": " but the point Angela Hartnett is making is that a true foodie has a good understanding",
+    "speaker": "Rob"
   },
   {
+    "order": 37,
     "start": 152.96,
     "end": 158.24,
     "text": "for example, of the different parts of an animal that are used in cooking and what they used for.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 158.879,
     "end": 161.759,
     "text": "She says that idea might be a bit romantic.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 162.64,
     "end": 167.52,
     "text": "We normally think of the word romantic when we're talking about love and relationships,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 167.52,
     "end": 169.28,
     "text": "but that's not what it means here is it.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 170,
     "end": 173.76,
-    "text": "No, romantic can also describe a pleasant ideal,",
-    "speaker": null
+    "text": "No. Romantic can also describe a pleasant ideal ",
+    "speaker": "Rob"
   },
   {
+    "order": 42,
     "start": 173.76,
     "end": 178.96,
     "text": "an imaginary perfect way of life that forgets about the difficult things of everyday existence.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 178.96,
     "end": 182.16,
     "text": "Let's hear some more from chef Angela Hartnett now.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 182.16,
     "end": 183.439,
     "text": "What is she worried about?",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 184.879,
     "end": 189.12,
-    "text": "I think we think we're foodies, but I think food is expensive in this country.",
-    "speaker": null
+    "text": "I think we think we're foodies but I think food is expensive in this country. ",
+    "speaker": "Angela Hartnett"
   },
   {
+    "order": 46,
     "start": 189.12,
     "end": 190.8,
     "text": "I don't think it's affordable for lots of people.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 191.36,
     "end": 196.16,
     "text": "And I think we are in danger of not knowing, you know, how to cook anymore,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 196.24,
     "end": 199.759,
     "text": "how to make a meal for a family of four for five pounds.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 201.28,
     "end": 204,
     "text": "So Rob, what is Angela Hartnett worried about?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 204.719,
-    "end": 208.4,
-    "text": "She commented that food was very expensive here in Britain.",
     "speaker": null
   },
   {
+    "order": 50,
+    "start": 204.719,
+    "end": 208.4,
+    "text": "She commented that food was very expensive here in Britain.",
+    "speaker": "Rob"
+  },
+  {
+    "order": 51,
     "start": 208.4,
     "end": 211.039,
     "text": "Many people don't have enough money to buy it.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 211.039,
     "end": 213.519,
     "text": "As she said, it's not affordable.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 213.519,
     "end": 218.479,
     "text": "She thinks we might be in danger of not being able to feed our families cheaply.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 219.519,
     "end": 222.319,
     "text": "Can you say a bit more about the phrase in danger of?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 222.879,
-    "end": 226.639,
-    "text": "Sure, the phrase to be in danger of is followed by a gerund,",
     "speaker": null
   },
   {
+    "order": 55,
+    "start": 222.879,
+    "end": 226.639,
+    "text": "Sure, the phrase to be in danger of is followed by a gerund ",
+    "speaker": "Rob"
+  },
+  {
+    "order": 56,
     "start": 226.639,
     "end": 230.479,
     "text": "and it means that there is the possibility of something bad happening.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 230.479,
     "end": 232.959,
     "text": "It's not happened yet, but it could happen.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 232.959,
     "end": 234.239,
     "text": "Thanks Rob. Right.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 234.239,
     "end": 236.719,
     "text": "Well, we're in danger of running out of time.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 236.719,
     "end": 241.12,
     "text": "So let's get to the answer to the question I asked at the start of the program.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 241.12,
     "end": 246.719,
     "text": "I asked how many restaurants or mobile food services there were in the UK in 2016.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 247.68,
     "end": 252.24,
-    "text": "And I said – it was a guess – 93,000. But was I right?",
+    "text": "And I said it was a guess, 93,000, but was I right?",
     "speaker": "Rob"
   },
   {
+    "order": 63,
     "start": 252.24,
     "end": 254.639,
     "text": "I'm afraid you're 10,000 out.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 254.639,
     "end": 257.839,
-    "text": "I'm afraid you're 10,000 out! The answer is approximately 83,000.",
-    "speaker": "Neil"
+    "text": "The answer is approximately 83,000.",
+    "speaker": null
   },
   {
+    "order": 65,
     "start": 257.839,
     "end": 262.639,
-    "text": "Right, well I’ve still got a few more to get to before I can tick them all off my list!",
+    "text": "Right, well I’ve still got a few more to get to before I can tick them all off my list! ",
     "speaker": "Rob"
   },
   {
+    "order": 66,
     "start": 262.639,
     "end": 263.439,
     "text": "Me too.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 263.439,
     "end": 267.92,
-    "text": "Me too! Well, before we go, let’s recap the words and phrases we talked about today. The first was foodie.",
-    "speaker": "Neil"
+    "text": "Well, before we go, let's recap the words and phrases we talked about today.",
+    "speaker": null
   },
   {
+    "order": 68,
     "start": 268.72,
     "end": 270.399,
     "text": "The first was Foudie.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 271.279,
     "end": 276.639,
     "text": "Yes, Foudie is a modern word to describe someone who is very interested in all aspects.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 276.72,
     "end": 280.48,
     "text": "Of food from buying, preparing and cooking to eating.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 71,
     "start": 280.48,
     "end": 284.56,
-    "text": "And someone who may or may not know which end of a pig is which!",
-    "speaker": "Neil"
-  },
-  {
-    "start": 284.56,
-    "end": 287.28,
-    "text": "I think you’re being a little bit silly there, aren’t you?",
-    "speaker": "Rob"
-  },
-  {
-    "start": 287.28,
-    "end": 289.6,
-    "text": "Well a little bit was our next phrase, wasn’t it?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 289.6,
-    "end": 290.88,
-    "text": "Yes, a little bit.",
+    "text": "And someone who may or may not know which end of a pig is which.",
     "speaker": null
   },
   {
-    "start": 290.88,
-    "end": 296.16,
-    "text": "Yes, a little bit: a very simple but a very natural conversational phrase that means a small amount.",
+    "order": 72,
+    "start": 284.56,
+    "end": 287.28,
+    "text": "Well, I think you're being a little bit silly there, aren't you?",
+    "speaker": null
+  },
+  {
+    "order": 73,
+    "start": 287.28,
+    "end": 289.6,
+    "text": "Well, a little bit was our next phrase, wasn't it?",
     "speaker": "Rob"
   },
   {
+    "order": 74,
+    "start": 289.6,
+    "end": 290.88,
+    "text": "Yes, a little bit:",
+    "speaker": "Rob"
+  },
+  {
+    "order": 75,
+    "start": 290.88,
+    "end": 296.16,
+    "text": "A very simple but a very natural conversational phrase that means a small amount.",
+    "speaker": null
+  },
+  {
+    "order": 76,
     "start": 296.96,
     "end": 299.52,
     "text": "The next word was the adjective romantic,",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 299.52,
     "end": 302.4,
-    "text": "The next word was the adjective romantic. Not used in the context of love here though was it?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 302.399,
-    "end": 307.12,
-    "text": "No, it wasn't. A romantic idea here is one that is not realistic,",
+    "text": "not used in the context of love here, though, was it?",
     "speaker": null
   },
   {
+    "order": 78,
+    "start": 302.399,
+    "end": 307.12,
+    "text": "No, it wasn't. A romantic idea here is one that is not realistic ",
+    "speaker": "Rob"
+  },
+  {
+    "order": 79,
     "start": 307.12,
     "end": 310.159,
     "text": "but is an imagined perfect situation.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 310.159,
     "end": 313.679,
     "text": "For example, we have a very romantic view of our childhoods",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 313.679,
     "end": 317.839,
     "text": "when every Christmas was a white Christmas and every summer holiday was baking hot",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 317.839,
     "end": 319.359,
     "text": "and spent on the beach.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 319.359,
     "end": 320.959,
     "text": "Of course, it wasn't like that at all.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 320.959,
     "end": 324.079,
     "text": "In reality, both Christmas and summer were cold and rainy.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 324.959,
     "end": 329.359,
-    "text": "Then we had the adjective affordable, for something we have enough money to buy. Finally the phrase to be in danger of.",
-    "speaker": "Neil"
+    "text": "Then we had the adjective affordable for something we have enough money to buy.",
+    "speaker": null
   },
   {
+    "order": 86,
     "start": 330.319,
     "end": 332.96,
     "text": "Finally, the phrase to be in danger of.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 332.96,
     "end": 335.84,
     "text": "Yes, meaning the possibility of something bad happening.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 336.48,
     "end": 338.24,
     "text": "Well, that's it for this programme.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 89,
     "start": 338.24,
     "end": 342.72,
     "text": "For more, you can find us on Facebook, Twitter, Instagram and our YouTube pages.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 342.72,
     "end": 346.4,
     "text": "And of course, our website, BBCLearningEnglish.com,",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 346.4,
     "end": 351.04,
     "text": "where you can find all kinds of videos and audio programmes and activities",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 351.04,
     "end": 352.96,
     "text": "to help you improve your English.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 353.439,
     "end": 354.879,
     "text": "Thanks for joining us and goodbye.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 354.879,
     "end": 355.36,
     "text": "Bye-bye!",
     "speaker": "Rob"
   },
   {
+    "order": 95,
     "start": 356.879,
     "end": 358.56,
     "text": "Well, I have to say.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 359.36,
     "end": 361.92,
-    "text": "Well I have to say, I’m a little bit hungry and if I don’t get some food soon I’m in danger of getting very grumpy.",
-    "speaker": "Neil"
+    "text": "I'm a little bit hungry and if I don't get some food soon,",
+    "speaker": null
   },
   {
+    "order": 97,
     "start": 361.92,
     "end": 364.24,
     "text": "I'm in danger of getting very grumpy.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 364.24,
     "end": 368.48,
     "text": "You're always grumpy, Neil, but there is a very affordable cafe around the corner.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 368.48,
     "end": 369.68,
     "text": "Let's head over there now, shall we?",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 369.68,
     "end": 370.16,
     "text": "Hmm.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 371.36,
     "end": 374,
     "text": "Six-minute English from the BBC.",

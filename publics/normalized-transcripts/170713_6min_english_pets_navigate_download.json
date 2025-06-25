@@ -1,596 +1,695 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 11.96,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 11.96,
     "end": 16,
     "text": "Welcome to 6 Minute English, the program where we bring you an interesting topic",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 16,
     "end": 18.8,
-    "text": "and six useful words or phrases. I'm Neil.",
-    "speaker": null
+    "text": " and six useful words or phrases. I'm Neil",
+    "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 18.8,
     "end": 23.12,
     "text": "And I'm Dan. Today we're talking about one of the last mysteries of science.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 23.12,
     "end": 27.28,
     "text": "No, not if the universe will keep expanding forever, but this.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 27.359,
     "end": 31.04,
     "text": "How do cats and dogs find their way home over long distances?",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 31.04,
     "end": 37.2,
     "text": "We hear incredible stories of lost pets, traveling tens and even hundreds of miles home,",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 37.2,
     "end": 40.4,
     "text": "but scientists struggle to explain how they do it.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 10,
+    "start": 40.4,
+    "end": 45.92,
+    "text": "We'll hear the view of one scientist today, but before that I have to ask an important question.",
     "speaker": null
   },
   {
-    "start": 40.4,
-    "end": 45.92,
-    "text": "We'll hear the view of one scientist today. But before that – I have to ask an important question: Neil, are you a cat person or a dog person?",
-    "speaker": "a cat persona dog person"
-  },
-  {
+    "order": 11,
     "start": 45.92,
     "end": 48.56,
     "text": "Neil, are you a cat person or a dog person?",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 48.56,
     "end": 55.359,
     "text": "Oh, that's easy. I'm a cat person for sure. Dogs are just... well they're hard work, aren't they?",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 55.439,
     "end": 59.2,
     "text": "If you say you're a cat person, it means you prefer cats.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 59.2,
     "end": 61.92,
     "text": "A coffee person prefers coffee.",
-    "speaker": null
+    "speaker": "a cat person"
   },
   {
+    "order": 15,
     "start": 61.92,
     "end": 67.68,
     "text": "A something person likes or prefers that thing, often over another thing.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 67.68,
     "end": 71.92,
     "text": "Back to the topic, I'm a cat person. Can you answer this, Dan?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 71.92,
     "end": 78.56,
     "text": "Recently, a cat called Omar made headlines for being possibly the world's longest cat.",
-    "speaker": null
+    "speaker": "a cat person"
   },
   {
+    "order": 18,
     "start": 78.56,
     "end": 80.879,
     "text": "How long is Omar?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 80.879,
     "end": 83.599,
-    "text": "a) 120 cm",
-    "speaker": "a cat person"
+    "text": "Is it a 120 cm?",
+    "speaker": null
   },
   {
+    "order": 20,
     "start": 83.599,
     "end": 88.159,
-    "text": "Or c) 180 cm",
+    "text": "b) 80 cm Or c) 180 cm",
     "speaker": "a cat person"
   },
   {
+    "order": 21,
     "start": 88.159,
     "end": 91.439,
     "text": "I'm going to say C, 180 cm.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 91.439,
     "end": 97.519,
     "text": "Now, from long cats to long distance cats, scientists were scratching their heads a couple of years ago",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 97.519,
     "end": 101.359,
     "text": "when a lost cat called Holly traveled 200 miles to get home.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 102,
     "end": 103.439,
     "text": "How did it do it?",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 25,
     "start": 103.439,
     "end": 107.439,
     "text": "We say scratch your head when you're confused about something.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 107.439,
     "end": 113.199,
-    "text": "We say you 'scratch your head' when you are confused about something. There are a few theories about how cats and dogs navigate – but we don't yet have the full answer.",
+    "text": "There are a few theories about how cats and dogs navigate, but we don't yet have the full answer.",
     "speaker": "scratch your head"
   },
   {
+    "order": 27,
     "start": 113.599,
     "end": 118.64,
     "text": "Well, both cats and dogs have an extremely powerful sense of smell, of course.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 118.64,
     "end": 122.64,
     "text": "Smells are like signposts. They let you know where you are.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 123.359,
     "end": 127.679,
     "text": "Visual landmarks also play a role just as they do with humans.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 127.679,
     "end": 133.039,
     "text": "A landmark is something very easily recognised, a big building or mountain, for example.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 133.039,
     "end": 135.039,
-    "text": "And what about this one?",
-    "speaker": null
-  },
-  {
-    "start": 135.039,
-    "end": 139.919,
-    "text": "And what about this one: magnets are pieces of metal which attract certain other kinds of metal - for example, iron or steel. The Earth itself has a magnetic force.",
+    "text": "And what about this one:",
     "speaker": "magnetsmagnetic"
   },
   {
+    "order": 32,
+    "start": 135.039,
+    "end": 139.919,
+    "text": "Magnets are pieces of metal which attract certain other kinds of metal, for example,",
+    "speaker": null
+  },
+  {
+    "order": 33,
     "start": 140.159,
     "end": 141.359,
     "text": "iron or steel.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 141.359,
     "end": 144.399,
     "text": "The earth itself has a magnetic force.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 144.399,
     "end": 148.079,
     "text": "Birds use it to help them navigate over thousands of miles.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 148.079,
     "end": 149.919,
     "text": "It tells them where north is.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 149.919,
     "end": 152.799,
     "text": "It's thought they have some iron in their beaks.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 152.799,
     "end": 156.879,
     "text": "But some scientists think mammals also have this capability.",
     "speaker": "Dan"
   },
   {
+    "order": 39,
     "start": 156.879,
     "end": 158.879,
     "text": "So, we have a few ideas.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 158.879,
     "end": 165.919,
-    "text": "So we have a few ideas – smell, landmarks, magnetic forces – but can we explain how one kitty travelled over 200 miles by itself back to its home?",
-    "speaker": "landmarksmagnetic"
+    "text": "Smell, landmarks, magnetic forces, but can we explain how one kitty travelled over 200 miles",
+    "speaker": null
   },
   {
+    "order": 41,
     "start": 165.919,
     "end": 168.079,
     "text": "by itself back to its home?",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 168.16,
     "end": 171.76,
-    "text": "Let's hear from cat and dog expert Dr John Bradshaw. How do cats build up the maps in their heads?",
+    "text": "Let's hear from cat and dog expert Dr John Bradshaw. ",
     "speaker": "Dan"
   },
   {
+    "order": 43,
     "start": 171.76,
     "end": 174.32,
     "text": "How do cats build up the maps in their heads?",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 176.4,
     "end": 181.6,
     "text": "What they do when they are in a new territory is explore it in a very systematic way.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 181.6,
     "end": 184.32,
     "text": "So they'll go out in ever-increasing circles.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 184.32,
     "end": 188.08,
     "text": "They'll literally construct a mental map in their heads.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 188.08,
     "end": 191.84,
     "text": "And so a cat that's lost its territory probably does the same thing.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 191.84,
     "end": 197.2,
     "text": "They'll rely on the idea that if they go out in ever-increasing circles or rectangles,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 197.199,
     "end": 200.719,
     "text": "then eventually they will either come across the territory or they'll come across a smell",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 200.719,
     "end": 204.399,
     "text": "carried on the wind of the territory that they used to live in and then be able to get home.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 205.599,
     "end": 209.439,
     "text": "Cats have a systematic approach, which means they use a system which is.",
-    "speaker": null
+    "speaker": "systematicsystem"
   },
   {
+    "order": 52,
     "start": 210.239,
     "end": 214.719,
     "text": "First, they walk around their area in a small circle, then a bigger one,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 214.719,
     "end": 218.719,
     "text": "and then a bigger one, until they have a strong mental map of the place.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 218.719,
     "end": 222.799,
     "text": "Yes, a mental map is a map in your head, stored in your memory,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 222.8,
     "end": 227.52,
     "text": "and the area cats explore, their home area, is called their territory.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 227.52,
     "end": 232.16,
     "text": "Cats are territorial, which means their territory is very important to them.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 232.719,
     "end": 236.56,
     "text": "Having a map is great, but what happens when a cat gets lost?",
-    "speaker": null
+    "speaker": "landmark"
   },
   {
+    "order": 58,
     "start": 237.12,
     "end": 243.2,
     "text": "Dr Bradshaw says that again, it moves around in bigger and bigger circles until it finds a",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 243.2,
     "end": 246.96,
     "text": "clue, which is a landmark or a smell that tells it where it is.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 247.68,
     "end": 249.52,
     "text": "Well, that's the theory.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 249.52,
     "end": 253.2,
     "text": "Though Dr Bradshaw says we really still don't have enough data,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 253.2,
     "end": 255.2,
     "text": "that's enough information about this.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 255.76,
     "end": 260.319,
     "text": "When there is a scientific breakthrough, we'll bring it to you in six minute English, I hope.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 260.879,
     "end": 265.28,
     "text": "For now, let's content ourselves with Omar, possibly the world's longest cat.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 265.28,
     "end": 266.48,
     "text": "How long then, Dan?",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 266.48,
     "end": 268.8,
     "text": "I said 180 centimeters.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 269.28,
     "end": 272.079,
     "text": "Omar measures 120 centimeters.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 272.639,
     "end": 277.04,
     "text": "That's over two-thirds of my height and weighs a heavy 14 kilograms.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 277.12,
     "end": 281.36,
     "text": "Well, one thing, Neil, if Omar ever got lost, he'd be found in no time.",
-    "speaker": "Dan"
+    "speaker": "Neil"
   },
   {
+    "order": 70,
     "start": 281.36,
     "end": 286.48,
-    "text": "He's a landmark in himself, which reminds me, let's run through today's words again.",
-    "speaker": null
+    "text": "He's a landmark in himself! Which reminds me – let's run through today's words again",
+    "speaker": "landmarka cat personan evening person"
   },
   {
+    "order": 71,
     "start": 286.48,
     "end": 289.04,
     "text": "If you're a cat person, you prefer cats.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 289.04,
     "end": 292.24,
     "text": "If you're an evening person, you prefer evenings.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 292.24,
     "end": 294.48,
     "text": "I've always thought you were a kind person, Neil.",
-    "speaker": "Dan"
+    "speaker": null
   },
   {
+    "order": 74,
     "start": 294.48,
     "end": 299.52,
     "text": "Nice of you to say, but we only use the phrase with nouns, not adjectives!",
     "speaker": "Neil"
   },
   {
+    "order": 75,
     "start": 299.52,
     "end": 300.32,
     "text": "Indeed.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 300.32,
     "end": 302.8,
     "text": "We don't want listeners to be scratching their heads.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 302.8,
     "end": 304.56,
-    "text": "No, we can't confuse them.",
-    "speaker": null
+    "text": "No, we can't confuse them!",
+    "speaker": "landmarklandmarks"
   },
   {
+    "order": 78,
     "start": 304.56,
     "end": 307.04,
     "text": "So let's explain the next one clearly.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 307.04,
     "end": 312.16,
     "text": "A landmark is something easily recognizable that lets you know where you are.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 312.16,
     "end": 314.319,
     "text": "The bridges in London are landmarks.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 314.319,
     "end": 316.72,
     "text": "And can we say the parks are magnets in summer?",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 317.28,
     "end": 320.879,
     "text": "A magnet is a piece of metal that attracts iron and steel,",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 320.879,
     "end": 326,
     "text": "but we can also use the word more widely to describe things that attract other things.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 326.8,
     "end": 328.079,
     "text": "Two more words.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 328.079,
     "end": 329.6,
     "text": "Territory is a noun.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 329.6,
     "end": 333.36,
     "text": "The area of land that an animal considers to be its own.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 333.36,
     "end": 337.36,
     "text": "Animals who feel this strongly are described as territorial.",
-    "speaker": null
-  },
-  {
-    "start": 337.36,
-    "end": 341.84,
-    "text": "Animals who feel this strongly are described as territorial. Humans can be too – about land or subjects they feel they own or control.",
     "speaker": "territorial"
   },
   {
+    "order": 88,
+    "start": 337.36,
+    "end": 341.84,
+    "text": "Humans can be too about land or subjects they feel they own or control.",
+    "speaker": null
+  },
+  {
+    "order": 89,
     "start": 342.639,
     "end": 344.56,
     "text": "And finally, systematic.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 344.56,
     "end": 346.4,
     "text": "The adjective from system.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 346.4,
     "end": 349.84,
     "text": "We can talk about a systematic approach, a systematic solution,",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 349.84,
     "end": 351.199,
     "text": "a systematic study.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 351.199,
     "end": 355.36,
     "text": "And we have systematically worked our way through all of today's words!",
     "speaker": "systematically"
   },
   {
+    "order": 94,
     "start": 355.36,
     "end": 360.4,
     "text": "Very good, which means it's time to mention our own online territory.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 360.4,
     "end": 362.319,
     "text": "Our website and social media pages.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 362.319,
     "end": 365.68,
-    "text": "Check us out on Facebook, Twitter, Instagram and YouTube, and of course bbclearningenglish.com!",
+    "text": "Check us out on Facebook, Twitter, Instagram and YouTube,",
     "speaker": "Neil"
   },
   {
+    "order": 97,
     "start": 365.68,
     "end": 368.079,
     "text": "And of course, BBC Learning English.com.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 368.079,
     "end": 369.439,
-    "text": "Bye bye for now.",
-    "speaker": "Dan"
+    "text": "Bye bye for now. Goodbye.",
+    "speaker": null
   }
 ]

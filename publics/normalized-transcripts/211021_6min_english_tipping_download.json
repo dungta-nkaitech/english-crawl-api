@@ -1,71 +1,83 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.44,
     "text": "This is a download from BBC Learning English to find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 14.96,
     "end": 18.64,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Sam.",
     "speaker": "Sam"
   },
   {
+    "order": 2,
     "start": 19.679,
     "end": 25.6,
     "text": "And I'm Neil. In this program we're talking all about restaurants, specifically about",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 25.76,
     "end": 30.24,
-    "text": "In this programme, we’re talking all about restaurants – specifically about tipping. That’s giving money to waiting staff for the service you received.",
+    "text": "tipping. That's giving money to waiting staff for the service you received.",
     "speaker": "Sam"
   },
   {
+    "order": 4,
     "start": 31.76,
     "end": 36.32,
     "text": "Yes, while tipping is discretionary, which means that someone could decide whether they want to",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 36.32,
     "end": 40.4,
     "text": "give money or not, in most places in the UK it's an expected practice.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 41.439,
     "end": 47.6,
     "text": "But have you ever thought whether money goes or who actually receives it? Do they have to pay",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 47.6,
     "end": 54.56,
     "text": "tax on it? Or is it just a gift? Some people think that the person who brought our food is the one",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 8,
     "start": 54.56,
     "end": 60.8,
     "text": "who gets the money. However, that isn't always the case. Well, before we find out more about",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 60.8,
     "end": 66.719,
     "text": "where our tips go, I have a question about restaurants. The highest restaurant in the world",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 10,
     "start": 66.719,
     "end": 74.48,
     "text": "at Massphere is in Dubai in the building known as the Burj Khalifa. But how high up is that",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 74.48,
     "end": 80.079,
     "text": "restaurant? Is it a 442 metres? B, 500.",

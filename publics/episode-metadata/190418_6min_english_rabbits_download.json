@@ -7,8 +7,28 @@
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/190418_6min_english_rabbit.pdf",
   "vocabItems": [
     {
-      "word": "a fan of something",
-      "definition": "somebody who is keen on something"
+      "word": "a fan of",
+      "definition": "somethingsomebody who is keen on something"
+    },
+    {
+      "word": "endemic",
+      "definition": "very common or strongly established in a place or situation"
+    },
+    {
+      "word": "a warren",
+      "definition": "an underground area where rabbits live, but also a building or a part of a town where there are lots of confusing passageways or streets where it is easy to get lost"
+    },
+    {
+      "word": "a predator",
+      "definition": "an animal that hunts and kills another animal"
+    },
+    {
+      "word": "paradoxical",
+      "definition": "something that has two opposing characteristics making it hard to understand"
+    },
+    {
+      "word": "a trickster",
+      "definition": "someone who deceives people to get what they want"
     }
   ],
   "quiz": null

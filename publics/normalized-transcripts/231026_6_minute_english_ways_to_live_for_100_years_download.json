@@ -1,416 +1,485 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.679,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 5.679,
     "end": 12.2,
     "text": "Hello, this is 6-minute English from BBC Learning English. I'm Neil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.2,
     "end": 14.8,
-    "text": "How old are you, Beth?",
-    "speaker": "Neil"
+    "text": "And I’m Beth. How old are you, Beth?",
+    "speaker": "Beth"
   },
   {
+    "order": 3,
     "start": 14.8,
     "end": 16.8,
     "text": "That’s a very personal question, Neil!",
     "speaker": "Beth"
   },
   {
+    "order": 4,
     "start": 16.8,
     "end": 19,
     "text": "Sorry, I didn't mean to be rude.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 19,
     "end": 22.039,
     "text": "Anyway, at least you're not a centenarian.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 22.039,
     "end": 24.679,
     "text": "Someone who's lived to be a hundred years old.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 24.679,
     "end": 28.24,
-    "text": "Are you saying I look a hundred? That’s even ruder!",
+    "text": "Are you saying I look a hundred? That's even rude.",
     "speaker": "Beth"
   },
   {
+    "order": 8,
     "start": 28.239,
     "end": 34.479,
     "text": "Sorry, Beth, no. It's just that with advances in modern medicine, people are living longer",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 34.479,
     "end": 35.799,
     "text": "and longer.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 35.799,
     "end": 41.96,
     "text": "There was a time when living to a hundred seemed impossible. But in 2021, the United Nations",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 41.96,
     "end": 48.599,
     "text": "Population Division estimated there to be over half a million centenarians worldwide.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 48.599,
     "end": 51.119,
     "text": "And that number is set to rise.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 51.119,
     "end": 57.399,
-    "text": "So how do you live to a hundred? And what could life be like in your twilight years?",
-    "speaker": null
+    "text": "So how do you live to a hundred? And what could life be like in your twilight years,",
+    "speaker": "twilight years"
   },
   {
+    "order": 14,
     "start": 57.399,
     "end": 62.199,
     "text": "A phrase meaning your old age or the last years of your life.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 62.199,
     "end": 66.56,
     "text": "That's what we'll be discussing in this programme and of course we'll be learning some useful",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 66.56,
     "end": 68.679,
     "text": "new vocabulary too.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 68.679,
     "end": 75.719,
-    "text": "But first I have a question for you, Beth. In 2022, the world’s oldest certified person died aged 119. But which country was she from? Was it:",
-    "speaker": "Neil"
+    "text": "But first I have a question for you, Beth. In 2022, the world's oldest certified person",
+    "speaker": null
   },
   {
+    "order": 18,
     "start": 75.719,
     "end": 85.439,
     "text": "died aged 119. But which country was she from? Was it A, Switzerland, B, Italy or C, Japan?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 85.439,
     "end": 88.439,
     "text": "Hmm, I think the answer is Japan.",
-    "speaker": "Beth"
+    "speaker": "Neil"
   },
   {
+    "order": 20,
     "start": 88.439,
     "end": 93.159,
     "text": "Okay, Beth, we'll find out the answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 93.159,
     "end": 99.079,
     "text": "Of all the many factors for long life, such as diet, exercise and keeping active, human",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 22,
     "start": 99.079,
     "end": 104.759,
     "text": "relationships are among the most important. People who are more connected with others and",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 104.759,
     "end": 110.2,
     "text": "have warmer relationships live longer and stay healthier. And according to psychiatrist",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 110.2,
     "end": 115.56,
     "text": "Robert Waldinger, talking here with the BBC World Service programme, the inquiry, those",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 115.56,
     "end": 119.48,
     "text": "relationships don't necessarily have to be with humans.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 119.48,
     "end": 125.439,
     "text": "Introverts actually find having a lot of people around stressful. So they might only need",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 125.439,
     "end": 130.64,
     "text": "one or two close people. And that's all they need, that's all they want and that's just",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 130.64,
     "end": 136.48,
     "text": "fine for them. So one size doesn't fit all when it comes to how many relationships you",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 136.479,
     "end": 141.079,
     "text": "need to have a healthy life. It doesn't have to be done with another human. We know that",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 141.079,
     "end": 149.039,
     "text": "pets provide us with a great deal of comfort and joy and pets can calm us down.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 149.039,
     "end": 155.399,
-    "text": "Whether you're a shy introvert or noisy extrovert, what counts is friendship. Be that with",
-    "speaker": null
+    "text": "Whether you’re a shy introvert or noisy extrovert, what counts is friendship, be that with",
+    "speaker": "one-size-fits-all"
   },
   {
+    "order": 32,
     "start": 155.399,
     "end": 161.56,
     "text": "a human or a pet. Different things work for different people. So Dr Waldinger says it's",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 161.56,
     "end": 167.8,
     "text": "not one size fits all. A phrase meaning something which is suitable for everyone or every",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 167.8,
     "end": 173.92,
     "text": "purpose. So far we've mentioned the importance of diet, exercise and friendship, but some",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 173.92,
     "end": 181.24,
     "text": "people want more radical ways of defying death and staying young. Dr Neer Barzoli, director",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 181.24,
     "end": 186.439,
     "text": "of the American Federation for Aging Research, has developed three scenarios in his work",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 186.439,
     "end": 192.96,
     "text": "with Centenarians in the US. The first scenario called Doreen Gray, after the fictional character",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 192.96,
     "end": 199.639,
     "text": "who didn't age, involves delaying the aging process. Here's Dr. Barzoli explaining more",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 199.639,
     "end": 207.68,
     "text": "to BBC World Service Programme, the inquiry. The second scenario is what we call the Wolverine",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 40,
     "start": 207.68,
     "end": 215.039,
     "text": "or the fountain of youth, taking old people and make them young. This is very, very hard.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 215.039,
     "end": 221,
     "text": "This will be the most complex things we can do. And the third scenario, and this is a very",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 221,
     "end": 227.799,
     "text": "exciting scenario, and we have some evidence that it works, is the Peter Pan scenario.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 227.799,
     "end": 233.759,
     "text": "Peter Pan didn't grow old. The idea that you'll take people when they're 20 or 30 and give",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 233.759,
     "end": 240.84,
     "text": "them a treatment every few months or every year, and you'll basically erase their aging",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 240.84,
     "end": 247,
     "text": "and let them age very, very slowly, which also will mean probably that it'll pass their",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 247,
     "end": 254,
     "text": "115-year maximal potential lifespan. All Dr. Barzoli's treatments are aimed at extending",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 254,
     "end": 260.72,
     "text": "lifespan. The length of time someone is normally expected to live. His second treatment, making",
-    "speaker": null
+    "speaker": "lifespanFountain of Youth"
   },
   {
+    "order": 48,
     "start": 260.72,
     "end": 266.399,
     "text": "someone who is old younger, is called the fountain of youth, a legendary source of magical",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 266.399,
     "end": 271.359,
     "text": "water that keeps anyone who drinks it young forever.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 271.359,
     "end": 278.079,
     "text": "Dr. Barzoli's third treatment involves slowing down the aging process so much that people hardly",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 278.079,
     "end": 284.879,
     "text": "age at all. This treatment is called Peter Pan, after the fictional boy who never grew up,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 284.879,
     "end": 291.359,
     "text": "and is connected to another idiom, Peter Pan Syndrome, which describes an immature person",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 291.36,
     "end": 297.879,
     "text": "who has reached adulthood but refuses to take on adult responsibilities. But which country",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 297.879,
     "end": 303.199,
-    "text": "But which country was the certified oldest person in the world from? That was your question, Neil, and I guessed, Japan. But was I right?",
+    "text": "was the certified oldest person in the world from? That was your question, Neil, and I",
     "speaker": "Peter Pan syndrome"
   },
   {
+    "order": 55,
     "start": 303.199,
     "end": 306,
     "text": "guessed Japan, but was I right?",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 306,
     "end": 311.96,
     "text": "You were correct! Kaneda Tanaka was born on the Japanese island of Kyushu. She lived",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 311.96,
     "end": 319.199,
     "text": "to 119, the oldest human ever recorded, and her secret, playing chess, eating chocolate",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 319.199,
     "end": 324.68,
     "text": "and drinking coffee. Okay, let's recap the vocabulary we've learned from this program",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 324.68,
     "end": 329.319,
     "text": "about centenarians, people aged 100 years or more.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 329.319,
     "end": 332.24,
     "text": "Your twilight years are your old age.",
     "speaker": "twilight years"
   },
   {
+    "order": 61,
     "start": 332.24,
     "end": 338.319,
     "text": "The phrase one size fits all means suitable for everyone or every purpose.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 338.319,
     "end": 343.159,
     "text": "A lifespan is the length of time someone is normally expected to live.",
     "speaker": "lifespan"
   },
   {
+    "order": 63,
     "start": 343.159,
     "end": 348.879,
-    "text": "The legendary Fountain of Youth produces magical water so that anyone who drinks it lives forever.",
-    "speaker": "Fountain of Youth"
+    "text": "The legendary fountain of youth produces magical water so that anyone who drinks it",
+    "speaker": null
   },
   {
+    "order": 64,
     "start": 348.879,
     "end": 350.759,
     "text": "lives forever.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 350.759,
     "end": 357.48,
-    "text": "And finally, the phrase Peter Pan Syndrome describes an adult who refuses to grow up.",
-    "speaker": null
+    "text": "And finally, the phrase Peter Pan syndrome describes an adult who refuses to grow up.",
+    "speaker": "Peter Pan syndrome"
   },
   {
+    "order": 66,
     "start": 357.48,
     "end": 359.8,
     "text": "Once again, our six minutes are up.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 359.8,
     "end": 365.639,
     "text": "Join us again soon for more useful vocabulary here at 6 Minute English. Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 365.639,
     "end": 366.639,
-    "text": "Bye!",
-    "speaker": "Neil"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

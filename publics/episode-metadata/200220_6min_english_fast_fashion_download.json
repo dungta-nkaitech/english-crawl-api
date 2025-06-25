@@ -5,6 +5,31 @@
   "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p083d5yf.jpg",
   "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/200220_6min_english_fast_fashion_download.mp3",
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/200220_6min_english_fast_fashion.pdf",
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "word": "pledgingpledge",
+      "definition": "pledgingpublicly promising to do something (you can make a pledge to do something)"
+    },
+    {
+      "word": "outsourced",
+      "definition": "given to another company to do, often because that company has the skills to do it or it can be done cheaper"
+    },
+    {
+      "word": "undercuts",
+      "definition": "if a company undercuts another, it charges less to do a job than its competitor"
+    },
+    {
+      "word": "stems from (something)",
+      "definition": "caused by or a result of something"
+    },
+    {
+      "word": "illogical",
+      "definition": "unreasonable - not sensible, more driven by emotions than practical reason"
+    },
+    {
+      "word": "backlash",
+      "definition": "strong negative reaction to what is happening"
+    }
+  ],
   "quiz": null
 }

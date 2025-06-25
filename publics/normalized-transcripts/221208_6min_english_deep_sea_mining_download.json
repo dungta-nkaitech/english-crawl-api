@@ -1,521 +1,608 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.6,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.6,
     "end": 6.2,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 6.2,
     "end": 12.8,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 12.8,
     "end": 19,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 19,
     "end": 24.4,
     "text": "And I'm Sam. Here at 6 Minute English, we often discuss the new inventions and ideas",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 24.399,
     "end": 27.599,
     "text": "of scientists dream up to fight climate change.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 27.599,
     "end": 32.839,
     "text": "Technologies like geoengineering, which could reduce global warming by reflecting sunlight",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 32.839,
     "end": 34.239,
     "text": "back into space.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 34.239,
     "end": 39.799,
-    "text": "Often these ideas are controversial because scientists disagree over whether the technology is possible, and whether, in some cases, it could do more harm than good.",
+    "text": "Often these ideas are controversial because scientists disagree over whether the technology",
     "speaker": "Neil"
   },
   {
+    "order": 9,
     "start": 39.799,
     "end": 44.84,
     "text": "is possible and whether in some cases it could do more harm than good.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 44.84,
     "end": 50.84,
     "text": "In this programme we'll be finding out about a new idea to collect lumps of precious metals",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 50.84,
     "end": 54.76,
     "text": "called nodules from the bottom of the ocean.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 54.76,
     "end": 61.52,
     "text": "The idea, known as deep sea mining, could provide the metals like copper, nickel and cobalt,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 61.52,
     "end": 67.08,
     "text": "which are needed for the green technology used in electric car batteries and other renewable",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 67.08,
     "end": 68.08,
     "text": "energy.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 68.08,
     "end": 74.12,
     "text": "But could deep sea mining actually damage delicate ocean ecosystems as well?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 74.12,
     "end": 78.48,
-    "text": "We'll be hearing from two experts and learning some new vocabulary soon.",
-    "speaker": null
+    "text": "We’ll be hearing from two experts and learning some new vocabulary soon,",
+    "speaker": "Neil"
   },
   {
+    "order": 17,
     "start": 78.48,
     "end": 81.4,
     "text": "For first I have a question for you, Sam.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 81.4,
     "end": 87.52,
     "text": "Mammals like dolphins and whales represent a tiny amount of all marine biodiversity, the",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 87.52,
     "end": 91.24,
     "text": "thousands of animal species living in the sea.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 91.24,
     "end": 96.52,
     "text": "Even all the different types of fish combined make up less than 3% of all living things in",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 96.52,
     "end": 97.52,
     "text": "the ocean.",
-    "speaker": null
+    "speaker": "paradox conundrumincrease by a factor ofgrow by a factor of"
   },
   {
+    "order": 22,
     "start": 97.52,
     "end": 103.92,
     "text": "So, according to recent estimates by UNESCO oceanographers, how many different marine species",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 103.92,
     "end": 106.04,
     "text": "have their home in the ocean?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 106.04,
     "end": 112.24,
     "text": "Is it a 70,000, b, 170,000 or c, 700,000?",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 112.24,
     "end": 117.12,
     "text": "Our guests there are around 170,000 animal species living in the sea.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 117.12,
     "end": 121.6,
     "text": "Okay, Sam, I'll reveal the answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 121.6,
     "end": 127.28,
     "text": "Deep sea mining is supported by some scientists because it could provide the raw materials,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 127.28,
     "end": 131.719,
     "text": "especially metals, needed to power electric cars.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 29,
     "start": 131.719,
     "end": 136.759,
     "text": "Bigs them is Bramley Merton, a professor of marine biology at Southampton's National",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 136.759,
     "end": 138.759,
     "text": "Oceanographic Centre.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 138.759,
     "end": 144.12,
     "text": "Here he outlines the problem to BBC World Services Science in Action.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 144.12,
     "end": 148.56,
     "text": "As in so many things in life, there's a real kind of paradox or a conundrum.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 148.56,
     "end": 155.28,
     "text": "The global grid capacity by 2050 will have to increase by 3 times electrical car ownership,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 155.28,
     "end": 161,
     "text": "to increase by a factor of 25, solar and wind generation is going to grow by a factor",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 161,
     "end": 162,
     "text": "of 100.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 162,
     "end": 167.96,
     "text": "All of these things which we need to do to decarbonise, going to require raw materials and metals",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 167.96,
     "end": 168.96,
     "text": "in particular.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 38,
     "start": 168.96,
     "end": 174,
     "text": "So, as a society with faith with conundrum, we need to decarbonise.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 174,
     "end": 177.84,
     "text": "Professor Merton describes the situation using two words.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 177.84,
     "end": 183.92,
     "text": "Firstly, he calls it a conundrum, a problem that is very difficult to solve.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 183.919,
     "end": 190.28,
     "text": "He also calls it a paradox, a situation that seems impossible because it contains two",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 190.28,
     "end": 192.279,
     "text": "opposite ideas.",
-    "speaker": null
+    "speaker": "conundrum"
   },
   {
+    "order": 43,
     "start": 192.279,
     "end": 198.439,
     "text": "Deep sea mining could damage the ocean, but paradoxically, it might provide rare metals",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 198.439,
     "end": 201.199,
     "text": "needed to decarbonise the planet.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 201.199,
     "end": 206.599,
     "text": "At the heart of the problem is that in the future, green activities like driving electric",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 206.599,
     "end": 212.639,
     "text": "cars and using solar power is going to increase by a factor of 100.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 212.639,
     "end": 219.759,
     "text": "If something increases by a factor of a certain number, it becomes multiplied that many times.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 219.759,
     "end": 224.439,
     "text": "But another marine biologist, Helen Scales, isn't convinced.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 224.439,
     "end": 229.639,
     "text": "Here she explains her doubts to BBC World Service Science in action.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 229.639,
     "end": 234.119,
     "text": "My concern at this point is that deep sea mining and deep sea nodules, but in particular,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 234.119,
     "end": 238.799,
     "text": "are being seen as a silver bullet to solve the climate crisis.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 238.84,
     "end": 244.719,
     "text": "In such a way as well that we can hopefully rely on life carrying on pretty much as normal.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 244.719,
     "end": 249.719,
     "text": "My concern is that it really will be opening a door to something much more than those tests.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 249.719,
     "end": 254.88,
     "text": "It's leading down a rather slippery slope, I think, towards this",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 254.88,
     "end": 258.519,
     "text": "getting permission for deep sea mining to be open on a commercial scale.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 258.519,
     "end": 263.92,
     "text": "Helen worries that deep sea mining will be seen as a silver bullet to the climate crisis,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 263.92,
     "end": 267.92,
     "text": "a simple and instant solution to a complicated problem.",
-    "speaker": null
+    "speaker": "silver bulletopen the door to open the door to"
   },
   {
+    "order": 58,
     "start": 267.92,
     "end": 273.28,
     "text": "She thinks the tests which have been permitted to assess the difficulty of mining underwater",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 273.28,
     "end": 280,
     "text": "could open the door to mining on a large scale, which would damage fragile marine ecosystems",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 280,
     "end": 281.36,
     "text": "beyond repair.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 281.36,
     "end": 286.439,
     "text": "If you open the door to something, you allow something new to start or make it possible.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 286.439,
     "end": 291.12,
     "text": "Helen thinks that starting deep sea mining leads down a slippery slope,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 291.12,
     "end": 296.439,
     "text": "a situation or habit that is difficult to stop and is likely to get worse and worse.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 296.439,
     "end": 301.279,
     "text": "And that could spell the end for thousands of marine animals and plant species.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 301.279,
     "end": 305.759,
-    "text": "Yes, our oceans need protection as much as our land and skies - which reminds me of my question, Sam.",
+    "text": "Yes, our oceans need protection as much as our land and skies ",
     "speaker": "Neil"
   },
   {
+    "order": 66,
     "start": 305.759,
     "end": 308.199,
     "text": "which reminds me of my question, Sam.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 308.199,
     "end": 312.48,
     "text": "Yes, you asked me how many different marine species live in the ocean,",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 312.48,
     "end": 315.92,
     "text": "and I guessed it was B, 170,000.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 315.92,
     "end": 319.56,
     "text": "Which was the wrong answer, I'm afraid.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 319.56,
     "end": 323.8,
     "text": "There are estimated to be around 700,000 marine species,",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 323.8,
     "end": 328.879,
     "text": "only about 226,000 of which have been identified so far.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 328.879,
     "end": 332.36,
     "text": "OK, let's recap the vocabulary we've learned from the programme,",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 332.36,
     "end": 334.24,
     "text": "starting with conundrum.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 334.24,
     "end": 336.72,
     "text": "A problem that's very difficult to fix.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 336.72,
     "end": 340.439,
-    "text": "A paradox describes a situation that seems impossible because it contains two opposite ideas.",
-    "speaker": "paradox"
+    "text": "A paradox describes a situation that seems impossible,",
+    "speaker": null
   },
   {
+    "order": 76,
     "start": 340.439,
     "end": 343.28,
     "text": "because it contains two opposite ideas.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 343.28,
     "end": 348.68,
     "text": "If something grows by a factor of 10, it becomes multiplied 10 times.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 348.68,
     "end": 354.04,
-    "text": "The term, a silver bullet, means a simple solution to a complicated problem - often a solution that doesn’t actually exist.",
-    "speaker": "silver bullet"
+    "text": "The term a silver bullet means a simple solution to a complicated problem,",
+    "speaker": "grows by a factor of"
   },
   {
+    "order": 79,
     "start": 354.04,
     "end": 357.199,
     "text": "often a solution that doesn't actually exist.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 357.199,
     "end": 362.4,
     "text": "A slippery slope is a situation or a course of action that is difficult to stop",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 362.4,
     "end": 364.879,
-    "text": "and is likely to get worse and worse.",
-    "speaker": null
+    "text": "and is likely to get worse and worse ",
+    "speaker": "slippery slope"
   },
   {
+    "order": 82,
     "start": 364.879,
     "end": 368.12,
     "text": "And finally, the idiom to open the door to something",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 368.12,
     "end": 372.36,
     "text": "means to allow something new to start or to make it possible.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 372.36,
     "end": 375.079,
     "text": "Once again, our six minutes are up. Bye for now.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 375.079,
     "end": 376.079,
-    "text": "Goodbye!",
-    "speaker": "Neil"
+    "text": "Goodbye.",
+    "speaker": null
   },
   {
+    "order": 86,
     "start": 378.68,
     "end": 380.68,
     "text": "From the BBC.",

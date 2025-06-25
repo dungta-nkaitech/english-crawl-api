@@ -1,416 +1,485 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7,
     "text": "This is a download from BBC Learning English. To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 16,
     "end": 21,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Sam.",
     "speaker": "Sam"
   },
   {
+    "order": 2,
     "start": 21,
     "end": 29,
     "text": "And I'm Roy. Whether it's Sam and swimming upriver to lay their eggs or cheaters running faster than a car,",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 29,
     "end": 33,
     "text": "animals can do incredible things with their bodies.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 33,
     "end": 38,
-    "text": "Human bodies are no less incredible – just think of Olympic swimmers and sprinters.",
+    "text": "Human bodies are no less incredible – just think of Olympic swimmers and sprinters",
     "speaker": "Sam"
   },
   {
+    "order": 5,
     "start": 38,
     "end": 43,
     "text": "Our bodies work using just the energy provided by what we eat.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 43,
     "end": 52,
-    "text": "Our bodies work using just the energy provided by what we eat. This means that the human body has to be incredibly efficient, using as little energy as possible to do what it needs to.",
-    "speaker": "Roy"
+    "text": "This means that the human body has to be incredibly efficient, using as little energy as possible to do what it needs to.",
+    "speaker": null
   },
   {
+    "order": 7,
     "start": 52,
     "end": 58,
     "text": "Yet, even with our efficient bodies, no one can run as fast as a cheesa.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 58,
     "end": 66,
-    "text": "Yet even with our efficient bodies, no-one can run as fast a cheetah, not even Olympic champions! In this programme, we’ll be asking: exactly how efficient is the human body?",
+    "text": "Not even Olympic champions. In this programme, we'll be asking, exactly how efficient is the human body?",
     "speaker": "Sam"
   },
   {
+    "order": 9,
     "start": 66,
     "end": 71,
-    "text": "We’ll be comparing human bodies’ performance against each other, and against some animals too. And, of course, we’ll be learning some new and useful vocabulary as well.",
-    "speaker": "Roy"
+    "text": "We'll be comparing human bodies' performance against each other and against some animals too.",
+    "speaker": null
   },
   {
+    "order": 10,
     "start": 71,
     "end": 76,
     "text": "And of course, we'll be learning some new and useful vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 76,
     "end": 79,
-    "text": "But before that, I have a question for you, Roy.",
-    "speaker": null
+    "text": "But before that I have a question for you, Roy. ",
+    "speaker": "Sam"
   },
   {
+    "order": 12,
     "start": 79,
     "end": 83,
     "text": "Efficiency involves an input and an output.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 83,
     "end": 90,
     "text": "It's about the relationship between the amount of energy coming in, in other words, the food we eat,",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 90,
     "end": 96,
     "text": "and the amount of energy going out, the usual movements and activities of day-to-day life.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 96,
     "end": 102,
     "text": "So, according to this definition, which animal is the most efficient?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 102,
     "end": 108,
     "text": "Is it A, an ant? B, a whale or C, a human?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 108,
     "end": 111,
     "text": "Humans are the most efficient animal.",
-    "speaker": "Roy"
+    "speaker": "Sam"
   },
   {
+    "order": 18,
     "start": 111,
     "end": 114,
     "text": "Okay, Roy. I'll reveal the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 114,
     "end": 121,
     "text": "To find out more about how the human body works, it's helpful to know how our species evolved.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 20,
     "start": 121,
     "end": 127,
     "text": "Here's Herman Ponce, Professor of Evolutionary Anthropology at Duke University,",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 127,
     "end": 131,
     "text": "speaking with BBC World Service programme Crowd Science.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 131,
     "end": 134,
     "text": "Humans are remarkably efficient.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 134,
     "end": 138,
     "text": "We walk on two very straight legs. If a human stands next to a dog, for example,",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 138,
     "end": 142,
     "text": "the dog is about that funny bent, classic dog leg shape, right?",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 142,
     "end": 145,
     "text": "And that crouched posture is really typical of most animals.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 145,
     "end": 151,
     "text": "Humans have a very straight leg, and so because of that, and because our legs are pretty long for our body size,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 151,
     "end": 154,
     "text": "humans are part of the ape family. We're quite efficient.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 154,
     "end": 160,
     "text": "Humans are apes and evolved from the same origin as gorillas and chimpanzees.",
-    "speaker": null
+    "speaker": "crouched"
   },
   {
+    "order": 29,
     "start": 160,
     "end": 165,
     "text": "One big difference, however, is that humans walk upright on straight legs",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 165,
     "end": 168,
     "text": "whereas most animals are crouched.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 168,
     "end": 172,
     "text": "Bent over at the knee and leaning forwards to the ground.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 172,
     "end": 176,
     "text": "This crouched posture is not an efficient way to move.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 176,
     "end": 183,
     "text": "Other animals, like dogs, have flat backs and move on for bent legs called dog legs,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 183,
     "end": 186,
     "text": "something bent in the shape of a dog's leg.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 186,
     "end": 192,
     "text": "The word dog leg can also mean a sharp bend in a road or path.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 192,
     "end": 198,
-    "text": "So the design of the human body makes it efficient compared to some other animals,",
-    "speaker": null
+    "text": "So, the design of the human body makes it efficient compared to some other animals",
+    "speaker": "Roy"
   },
   {
+    "order": 37,
     "start": 198,
     "end": 201,
     "text": "but how do humans compare with each other?",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 201,
     "end": 207,
     "text": "How do Kenyan athletes break long-distance running records while many of us struggle to run for the boss?",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 207,
     "end": 214,
     "text": "The main reason, according to Lothbury University Physiologist Rona Pierce, is training.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 214,
     "end": 221,
     "text": "But there may be other factors too, as she explained to BBC World Services crowd science.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 221,
     "end": 226,
     "text": "Age probably comes into it, and there's probably an optimal age for tendony elasticity.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 226,
     "end": 234,
     "text": "That drops off as you get older, so probably there's a sweet spot in age for running economy.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 234,
     "end": 237,
     "text": "So in terms of weight, it depends what your weight is made up of.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 237,
     "end": 240,
     "text": "So if you've got more muscle mass, that's going to help you.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 240,
     "end": 243,
     "text": "Whereas if it's more fat than you've got to carry it.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 243,
     "end": 249,
     "text": "Efficient running depends on having flexible muscles and tendons,",
-    "speaker": null
+    "speaker": "drops offoptimal age"
   },
   {
+    "order": 47,
     "start": 249,
     "end": 255,
     "text": "and this flexibility drops off or decreases as we get older.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 255,
     "end": 262,
     "text": "This means that in terms of running, the body has an optimal age, the best age,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 262,
     "end": 266,
     "text": "or the age at which you are most likely to succeed.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 266,
     "end": 269,
     "text": "Body composition also plays a part.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 269,
     "end": 277,
     "text": "Efficient runners need high muscle mass, the amount of muscle in your body as opposed to fat or bone.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 277,
     "end": 287,
     "text": "So training, age, muscle mass, and genetics are all factors which, when they come together, produce a sweet spot.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 287,
     "end": 291,
     "text": "The best possible combination of factors and circumstances.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 291,
     "end": 297,
     "text": "And from the evidence, it looks like my answer to your question was right Sam.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 297,
     "end": 304,
     "text": "Ah yes, I asked which animal was the most efficient, and you said it was sea, a human.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 304,
     "end": 309,
     "text": "Well, I'm sorry to say, but that was the wrong answer.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 57,
     "start": 309,
     "end": 320,
     "text": "The funny thing is, and scientists still don't understand why, but the bigger the animal, the less energy it uses, kilo for kilo.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 320,
     "end": 323,
     "text": "So, the most efficient animal.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 323,
     "end": 326,
     "text": "Is also the biggest, a whale.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 326,
     "end": 332,
     "text": "Okay, let's recap the vocabulary from the programme, starting with crouched,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 332,
     "end": 337,
     "text": "a position which is bent at the knee, leaning forward and closer to the ground.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 337,
     "end": 344,
     "text": "A dog leg can describe something which has a bent shape, especially a sharp bend in a road or path.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 344,
     "end": 349,
     "text": "The optimal age to do something is the best age to do it.",
-    "speaker": "optimal age"
+    "speaker": "dogleg"
   },
   {
+    "order": 64,
     "start": 349,
     "end": 354,
     "text": "If something drops off, it decreases in quality or quantity.",
     "speaker": "drops off"
   },
   {
+    "order": 65,
     "start": 354,
     "end": 360,
     "text": "A sweet spot is the best possible combination of factors or circumstances.",
-    "speaker": "sweet spot"
+    "speaker": null
   },
   {
+    "order": 66,
     "start": 360,
     "end": 367,
-    "text": "And finally, muscle mass is the amount of muscle in your body, as opposed to fat or bone. Once again our six minute are up. Bye for now!",
+    "text": "And finally, muscle mass is the amount of muscle in your body, as opposed to fat or bone",
     "speaker": "muscle mass"
   },
   {
+    "order": 67,
     "start": 367,
     "end": 370,
     "text": "Once again, our six minutes are up. Bye for now.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 370,
     "end": 372,
-    "text": "Bye!",
-    "speaker": "Roy"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

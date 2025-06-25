@@ -1,704 +1,821 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.279,
-    "text": "6 Minute English.",
-    "speaker": null
+    "text": " 6 Minute English",
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 8.279,
     "end": 10.72,
     "text": "From BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.519,
     "end": 15.839,
-    "text": "Hello, and welcome to 6 Minute English, I'm Neil and joining me today is Rob.",
-    "speaker": "Neil"
+    "text": "Hello and welcome to 6 Minute English.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 15.839,
     "end": 17.8,
     "text": "I'm Neil and joining me today is Rob.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 17.8,
     "end": 18.8,
     "text": "Hello.",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 7,
     "start": 18.8,
     "end": 23.28,
     "text": "So Rob, what's the most dangerous thing you've ever chosen to do?",
     "speaker": "Neil"
   },
   {
+    "order": 8,
     "start": 23.28,
     "end": 24.96,
     "text": "Mmm, tricky question.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 24.96,
     "end": 26.44,
     "text": "I've done many risky things.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 26.44,
     "end": 31.44,
-    "text": "Mmm. Tricky question. I've done many risky things, but probably the most risky thing is bungee jumping in New Zealand.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 31.44,
-    "end": 32.96,
-    "text": "Oh wow, bungee jumping.",
+    "text": "Probably the most risky thing is bungee jumping in New Zealand.",
     "speaker": null
   },
   {
+    "order": 11,
+    "start": 31.44,
+    "end": 32.96,
+    "text": "Oh wow, bungee jumping.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 12,
     "start": 32.96,
     "end": 34.64,
     "text": "You never catch me doing that.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 34.64,
     "end": 35.719,
     "text": "Did you enjoy it?",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 35.719,
     "end": 38.039,
-    "text": "Not really, no. I won't do it again!",
-    "speaker": "Rob"
+    "text": "Not really, no. I won't do it again.",
+    "speaker": null
   },
   {
+    "order": 15,
     "start": 38.039,
     "end": 45.719,
-    "text": "OK, well today our topic is risk and how different people react to different levels of risk in different ways. For example, would you be happy to be in a driverless car?",
+    "text": "OK, well today our topic is risk and how different people react to different levels of risk in different ways.",
     "speaker": "Neil"
   },
   {
+    "order": 16,
     "start": 45.719,
     "end": 50.2,
     "text": "For example, would you be happy to be in a driverless car?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 50.2,
     "end": 51.84,
     "text": "Absolutely not.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 51.84,
     "end": 54.6,
     "text": "No, I don't trust anybody's driving even a computer.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 54.6,
     "end": 56.679,
     "text": "So no, I wasn't going to drive a list car.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 56.679,
     "end": 58.679,
-    "text": "OK, I won't offer you a lift.",
-    "speaker": null
+    "text": "OK, I won't offer you a lift!",
+    "speaker": "Neil"
   },
   {
+    "order": 21,
     "start": 58.679,
     "end": 61.8,
     "text": "Driverless cars are the topic of today's quiz.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 61.8,
     "end": 67.159,
-    "text": "OK, I won't offer you a lift! Driverless cars are the topic of today's quiz. The question is: When was the first driverless car demonstrated on a public road? Was it:",
-    "speaker": "Neil"
+    "text": "The question is when was the first driverless car demonstrated on a public road?",
+    "speaker": null
   },
   {
+    "order": 23,
     "start": 67.159,
     "end": 73.04,
     "text": "Was it A, the 1970s, B, the 1950s or C, the 1920s?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 73.04,
     "end": 78,
     "text": "Well, I think they're quite modern, so I'm going to say 1970s.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 78,
     "end": 81.879,
     "text": "OK, well, we'll find out if you're right at the end of the programme.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 26,
     "start": 81.879,
     "end": 87.719,
     "text": "Joe Cable is an associate professor of psychology at the University of Pennsylvania.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 87.719,
     "end": 93.239,
     "text": "In a recent BBC science programme all in the mind, he talked about the psychology of risk",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 93.239,
     "end": 100.399,
     "text": "and whether there was anything physically in our brains that could predict how much risk we are prepared to accept.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 100.399,
     "end": 105.159,
     "text": "Here he is, first talking about a number of different ways people see risk,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 105.159,
     "end": 107.959,
     "text": "how many different types does he describe.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 107.959,
     "end": 113.639,
     "text": "Some people are quite risk averse and really don't want to take any decisions",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 113.639,
     "end": 115.639,
     "text": "where there's risk involved at all,",
-    "speaker": null
+    "speaker": "risk-averserisk-tolerantrisk-seeking"
   },
   {
+    "order": 33,
     "start": 115.639,
     "end": 118.199,
     "text": "whereas others are fairly risked home rent,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 118.199,
     "end": 119.959,
     "text": "and in some cases even risk seeking.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 119.959,
     "end": 125,
     "text": "So they seek out decisions that have an aspect of risk to them.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 125,
     "end": 129.719,
-    "text": "How many different types of people did he mention, when it comes to attitudes to risk?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 129.719,
-    "end": 131.319,
-    "text": "Well, there were three.",
+    "text": "How many different types of people did he mention when it comes to attitudes to risk?",
     "speaker": null
   },
   {
+    "order": 37,
+    "start": 129.719,
+    "end": 131.319,
+    "text": "Well, there were three.",
+    "speaker": "risk-averseaversetorisk-averse"
+  },
+  {
+    "order": 38,
     "start": 131.319,
     "end": 134.84,
     "text": "The first group was those who are risk averse.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 134.84,
     "end": 138.039,
     "text": "If you are averse to something, you're against it.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 138.039,
     "end": 139.159,
     "text": "You don't like it.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 139.159,
     "end": 142.36,
     "text": "So risk averse people don't like to take risks.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 142.36,
     "end": 145.319,
     "text": "The second group are those who are risk tolerant.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 145.319,
     "end": 148.52,
     "text": "If you are tolerant of something, you accept it.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 148.52,
     "end": 151.08,
     "text": "You don't mind it. It's not a problem for you.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 151.08,
     "end": 156.599,
     "text": "So someone who is risk tolerant is not worried by an element of risk in what they choose to do.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 156.599,
     "end": 160.36,
     "text": "The third group he mentioned are those who are risk seeking.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 160.36,
     "end": 163.599,
     "text": "If you seek something, you actively look for it.",
-    "speaker": null
+    "speaker": "risk-seekingseekrisk seekers"
   },
   {
+    "order": 48,
     "start": 163.68,
     "end": 165.359,
     "text": "You try to find it.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 165.359,
     "end": 168.479,
     "text": "So risk seekers are those who enjoy risk",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 168.479,
     "end": 171.12,
     "text": "and want to take risks in their life.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 171.12,
     "end": 174.959,
     "text": "Associate Professor Cable carried out research on risk taking",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 174.959,
     "end": 178.159,
     "text": "and discovered that there were differences in brain structure",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 178.159,
     "end": 182.159,
     "text": "and the way parts of the brain work together between those who are risk averse",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 182.159,
     "end": 185.039,
     "text": "and those who are risk tolerant or risk seekers.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 185.039,
     "end": 188.56,
     "text": "So it seems as if this is something that could be measured.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 56,
     "start": 188.56,
     "end": 190.799,
     "text": "You could put someone in a brain scanner",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 190.799,
     "end": 193.439,
     "text": "and tell if they like risk or not.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 193.439,
     "end": 195.199,
     "text": "I wonder how useful that would be though.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 195.199,
     "end": 198.4,
     "text": "Is there any practical application for this knowledge?",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 198.4,
     "end": 201.039,
     "text": "Good question. And one that was put to Cable.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 201.039,
     "end": 203.759,
-    "text": "Good question and one that was put to Kable. What area does he say this could be applied to?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 204.719,
-    "end": 207.359,
-    "text": "Definitely something that I can see coming out of this",
+    "text": "What area does he say this could be applied to?",
     "speaker": null
   },
   {
+    "order": 62,
+    "start": 204.719,
+    "end": 207.359,
+    "text": "Definitely something that I can see coming out of this",
+    "speaker": "financial advisorsto put my money awayretirement'"
+  },
+  {
+    "order": 63,
     "start": 207.359,
     "end": 214.24,
     "text": "is using these associations to help develop better assessments",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 214.24,
     "end": 217.439,
     "text": "of who's likely to take risks versus not.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 217.439,
     "end": 221.599,
     "text": "This is exactly the thing that financial advisors want to assess",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 221.68,
     "end": 223.519,
     "text": "when you come to them and say,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 223.519,
     "end": 225.919,
     "text": "I want to put my money away for retirement.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 225.919,
     "end": 229.519,
     "text": "Exactly the aspect of your personality that they want to know",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 229.519,
     "end": 231.439,
     "text": "is what's your tolerance for taking risks.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 232.479,
     "end": 236.959,
     "text": "In which area does he say knowledge of someone's attitude to risk might be useful?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 237.68,
-    "end": 241.12,
-    "text": "Financial planning. He says that financial advisors",
     "speaker": null
   },
   {
+    "order": 71,
+    "start": 237.68,
+    "end": 241.12,
+    "text": "Financial planning. He says that financial advisors",
+    "speaker": "to assess"
+  },
+  {
+    "order": 72,
     "start": 241.12,
     "end": 244.319,
     "text": "who are people that give advice on what to do with our money",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 244.319,
     "end": 246.639,
     "text": "would find this information very useful.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 246.639,
     "end": 250,
     "text": "It would help them to assess what to do with your money,",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 250,
     "end": 254,
     "text": "which means it would help them to decide to make an intelligent decision",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 254,
     "end": 256.319,
     "text": "about your money in certain situations.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 256.319,
     "end": 258.959,
     "text": "For example, if you're planning for your retirement,",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 258.959,
     "end": 263.199,
     "text": "retirement is the time when you are able to or you have to stop working.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 263.199,
     "end": 265.759,
     "text": "He also used an interesting expression there",
-    "speaker": null
+    "speaker": "put your money away"
   },
   {
+    "order": 80,
     "start": 265.759,
     "end": 269.279,
     "text": "to put your money away, which means save your money,",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 269.279,
     "end": 272.319,
     "text": "put it somewhere where you can't spend it and where it can grow.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 272.959,
     "end": 276.639,
     "text": "You know, I think my financial planner could just ask me about",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 276.719,
     "end": 280.399,
     "text": "how I feel about risk rather than giving me a brain scan.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 280.399,
     "end": 282,
     "text": "I hope brain scans can be risky.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 282,
     "end": 284.319,
     "text": "Not sure that's true, but anyway,",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 284.319,
     "end": 287.519,
     "text": "what is true is the answer to this week's quiz question.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 287.519,
     "end": 292.479,
     "text": "I asked you when the first driverless car was demonstrated on a public road.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 292.479,
     "end": 299.12,
     "text": "The options were A, the 1970s, B, the 1950s and C, the 1920s.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 299.12,
     "end": 300.079,
     "text": "What did you say, Rob?",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 300.079,
     "end": 302.159,
     "text": "I said the 1970s.",
     "speaker": "Rob"
   },
   {
+    "order": 91,
     "start": 302.159,
     "end": 305.039,
     "text": "And you were wrong, I'm afraid.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 305.12,
     "end": 308.24,
     "text": "Apparently it was the 1920s, so a long time ago.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 308.879,
     "end": 310.64,
     "text": "Well done if you got that right.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 310.64,
     "end": 315.12,
     "text": "Now, before we drive off into the sunset, let's recap today's vocabulary.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 315.12,
     "end": 315.84,
-    "text": "Yes, right.",
-    "speaker": null
-  },
-  {
-    "start": 315.84,
-    "end": 319.76,
-    "text": "Yes right, first we had three words describing different attitudes to risk. There was risk-averse, for people who don't like risk.",
+    "text": "Yes right, ",
     "speaker": "risk-averse"
   },
   {
+    "order": 96,
+    "start": 315.84,
+    "end": 319.76,
+    "text": "First, we had three words describing different attitudes to risk.",
+    "speaker": null
+  },
+  {
+    "order": 97,
     "start": 320.64,
     "end": 323.92,
     "text": "There was risk averse for people who don't like risk.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 323.92,
     "end": 326.879,
     "text": "People who don't mind risk are risk tolerant.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 326.879,
     "end": 330.16,
     "text": "And people who like risk and want risk are risk seekers.",
     "speaker": "risk seekers"
   },
   {
+    "order": 100,
     "start": 330.72,
     "end": 333.36,
     "text": "Next, we had the verb to assess.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 333.36,
     "end": 336.96,
     "text": "This means to make a judgment or a decision based on information.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 336.96,
     "end": 340.56,
-    "text": "A phrase meaning 'to save money' is to put money away.",
+    "text": "A phrase meaning to save money is to put money away.",
     "speaker": "to put money away"
   },
   {
+    "order": 103,
     "start": 340.56,
     "end": 342.4,
     "text": "And finally, we had retirement.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 342.4,
     "end": 345.68,
     "text": "That time of life when you are too old to work anymore",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 345.68,
     "end": 349.199,
     "text": "or you have enough money that you don't need to work anymore.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 349.199,
     "end": 351.12,
     "text": "Are you looking forward to your retirement, Rob?",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 351.12,
     "end": 351.92,
     "text": "Oh, cheeky.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 351.92,
     "end": 355.84,
-    "text": "Cheeky. I'm neither old enough nor rich enough to even think about that Neil.",
+    "text": " I'm neither old enough nor rich enough to even think about that Neil.",
     "speaker": "Rob"
   },
   {
+    "order": 109,
     "start": 355.84,
     "end": 356.639,
     "text": "Same here.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 356.639,
     "end": 359.12,
     "text": "Well, that's all from us today.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 359.12,
     "end": 362.24,
     "text": "And you don't have to be a risk seeker to find us on Facebook,",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 362.319,
     "end": 363.84,
     "text": "Twitter, Instagram and YouTube.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 363.84,
     "end": 365.759,
     "text": "And of course, on our website,",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 365.759,
     "end": 367.84,
     "text": "bbclearningenglish.com.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 367.84,
     "end": 369.6,
     "text": "Thank you for joining us and goodbye.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 369.6,
     "end": 370,
-    "text": "Bye!",
-    "speaker": "Rob"
+    "text": "Bye-bye.",
+    "speaker": null
   }
 ]

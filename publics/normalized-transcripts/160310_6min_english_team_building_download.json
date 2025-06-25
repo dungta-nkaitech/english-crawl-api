@@ -1,587 +1,685 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Sophie"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.04,
     "text": "From BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.16,
     "end": 14.72,
-    "text": "Hello and welcome to 6 Minute English. I'm Sophie…",
-    "speaker": "Sophie"
+    "text": "Hello and welcome to 6 Minute English.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 14.72,
     "end": 15.519,
     "text": "I'm Sophie.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 15.519,
     "end": 20.48,
     "text": "And I'm Neil. Sophie, did you go to the corporate away day last week?",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 20.48,
     "end": 22.96,
-    "text": "Yes, you didn't miss anything.",
-    "speaker": null
-  },
-  {
-    "start": 22.96,
-    "end": 27.519,
-    "text": "Yes… you didn't miss anything. A team building guru lectured us on how to work more effectively with each other. We gave some presentations, had a few drinks after…",
+    "text": "Yes… you didn't miss anything.",
     "speaker": "Sophie"
   },
   {
+    "order": 8,
+    "start": 22.96,
+    "end": 27.519,
+    "text": "A team building guru lectured us on how to work more effectively with each other.",
+    "speaker": null
+  },
+  {
+    "order": 9,
     "start": 27.519,
     "end": 31.199,
     "text": "We gave some presentations, had a few drinks after.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 31.199,
     "end": 31.839,
     "text": "Right, okay.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 31.839,
     "end": 36.96,
     "text": "An away day is a day that employees spend together away from their usual workplace.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 36.96,
     "end": 39.359,
     "text": "And a guru is an expert in something.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 39.359,
     "end": 42.64,
     "text": "So, did this guru teach you anything new, Sophie?",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 42.64,
     "end": 43.6,
     "text": "No… not really.",
     "speaker": "Sophie"
   },
   {
+    "order": 15,
     "start": 43.6,
     "end": 44.879,
     "text": "Ah, shame.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 44.879,
     "end": 49.439,
-    "text": "Shame. I was hoping for some tips on how to work more effectively with my co-presenter.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 49.439,
-    "end": 52.239,
-    "text": "I think we work very effectively already, Neil.",
+    "text": "I was hoping for some tips on how to work more effectively with my co-presenter.",
     "speaker": null
   },
   {
+    "order": 17,
+    "start": 49.439,
+    "end": 52.239,
+    "text": "I think we work very effectively already, Neil.",
+    "speaker": "team building"
+  },
+  {
+    "order": 18,
     "start": 52.88,
     "end": 55.92,
     "text": "Now, today's show is about team building,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 55.92,
     "end": 59.84,
     "text": "or encouraging employees to work well together as a team,",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 59.84,
     "end": 63.44,
     "text": "by getting them to engage in different types of activities.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 63.44,
     "end": 68.159,
     "text": "And apparently, some companies in the UK are offering their employees' activities,",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 68.159,
     "end": 71.52,
     "text": "such as Hunger Games style combat days,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 71.52,
     "end": 77.439,
     "text": "where teams must work together to kill as many of the opposing team as possible.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 77.439,
     "end": 79.599,
     "text": "Have you seen the Hunger Games movies, Sophie?",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 79.599,
     "end": 80.32,
     "text": "Yes.",
     "speaker": "Sophie"
   },
   {
+    "order": 26,
     "start": 80.399,
     "end": 87.039,
     "text": "There also zombie boot camps, where military instructors train you on how to fight zombies.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 87.039,
     "end": 89.599,
     "text": "That's dead people who have come back to life.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 89.599,
     "end": 92.159,
     "text": "For the more cerebral or brainy among us,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 92.159,
     "end": 97.359,
     "text": "there are crime investigations modeled on popular TV dramas like Sherlock Holmes.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 97.359,
     "end": 100.399,
-    "text": "Well, I'm not sure about the zombie boot camp.",
-    "speaker": null
+    "text": "Well, I'm not sure about the Zombie boot camp ",
+    "speaker": "boot camp"
   },
   {
+    "order": 31,
     "start": 100.399,
     "end": 104.159,
     "text": "A boot camp is a short course of hard physical training.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 104.159,
     "end": 107.119,
     "text": "But the Sherlock Holmes away day sounds like fun.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 107.119,
     "end": 109.679,
     "text": "I definitely go for the zombie experience,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 109.68,
     "end": 113.68,
     "text": "though I'm not sure how it connects with most people's working lives,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 113.68,
     "end": 115.68,
     "text": "violence, death, the living dead.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 115.68,
     "end": 116.72,
     "text": "Good point.",
     "speaker": "Sophie"
   },
   {
+    "order": 37,
     "start": 116.72,
     "end": 119.92,
     "text": "So let's move on and have today's quiz question.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 119.92,
     "end": 126.96,
     "text": "What did Chairman Mao introduce in China in 1951 as a compulsory activity for workers",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 126.96,
     "end": 130.319,
     "text": "and was reintroduced by the government a few years ago?",
-    "speaker": null
+    "speaker": "Sophie"
   },
   {
+    "order": 40,
     "start": 130.319,
     "end": 138,
     "text": "Was it A, Callistthenics, B, Caligraphy, or C, English language lessons?",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 138,
     "end": 142.24,
     "text": "Callistthenics, by the way, is a type of gentle physical exercise.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 142.24,
     "end": 147.12,
-    "text": "… and calligraphy, by the way, is the art of writing by hand with a special brush.",
-    "speaker": "calligraphy"
+    "text": "And calligraphy, by the way, is the art of writing by hand with a special brush.",
+    "speaker": "Calisthenics"
   },
   {
+    "order": 43,
     "start": 147.12,
     "end": 151.039,
     "text": "Well, I'm going for A, Callistthenics.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 151.039,
     "end": 153.12,
     "text": "Not English language lessons, Sophie?",
-    "speaker": "Neil"
+    "speaker": "Sophie"
   },
   {
+    "order": 45,
     "start": 153.12,
     "end": 153.919,
     "text": "No.",
-    "speaker": null
+    "speaker": "Sophie"
   },
   {
+    "order": 46,
     "start": 153.919,
     "end": 155.92,
     "text": "I'll stick with Callistthenics, thanks.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 155.92,
     "end": 158.879,
     "text": "Okay, well we'll find out later if you're right or not.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 158.879,
     "end": 162.319,
     "text": "Now, whilst English lessons might sound like hard work,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 162.319,
     "end": 165.12,
     "text": "ukulele lessons are apparently catching on.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 165.2,
     "end": 167.28,
     "text": "A ukulele is a musical instrument.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 167.28,
     "end": 170.48,
     "text": "Top businessmen, Bill Gates and Warren Buffett both do it,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 170.48,
     "end": 173.759,
     "text": "and stressed out city workers are following their lead.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 173.759,
     "end": 178.719,
     "text": "Here in the UK, a number of companies have been holding ukulele team building sessions.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 178.719,
     "end": 180.24,
     "text": "That sounds amazing.",
-    "speaker": null
-  },
-  {
-    "start": 180.24,
-    "end": 184.96,
-    "text": "That sounds amazing. And is there anything about the ukulele in particular that leaves people feeling better after they've played it?",
     "speaker": "Sophie"
   },
   {
+    "order": 55,
+    "start": 180.24,
+    "end": 184.96,
+    "text": "And is there anything about the ukulele in particular that leaves people feeling better",
+    "speaker": null
+  },
+  {
+    "order": 56,
     "start": 184.96,
     "end": 185.92,
     "text": "after they played it?",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 185.92,
     "end": 190.319,
     "text": "Let's hear more about this from Lorraine Bo, who teaches people to play the instrument,",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 190.319,
     "end": 194.08,
     "text": "but listening with attention because she spoke on the phone and the line wasn't great.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 195.599,
     "end": 201.039,
     "text": "Well, I guess it's just the fact that people don't often sing in their everyday life,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 201.039,
     "end": 205.36,
     "text": "and it's the fact that you can play and sing play musical instrument within an hour.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 205.36,
     "end": 208.319,
     "text": "It's quite a full-filling thing really.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 208.319,
     "end": 212.64,
     "text": "It's not competitive, it's quite easy to do and a bit less than intimidating than it is far.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 214.08,
     "end": 220,
-    "text": "Lorraine, the ukulele teacher, also says her classes aren't competitive or intimidating…",
-    "speaker": "intimidating"
+    "text": "Lorraine, the ukulele teacher, also says her classes aren't competitive or intimidating.",
+    "speaker": "INSERT"
   },
   {
+    "order": 64,
     "start": 220,
     "end": 222.64,
-    "text": "… which means something that makes you feel nervous.",
+    "text": "Which means something that makes you feel nervous.",
     "speaker": "Neil"
   },
   {
+    "order": 65,
     "start": 222.639,
     "end": 226.719,
     "text": "Now, before we hear the answer to today's quiz question,",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 226.719,
     "end": 231.599,
     "text": "let's hear about a company in Abu Dhabi where leadership is taught through horse training.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 232.399,
     "end": 237.679,
     "text": "Basically, you have to go in the yard with a horse and persuade it that you're the boss",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 237.679,
     "end": 239.039,
     "text": "by using body language.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 239.839,
     "end": 245.679,
     "text": "Here's Kelly Ead, co-founder of the company, explaining why she thinks this approach works.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 247.279,
     "end": 251.519,
     "text": "The horses don't care if your hair is purple, if you're a man or a woman,",
-    "speaker": null
+    "speaker": "INSERT"
   },
   {
+    "order": 71,
     "start": 251.52,
     "end": 255.92,
     "text": "if you're older young, if you are what religion.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 255.92,
     "end": 259.04,
     "text": "So it transcends all of those cultural boundaries.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 259.04,
     "end": 264.879,
     "text": "It transcends age, gender, religion, tradition, etc.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 264.879,
     "end": 266.56,
     "text": "So that's a perfect fit.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 266.56,
     "end": 270.319,
     "text": "And in an organization where you really need groups of people to gel,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 270.96,
     "end": 275.519,
     "text": "who come from backgrounds which have no common norms,",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 276.16,
     "end": 279.439,
     "text": "you can teach that most efficiently with a horse.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 281.519,
     "end": 285.279,
     "text": "To gel with someone means to connect or get on well with someone.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 285.279,
     "end": 289.439,
     "text": "So you try to get the horse to do what you want using body language.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 289.439,
     "end": 293.12,
     "text": "And the horse feels instinctively whether or not you are a natural leader,",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 293.12,
     "end": 297.12,
     "text": "because it doesn't recognise cultural differences hair colour and age.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 297.12,
     "end": 298.959,
     "text": "Probably easier said than done.",
-    "speaker": "Sophie"
+    "speaker": null
   },
   {
+    "order": 83,
     "start": 298.959,
     "end": 299.839,
     "text": "Indeed.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 299.839,
     "end": 305.359,
     "text": "Now, remember I asked, what did Chairman Mao introduce in China in 1951",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 305.359,
     "end": 310.56,
     "text": "as a compulsory activity for workers and was reintroduced by the government a few years ago?",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 310.639,
     "end": 316.879,
     "text": "Was it A, calisthenics, B, calligraphy or C, English language lessons?",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 316.879,
     "end": 318.72,
     "text": "I said a) calisthenics.",
     "speaker": "Sophie"
   },
   {
+    "order": 88,
     "start": 319.519,
     "end": 322.56,
     "text": "Well, you are right on the button well done there Sophie.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 322.56,
     "end": 327.36,
     "text": "Calisthenics are used at schools as a warm-up for physical education classes",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 327.36,
     "end": 332,
     "text": "during sports day activities and by some companies as a way of building morale",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 332,
     "end": 337.439,
     "text": "and a sense of group unity as well as to raise energy levels and encourage good health.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 337.519,
     "end": 342.719,
     "text": "Now, shake a leg or in other words get moving and tell us the words we learned today.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 343.519,
     "end": 354.639,
     "text": "They are a wayday guru team building cerebral boot camp calisthenics",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 356,
     "end": 364.48,
     "text": "calligraphy synchronise intimidating gel shake a leg.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 364.48,
     "end": 367.92,
-    "text": "Well, that's the end of this 6 Minute English. We hope you enjoyed it. And don't forget to join us again soon!",
-    "speaker": "Neil"
+    "text": "Well, that's the end of this 6 Minute English. We hope you enjoyed it.",
+    "speaker": "Sophie"
   },
   {
+    "order": 96,
     "start": 367.92,
     "end": 369.84,
     "text": "Don't forget to join us again soon. Goodbye.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 369.84,
     "end": 370.48,
     "text": "Bye bye.",

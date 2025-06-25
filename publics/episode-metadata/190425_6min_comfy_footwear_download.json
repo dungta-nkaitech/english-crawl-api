@@ -7,8 +7,24 @@
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/190425_6min_comfy_footwear.pdf",
   "vocabItems": [
     {
-      "word": "comfy (informal)",
-      "definition": "comfortable"
+      "word": "comfy",
+      "definition": "(informal)comfortable"
+    },
+    {
+      "word": "casualisation",
+      "definition": "The process of becoming less formal and more relaxed, more casual"
+    },
+    {
+      "word": "streetwear",
+      "definition": "a style of casual clothing especially worn by young people from urban settings"
+    },
+    {
+      "word": "filter through",
+      "definition": "appear or happen gradually over time"
+    },
+    {
+      "word": "knobbly",
+      "definition": "lumpy; having many raised areas on the surface"
     }
   ],
   "quiz": null

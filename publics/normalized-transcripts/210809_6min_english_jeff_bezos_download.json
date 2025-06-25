@@ -1,596 +1,695 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7,
     "text": "This is a download from BBC Learning English. To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7,
     "end": 14,
     "text": "6Nate English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 14,
     "end": 18,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 18,
     "end": 20,
-    "text": "And I’m Georgina.",
-    "speaker": "Georgina"
+    "text": "And I'm Georgina.",
+    "speaker": null
   },
   {
+    "order": 4,
     "start": 20,
     "end": 25,
     "text": "If you've ever done shopping online, then you may well have used the Internet giant Amazon.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 25,
     "end": 30,
     "text": "From its origins as an online bookstore, Amazon has grown into grocery deliveries,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 6,
     "start": 30,
     "end": 34,
     "text": "TV and music streaming and even space exploration.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 34,
     "end": 38,
     "text": "Making its founder Jeff Bezos the richest person on earth.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 38,
     "end": 43,
-    "text": "Amazon is so successful it affects how many of us live our lives.",
-    "speaker": null
+    "text": "Amazon is so successful it affects how many of us live our lives,",
+    "speaker": "Neil"
   },
   {
+    "order": 9,
     "start": 43,
     "end": 49,
     "text": "So in this program we'll be taking a look inside the brain of Jeff Bezos to find out how he thinks.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 50,
     "end": 55,
     "text": "When Jeff Bezos' friends talk about him three words they often use are",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 55,
     "end": 59,
     "text": "invention, risk-taking and long-term vision.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 59,
     "end": 63,
-    "text": "These are qualities which Bezos admired in his grandfather Lawrence,",
-    "speaker": null
-  },
-  {
-    "start": 63,
-    "end": 69,
-    "text": "These are qualities which Bezos admired in his grandfather, Lawrence, who from an early age taught Jeff that by careful thinking, any problem can be solved.",
+    "text": "These are qualities which Bezos admired in his grandfather, Lawrence",
     "speaker": "Neil"
   },
   {
+    "order": 13,
+    "start": 63,
+    "end": 69,
+    "text": "who from an early age taught Jeff that by careful thinking any problem can be solved.",
+    "speaker": null
+  },
+  {
+    "order": 14,
     "start": 69,
     "end": 74,
     "text": "As a boy, Jeff and his grandfather repaired an old broken-down truck.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 74,
     "end": 79,
     "text": "When interviewed today, Bezos sometimes compares Amazon to that truck.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 79,
     "end": 83,
     "text": "Very heavy but impossible to stop when it rolls downhill.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 83,
     "end": 86,
     "text": "Which is exactly what accidentally happened one day.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 86,
     "end": 90,
-    "text": "But do you know how the story ends Georgina? That's my quiz question.",
-    "speaker": null
+    "text": "But do you know how the story ends, Georgina? That’s my quiz question",
+    "speaker": "Neil"
   },
   {
+    "order": 19,
     "start": 90,
     "end": 95,
     "text": "What happened when the young Jeff Bezos' car accidentally rolled downhill?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 95,
     "end": 98,
-    "text": "a) Jeff jumped in and pulled the handbrake?,",
-    "speaker": "Neil"
+    "text": "Was it A? Jeff jumped in and pulled the handbrake?",
+    "speaker": null
   },
   {
+    "order": 21,
     "start": 98,
     "end": 101,
     "text": "B? Jeff's granddad lost the thumb?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 101,
     "end": 104,
-    "text": "c) Jeff’s hair fell out?",
+    "text": "Or C? Jeff's hair fell out.",
     "speaker": "Neil"
   },
   {
+    "order": 23,
     "start": 104,
     "end": 109,
     "text": "Well, Jeff Bezos is bored so maybe it's C? His hair fell out.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 109,
     "end": 111,
     "text": "Okay Georgina, we'll find out later.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 111,
     "end": 115,
     "text": "As a company Amazon has been remarkably strong.",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 26,
     "start": 115,
     "end": 121,
     "text": "It survived the dot-com crash of 2000 and saw profits jump during the COVID pandemic.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 121,
     "end": 124,
     "text": "As more and more people started shopping online.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 124,
     "end": 130,
-    "text": "Retail analyst, Natalie Berg, thinks Amazon’s success is due to its customer strategy as she explained to BBC Radio 4 programme, ‘Seriously’:",
+    "text": "Retail analyst Natalie Berg thinks Amazon's success is due to its customer strategy.",
     "speaker": "Georgina"
   },
   {
+    "order": 29,
     "start": 130,
     "end": 135,
     "text": "As she explains to BBC Radio 4 program seriously.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 135,
     "end": 141,
     "text": "Jeff Bezos applied this concept to Amazon by relentlessly focusing on customers,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 141,
     "end": 146,
     "text": "by putting them at the heart of the business, that that would attract more customers,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 146,
     "end": 151,
     "text": "more traffic to its site, which would in turn attract more sellers,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 151,
     "end": 154,
     "text": "which would mean a greater selection for customers,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 154,
     "end": 157,
     "text": "which again would enhance the customer experience.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 158,
     "end": 162,
-    "text": "Natalie thinks that Amazon put customers at the heart of their business – in other words, they make customers the most important part.",
+    "text": "Natalie thinks that Amazon put customers at the heart of their business ",
     "speaker": "put at the heart of"
   },
   {
+    "order": 36,
     "start": 162,
     "end": 166,
     "text": "In other words, they make customers the most important part.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 166,
     "end": 169,
     "text": "This improves Amazon's customer experience,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 169,
     "end": 173,
     "text": "a customer's total perception of their experience with a business,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 173,
     "end": 176,
     "text": "including such things as the quality of service",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 176,
     "end": 178,
     "text": "and support if something goes wrong.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 178,
     "end": 181,
-    "text": "Customers can write reviews on Amazon's website,",
-    "speaker": null
+    "text": "Customers can write reviews on Amazon’s website ",
+    "speaker": "traffic"
   },
   {
+    "order": 42,
     "start": 181,
     "end": 184,
     "text": "and happy customers means more web traffic,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 184,
     "end": 187,
     "text": "the number of people visiting a particular website.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 187,
     "end": 190,
     "text": "In the difficult years following the dot-com crash,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 190,
     "end": 192,
     "text": "Jeff Bezos started Marketplace,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 192,
     "end": 196,
     "text": "where other sellers compete with Amazon's own products.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 196,
     "end": 198,
     "text": "More sellers brought more customers,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 198,
     "end": 200,
     "text": "which in turn brought down prices.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 200,
     "end": 204,
-    "text": "Then in 2013, Bezos bought the Washington Post.",
-    "speaker": null
+    "text": "Then in 2013, Bezos bought The Washington Post.",
+    "speaker": "Neil"
   },
   {
+    "order": 50,
     "start": 204,
     "end": 208,
     "text": "And in 2019, he launched his space exploration company Blue Origin",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 208,
     "end": 211,
     "text": "to explore mineral resources on Mars.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 211,
     "end": 215,
-    "text": "Most recently, Jeff Bezos has set his sights on even bigger things – saving the future of the planet!",
-    "speaker": "Georgina"
+    "text": "Most recently, Jeff Bezos has set his sights on even bigger things,",
+    "speaker": null
   },
   {
+    "order": 53,
     "start": 215,
     "end": 218,
     "text": "saving the future of the planet.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 218,
     "end": 223,
     "text": "Bezos chose Tom Rivet-Karnack of the Environmental Group Global Optimism",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 223,
     "end": 228,
-    "text": "Bezos chose Tom Rivett-Carnac of the environmental group, Global Optimism, to help Amazon meet Climate Initiative goals aimed at slowing climate change.",
+    "text": "to help Amazon meet climate initiative goals aimed at slowing climate change.",
     "speaker": "Neil"
   },
   {
+    "order": 56,
     "start": 228,
     "end": 231,
     "text": "Here is Tom Rivet-Karnack, telling David Baker,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 231,
     "end": 234,
     "text": "presenter of BBC Radio 4s seriously,",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 234,
     "end": 238,
     "text": "about his conversation with Jeff Bezos.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 238,
     "end": 241,
-    "text": "It did seem to me that it was a legacy issue for him, that he wanted to be on the right side of history.",
+    "text": "It did seem to me that it was a legacy issue for him",
     "speaker": "legacyon the right side of history."
   },
   {
+    "order": 60,
     "start": 241,
     "end": 243,
     "text": "that he wanted to be on the right side of history.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 243,
     "end": 246,
-    "text": "And you don’t think it’s just greenwashing in the end?",
-    "speaker": "greenwashing"
-  },
-  {
-    "start": 246,
-    "end": 248,
-    "text": "How do you define that?",
+    "text": "And you don't think it's just greenwashing in the end.",
     "speaker": null
   },
   {
+    "order": 62,
+    "start": 246,
+    "end": 248,
+    "text": "How do you define that?",
+    "speaker": "greenwashing"
+  },
+  {
+    "order": 63,
     "start": 248,
     "end": 251,
     "text": "I mean, would you define greenwashing if you said somebody got into this issue",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 251,
     "end": 255,
     "text": "because they wanted to improve a reputation of a company or an individual?",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 255,
     "end": 257,
     "text": "Actually, that's fine, right?",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 257,
     "end": 261,
     "text": "As long as they do something meaningful and deliver a major outcome.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 261,
     "end": 265,
     "text": "Protecting the planet is what Jeff Bezos wants to be part of his legacy,",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 265,
     "end": 268,
-    "text": "Protecting the planet is part of Jeff Bezos’s legacy – the achievements of his life that will continue after he dies.",
-    "speaker": "legacy"
-  },
-  {
-    "start": 268,
-    "end": 273,
-    "text": "In other words, Bezos wants to be on the right side of history,",
+    "text": "the achievements of his life that will continue after he dies.",
     "speaker": null
   },
   {
-    "start": 273,
-    "end": 277,
-    "text": "In other words, Bezos wants to be on the right side of history - judged to have acted correctly or morally by future generations.",
+    "order": 69,
+    "start": 268,
+    "end": 273,
+    "text": "In other words, Bezos wants to be on the right side of history ",
     "speaker": "on the right side of history"
   },
   {
-    "start": 277,
-    "end": 281,
-    "text": "Ultimately though, it’s real action on climate change that counts, not just greenwashing. Do you know this new expression, Georgina?",
-    "speaker": "greenwashing"
+    "order": 70,
+    "start": 273,
+    "end": 277,
+    "text": "judged to have acted correctly or morally by future generations.",
+    "speaker": null
   },
   {
+    "order": 71,
+    "start": 277,
+    "end": 281,
+    "text": "Ultimately though, it's real action on climate change that counts,",
+    "speaker": null
+  },
+  {
+    "order": 72,
     "start": 281,
     "end": 283,
     "text": "not just greenwashing.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 283,
     "end": 285,
     "text": "Do you know this new expression, Georgina?",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 285,
     "end": 290,
-    "text": "Well, I know that ‘whitewashing’ means trying to hide the truth about something.",
+    "text": "Well, I know that whitewashing means trying to hide the truth about something.",
     "speaker": "Georgina"
   },
   {
+    "order": 75,
     "start": 290,
     "end": 293,
     "text": "Right, so greenwashing means trying to make people believe",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 293,
     "end": 297,
-    "text": "And finally, greenwashing is when you pretend that your company is doing more to protect the environment than it really is.",
-    "speaker": "greenwashing"
+    "text": "that your company is doing more to protect the environment than it really is.",
+    "speaker": "on the right side of history"
   },
   {
+    "order": 77,
     "start": 297,
     "end": 300,
     "text": "Well, with so many achievements already behind him,",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 78,
     "start": 300,
     "end": 303,
     "text": "I'm sure Jeff has made his grandparents very proud,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 303,
     "end": 306,
     "text": "which reminds me of your quiz question, Neil.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 306,
     "end": 310,
     "text": "Ah, yes, I asked Georgina what happened when the car Jeff Bezos",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 310,
     "end": 315,
     "text": "and his granddad Lawrence were fixing accidentally rolled downhill.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 315,
     "end": 318,
-    "text": "I thought it was c) that Jeff lost all his hair. Was I right?",
+    "text": "I thought it was c) that Jeff lost all his hair.",
     "speaker": "Georgina"
   },
   {
+    "order": 83,
     "start": 318,
     "end": 320,
     "text": "Was I right?",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 320,
     "end": 324,
     "text": "No, you were wrong, I'm afraid Georgina, the correct answer was that B,",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 324,
     "end": 327,
     "text": "his grandfather lost his thumb.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 327,
     "end": 332,
     "text": "Okay, now let's recap the vocabulary starting with customer experience,",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 332,
     "end": 335,
     "text": "a customer's feelings about their experience with a business.",
+    "speaker": "customer experience"
+  },
+  {
+    "order": 88,
+    "start": 335,
+    "end": 338,
+    "text": "If you put something at the heart of things,",
     "speaker": null
   },
   {
-    "start": 335,
-    "end": 338,
-    "text": "If you put something at the heart of things, you make it the most important part.",
-    "speaker": "putsomething at the heart of"
-  },
-  {
+    "order": 89,
     "start": 338,
     "end": 340,
     "text": "you make it the most important part.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 340,
     "end": 344,
     "text": "Web traffic is the number of people visiting a website.",
     "speaker": "traffic"
   },
   {
+    "order": 91,
     "start": 344,
     "end": 349,
-    "text": "Your legacy means all your life achievements that will continue after your death.",
-    "speaker": "legacy"
+    "text": "Your legacy means all your life achievements that will continue after your death.",
+    "speaker": null
   },
   {
+    "order": 92,
     "start": 349,
     "end": 355,
     "text": "Someone who's on the right side of history will be judged positively by future generations.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 355,
     "end": 359,
     "text": "And finally, greenwashing is when you pretend that your company is doing more",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 359,
     "end": 362,
     "text": "to protect the environment than it really is.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 362,
     "end": 366,
     "text": "That's all for our peak inside the brain of the world's richest man.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 366,
     "end": 370,
     "text": "Join us again next time when we'll be discussing another trending topic.",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 97,
     "start": 370,
     "end": 371,
     "text": "Bye for now.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 371,
     "end": 372,
-    "text": "Goodbye!",
-    "speaker": "Neil"
+    "text": "Goodbye.",
+    "speaker": null
   }
 ]

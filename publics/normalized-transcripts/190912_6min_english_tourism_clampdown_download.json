@@ -1,536 +1,625 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.12,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.24,
     "end": 15.359,
     "text": "Hello, this is 6 Minute English and I'm Rob.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 15.359,
     "end": 19.28,
     "text": "This is the programme where in just 6 minutes we discuss an interesting topic",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 19.28,
     "end": 21.92,
     "text": "and teach some related English vocabulary.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 21.92,
     "end": 24.08,
     "text": "Well, joining me to do this is Sam.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 24.08,
     "end": 27.519,
-    "text": "Hello! So what’s our interesting topic today, Rob?",
-    "speaker": "Sam"
+    "text": "Hello. So what's our interesting topic today, Rob?",
+    "speaker": null
   },
   {
+    "order": 9,
     "start": 27.599,
     "end": 30.8,
     "text": "Something close to our heart, Sam. It's travel.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 30.8,
     "end": 32,
-    "text": "Great!",
+    "text": "Ah, great.",
+    "speaker": null
+  },
+  {
+    "order": 11,
+    "start": 32,
+    "end": 35.679,
+    "text": " But more and more of us are travelling to explore the world",
     "speaker": "Sam"
   },
   {
-    "start": 32,
-    "end": 35.679,
-    "text": "But more and more of us are travelling to explore the world.",
-    "speaker": null
-  },
-  {
+    "order": 12,
     "start": 35.679,
     "end": 40.32,
-    "text": "But more and more of us are travelling to explore the world – many of us have more leisure time, and the cost of travelling has become relatively cheaper.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 40.32,
-    "end": 42.24,
-    "text": "But here lies the problem.",
+    "text": "Many of us have more leisure time and the cost of travelling has become relatively cheaper.",
     "speaker": null
   },
   {
+    "order": 13,
+    "start": 40.32,
+    "end": 42.24,
+    "text": "But here lies the problem ",
+    "speaker": "Sam"
+  },
+  {
+    "order": 14,
     "start": 42.24,
     "end": 45.359,
     "text": "The places we're visiting are becoming more crowded,",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 45.359,
     "end": 48.32,
     "text": "sometimes spoiling the atmosphere and the beauty.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 48.32,
     "end": 50.799,
     "text": "The things we came to see in the first place.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 50.799,
     "end": 54.799,
     "text": "This is why we're going to be discussing how some cities around the world",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 54.799,
     "end": 57.679,
     "text": "are putting restrictions on the tourists who visit.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 57.679,
     "end": 62,
     "text": "But that's after I challenge you to answer this question, Sam. Are you ready?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 62,
     "end": 63.28,
     "text": "Bring it on, Rob!",
     "speaker": "Sam"
   },
   {
+    "order": 21,
     "start": 63.28,
     "end": 67.519,
-    "text": "According to Mastercard’s Global Destination Cities Index, what was the most visited city in 2018? Was it…",
-    "speaker": "Rob"
+    "text": "According to MasterCards Global Destination Cities Index,",
+    "speaker": null
   },
   {
+    "order": 22,
     "start": 67.519,
     "end": 70.239,
     "text": "what was the most visited city in 2018?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 70.719,
     "end": 72.479,
-    "text": "a) London",
+    "text": "Was it a London,",
     "speaker": "Rob"
   },
   {
+    "order": 24,
     "start": 72.479,
     "end": 75.2,
-    "text": "b) New York, or",
+    "text": "B New York or C Bangkok?",
     "speaker": "Rob"
   },
   {
+    "order": 25,
     "start": 75.2,
     "end": 77.359,
-    "text": "All great places to visit.",
-    "speaker": null
-  },
-  {
-    "start": 77.359,
-    "end": 80.319,
-    "text": "All great places to visit – but I think I’ll stay close to home and say a) London.",
+    "text": "All great places to visit ",
     "speaker": "Sam"
   },
   {
-    "start": 80.319,
-    "end": 81.599,
-    "text": "a) London",
-    "speaker": "Rob"
+    "order": 26,
+    "start": 77.359,
+    "end": 80.319,
+    "text": "But I think I'll stay close to home and say,",
+    "speaker": null
   },
   {
+    "order": 27,
+    "start": 80.319,
+    "end": 81.599,
+    "text": "A London.",
+    "speaker": null
+  },
+  {
+    "order": 28,
     "start": 81.679,
     "end": 85.519,
     "text": "Okay, well, as always, I will reveal the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 86.319,
     "end": 90.399,
-    "text": "Now let's start our journey in Italy's capital city, Rome,",
-    "speaker": null
+    "text": "Now, let’s start our journey in Italy’s capital city, Rome",
+    "speaker": "Rob"
   },
   {
+    "order": 30,
     "start": 90.399,
     "end": 91.919,
     "text": "famous for its colosseum,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 91.919,
     "end": 94.399,
     "text": "Trevi found in, and many other things.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 94.399,
     "end": 101.039,
-    "text": "Lots of people are visiting, Rob – and locals and tourists have differing attitudes towards the way they respect these beautiful and historic sites. Respect here is a verb, to mean treat something with care.",
-    "speaker": "respectRespect"
+    "text": "Lots of people are visiting Rob and locals and tourists have differing attitudes towards the way they respect",
+    "speaker": null
   },
   {
+    "order": 33,
     "start": 101.039,
     "end": 103.039,
     "text": "these beautiful and historic sites.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 103.759,
     "end": 107.919,
     "text": "Respect here is a verb to mean treat something with care.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 108.48,
     "end": 114.24,
     "text": "Well, the authorities in the city fear that some tourists are showing disrespect to the city",
-    "speaker": null
+    "speaker": "clampdownClampdown"
   },
   {
+    "order": 36,
     "start": 114.24,
     "end": 118.079,
     "text": "and have introduced laws to clamp down on certain behaviour.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 118.079,
     "end": 122.24,
     "text": "Clamp down means officially trying to stop or limit people doing something.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 122.879,
     "end": 126.159,
     "text": "Sabina Castell Franco is a journalist in the city.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 126.159,
     "end": 131.92,
     "text": "She told BBC Radio 4's You and Yours programme why new restrictions have been introduced.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 132.719,
     "end": 137.36,
     "text": "The new rules are really to make sure that tourists do not misbehave",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 137.44,
     "end": 141.04,
     "text": "when they are visiting tourist attractions in Rome.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 141.04,
     "end": 144.8,
     "text": "Romances don't like to see tourists walking around,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 144.8,
     "end": 149.04,
     "text": "they're chestered, they don't like to see them waiting in their fountains.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 149.04,
     "end": 156.24,
     "text": "So really the objective is to improve the life of the city for residents and for tourists themselves.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 157.44,
     "end": 161.68,
-    "text": "So the new rules are to stop tourists' misbehaving.",
-    "speaker": null
+    "text": "So, the new rules are to stop tourists misbehaving ",
+    "speaker": "misbehaving"
   },
   {
+    "order": 46,
     "start": 161.68,
     "end": 164.48,
     "text": "That's doing bad or inappropriate things.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 164.48,
     "end": 167.2,
     "text": "I'm sure not all visitors misbehave,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 167.199,
     "end": 169.919,
     "text": "but those who have been, have been waiting.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 170.479,
     "end": 178,
     "text": "That's walking through water in the famous fountains and men have not been covering up the top half of their bodies.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 178,
     "end": 180.399,
     "text": "So going bare-chested.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 180.399,
     "end": 182,
     "text": "Not any more, Sam.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 182,
     "end": 188.56,
-    "text": "Not any more, Sam! These new laws have banned this with the objective of improving the life for the people of Rome – the Romans. An objective is a plan or aim to achieve something.",
-    "speaker": "objectiveobjective"
+    "text": "These new laws have banned this with the objective of improving the life for the people of Rome, the Romans.",
+    "speaker": null
   },
   {
+    "order": 53,
     "start": 188.56,
     "end": 191.679,
     "text": "An objective is a plan or aim to achieve something.",
-    "speaker": null
+    "speaker": "clampdownCrackdown"
   },
   {
+    "order": 54,
     "start": 191.679,
     "end": 196.399,
     "text": "Other laws introduced in Rome with the objective of improving the city",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 55,
     "start": 196.4,
     "end": 200.24,
     "text": "include giving out severe fines to people who drop litter",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 200.24,
     "end": 205.04,
     "text": "and to those who attach love padlocks to historic monuments.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 205.04,
     "end": 210.64,
     "text": "Well, I guess if it makes the city a nicer place to visit for everyone, then it's a good idea.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 210.64,
     "end": 213.68,
     "text": "Well, let's talk about another historic old city,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 213.68,
     "end": 215.36,
     "text": "Bruges in Belgium.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 215.36,
     "end": 218.719,
     "text": "The old and narrow streets are often packed with sightseers,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 218.719,
     "end": 220.879,
     "text": "so restrictions have been introduced there.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 221.28,
     "end": 225.04,
     "text": "Helen Coffey, Deputy Travel Editor for the Independent Newspaper,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 225.039,
     "end": 228.879,
     "text": "also spoke to the UNIORS programme to explain what is going on.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 229.439,
     "end": 234.799,
-    "text": "Bruges was the latest city to say we're going to introduce new regulations to crack down on.",
-    "speaker": null
+    "text": "Bruges was the latest city to say we're going to introduce new regulations to crack down on ",
+    "speaker": "crack downDisneyficationcap"
   },
   {
+    "order": 65,
     "start": 234.799,
     "end": 237.199,
     "text": "What they call the disnification of their city.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 237.199,
     "end": 241.439,
     "text": "A really key one is they're going to cap the number of cruises that can dock.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 241.439,
     "end": 244.799,
     "text": "And actually, this is a big one that lots of cities do.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 244.799,
     "end": 250,
     "text": "They basically don't like cruise visitors because cruise visitors don't spend money.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 250.96,
     "end": 259.36,
     "text": "So Helen mentioned a crack down, which like clamp down means taking action to restrict or stop certain",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 259.36,
     "end": 265.92,
     "text": "activities. And Bruges wants to crack down on the disnification of the city.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 265.92,
     "end": 272.319,
     "text": "Hmm, this term describes turning something into an artificial, not real, commercial environment,",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 272.319,
     "end": 276.319,
     "text": "similar to a Walt Disney theme park. I'm not sure it's that similar yet,",
-    "speaker": null
+    "speaker": "cap"
   },
   {
+    "order": 73,
     "start": 276.319,
     "end": 282.319,
     "text": "but one way to maintain the authentic feel of the city is to cap the number of cruises that can dock.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 282.319,
     "end": 285.199,
     "text": "Cap means restrict or limit.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 285.759,
     "end": 291.279,
     "text": "It's felt that visitors who come by cruise ship don't stay overnight and therefore don't bring",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 291.279,
     "end": 298.159,
     "text": "much money into the city. The message from the city authorities is stay overnight or don't come.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 298.639,
     "end": 304.319,
     "text": "Well, one city that has people visiting for the day or staying longer is the most visited city",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 304.399,
     "end": 311.839,
     "text": "in the world. But where is that Sam? Earlier, I asked you what the most visited city in 2018 was.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 311.839,
     "end": 317.92,
     "text": "Was it a London, be New York or C Bangkok? And I said London.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 318.48,
     "end": 324,
-    "text": "That was in second place. The most visited city last year was Bangkok, in Thailand.",
-    "speaker": "Rob"
+    "text": "That was in second place. The most visited city last year was Bangkok in Thailand.",
+    "speaker": "Sam"
   },
   {
+    "order": 81,
     "start": 324,
     "end": 331.6,
     "text": "Okay Rob, well, maybe what I can get right is a recap of today's vocabulary. Starting with respect.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 331.6,
     "end": 337.28,
     "text": "If you respect something, you treat it with care. We also discussed clamp down, which means",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 337.28,
     "end": 342.4,
     "text": "officially trying to stop or limit people doing something. Crack down is a similar phrase.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 342.4,
     "end": 350.08,
-    "text": "To misbehave is to do something bad or inappropriate. And an objective is a plan or aim to achieve something.",
-    "speaker": "misbehaveobjective"
+    "text": "To misbehave is to do something bad or inappropriate. And an objective is a plan or aim to achieve",
+    "speaker": null
   },
   {
+    "order": 85,
     "start": 350.08,
     "end": 356.16,
     "text": "something. Our next word is disnification. A term that describes turning something into an artificial,",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 356.16,
     "end": 362.56,
     "text": "not real, commercial environment, similar to a Walt Disney theme park. And finally, we had cap,",
-    "speaker": null
+    "speaker": "Disneyfication"
   },
   {
+    "order": 87,
     "start": 362.56,
     "end": 369.12,
     "text": "which means restrict or limit. Well, we've had to cap this programme at six minutes and we're out of time.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 369.12,
     "end": 370.32,
-    "text": "Bye bye!",
-    "speaker": "Sam"
+    "text": "Goodbye. Bye-bye.",
+    "speaker": null
   }
 ]

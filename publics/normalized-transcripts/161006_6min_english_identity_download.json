@@ -1,563 +1,657 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.6,
     "text": "This is a download from BBC Learning English to find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 12.32,
     "end": 15.2,
     "text": "Hello and welcome to 6 Minute English. I'm Alice…",
     "speaker": "Alice"
   },
   {
+    "order": 2,
     "start": 15.2,
     "end": 18.879,
-    "text": "And I'm Neil. So, Alice, what do you see when you look at me?",
-    "speaker": "Neil"
+    "text": "And I'm Neil, so Alice, what do you see when you look at me?",
+    "speaker": null
   },
   {
+    "order": 3,
     "start": 18.879,
     "end": 25.839,
     "text": "Oh well, um, male. Caucasian, early 40s, short, urban hair,",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 25.839,
     "end": 27.839,
     "text": "bushye eyebrows, thin lips.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 27.839,
     "end": 30.399,
     "text": "Ah, okay. So that's how you see me.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 30.399,
     "end": 34.719,
     "text": "It sounds like a police report, I'm not sure I like your observation about thin lips.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 34.719,
     "end": 38.32,
     "text": "Caucasian means white, skinned and European, by the way.",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 8,
     "start": 38.32,
     "end": 43.76,
     "text": "Mmm, and today, this show is about identity, who or what a person is.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 43.76,
     "end": 47.6,
     "text": "And the way people see us forms part of our sense of identity,",
-    "speaker": null
+    "speaker": "identityethnic"
   },
   {
+    "order": 10,
     "start": 47.6,
     "end": 51.6,
     "text": "while another part comes from our ethnic or racial identity.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 51.679,
     "end": 56.56,
     "text": "So my question for you today, Neil, is what percentage of the UK population",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 56.56,
     "end": 59.679,
     "text": "describe themselves as ethnically mixed?",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 59.679,
     "end": 62.88,
     "text": "Is it a 0.9%?",
-    "speaker": null
+    "speaker": "wear my heart on my sleeve"
   },
   {
+    "order": 14,
     "start": 62.88,
     "end": 67.04,
-    "text": "Or c) 9%?",
+    "text": "B 5.9% or C 9%?",
     "speaker": "identityethnic"
   },
   {
+    "order": 15,
     "start": 67.76,
     "end": 72.24,
     "text": "Okay, I think that it's a 0.9%.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 72.24,
     "end": 76.64,
     "text": "Hmm, well, we'll find out if you got the answer right or wrong later on in the show.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 76.64,
     "end": 81.359,
-    "text": "Well, we'll find out if you got the answer right or wrong later on in the show. Now, Neil, you are, of course, many more things than my physical description of you!",
-    "speaker": "Alice"
+    "text": "Now, Neil, you are, of course, many more things than my physical description of you.",
+    "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 81.439,
     "end": 82.64,
     "text": "I'm glad to hear that.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 19,
     "start": 82.64,
     "end": 86,
     "text": "And it's true that until you actually hear somebody speak,",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 86,
     "end": 88.079,
     "text": "there are lots of things you can't know about them.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 88.079,
     "end": 91.28,
     "text": "For example, which country they're from, what language they speak.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 91.28,
     "end": 95.28,
-    "text": "Yes. So looking at me, what would you say, Neil?",
-    "speaker": "Alice"
+    "text": "Hmm, yes. So, looking at me, what would you say, Neil?",
+    "speaker": null
   },
   {
+    "order": 23,
     "start": 95.28,
     "end": 98.159,
     "text": "I would say, Alas, that you're a typical English rose.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 98.159,
     "end": 99.84,
     "text": "Oh, thanks, Neil.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 99.84,
     "end": 104.56,
     "text": "And English rose describes an attractive girl with a pale, delicate complexion,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 26,
     "start": 104.56,
     "end": 105.84,
     "text": "or skin colour.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 105.84,
     "end": 109.2,
     "text": "But you can't actually tell where a person is from, by the way, they look.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 109.28,
     "end": 110.799,
     "text": "Yes, I suppose you're right.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 29,
     "start": 110.799,
     "end": 113.76,
     "text": "I have a friend who also looks very English like you,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 113.76,
     "end": 115.52,
     "text": "but she's a real ethnic mix.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 115.52,
     "end": 117.92,
     "text": "Her dad's German and her mum's Brazilian.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 117.92,
     "end": 121.6,
-    "text": "Well, let's hear from New York City actress and playwright, Sarah Jones, talking about her complicated ethnicity.",
-    "speaker": "Alice"
+    "text": "Well, let's hear from New York City Actress and Playwright Sarah Jones",
+    "speaker": null
   },
   {
+    "order": 33,
     "start": 121.6,
     "end": 124.079,
     "text": "talking about her complicated ethnicity.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 126.159,
     "end": 131.439,
-    "text": "My family, on my dad's side, my grandparents are from the south.",
-    "speaker": null
+    "text": "My family on my dad's side, my grandparents, are from the South.",
+    "speaker": "Sarah Jones, actress and playwright, New York City"
   },
   {
+    "order": 35,
     "start": 131.439,
     "end": 135.199,
     "text": "There's some Caribbean in there, Black Americans from the south and the Caribbean.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 135.199,
     "end": 139.12,
     "text": "And then on my mother's side, there are people from the Caribbean,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 139.12,
     "end": 143.28,
     "text": "from Ireland, but, you know, Irish American, German American.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 143.28,
     "end": 146.719,
     "text": "People would ask me if I was adopted when they saw my mother's white skin.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 146.719,
     "end": 150.64,
     "text": "She's actually mixed, but she's white from a distance.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 150.64,
     "end": 152,
     "text": "And I'm Black from a distance.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 153.84,
     "end": 157.92,
     "text": "Sarah Jones there. Well, Sarah has family from all over the world.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 157.92,
     "end": 162.56,
-    "text": "Sarah Jones there. Well, Sarah has family from all over the world! I suppose the United States - and New York City, especially - is a real melting pot.",
-    "speaker": "Neil"
+    "text": "I suppose the United States and New York City, especially, is a real melting pot.",
+    "speaker": null
   },
   {
+    "order": 43,
     "start": 162.56,
     "end": 167.52,
-    "text": "That's right. And melting pot describes a society made from people of different countries who live together and create a new shared culture.",
+    "text": "That's right. And melting pot describes a society made from people of different countries",
     "speaker": "melting pot"
   },
   {
+    "order": 44,
     "start": 167.52,
     "end": 170.719,
     "text": "who live together and create a new shared culture.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 170.719,
     "end": 175.92,
-    "text": "And people think Sarah is adopted – or raised by parents who aren't biologically hers – because she looks so different to her mum.",
-    "speaker": "adopted"
+    "text": "And people think Sarah is adopted or raised by parents who aren't biologically hers,",
+    "speaker": null
   },
   {
+    "order": 46,
     "start": 175.92,
     "end": 178.08,
     "text": "because she looks so different to her mum.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 178.08,
     "end": 183.439,
     "text": "But I expect Sarah sees herself as American. New York is where she was born and raised.",
     "speaker": "Alice"
   },
   {
+    "order": 48,
     "start": 183.439,
     "end": 186.08,
     "text": "That's right, but her grandparents weren't.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 186.08,
     "end": 190.48,
     "text": "Do you think you'd change when you go and live in another country with people different to you?",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 190.48,
     "end": 194.879,
     "text": "Yes, I do. My name is a Turkish, but they've lived in England for 45 years,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 194.879,
     "end": 197.359,
     "text": "so they've integrated into our culture.",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 52,
     "start": 197.359,
     "end": 201.12,
     "text": "They enjoy English things like our TV soap operas,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 201.12,
     "end": 204,
     "text": "cooking turkey at Christmas and drinking tea with milk.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 204,
     "end": 209.039,
-    "text": "And to integrate means to join a group of people, and often involves changing your habits and customs.",
-    "speaker": "integrate"
+    "text": "And to integrate means to join a group of people and often involves changing your habits and",
+    "speaker": null
   },
   {
+    "order": 55,
     "start": 209.039,
     "end": 216.56,
     "text": "customs. Yes, okay. So, Neil, to what extent does the way other people see us actually change us?",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 216.56,
     "end": 222,
     "text": "Let's listen to Julian Bajini, a writer and philosopher here in the UK, and find out what he thinks.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 222.479,
     "end": 229.28,
     "text": "It seems very evident that our sense of self isn't something that comes entirely from within.",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 58,
     "start": 229.28,
     "end": 232.96,
     "text": "And of course, we're affected by the way other people see us.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 232.96,
     "end": 236.8,
     "text": "And that's one of the most formative things in creating our sense of identity.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 236.8,
     "end": 241.199,
     "text": "I mean, I think it's kind of a two-way process that's ongoing.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 241.199,
     "end": 246.719,
     "text": "In our sense of who we are, is always a response in part to how other people see us.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 247.68,
     "end": 255.68,
     "text": "So, Julian Bajini believes the way other people see us is formative in creating our sense of identity or who we are.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 255.68,
     "end": 259.279,
     "text": "And formative means important for the development of something.",
-    "speaker": null
+    "speaker": "formative"
   },
   {
+    "order": 64,
     "start": 259.279,
     "end": 265.519,
     "text": "Hmm, so if enough people see you as an English rose, you might start to see yourself as an English rose,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 265.519,
     "end": 267.68,
     "text": "even if you aren't ethnically English.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 267.68,
     "end": 273.199,
     "text": "I'm not so sure. The friend I talked about earlier, she comes across as much more Brazilian than English",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 67,
     "start": 273.279,
     "end": 276.879,
     "text": "in the way she behaves. She doesn't have the famous English reserve,",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 276.879,
     "end": 279.12,
     "text": "but you never know it by looking at her.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 279.12,
     "end": 282.399,
     "text": "And reserve means hiding what you're thinking or feeling.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 282.399,
     "end": 285.439,
     "text": "I think I'm guilty of English reserve. How about you, Neil?",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 285.439,
     "end": 290.48,
-    "text": "No, I think I wear my heart on my sleeve, Alice – which means I make my feelings clear. OK, I think it's time for the answer to today's quiz question.",
-    "speaker": "wear my heart on my sleeve"
+    "text": "No, I think I wear my heart on my sleeve, Alice, which means I make my feelings clear.",
+    "speaker": null
   },
   {
+    "order": 72,
     "start": 290.48,
     "end": 293.759,
     "text": "Okay, I think it's time for the answer to today's quiz question.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 293.759,
     "end": 298.399,
     "text": "Oh, good. Fair enough. I asked you what percentage of the UK population",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 298.399,
     "end": 303.359,
     "text": "described themselves as ethnically mixed. Is it A0.9%",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 304.239,
     "end": 307.919,
     "text": "B5.9% or C9%",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 307.919,
     "end": 311.359,
     "text": "And I said A0.9%",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 311.359,
     "end": 314.639,
     "text": "Yes, and you were on the money today, Neil. Well done.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 78,
     "start": 314.639,
     "end": 315.279,
     "text": "Where are you?",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 315.279,
     "end": 319.279,
     "text": "According to a survey conducted by the BBC in 2011,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 319.279,
     "end": 321.759,
     "text": "when asked about their own ethnic origins,",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 321.759,
     "end": 325.839,
     "text": "0.9% of the UK population said they were mixed race.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 325.839,
     "end": 329.679,
     "text": "Although it's thought that the real figure is 2% or more.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 329.679,
     "end": 332.56,
     "text": "Now, could you remind us of the words we heard today, Neil?",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 332.56,
     "end": 341.199,
     "text": "Sure, they are Caucasian, identity, ethnic, English rose,",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 341.199,
     "end": 348.719,
     "text": "complexion, melting pot, adopted, integrate,",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 348.719,
     "end": 354.639,
-    "text": "wear your heart on your sleeve",
+    "text": "formative, reserve, wear your heart on your sleeve.",
+    "speaker": null
+  },
+  {
+    "order": 87,
+    "start": 354.639,
+    "end": 357.039,
+    "text": "And that's the end of today's 6 Minute English.",
     "speaker": "Neil"
   },
   {
-    "start": 354.639,
-    "end": 357.039,
-    "text": "And that's the end of today's 6 Minute English. Don't forget to join us again soon!",
-    "speaker": "Alice"
-  },
-  {
+    "order": 88,
     "start": 357.039,
     "end": 358.8,
     "text": "Don't forget to join us again soon.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 358.8,
     "end": 360.639,
-    "text": "Meanwhile, visit our website,",
-    "speaker": null
+    "text": "Meanwhile, visit our website:",
+    "speaker": "Neil"
   },
   {
+    "order": 90,
     "start": 360.639,
     "end": 362.8,
     "text": "bbclearningenglish.com,",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 362.8,
     "end": 365.36,
     "text": "where you'll find guides to grammar, exercises,",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 365.36,
     "end": 368.319,
     "text": "videos and articles to read and improve your English.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 369.039,
     "end": 370.159,
     "text": "Goodbye. Bye-bye.",

@@ -1,629 +1,734 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 10.88,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 12.96,
     "end": 16.32,
-    "text": "Hello. This is 6 Minute English from BBC Learning English. I'm Sam…",
+    "text": "Hello. This is 6 Minute English from BBC Learning English.",
     "speaker": "Sam"
   },
   {
+    "order": 4,
     "start": 16.32,
     "end": 18.16,
-    "text": "And I'm Rob.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 18.16,
-    "end": 21.12,
-    "text": "So, we're well into 2020 now.",
+    "text": "I'm Sam and I'm Rob.",
     "speaker": null
   },
   {
-    "start": 21.12,
-    "end": 23.519,
-    "text": "So we're well into 2020 now – how are your New Year's resolutions going, Rob?",
+    "order": 5,
+    "start": 18.16,
+    "end": 21.12,
+    "text": "So we're well into 2020 now –",
     "speaker": "resolutions"
   },
   {
+    "order": 6,
+    "start": 21.12,
+    "end": 23.519,
+    "text": "How are your new years resolutions going, Rob?",
+    "speaker": null
+  },
+  {
+    "order": 7,
     "start": 23.519,
     "end": 25.359,
     "text": "Ah, resolutions.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 25.359,
     "end": 29.92,
     "text": "You mean promises people make to themselves to stop or start doing something?",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 30.48,
     "end": 33.76,
     "text": "I promised to start running and to stop eating biscuits",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 33.76,
     "end": 37.6,
     "text": "and to give up alcohol for a month, but I failed on all of them.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 37.6,
     "end": 38.56,
-    "text": "Oh dear...",
+    "text": "Oh dear..",
     "speaker": "Sam"
   },
   {
+    "order": 12,
     "start": 38.56,
     "end": 42.32,
     "text": "Yes, I lasted a few days and then I started to crumble.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 42.32,
-    "end": 44.24,
-    "text": "Yeah, well, you're not alone.",
     "speaker": null
   },
   {
+    "order": 13,
+    "start": 42.32,
+    "end": 44.24,
+    "text": "Yeah. Well, you're not alone.",
+    "speaker": "Sam"
+  },
+  {
+    "order": 14,
     "start": 44.24,
     "end": 48.64,
     "text": "Many people try to kick bad habits and get healthy when a new year begins.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 48.64,
     "end": 52.56,
     "text": "Their intentions, their plans to do something, are good.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 52.56,
     "end": 55.84,
-    "text": "Yes, giving up drinking is particularly good to do, if only for the health benefits.",
-    "speaker": "Rob"
+    "text": "Yes, giving up drinking is particularly good to do,",
+    "speaker": null
   },
   {
+    "order": 17,
     "start": 55.84,
     "end": 57.76,
     "text": "if only for the health benefits.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 57.759,
     "end": 62.159,
     "text": "Well, we'll be talking more about that as soon as I set up today's question.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 62.159,
     "end": 66.719,
-    "text": "Earlier I asked you: According to historians, which people were thought to be the first group to make New Year's resolutions? Was it the…",
+    "text": "According to historians, which people were thought to be the first group",
     "speaker": "Sam"
   },
   {
+    "order": 20,
     "start": 66.719,
     "end": 68.879,
     "text": "to make new years resolutions?",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 21,
     "start": 68.879,
     "end": 76.159,
     "text": "Was it the A, Romans, B, Native Americans, or C, Babylonians?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 76.159,
     "end": 80.719,
-    "text": "I haven't got a clue, so I'm going to guess a) the Romans.",
-    "speaker": "Rob"
+    "text": " I haven't got a clue, so I'm going to guess a) the Romans",
+    "speaker": "Sam"
   },
   {
+    "order": 23,
     "start": 80.719,
     "end": 84.719,
     "text": "OK, Rob, I'll let you know if that was a good guess at the end of the programme.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 24,
     "start": 84.799,
     "end": 87.76,
     "text": "Now let's talk more about giving things up for new year",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 87.76,
     "end": 90.56,
     "text": "and specifically giving up alcohol.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 90.56,
     "end": 93.68,
     "text": "It's a time often called dry January.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 93.68,
     "end": 96.079,
     "text": "Dry refers to not drinking alcohol.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 96.079,
     "end": 97.439,
     "text": "It's not about the weather.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 97.439,
     "end": 101.12,
     "text": "And the beginning of the year seems like a good time to start doing something",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 101.12,
     "end": 102.319,
     "text": "to improve your health.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 102.319,
     "end": 105.439,
-    "text": "But it's easy to give in to temptation – isn't it, Rob?",
+    "text": "But it's easy to give in to temptation – isn't it, Rob",
     "speaker": "Sam"
   },
   {
+    "order": 32,
     "start": 105.439,
     "end": 106.079,
     "text": "Oh, yes.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 106.079,
     "end": 109.28,
     "text": "And it's tough to give up drinking in the first place,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 109.28,
     "end": 113.519,
     "text": "as Millie Gooch, founder of the Sober Girl Society, knows.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 113.599,
     "end": 116.799,
     "text": "She spoke to BBC Radio 4's You and Yours programme",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 116.799,
     "end": 120,
     "text": "and explained why it was hard to quit in the first place.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 121.759,
     "end": 126.079,
     "text": "I think it's the peer pressure and, you know, it's just so expected of us.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 126.079,
     "end": 128.079,
     "text": "It's so ingrained in us.",
-    "speaker": null
+    "speaker": "peer pressureingrainedmerchandise"
   },
   {
+    "order": 39,
     "start": 128.079,
     "end": 130.719,
     "text": "Alcohol is everywhere and it's not just alcohol itself.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 130.719,
     "end": 132.319,
     "text": "It's like alcohol merchandise.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 132.319,
     "end": 134.319,
     "text": "So, you know, you've got Christmas Dumpers",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 134.319,
     "end": 136.24,
     "text": "that've been saying, Prosecco, Ho, Ho, Ho,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 136.24,
     "end": 140.319,
     "text": "and you can't buy a birthday card without it saying, let the fun be gin.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 140.4,
     "end": 143.199,
     "text": "It's just absolutely everywhere. It's so hard to avoid.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 144.639,
     "end": 148.719,
     "text": "So that's Millie, who's right when she says that in the UK at least,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 148.719,
     "end": 152.319,
     "text": "we sometimes drink because we give in to peer pressure.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 152.319,
     "end": 157.039,
     "text": "That's the influence a group of similar people have on you to behave like them.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 157.039,
     "end": 160.479,
-    "text": "We want to be part of the group, so we copy what they do.",
-    "speaker": null
+    "text": "We want to be part of the group so we copy what they do –",
+    "speaker": "ingrained"
   },
   {
+    "order": 49,
     "start": 160.479,
     "end": 163.599,
     "text": "And we are expected to do so because, as Millie said,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 163.599,
     "end": 166.079,
     "text": "drinking alcohol is ingrained in us.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 166.079,
     "end": 168.159,
     "text": "Well, in some cultures anyway.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 168.159,
     "end": 173.199,
     "text": "And when an attitude is ingrained, it means it's been that way for a long time.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 173.199,
     "end": 175.199,
     "text": "It's difficult to change.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 175.199,
     "end": 178.96,
     "text": "And although it may be harmful, we see jokes about drinking",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 178.96,
     "end": 183.199,
     "text": "through things like merchandise, a word for goods we buy in cell.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 183.199,
     "end": 185.759,
     "text": "And Millie goes on to say we can buy jumpers",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 57,
     "start": 185.759,
     "end": 189.359,
     "text": "that joke about the Italian sparkling wine called Prosecco,",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 189.359,
     "end": 192.319,
     "text": "which say Prosecco Ho, Ho, Ho.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 192.319,
     "end": 196.159,
     "text": "And birthday cards have the message, let the fun be gin.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 196.159,
     "end": 198,
     "text": "A play on the word begin.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 198,
     "end": 201.12,
     "text": "With all this social pressure, it's hard not to give in.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 201.12,
     "end": 205.599,
     "text": "And that's even worse when you're trying to fulfill your resolution not to drink.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 205.599,
     "end": 211.12,
-    "text": "For Millie, enough was enough when drinking started to have a negative effect and she had to do something about it.  Let's hear from her again…",
+    "text": "Millie, enough was enough when drinking started to have a negative effect ",
     "speaker": "Rob"
   },
   {
+    "order": 64,
     "start": 211.12,
     "end": 214.639,
     "text": "And she had to do something about it. Let's hear from her again.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 215.92,
     "end": 219.599,
     "text": "I started realizing that alcohol was actually really effective in my mental health.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 219.599,
     "end": 222.96,
     "text": "So I was getting that really bad hangover anxiety,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 222.96,
     "end": 225.199,
     "text": "that like hangover fear and dread.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 225.199,
     "end": 228.56,
     "text": "And I kind of noticed that that was permeating my everyday life.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 228.56,
     "end": 231.919,
     "text": "I was a mainstream curve rather than like an everyday drinker.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 231.919,
     "end": 235.839,
     "text": "So I just decided that yeah, it wasn't soothing my life anymore.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 235.839,
     "end": 237.119,
     "text": "And I wanted to give it up.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 238.319,
     "end": 242.719,
-    "text": "So Millie there described the negative effects of a hangover.",
-    "speaker": null
+    "text": "So Millie there described the negative effects of a hangover ",
+    "speaker": "hangoverpermeates"
   },
   {
+    "order": 73,
     "start": 242.719,
     "end": 247.199,
     "text": "That's the sick and tired feeling you get after drinking too much alcohol.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 247.199,
     "end": 249.28,
     "text": "She also said she felt anxiety.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 249.28,
     "end": 252.959,
     "text": "And this feeling was permeating her everyday life.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 253.04,
     "end": 258,
     "text": "When something permeates, it spreads through something and influences every part of it.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 258,
     "end": 263.68,
-    "text": "So, drinking was affecting her everyday life, and it didn't help that she was a binge drinker. When you binge you do something occasionally but to extreme.",
-    "speaker": "bingebinge"
+    "text": "So drinking was affecting her everyday life and it didn't help that she was a binge drinker.",
+    "speaker": null
   },
   {
+    "order": 78,
     "start": 263.68,
     "end": 268.319,
     "text": "When you binge, you do something occasionally but too extreme.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 268.319,
     "end": 272.56,
     "text": "Well, Millie managed to quit drinking and hasn't touched a drop since.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 272.56,
     "end": 274.8,
     "text": "There are many benefits to remaining sober.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 274.8,
     "end": 276.56,
     "text": "That means not being drunk.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 276.56,
     "end": 279.519,
     "text": "And one of them is hearing the answer to today's question.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 279.599,
     "end": 285.359,
     "text": "Earlier I asked you, according to historians, which people were thought to be the first group",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 285.359,
     "end": 289.439,
     "text": "to make New Year's resolutions? Was it the A, Romans?",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 289.439,
     "end": 294.319,
     "text": "B, Native Americans? Or C, Babylonians? And Rob, what did you say?",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 294.319,
     "end": 297.199,
     "text": "I had a well guess and said it was the Romans.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 297.199,
     "end": 299.12,
     "text": "Ah, sorry Rob, you are wrong.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 299.12,
     "end": 304,
     "text": "Many historians think it was the Babylonians who made the first ever New Year's resolutions",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 89,
     "start": 304,
     "end": 306.24,
     "text": "about 4,000 years ago.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 306.319,
     "end": 312.319,
     "text": "According to the history.com website at New Year, which they celebrated in mid-March,",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 312.319,
     "end": 318.879,
     "text": "Babylonians made promises to the gods to pay their debts and return any objects they had borrowed.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 318.879,
     "end": 322.16,
-    "text": "I wonder if they managed to keep their resolutions for longer than I did.",
-    "speaker": null
+    "text": "I wonder if they managed to keep their resolutions for longer than I did…",
+    "speaker": "resolution"
   },
   {
+    "order": 93,
     "start": 322.879,
     "end": 328.4,
     "text": "Anyway, let's keep one of our regular promises to recap the vocabulary we've discussed today,",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 328.4,
     "end": 330.16,
     "text": "starting with resolution.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 330.16,
     "end": 334.8,
     "text": "Which in the context of New Year's resolution is a promise to yourself to stop",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 334.8,
     "end": 336.4,
     "text": "or start doing something?",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 336.4,
     "end": 342,
     "text": "Peer pressure is the influence a group of similar people have on you to behave like them.",
     "speaker": "Peer pressure"
   },
   {
+    "order": 98,
     "start": 342,
     "end": 348.08,
     "text": "In grain, describes an attitude or idea that has been done in a certain way for a long time",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 348.08,
     "end": 353.28,
     "text": "and is difficult to change. And merchandise is a word for goods we buy and sell.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 353.28,
     "end": 358.16,
     "text": "We also mentioned a hangover. That's the sick, tired and sometimes anxious feeling you get",
-    "speaker": null
+    "speaker": "hangoverpermeating"
   },
   {
+    "order": 101,
     "start": 358.16,
     "end": 363.519,
     "text": "after drinking too much alcohol. And permeating describes spreading through something and",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 363.519,
     "end": 367.839,
     "text": "influencing every part of it. Like the vocabulary in this programme, Sam.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 367.839,
     "end": 370.399,
-    "text": "Thanks, Rob - and that's all for now.",
-    "speaker": "Sam"
+    "text": "Hmm, thanks, Rob. And that's all for now.",
+    "speaker": null
   },
   {
+    "order": 104,
     "start": 370.399,
     "end": 370.879,
     "text": "Bye-bye.",

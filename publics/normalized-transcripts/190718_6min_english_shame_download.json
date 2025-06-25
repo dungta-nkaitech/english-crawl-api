@@ -1,491 +1,573 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 10.88,
     "text": "6M8 English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 12.88,
     "end": 15.519,
-    "text": "Hello, and welcome to 6 Minute English. I'm Neil.",
+    "text": "Hello, and welcome to 6 Minute English. I'm Neil",
     "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 15.519,
     "end": 16.399,
     "text": "And I'm Sam.",
-    "speaker": "Sam"
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 16.399,
     "end": 19.679,
-    "text": "In this programme we'll be talking about the emotion of shame. What can you tell us about this word, Sam?",
+    "text": "In this programme we'll be talking about the emotion of shame.",
     "speaker": "shame"
   },
   {
+    "order": 6,
     "start": 19.679,
     "end": 22.64,
     "text": "What can you tell us about this word, Sam?",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 22.64,
     "end": 25.28,
     "text": "Well, it can be a verb or a noun.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 25.28,
     "end": 29.28,
     "text": "As a noun, it's an emotion for the uncomfortable feeling we have",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 29.28,
     "end": 33.2,
     "text": "when we feel embarrassed or guilty about something that we've done.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 33.2,
     "end": 35.12,
     "text": "It's a very strong feeling.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 35.12,
     "end": 39.12,
-    "text": "We'll explore this topic in more detail shortly, but first a question.",
-    "speaker": null
+    "text": "We’ll explore this topic in more detail shortly, but first a question.",
+    "speaker": "Neil"
   },
   {
+    "order": 12,
     "start": 39.12,
     "end": 41.76,
     "text": "Now, it might seem like a random question,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 41.76,
     "end": 44.96,
     "text": "but all will become clear later, I promise.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 44.96,
     "end": 49.6,
     "text": "The chemical which is used to make cooking pans non-stick was discovered by accident.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 50.4,
     "end": 51.52,
     "text": "When was this?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 51.52,
     "end": 57.04,
     "text": "Was it A, the 1930s, B, the 1960s, or C, the 1980s?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 57.04,
     "end": 58,
-    "text": "What do you think, Sam?",
+    "text": " What do you think, Sam",
     "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 58.88,
     "end": 65.359,
     "text": "Ah, well, first I have no idea what non-stick cookware has to do with our topic of shame,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 65.359,
     "end": 72.48,
     "text": "but as to the question itself, I think it has something to do with NASA and the space programme.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 20,
     "start": 72.48,
     "end": 74.96,
     "text": "So I'm going to say 1960s.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 74.96,
     "end": 77.92,
     "text": "Well, we will find out later in the programme if you are right.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 79.039,
     "end": 82.24,
     "text": "The idea of shame is not new by any means,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 82.24,
     "end": 86.159,
     "text": "but social media has made it a very modern concept, hasn't it?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 86.159,
     "end": 89.92,
-    "text": "Yes. When it's used as a verb to shame someone,",
-    "speaker": null
+    "text": "Yes, when it’s used as a verb, to shame someone",
+    "speaker": "shame"
   },
   {
+    "order": 25,
     "start": 89.92,
     "end": 93.28,
     "text": "it means to say or write things in public,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 93.28,
     "end": 97.12,
     "text": "designed to make other people feel bad about their behaviour,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 97.12,
     "end": 100.399,
     "text": "and this is something we see a lot in social media.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 100.399,
     "end": 105.519,
     "text": "This topic was discussed on a recent edition of the BBC Radio programme Woman's Hour.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 105.519,
     "end": 109.439,
     "text": "One of the guests was Heter Howes from City University London.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 109.439,
     "end": 112.319,
     "text": "Does she think that shame is always a bad thing?",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 112.399,
     "end": 118.879,
-    "text": "If you have too much shame, it's crippling, it's sort of debilitating and that's bad,",
-    "speaker": null
+    "text": "If you have too much shame it’s crippling, it's sort of debilitating and that’s bad, ",
+    "speaker": "shamecripplingdebilitatingshameeffectsshameeffect"
   },
   {
+    "order": 32,
     "start": 118.879,
     "end": 122.959,
     "text": "but the right amount of shame can be really positive because it affects change.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 122.959,
     "end": 126.639,
     "text": "And I wonder if we're starting to see that a bit in modern culture as well",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 126.639,
     "end": 131.439,
     "text": "from social media platforms, that if someone's done something that we consider to be",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 131.439,
     "end": 136.4,
     "text": "a little bit wrong, we can sort of publicly shame them and maybe affect some positive change.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 138.56,
     "end": 140.479,
     "text": "So is shame always bad?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 141.359,
-    "end": 146.879,
-    "text": "Well, she does say that too much shame can be crippling and debilitating.",
     "speaker": null
   },
   {
+    "order": 37,
+    "start": 141.359,
+    "end": 146.879,
+    "text": "Well, she does say that too much shame can be crippling and debilitating.",
+    "speaker": "cripplingdebilitatingshameeffectschange"
+  },
+  {
+    "order": 38,
     "start": 147.519,
     "end": 153.439,
     "text": "Both these words mean that shame is so strong that we really can't manage the emotion.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 153.439,
     "end": 156.879,
     "text": "We can't deal with it, we can't do anything to put it right.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 157.519,
     "end": 163.12,
     "text": "But she does say that a bit of shame can be positive because it affects change.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 163.839,
     "end": 166.159,
     "text": "This means that it causes change.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 166.479,
     "end": 172.719,
     "text": "If someone is shamed on social media, it's very public and can mean that they change their behaviour.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 173.52,
     "end": 177.599,
-    "text": "I suppose though there is one group  I think have to accept public shaming, and perhaps deserve it more than others.",
-    "speaker": "Neil"
+    "text": "I suppose though there is one group I think have to accept public shaming,",
+    "speaker": null
   },
   {
+    "order": 44,
     "start": 177.599,
     "end": 179.519,
     "text": "or perhaps deserve it more than others.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 180.4,
     "end": 184.319,
-    "text": "I think I can guess, would it be politicians perhaps?",
-    "speaker": null
+    "text": "I think I can guess. Would it be politicians, perhaps",
+    "speaker": "Sam"
   },
   {
+    "order": 46,
     "start": 185.039,
     "end": 188.4,
     "text": "These days we are very cynical about politicians, aren't we?",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 189.039,
     "end": 194.8,
     "text": "Social media is one area where the public can directly contact and comment on",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 194.8,
     "end": 198.16,
     "text": "what their representatives are or aren't doing.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 198.16,
     "end": 201.6,
     "text": "But politicians are a particular kind of person aren't they?",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 201.6,
     "end": 206.32,
     "text": "Contrary to historian Tiffany Wattsmith made this comment on the same woman's hour program.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 208.08,
     "end": 212.56,
     "text": "Shame is I can't be very very useful and the idea of someone who doesn't experience it at all,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 212.56,
     "end": 217.6,
     "text": "like a sort of teflon coated politician. I mean that's a kind of frightening image.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 219.92,
     "end": 221.36,
-    "text": "What’s she saying here, Sam?",
-    "speaker": "Neil"
+    "text": "What's she saying here Sam?",
+    "speaker": "Teflon-coated"
   },
   {
+    "order": 54,
     "start": 221.92,
     "end": 226.4,
     "text": "She's talking about how some politicians do not seem to be bothered by shaming.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 226.96,
     "end": 232.08,
     "text": "They just ignore it and move on. She describes them as teflon coated.",
-    "speaker": null
+    "speaker": "Teflon coatedcoated"
   },
   {
+    "order": 56,
     "start": 232.64,
     "end": 236.16,
     "text": "This is a ha, a reference to nonstick cookware.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 236.88,
     "end": 241.76,
     "text": "Teflon is the brand name of the chemical which was used to make pots and pans nonstick.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 242.48,
     "end": 245.92,
     "text": "The pans were coated or covered in this material.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 246.479,
     "end": 252.479,
     "text": "The reference to politicians is that there are some to whom criticism and shame just don't stick.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 253.119,
     "end": 256.639,
     "text": "They manage to avoid any negative consequences of their actions.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 257.279,
     "end": 259.759,
     "text": "And this she says is scary.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 260.319,
     "end": 262,
-    "text": "Here’s Tiffany Watt-Smith again.",
-    "speaker": "Neil"
+    "text": "Here's Tiffany Wattsmith again.",
+    "speaker": null
   },
   {
+    "order": 63,
     "start": 263.759,
     "end": 268.24,
     "text": "Shame is I can't be very very useful and the idea of someone who doesn't experience it at all,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 268.24,
     "end": 273.279,
     "text": "like a sort of teflon coated politician. I mean that's that's a kind of frightening image.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 274.079,
     "end": 280.959,
     "text": "It's nearly time now to review however vocabulary, but first let's have the answer to the quiz question",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 280.959,
     "end": 286.799,
     "text": "which was about nonstick coating on cookware or teflon as we heard. When was it invented?",
-    "speaker": null
+    "speaker": "Teflon-coated"
   },
   {
+    "order": 67,
     "start": 287.439,
     "end": 293.759,
     "text": "A. The 1930s, B. The 1960s or C. The 1980s. What did you think Sam?",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 294.559,
     "end": 300.399,
     "text": "I guess the 1960s and I think it was invented as part of the US space program.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 300.399,
     "end": 304.639,
     "text": "Well a lot of people think that and like you, a lot of people are wrong.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 70,
     "start": 304.639,
     "end": 310,
     "text": "It was actually discovered by accident in 1938 so well done if you got that right,",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 310,
     "end": 314.159,
     "text": "but no shame if you didn't. Now on with today's words.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 314.159,
     "end": 320.159,
     "text": "Okay, yes. We were talking about shame, an uncomfortable feeling of guilt and embarrassment",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 320.159,
     "end": 325.919,
     "text": "at something we've done. Shame can be crippling and debilitating. Both these adjectives",
-    "speaker": null
+    "speaker": "shame"
   },
   {
+    "order": 74,
     "start": 326,
     "end": 331.92,
     "text": "mean making someone unable to deal with the situation. They can feel so badly about what they've",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 331.92,
     "end": 338.879,
     "text": "done that they find it difficult to move forward emotionally. We then had to affect change.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 338.879,
     "end": 346.8,
     "text": "This means to make change happen. Note this is effect with an E and not effect with an A.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 347.52,
     "end": 354,
     "text": "Teflon is a nonstick covering for cookware. And something that is coated with something is",
-    "speaker": null
+    "speaker": "Teflon"
   },
   {
+    "order": 78,
     "start": 354,
     "end": 358.319,
     "text": "covered with something. So Teflon Cosaid means covered in Teflon.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 358.319,
     "end": 362.8,
     "text": "Well that's all for this program. We'll be with you again soon, but if you can't wait,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 362.8,
     "end": 367.36,
     "text": "you can find us in all the usual places on social media, online and on our app.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 81,
     "start": 367.36,
     "end": 370.56,
     "text": "Just search for BBC Learning English. Goodbye. Bye.",

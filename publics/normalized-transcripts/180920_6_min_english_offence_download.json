@@ -1,800 +1,933 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.279,
     "text": "6-Nate English.",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.279,
     "end": 10.72,
     "text": "From BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.48,
     "end": 15.96,
     "text": "Hello. Welcome to 6 Minute English, I'm Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 15.96,
     "end": 17.679,
-    "text": "And I'm Rob.",
-    "speaker": "Rob"
+    "text": "And I'm Rob. Rob.",
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 17.679,
     "end": 20.16,
     "text": "Would you say that you were a snowflake?",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 20.16,
     "end": 22.4,
     "text": "Wow. I can't believe you said that.",
-    "speaker": null
+    "speaker": "snowflake"
   },
   {
+    "order": 8,
     "start": 22.4,
     "end": 24.12,
     "text": "That's so offensive.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 24.12,
     "end": 26,
     "text": "How could you be so rude?",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 26,
     "end": 28.32,
     "text": "So, I guess that's it. Yes, then.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 28.32,
     "end": 30.08,
     "text": "Sorry, I only asked.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 12,
     "start": 30.08,
     "end": 32.119,
     "text": "Don't worry, I wasn't really upset.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 32.119,
     "end": 35.2,
     "text": "I just wanted to demonstrate the meaning of the word.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 35.2,
     "end": 38.799,
     "text": "The word snowflake has taken on a new meaning in recent years.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 38.799,
     "end": 41.32,
     "text": "These days, it's used as an insult.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 41.32,
     "end": 44,
     "text": "It's used to criticise people or groups",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 44,
     "end": 46.56,
     "text": "that are seen to be very easily offended",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 46.56,
     "end": 48.64,
     "text": "or upset by things that others say.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 48.64,
     "end": 52,
-    "text": "There is usually a political side to it too, isn't there?",
+    "text": "There is usually a political side to it too, isn't there? ",
     "speaker": "Neil"
   },
   {
+    "order": 20,
     "start": 52,
     "end": 54.719,
     "text": "Yes, people who use the word snowflake",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 54.719,
     "end": 57.039,
     "text": "tend to be from the political right",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 57.079,
     "end": 60.519,
     "text": "and they usually use it about those on the political left,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 60.519,
     "end": 64.239,
     "text": "particularly millennials, young, socially aware adults.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 64.239,
     "end": 66.879,
-    "text": "Well, we'll explore this topic in more detail shortly,",
-    "speaker": null
+    "text": "Well we'll explore this topic in more detail shortly, ",
+    "speaker": "snowflake"
   },
   {
+    "order": 25,
     "start": 66.879,
     "end": 69.12,
     "text": "but first, a quiz question,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 69.12,
     "end": 71.079,
     "text": "in which year was snowflake",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 27,
     "start": 71.079,
     "end": 74.12,
     "text": "one of Colin's dictionaries words of the year?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 74.12,
     "end": 81.079,
     "text": "Was it a 1996, B, 2006, or C, 2016?",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 81.079,
     "end": 82.84,
-    "text": "Well, we said it's quite a recent word so I'm going for c) 2016.",
-    "speaker": "Rob"
+    "text": "Well, we said it's quite a recent word,",
+    "speaker": "snowflake"
   },
   {
+    "order": 30,
     "start": 82.84,
     "end": 85.439,
     "text": "so I'm going for C, 2016.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 85.439,
     "end": 88.599,
     "text": "Well, we'll find out if you're right later on in the programme.",
-    "speaker": null
+    "speaker": "offenceoffence"
   },
   {
+    "order": 32,
     "start": 88.599,
     "end": 91.719,
     "text": "The topic of offence is a very complicated one.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 91.719,
     "end": 94.64,
     "text": "First, what do we mean by offence, Rob?",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 94.64,
     "end": 95.799,
     "text": "Thanks for that.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 95.799,
     "end": 98.2,
     "text": "That is a really difficult question.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 98.2,
     "end": 100.4,
     "text": "Something that is offensive is rude,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 100.4,
     "end": 103.84,
     "text": "insulting and makes people feel hurt and upset.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 103.84,
     "end": 105.719,
     "text": "What's difficult about it, though,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 105.719,
     "end": 109.12,
     "text": "is that we don't all find the same things offensive.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 109.12,
     "end": 110.959,
     "text": "Some people can be deliberately offensive",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 110.959,
     "end": 113.92,
     "text": "and some people may be offensive without meaning to be.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 113.96,
     "end": 117.28,
-    "text": "Also, different people respond to offence in different ways.",
-    "speaker": null
+    "text": "Also, different people respond to offence in different ways ",
+    "speaker": "offenceoffensive"
   },
   {
+    "order": 43,
     "start": 117.28,
     "end": 120,
     "text": "Some accept it as the price of free speech",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 120,
     "end": 123.04,
     "text": "and some try to stop the people they think are offensive",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 123.04,
     "end": 124.84,
     "text": "from saying the things they do.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 124.84,
     "end": 127.439,
     "text": "These terms come up quite a lot in discussions",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 127.439,
     "end": 130.879,
-    "text": "These terms come up quite a lot in discussions about equality, race, religion and of course, politics.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 130.879,
-    "end": 134.24,
-    "text": "The topic was discussed in detail in the BBC Radio programme,",
+    "text": "about equality, race, religion and, of course, politics.",
     "speaker": null
   },
   {
+    "order": 48,
+    "start": 130.879,
+    "end": 134.24,
+    "text": "The topic was discussed in detail in the BBC Radio programme ",
+    "speaker": "Neil"
+  },
+  {
+    "order": 49,
     "start": 134.24,
     "end": 135.52,
     "text": "Sweet Reason.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 135.52,
     "end": 137.24,
     "text": "Evan Davis presented the programme,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 137.24,
     "end": 140.639,
     "text": "and here is the first part of his summary of the discussion.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 140.639,
     "end": 142.36,
     "text": "What does he say is the reason",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 142.4,
     "end": 145.04,
     "text": "that some people talk about offence?",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 145.04,
     "end": 148.88,
     "text": "First, on occasion, people probably do invoke offence,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 148.88,
     "end": 151.2,
     "text": "when really they just have a political disagreement,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 151.2,
     "end": 153.52,
     "text": "and on occasion, groups that suffer discrimination",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 153.52,
     "end": 156.36,
     "text": "or exclusion, perhaps find it exhilarating",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 156.36,
     "end": 160.92,
     "text": "or uniting to call out that discrimination.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 160.92,
     "end": 163.32,
     "text": "He says that some people take offence",
-    "speaker": null
+    "speaker": "invoke"
   },
   {
+    "order": 60,
     "start": 163.32,
     "end": 165.4,
     "text": "when it's just a political disagreement.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 165.4,
     "end": 167.2,
     "text": "He says they invoke offence.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 167.2,
     "end": 170.4,
     "text": "If you invoke something, it means that you use it",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 170.4,
     "end": 173.28,
     "text": "to support your point or explain your action.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 173.28,
     "end": 177.319,
     "text": "So to invoke offence is to say that we are acting this way",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 177.319,
     "end": 180.04,
     "text": "because we are offended by what you've said.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 180.04,
     "end": 182.8,
     "text": "Although the offence may only be a political difference",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 182.8,
     "end": 185.159,
     "text": "rather than something truly offensive.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 185.159,
     "end": 188,
     "text": "Davis goes on to say that groups that do suffer",
-    "speaker": null
+    "speaker": "call outoffended"
   },
   {
+    "order": 69,
     "start": 188,
     "end": 191.4,
     "text": "from discrimination may get some feelings of unity",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 191.4,
     "end": 193.8,
     "text": "when they call out discrimination.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 193.8,
     "end": 196.08,
     "text": "They feel more together when they publicise",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 196.08,
     "end": 199.24,
     "text": "and highlight the discrimination they've experienced.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 199.28,
     "end": 202.28,
     "text": "Even though some offence that is taken may not be genuine,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 202.28,
     "end": 205.28,
     "text": "that doesn't mean people don't have a right to be offended.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 205.28,
     "end": 207.08,
     "text": "He's Evan Davis again.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 207.08,
     "end": 210.719,
     "text": "Where the so-called snowflakes surely have a point is this.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 210.719,
     "end": 214.76,
     "text": "Societies are entitled to make certain things taboo,",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 214.76,
     "end": 216.8,
     "text": "and the millennial's use of the word offensive",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 216.8,
     "end": 219.439,
     "text": "is simply designed to say some views are not just wrong,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 219.439,
     "end": 222.24,
     "text": "they're in a special category wrong.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 222.24,
     "end": 225.52,
     "text": "His point here is that societies can decide",
-    "speaker": null
+    "speaker": "tabootaboooffensiveoffended"
   },
   {
+    "order": 82,
     "start": 225.52,
     "end": 227.719,
     "text": "that certain things are taboo.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 227.719,
     "end": 229.919,
     "text": "In this context, something that is taboo",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 229.919,
     "end": 232.159,
     "text": "is something that is regarded by society",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 232.159,
     "end": 234.52,
     "text": "as being shocking and offensive,",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 234.52,
     "end": 237.719,
     "text": "and that it's okay for people to be offended by these things.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 237.719,
     "end": 240,
     "text": "And I think the point he makes is a good one.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 240,
     "end": 243.36,
     "text": "The word snowflake is usually used as an insult,",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 243.36,
     "end": 246.079,
     "text": "but some people may feel proud to be a snowflake",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 246.079,
     "end": 249.719,
     "text": "because it means they're standing up for a particular standard.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 249.719,
     "end": 252.96,
     "text": "They have a level of decency and social responsibility",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 252.96,
     "end": 257.12,
     "text": "that is higher than that of those who are calling them snowflakes.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 257.12,
     "end": 260.399,
     "text": "Well, I hope we haven't caused any offense today.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 260.399,
     "end": 261.959,
     "text": "Before we review the vocabulary,",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 261.959,
     "end": 264.72,
     "text": "can we have the answer to today's question, Neil?",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 264.72,
     "end": 265.72,
     "text": "Of course.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 97,
     "start": 265.72,
     "end": 268.199,
     "text": "I asked in which year was snowflake",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 268.199,
     "end": 270.72,
     "text": "one of Colin's dictionaries words of the year?",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 270.72,
     "end": 275.72,
     "text": "Was it A, 1996, B, 2006 or C, 2016?",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 275.72,
     "end": 278.879,
     "text": "And I said C, 2016 is gotta be right.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 278.879,
     "end": 280.439,
     "text": "Well, do you wanna hear the story?",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 280.439,
     "end": 285.519,
     "text": "Interestingly, the term was coined in 1996 in the book Fight Club,",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 103,
     "start": 285.519,
     "end": 290.199,
     "text": "but it was in 2016 that it was one of the dictionaries words of the year.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 290.199,
     "end": 292.839,
     "text": "Now, let's review our words of the day.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 292.839,
     "end": 294.439,
     "text": "First, there is offense.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 294.439,
     "end": 299.359,
     "text": "People can take offense and be offended by something that is offensive,",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 299.359,
     "end": 303.479,
-    "text": "something that is offensive could be rude, insulting and shocking.",
-    "speaker": null
+    "text": " Something that is offensive could be rude, insulting and shocking",
+    "speaker": "takeoffence offended by offensiveoffensive"
   },
   {
+    "order": 108,
     "start": 303.479,
     "end": 308.479,
     "text": "It might take the form of humiliation or discrimination against a person or group.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 308.479,
     "end": 311.199,
     "text": "The term snowflake is a word used by some people",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 311.199,
     "end": 315,
     "text": "to talk about other people who they think get offended too easily",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 315,
     "end": 316.639,
     "text": "and unnecessarily.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 316.639,
     "end": 321.8,
     "text": "They don't want to change their language or ideas just because snowflakes get upset.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 321.8,
     "end": 323.759,
     "text": "Then we had the word invoke.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 323.759,
     "end": 329.199,
     "text": "If you invoke something, you use it as a reason to explain your actions and feelings.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 329.199,
     "end": 334.48,
     "text": "To call something out is to challenge it, to highlight it and look for justification.",
     "speaker": "call something out"
   },
   {
+    "order": 116,
     "start": 334.48,
     "end": 336.279,
     "text": "And finally, we have taboo.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 336.279,
     "end": 339.56,
     "text": "Something that society says is offensive and shocking.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 339.56,
     "end": 340.519,
     "text": "So there we have it.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 340.519,
     "end": 342.72,
     "text": "What do you think Rob of this topic?",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 342.72,
     "end": 345.08,
     "text": "Well, it's a very difficult subject,",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 345.08,
     "end": 348.88,
     "text": "particularly when it comes to politics, religion and society.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 348.88,
     "end": 352.6,
     "text": "Free speech is good, but at times, particularly on social media,",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 352.6,
     "end": 355.6,
     "text": "I think can be unnecessarily unpleasant.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 355.6,
     "end": 360.16,
     "text": "Well, try not to be offended, but it is time for us to leave you for this program.",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 360.16,
     "end": 361.56,
     "text": "Do join us next time.",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 361.56,
     "end": 364.96,
     "text": "Remember you can find us on Instagram, Facebook, Twitter, YouTube,",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 364.96,
     "end": 367.84,
     "text": "and of course, our website, BBCLearningEnglish.com.",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 367.84,
     "end": 371.96,
     "text": "And of course, we have a new app which you can find on our website.",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 372,
     "end": 374,
     "text": "It's free and it's brilliant, isn't it Rob?",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 374,
     "end": 375.159,
     "text": "Absolutely!",
     "speaker": "Rob"
   },
   {
+    "order": 131,
     "start": 375.159,
     "end": 376.439,
     "text": "See you soon, bye.",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 132,
     "start": 376.439,
     "end": 377.439,
-    "text": "Bye!",
-    "speaker": "Rob"
+    "text": "Bye-bye.",
+    "speaker": null
   }
 ]

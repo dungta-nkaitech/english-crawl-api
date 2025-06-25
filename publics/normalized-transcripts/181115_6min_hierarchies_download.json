@@ -1,629 +1,734 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6-Mate English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.64,
     "text": "From BBC Learning English",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.04,
     "end": 15.759,
     "text": "Hello and welcome to 6 Minute English, I'm Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 15.759,
     "end": 16.96,
     "text": "And I'm Catherine.",
-    "speaker": "Catherine"
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 16.96,
     "end": 22.64,
     "text": "Catherine, what's the connection between hierarchies, managers and chickens?",
     "speaker": "hierarchies"
   },
   {
+    "order": 7,
     "start": 22.64,
     "end": 25.44,
-    "text": "Well, I don't know Neil, but I'm, sure you're going to tell me.",
-    "speaker": "Catherine"
+    "text": "Well, I don't know Neil but I'm sure you're going to tell me.",
+    "speaker": null
   },
   {
+    "order": 8,
     "start": 25.44,
     "end": 29.12,
     "text": "First of all, could you explain for our listeners what a hierarchy is?",
     "speaker": "hierarchy"
   },
   {
+    "order": 9,
     "start": 29.12,
     "end": 33.2,
     "text": "Of course, a hierarchy is a way of organising people.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 33.2,
     "end": 37.52,
     "text": "For example, in a company where there are people working at different levels,",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 37.52,
     "end": 40.799,
     "text": "you've got bosses, managers and workers.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 40.799,
     "end": 46.56,
     "text": "The workers do the work and the managers have meetings that stop the workers doing the work.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 46.56,
     "end": 48.64,
     "text": "But where do the chickens come in?",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 14,
     "start": 48.64,
     "end": 51.92,
     "text": "We'll find out shortly but first here is today's question.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 51.92,
     "end": 54.48,
     "text": "And it is, surprise, surprise about chickens.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 54.559,
     "end": 59.759,
     "text": "What is the record number of eggs laid by one chicken in a year?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 59.759,
     "end": 67.84,
     "text": "Is it A253, B371 or C426?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 67.84,
     "end": 69.039,
     "text": "Which think Catherine?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 69.039,
     "end": 75.039,
-    "text": "Well, I think most chickens lay an egg once a day, so I think it's 371.",
-    "speaker": "Catherine"
+    "text": " Well, I think most chickens lay an egg once a day, so I think it's 371",
+    "speaker": "Neil"
   },
   {
+    "order": 20,
     "start": 75.039,
     "end": 77.599,
     "text": "Well, we will have an answer later in the programme.",
-    "speaker": null
+    "speaker": "hierarchiesflock."
   },
   {
+    "order": 21,
     "start": 77.599,
     "end": 80.239,
     "text": "Now, for hierarchies and chickens.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 80.559,
     "end": 85.599,
     "text": "In the radio programme, the Joy of 9-5, produced by something else for the BBC,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 85.599,
     "end": 89.119,
     "text": "entrepreneur Margaret Heffanon describes an experiment.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 89.119,
     "end": 94.079,
     "text": "In this experiment, researchers compared the egg production of a group of average chickens",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 94.079,
     "end": 96.159,
     "text": "to a group of super chickens.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 96.159,
     "end": 99.119,
     "text": "That's chickens with an above average egg production.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 99.84,
     "end": 102,
     "text": "Which was the most successful?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 102,
     "end": 107.039,
     "text": "Here's Margaret Heffanon and, by the way, the noun for a group of chickens is a flock.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 107.12,
     "end": 110.32,
     "text": "He compares the two flocks over six generations.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 110.32,
     "end": 113.36,
     "text": "The average flock just gets better and better and better.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 113.36,
     "end": 115.84,
     "text": "Egg production increases dramatically.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 115.84,
     "end": 119.92,
     "text": "The super flock of super chickens at the end of six generations,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 119.92,
     "end": 123.92,
     "text": "all but three are dead because the other three have killed the rest.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 123.92,
     "end": 131.439,
     "text": "They've achieved their individual productivity by suppressing the productivity of the rest.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 131.439,
     "end": 133.28,
     "text": "And that's what we do at work.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 134.24,
     "end": 135.92,
     "text": "Which flock was most successful?",
     "speaker": "flock"
   },
   {
+    "order": 37,
     "start": 136.639,
     "end": 140.159,
     "text": "Well, the super flock actually killed each other,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 140.159,
     "end": 146.159,
-    "text": "Well, the super-flock actually killed each other, so it turned out that the average flock laid more eggs in total and was more successful.",
-    "speaker": "Catherine"
+    "text": "so it turned out that the average flock laid more eggs in total and was more successful.",
+    "speaker": null
   },
   {
+    "order": 39,
     "start": 146.159,
     "end": 147.759,
     "text": "Yes, but why was that?",
     "speaker": "Neil"
   },
   {
+    "order": 40,
     "start": 147.759,
     "end": 151.679,
     "text": "Well, the super chickens must have seen their other flock members,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 151.679,
     "end": 154.719,
     "text": "not as colleagues, but as competitors.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 155.439,
     "end": 159.519,
     "text": "Now, to understand this, we have to start with the word productivity.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 159.519,
     "end": 162.799,
     "text": "This noun refers to the amount of work that's done.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 162.88,
     "end": 167.6,
     "text": "So, on an individual level, the super chickens achieved productivity",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 167.6,
     "end": 170.88,
     "text": "because they suppressed the productivity of their flock members.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 171.52,
     "end": 177.04,
     "text": "Suppressed here means they stopped the other chickens from being productive by killing them.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 177.04,
     "end": 179.52,
     "text": "So, what do we learn from this experiment?",
     "speaker": "Neil"
   },
   {
+    "order": 48,
     "start": 179.52,
     "end": 185.84,
     "text": "Well, Margaret Heffanon suggests that we see this kind of behaviour in the human workplace.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 186.64,
     "end": 189.84,
     "text": "When everyone's equal, productivity is high,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 189.84,
     "end": 194.08,
     "text": "but as soon as there's a hierarchy, as soon as there are managers,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 194.08,
     "end": 200.56,
     "text": "things can go wrong because not all managers see their role as making life easier for the workers.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 200.56,
     "end": 206.879,
     "text": "They demonstrate their productivity as managers by interfering with the productivity of the workers.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 206.879,
     "end": 211.759,
-    "text": "But there are other experiments which show that chickens are productive in a hierarchy. How are those hierarchies different though? Here's Margaret Heffernan again.",
+    "text": "But there are other experiments which show that chickens are productive in a hierarchy.",
     "speaker": "productivehierarchyhierarchies"
   },
   {
+    "order": 54,
     "start": 211.759,
     "end": 214.319,
     "text": "How are those hierarchies different, though?",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 214.4,
     "end": 216.079,
     "text": "Here's Margaret Heffanon again.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 216.079,
     "end": 221.199,
     "text": "So, chickens have an inbuilt or, if you like, an inherited hierarchy.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 221.199,
     "end": 225.28,
     "text": "That's where we get the term pecking order from,",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 225.28,
     "end": 228.479,
     "text": "but it's one that they create among themselves,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 229.28,
     "end": 231.199,
     "text": "rather than one that's imposed upon them.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 231.84,
     "end": 234.639,
     "text": "So, which hierarchy works, at least for chickens?",
     "speaker": "Neil"
   },
   {
+    "order": 61,
     "start": 235.28,
     "end": 239.199,
     "text": "Well, the best hierarchy is one that isn't imposed.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 239.199,
     "end": 242.799,
     "text": "That means a good hierarchy isn't forced on the chickens.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 242.8,
     "end": 246.96,
     "text": "They do well when they create the hierarchy themselves, naturally.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 246.96,
     "end": 249.2,
     "text": "They work out the pecking order themselves.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 249.2,
     "end": 251.6,
     "text": "Ah, pecking order is a great phrase.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 251.6,
     "end": 255.36,
-    "text": "We use it to describe levels of importance in an organisation.",
-    "speaker": null
+    "text": " We use it to describe levels of importance in an organisation",
+    "speaker": "Pecking order pecking order"
   },
   {
+    "order": 67,
     "start": 255.36,
     "end": 258.56,
     "text": "The more important you are, the higher in the pecking order you are.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 259.12,
     "end": 260.8,
     "text": "Where does this phrase originate?",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 260.8,
     "end": 264.4,
     "text": "Well, pecking describes what chickens do with their beaks.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 264.4,
     "end": 267.04,
     "text": "They hit or bite other chickens with them,",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 267.04,
     "end": 271.6,
     "text": "and the most important or dominant chickens pack all the others.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 271.6,
     "end": 275.12,
     "text": "The top chicken does all the pecking, middle-level chickens get pecked",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 275.12,
     "end": 277.12,
     "text": "and do some pecking themselves,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 277.12,
     "end": 281.36,
     "text": "and some chickens are only pecked by other chickens.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 281.36,
     "end": 284.96,
     "text": "So, there's a definite pecking order in chickens.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 284.96,
     "end": 287.12,
     "text": "Right, time to review this week's vocabulary,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 77,
     "start": 287.12,
     "end": 290,
     "text": "but before that, let's have the answer to the quiz.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 290,
     "end": 294.56,
     "text": "I asked what the record number of eggs laid by a single chicken in a year was.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 295.04,
     "end": 299.6,
     "text": "The options were A, 253, B, 371,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 299.6,
     "end": 302.879,
-    "text": "What did you say, Catherine?",
-    "speaker": "Neil"
+    "text": "or C, 426. What did you say, Catherine?",
+    "speaker": null
   },
   {
+    "order": 81,
     "start": 302.879,
     "end": 304.64,
     "text": "I said 371.",
-    "speaker": "Catherine"
+    "speaker": "Neil"
   },
   {
+    "order": 82,
     "start": 304.64,
     "end": 308.48,
     "text": "Well, lucky you. You're definitely the top of the pecking order, honey.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 308.48,
     "end": 310.16,
     "text": "Because you are right.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 84,
     "start": 310.16,
     "end": 311.6,
-    "text": "That's a lot of eggs!",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 311.6,
-    "end": 316.32,
-    "text": "Indeed. Now, the vocabulary, we are talking about hierarchies.",
+    "text": "That's a lot of eggs.",
     "speaker": null
   },
   {
-    "start": 316.32,
-    "end": 320.64,
-    "text": "Indeed. Now, the vocabulary. We are talking about hierarchies - a way to organise a society or workplace with different levels of importance.",
+    "order": 85,
+    "start": 311.6,
+    "end": 316.32,
+    "text": "Indeed. Now, the vocabulary. We are talking about hierarchies ",
     "speaker": "hierarchies"
   },
   {
+    "order": 86,
+    "start": 316.32,
+    "end": 320.64,
+    "text": "A way to organise a society or workplace with different levels of importance.",
+    "speaker": null
+  },
+  {
+    "order": 87,
     "start": 320.64,
     "end": 323.76,
     "text": "An expression with a similar meaning is pecking order,",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 323.76,
     "end": 329.04,
-    "text": "An expression with a similar meaning is pecking order, which relates to how important someone, or a chicken, is, within a hierarchy.",
-    "speaker": "pecking orderhierarchy"
-  },
-  {
-    "start": 329.04,
-    "end": 331.04,
-    "text": "A group of chickens is a flock.",
+    "text": "which relates to how important someone or a chicken is within a hierarchy.",
     "speaker": null
   },
   {
-    "start": 331.04,
-    "end": 335.439,
-    "text": "A group of chickens is a flock. It's also the general collective noun for birds as well, not just chickens.",
+    "order": 89,
+    "start": 329.04,
+    "end": 331.04,
+    "text": "A group of chickens is a flock.",
     "speaker": "a flock"
   },
   {
+    "order": 90,
+    "start": 331.04,
+    "end": 335.439,
+    "text": "It's also the general collective noun for birds as well, not just chickens.",
+    "speaker": null
+  },
+  {
+    "order": 91,
     "start": 335.439,
     "end": 338.24,
     "text": "Another of our words was the noun productivity,",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 338.24,
     "end": 341.12,
-    "text": "Another of our words was the noun productivity, which refers to the amount of work that is done.",
-    "speaker": "productivity"
-  },
-  {
-    "start": 341.12,
-    "end": 343.36,
-    "text": "And if you suppress someone's productivity,",
+    "text": "which refers to the amount of work that is done.",
     "speaker": null
   },
   {
-    "start": 343.36,
-    "end": 346.8,
-    "text": "And if you suppress someone's productivity, you stop them from being as productive as they could be.",
+    "order": 93,
+    "start": 341.12,
+    "end": 343.36,
+    "text": "And if you suppress someone's productivity,",
     "speaker": "suppressproductivity, productive"
   },
   {
+    "order": 94,
+    "start": 343.36,
+    "end": 346.8,
+    "text": "you stop them from being as productive as they could be.",
+    "speaker": null
+  },
+  {
+    "order": 95,
     "start": 346.8,
     "end": 349.84,
     "text": "And finally, there was a verb to impose.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 349.84,
     "end": 353.12,
     "text": "If you impose something, you force it on people.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 353.12,
     "end": 357.52,
     "text": "For example, the government imposed new taxes on fuel.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 357.599,
     "end": 359.759,
     "text": "Well, that is the end of the program.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 99,
     "start": 359.759,
     "end": 363.439,
     "text": "For more from us, though, check out Instagram, Facebook, Twitter, YouTube,",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 363.439,
     "end": 365.12,
     "text": "and of course, our app.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 365.12,
     "end": 366.399,
     "text": "Don't forget the website as well,",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 366.399,
     "end": 369.599,
     "text": "BBCLearningEnglish.com. See you soon. Bye.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 369.599,
     "end": 371.12,
-    "text": "Bye!",
-    "speaker": "Catherine"
+    "text": "Bye.",
+    "speaker": null
   },
   {
+    "order": 104,
     "start": 371.12,
     "end": 375.759,
     "text": "Six-naked English from BBCLearningEnglish.com.",

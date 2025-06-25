@@ -1,809 +1,944 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.679,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7.839,
     "end": 11.519,
     "text": "Hello, this is 6-minute English from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 11.519,
     "end": 13.72,
     "text": "I'm Georgie and I'm Beth.",
-    "speaker": null
+    "speaker": "Georgie"
   },
   {
+    "order": 3,
     "start": 13.72,
     "end": 17.16,
     "text": "Georgie, what do apples, carrots and celery",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 17.16,
     "end": 19.6,
     "text": "have in common with insects like beetles,",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 19.6,
     "end": 21.4,
     "text": "crickets and grasshoppers?",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 21.4,
     "end": 22.679,
-    "text": "That's a tough one, Beth.",
-    "speaker": null
-  },
-  {
-    "start": 22.679,
-    "end": 26.08,
-    "text": "Hmm, that's a tough one, Beth. I'm going to say I can fit them all in my backpack.",
+    "text": " that's a tough one, Beth",
     "speaker": "Georgie"
   },
   {
-    "start": 26.08,
-    "end": 27.56,
-    "text": "OK.",
+    "order": 7,
+    "start": 22.679,
+    "end": 26.08,
+    "text": "I'm going to say, I can fit them all in my backpack.",
     "speaker": null
   },
   {
+    "order": 8,
+    "start": 26.08,
+    "end": 27.56,
+    "text": "OK.",
+    "speaker": "Georgie"
+  },
+  {
+    "order": 9,
     "start": 27.559,
     "end": 29.239,
     "text": "Well, the answer is actually,",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 29.239,
     "end": 32.56,
     "text": "that all examples of foods that crunch.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 32.56,
     "end": 35.2,
     "text": "There's something very satisfying about the crunch",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 35.2,
     "end": 37.239,
     "text": "when you bite into a fresh apple,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 37.239,
     "end": 40.879,
     "text": "a stick of celery or even a roasted beetle.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 40.879,
     "end": 42.6,
     "text": "Yes, that's right.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 42.6,
     "end": 43.959,
     "text": "In some parts of the world,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 43.959,
     "end": 46.48,
     "text": "edible insects are crunched too.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 46.48,
     "end": 48.2,
     "text": "Scientists, Danielle Reid,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 48.2,
     "end": 50.759,
     "text": "has been exploring our love of crunchy food",
-    "speaker": null
+    "speaker": "Georgie"
   },
   {
+    "order": 19,
     "start": 50.759,
     "end": 54.039,
     "text": "for BBC World Service programme, the Food Chain.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 54.039,
     "end": 56.2,
     "text": "A crunch of a fresh apple",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 56.2,
     "end": 59.16,
     "text": "is nothing better in the world, honestly, to me.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 59.16,
     "end": 62.24,
     "text": "I grew up as a small child in an apple orchard",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 62.24,
     "end": 65.079,
     "text": "and so we could pick them fresh off the tree.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 65.079,
     "end": 67.719,
     "text": "And so I have a very nuanced understanding",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 67.719,
     "end": 70.04,
     "text": "of the different crunches of apples",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 70.04,
     "end": 72.52,
     "text": "and the different types of apples and so, yes,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 72.52,
     "end": 76.4,
     "text": "I really find that to be one of life's real true pleasures.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 76.4,
     "end": 79.2,
     "text": "Danielle says there's nothing better in the world",
-    "speaker": null
+    "speaker": "nothing better in the world nothing better in the world"
   },
   {
+    "order": 29,
     "start": 79.2,
     "end": 81.28,
     "text": "than the crunch of a fresh apple.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 81.28,
     "end": 82.52,
     "text": "She uses the phrase,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 82.52,
     "end": 86.12,
     "text": "nothing better in the world to emphasise how much she loves it.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 86.4,
     "end": 88.56,
     "text": "Danielle thinks eating crunchy apples",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 88.56,
     "end": 90.68,
     "text": "is one of life's true pleasures",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 90.68,
     "end": 93.079,
     "text": "and experience she finds enjoyable.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 93.079,
     "end": 96.08,
     "text": "But why are we so attracted to crunchy food?",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 96.08,
     "end": 98.64,
     "text": "That's what we'll be investigating in this programme,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 98.64,
     "end": 100.96,
     "text": "along with some useful new vocabulary,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 100.96,
     "end": 103.08,
     "text": "all of which you can find on our website,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 103.08,
     "end": 105.04,
     "text": "bvclearningenglish.com.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 105.04,
     "end": 107.92,
     "text": "But first, I have a question for you, Georgie.",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 41,
     "start": 107.92,
     "end": 112,
     "text": "Like Danielle, many British people enjoy the crunch of an apple.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 112,
     "end": 115.52,
     "text": "But according to a 2024 UGF study,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 115.519,
     "end": 119.119,
     "text": "which is the most popular type of apple in the UK?",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 119.119,
     "end": 125.079,
     "text": "Is it A, Pink Lady, B, Gala, or C, Red Delicious?",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 125.079,
     "end": 128.919,
-    "text": "I'm going to say a) Pink Lady, because that's my favourite.",
-    "speaker": "Georgie"
+    "text": "I'm going to say A, Pink Lady, because that's my favourite.",
+    "speaker": null
   },
   {
+    "order": 46,
     "start": 128.919,
     "end": 130.639,
     "text": "Ah, and me.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 130.639,
     "end": 134.479,
     "text": "Okay, we'll find out the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 134.479,
     "end": 137.68,
     "text": "As well as the satisfying sound of a loud crunch,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 137.68,
     "end": 141.199,
     "text": "the texture of crunchy food is important too.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 141.199,
     "end": 145.199,
     "text": "It tells our bodies to get ready for the raw and rough fiber needed",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 145.199,
     "end": 148.319,
     "text": "to develop our chewing muscles and teeth.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 148.319,
     "end": 152.079,
     "text": "And there are other ways in which crunchy food keeps us healthy,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 152.079,
     "end": 156.239,
     "text": "as Danielle explains to bvc World Services, the food chain.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 156.239,
     "end": 159.399,
-    "text": "The first bite of crunch is the most essential bite,",
-    "speaker": null
+    "text": "The first bite of crunch is the most essential bite ",
+    "speaker": "a ton ofmushy"
   },
   {
+    "order": 55,
     "start": 159.399,
     "end": 162.319,
     "text": "because really when we put something in our mouth,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 162.319,
     "end": 163.639,
     "text": "we don't think about it this way,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 163.639,
     "end": 166.56,
     "text": "but we have to decide whether we're going to swallow, right?",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 166.56,
     "end": 170.319,
     "text": "So that first bite gives us a ton of information.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 170.319,
     "end": 172.679,
     "text": "I mean, everybody I think has had the experience",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 172.679,
     "end": 174.799,
     "text": "of biting into a mushy apple.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 174.8,
     "end": 177.24,
     "text": "And saying, no, thank you.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 177.24,
     "end": 180.32,
-    "text": "So, the crunch is telling us about the quality of food, specifically the high quality of the food.",
-    "speaker": "Ruth Alexander"
+    "text": "So the crunch is telling us about the quality of food,",
+    "speaker": null
   },
   {
+    "order": 63,
     "start": 180.32,
     "end": 183.2,
     "text": "specifically the high quality of the food.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 183.2,
     "end": 184.64,
-    "text": "Yes, or not.",
-    "speaker": null
+    "text": "Yes. Or not ",
+    "speaker": "Danielle Reed"
   },
   {
+    "order": 65,
     "start": 184.64,
     "end": 188.16,
     "text": "You know, we've also had cases where we've bitten into something",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 188.16,
     "end": 193.08,
     "text": "that has a crunch and found an egg shell in our scrambled eggs.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 193.08,
     "end": 194.439,
     "text": "That's no good.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 194.439,
     "end": 198.12,
     "text": "When we put food in our mouths, we need to know it's safe.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 198.12,
     "end": 201.92,
     "text": "A loud crunch means this food is fresh and okay to eat.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 201.919,
     "end": 204.839,
     "text": "The crunching sound gives us a ton of information,",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 204.839,
     "end": 208.359,
     "text": "meaning a lot of information about the food's freshness.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 208.359,
     "end": 212.079,
     "text": "Nobody likes biting into an apple which is mushy,",
-    "speaker": null
+    "speaker": "mushy"
   },
   {
+    "order": 73,
     "start": 212.079,
     "end": 214,
     "text": "an adjective meaning soft,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 214,
     "end": 217.079,
     "text": "because we understand that that means it's bad to eat.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 217.079,
     "end": 220.319,
     "text": "So crunchy food sounds healthy, feels good,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 220.319,
     "end": 222.959,
     "text": "and tells our body it's safe to eat.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 222.959,
     "end": 226.479,
     "text": "No wonder that when astronauts on the International Space Station",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 226.479,
     "end": 228.56,
     "text": "were asked what they missed most,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 228.56,
     "end": 230.599,
     "text": "crunchy food topped their list.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 230.639,
     "end": 232.84,
     "text": "But apples and carrots are one thing, Beth.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 232.84,
     "end": 235.56,
     "text": "It's something else to crunch down on insects, isn't it?",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 235.56,
     "end": 237.96,
-    "text": "Well, not in some countries, Georgie,",
-    "speaker": null
+    "text": "Well, not in some countries, Georgie ",
+    "speaker": "Beth"
   },
   {
+    "order": 83,
     "start": 237.96,
     "end": 242.079,
     "text": "a zimbabwe for one, where celebrity chef, Delcy Medecua,",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 242.079,
     "end": 244.84,
     "text": "uses the crunchy texture of beetles,",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 244.84,
     "end": 248.319,
     "text": "termites, and locusts to convince people to try",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 248.319,
     "end": 251.919,
     "text": "insect protein as a cheap alternative to meat.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 251.919,
     "end": 254.799,
     "text": "And if you think you could never eat insects,",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 254.799,
     "end": 258,
     "text": "listen as Delcy explains how she changed her mind",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 258.04,
     "end": 261.519,
     "text": "to Ruth Alexander, presenter of BBC World Service Program,",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 261.519,
     "end": 262.92,
     "text": "The Food Chain.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 262.92,
     "end": 265.72,
     "text": "So are you an insect convert them?",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 265.72,
     "end": 267.24,
     "text": "Oh, no, I am.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 267.24,
     "end": 270.839,
     "text": "I love them as small snacks just roasted with salt,",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 270.839,
     "end": 274.6,
     "text": "or what I did with most of them is turn them into flowers",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 274.6,
     "end": 276.92,
     "text": "and meals so I make them into cakes biscuits.",
-    "speaker": null
+    "speaker": "snacks"
   },
   {
+    "order": 96,
     "start": 276.92,
     "end": 279.959,
     "text": "I grind them together with chicken or beef,",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 279.959,
     "end": 282.319,
     "text": "and then turn them into beautiful sausages,",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 282.319,
     "end": 284.24,
     "text": "and then that's how I love them.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 284.24,
     "end": 287.439,
     "text": "Ruth asked Delcy if she's an insect convert,",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 287.439,
     "end": 290.319,
     "text": "a person who has changed their ideas or way of living.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 290.319,
     "end": 293.12,
     "text": "And Delcy replies, yes, she didn't before,",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 293.12,
     "end": 296.439,
     "text": "but now she loves eating roast insects as snacks,",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 296.439,
     "end": 299.16,
     "text": "small bits of food you eat between meals.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 299.16,
     "end": 300.72,
-    "text": "They do sound crunchy,",
-    "speaker": null
-  },
-  {
-    "start": 300.72,
-    "end": 303.6,
-    "text": "Hmm, they do sound crunchy… but I think I'll stick to apples thanks, Georgie.",
+    "text": " they do sound crunchy",
     "speaker": "Beth"
   },
   {
+    "order": 105,
+    "start": 300.72,
+    "end": 303.6,
+    "text": "but I think I'll stick to apples, thanks Georgie.",
+    "speaker": null
+  },
+  {
+    "order": 106,
     "start": 303.6,
     "end": 304.92,
     "text": "Well, speaking of apples,",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 304.92,
     "end": 307.92,
-    "text": "Well, speaking of apples, it's time you revealed the answer to your question.",
-    "speaker": "Georgie"
+    "text": "it's time you revealed the answer to your question.",
+    "speaker": null
   },
   {
+    "order": 108,
     "start": 307.92,
     "end": 311.399,
-    "text": "Yes, I asked you which was the most popular apple, according to a survey of people in the UK.",
+    "text": "Yes, I asked you which was the most popular apple,",
     "speaker": "Beth"
   },
   {
+    "order": 109,
     "start": 311.399,
     "end": 315,
     "text": "according to a survey of people in the UK?",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 315,
     "end": 316.48,
-    "text": "I said Pink Lady, didn't I?",
-    "speaker": "Georgie"
-  },
-  {
-    "start": 316.48,
-    "end": 317.319,
-    "text": "You did.",
+    "text": "I said, pink lady, didn't I?",
     "speaker": null
   },
   {
-    "start": 317.319,
-    "end": 320.28,
-    "text": "You did and... it was the correct answer. Well done!",
+    "order": 111,
+    "start": 316.48,
+    "end": 317.319,
+    "text": "You did ",
     "speaker": "Beth"
   },
   {
+    "order": 112,
+    "start": 317.319,
+    "end": 320.28,
+    "text": "And it was the correct answer, well done.",
+    "speaker": null
+  },
+  {
+    "order": 113,
     "start": 320.28,
     "end": 322.72,
     "text": "Okay, let's recap the vocabulary we've learned",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 322.72,
     "end": 325.24,
     "text": "starting with two positive phrases.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 325.24,
     "end": 326.439,
     "text": "Nothing better in the world,",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 326.439,
     "end": 330,
     "text": "which is used to emphasise how much someone enjoys something,",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 330,
     "end": 332.36,
     "text": "and one of life's true pleasures,",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 332.36,
     "end": 335.439,
     "text": "which describes a particular experience or activity",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 335.439,
     "end": 337.48,
     "text": "that someone finds enjoyable.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 337.48,
     "end": 340.36,
     "text": "A turn of something means a lot of something.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 340.36,
     "end": 343.56,
-    "text": "If you describe food as mushy, you mean it's soft – the opposite of crunchy.",
-    "speaker": "mushy"
+    "text": " If you describe food as mushy, you mean it's soft",
+    "speaker": "A ton of"
   },
   {
+    "order": 122,
     "start": 343.56,
     "end": 345.2,
     "text": "the opposite of crunchy.",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 345.199,
     "end": 348.12,
-    "text": "A convert is a person who has changed their beliefs or way of living.",
+    "text": "A convert is a person who has changed their beliefs",
     "speaker": "convert"
   },
   {
+    "order": 124,
     "start": 348.12,
     "end": 349.24,
     "text": "or way of living.",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 349.24,
     "end": 351.839,
     "text": "And finally, a snack is a small bit of food",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 351.839,
     "end": 353.12,
     "text": "you eat between meals,",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 353.12,
     "end": 355.399,
     "text": "for example, crisps or a chocolate bar.",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 355.399,
     "end": 357.56,
     "text": "And once again, our six minutes are up,",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 357.56,
     "end": 359.199,
     "text": "but if you're ready for more,",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 359.199,
     "end": 360.8,
     "text": "just head over to our website,",
     "speaker": null
   },
   {
+    "order": 131,
     "start": 360.8,
     "end": 364.319,
     "text": "bbclearningenglish.com for a quiz and worksheet",
     "speaker": null
   },
   {
+    "order": 132,
     "start": 364.319,
     "end": 365.199,
     "text": "for this programme.",
     "speaker": null
   },
   {
+    "order": 133,
     "start": 365.199,
     "end": 367.36,
     "text": "See you there soon, bye, bye.",
     "speaker": null
   },
   {
+    "order": 134,
     "start": 367.36,
     "end": 372.36,
     "text": "Six minutes English from bbclearningenglish.com.",

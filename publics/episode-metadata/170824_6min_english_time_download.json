@@ -7,12 +7,20 @@
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/170824_6min_english_time.pdf",
   "vocabItems": [
     {
-      "word": "run out of time",
-      "definition": "use it all up"
+      "word": "run out of timependulum",
+      "definition": "run out of timeuse it all uppenduluma stick with a weight on the end that swings regularly from side to side"
     },
     {
-      "word": "pendulum",
-      "definition": "a stick with a weight on the end that swings regularly from side to side"
+      "word": "dial",
+      "definition": "the round part of a clock (but more generally, it refers to a round instrument that shows you the amount of something, for example, heat, pressure or speed)"
+    },
+    {
+      "word": "mechanicalprecise",
+      "definition": "mechanicalit has to do with machinespreciseaccurate and exact"
+    },
+    {
+      "word": "straitjacket",
+      "definition": "limiting what somebody can do in a way that is damaging. It's also a jacket with long arms that are tied behind a person to stop them from behaving violently"
     }
   ],
   "quiz": null

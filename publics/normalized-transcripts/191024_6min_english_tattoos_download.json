@@ -1,572 +1,667 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.16,
     "end": 15.28,
-    "text": "Hello. This is 6 Minute English, and I'm Rob.",
+    "text": "Hello. This is 6 Minute English, and I'm Rob",
     "speaker": "Rob"
   },
   {
+    "order": 3,
     "start": 15.28,
     "end": 16.719,
-    "text": "I'm Sam. Hello!",
-    "speaker": "Sam"
+    "text": "I'm Sam, hello.",
+    "speaker": null
   },
   {
+    "order": 4,
     "start": 16.719,
     "end": 20.08,
-    "text": "Now, Sam, we’re going to be talking about tattoos. Are you a fan?",
+    "text": "Now, Sam, we’re going to be talking about tattoos",
     "speaker": "Rob"
   },
   {
+    "order": 5,
     "start": 20.08,
     "end": 21.039,
     "text": "Are you a fan?",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 21.039,
     "end": 22.16,
     "text": "Of tattoos.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 22.16,
     "end": 27.359,
     "text": "Hmm, well I don't have one, but they can be quite impressive works of art.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 27.439,
     "end": 29.6,
-    "text": "Well, I'm not that keen on tattoos.",
-    "speaker": null
-  },
-  {
-    "start": 29.6,
-    "end": 32.32,
-    "text": "Well, I’m not that keen on tattoos – I mean, who wants things drawn on their body?!",
+    "text": "Well, I’m not that keen on tattoos ",
     "speaker": "Rob"
   },
   {
+    "order": 9,
+    "start": 29.6,
+    "end": 32.32,
+    "text": "I mean, who wants things drawn on their body?",
+    "speaker": null
+  },
+  {
+    "order": 10,
     "start": 32.32,
     "end": 35.28,
     "text": "Hmm, it sounds like you need some convincing, Rob.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 35.28,
     "end": 38.079,
-    "text": "It sounds like you need some convincing, Rob! Maybe our discussion today will change your mind.",
-    "speaker": "Sam"
-  },
-  {
-    "start": 38.079,
-    "end": 42.399,
-    "text": "Maybe, but as you're a fan of them, here's a question for you to answer.",
+    "text": "Maybe our discussion today will change your mind.",
     "speaker": null
   },
   {
+    "order": 12,
+    "start": 38.079,
+    "end": 42.399,
+    "text": "Maybe. But as you’re a fan of them, here’s a question for you to answer.",
+    "speaker": "Rob"
+  },
+  {
+    "order": 13,
     "start": 42.96,
     "end": 48.079,
     "text": "According to the Guinness World Records, the record for the most tattooed person in the world",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 48.079,
     "end": 51.2,
     "text": "goes to Lucky Diamond Rich from New Zealand.",
-    "speaker": null
+    "speaker": "dilutesDilute"
   },
   {
+    "order": 15,
     "start": 51.2,
     "end": 54.159,
     "text": "Do you know how much of his body is covered by tattoos?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 54.159,
     "end": 58.719,
     "text": "Is it 80%, B90% or C100%?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 58.719,
     "end": 59.679,
-    "text": "What do you think, Sam?",
+    "text": "What do you think Sam?",
     "speaker": "Rob"
   },
   {
+    "order": 18,
     "start": 59.679,
     "end": 63.919,
     "text": "Well, it’s got to be 100% if he is the most tattooed man, surely?",
     "speaker": "Sam"
   },
   {
+    "order": 19,
     "start": 63.919,
     "end": 68.56,
     "text": "Oh, not necessarily, but we'll see if you're right at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 68.56,
     "end": 70.959,
     "text": "Now, let's talk more about tattoos.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 70.959,
     "end": 72.64,
     "text": "I know many people have them.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 72.64,
     "end": 76,
     "text": "Sometimes it's a picture of an animal, like a small gecko.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 76,
     "end": 80.4,
     "text": "Sometimes it's words like, I love you or the name of a loved one.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 80.4,
     "end": 85.04,
     "text": "And then there are the huge designs spread across someone's back, chest or arm,",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 85.04,
     "end": 86.88,
     "text": "like Footballer David Beckham has.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 86.88,
     "end": 89.68,
     "text": "Hmm, well, he's no stranger to a tattoo, Paula.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 90.56,
     "end": 97.92,
     "text": "A Paula is the name of the shop where a tattoo artist draws a tattoo on you with ink and a needle.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 97.92,
     "end": 99.28,
     "text": "Oh, needles out.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 99.28,
     "end": 102,
     "text": "Okay, so you need some convincing.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 102,
     "end": 106.08,
     "text": "So let's hear from Lucy Parfitt, YouTuber and tattoo fan.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 106.64,
     "end": 110.4,
     "text": "Here she is speaking on the BBC's Smart Consumer Podcast.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 32,
     "start": 111.359,
     "end": 116.799,
-    "text": "I'm quite a creative person and ever since I first discovered tattoos,",
-    "speaker": null
+    "text": "I’m quite a creative person and ever since I first discovered tattoos,",
+    "speaker": "creative personexpressing yourself."
   },
   {
+    "order": 33,
     "start": 116.799,
     "end": 120.079,
     "text": "I thought it was a really cool way of expressing yourself.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 120.079,
     "end": 121.599,
     "text": "I'm quite a visual person as well.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 121.599,
     "end": 125.12,
     "text": "So for me, it really just looked really cool.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 125.12,
     "end": 132.8,
     "text": "And it made me think more about my own personality and how I could express that in creative ways.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 133.2,
     "end": 139.2,
     "text": "Right, so Lucy describes herself as a creative person.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 139.2,
     "end": 144.4,
     "text": "When you're creative, you're imaginative and you like to experiment with new ideas.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 144.4,
     "end": 145.28,
     "text": "Yes, Rob.",
-    "speaker": null
+    "speaker": "creative"
   },
   {
+    "order": 40,
     "start": 145.28,
     "end": 148.4,
     "text": "And tattoos are a good way to be creative.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 148.4,
     "end": 152.96,
     "text": "Trying out different designs and colours, it's a good way to express yourself.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 153.68,
     "end": 158.48,
     "text": "Here, to express yourself means to show how you feel in a particular way.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 159.039,
     "end": 165.12,
     "text": "Okay, so some people express themselves through singing or wearing particular clothing,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 165.12,
     "end": 168.639,
     "text": "but here she's expressing herself through the images on her skin.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 45,
     "start": 169.199,
     "end": 173.679,
     "text": "But what happens if you want to change what you want to express?",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 173.679,
     "end": 176,
-    "text": "Well, then it’s time for a new tattoo!",
-    "speaker": "Sam"
+    "text": "Well, then it's time for a new tattoo.",
+    "speaker": null
   },
   {
+    "order": 47,
     "start": 176,
     "end": 180.56,
     "text": "Okay, well, I know that the tattoo industry is big business now,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 180.56,
     "end": 183.919,
     "text": "which means it's popular and making lots of money.",
-    "speaker": null
+    "speaker": "big business"
   },
   {
+    "order": 49,
     "start": 183.919,
     "end": 186.639,
     "text": "I've heard that one in five people now have a tattoo.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 187.439,
     "end": 188.479,
     "text": "Not you yet, Rob.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 189.119,
     "end": 192.239,
     "text": "But it has certainly become a trend in recent years.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 192.239,
     "end": 195.919,
     "text": "And it's something tattoo artist Lee Clements has noticed.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 196.559,
     "end": 200.079,
     "text": "Also speaking on the BBC's Smart Consumer Podcast,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 200.079,
     "end": 202.239,
     "text": "he explains why he thinks that is.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 203.279,
     "end": 209.359,
     "text": "The thing for me that has obviously changed massively over the last possibly 10 years is you see a lot",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 209.359,
     "end": 215.199,
     "text": "of celebrities getting tattooed with that comes the fact that you're going to get people who want",
-    "speaker": null
+    "speaker": "dilutes"
   },
   {
+    "order": 57,
     "start": 215.199,
     "end": 219.039,
     "text": "to copy them or it becomes almost like a fashion thing.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 219.039,
     "end": 224.319,
     "text": "So we do see certain tattoos sort of become in a trend.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 224.56,
     "end": 228.479,
     "text": "And yeah, so I guess it kind of dilutes that value a little bit.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 230.639,
     "end": 236.079,
     "text": "Ah, so it's celebrities, famous well-known people from TV, film and fashion,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 236.079,
     "end": 238.319,
     "text": "that have possibly driven the trend.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 238.319,
     "end": 243.12,
     "text": "People want to copy them or it's what he says is a fashion thing.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 243.12,
     "end": 248.719,
     "text": "So you have a tattoo because it's fashionable, which means it's popular at a particular time.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 248.719,
     "end": 254.56,
     "text": "And one of the downsides, the negative things about just having one to be fashionable",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 254.56,
     "end": 257.84,
     "text": "is it dilutes the individuality of having one.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 258.639,
     "end": 263.28,
     "text": "Dilute means to make something less strong or less valuable.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 263.28,
     "end": 269.199,
     "text": "Well, I'm not going to get one anytime soon, except maybe a big six on my arm to remind me",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 269.199,
     "end": 271.68,
     "text": "that we only have six minutes of this program.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 271.68,
     "end": 275.92,
     "text": "So I'd better reveal the answer to the question I asked you earlier.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 275.92,
     "end": 280.639,
     "text": "According to Guinness World Records, the record for the most tattooed person in the world",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 280.639,
     "end": 283.199,
     "text": "goes to Lucky Diamond Rich from New Zealand.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 283.199,
     "end": 286.399,
     "text": "Did you know how much of his body is covered by tattoos?",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 286.399,
     "end": 288.399,
     "text": "And I said 100%.",
     "speaker": "Sam"
   },
   {
+    "order": 74,
     "start": 288.399,
     "end": 290.48,
     "text": "Ah, well done Sam, that is correct.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 291.439,
     "end": 297.919,
     "text": "He's held the certified record since 2006 of being 100% tattooed.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 297.92,
     "end": 302.16,
     "text": "This includes tattoos inside his eyelids, mouth and ears.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 302.16,
     "end": 304.64,
     "text": "Wow! I wonder who gets to see those!",
     "speaker": "Sam"
   },
   {
+    "order": 78,
     "start": 304.64,
     "end": 305.68,
     "text": "Ha ha.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 305.68,
     "end": 309.6,
     "text": "Okay, well now it's time to recap the vocabulary we've discussed today,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 309.6,
     "end": 311.759,
     "text": "starting with a parlour.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 311.759,
     "end": 317.2,
-    "text": "That’s the name for a shop or room where certain businesses carry out their trade – such as a tattoo parlour, a massage parlour or an ice cream parlour.",
+    "text": "That’s the name for a shop or room where certain businesses carry out their trade ",
     "speaker": "Sam"
   },
   {
+    "order": 82,
     "start": 317.2,
     "end": 322.24,
     "text": "such as a tattoo parlour, a massage parlour, or a nice cream parlour.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 322.24,
     "end": 327.6,
     "text": "A creative person is someone who uses imagination and experiments with new ideas.",
-    "speaker": "creative person"
+    "speaker": null
   },
   {
+    "order": 84,
     "start": 328.24,
     "end": 334.64,
-    "text": "And when you express yourself, it means you 'show outwardly how you feel and what you’re thinking'.",
+    "text": "And when you express yourself, it means you 'show outwardly how you feel and what you’re thinking",
     "speaker": "express yourself"
   },
   {
+    "order": 85,
     "start": 334.64,
     "end": 340.8,
     "text": "If something is big business, it's an activity that is currently popular and making lots of money.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 340.8,
     "end": 344.16,
     "text": "And something that is fashionable is popular.",
-    "speaker": null
+    "speaker": "fashionable.  dilute"
   },
   {
+    "order": 87,
     "start": 344.16,
     "end": 349.52,
     "text": "And when something becomes popular, it can dilute its value or uniqueness.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 349.52,
     "end": 352.48,
     "text": "So it becomes less strong or less valuable.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 352.48,
     "end": 354,
     "text": "Okay, thank you Sam.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 354,
     "end": 359.759,
     "text": "That's all for now, but there's plenty more on our website at BBCLearningEnglish.com.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 359.759,
     "end": 363.04,
     "text": "If you can't remember the address, why not tattoo it on your arm?",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 363.839,
     "end": 366.879,
     "text": "You can also find us on social media and on our app.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 366.879,
     "end": 367.839,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 367.839,
     "end": 368.56,
-    "text": "Bye!",
-    "speaker": "Sam"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

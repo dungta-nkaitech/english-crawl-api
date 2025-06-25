@@ -1,641 +1,748 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6Nate English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.88,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.12,
     "end": 14.88,
     "text": "Hello. I'm Catherine.",
     "speaker": "Catherine"
   },
   {
+    "order": 5,
     "start": 14.88,
     "end": 16.399,
-    "text": "Hello. I'm Rob.",
-    "speaker": "Rob"
+    "text": "Hello, I'm Rob.",
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 16.399,
     "end": 21.44,
     "text": "We both started with what is probably the best known greeting in English",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 21.44,
     "end": 25.6,
-    "text": "and one of the first words English language students learn.",
-    "speaker": null
+    "text": " and one of the first words English language students learn",
+    "speaker": "Catherine"
   },
   {
+    "order": 8,
     "start": 25.6,
     "end": 27.839,
     "text": "And that is Hello!",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 27.839,
     "end": 34.079,
     "text": "So, today in 6Nate English, we're digging a little deeper into the world of greetings",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 34.079,
     "end": 37.92,
     "text": "and the fascinating history of Hello!",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 37.92,
     "end": 41.84,
-    "text": "Surprisingly, the word 'hello' is not as old as you might think. But when did it first appear in print in English?",
-    "speaker": "Rob"
+    "text": "Surprisingly, the word Hello is not as old as you might think,",
+    "speaker": null
   },
   {
+    "order": 12,
     "start": 41.84,
     "end": 44.56,
     "text": "but when did it first appear in print in English?",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 45.2,
     "end": 50.96,
     "text": "Was it A in the 1890s, B the 1950s or C the 1890s?",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 51.679,
     "end": 57.679,
-    "text": "Well, I think English changes really quickly, so I'm going to say b) the 1950s. And we'll say 'hello again' to 'hello' a little later in the programme.",
-    "speaker": "Catherine"
+    "text": "Well, I think English changes really quickly, so I'm going to say B the 1950s.",
+    "speaker": "Rob"
   },
   {
+    "order": 15,
     "start": 57.679,
     "end": 62.96,
     "text": "And we'll say Hello again to Hello, a little later in the programme.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 62.96,
     "end": 64.4,
-    "text": "First greetings.",
-    "speaker": null
-  },
-  {
-    "start": 64.4,
-    "end": 69.2,
-    "text": "First, greetings. They can be a bit of a minefield. A subject full of unpredictable difficulties.",
+    "text": "First, greetings",
     "speaker": "minefield"
   },
   {
+    "order": 17,
+    "start": 64.4,
+    "end": 69.2,
+    "text": "They can be a bit of a minefield, a subject full of unpredictable difficulties.",
+    "speaker": null
+  },
+  {
+    "order": 18,
     "start": 69.2,
     "end": 73.12,
     "text": "While in many places a handshake or a bow is normal,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 73.12,
     "end": 78.799,
-    "text": "While in many places a handshake or bow is normal – there's also the tricky question of kisses and hugs.",
-    "speaker": "Catherine"
+    "text": "there's also the tricky question of kisses and hugs.",
+    "speaker": null
   },
   {
+    "order": 20,
     "start": 78.799,
     "end": 80.719,
     "text": "Orcward, should you kiss?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 80.719,
     "end": 82.159,
     "text": "How many times?",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 22,
     "start": 82.159,
     "end": 84.56,
     "text": "And should your lips touch their cheek?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 84.56,
     "end": 86.96,
     "text": "No, Rob, definitely an air kiss.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 86.959,
     "end": 90.159,
-    "text": "No, Rob - definitely an air-kiss! Close to the cheek, but don't touch. Much safer.",
-    "speaker": "air-kiss"
-  },
-  {
-    "start": 90.159,
-    "end": 94.959,
-    "text": "Greetings are the subject of a new book by former British diplomat Andy Scott,",
+    "text": "Close to the cheek, but don't touch much safer.",
     "speaker": null
   },
   {
+    "order": 25,
+    "start": 90.159,
+    "end": 94.959,
+    "text": "Greetings are the subject of a new book, by former British diplomat Andy Scott",
+    "speaker": "Rob"
+  },
+  {
+    "order": 26,
     "start": 94.959,
     "end": 99.119,
     "text": "called One Kiss or Two in search of the perfect greeting.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 99.119,
     "end": 102.079,
     "text": "Here he is on the BBC Radio Show Word of Mouth.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 102.079,
     "end": 103.919,
     "text": "Why greetings so important?",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 104.879,
     "end": 107.759,
     "text": "In these are the first moments of interaction we have with people,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 107.759,
     "end": 112.399,
     "text": "and it's in those first moments and using those little verbal and physical rituals",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 112.399,
     "end": 114.56,
     "text": "that we have and we can get in such a muddle about,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 114.64,
     "end": 118,
     "text": "that we're kind of recognising each other, we're reaffirming our bonds,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 118,
     "end": 120.64,
     "text": "we're even testing our bonds and our relationships with each other.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 120.64,
     "end": 123.84,
     "text": "We're signalling our intentions towards each other,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 123.84,
     "end": 127.04,
     "text": "despite the fact we might not necessarily be conscious when we're doing them.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 127.76,
     "end": 132,
-    "text": "Scott says we need to communicate our intentions to each other and acknowledge our relationships.",
+    "text": "Scott says we need to communicate our intentions to each other",
     "speaker": "Catherine"
   },
   {
+    "order": 37,
     "start": 132,
     "end": 134,
     "text": "and acknowledge our relationships.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 134,
     "end": 135.92,
     "text": "Well, that's what greetings do.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 135.92,
     "end": 140.56,
     "text": "One word he uses to mean relationship or connection is bond.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 140.56,
     "end": 144,
     "text": "We can reaffirm our bonds, which means we confirm them",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 144.08,
     "end": 145.28,
     "text": "and make them stronger.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 145.28,
     "end": 152.159,
-    "text": "And we do it through rituals, patterns of behaviour that we do for a particular purpose.",
-    "speaker": null
+    "text": "And we do it through rituals -patterns of behaviour that we do for a particular purpose.",
+    "speaker": "rituals"
   },
   {
+    "order": 43,
     "start": 152.159,
     "end": 154.24,
     "text": "So there are the phrases such as,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 154.24,
     "end": 158,
     "text": "hello, good afternoon, nice to meet you,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 158,
     "end": 162.479,
     "text": "and as well as the physical rituals, handshakes, bows and kisses.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 163.039,
     "end": 166.24,
     "text": "Though he also said we sometimes want to test our bonds,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 166.719,
     "end": 171.36,
     "text": "we might want to check if our friendship has grown by offering something warm with unusual,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 171.36,
     "end": 173.12,
     "text": "like a hug instead of a handshake.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 173.68,
     "end": 176.64,
     "text": "Now Scott acknowledges how difficult greetings can be",
-    "speaker": null
+    "speaker": "to get in a muddleget in a muddleget in a muddle"
   },
   {
+    "order": 50,
     "start": 176.64,
     "end": 180,
     "text": "using the very British slang phrase to get in a model.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 180,
     "end": 183.039,
     "text": "If you get in a model, you become confused or lost.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 183.039,
     "end": 186.719,
     "text": "You might get in a model if one person expects two kisses,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 186.719,
     "end": 188.319,
     "text": "another expects only one.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 188.319,
     "end": 192.08,
     "text": "Though Scott does believe that the details don't really matter,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 192.08,
     "end": 196.879,
     "text": "because another important purpose of greetings is to reduce tension.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 196.879,
     "end": 199.28,
     "text": "So if you get it wrong, just laugh about it.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 199.36,
     "end": 203.84,
     "text": "Okay, let's get back to the one word we really shouldn't get in a model about.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 203.84,
     "end": 204.719,
     "text": "Hello.",
-    "speaker": null
+    "speaker": "get in a muddle"
   },
   {
+    "order": 59,
     "start": 204.719,
     "end": 209.199,
     "text": "Let's listen to Dr Laura Wright, a linguist from Cambridge University,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 209.199,
     "end": 213.759,
     "text": "also speaking on the BBC Word of Mouth Radio programme.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 213.759,
     "end": 215.52,
     "text": "Where does hello come from?",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 216.8,
     "end": 224.8,
-    "text": "It starts as a distant hailing, I see you miles over there and I've got to yell at you.",
-    "speaker": null
+    "text": "It starts as a distant hailing: \"I see you miles over there and I've got to yell at you",
+    "speaker": "hailing"
   },
   {
+    "order": 63,
     "start": 224.8,
     "end": 228.56,
     "text": "It's not until the invention of telephones that we really get to use hello",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 228.56,
     "end": 232.24,
     "text": "is greeting to each other and even then it wasn't initially used as greeting.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 232.24,
     "end": 235.759,
     "text": "It was used more as an attention-grabbing device.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 235.759,
     "end": 238.719,
     "text": "You are miles away, the line is about to be cut.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 238.719,
     "end": 241.439,
     "text": "I need to attract the attention of the operator as well.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 241.439,
     "end": 246.159,
     "text": "So everybody would call hello to each other as this long distance greeting form.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 247.199,
     "end": 251.36,
     "text": "Laura says hello hasn't always meant hello.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 251.36,
     "end": 256.24,
     "text": "Originally it was just a shout to attract someone's attention.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 256.24,
     "end": 259.36,
     "text": "And we call this kind of shouting hailing.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 259.36,
     "end": 261.36,
-    "text": "The shout would vary in form.",
-    "speaker": null
+    "text": "The shout would vary in form ",
+    "speaker": "Rob"
   },
   {
+    "order": 73,
     "start": 261.36,
     "end": 266.079,
     "text": "It could sound like a hollow or a hello-ah.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 266.079,
     "end": 270.72,
     "text": "We continued this kind of hailing when telephones first appeared.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 270.72,
     "end": 275.759,
     "text": "People would keep repeating hello, hello while they were waiting to be connected.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 275.759,
     "end": 280.639,
     "text": "And before long this became the actual way to greet somebody on the telephone.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 281.199,
     "end": 284.879,
     "text": "Anyway, before we say goodbye to hello,",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 284.879,
     "end": 287.199,
     "text": "let's have the answer to today's question.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 287.199,
     "end": 290.639,
     "text": "I asked when the word hello first appeared in print in English.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 290.639,
     "end": 294.8,
-    "text": "According to the Oxford English Dictionary, it was in 1826.",
-    "speaker": null
+    "text": " According to the Oxford English Dictionary, it was in 1826",
+    "speaker": "Rob"
   },
   {
+    "order": 81,
     "start": 294.8,
     "end": 296.56,
     "text": "Other spellings appeared before that.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 296.56,
     "end": 301.36,
-    "text": "Ah, you see – I was thinking English changes really quickly, but not that quickly.",
-    "speaker": "Catherine"
+    "text": "You see, I was thinking English changes really quickly, but not that quickly.",
+    "speaker": null
   },
   {
+    "order": 83,
     "start": 301.36,
     "end": 302.319,
     "text": "Not that quickly.",
     "speaker": "Rob"
   },
   {
+    "order": 84,
     "start": 302.319,
     "end": 306.399,
     "text": "So before we go, let's have a look at today's vocabulary again.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 307.279,
     "end": 312.24,
     "text": "A minefield is something that's full of uncertainty and even danger.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 312.24,
     "end": 318,
     "text": "This sense comes from the literal meaning of field full of explosive landmines.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 318,
     "end": 322.8,
     "text": "And then we had air kiss, which is when you kiss the air beside someone's face",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 322.8,
     "end": 324.56,
     "text": "instead of the face itself, like this.",
-    "speaker": null
+    "speaker": "air-kiss"
   },
   {
+    "order": 89,
     "start": 324.56,
     "end": 325.36,
     "text": "Mwah.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 325.36,
     "end": 328.24,
     "text": "And we had bond, a connection.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 328.24,
     "end": 330.72,
-    "text": "And we had bond – a connection. There's a close bond between us I think, Rob.",
-    "speaker": "bondbond"
+    "text": "There's a close bond between us, I think, Rob.",
+    "speaker": null
   },
   {
+    "order": 92,
     "start": 330.72,
     "end": 334.8,
     "text": "Which is good because when I get in a model, you're always very understanding.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 334.8,
     "end": 335.6,
     "text": "Yeah.",
-    "speaker": "Catherine"
+    "speaker": "get in a muddle"
   },
   {
+    "order": 94,
     "start": 335.6,
     "end": 338.56,
     "text": "To get in a model means to become confused.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 338.639,
     "end": 340.16,
-    "text": "Ritual was another word.",
-    "speaker": null
+    "text": " Ritual was another word",
+    "speaker": "get in a muddle"
   },
   {
+    "order": 96,
     "start": 340.639,
     "end": 346,
     "text": "Rituals are certain behaviors that people perform in certain contexts.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 346,
     "end": 347.839,
     "text": "I have a morning ritual.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 347.839,
     "end": 352.079,
     "text": "Brush Mati, the breakfast I didn't say it was an interesting Rob ritual Rob.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 352.079,
     "end": 353.28,
     "text": "No, that's true.",
-    "speaker": null
+    "speaker": "to hailhailed"
   },
   {
+    "order": 100,
     "start": 353.28,
     "end": 357.759,
     "text": "Finally, to hail is to greet someone loudly, especially from a distance.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 357.759,
     "end": 360.72,
     "text": "I hailed my friend when I saw her at the airport.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 360.72,
     "end": 362.8,
     "text": "And that's it for this programme.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 362.8,
     "end": 366.399,
     "text": "For more Dvinders on Facebook, Twitter, Instagram and YouTube.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 366.399,
     "end": 370,
     "text": "And of course, our website, BBCLearningEnglish.com.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 370,
     "end": 370.719,
-    "text": "Bye!",
-    "speaker": "Rob"
+    "text": "Bye.",
+    "speaker": null
   },
   {
+    "order": 106,
     "start": 370.719,
     "end": 371.679,
     "text": "Bye-bye.",

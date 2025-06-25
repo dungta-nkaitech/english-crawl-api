@@ -1,569 +1,664 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 13.519,
     "end": 16.08,
     "text": "Hello. This is 6 Minute English, I'm Sam.",
     "speaker": "Sam"
   },
   {
+    "order": 3,
     "start": 16.08,
     "end": 17.44,
     "text": "And I'm Georgina.",
-    "speaker": "Georgina"
+    "speaker": null
   },
   {
+    "order": 4,
     "start": 17.44,
     "end": 19.92,
     "text": "Georgina, what language is do you speak?",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 19.92,
     "end": 22.8,
     "text": "Hmm, well, my mother tongue is English,",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 22.8,
     "end": 25.679,
-    "text": "Well, my mother tongue is English and I also speak Spanish and French badly!",
-    "speaker": "Georgina"
+    "text": "and I also speak Spanish and French badly.",
+    "speaker": "Sam"
   },
   {
+    "order": 7,
     "start": 25.679,
     "end": 26.96,
     "text": "Hmm, okay.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 26.96,
     "end": 28.56,
     "text": "It's interesting that we say",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 9,
     "start": 28.559,
     "end": 30.959,
     "text": "mother tongue, isn't it?",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 30.959,
     "end": 35.119,
     "text": "Like many languages, English has a number of gender-specific terms",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 35.119,
     "end": 39.2,
     "text": "that don't refer to gender-specific ideas and concepts.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 39.2,
     "end": 42.399,
     "text": "And this complicated relationship between language and gender",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 42.399,
     "end": 44.799,
     "text": "is what we'll be talking about today.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 44.799,
     "end": 47.2,
     "text": "But first, this week's quiz question,",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 47.2,
     "end": 50.48,
     "text": "which is also on the topic of languages.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 50.48,
     "end": 53.039,
     "text": "Which of these languages is the newest?",
-    "speaker": null
+    "speaker": "perceiveprestigiousdisparities"
   },
   {
+    "order": 17,
     "start": 53.039,
     "end": 57.92,
     "text": "Is it A, Esperanto, B, Africans,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 57.92,
     "end": 60.96,
     "text": "or C, light-walt-free?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 60.96,
     "end": 62.4,
-    "text": "What do you think, Georgina?",
+    "text": "What do you think Georgina?",
     "speaker": "Sam"
   },
   {
+    "order": 20,
     "start": 62.4,
     "end": 65.84,
     "text": "Hmm, well, I've only heard of two of these,",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 65.84,
     "end": 68.159,
     "text": "Esperanto and Afrikaans.",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 22,
     "start": 68.159,
     "end": 72.96,
     "text": "So I think I'm going to choose the other one, light-walt-free.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 72.96,
     "end": 75.04,
     "text": "Purely, as I've never heard of it.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 75.04,
     "end": 77.359,
     "text": "So I think that must be the one.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 77.359,
     "end": 80.24,
     "text": "Okay, well, we'll find out if your intuition is correct",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 80.24,
     "end": 81.92,
     "text": "later in the programme.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 81.92,
     "end": 85.359,
     "text": "Professor Lara Boroditsky is a cognitive scientist",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 85.359,
     "end": 89.439,
     "text": "who was a guest on the BBC World Service programme, The Conversation.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 89.439,
     "end": 94.799,
     "text": "She was asked about why we use the term mother tongue in English.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 94.799,
     "end": 96.719,
     "text": "Different languages actually do it differently,",
-    "speaker": null
+    "speaker": "primary caregiverspoint of originmetaphor"
   },
   {
+    "order": 31,
     "start": 96.719,
     "end": 100.4,
     "text": "but definitely there's a strong association between",
-    "speaker": null
+    "speaker": "point of originmetaphoricalmother tongue"
   },
   {
+    "order": 32,
     "start": 100.4,
     "end": 104.159,
     "text": "mothers as primary caregivers and people who teach us things.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 104.159,
     "end": 110,
     "text": "And so there's that point of origin metaphor that applies in a lot of languages.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 110,
     "end": 113.359,
-    "text": "So, how does she explain the use of mother tongue, Georgina?",
-    "speaker": "Sam"
-  },
-  {
-    "start": 113.439,
-    "end": 116.64,
-    "text": "Well, she says it's a form of metaphor,",
+    "text": "So how does she explain the use of mother tongue, Georgina?",
     "speaker": null
   },
   {
+    "order": 35,
+    "start": 113.439,
+    "end": 116.64,
+    "text": "Well, she says it’s a form of metaphor.",
+    "speaker": "metaphor metaphormetaphor"
+  },
+  {
+    "order": 36,
     "start": 116.64,
     "end": 121.519,
     "text": "a metaphor is a way of describing something by comparing it to something else.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 121.519,
     "end": 126.4,
     "text": "In a metaphor though, you don't say that something is like something else.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 126.4,
     "end": 128.96,
     "text": "You say that it is something else.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 128.96,
     "end": 132.719,
     "text": "For example, having good friends is the key to a happy life.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 132.719,
     "end": 134.159,
     "text": "Hmm, it is indeed.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 134.159,
     "end": 138.56,
     "text": "In this metaphor, language is seen as coming from your primary caregiver,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 138.56,
     "end": 141.36,
     "text": "the person who looked after you most when you were young.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 141.36,
     "end": 143.6,
     "text": "And traditionally, this was mothers.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 143.6,
     "end": 150.24,
     "text": "So this is perhaps the point of origin, the starting place of the metaphorical phrase mother tongue.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 150.24,
     "end": 151.76,
     "text": "Let's listen again.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 151.76,
     "end": 153.68,
     "text": "Different languages actually do it differently,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 153.68,
     "end": 156.4,
     "text": "but definitely there's a strong association between",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 157.36,
     "end": 161.12,
     "text": "mothers as primary caregivers and people who teach us things.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 161.12,
     "end": 166,
     "text": "And so there's that point of origin metaphor that applies in a lot of languages.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 166.56,
     "end": 169.68,
-    "text": "Language is very powerful in society and culture.",
-    "speaker": null
+    "text": "Language is very powerful in society and culture,",
+    "speaker": "Sam"
   },
   {
+    "order": 51,
     "start": 169.68,
     "end": 173.28,
     "text": "And when it comes to gendered language, it can cause some issues.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 173.92,
     "end": 175.68,
     "text": "Here's Lara Borditsky again.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 176.64,
     "end": 182.64,
     "text": "In English, of course, we have some words that are gendered like actor and actress or waiter",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 182.64,
     "end": 183.28,
     "text": "and waitress.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 184.08,
     "end": 188.24,
     "text": "And very commonly when there are those two gender forms,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 188.24,
     "end": 194.4,
     "text": "people perceive the masculine form as being a more prestigious job or a more skilled job",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 195.04,
     "end": 196.48,
     "text": "than the feminine form.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 196.56,
     "end": 199.599,
     "text": "So an actor is a fancier job than an actress,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 199.599,
     "end": 201.84,
     "text": "a waiter is a fancier job than a waiter is.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 202.56,
     "end": 206.079,
     "text": "And so they could then come with pay disparities and so on.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 206.719,
     "end": 212.799,
-    "text": "So, what’s the subconscious difference in attitude towards, for example, an actor and actress?",
+    "text": "So, what’s the subconscious difference in attitude towards, for example, an actor and actress",
     "speaker": "Sam"
   },
   {
+    "order": 62,
     "start": 213.599,
     "end": 217.12,
     "text": "Well, she says that people perceive those roles differently.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 217.679,
     "end": 223.199,
     "text": "This means that we are aware of or believe there is a difference in the jobs because of the",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 223.199,
     "end": 229.919,
     "text": "vocabulary. The male form is perceived to be more prestigious, more important, more respected,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 229.919,
     "end": 232.079,
     "text": "even though it's exactly the same job.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 232.079,
     "end": 236.319,
     "text": "And this attitude can lead to problems such as disparities in pay.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 237.28,
     "end": 240.319,
     "text": "A disparity is a difference and inequality.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 240.319,
     "end": 245.28,
     "text": "And in the world of work, it can mean men getting paid more than women for the same job.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 246.079,
     "end": 247.759,
     "text": "Here's Professor Borditsky again.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 248.479,
     "end": 254.399,
     "text": "In English, of course, we have some words that are gendered like actor and actress or waiter",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 254.399,
     "end": 261.36,
     "text": "and waitress. And very commonly when there are those two gender forms, people perceive the",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 261.36,
     "end": 268.24,
     "text": "masculine form as being a more prestigious job or a more skilled job than the feminine form.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 268.24,
     "end": 273.599,
     "text": "So an actor is a fancier job than an actress, a waiter is a fancier job than a waitress.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 274.24,
     "end": 277.84,
     "text": "And so they could then come with paid disparities and so on.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 278.32,
     "end": 284,
     "text": "Okay, before we take another look at today's vocabulary, let's reveal the answer to this week's quiz.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 284,
     "end": 291.76,
     "text": "Which of these languages is the newest? Is it A, Esperanto, B, Afrikaans or C, like Walpree?",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 292.24,
     "end": 293.36,
-    "text": "Georgina, what did you say?",
+    "text": " Georgina, what did you say",
     "speaker": "Sam"
   },
   {
+    "order": 78,
     "start": 294,
     "end": 298.48,
     "text": "I thought it had to be like Walpree, but just because I'd never heard of it before.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 298.48,
     "end": 302.4,
     "text": "Mm-hmm, well, congratulations. Your instincts were good. That is correct.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 302.479,
     "end": 306.399,
     "text": "So let's move on to the vocabulary and look at today's words and phrases again.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 307.199,
     "end": 313.039,
     "text": "A primary caregiver is a person who has most responsibility for looking after someone.",
-    "speaker": "primary caregiver"
+    "speaker": "Sam"
   },
   {
+    "order": 82,
     "start": 313.039,
     "end": 316.399,
     "text": "A point of origin is the place or time when something begins.",
     "speaker": "point of origin"
   },
   {
+    "order": 83,
     "start": 317.039,
     "end": 323.599,
-    "text": "A metaphor is a way of describing something. We can say that something is something else that has similar qualities.",
-    "speaker": "metaphor"
+    "text": "A metaphor is a way of describing something. We can say that something is something else that has",
+    "speaker": null
   },
   {
+    "order": 84,
     "start": 323.599,
     "end": 327.279,
     "text": "similar qualities. Your a star. Oh, thank you.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 328,
     "end": 331.199,
     "text": "No, no, I meant your a star is an example of a metaphor.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 331.919,
     "end": 333.839,
     "text": "Okay, of course I knew that.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 333.839,
     "end": 335.839,
     "text": "Mm-hmm, yeah, okay, you say so.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 336.639,
     "end": 340.399,
     "text": "To perceive is to think of something in a particular way.",
+    "speaker": "Georgina"
+  },
+  {
+    "order": 89,
+    "start": 340.399,
+    "end": 345.519,
+    "text": "We might perceive the value of different jobs based on the vocabulary used to describe them.",
     "speaker": null
   },
   {
-    "start": 340.399,
-    "end": 345.519,
-    "text": "Mmmm, if you say so. To perceive is to think of something in a particular way. We might perceive the value of different jobs based on the vocabulary used to describe them.",
-    "speaker": "perceive perceive"
-  },
-  {
+    "order": 90,
     "start": 346.159,
     "end": 349.599,
     "text": "Something prestigious is important and respected.",
     "speaker": "prestigious"
   },
   {
+    "order": 91,
     "start": 349.599,
     "end": 355.439,
     "text": "And finally, a disparity is a difference and inequality and is often used when talking about",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 355.439,
     "end": 361.36,
     "text": "how men and women aren't always paid the same for the same job. And that's all from us.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 361.36,
     "end": 365.68,
     "text": "We look forward to your company again soon. In the meantime, you can always find us online",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 365.68,
     "end": 370.079,
     "text": "on social media and on the BBC Learning English app. Bye for now. Bye!",

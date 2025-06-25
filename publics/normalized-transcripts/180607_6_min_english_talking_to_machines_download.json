@@ -1,719 +1,839 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.32,
     "text": "6 Minute English.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 3,
     "start": 8.32,
     "end": 10.88,
     "text": "From BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.599,
     "end": 16.96,
     "text": "Hello and welcome to 6 Minute English. I'm Rob.",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 16.96,
     "end": 18.24,
     "text": "And I'm Dan.",
-    "speaker": "Dan"
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 18.24,
     "end": 20.48,
     "text": "Hey Dan. What’s the time?",
     "speaker": "Rob"
   },
   {
+    "order": 7,
     "start": 21.039,
     "end": 23.12,
     "text": "Time you got a new watch?",
-    "speaker": "Dan"
+    "speaker": null
   },
   {
+    "order": 8,
     "start": 23.12,
     "end": 27.12,
-    "text": "Now I didn’t ask you that just for a joke or a sarcastic comment now did I?",
+    "text": "Now I didn’t ask you that just for a joke or a sarcastic comment now did I? ",
     "speaker": "Rob"
   },
   {
+    "order": 9,
     "start": 27.12,
     "end": 29.839,
     "text": "Well, no, but look, there's a clock over there.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 29.839,
     "end": 31.44,
     "text": "And you are wearing a watch.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 31.44,
     "end": 35.359,
     "text": "You have a smartphone and a computer, all of which show the time.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 35.359,
     "end": 37.519,
     "text": "So why are you asking me?",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 37.519,
     "end": 40.64,
     "text": "Oh, Dan, I was trying to introduce today's topic,",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 40.64,
     "end": 44.24,
     "text": "which is all about virtual assistants or bots.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 15,
     "start": 44.24,
     "end": 46,
     "text": "You've seen to have forgotten the script.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 46,
     "end": 48.24,
     "text": "Oh, yeah. Sorry.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 48.24,
     "end": 52.719,
     "text": "We're talking about software that you talk to and that can talk back to you.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 52.719,
     "end": 55.519,
     "text": "Like Apple's Siri, Google's Assistant,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 55.519,
     "end": 59.2,
     "text": "Amazon's Alexa and Microsoft's Cortana.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 59.2,
     "end": 63.68,
     "text": "It might be on your phone or computer or even a speaker in your house.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 64.48,
     "end": 67.04,
     "text": "Now before we hear more about this topic,",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 22,
     "start": 67.04,
     "end": 68.64,
     "text": "here is today's quiz question.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 69.28,
     "end": 74.159,
     "text": "Do you know when was the first computer which could recognise speech launched?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 74.719,
     "end": 80.32,
     "text": "Was it in a 1951, be 1961 or C 1971?",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 81.28,
     "end": 83.2,
     "text": "Oh, I found my script.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 83.2,
     "end": 85.2,
     "text": "So I've seen the answer.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 27,
     "start": 85.2,
     "end": 87.12,
     "text": "But I have to say, I was surprised.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 87.2,
     "end": 88.48,
     "text": "OK, don't tell anybody, Dan.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 88.48,
     "end": 92.24,
     "text": "OK, we'll give the answer for the listeners at the end of the program.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 30,
     "start": 93.04,
     "end": 95.68,
     "text": "We're going to hear now from Tom Hewitson,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 95.68,
     "end": 100.4,
     "text": "who is a conversation designer working in the field of virtual assistants,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 100.4,
     "end": 103.92,
     "text": "talking on BBC Radio 4's Word of Mouth program.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 104.48,
     "end": 107.92,
     "text": "He talks about the whole idea of virtual assistants",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 107.92,
     "end": 111.2,
     "text": "and how they're changing the way we interact with technology.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 112,
     "end": 115.92,
     "text": "How does he describe our existing relationship with computers?",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 116.719,
     "end": 120.32,
     "text": "It changes the way that we think about computers.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 120.32,
     "end": 123.2,
     "text": "To date, we've thought of them largely as tools.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 123.2,
     "end": 126,
     "text": "They're just an advanced version of a calculator.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 126,
     "end": 128.8,
     "text": "There's something that you kind of use to get a specific thing done.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 129.599,
     "end": 132.479,
     "text": "Whereas this is kind of changing the more into like an agent.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 132.479,
     "end": 136.479,
     "text": "They're an active participant in the kind of interaction",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 136.479,
     "end": 139.439,
     "text": "and in guiding you to make the right decision.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 140,
     "end": 143.28,
     "text": "How do he describe our existing relationship with computers then?",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 143.36,
     "end": 147.84,
-    "text": "He said that to date, which is an expression which means 'up until this point in time', we have thought of them as advanced calculators.",
-    "speaker": "to date"
+    "text": "He said that to date, which is an expression which means up until this point in time,",
+    "speaker": "Rob"
   },
   {
+    "order": 45,
     "start": 147.84,
     "end": 150.4,
     "text": "we've thought of them as advanced calculators.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 150.4,
     "end": 151.439,
-    "text": "Yes, that's right.",
-    "speaker": null
+    "text": "Yes, that’s right,",
+    "speaker": "agentagent agency"
   },
   {
+    "order": 47,
     "start": 151.439,
     "end": 154,
     "text": "We use them as a tool to get things done.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 154.479,
     "end": 158.8,
     "text": "But he says that modern technology is turning them into an agent.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 158.8,
     "end": 161.759,
     "text": "This doesn't mean a secret agent like James Bond.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 161.759,
     "end": 165.52,
     "text": "In this sense, an agent is something that has agency",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 165.52,
     "end": 168.879,
     "text": "and that means it has the ability to act individually",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 168.879,
     "end": 170.479,
     "text": "and make its own decisions.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 170.479,
     "end": 173.359,
     "text": "I'm not sure I'd like my phone to have agency.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 173.359,
     "end": 175.759,
-    "text": "I’m not sure I’d like my phone to have agency. It probably wouldn’t like being in my pocket all day.",
-    "speaker": "agency"
+    "text": "It probably wouldn't like being in my pocket all day.",
+    "speaker": null
   },
   {
+    "order": 55,
     "start": 175.759,
     "end": 177.28,
     "text": "Hmm, it would, Dan.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 177.28,
     "end": 182,
     "text": "But I'm not sure Huitson is suggesting our devices will become that clever.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 182,
     "end": 185.519,
     "text": "But he did say they could become more active in our lives.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 58,
     "start": 185.519,
     "end": 186.879,
     "text": "Hmm, maybe.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 187.599,
     "end": 191.599,
     "text": "Oh, I imagine, for example, telling us if we're spending too much time",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 191.599,
     "end": 192.879,
     "text": "in fast food restaurants.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 192.879,
     "end": 194.639,
-    "text": "Maybe in your case, Dan.",
-    "speaker": null
+    "text": "Maybe in your case Dan. ",
+    "speaker": "Rob"
   },
   {
+    "order": 62,
     "start": 194.639,
     "end": 198.239,
     "text": "Mine will be telling me I spend too much time in the gym.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 198.32,
     "end": 201.439,
     "text": "Huitson goes on to explain how the way we talk",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 201.439,
     "end": 204,
     "text": "to our virtual assistants will develop.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 204,
     "end": 206.879,
     "text": "What does he say we don't need to do?",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 206.879,
     "end": 211.28,
     "text": "We will develop our own kind of vernacular for speaking with machines",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 211.28,
     "end": 214.08,
     "text": "that will be subtly different from how we speak to other people",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 214.08,
     "end": 216.08,
     "text": "because as you rightly point out,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 216.08,
     "end": 217.92,
     "text": "you don't need to make the machine like you.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 217.92,
     "end": 222.719,
     "text": "You don't need to kind of make random chitchat that's just filling the time.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 222.719,
     "end": 225.52,
     "text": "It can be much more brusquen to the point.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 225.6,
     "end": 229.68,
-    "text": "A lot of what we say in human communication is to do with our relationship with the person we’re talking to.",
+    "text": "A lot of what we say in human communication is to do with our relationship",
     "speaker": "Dan"
   },
   {
+    "order": 73,
     "start": 229.68,
     "end": 231.28,
     "text": "with the person we're talking to.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 231.28,
     "end": 236.32,
     "text": "We say things and talk about things that are maybe not directly relevant to our point.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 236.96,
     "end": 240.24,
     "text": "With a digital virtual assistant, we don't need to do that",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 240.24,
     "end": 243.2,
     "text": "so we don't need to make the machine like us.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 243.2,
     "end": 246.56,
     "text": "Huitson said that we will develop our own vernacular.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 246.56,
     "end": 249.439,
-    "text": "This is a general word for a native language.",
-    "speaker": null
+    "text": " this is a general word for a native language",
+    "speaker": "vernacularvernacular"
   },
   {
+    "order": 79,
     "start": 249.439,
     "end": 253.36,
     "text": "This vernacular will be a little bit different from our everyday vernacular",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 253.36,
     "end": 258.08,
     "text": "because as we said, we don't need to maintain a social relationship",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 258.08,
     "end": 259.68,
     "text": "with the artificial assistant.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 259.68,
     "end": 262,
     "text": "This means that we won't need chitchat.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 262,
     "end": 264.96,
     "text": "Chitchat is another expression for small talk.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 264.96,
     "end": 267.6,
     "text": "Conversation topics which aren't important,",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 267.6,
     "end": 270.72,
     "text": "but are part of everyday social communication",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 270.72,
     "end": 272.319,
     "text": "like talking about the weather.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 272.319,
     "end": 275.439,
-    "text": "And because we don't need to be friends with our virtual assistants,",
-    "speaker": null
+    "text": "And because we don’t need to be friends with our virtual assistants,",
+    "speaker": "brusque  to the point"
   },
   {
+    "order": 88,
     "start": 275.439,
     "end": 277.84,
     "text": "we can be brusquen to the point.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 277.84,
     "end": 281.6,
     "text": "Both of these mean being very direct and not very polite.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 282.24,
     "end": 283.76,
     "text": "Well, Dan, I don't mean to be brusqu,",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 283.76,
     "end": 286.96,
     "text": "but it is time for the answer to this week's quiz question.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 286.96,
     "end": 289.6,
     "text": "Earlier, I asked, when was the first computer",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 289.6,
     "end": 291.92,
     "text": "which could recognise speech launched?",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 291.92,
     "end": 298,
     "text": "The options were A, 1951, B, 1961, and C, 1971.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 298,
     "end": 303.68,
-    "text": "Well actually the first computer which could recognise speech was launched in 1961.",
+    "text": "Well, actually, the first computer which could recognise speech was launched in 1961.",
     "speaker": "brusque"
   },
   {
+    "order": 96,
     "start": 303.68,
     "end": 306.879,
     "text": "Yep, it was called the IBM shoebox",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 306.959,
     "end": 311.839,
     "text": "and could recognise 16 words and the numbers 0 to 9.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 311.839,
     "end": 313.519,
-    "text": "That's nearly as many as you.",
-    "speaker": null
+    "text": " That’s nearly as many as you",
+    "speaker": "Dan"
   },
   {
+    "order": 99,
     "start": 313.519,
     "end": 316.719,
     "text": "Cheeky, right, enough of this chitchat.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 316.719,
     "end": 318.879,
     "text": "Let's recap today's vocabulary.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 318.879,
     "end": 322.719,
-    "text": "Well, chitchat was one of today's expressions, meaning small talk,",
-    "speaker": null
+    "text": "Well chit-chat was one of today’s expressions. Meaning 'small talk",
+    "speaker": "chit-chatto date"
   },
   {
+    "order": 102,
     "start": 322.719,
     "end": 325.519,
     "text": "but we also had the expression to date.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 325.519,
     "end": 328.56,
     "text": "That means up until this moment in time.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 328.56,
     "end": 330.48,
     "text": "Then we have the noun agent.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 330.48,
     "end": 333.439,
     "text": "This refers to something that has agency,",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 333.439,
     "end": 336.24,
     "text": "and that is the ability to think, make decisions,",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 336.24,
     "end": 337.92,
     "text": "and act independently.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 337.92,
     "end": 341.12,
-    "text": "The next word is vernacular, another word for language, particularly when talking about a native language.",
+    "text": "The next word is vernacular, another word for language,",
     "speaker": "vernacular"
   },
   {
+    "order": 109,
     "start": 341.12,
     "end": 344.079,
     "text": "particularly when talking about a native language.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 344.079,
     "end": 348.16,
     "text": "And finally, there was brusqu, meaning direct and not polite,",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 348.16,
     "end": 353.519,
-    "text": "And finally there was brusque meaning 'direct and not polite' and to the point, which also means 'direct and without unnecessary information'.",
-    "speaker": "brusqueto the point"
+    "text": "and to the point, which also means direct and without unnecessary information.",
+    "speaker": null
   },
   {
+    "order": 112,
     "start": 353.519,
     "end": 356.8,
-    "text": "Yes, what can I do for you Dan?",
-    "speaker": "Rob"
+    "text": "Hey Rob Yes, what can I do for you Dan?",
+    "speaker": "Dan"
   },
   {
+    "order": 113,
     "start": 356.8,
     "end": 358.8,
     "text": "In the programme, certainly, Dan.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 359.519,
     "end": 361.36,
-    "text": "Well, that's all from us today.",
-    "speaker": null
+    "text": ". Well that’s all from us today",
+    "speaker": "Dan"
   },
   {
+    "order": 115,
     "start": 361.36,
     "end": 363.759,
     "text": "Be sure to check us out in all the usual places,",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 363.759,
     "end": 366.319,
     "text": "Facebook, Twitter, Instagram, and YouTube.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 366.319,
     "end": 368.48,
     "text": "And of course, please don't forget our website,",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 368.48,
     "end": 370.56,
     "text": "BBCLearningEnglish.com.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 370.56,
     "end": 371.839,
     "text": "Bye for now. Bye-bye.",

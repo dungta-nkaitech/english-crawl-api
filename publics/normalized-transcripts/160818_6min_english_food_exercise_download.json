@@ -1,614 +1,716 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6Mooch English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.12,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.08,
     "end": 14.88,
     "text": "Hello and welcome to 6Mooch English. I'm Alice.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 14.88,
     "end": 16,
     "text": "And I'm Neil.",
-    "speaker": "Neil"
+    "speaker": "Alice"
   },
   {
+    "order": 6,
     "start": 16,
     "end": 17.28,
     "text": "What are you eating, Neil?",
     "speaker": "Alice"
   },
   {
+    "order": 7,
     "start": 17.28,
     "end": 19.28,
     "text": "It's a chocolate chip muffin.",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 8,
     "start": 19.28,
     "end": 21.679,
     "text": "How many calories do you think it contains?",
     "speaker": "Alice"
   },
   {
+    "order": 9,
     "start": 21.679,
     "end": 23.039,
     "text": "I have no idea.",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 10,
     "start": 23.039,
     "end": 24.4,
     "text": "It checks the packet.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 24.4,
     "end": 28.4,
-    "text": "It's hard to find the calorie content amongst all the other information here. Ah, here we go: 450.",
-    "speaker": "Neil"
+    "text": " It's hard to find the calorie content amongst all the other information here",
+    "speaker": "Alice"
   },
   {
+    "order": 12,
     "start": 28.799,
     "end": 29.679,
     "text": "Err...",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 29.679,
     "end": 30.719,
     "text": "Oh, here we go.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 30.719,
     "end": 31.759,
     "text": "450.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 31.759,
     "end": 33.039,
-    "text": "That's a lot.",
-    "speaker": null
-  },
-  {
-    "start": 33.039,
-    "end": 34.56,
-    "text": "That's a lot! Are you sure you should be eating that?",
+    "text": "That's a lot!",
     "speaker": "Alice"
   },
   {
+    "order": 16,
+    "start": 33.039,
+    "end": 34.56,
+    "text": "Are you sure you should be eating that?",
+    "speaker": null
+  },
+  {
+    "order": 17,
     "start": 34.56,
     "end": 35.439,
     "text": "Why not?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 35.439,
     "end": 38.64,
-    "text": "Why not? I expect I cycled off quite a few calories on the way to work.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 38.64,
-    "end": 40.96,
-    "text": "Well, that depends on the length of your journey",
+    "text": "I expect I cycled off quite a few calories on the way to work.",
     "speaker": null
   },
   {
+    "order": 19,
+    "start": 38.64,
+    "end": 40.96,
+    "text": "Well, that depends on the length of your journey",
+    "speaker": "expended"
+  },
+  {
+    "order": 20,
     "start": 40.96,
     "end": 43.92,
     "text": "and how much energy you expended or used up.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 44.56,
     "end": 47.119,
     "text": "Now, on today's show, we're talking about food",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 47.119,
     "end": 50.239,
     "text": "and the exercise it takes to burn off calories.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 50.239,
     "end": 52.48,
     "text": "And I have a question for you, Neil.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 52.48,
     "end": 55.519,
     "text": "How long would you have to walk to burn off the calories",
-    "speaker": null
+    "speaker": "tools"
   },
   {
+    "order": 25,
     "start": 55.519,
     "end": 57.92,
     "text": "in a quarter of a large pizza?",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 57.92,
     "end": 63.76,
     "text": "Is it A33 minutes, B53 minutes, or C83 minutes?",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 63.76,
     "end": 66.719,
     "text": "Err... I'll go for A33 minutes.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 66.719,
     "end": 69.76,
     "text": "That sounds quite enough considering if you got the whole pizza,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 69.76,
     "end": 74.4,
     "text": "it would mean walking for 132 minutes to burn off or use the calories.",
-    "speaker": null
+    "speaker": "expended"
   },
   {
+    "order": 30,
     "start": 74.4,
     "end": 75.84,
     "text": "And that's over two hours.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 75.84,
     "end": 80.4,
     "text": "Well, we'll find out later on whether you got the answer right or not, Neil.",
-    "speaker": null
+    "speaker": "dense"
   },
   {
+    "order": 32,
     "start": 80.4,
     "end": 85.439,
     "text": "But be warned, people are bad at estimating how many calories there are in food.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 85.599,
     "end": 88.959,
     "text": "Now, the Royal Society for Public Health here in the UK",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 88.959,
     "end": 92.799,
     "text": "is concerned that people don't read the information on food packaging",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 92.799,
     "end": 96.959,
     "text": "because the text is so dense, it means tightly packed.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 96.959,
     "end": 100.719,
     "text": "Well, I never look at food labeling when I'm shopping for food. How about you, Alice?",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 100.719,
     "end": 103.599,
     "text": "Well, personally, I like to make an informed choice",
-    "speaker": null
+    "speaker": "informed"
   },
   {
+    "order": 38,
     "start": 103.599,
     "end": 105.759,
     "text": "about what I put in my body, Neil.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 105.759,
     "end": 110.079,
     "text": "And informed means based on an understanding of the facts.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 110.079,
     "end": 112.799,
     "text": "So I spend a lot of time reading the packaging.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 112.879,
     "end": 116.239,
     "text": "And I think the current traffic lights are a great idea.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 116.239,
     "end": 118.879,
     "text": "Traffic lights? What are you talking about?",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 43,
     "start": 118.879,
     "end": 123.439,
     "text": "Well, it's where food content is colour-coded red, orange or green,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 123.439,
     "end": 128.56,
     "text": "like traffic lights, depending on its percentage of fat, sugar and salt.",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 45,
     "start": 128.56,
     "end": 133.12,
     "text": "So you can see at a glance which pizza on the supermarket shelf is better for you.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 133.12,
     "end": 135.919,
     "text": "This helps the consumer to make an informed choice.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 135.919,
     "end": 139.519,
     "text": "To see at a glance means to understand something immediately.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 139.6,
     "end": 144,
     "text": "Well, my informed choice is based on which pizza has the most pepperoni on it.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 144,
     "end": 148.16,
     "text": "I had no idea food companies were putting traffic lights on their food packaging.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 148.16,
     "end": 150.24,
     "text": "Yes, and that's not all, Neil.",
-    "speaker": null
+    "speaker": "icon"
   },
   {
+    "order": 51,
     "start": 150.24,
     "end": 155.52,
     "text": "There are now plans to put an icon or simple picture of someone running",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 155.52,
     "end": 159.92,
     "text": "plus the time it would take to burn off the calories contained in a particular food item",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 159.92,
     "end": 164.879,
     "text": "on the front of the packaging. Let's hear what some consumers on the streets of London",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 164.879,
     "end": 166.32,
     "text": "thought about this idea.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 166.959,
     "end": 174.959,
-    "text": "MAN: I would think twice about buying crisps if I have to run 19 minutes just to burn the calories I ate.",
+    "text": " I would think twice about buying crisps if I have to run 19 minutes just to burn the calories I ate",
     "speaker": "INSERT"
   },
   {
+    "order": 56,
     "start": 174.959,
     "end": 180.56,
-    "text": "WOMAN: I'd either consider working out those 19 minutes or not eating the crisps at all.",
-    "speaker": "INSERT"
+    "text": "I'd either consider working out those 19 minutes or not eating the crisps at all.",
+    "speaker": null
   },
   {
+    "order": 57,
     "start": 182.799,
     "end": 187.84,
-    "text": "Two people who would think twice about whether to buy crisps if they knew how long it would take to burn off the calories.",
+    "text": "Two people who would think twice about whether to buy crisps if they knew how long it would take",
     "speaker": "Alice"
   },
   {
+    "order": 58,
     "start": 187.84,
     "end": 189.68,
     "text": "to burn off the calories.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 189.68,
     "end": 193.84,
     "text": "And think twice means to think carefully about doing something before you do it.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 194.159,
     "end": 199.12,
     "text": "But to be honest, I want freedom to do what I feel like, even if they put a label on the food,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 199.12,
     "end": 201.68,
     "text": "I think I'd exercise if I wanted to exercise.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 201.68,
     "end": 205.84,
     "text": "But I think I'd still have a packet of crisps if I wanted a packet of crisps.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 205.84,
     "end": 212.48,
-    "text": "That's fine so long as you are clear about how active you need to be to eat what you do and not put on weight.",
+    "text": "That's fine so long as you are clear about how active you need to be to eat what you do and not put on weight. ",
     "speaker": "Alice"
   },
   {
+    "order": 64,
     "start": 213.439,
     "end": 216.56,
     "text": "But a healthy diet isn't just about calories, is it?",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 216.56,
     "end": 219.84,
     "text": "I wouldn't need a cycle to work to burn off a diet cola,",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 219.92,
     "end": 224.879,
     "text": "but drinking a fresh orange juice would be a healthier choice even though it contains more calories.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 224.879,
     "end": 230.719,
     "text": "Well, that's a good point. Let's listen now to Shirley Kramer, Chief Executive at the Royal Society",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 230.719,
     "end": 235.12,
     "text": "for Public Health, talking about why she thinks the new labeling is necessary.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 237.039,
     "end": 241.599,
     "text": "We've got 60% of the UK population either overweight or obese.",
-    "speaker": null
+    "speaker": "INSERT"
   },
   {
+    "order": 70,
     "start": 241.599,
     "end": 246.8,
     "text": "We have a very, very urgent problem. We have a growing population literally.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 246.8,
     "end": 252.08,
     "text": "And we need to have a lot of tools in our toolbox, a lot of new strategies, I think,",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 252.08,
     "end": 255.52,
     "text": "in order to support people to make good choices.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 257.439,
     "end": 260.16,
     "text": "Shirley Kramer of the Royal Society of Public Health.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 260.72,
     "end": 266,
     "text": "So she says we need lots of tools or strategies to help tackle obesity in the UK.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 266.56,
     "end": 272.56,
     "text": "And linking energy content in food to physical activity is just one tool in the toolbox, so to speak.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 273.199,
     "end": 278.72,
     "text": "Indeed. Now, I think it's time for the answer to today's quiz question, Neil.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 278.72,
     "end": 285.199,
     "text": "I asked you how long would you have to walk to burn off the calories in a quarter of a large pizza?",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 285.199,
     "end": 291.68,
     "text": "Is it a 33 minutes, b 53 minutes or c 83 minutes?",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 291.68,
     "end": 293.92,
-    "text": "And I said a) 33 minutes.",
+    "text": "And I said a) 33 minutes",
     "speaker": "Neil"
   },
   {
+    "order": 80,
     "start": 293.92,
     "end": 296.72,
     "text": "And you underestimated, I'm afraid, Neil.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 296.72,
     "end": 299.759,
     "text": "The answer is c 83 minutes.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 300.319,
     "end": 305.039,
     "text": "This figure comes from Shirley Kramer, chief executive of the Royal Society for Public Health.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 305.92,
     "end": 309.839,
     "text": "Writing in the British Medical Journal, she argues that food should be labelled with the",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 309.839,
     "end": 315.12,
     "text": "equivalent exercise needed to burn off its calories. This would give consumers an immediate",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 315.12,
     "end": 321.039,
     "text": "link between foods, energy content and physical activity that might help to reduce obesity.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 321.039,
     "end": 326.719,
-    "text": "Note, Alice, that I've put my muffin to one side. You've convinced me to eat more healthily and I'll be eating a green salad for lunch.",
+    "text": "Note Alice that I've put my muffin to one side. You've convinced me to eat more healthily.",
     "speaker": "Neil"
   },
   {
+    "order": 87,
     "start": 326.719,
     "end": 329.039,
     "text": "And I'll be eating a green salad for lunch.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 329.04,
     "end": 331.92,
-    "text": "I'll believe that when I see it, Neil.",
-    "speaker": "Alice"
+    "text": "No, I'll believe that when I see it, Neil.",
+    "speaker": null
   },
   {
+    "order": 89,
     "start": 331.92,
     "end": 335.76,
     "text": "Okay, here are the words we learnt today. Expended.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 337.439,
     "end": 338,
     "text": "burn off",
     "speaker": "Alice"
   },
   {
+    "order": 91,
     "start": 339.84,
     "end": 340.319,
-    "text": "dense",
+    "text": "dense ",
     "speaker": "Alice"
   },
   {
+    "order": 92,
     "start": 342.08,
     "end": 342.8,
-    "text": "informed",
-    "speaker": "Alice"
+    "text": "Informed.",
+    "speaker": null
   },
   {
+    "order": 93,
     "start": 344.64,
     "end": 345.52,
     "text": "See it a glance.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 347.439,
     "end": 347.92,
     "text": "icon",
     "speaker": "Alice"
   },
   {
+    "order": 95,
     "start": 349.68,
     "end": 350.4,
-    "text": "think twice",
+    "text": "think twice ",
     "speaker": "Alice"
   },
   {
+    "order": 96,
     "start": 352.08,
     "end": 352.4,
-    "text": "tool",
-    "speaker": "Alice"
-  },
-  {
-    "start": 354,
-    "end": 357.92,
-    "text": "Well, that's the end of this edition of 6 Minute English. Join us again soon.",
+    "text": "Tool.",
     "speaker": null
   },
   {
+    "order": 97,
+    "start": 354,
+    "end": 357.92,
+    "text": "Well, that's the end of this edition of 6 Minute English. Join us again soon.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 98,
     "start": 358.48,
     "end": 364.08,
     "text": "Meanwhile, visit our website, BBCLearningEnglish.com, where you'll find guides to grammar,",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 364.08,
     "end": 368,
     "text": "exercises, videos and articles to read and improve your English.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 368.72,
     "end": 369.28,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 369.28,
     "end": 369.92,
-    "text": "Bye!",
-    "speaker": "Both"
+    "text": "Bye-bye.",
+    "speaker": null
   }
 ]

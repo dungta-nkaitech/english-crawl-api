@@ -1,605 +1,706 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Catherine"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.56,
     "text": "From BBC Learning English",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.519,
     "end": 16.879,
     "text": "Hello, this is 6 Minute English and I'm Catherine.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 16.879,
     "end": 17.839,
     "text": "And I'm Sam.",
-    "speaker": "Sam"
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 17.839,
     "end": 20.32,
     "text": "No, Sam, have you been watching the World Cup?",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 20.32,
     "end": 21.679,
     "text": "Quick it or football?",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 21.679,
     "end": 23.839,
     "text": "Because they're both being played at the moment.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 23.839,
     "end": 26.48,
     "text": "There they are now, I'm talking about football,",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 26.48,
     "end": 28.16,
     "text": "the Women's World Cup.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 11,
     "start": 28.16,
     "end": 30.32,
     "text": "In that case, yes, I have.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 12,
     "start": 30.32,
     "end": 34.32,
     "text": "I've really enjoyed it and it's been great that finally we can watch",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 34.32,
     "end": 38.799,
     "text": "the matches live on TV and that there's been so much interest in the media.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 38.799,
     "end": 42.96,
     "text": "We'll be finding out a little bit more about the history of women's football",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 42.96,
     "end": 44.879,
     "text": "in England in today's programme.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 44.879,
     "end": 47.76,
     "text": "But first, Sam, a question for you.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 48.879,
     "end": 55.28,
     "text": "When was the first official women's football world cup?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 55.28,
     "end": 57.359,
     "text": "Was it a 1970?",
-    "speaker": null
+    "speaker": "concerted effort concerted effort"
   },
   {
+    "order": 19,
     "start": 58.079,
     "end": 63.28,
     "text": "B1988 or C1991?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 63.28,
     "end": 64.64,
-    "text": "What do you think, Sam?",
+    "text": " What do you think, Sam",
     "speaker": "Catherine"
   },
   {
+    "order": 21,
     "start": 64.64,
     "end": 69.519,
-    "text": "Well I think I can get this through mathematics rather than knowledge, so I’m not going to say it right now, but I’ll tell you later.",
+    "text": "Well I think I can get this through mathematics rather than knowledge, ",
     "speaker": "Sam"
   },
   {
+    "order": 22,
     "start": 69.519,
     "end": 73.439,
     "text": "So I'm not going to say it right now, but I'll tell you later.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 73.439,
     "end": 77.2,
     "text": "Okay, well, I'll tell you the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 77.2,
     "end": 81.2,
     "text": "Now, Jermic Locke is a writer on women's football in England",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 81.2,
     "end": 85.519,
     "text": "and she spoke recently on the BBC Women's Hour programme.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 85.599,
     "end": 89.599,
     "text": "Here she describes the reaction throughout the years to women's football.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 90.239,
     "end": 92.56,
     "text": "Has it been easy for the women's game in England?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 93.439,
     "end": 97.439,
-    "text": "Women's football has really been a struggle to play,",
-    "speaker": null
+    "text": "Women’s football has really been a struggle to play,",
+    "speaker": "a struggleagencya backlashto dampen enthusiasm"
   },
   {
+    "order": 29,
     "start": 97.439,
     "end": 103.12,
     "text": "to have any kind of agency and to be taken seriously as athletes.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 103.12,
     "end": 104.719,
     "text": "That can be seen throughout history.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 104.719,
     "end": 108.159,
     "text": "I think every moment that women's football has had,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 108.159,
     "end": 114,
     "text": "there's been a backlash afterwards or a kind of attempt to keep women back",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 114.48,
     "end": 117.68,
     "text": "and to dampen enthusiasm for the sport.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 117.68,
     "end": 119.68,
-    "text": "So, it’s not been easy, has it?",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 119.68,
-    "end": 122.239,
-    "text": "No, she said it's been a struggle,",
+    "text": "So it's not been easy, has it?",
     "speaker": null
   },
   {
-    "start": 122.239,
-    "end": 125.76,
-    "text": "No, she said it’s been a struggle, which means it’s been difficult to make any progress.",
+    "order": 35,
+    "start": 119.68,
+    "end": 122.239,
+    "text": "No, she said it’s been a struggle,",
     "speaker": "struggle"
   },
   {
+    "order": 36,
+    "start": 122.239,
+    "end": 125.76,
+    "text": "which means it's been difficult to make any progress.",
+    "speaker": null
+  },
+  {
+    "order": 37,
     "start": 125.76,
     "end": 130.159,
     "text": "And she also mentioned that there was no agency in the women's game.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 130.159,
     "end": 135.199,
     "text": "To have agency means you have control over your own situation.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 135.199,
     "end": 137.599,
     "text": "You can make the decisions you want to make.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 137.599,
     "end": 142.8,
     "text": "So she's saying that the women's game didn't really have control over its own future.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 143.52,
     "end": 147.04,
-    "text": "Every time they had some success, there was a backlash, there was a negative reaction to their success.",
+    "text": "Every time they had some success, there was a backlash,",
     "speaker": "backlash"
   },
   {
+    "order": 42,
     "start": 147.04,
     "end": 150,
     "text": "There was a negative reaction to their success.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 150,
     "end": 155.6,
     "text": "That's right, and she goes on to say that people tried to dampen enthusiasm for the sport.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 155.6,
     "end": 159.36,
     "text": "They tried to make it difficult to see and enjoy it.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 159.36,
     "end": 163.52,
     "text": "So who tried to dampen enthusiasm and how do they do it?",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 163.52,
     "end": 169.12,
     "text": "Well, during that after the First World War, women's football became really popular with crowds of",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 169.12,
     "end": 172.16,
     "text": "up to 50,000 watching games.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 172.24,
     "end": 178.56,
     "text": "It may have been popular with the crowds, but it wasn't so popular with the men who ran the game.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 178.56,
     "end": 180.8,
     "text": "The English Football Association.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 181.519,
     "end": 182.8,
     "text": "Here's Gemma Clock again.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 183.519,
     "end": 188.96,
-    "text": "The Men's Football Association were panicked by seeing women doing so well,",
-    "speaker": null
+    "text": "The men’s football association were panicked by seeing women doing so well ",
+    "speaker": "bannedconcerted effort"
   },
   {
+    "order": 52,
     "start": 189.599,
     "end": 193.919,
     "text": "and they banned all women from playing football on association grounds,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 193.919,
     "end": 196,
     "text": "and that lasted for about 50 years.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 196,
     "end": 200.719,
     "text": "It was a very concerted effort to keep women's football amateur status",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 201.439,
     "end": 203.919,
     "text": "and ensure that there weren't crowds watching them play.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 204.719,
     "end": 208.96,
     "text": "So the men were really worried by the success of the women's game.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 208.96,
     "end": 213.199,
     "text": "They thought it might take money and supporters away from the men's game.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 213.759,
     "end": 217.199,
     "text": "So they banned women from playing on their pitches.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 217.199,
     "end": 221.199,
     "text": "This means that they no longer allowed them to use the pitches anymore.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 221.919,
     "end": 225.199,
     "text": "This effectively killed the professional women's game.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 225.199,
     "end": 228.96,
     "text": "As up to then, they'd been using the same facilities as the men.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 229.04,
     "end": 233.599,
     "text": "This, she says, was a concerted effort to restrict women's football.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 234.159,
     "end": 240.719,
     "text": "When you make a concerted effort to do something, it means that you try really hard to do it.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 240.719,
     "end": 245.76,
     "text": "I'm pleased to say that the ban on women using football association pitches was eventually lifted,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 245.76,
     "end": 249.92,
     "text": "although only comparatively recently in 1971.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 249.92,
     "end": 254.8,
     "text": "Right, before we review today's vocabulary, let's have the answer to today's question.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 254.88,
     "end": 261.12,
     "text": "So I asked you, Sam, when was the first official women's world cup?",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 261.12,
     "end": 266.879,
     "text": "Was it a 1970 B1988 or C1991?",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 266.879,
     "end": 270.08,
     "text": "And you said, Sam, you were going to work this out with maths.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 270.08,
     "end": 271.04,
     "text": "So come on then.",
-    "speaker": null
+    "speaker": "concerted effort concerted effort"
   },
   {
+    "order": 71,
     "start": 271.04,
     "end": 272.08,
     "text": "I know. I did.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 272.08,
     "end": 275.92,
     "text": "So I know the World Cup has held every four years.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 275.92,
     "end": 277.68,
     "text": "It's 2019 now.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 74,
     "start": 277.68,
     "end": 283.68,
     "text": "So the answer must be an odd year, very with me, which makes it 1991.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 283.68,
     "end": 284.319,
     "text": "Am I right?",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 284.399,
     "end": 290,
     "text": "Right, well, we'll see if the mathematical approach is any better than you actually just knowing the answer.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 290,
     "end": 294.24,
     "text": "The first World Cup for women was actually held in.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 294.24,
     "end": 295.439,
     "text": "Oh, come on, hurry up.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 296.48,
     "end": 297.68,
     "text": "Levin and my riddy.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 297.68,
     "end": 299.36,
-    "text": "1970",
+    "text": " 19",
     "speaker": "Catherine"
   },
   {
+    "order": 81,
     "start": 299.36,
     "end": 300.48,
     "text": "Oh no.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 300.48,
     "end": 301.12,
     "text": "70.",
-    "speaker": null
-  },
-  {
-    "start": 301.12,
-    "end": 303.519,
-    "text": "I can’t believe I got that wrong",
     "speaker": "Sam"
   },
   {
-    "start": 303.519,
-    "end": 306.639,
-    "text": "But it wasn't an official tournament.",
+    "order": 83,
+    "start": 301.12,
+    "end": 303.519,
+    "text": "Oh, I can't believe I got that wrong.",
     "speaker": null
   },
   {
+    "order": 84,
+    "start": 303.519,
+    "end": 306.639,
+    "text": "But it wasn't an official tournament.",
+    "speaker": "Sam"
+  },
+  {
+    "order": 85,
     "start": 306.639,
     "end": 311.68,
     "text": "The first official women's World Cup was indeed 1990.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 311.68,
     "end": 313.12,
     "text": "Yay, it's a...",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 313.12,
     "end": 314.56,
     "text": "Your maths words.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 314.56,
     "end": 318.4,
     "text": "So where does Sam and everybody else who got that right?",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 318.4,
     "end": 323.92,
     "text": "Now, before we get to extra time and penalties, let's recap today's vocabulary.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 323.92,
     "end": 329.12,
-    "text": "A struggle is how you can describe something that is very difficult to achieve, something you have to fight for.",
+    "text": "A struggle is how you can describe something that is very difficult to achieve,",
     "speaker": "struggle"
   },
   {
+    "order": 91,
     "start": 329.12,
     "end": 330.8,
     "text": "something you have to fight for.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 331.36,
     "end": 338.8,
     "text": "To have agency means being able to act independently and have control over your own choices.",
-    "speaker": "agency"
+    "speaker": null
   },
   {
+    "order": 93,
     "start": 338.879,
     "end": 342.24,
     "text": "A backlash is a strong negative reaction to something.",
     "speaker": "backlash"
   },
   {
+    "order": 94,
     "start": 342.24,
     "end": 348.16,
     "text": "If you try to damp an enthusiasm for something, you try to make people less interested in it.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 348.96,
     "end": 353.6,
     "text": "Banging something means using certain powers to stop something from happening.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 354.16,
     "end": 359.759,
-    "text": "And finally, making a concerted effort means trying really hard.",
-    "speaker": "concerted effort"
+    "text": " And finally, making a concerted effort means trying really hard",
+    "speaker": "Banning"
   },
   {
+    "order": 97,
     "start": 359.759,
     "end": 362.56,
-    "text": "Well, the final whistle has blown for us today.",
-    "speaker": null
+    "text": "Well the final whistle has blown for us today. ",
+    "speaker": "Sam"
   },
   {
+    "order": 98,
     "start": 362.56,
     "end": 367.759,
     "text": "We'll see you again soon and don't forget to look out for more from the BBC Learning English team",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 367.759,
     "end": 370.8,
     "text": "online on social media and on our app.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 370.8,
     "end": 372.079,
     "text": "Bye for now. Bye!",

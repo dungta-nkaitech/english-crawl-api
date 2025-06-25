@@ -1,569 +1,664 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 11.439,
     "text": "6MtEnglish from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 11.439,
     "end": 14.56,
     "text": "Hello and welcome to 6 Minute English. I'm Alice.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 14.56,
     "end": 15.679,
     "text": "And I'm Neil.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 15.679,
     "end": 18.879,
     "text": "So Neil, what's the best holiday you've ever had?",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 18.879,
     "end": 24.24,
     "text": "Oh, that would be scuba diving on the Great Barrier Reef of the coast of Australia.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 24.24,
     "end": 28.08,
     "text": "Oh, it was awesome. I saw sharks, sea turtles,",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 28.079,
     "end": 31.919,
     "text": "manta rays. I certainly don't like the idea of coming nose to nose with a shark.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 32.56,
     "end": 37.679,
     "text": "But then diving isn't really my thing. I'm more into cultural holidays, you know,",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 37.679,
     "end": 40.399,
     "text": "visiting the ruins of ancient civilizations.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 40.399,
     "end": 45.759,
     "text": "Hmm, that's very worthy, Alice. But tourists are actually damaging a number of important sites",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 45.759,
     "end": 50.719,
     "text": "around the world, tramping around, dropping litter, scribbling graffiti everywhere.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 50.719,
     "end": 53.2,
     "text": "I would never drop litter or scribble graffiti.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 53.2,
     "end": 56.32,
     "text": "Well, we're talking about world heritage sites today,",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 56.32,
     "end": 62.32,
     "text": "which our place's UNESCO considers to be at risk from various threats and in need of protection.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 62.88,
     "end": 68.239,
     "text": "Heritage means the things a society considers important to its history and culture,",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 68.239,
     "end": 73.599,
     "text": "for example, art, buildings or natural sites, such as the Grand Canyon in the United States.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 73.599,
     "end": 77.519,
     "text": "Hmm, and the environment poses a number of different threats.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 77.519,
     "end": 84.159,
     "text": "So Neil, can you tell me which sea creature is a potential threat to the Great Barrier Reef's ecosystem?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 84.239,
     "end": 91.599,
     "text": "Is it a starfish, b, jellyfish or sea, cuttlefish?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 91.599,
     "end": 99.519,
     "text": "Hmm, I will go for b, jellyfish. I'm no expert on marine life, but I have eaten jellyfish",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 99.519,
     "end": 100.879,
     "text": "and I haven't eaten the other ones.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 100.879,
     "end": 105.039,
     "text": "I see. Well, we'll find out later on if you're an expert or not.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 105.039,
     "end": 110.159,
     "text": "But let's listen now to BBC reporter Roger Haravan talking about other types of threat",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 110.239,
     "end": 112.879,
     "text": "to heritage sites. See how many you can spot.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 115.28,
     "end": 117.759,
     "text": "The most precious wonders of the natural world.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 118.399,
     "end": 120.079,
     "text": "Australia's Great Barrier Reef.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 120.719,
     "end": 123.599,
     "text": "America's spectacular Grand Canyon.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 124.239,
     "end": 128.159,
     "text": "The Barrier Reef of Belize in South America, second biggest on earth.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 128.8,
     "end": 131.28,
     "text": "All facing threats from humans.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 131.28,
     "end": 134.159,
     "text": "The Great Barrier Reef is attracting urgent concern.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 134.96,
     "end": 138.319,
     "text": "There's a huge battle over mining and port development.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 138.319,
     "end": 142.799,
     "text": "A giant coal mine has just been given the go ahead by the Queensland Government.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 142.799,
     "end": 145.599,
     "text": "Even though scientists warn it may damage the reef.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 146.959,
     "end": 148.959,
     "text": "That's the BBC's Roger Haravan.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 148.959,
     "end": 152.479,
     "text": "Well, I spotted a couple of threats to heritage sites there.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 152.479,
     "end": 154.4,
     "text": "Mining and port development.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 154.879,
     "end": 160.4,
     "text": "Now, any type of industrial activity can harm them by, for example, encroaching on the natural",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 160.4,
     "end": 166.079,
     "text": "habitat of animals and plants living there or by polluting the water that flows into the site.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 166.96,
     "end": 171.84,
     "text": "Mining is the process of extracting coal or other minerals from the ground.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 171.84,
     "end": 176.4,
     "text": "And if you encroach on something, it means you move beyond acceptable limits.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 176.96,
     "end": 183.2,
     "text": "The interesting thing is that world heritage sites only constitute 0.5% of the earth's surface.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 183.76,
     "end": 189.36,
     "text": "So why can't people do their mining and industrial development on the remaining 99.5%.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 189.84,
     "end": 194.48,
     "text": "But there's one human industry that can actually be beneficial for precious sites.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 194.48,
     "end": 195.439,
     "text": "Tourism.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 195.52,
     "end": 199.52,
     "text": "But you said earlier that tourism was bad for heritage sites.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 199.52,
     "end": 200.4,
     "text": "I know.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 200.4,
     "end": 202.479,
     "text": "And I was right up to a point.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 203.039,
     "end": 206.479,
     "text": "World heritage sites are some of tourism's main attractions,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 206.479,
     "end": 209.12,
     "text": "and more and more people are visiting them.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 209.12,
     "end": 214.079,
     "text": "So it's all about getting the balance right between generating money to maintain and restore",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 214.079,
     "end": 217.919,
     "text": "the sites and minimising the impact of tourist activities.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 217.919,
     "end": 220.079,
     "text": "Hmm, such as littering and graffiti.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 220.079,
     "end": 221.039,
     "text": "Exactly.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 221.039,
     "end": 223.84,
     "text": "And the term for this is sustainable tourism.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 223.92,
     "end": 228.719,
     "text": "Or tourism design to have a low impact on the local culture and the environment",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 228.719,
     "end": 230.96,
     "text": "while generating employment for local people.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 231.68,
     "end": 235.84,
     "text": "So UNESCO is working to direct government site managers and visitors",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 235.84,
     "end": 241.12,
     "text": "towards sustainable tourism practices in order to keep our world's natural and cultural heritage",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 241.12,
     "end": 242.719,
     "text": "safe for future generations.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 242.719,
     "end": 244.96,
     "text": "Wow, you can really talk the talk, Alice.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 244.96,
     "end": 246.319,
     "text": "You should work for UNESCO.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 247.36,
     "end": 252.319,
     "text": "Okay, let's move on now and listen to Paul Crocombe of the snorkeling and diving company",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 252.4,
     "end": 258.079,
     "text": "in Townsville, Queensland, Australia, giving his view on how the great barrier reef will cope",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 258.079,
     "end": 259.759,
     "text": "with threats to its survival.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 261.04,
     "end": 262.159,
     "text": "The reach is fairly dynamic.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 262.159,
     "end": 264.8,
     "text": "It's been through a couple of ice ages and still here.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 264.8,
     "end": 270.079,
     "text": "So its resilience will ensure that the reef is still here in years to come.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 270.079,
     "end": 276.8,
     "text": "But the species diversity and the visual aesthetics of reef may change quite considerably,",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 276.8,
     "end": 280.24,
     "text": "especially if you get an increase in sea temperature and increase in carbon dioxide",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 280.24,
     "end": 281.68,
     "text": "and the water and things like that.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 281.68,
     "end": 286,
     "text": "Paul Crocombe describes the reef as dynamic and resilient.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 286,
     "end": 291.759,
     "text": "Dynamic means active or capable of changing, and resilience means the ability to recover",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 291.759,
     "end": 294.16,
     "text": "or adapt to change, which all sounds good.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 294.16,
     "end": 299.92,
     "text": "But Paul also says that the species diversity, the range of plants and animals, may change.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 299.92,
     "end": 305.84,
     "text": "Hmm, for example, a rise in sea temperature would cause a rise in carbon dioxide levels,",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 305.84,
     "end": 311.439,
     "text": "and this could have a big impact on both the species diversity and the reef's visual aesthetic.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 311.84,
     "end": 313.199,
     "text": "Or the way it looks.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 313.199,
     "end": 316.879,
     "text": "Okay, I think it's time now for the answer to today's quiz question, Alice.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 316.879,
     "end": 318.48,
     "text": "Yes, I think so too.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 318.48,
     "end": 325.28,
     "text": "Okay, so I asked you which sea creature poses a potential threat to the Great Barrier Reef's ecosystem?",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 325.84,
     "end": 332.56,
     "text": "Is it a type of a starfish, b jellyfish or c couplefish?",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 332.56,
     "end": 334.56,
     "text": "And I said b jellyfish.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 334.56,
     "end": 336.96,
     "text": "And you've got stung number-fraid neal.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 336.96,
     "end": 338.16,
     "text": "Ow!",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 338.24,
     "end": 341.04,
     "text": "The answer is starfish.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 341.04,
     "end": 347.28,
     "text": "The crown of thorns starfish, praise on coral and large outbreaks of these starfish can devastate reefs.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 348.08,
     "end": 351.2,
     "text": "Now, can you remind us of some of today's vocabulary neal?",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 351.2,
     "end": 361.6,
     "text": "Sure. Heritage encroach on something, sustainable tourism, dynamic, resilience, species diversity,",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 362.4,
     "end": 363.52,
     "text": "visual aesthetic.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 364,
     "end": 366.24,
     "text": "Well, that's the end of today's six-minute English.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 366.24,
     "end": 367.759,
     "text": "Don't forget to join us again soon.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 368.4,
     "end": 368.879,
     "text": "Bye.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 368.879,
     "end": 369.36,
     "text": "Goodbye.",

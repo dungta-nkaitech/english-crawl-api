@@ -1,467 +1,545 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.64,
     "end": 16.24,
     "text": "Hello, this is 6 minutes English from BBC Learning English. I'm Sam.",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 16.24,
     "end": 17.28,
     "text": "And I'm Neil.",
-    "speaker": "Neil"
+    "speaker": "Sam"
   },
   {
+    "order": 4,
     "start": 17.28,
     "end": 20.8,
     "text": "Have you heard the expression, Doom's scrolling, Neil?",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 20.8,
     "end": 24.879,
     "text": "It's when people spend a lot of time reading or scrolling,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 6,
     "start": 24.879,
     "end": 29.679,
     "text": "a mobile phone or computer screen in order to read negative news stories.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 29.679,
     "end": 31.359,
     "text": "Stories full of doom.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 31.359,
     "end": 35.119,
     "text": "I hate to admit it, but I do sometimes doom scroll.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 35.119,
     "end": 38.32,
-    "text": "Well, don't feel too bad, Neil, because you're not alone.",
-    "speaker": null
+    "text": "Well don't feel too bad, Neil, because you're not alone. ",
+    "speaker": "Neil"
   },
   {
+    "order": 10,
     "start": 38.32,
     "end": 43.679,
     "text": "Research from the University of California found that people all over the world doom scroll,",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 43.679,
     "end": 45.359,
     "text": "regardless of culture.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 45.359,
     "end": 50.48,
     "text": "What's more, there may even be evolutionary reasons why we're attracted to bad news.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 50.48,
     "end": 58,
-    "text": "In this programme, we'll be investigating why we feel compelled to look at, and even seek out, bad news. And, as usual, we'll be learning some new vocabulary, as well.",
+    "text": "In this programme, we'll be investigating why we feel compelled to look at and even seek out bad news.",
     "speaker": "Neil"
   },
   {
+    "order": 14,
     "start": 58.079,
     "end": 61.359,
     "text": "And as usual, we'll be learning some new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 61.359,
     "end": 63.759,
-    "text": "But before that, I have a question for you, Neil.",
-    "speaker": null
+    "text": "But before that I have a question for you, Neil. ",
+    "speaker": "Neil"
   },
   {
+    "order": 16,
     "start": 64.239,
     "end": 70.64,
     "text": "Doom's scrolling is a very modern idea, which is only possible with the 24-7 non-stop cycle of news",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 70.64,
     "end": 76.56,
     "text": "reporting. So according to international news agency Roeces, what has been the top global",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 76.56,
     "end": 85.12,
     "text": "news story of 2023 so far? Is it A, the war in Ukraine, B, increasing prices and inflation, or C,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 85.68,
     "end": 87.6,
-    "text": "c) Prince Harry's autobiography?",
+    "text": "Prince Harry's autobiography?",
     "speaker": "Neil"
   },
   {
+    "order": 20,
     "start": 87.6,
     "end": 92.32,
     "text": "I think the answer is an issue that's affecting everyone in inflation.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 92.32,
     "end": 95.359,
     "text": "Okay, Neil. I'll reveal the answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 95.92,
     "end": 100.4,
     "text": "Now, it might be true that the non-stop news cycle makes doom scrolling possible,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 100.4,
     "end": 107.52,
     "text": "but that doesn't explain why we do it. Anthropologist Ella Alshamahi thinks the answer may lie in human",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 24,
     "start": 107.52,
     "end": 112.96,
     "text": "evolution. Here she outlines the problem for BBC Radio 4 programme. Why do we do that?",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 113.679,
     "end": 119.199,
     "text": "We go searching out for bad news, looking for things that will make us feel IK inside.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 119.839,
     "end": 125.919,
     "text": "And so many of us do it. Is it a result of 24-7 doom on tap on our phones?",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 27,
     "start": 126.799,
     "end": 132.24,
     "text": "Or is it some kind of compulsion that comes from somewhere way, way back?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 133.199,
     "end": 139.519,
     "text": "Reading bad news stories makes us feel IK, an informal American phrase which means feel sick,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 139.52,
     "end": 144.719,
     "text": "often because of something disgusting or disturbing. It's a feeling caused by the fact that",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 30,
     "start": 144.719,
     "end": 151.12,
     "text": "thanks to the internet, now we have the news on tap, easily available so that you can have as much",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 151.12,
     "end": 156.24,
     "text": "of it as you want whenever you want. But Ella thinks that's not the whole story.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 156.24,
     "end": 162.08,
     "text": "There's another theory, way back in human history when we lived in caves, it seemed everything",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 33,
     "start": 162.08,
     "end": 168.24,
     "text": "could kill us from wild animals to eating the wrong mushroom. Knowing what the dangers were and how",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 168.24,
     "end": 175.92,
     "text": "to avoid them was vital to our survival. And from an evolutionary perspective, survival is everything.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 175.92,
     "end": 182.4,
     "text": "As a result, we humans naturally pay attention to the negative stuff, something Ella calls",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 182.4,
     "end": 188.56,
     "text": "negativity bias. But while cavemen only knew what was happening in their local area,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 188.56,
     "end": 194.24,
     "text": "nowadays we know the bad news from all over the world. Here's Ella again, discussing this with",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 38,
     "start": 194.24,
     "end": 200,
     "text": "her friend, TV presenter Clara Ampho, for BBC Radio 4 program, why do we do that?",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 200.8,
     "end": 204.56,
     "text": "You know, before it would be like, I don't know, I'm assuming you'd go to the neighbor's cave,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 204.56,
     "end": 208.64,
     "text": "and they don't really know the bad news from that particular mountain.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 208.64,
     "end": 209.04,
     "text": "Yeah.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 209.04,
     "end": 214.56,
     "text": "It's now, it's like, let me tell you about the really bad information and situation that's going on",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 214.56,
     "end": 218.719,
     "text": "in some island somewhere. It's just that the good news doesn't make up for it.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 218.719,
     "end": 222,
     "text": "It really doesn't and it's, I think, trauma is very man-sized.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 222,
     "end": 224.639,
     "text": "Really? It doesn't kill you, you make it stronger.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 225.68,
     "end": 230.8,
     "text": "This is a test. I think we're conditioned to believe that negative experiences shape",
-    "speaker": null
+    "speaker": "Ella al-Shamahi"
   },
   {
+    "order": 47,
     "start": 230.8,
     "end": 232.159,
     "text": "possible than joyous ones.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 233.039,
     "end": 238.879,
     "text": "Reading bad news from around the world can depress us, and Ella thinks that the little good news we",
-    "speaker": null
+    "speaker": "Ella al-Shamahi"
   },
   {
+    "order": 49,
     "start": 238.879,
     "end": 244.96,
     "text": "do here doesn't make up for the depressing news. To make up for something means to compensate",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 244.96,
     "end": 247.52,
     "text": "for something bad with something good.",
-    "speaker": null
+    "speaker": "Ella al-Shamahi"
   },
   {
+    "order": 51,
     "start": 247.52,
     "end": 254.88,
     "text": "Good news is hard to find. In fact, Clara thinks society has romanticized bad traumatic news.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 254.88,
     "end": 260.56,
     "text": "If you romanticize something, you talk about it in a way that makes it sound better than it really is.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 261.28,
     "end": 265.759,
     "text": "Connected to this is the saying, what doesn't kill you makes you stronger,",
-    "speaker": null
+    "speaker": "Ella al-Shamahi"
   },
   {
+    "order": 54,
     "start": 265.759,
     "end": 269.28,
     "text": "meaning that by going through difficult experiences in life,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 269.28,
     "end": 272.24,
     "text": "people build up strength and resilience for the future.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 272.24,
     "end": 275.68,
     "text": "Maybe it's best to stop doom scrolling altogether.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 275.759,
     "end": 280.48,
-    "text": "Maybe it's best to stop doomscrolling altogether, but with so much bad news pouring into our mobile phones every day, it's not easy.",
+    "text": "But with so much bad news pouring into our mobile phones every day, it's not easy.",
     "speaker": "Ella al-Shamahi"
   },
   {
+    "order": 58,
     "start": 281.12,
     "end": 284,
     "text": "Okay, it's time to reveal the answer to my question, Neil.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 284.4,
     "end": 290.72,
     "text": "I asked you, what news agency Reuters considers the top new story of 2023 so far?",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 290.72,
     "end": 293.04,
-    "text": "And I guessed it was b) inflation.",
+    "text": "And I guessed it was b) inflation",
     "speaker": "Ella al-Shamahi"
   },
   {
+    "order": 61,
     "start": 293.04,
     "end": 295.04,
-    "text": "Which was the correct answer.",
-    "speaker": null
+    "text": "Which was… the correct answer",
+    "speaker": "Ella al-Shamahi"
   },
   {
+    "order": 62,
     "start": 295.04,
     "end": 299.6,
     "text": "Although there's still plenty of time for 2023 to bring us more doom,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 299.6,
     "end": 302.319,
     "text": "hopefully along with a little positivity too.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 303.12,
     "end": 308.079,
     "text": "Okay, let's recap the vocabulary we've learned from this program about doom scrolling,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 308.079,
     "end": 311.759,
     "text": "spending lots of time reading bad news stories on your phone.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 311.759,
     "end": 318.159,
     "text": "Feeling ick is American slang for feeling sick, often because of something disgusting or disturbing.",
     "speaker": "Ella al-Shamahi"
   },
   {
+    "order": 67,
     "start": 318.159,
     "end": 323.759,
     "text": "When something is on tap, it's easily available so that you can have as much of it as you want.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 323.759,
     "end": 330.159,
     "text": "The fraisel verb to make up for something means to compensate for something bad with something good.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 330.16,
     "end": 333.52,
     "text": "When we romanticize something, we make it sound better than it is.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 334.16,
     "end": 340,
-    "text": "And finally, the saying 'what doesn't kill you makes you stronger' means that by going through difficult life experiences, people build up strength for the future.",
+    "text": "And finally, the saying what doesn't kill you makes you stronger means that by going through",
     "speaker": "Ella al-Shamahi"
   },
   {
+    "order": 71,
     "start": 340,
     "end": 344.32,
     "text": "difficult life experiences, people build up strength for the future.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 344.32,
     "end": 349.92,
     "text": "Once again, our six minutes are up, but if doom scrolling's not for you, remember you can find",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 349.92,
     "end": 354.56,
     "text": "lots of positive news stories to build you vocabulary here at six minute English.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 354.56,
     "end": 359.28,
     "text": "Don't forget that there is more to BBC learning English than six minute English.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 359.279,
     "end": 364,
     "text": "Why not try to improve your vocabulary through the language in news headlines?",
-    "speaker": null
+    "speaker": "Ella al-Shamahi"
   },
   {
+    "order": 76,
     "start": 364,
     "end": 368.239,
     "text": "Try the news review video on our website or download the podcast.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 368.239,
     "end": 369.759,
     "text": "But that's by for now. Bye.",

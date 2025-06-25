@@ -1,968 +1,1129 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 8.24,
     "text": "6MuteEnglish",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.88,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.4,
     "end": 15.359,
     "text": "Hello and welcome to 6MuteEnglish. I'm Catherine.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 15.359,
     "end": 16.399,
     "text": "And I'm Neil.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 16.399,
-    "end": 18.32,
-    "text": "Now, Neil, you're a dad, aren't you?",
     "speaker": "Catherine"
   },
   {
+    "order": 6,
+    "start": 16.399,
+    "end": 18.32,
+    "text": "Now, Neil, you're a dad, aren't you",
+    "speaker": "Catherine"
+  },
+  {
+    "order": 7,
     "start": 18.32,
     "end": 20.719,
     "text": "I am a dad. How did you know?",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 20.719,
     "end": 23.839,
-    "text": "I am a dad. How did you know? Is it the grey hair in my beard? Is it the wrinkles around the eyes?",
-    "speaker": "Neil"
+    "text": "Is it the grey hair in my beard? Is it the wrinkles around the eyes?",
+    "speaker": null
   },
   {
+    "order": 9,
     "start": 23.839,
     "end": 25.519,
     "text": "I thought that was just your age.",
     "speaker": "Catherine"
   },
   {
+    "order": 10,
     "start": 25.519,
     "end": 27.199,
     "text": "Well, yes, maybe.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 27.199,
     "end": 30.32,
     "text": "In today's programme, we're going to be talking about fathers",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 30.32,
     "end": 33.679,
     "text": "and how being a father has changed over the years.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 33.679,
     "end": 35.679,
     "text": "But before we hear more about this topic,",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 35.679,
     "end": 36.799,
     "text": "our question for the day.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 37.359,
     "end": 39.6,
     "text": "According to recent research in the UK,",
-    "speaker": null
+    "speaker": "Catherine"
   },
   {
+    "order": 16,
     "start": 39.6,
     "end": 43.359,
     "text": "what percentage of men are present when their children are born?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 43.359,
     "end": 49.92,
     "text": "Is it A 55% B 75% or C 95% what do you think?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 50.719,
     "end": 54.159,
-    "text": "I think a lot of men these days like to see their children born. It's not culturally inappropriate so I'm going to go for 95%.",
-    "speaker": "Catherine"
+    "text": " I think a lot of men these days like to see their children born",
+    "speaker": "Neil"
   },
   {
+    "order": 19,
     "start": 54.159,
     "end": 56.079,
     "text": "It's not culturally inappropriate.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 56.079,
     "end": 59.439,
     "text": "So I'm going to go for 95%.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 59.439,
     "end": 62.56,
     "text": "Well, we'll find out if you're right at the end of the programme.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 22,
     "start": 62.56,
     "end": 66.719,
     "text": "Now, Dr Anna McInn is an evolutionary anthropologist.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 66.719,
     "end": 68.719,
     "text": "She studies, among other things,",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 68.719,
     "end": 71.759,
     "text": "how human behaviour has changed and is changing.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 72.319,
     "end": 74.879,
     "text": "She's written a book called The Life of Dad.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 74.879,
     "end": 77.84,
     "text": "She's been studying new fathers and spoke about her research",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 77.84,
     "end": 80.64,
     "text": "on the BBC's Woman's Hour programme.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 80.64,
     "end": 83.28,
     "text": "She asked why men want to become fathers.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 83.359,
     "end": 86.079,
     "text": "She starts by saying that there are lots of reasons,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 86.079,
     "end": 88.32,
     "text": "but how many does she mention in her answer?",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 89.68,
     "end": 92.32,
     "text": "There's lots of different reasons why men want to be fathers.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 32,
     "start": 92.32,
     "end": 95.04,
     "text": "For some of them, it's just the stage in life they've reached.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 95.04,
     "end": 96.64,
     "text": "You know, they've got the house, they've got the job now.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 96.64,
     "end": 98,
     "text": "It's time to have a family.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 98,
     "end": 100.799,
     "text": "Sometimes they admit that actually they're not that keen,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 100.799,
     "end": 102.319,
     "text": "but they're part of the once-baby.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 102.319,
     "end": 103.92,
     "text": "So they're kind of going along with it.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 103.92,
     "end": 106.799,
     "text": "And a reasonable number actually say they do it",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 106.799,
     "end": 109.84,
     "text": "because they want to undo what their father did to them.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 109.84,
     "end": 112.32,
     "text": "So rewrite history in relation to fathers",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 112.32,
     "end": 113.76,
     "text": "and the experience of fathering",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 113.76,
     "end": 115.92,
     "text": "to be a better father than their father was.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 117.439,
     "end": 119.2,
     "text": "How many reasons does she mention?",
     "speaker": "Neil"
   },
   {
+    "order": 44,
     "start": 119.2,
     "end": 121.12,
     "text": "She mentioned three reasons.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 121.12,
     "end": 124.32,
     "text": "The first was that it was that time in life.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 124.32,
     "end": 127.439,
     "text": "The guys had a home and a job and a having children",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 127.439,
     "end": 129.12,
     "text": "was the thing to do next.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 129.12,
     "end": 132.48,
     "text": "Another reason was that it was what their partners wanted,",
-    "speaker": null
+    "speaker": "keenkeengoing along with it."
   },
   {
+    "order": 49,
     "start": 132.48,
     "end": 135.12,
     "text": "even if they weren't that keen themselves.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 135.12,
     "end": 136.56,
     "text": "If you're not keen on something,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 136.56,
     "end": 139.12,
     "text": "it means you're not enthusiastic about it.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 139.12,
     "end": 141.439,
     "text": "It's not really something you want to do,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 141.439,
     "end": 144.08,
     "text": "but because it's what their partner wants,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 144.08,
     "end": 145.52,
     "text": "they agree to do it.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 145.52,
     "end": 148.48,
     "text": "Or as Dr. MacKin said, they're going along with it.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 148.48,
     "end": 150.56,
     "text": "Yes, going along with something",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 150.56,
     "end": 153.599,
     "text": "is a phrase that means agreeing to do something",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 153.599,
     "end": 156.4,
     "text": "even though you don't really want to do it.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 156.4,
     "end": 158.4,
     "text": "It's interesting that Dr. MacKin said",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 158.4,
     "end": 160.96,
     "text": "that some men admit to this.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 160.96,
     "end": 165.04,
     "text": "To admit to something is to say or agree that something's true",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 165.04,
     "end": 167.36,
     "text": "even if you're perhaps ashamed of it",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 167.44,
     "end": 169.28,
     "text": "or you don't want it to be true.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 169.28,
     "end": 171.04,
     "text": "There was one more reason she mentioned",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 171.04,
     "end": 173.36,
     "text": "and that was that some men become parents",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 173.36,
     "end": 175.36,
     "text": "because they want to be a better father",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 175.36,
     "end": 177.28,
     "text": "than their own father had been.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 177.28,
     "end": 178.24,
     "text": "Let's listen again.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 179.68,
     "end": 182.32,
     "text": "There's lots of different reasons why men want to be fathers.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 182.32,
     "end": 185.04,
     "text": "For some of them, it's just the stage in life they've reached.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 185.04,
     "end": 186.64,
     "text": "You know, they've got the house, they've got the job now.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 186.64,
     "end": 187.92,
     "text": "It's time to have a family.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 187.92,
     "end": 190.8,
     "text": "Sometimes they admit that actually they're not that keen",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 190.8,
     "end": 192.32,
     "text": "but they're partner wants a baby.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 192.32,
     "end": 193.84,
     "text": "So they're kind of going along with it.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 193.84,
     "end": 196.8,
     "text": "And a reasonable number actually say they do it",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 196.8,
     "end": 199.84,
     "text": "because they want to undo what their father did to them.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 199.84,
     "end": 202.32,
     "text": "So rewrite history in relation to fathers",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 202.32,
     "end": 203.76,
     "text": "and the experience of fathering",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 203.76,
     "end": 205.84,
     "text": "to be a better father than their father was.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 206.88,
     "end": 209.52,
     "text": "So what is it about some fathers own dads",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 82,
     "start": 209.52,
     "end": 210.719,
     "text": "that they didn't like?",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 210.719,
     "end": 211.84,
     "text": "Is Dr. MacKin again?",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 213.52,
     "end": 216.48,
     "text": "Well, in some cases, you know, the father would be neglectful.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 217.12,
     "end": 219.12,
     "text": "Some fathers were absent.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 219.12,
     "end": 221.12,
     "text": "And others, they just felt that they were a very,",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 221.12,
     "end": 222.88,
     "text": "I suppose we'd say, 1950s father.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 222.88,
     "end": 225.439,
     "text": "So distant, disciplinary,",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 225.439,
     "end": 227.52,
     "text": "and not actually involved in their child's daily life",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 227.52,
     "end": 229.359,
     "text": "and certainly not involved in their care.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 229.359,
     "end": 230.96,
     "text": "So today's generation fathers,",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 230.96,
     "end": 233.12,
     "text": "even in the 10 years that I've been studying dads,",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 233.12,
     "end": 234.879,
     "text": "we've seen a massive evolution",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 234.879,
     "end": 236.159,
     "text": "in how hands on fathers are.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 237.52,
     "end": 240.159,
     "text": "She talks there about some negative characteristics",
-    "speaker": null
+    "speaker": "absent"
   },
   {
+    "order": 96,
     "start": 240.159,
     "end": 242.56,
     "text": "associated with dads in the past.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 242.56,
     "end": 244.56,
     "text": "She suggests that some fathers didn't have",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 244.56,
     "end": 246.96,
     "text": "a very close relationship with their sons.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 246.96,
     "end": 249.68,
     "text": "They were absent, which means they weren't at home a lot",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 249.68,
     "end": 251.919,
     "text": "and didn't spend time with their children.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 251.919,
     "end": 253.52,
     "text": "Yes. And some fathers",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 253.6,
     "end": 255.28,
     "text": "were seen as disciplinarian.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 255.92,
     "end": 258.639,
     "text": "That's described someone who's main communication",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 258.639,
     "end": 261.36,
     "text": "with their children was to give them strict rules",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 261.36,
     "end": 263.36,
     "text": "and tell them off or punish them",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 263.36,
     "end": 264.879,
     "text": "if they do something wrong.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 264.879,
     "end": 266.639,
     "text": "These days, according to Dr. MacKin,",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 266.639,
     "end": 268.879,
     "text": "fathers are much more hands on.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 268.879,
     "end": 270.879,
     "text": "This phrase means they are much more involved",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 270.879,
     "end": 272.639,
     "text": "with their children and share bringing up",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 272.639,
     "end": 274.4,
     "text": "their children with their partners.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 274.4,
     "end": 275.68,
     "text": "I'm talking of sharing.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 275.68,
     "end": 276.639,
     "text": "Neil, come on.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 276.639,
     "end": 279.199,
     "text": "It's time to tell me the answer to today's question.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 279.199,
     "end": 279.84,
     "text": "Yes, indeed.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 279.84,
     "end": 282.4,
     "text": "According to recent research in the UK,",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 282.479,
     "end": 284.079,
     "text": "what is the percentage of fathers",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 284.079,
     "end": 286.319,
     "text": "who are there when their children are born?",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 286.319,
     "end": 290.479,
     "text": "Was it 55%, 75% or 95%?",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 290.479,
     "end": 293.839,
     "text": "And I said a very optimistic 95%.",
     "speaker": "Catherine"
   },
   {
+    "order": 121,
     "start": 293.839,
     "end": 295.599,
-    "text": "Being optimistic is good obviously because you are correct.",
-    "speaker": "Neil"
+    "text": "Being optimistic is good, obviously,",
+    "speaker": null
   },
   {
+    "order": 122,
     "start": 295.599,
     "end": 296.799,
     "text": "because you are correct.",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 296.799,
     "end": 297.759,
     "text": "Yay!",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 297.759,
     "end": 298.879,
     "text": "That's fantastic!",
     "speaker": "Catherine"
   },
   {
+    "order": 125,
     "start": 298.879,
     "end": 301.599,
-    "text": "And now, for something else fantastic, our review of today's vocabulary…",
-    "speaker": "Neil"
+    "text": "And now for something else fantastic,",
+    "speaker": null
   },
   {
+    "order": 126,
     "start": 301.599,
     "end": 304.239,
     "text": "our review of today's vocabulary.",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 304.239,
     "end": 306.399,
     "text": "We started off with admit two.",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 306.399,
     "end": 308.319,
     "text": "For when you say something's true,",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 308.319,
     "end": 311.759,
-    "text": "even if it might make you look a little bit bad.",
-    "speaker": null
+    "text": " even if it might make you look a little bit bad",
+    "speaker": "admit toadmit"
   },
   {
+    "order": 130,
     "start": 311.839,
     "end": 313.759,
     "text": "And before we go on, I have to admit,",
     "speaker": null
   },
   {
+    "order": 131,
     "start": 313.759,
     "end": 316.399,
     "text": "Neil, that it was me who ate your biscuits.",
     "speaker": null
   },
   {
+    "order": 132,
     "start": 316.399,
     "end": 317.12,
-    "text": "Which one?",
-    "speaker": "Neil"
+    "text": "Oh, which one?",
+    "speaker": null
   },
   {
+    "order": 133,
     "start": 317.12,
     "end": 318.56,
     "text": "The one you left on the desk.",
     "speaker": null
   },
   {
+    "order": 134,
     "start": 318.56,
     "end": 320.079,
     "text": "Ah, that's all right.",
     "speaker": null
   },
   {
+    "order": 135,
     "start": 320.079,
     "end": 321.92,
     "text": "I wasn't really keen on it anyway.",
-    "speaker": null
+    "speaker": "Catherine"
   },
   {
+    "order": 136,
     "start": 321.92,
     "end": 323.039,
     "text": "It had been on the floor.",
     "speaker": null
   },
   {
+    "order": 137,
     "start": 323.039,
     "end": 323.839,
     "text": "What?",
-    "speaker": null
+    "speaker": "Catherine"
   },
   {
+    "order": 138,
     "start": 323.839,
     "end": 324.56,
     "text": "Ooh.",
     "speaker": null
   },
   {
+    "order": 139,
     "start": 324.56,
     "end": 326.159,
     "text": "Yeah, well, serves you right.",
     "speaker": null
   },
   {
+    "order": 140,
     "start": 326.159,
     "end": 328.959,
     "text": "And to be keen on something is our next phrase,",
     "speaker": null
   },
   {
+    "order": 141,
     "start": 328.959,
     "end": 330.719,
     "text": "meaning being very interested in",
     "speaker": null
   },
   {
+    "order": 142,
     "start": 330.719,
     "end": 332.959,
     "text": "and enthusiastic about something.",
     "speaker": null
   },
   {
+    "order": 143,
     "start": 332.959,
     "end": 335.599,
     "text": "Then we had to go along with something.",
-    "speaker": null
+    "speaker": "to go along withkeen on"
   },
   {
+    "order": 144,
     "start": 335.599,
     "end": 337.759,
     "text": "This is when you were great to do something,",
     "speaker": null
   },
   {
+    "order": 145,
     "start": 337.759,
     "end": 340,
     "text": "even if you're not keen on it.",
     "speaker": null
   },
   {
+    "order": 146,
     "start": 340.079,
     "end": 342.879,
-    "text": "An absent father is one who is not at home to spend time with his children.",
-    "speaker": "absent father"
+    "text": "An absent father is one who is not at home",
+    "speaker": null
   },
   {
+    "order": 147,
     "start": 342.879,
     "end": 344.879,
     "text": "to spend time with his children.",
     "speaker": null
   },
   {
+    "order": 148,
     "start": 344.879,
     "end": 348.079,
     "text": "And some fathers are disciplinarians.",
-    "speaker": null
+    "speaker": "disciplinarianshands-on"
   },
   {
+    "order": 149,
     "start": 348.079,
     "end": 350.959,
     "text": "They have strict rules and they give out punishments.",
     "speaker": null
   },
   {
+    "order": 150,
     "start": 350.959,
     "end": 353.6,
     "text": "But these days, more fathers are hands-on,",
     "speaker": null
   },
   {
+    "order": 151,
     "start": 353.6,
     "end": 356.56,
     "text": "which means that they're very much involved in looking after",
     "speaker": null
   },
   {
+    "order": 152,
     "start": 356.56,
     "end": 358.24,
     "text": "and bringing up their children.",
     "speaker": null
   },
   {
+    "order": 153,
     "start": 358.24,
     "end": 360.319,
     "text": "Well, that's all we have time for today.",
     "speaker": null
   },
   {
+    "order": 154,
     "start": 360.319,
     "end": 361.6,
     "text": "Join us again next time.",
     "speaker": null
   },
   {
+    "order": 155,
     "start": 361.6,
     "end": 363.6,
     "text": "And remember, you can find us on Instagram,",
     "speaker": null
   },
   {
+    "order": 156,
     "start": 363.6,
     "end": 365.279,
     "text": "Facebook, Twitter, YouTube,",
     "speaker": null
   },
   {
+    "order": 157,
     "start": 365.279,
     "end": 366.639,
     "text": "and of course, our website,",
     "speaker": null
   },
   {
+    "order": 158,
     "start": 366.639,
     "end": 368.639,
     "text": "bbclearningenglish.com.",
     "speaker": null
   },
   {
+    "order": 159,
     "start": 368.639,
     "end": 369.68,
     "text": "See you soon, goodbye.",
     "speaker": null
   },
   {
+    "order": 160,
     "start": 369.68,
     "end": 370.639,
-    "text": "Bye!",
-    "speaker": "Catherine"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

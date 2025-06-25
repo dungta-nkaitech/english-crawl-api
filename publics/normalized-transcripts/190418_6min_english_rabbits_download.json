@@ -1,722 +1,842 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.88,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.88,
     "end": 15.28,
-    "text": "Hello. This is 6 Minute English, I'm Neil. And joining me is Rob.",
-    "speaker": "Neil"
+    "text": "Hello, this is 6 Minute English. I'm Neil.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 15.28,
     "end": 16.719,
     "text": "Joining me is Rob.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 16.719,
     "end": 17.519,
     "text": "Hello.",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 7,
     "start": 17.519,
     "end": 20.96,
     "text": "Rob, when we think of Easter, what do we think of?",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 20.96,
     "end": 21.92,
-    "text": "Chocolate!",
-    "speaker": "Rob"
-  },
-  {
-    "start": 21.92,
-    "end": 25.76,
-    "text": "Well, yes chocolate Easter eggs are an obvious symbol of Easter. But there is an animal people often associate with Easter...",
+    "text": "Chocolate.",
     "speaker": "Neil"
   },
   {
+    "order": 9,
+    "start": 21.92,
+    "end": 25.76,
+    "text": "Well, yes chocolate Easter eggs are an obvious symbol of Easter. ",
+    "speaker": "Neil"
+  },
+  {
+    "order": 10,
     "start": 25.76,
     "end": 29.679,
     "text": "but there is an animal people often associate with Easter.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 29.679,
     "end": 34.399,
-    "text": "Rabbits! Cute, adorable and fluffy – what's not to like about a rabbit?",
-    "speaker": "Rob"
-  },
-  {
-    "start": 34.399,
-    "end": 36.719,
-    "text": "Well, not everyone is a fan of them.",
+    "text": "Rabbits, cute, adorable and fluffy. What's not to like about a rabbit?",
     "speaker": null
   },
   {
+    "order": 12,
+    "start": 34.399,
+    "end": 36.719,
+    "text": "Well, not everyone is a fan of them ",
+    "speaker": "a fan ofnot a fan of"
+  },
+  {
+    "order": 13,
     "start": 36.719,
     "end": 39.84,
     "text": "By not a fan of, I mean they don't like them.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 39.84,
     "end": 42.079,
     "text": "Some people think they are a pest,",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 42.079,
     "end": 44.719,
     "text": "but we'll be telling you more about rabbits shortly.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 44.719,
     "end": 45.84,
     "text": "That's good to know.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 45.84,
     "end": 48,
     "text": "Well, I'll tell you what I am a fan of,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 48,
     "end": 49.76,
     "text": "and that is your quiz questions.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 49.76,
     "end": 51.359,
     "text": "So, what are you going to ask me today?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 51.359,
     "end": 54.399,
     "text": "It's all about wild rabbits.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 21,
     "start": 54.399,
     "end": 57.519,
     "text": "In the last rabbit survey in 1995,",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 57.6,
     "end": 60.64,
     "text": "how many were estimated to exist in the UK?",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 23,
     "start": 60.64,
     "end": 64.56,
-    "text": "a) 370,500",
-    "speaker": "Neil"
-  },
-  {
-    "start": 64.56,
-    "end": 71.84,
-    "text": "b) 3,750,000, or",
-    "speaker": "Neil"
-  },
-  {
-    "start": 71.84,
-    "end": 74.159,
-    "text": "I know rabbits are everywhere in the UK,",
+    "text": "Was it a 370,500?",
     "speaker": null
   },
   {
+    "order": 24,
+    "start": 64.56,
+    "end": 71.84,
+    "text": "b) 3,750,000, or c) 37,500,000?",
+    "speaker": "Neil"
+  },
+  {
+    "order": 25,
+    "start": 71.84,
+    "end": 74.159,
+    "text": "I know rabbits are everywhere in the UK ",
+    "speaker": "Rob"
+  },
+  {
+    "order": 26,
     "start": 74.159,
     "end": 76.32,
     "text": "but not 37 million of them,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 76.32,
     "end": 80.4,
     "text": "so I'll go for B, 3,750,000.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 80.4,
     "end": 83.52,
     "text": "Well, you'll have to wait until the end of the programme to find out,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 83.52,
     "end": 86.879,
     "text": "but you're right when you say rabbits are everywhere in the UK.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 86.879,
     "end": 89.519,
     "text": "It's probably true in other countries too.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 89.519,
     "end": 91.359,
     "text": "You could say they are endemic,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 91.359,
     "end": 95.679,
-    "text": "We mentioned endemic - meaning very common or strongly established in a place or situation.",
-    "speaker": "endemic"
+    "text": "meaning very common or strongly established in a place or situation.",
+    "speaker": "a fan of not a fan of"
   },
   {
+    "order": 33,
     "start": 95.679,
     "end": 98.479,
     "text": "But are they a typically British wild animal?",
     "speaker": "Rob"
   },
   {
+    "order": 34,
     "start": 98.479,
     "end": 102.159,
     "text": "They are now, but it's believed they were brought to the country by invaders.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 102.159,
     "end": 104.799,
     "text": "Some say the Romans, others, the Normans,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 104.799,
     "end": 107.519,
     "text": "but they eventually spread across the UK.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 107.519,
     "end": 110.399,
     "text": "Victoria Dickinson is author of a book called Rabbit,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 110.399,
     "end": 113.28,
     "text": "and she's been telling the BBC Radio 4 programme,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 113.28,
     "end": 116.799,
     "text": "costing the earth about what helped them spread.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 116.799,
     "end": 119.76,
-    "text": "It was really by the middle of the 17th century,",
-    "speaker": null
+    "text": "It was really by the middle of the 17th Century ",
+    "speaker": "warrenpredatorsferal"
   },
   {
+    "order": 41,
     "start": 119.76,
     "end": 124.24,
     "text": "when people really started to think about rabbit as being particularly British.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 124.24,
     "end": 128.159,
     "text": "And certainly there were more rabbits in Britain than the rest of Europe.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 128.159,
     "end": 132.639,
     "text": "There was a calculation done that there are over 400 villages and towns in Britain",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 132.639,
     "end": 135.52,
     "text": "with the word Warren in their name.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 135.52,
     "end": 138.08,
     "text": "So the rabbits were raised in Britain,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 138.08,
     "end": 142.4,
     "text": "but they really kept to their warrants until",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 142.48,
     "end": 145.92,
     "text": "there was the rise of fox hunting.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 145.92,
     "end": 148.08,
     "text": "When their predators disappeared,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 148.08,
     "end": 149.92,
     "text": "rabbits do what rabbits do best,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 149.92,
     "end": 153.84,
     "text": "and they started to multiply and become wild,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 153.84,
     "end": 157.12,
     "text": "our feral rabbits throughout the land.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 157.12,
     "end": 161.28,
     "text": "So Victoria knows a thing or two about rabbits and said the word Warren,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 161.28,
     "end": 163.04,
     "text": "used in town and village names,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 163.04,
     "end": 167.2,
     "text": "is evidence that they've been in the UK since the mid 17th century.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 167.2,
     "end": 170.8,
     "text": "A Warren is the area underground where rabbits live with lots of holes",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 170.8,
     "end": 172.32,
     "text": "and connected passages.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 172.32,
     "end": 176.88,
-    "text": "But today we use the word Warren to mean a building or part of a town",
-    "speaker": null
+    "text": "But today we use the word warren to mean a building or part of a town",
+    "speaker": "warren"
   },
   {
+    "order": 58,
     "start": 176.88,
     "end": 180.08,
     "text": "where there are lots of confusing passageways or streets.",
-    "speaker": null
+    "speaker": "warren"
   },
   {
+    "order": 59,
     "start": 180.08,
     "end": 182,
     "text": "It's a kind of place where you get lost.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 182,
     "end": 185.92,
     "text": "But it was rabbit warrants where rabbits would live until hunting,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 185.92,
     "end": 188.64,
     "text": "particularly fox hunting, was introduced,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 188.64,
     "end": 191.36,
     "text": "and that killed many of the rabbits predators.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 191.36,
     "end": 195.04,
     "text": "A predator is an animal that hunts and kills another animal.",
-    "speaker": "A predator"
-  },
-  {
-    "start": 195.04,
-    "end": 198.16,
-    "text": "Now Victoria was talking about feral rabbits,",
     "speaker": null
   },
   {
+    "order": 64,
+    "start": 195.04,
+    "end": 198.16,
+    "text": "Now, Victoria was talking about feral rabbits",
+    "speaker": "feral"
+  },
+  {
+    "order": 65,
     "start": 198.24,
     "end": 202.879,
     "text": "so wild rabbits, not the sort people keep as pets in a rabbit hutch.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 203.359,
     "end": 208.879,
     "text": "Moving on, I'm interested to know why not everyone loves these cute little creatures.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 208.879,
     "end": 212.56,
     "text": "I mean, think of the rabbit characters in the bitrix potter stories.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 212.56,
     "end": 214.639,
     "text": "Well, they weren't always well behaved,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 214.639,
     "end": 218.879,
     "text": "and Victoria Dickinson spoke to the costing the earth program about this.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 218.879,
     "end": 223.68,
     "text": "What word did she use to describe rabbits having the two opposite sides to their character?",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 224.64,
     "end": 226.64,
-    "text": "The rabbit is a paradoxical animal.",
-    "speaker": null
+    "text": "The rabbit is a paradoxical animal;",
+    "speaker": "paradoxical trickster"
   },
   {
+    "order": 72,
     "start": 226.64,
     "end": 228.8,
     "text": "It has a lot of faces, if you will.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 228.8,
     "end": 231.52,
     "text": "It's both wild and tame.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 231.52,
     "end": 235.68,
     "text": "It's timid, but also has its reputation as trickster rabbit,",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 235.68,
     "end": 239.28,
     "text": "if you think of Peter Cottontale or you think of rare rabbits.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 239.28,
     "end": 243.52,
     "text": "And I think our relationship with rabbit is the rabbit of the nursery rhyme,",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 243.52,
     "end": 247.28,
     "text": "the rabbit of childhood, or you think of Peter Rabbit.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 248.48,
     "end": 252.4,
     "text": "She said that rabbits are paradoxical animals.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 252.4,
     "end": 256.079,
-    "text": "She said that rabbits are paradoxical animals – that's the word that describes them having two opposing characteristics.",
-    "speaker": "paradoxical"
+    "text": "That's the word that describes them having two opposing characteristics.",
+    "speaker": null
   },
   {
+    "order": 80,
     "start": 256.079,
     "end": 259.199,
     "text": "Yes, we think of them as wild, maybe a trickster,",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 259.199,
     "end": 261.759,
-    "text": "And a trickster is someone who deceives people to get what they want.",
-    "speaker": "trickster"
+    "text": " someone who deceives people to get what they want",
+    "speaker": "Paradoxical"
   },
   {
+    "order": 82,
     "start": 261.759,
     "end": 264.079,
     "text": "Like Peter, what a cheeky rabbit.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 264.079,
     "end": 266.48,
     "text": "But we also think of rabbits as tame.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 266.48,
     "end": 268.399,
     "text": "We have nursery rhymes about them.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 268.399,
     "end": 270.959,
     "text": "Kids have soft, cuddly rabbit toys.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 270.959,
     "end": 273.92,
     "text": "I say that they're the perfect symbol for Easter.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 273.92,
     "end": 275.519,
     "text": "OK, Rob, if you say so.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 275.519,
     "end": 278.639,
     "text": "But now let me give the answer to the question I said you earlier.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 278.639,
     "end": 282.16,
     "text": "In the last survey of rabbits in 1995,",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 282.16,
     "end": 285.2,
     "text": "how many were estimated to exist in the UK?",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 285.2,
     "end": 288.8,
-    "text": "a) 370,500",
-    "speaker": "Neil"
+    "text": "Was it A, 370,500?",
+    "speaker": null
   },
   {
+    "order": 92,
     "start": 288.8,
     "end": 294.8,
-    "text": "b) 3,750,000, or",
+    "text": "b) 3,750,000, or c) 37,500,000?",
     "speaker": "Neil"
   },
   {
+    "order": 93,
     "start": 294.8,
     "end": 296.16,
     "text": "Rob, what did you say?",
     "speaker": "Neil"
   },
   {
+    "order": 94,
     "start": 296.16,
     "end": 299.84,
-    "text": "I said b) 3,750,000.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 299.84,
-    "end": 302,
-    "text": "Well, you're wrong, Rob.",
+    "text": "I said B, 3,750,000.",
     "speaker": null
   },
   {
+    "order": 95,
+    "start": 299.84,
+    "end": 302,
+    "text": "Well, you're wrong Rob! ",
+    "speaker": "Neil"
+  },
+  {
+    "order": 96,
     "start": 302,
     "end": 307.36,
     "text": "A government survey put the population in the UK at 37.5 million,",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 307.36,
     "end": 309.04,
     "text": "so a lot more.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 309.04,
     "end": 312.16,
     "text": "But despite its reputation, a recent survey suggests",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 312.16,
     "end": 317.92,
     "text": "rabbit numbers in the UK have declined by around 60% over the last 20 years.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 317.92,
     "end": 319.52,
     "text": "That is sad news.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 319.52,
     "end": 323.92,
-    "text": "That is sad news. But let's cheer ourselves up with a recap of the vocabulary we've discussed today, starting with a fan of.",
-    "speaker": "a fan of"
+    "text": "But let's cheer ourselves up with a recap of the vocabulary we've discussed today,",
+    "speaker": null
   },
   {
+    "order": 102,
     "start": 323.92,
     "end": 325.92,
     "text": "starting with a fan of.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 325.92,
     "end": 329.12,
     "text": "When someone is a fan of something, they are keen on it.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 329.12,
     "end": 330.72,
     "text": "They like it a lot.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 330.72,
     "end": 333.439,
     "text": "If you're not a fan of something, you don't like it.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 333.439,
     "end": 337.12,
     "text": "We mentioned endemic, meaning very common or strongly established",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 337.12,
     "end": 338.8,
     "text": "in a place or situation.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 338.8,
     "end": 342.72,
     "text": "And we talked about a Warren, an underground area where rabbits live,",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 342.72,
     "end": 346.8,
     "text": "but also a building or a part of a town where there are lots of confusing",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 346.8,
     "end": 350.319,
     "text": "passageways or streets where it's easy to get lost.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 350.319,
     "end": 353.759,
     "text": "A predator is an animal that hunts and kills another animal.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 353.759,
     "end": 357.68,
-    "text": "Paradoxical describes things that have two opposing characteristics making it hard to understand.",
-    "speaker": "Paradoxical"
+    "text": "Paradoxical describes things that have two opposing characteristics,",
+    "speaker": null
   },
   {
+    "order": 113,
     "start": 357.68,
     "end": 359.36,
     "text": "making it hard to understand.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 359.36,
     "end": 363.12,
     "text": "And a trickster is someone who deceives people to get what they want.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 363.12,
     "end": 364.56,
     "text": "Well, I know trickster.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 364.56,
     "end": 367.84,
-    "text": "Well, I’m no trickster, it really has been six minutes so it's time to call it a day. Please join us next time.",
+    "text": "It really has been six minutes, so it's time to call it a day.",
     "speaker": "Neil"
   },
   {
+    "order": 117,
     "start": 367.839,
     "end": 369.599,
     "text": "Please join us next time.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 369.599,
     "end": 370.399,
     "text": "Bye for now.",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 119,
     "start": 370.399,
     "end": 371.199,
-    "text": "Goodbye!",
-    "speaker": "Neil"
+    "text": "Goodbye.",
+    "speaker": null
   }
 ]

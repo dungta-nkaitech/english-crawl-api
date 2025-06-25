@@ -1,833 +1,972 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.16,
     "text": "6MtEnglish",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.16,
     "end": 12.08,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.08,
     "end": 15.2,
     "text": "Hello and welcome to 6 Minute English. I'm Alice…",
     "speaker": "Alice"
   },
   {
+    "order": 5,
     "start": 15.2,
     "end": 16.24,
-    "text": "… And I'm Neil.",
-    "speaker": "Neil"
+    "text": "And I'm Neil.",
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 16.24,
     "end": 18.32,
     "text": "Can you do any impersonations, Neil?",
     "speaker": "Alice"
   },
   {
+    "order": 7,
     "start": 18.32,
     "end": 20.32,
     "text": "Hmm. How about this one?",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 20.32,
     "end": 22.32,
     "text": "My name is Michael Cain.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 23.519,
     "end": 25.28,
     "text": "Not a lot of people know that.",
-    "speaker": null
+    "speaker": "catchphrase"
   },
   {
+    "order": 10,
     "start": 25.28,
     "end": 29.519,
     "text": "Hmm, Michael Cain, one of our best loved actors here in Britain.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 29.519,
     "end": 30.719,
     "text": "Not bad, Neil.",
-    "speaker": null
+    "speaker": "impersonation"
   },
   {
+    "order": 12,
     "start": 30.719,
     "end": 33.28,
     "text": "And it's a very good way to start today's show.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 33.28,
     "end": 35.6,
     "text": "We are talking about impersonation",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 35.6,
     "end": 38.48,
     "text": "or the act of pretending to be somebody else.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 38.48,
     "end": 40.48,
     "text": "Why do we like impersonations, Neil?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 40.48,
     "end": 43.519,
     "text": "Well, sometimes the impersonator is a comedian",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 43.519,
     "end": 45.28,
     "text": "and doing it to be funny.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 45.28,
     "end": 49.12,
     "text": "But another reason is that we get the opportunity to meet people",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 49.12,
     "end": 50.719,
     "text": "who are no longer with us,",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 50.719,
     "end": 53.12,
     "text": "like Elvis Presley or Marilyn Monroe.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 53.76,
     "end": 56.96,
     "text": "Either way, it helps if it's a good impersonation.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 57.039,
     "end": 60,
-    "text": "Yes, some impersonations are pretty cheesy – and that means bad quality.",
+    "text": "Yes, some impersonations are pretty cheesy",
     "speaker": "cheesy"
   },
   {
+    "order": 23,
     "start": 60,
     "end": 61.759,
     "text": "and that means bad quality.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 61.759,
     "end": 62.799,
     "text": "Oh yeah, sure.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 63.359,
     "end": 64.079,
     "text": "Uh-huh.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 64.079,
     "end": 65.28,
     "text": "Okay, Alice.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 65.28,
     "end": 66.239,
     "text": "I have a question for you.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 67.12,
     "end": 68.159,
     "text": "Neil, that's terrible!",
     "speaker": "Alice"
   },
   {
+    "order": 29,
     "start": 69.28,
     "end": 70.319,
     "text": "Elvis, please, come on.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 71.28,
     "end": 73.359,
     "text": "Can you tell me the name of a musical act",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 73.359,
     "end": 75.439,
     "text": "that impersonates a famous group?",
+    "speaker": "Alice"
+  },
+  {
+    "order": 32,
+    "start": 75.439,
+    "end": 76.96,
+    "text": "Is it a, tribute,",
     "speaker": null
   },
   {
-    "start": 75.439,
-    "end": 76.96,
-    "text": "a) tribute,",
-    "speaker": "Neil"
-  },
-  {
+    "order": 33,
     "start": 76.96,
     "end": 78.24,
-    "text": "b) tribune,",
+    "text": "b, tribune,",
     "speaker": "Neil"
   },
   {
+    "order": 34,
     "start": 78.24,
     "end": 80.159,
     "text": "or c) tribunal?",
     "speaker": "Neil"
   },
   {
+    "order": 35,
     "start": 80.159,
     "end": 82.079,
-    "text": "I'll go for a) tribute.",
-    "speaker": "Alice"
-  },
-  {
-    "start": 82.079,
-    "end": 83.439,
-    "text": "A tribute act.",
+    "text": "I'll go for a, tribute.",
     "speaker": null
   },
   {
+    "order": 36,
+    "start": 82.079,
+    "end": 83.439,
+    "text": "A tribute act?",
+    "speaker": "Neil"
+  },
+  {
+    "order": 37,
     "start": 84,
     "end": 87.679,
     "text": "Okay, well, we'll find out if you got that right later on in the show.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 87.679,
     "end": 92.4,
     "text": "But, Alice, don't you think some impersonators start to believe",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 92.4,
     "end": 95.2,
     "text": "they really are the personalities they imitate?",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 95.2,
     "end": 96.64,
     "text": "What makes you say that?",
-    "speaker": "Alice"
+    "speaker": null
   },
   {
+    "order": 41,
     "start": 96.64,
     "end": 97.359,
     "text": "Well, just think.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 97.359,
     "end": 99.84,
-    "text": "Every time you appear as Elvis Presley,",
-    "speaker": null
+    "text": " every time you appear as Elvis Presley",
+    "speaker": "Neil"
   },
   {
+    "order": 43,
     "start": 99.84,
     "end": 101.039,
     "text": "you get fans yelling,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 101.039,
     "end": 103.519,
     "text": "Elvis, Elvis, we love you, Elvis.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 103.519,
     "end": 108.079,
     "text": "And after a while, that boundary between you and the real Elvis",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 108.079,
     "end": 109.599,
     "text": "starts to blur.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 109.599,
     "end": 113.28,
     "text": "It must be quite tempting to, you know, pretend that you're",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 113.359,
     "end": 114.4,
     "text": "looking at rock and roll.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 115.2,
     "end": 117.2,
     "text": "I'm not convinced, Neil.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 117.2,
     "end": 120.159,
     "text": "I think Elvis hangs up his wig and moves on.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 120.159,
     "end": 124.079,
     "text": "So, let's move on to and talk about the art of imitation.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 124.079,
     "end": 128.56,
     "text": "Here's British Impressionist John Kulture providing some tips on how to imitate",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 128.56,
     "end": 129.68,
     "text": "or copy people.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 130.719,
     "end": 131.92,
-    "text": "Don't just say the catchphrase.",
-    "speaker": null
+    "text": " Don't just say the catchphrase",
+    "speaker": "INSERT"
   },
   {
+    "order": 55,
     "start": 131.92,
     "end": 134.08,
     "text": "Don't just say, I am Michael Cain.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 134.08,
     "end": 134.879,
     "text": "Say a bit more.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 134.879,
     "end": 137.28,
     "text": "Get some gags going, some conversation going.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 137.84,
     "end": 140.96,
     "text": "Notice the things which are worth stretching,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 140.96,
     "end": 145.84,
     "text": "which are worth exaggerating to really give you the caricature",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 145.84,
     "end": 146.64,
     "text": "of that person.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 146.64,
     "end": 148,
     "text": "It might be a little tick.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 148,
     "end": 150.319,
     "text": "It might be a little nuance.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 150.319,
     "end": 152,
     "text": "Whatever you notice first, really.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 153.36,
     "end": 154.719,
     "text": "John Kulture there.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 154.719,
     "end": 156.319,
-    "text": "Jon Culshaw, there. What's a catchphrase, Neil?",
-    "speaker": "catchphrase"
+    "text": "What's a catchphrase, Neil?",
+    "speaker": null
   },
   {
+    "order": 66,
     "start": 156.319,
     "end": 160.159,
     "text": "It's a well-known phrase often associated with a famous person,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 160.159,
     "end": 162.879,
     "text": "like the one I used for Michael Cain earlier on.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 162.879,
     "end": 164.24,
     "text": "Not a lot of people know that.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 164.879,
     "end": 169.28,
     "text": "So, John is saying that it isn't enough to repeat a catchphrase",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 170.08,
     "end": 171.759,
     "text": "or use another impersonator's ideas.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 171.759,
     "end": 174.96,
     "text": "You need to think of your own gags or jokes.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 174.96,
     "end": 179.199,
     "text": "And you do this by noticing and then exaggerating a person's tics.",
-    "speaker": null
+    "speaker": "tic"
   },
   {
+    "order": 73,
     "start": 179.84,
     "end": 183.28,
     "text": "A tick is something you do often without realizing you're doing it,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 183.28,
     "end": 186.08,
     "text": "like using certain phrases or gestures,",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 186.08,
     "end": 189.36,
     "text": "for example, scratching your head or in your case, Neil,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 189.36,
     "end": 190.96,
     "text": "wiggling your eyebrows.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 190.96,
     "end": 192.319,
     "text": "Do I wiggle my eyebrows?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 192.319,
-    "end": 193.68,
-    "text": "You're doing it right now.",
     "speaker": null
   },
   {
+    "order": 78,
+    "start": 192.319,
+    "end": 193.68,
+    "text": "You're doing it right now!",
+    "speaker": "impostors"
+  },
+  {
+    "order": 79,
     "start": 193.68,
     "end": 197.759,
     "text": "But moving on, there is a serious and very negative side to impersonation.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 198.399,
     "end": 202.959,
     "text": "Some imposter's, or people who deceive others by pretending to be somebody else,",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 202.959,
     "end": 205.519,
     "text": "poses doctors or lawyers, for example.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 205.519,
     "end": 208.639,
     "text": "You mean without having the qualifications to do the job?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 208.639,
-    "end": 209.679,
-    "text": "Exactly.",
     "speaker": null
   },
   {
+    "order": 83,
+    "start": 208.639,
+    "end": 209.679,
+    "text": "Exactly ",
+    "speaker": "Alice"
+  },
+  {
+    "order": 84,
     "start": 209.679,
     "end": 211.599,
     "text": "Which can have serious consequences,",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 211.599,
     "end": 214.799,
-    "text": "Exactly – which can have serious consequences, for example pretending to be a doctor with no medical knowledge.",
-    "speaker": "Alice"
+    "text": "for example, pretending to be a doctor with no medical knowledge.",
+    "speaker": null
   },
   {
+    "order": 86,
     "start": 214.799,
     "end": 217.359,
     "text": "Ah, like in that film with Leonardo DiCaprio,",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 217.359,
     "end": 220.479,
     "text": "where his character impersonates an airline pilot,",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 220.479,
     "end": 221.84,
     "text": "a doctor and a lawyer.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 221.84,
     "end": 225.039,
     "text": "DiCaprio's character in the movie Catch Me If You Can",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 90,
     "start": 225.12,
     "end": 228.159,
     "text": "is actually based on a real man called Frank Abagnale.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 228.879,
     "end": 235.12,
     "text": "Panam estimated that in two years, Abagnale flew 250 flights to 26 countries.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 235.12,
     "end": 241.359,
     "text": "Okay, let's listen to Dr. Nath Talley-Gberal, a forensic psychologist in New York City.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 241.359,
     "end": 244.479,
     "text": "He evaluates people for the American government.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 244.479,
     "end": 248.239,
     "text": "Here he's talking about another real case of a woman in the US",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 248.239,
     "end": 250.479,
     "text": "who was caught pretending to be an attorney.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 250.479,
     "end": 251.199,
     "text": "That's a lawyer.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 251.84,
     "end": 254.239,
     "text": "The thing that was most troubling is that",
-    "speaker": null
+    "speaker": "Dr Naftali G. Berrill, forensic psychologist in New York City"
   },
   {
+    "order": 98,
     "start": 254.24,
     "end": 256.879,
     "text": "because she realized that she was not an attorney,",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 256.879,
     "end": 260.24,
     "text": "and that she was taking people's money under false pretence,",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 260.24,
     "end": 262.8,
     "text": "there was no sense of remorse or a sense of sadness",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 262.8,
     "end": 264.8,
     "text": "that she'd exploited the people that trusted her.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 264.8,
     "end": 267.36,
     "text": "But, you know, in cases where you get these imposter's",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 267.36,
     "end": 270.16,
     "text": "who specifically are pursuing financial gain,",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 270.16,
     "end": 271.36,
     "text": "they know what they're doing,",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 271.36,
     "end": 273.6,
     "text": "but they do it with the shallow conscience",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 273.6,
     "end": 275.28,
     "text": "of an anti-social personality.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 276.319,
     "end": 278.96,
     "text": "That was Dr. Nath Talley-Gberal.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 278.96,
     "end": 280.96,
     "text": "What does remorse mean, Neil?",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 280.96,
     "end": 283.439,
     "text": "It means being sorry for something you've done.",
     "speaker": "Neil"
   },
   {
+    "order": 110,
     "start": 283.519,
     "end": 286.8,
-    "text": "And our conscience is our inner sense of right or wrong – so a shallow conscience is one that isn't very deep.",
-    "speaker": "conscienceshallow"
+    "text": "And our conscience is our inner sense of right or wrong,",
+    "speaker": null
   },
   {
+    "order": 111,
     "start": 286.8,
     "end": 289.6,
     "text": "so a shallow conscience is one that isn't very deep.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 289.6,
     "end": 294.319,
     "text": "Anti-social in this context means harmful to other people and to society.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 294.319,
     "end": 298,
     "text": "Although in a general sense, it means not enjoying the company of others.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 298,
     "end": 299.199,
     "text": "Hmm, okay.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 299.199,
     "end": 301.759,
     "text": "Well, I love your company, Neil, as you know.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 301.759,
     "end": 304.879,
-    "text": "OK. Well, I love your company, Neil, as you know. Now, how about the answer to today's quiz question?",
-    "speaker": "Alice"
+    "text": "Now, how about the answer to today's quiz question?",
+    "speaker": null
   },
   {
+    "order": 117,
     "start": 304.879,
     "end": 310.48,
-    "text": "I asked: What's the name we use for a band that impersonates a famous group? Is it … a) tribute? b) tribune? Or c) tribunal?",
-    "speaker": "Neil"
+    "text": "I asked, what's the name we use for a band that impersonates a famous group?",
+    "speaker": null
   },
   {
+    "order": 118,
     "start": 310.56,
     "end": 315.28,
     "text": "Is it a tribute, b tribute or c tribunal?",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 315.28,
     "end": 316.48,
     "text": "I said tribute.",
     "speaker": "Alice"
   },
   {
+    "order": 120,
     "start": 317.12,
     "end": 319.28,
-    "text": "And you were right!",
-    "speaker": "Neil"
+    "text": "And you were right.",
+    "speaker": null
   },
   {
+    "order": 121,
     "start": 319.28,
     "end": 320.24,
     "text": "Three.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 320.24,
     "end": 323.84,
     "text": "Many tribute acts copy the singing style and the appearance of the group",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 123,
     "start": 323.84,
     "end": 325.6,
     "text": "as well as playing their music.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 325.6,
     "end": 328.8,
     "text": "They often name themselves based on the original band's name,",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 328.8,
     "end": 332.72,
     "text": "sometimes with a pun, or on one of their songs or albums.",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 332.72,
     "end": 336.8,
     "text": "For example, Björn again, a famous Aber tribute band.",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 336.8,
     "end": 340.24,
     "text": "This name is a pun on Björn, a member of Aber,",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 340.319,
     "end": 343.92,
     "text": "and the phrase born again, which means to come back to life.",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 343.92,
     "end": 344.96,
     "text": "Hmm, okay.",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 344.96,
     "end": 347.6,
-    "text": "OK. It's time to hear the words we learned today. They are:",
+    "text": " It's time to hear the words we learned today",
     "speaker": "Alice"
   },
   {
+    "order": 131,
     "start": 347.6,
     "end": 353.519,
     "text": "They are impersonation, cheesy, imitate, catchphrase,",
     "speaker": null
   },
   {
+    "order": 132,
     "start": 353.519,
     "end": 360.16,
     "text": "gags, tick, imposters, conscience, shallow, anti-social.",
     "speaker": null
   },
   {
+    "order": 133,
     "start": 360.16,
     "end": 362.56,
     "text": "Well, that's the end of today's six mid-English.",
     "speaker": null
   },
   {
+    "order": 134,
     "start": 362.56,
     "end": 363.759,
     "text": "Please join us again soon.",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 135,
     "start": 363.759,
     "end": 366.079,
     "text": "Rolling on the house.",
     "speaker": null
   },
   {
+    "order": 136,
     "start": 367.199,
     "end": 368.079,
     "text": "Bye-bye.",
     "speaker": null
   },
   {
+    "order": 137,
     "start": 368.079,
     "end": 369.439,
-    "text": "Elvis is leaving the studio!",
-    "speaker": "Neil"
+    "text": " Elvis is leaving the studio",
+    "speaker": "Alice"
   },
   {
+    "order": 138,
     "start": 370.24,
     "end": 373.439,
     "text": "Six-minute English from the BBC.",

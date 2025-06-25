@@ -1,467 +1,545 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 14.48,
     "end": 18.48,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 18.48,
     "end": 19.92,
-    "text": "And I’m Sam.",
-    "speaker": "Sam"
+    "text": "And I'm Sam.",
+    "speaker": null
   },
   {
+    "order": 4,
     "start": 19.92,
     "end": 25.76,
-    "text": "In English, there are many expressions which use an adjective to compare humans with animals. For example, you might say, ‘She’s as busy as a bee’.",
+    "text": "In English, there are many expressions which use an adjective to compare humans with animals.",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 25.76,
     "end": 29.199,
     "text": "For example, you might say she's as busy as a bee.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 29.199,
     "end": 31.519,
     "text": "As hungry as a horse.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 31.519,
     "end": 37.039,
     "text": "But you probably won't hear someone say she's as clever as a chimpanzee.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 37.039,
     "end": 39.92,
     "text": "Which is strange because of all the animals.",
-    "speaker": null
-  },
-  {
-    "start": 39.92,
-    "end": 46.239,
-    "text": "…which is strange, because of all the animals it’s our close cousins, chimpanzees, or chimps for short, who are most like us.",
-    "speaker": "Sam"
-  },
-  {
-    "start": 46.799,
-    "end": 49.92,
-    "text": "Just like humans chimps are highly intelligent.",
-    "speaker": null
-  },
-  {
-    "start": 49.92,
-    "end": 54.239,
-    "text": "Just like humans, chimps are highly intelligent. They live in social groups and just like humans these groups have leaders.",
     "speaker": "Neil"
   },
   {
+    "order": 9,
+    "start": 39.92,
+    "end": 46.239,
+    "text": "It's our close cousins chimpanzees or chimps for short who are most like us.",
+    "speaker": null
+  },
+  {
+    "order": 10,
+    "start": 46.799,
+    "end": 49.92,
+    "text": "Just like humans, chimps are highly intelligent",
+    "speaker": "Neil"
+  },
+  {
+    "order": 11,
+    "start": 49.92,
+    "end": 54.239,
+    "text": "They live in social groups and just like humans these groups have leaders.",
+    "speaker": null
+  },
+  {
+    "order": 12,
     "start": 54.239,
     "end": 58,
     "text": "Also like humans chimps have a desire for power.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 58.079,
     "end": 64.719,
-    "text": "Also, like humans, chimps have a desire for power. In fact, chimpanzees have their own politics which is surprisingly similar to human politics, as we’ll be discovering in this programme.",
-    "speaker": "Sam"
+    "text": "In fact, chimpanzees have their own politics, which is surprisingly similar to human politics,",
+    "speaker": null
   },
   {
+    "order": 14,
     "start": 64.719,
     "end": 66.719,
     "text": "as we'll be discovering in this programme.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 67.439,
     "end": 72.96,
     "text": "Research shows that the reason chimpanzee behaviour so closely resembles human politics",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 16,
     "start": 72.96,
     "end": 75.84,
     "text": "is because biologically we are almost identical.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 76.4,
     "end": 79.92,
     "text": "Did you know that a chimpe is more like a human than like a gorilla?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 80.64,
     "end": 82.879,
     "text": "So Sam, my quiz question is this.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 82.879,
     "end": 86.48,
     "text": "Biologically, how close are chimpanzees to humans?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 86.56,
     "end": 92.56,
     "text": "Is it a 79% b 89% or c 99%?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 93.04,
     "end": 98.96,
     "text": "Well, near if chimps and humans are almost identical, I'll guess c 99%.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 99.439,
     "end": 102.719,
     "text": "Okay, Sam, we'll find out the correct answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 103.28,
     "end": 107.52,
     "text": "In human societies, of course, not everyone gets to be a political leader.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 24,
     "start": 107.52,
     "end": 111.92,
     "text": "It's usually the most powerful or ambitious person who becomes president.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 111.92,
     "end": 116,
-    "text": "In chimpanzee society, this is called the alpha male.",
-    "speaker": null
-  },
-  {
-    "start": 116.48,
-    "end": 120,
-    "text": "In chimpanzee society this is called the alpha male – the most successful and powerful male who leads the group.",
+    "text": "In chimpanzee society this is called the alpha male –",
     "speaker": "alpha male"
   },
   {
+    "order": 26,
+    "start": 116.48,
+    "end": 120,
+    "text": "The most successful and powerful male who leads the group.",
+    "speaker": null
+  },
+  {
+    "order": 27,
     "start": 120,
     "end": 124,
     "text": "Professor Franz DeVal is an expert on chimpanzee behaviour.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 124,
     "end": 127.52,
     "text": "Here he is on BBC World Service programme, the wife actor,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 127.52,
     "end": 131.599,
     "text": "telling presenter James Tilley about one example of chimped behaviour,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 131.599,
     "end": 134,
     "text": "which closely mirrors human politics.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 135.599,
     "end": 140.64,
     "text": "All the males who are over the hill and cannot be alpha male anymore,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 140.64,
     "end": 144.56,
     "text": "they start grooming a certain young male who they think has a future",
-    "speaker": null
+    "speaker": "over the hillalpha males"
   },
   {
+    "order": 33,
     "start": 144.64,
     "end": 147.28,
     "text": "and they may end up making that young male the alpha male,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 147.28,
     "end": 151.439,
     "text": "with their help, meaning that they are essential to the power of that young male.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 151.439,
     "end": 153.68,
     "text": "But then the power behind the throne, really.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 153.68,
     "end": 157.12,
-    "text": "Yeah – these older males… and you see that in human politics all the time, these older males who have a lot of influence still…",
+    "text": "Yeah – these older males… and you see that in human politics all the time",
     "speaker": "Prof Frans de Waal"
   },
   {
+    "order": 37,
     "start": 157.12,
     "end": 159.439,
     "text": "these older males who have a lot of influence still.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 160.479,
     "end": 166.64,
     "text": "Professor DeVal calls chimps who are too old to be alpha males over the hill,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 166.64,
     "end": 171.68,
     "text": "a phrase describing someone who is old and no longer useful or attractive.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 171.76,
     "end": 177.2,
     "text": "Older chimps try to control younger males in order to maintain their own power and influence.",
-    "speaker": null
+    "speaker": "the power behind the throne"
   },
   {
+    "order": 41,
     "start": 177.2,
     "end": 180.24,
     "text": "In other words, they are the power behind the throne,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 180.24,
     "end": 183.28,
     "text": "an expression meaning someone with no official power,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 183.28,
     "end": 186.24,
     "text": "but who secretly controls things in the background.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 186.24,
     "end": 195.04,
     "text": "Another example of chimped politics is when several weaker males gang up and overthrow a stronger alpha male.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 195.04,
     "end": 199.52,
     "text": "By working together weaker chimps can increase their power and the benefits,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 199.84,
     "end": 201.84,
     "text": "like food, which power brings.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 202.8,
     "end": 207.84,
-    "text": "According to Simon Hicks, professor of political science at the London School of Economics, human alliances work in exactly the same way.",
+    "text": "According to Simon Hicks, professor of political science at the London School of Economics,",
     "speaker": "Neil"
   },
   {
+    "order": 48,
     "start": 207.84,
     "end": 210.64,
     "text": "human alliances work in exactly the same way.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 211.28,
     "end": 215.52,
     "text": "Here is Professor Hicks speaking with BBC World Service Programme, the wife actor.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 216.879,
     "end": 221.68,
-    "text": "So for example, if you imagine three parties in a parliament, one big one and two small ones,",
-    "speaker": null
+    "text": "So, for example if you imagine three parties in a parliament, one big one and two small ones,",
+    "speaker": "coalition get togetherspoils"
   },
   {
+    "order": 51,
     "start": 221.68,
     "end": 225.6,
     "text": "you might think that naturally the most likely coalition is the big party with either one of",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 225.599,
     "end": 229.68,
     "text": "the two small ones, or as in fact a minimum winning coalition prediction would suggest the two",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 229.68,
     "end": 233.919,
     "text": "smaller ones should get together if together they can reach more than 50% of the seas,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 233.919,
     "end": 238.319,
     "text": "because they can divide up the spoils between the two of them, whereas if either one of them",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 238.319,
     "end": 242.159,
     "text": "formed a coalition with the big party, the big party would dominate and they wouldn't get many of",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 242.159,
     "end": 249.12,
     "text": "the spoils for themselves. Professor Hicks recommends that smaller political parties get together,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 249.12,
     "end": 251.919,
     "text": "join together in a group to combine their power.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 252.559,
     "end": 259.199,
-    "text": "These smaller parties could form a coalition – a collection of different political groups who unite for a limited time to form a government.",
+    "text": "These smaller parties could form a coalition, a collection of different political groups who unite",
     "speaker": "coalition"
   },
   {
+    "order": 59,
     "start": 259.199,
     "end": 265.12,
     "text": "for a limited time to form a government. In human politics making coalitions improves your",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 265.12,
     "end": 271.039,
     "text": "chances of winning an election. And in chimpanzee politics coalitions are a good way for young male",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 271.039,
     "end": 278.959,
     "text": "chimps to defeat the alpha male and divide up the spoils between themselves. Here the word spoils",
-    "speaker": null
+    "speaker": "spoilsspoils"
   },
   {
+    "order": 62,
     "start": 278.959,
     "end": 284.319,
     "text": "means the benefits obtained by winning a war or being in a strong position.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 284.319,
     "end": 290.399,
     "text": "For ambitious alpha chimps the spoils might include getting first choice of food and female partners.",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 64,
     "start": 290.399,
     "end": 294.959,
     "text": "Well for human politicians power can bring wealth and fame as well.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 294.959,
     "end": 299.279,
-    "text": "And there’s something else alpha chimpanzees and human politicians have in common – they like to show their softer side by kissing babies!",
-    "speaker": "Neil"
+    "text": "And there's something else alpha chimpanzees and human politicians have in common,",
+    "speaker": "Sam"
   },
   {
+    "order": 66,
     "start": 299.279,
     "end": 302.399,
     "text": "they like to show off their softer side by kissing babies.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 304,
     "end": 308.399,
     "text": "It looks like chimps and humans share many similar behaviors after all,",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 308.399,
     "end": 314.799,
     "text": "which reminds me of your quiz question Neil. Yes in my quiz question I ask Sam how similar we are",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 314.799,
     "end": 322.719,
     "text": "to chimps. What did you say Sam? I said that biologically speaking we are C, 99% the same.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 322.719,
     "end": 326.159,
     "text": "Which is the correct answer well done Sam you are as clever as a chimps.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 326.959,
     "end": 333.759,
     "text": "Thanks Neil and you're definitely not over the hill. Let's recap the recovery from today's program",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 333.759,
     "end": 341.199,
     "text": "about chimps politics starting with alpha male, the most successful and powerful male in any group.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 341.519,
     "end": 347.12,
-    "text": "Over the hill is used to describe someone who is old and no longer useful or attractive.",
-    "speaker": "Over the hill"
+    "text": "Over the hill is used to describe someone who is old and no longer useful or attractive.",
+    "speaker": "alpha male"
   },
   {
+    "order": 74,
     "start": 347.12,
     "end": 354.159,
     "text": "Someone who is the power behind the throne secretly controls things but has no official power.",
     "speaker": "the power behind the throne"
   },
   {
+    "order": 75,
     "start": 354.159,
     "end": 360.24,
     "text": "Get together means join together as a group. A coalition is one different political groups,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 360.24,
     "end": 365.759,
     "text": "temporarily unite to form a government. And finally the spoils are benefits or",
-    "speaker": null
+    "speaker": "coalition"
   },
   {
+    "order": 77,
     "start": 365.759,
     "end": 371.68,
     "text": "advantages gained by winning a war. And that's all for this program, bye for now. Goodbye.",

@@ -7,28 +7,8 @@
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/221222_6_minute_english_3D_printers.pdf",
   "vocabItems": [
     {
-      "word": "mucking about with (something)",
-      "definition": "(informal) spending time playing with something carelessly, not for a serious purpose"
-    },
-    {
-      "word": "prototype",
-      "definition": "model of a product that can be tested, improved, and used to develop a better product"
-    },
-    {
-      "word": "Hold on a minute!",
-      "definition": "phrase used to express surprise or disbelief"
-    },
-    {
-      "word": "prosthetics",
-      "definition": "man-made artificial body part such as an arm, leg, foot or eye, used to replace a missing natural part"
-    },
-    {
-      "word": "custom-made / bespoke",
-      "definition": "specially made to meet the requirements of a particular person"
-    },
-    {
-      "word": "time-consuming",
-      "definition": "taking a lot of time to do"
+      "word": "mucking about with (something)prototypeHold on a minute!prostheticscustom-made / bespoketime-consuming",
+      "definition": "mucking about with (something)(informal) spending time playing with something carelessly, not for a serious purposeprototypemodel of a product that can be tested, improved, and used to develop a better productHold on a minute!phrase used to express surprise or disbeliefprostheticsman-made artificial body part such as an arm, leg, foot or eye, used to replace a missing natural partcustom-made / bespokespecially made to meet the requirements of a particular persontime-consumingtaking a lot of time to do"
     }
   ],
   "quiz": null

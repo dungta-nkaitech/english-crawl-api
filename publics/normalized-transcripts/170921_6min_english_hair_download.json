@@ -1,758 +1,884 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.279,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.24,
     "end": 13.919,
     "text": "Welcome to 6 Minute English.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 13.919,
     "end": 16.8,
     "text": "Where today we introduce a hair raising topic",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 16.8,
     "end": 19.199,
     "text": "and six items of vocabulary.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 19.199,
     "end": 20.24,
     "text": "I'm Tim.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 20.24,
     "end": 23.839,
     "text": "So what's hair raising about today's topic, Neil?",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 23.839,
     "end": 28.08,
     "text": "Hair raising means scary, but also exciting.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 28.08,
     "end": 29.76,
-    "text": "We're talking about hair.",
-    "speaker": null
-  },
-  {
-    "start": 29.76,
-    "end": 33.52,
-    "text": "We’re talking about hair – which may be exciting for some, but definitely won’t be scary.",
+    "text": "We’re talking about hair ",
     "speaker": "Neil"
   },
   {
+    "order": 11,
+    "start": 29.76,
+    "end": 33.52,
+    "text": "Which may be exciting for some, but definitely won't be scary.",
+    "speaker": null
+  },
+  {
+    "order": 12,
     "start": 33.52,
     "end": 36.48,
     "text": "Hair raising is a real thing though, isn't it?",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 36.48,
     "end": 38.48,
     "text": "Our hairs do rise.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 38.48,
     "end": 39.6,
-    "text": "Yes, Tim, they do.",
-    "speaker": null
-  },
-  {
-    "start": 39.6,
-    "end": 43.6,
-    "text": "Yes – Tim, they do. We get goose bumps when we’re cold, scared, or excited.",
+    "text": "Yes – Tim, they do",
     "speaker": "Neil"
   },
   {
+    "order": 15,
+    "start": 39.6,
+    "end": 43.6,
+    "text": "We get goose bumps when we're cold, scared, or excited.",
+    "speaker": null
+  },
+  {
+    "order": 16,
     "start": 43.6,
     "end": 46.079,
     "text": "But other mammals do it better than us.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 46.079,
     "end": 49.439,
-    "text": "But other mammals do it better than us – Cats fluff up when they see other cats they don’t like.",
-    "speaker": "Tim"
-  },
-  {
-    "start": 49.439,
-    "end": 50.48,
-    "text": "That's true.",
+    "text": "Cats fluff up when they see other cats they don't like.",
     "speaker": null
   },
   {
-    "start": 50.48,
-    "end": 53.76,
-    "text": "That’s true – We can’t fluff up because we don’t have enough body hair.",
+    "order": 18,
+    "start": 49.439,
+    "end": 50.48,
+    "text": "That’s true ",
     "speaker": "Neil"
   },
   {
-    "start": 53.76,
-    "end": 56.88,
-    "text": "I suppose we used to be as hairy as gorillas – if you go back a million years or so.",
-    "speaker": "Tim"
+    "order": 19,
+    "start": 50.48,
+    "end": 53.76,
+    "text": "We can't fluff up because we don't have enough body hair.",
+    "speaker": null
   },
   {
+    "order": 20,
+    "start": 53.76,
+    "end": 56.88,
+    "text": "I suppose we used to be as hairy as gorillas.",
+    "speaker": null
+  },
+  {
+    "order": 21,
     "start": 56.88,
     "end": 59.2,
     "text": "If you go back a million years or so.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 59.2,
     "end": 61.92,
     "text": "Do you know why we lost so much hair, Tim?",
     "speaker": "Neil"
   },
   {
+    "order": 23,
     "start": 61.92,
     "end": 66.32,
     "text": "Isn't it because it allowed us to sweat more easily?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 66.32,
     "end": 68.879,
     "text": "This meant we didn't get so hot and tired.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 68.879,
     "end": 71.04,
     "text": "We could run faster and for longer",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 71.04,
     "end": 73.04,
     "text": "and catch more animals to eat.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 73.84,
     "end": 75.599,
     "text": "Hmm, that sounds like a good theory.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 75.599,
     "end": 78.96,
     "text": "But do you have a theory on how many hair follicles",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 29,
     "start": 78.96,
     "end": 80.96,
     "text": "the human body has today?",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 80.96,
     "end": 82.64,
-    "text": "What’s a hair follicle?",
-    "speaker": "Tim"
-  },
-  {
-    "start": 82.64,
-    "end": 86.96,
-    "text": "A hair follicle is the organ that produces a hair underneath the skin.",
+    "text": "What's a hair follicle?",
     "speaker": null
   },
   {
+    "order": 31,
+    "start": 82.64,
+    "end": 86.96,
+    "text": "A hair follicle is the organ that produces a hair underneath the skin.",
+    "speaker": "hairfollicle"
+  },
+  {
+    "order": 32,
     "start": 87.759,
     "end": 89.439,
     "text": "Now, answer the question, Tim.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 89.439,
     "end": 92.799,
     "text": "How many hair follicles does the human body have today?",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 92.799,
     "end": 98.399,
     "text": "Is it A, 500,000, B, 5 million, or C, 50 million?",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 98.399,
     "end": 102.239,
-    "text": "50 million sounds about right.",
-    "speaker": "Tim"
-  },
-  {
-    "start": 102.719,
-    "end": 105.519,
-    "text": "Did you know that men have more than women, Tim?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 106.159,
-    "end": 107.519,
-    "text": "No, I didn't.",
+    "text": "Hmm, 50 million, sounds about right.",
     "speaker": null
   },
   {
+    "order": 36,
+    "start": 102.719,
+    "end": 105.519,
+    "text": " Did you know that men have more than women, Tim",
+    "speaker": "Tim"
+  },
+  {
+    "order": 37,
+    "start": 106.159,
+    "end": 107.519,
+    "text": "No, I didn’t ",
+    "speaker": "Tim"
+  },
+  {
+    "order": 38,
     "start": 108.159,
     "end": 112.399,
-    "text": "No, I didn’t – but it makes sense since men are usually hairier than women.",
-    "speaker": "Tim"
+    "text": "But it makes sense since men are usually hairier than women.",
+    "speaker": null
   },
   {
+    "order": 39,
     "start": 112.399,
     "end": 116,
-    "text": "On their faces – but not necessarily on their heads!",
-    "speaker": "Neil"
+    "text": "On their faces, but not necessarily on their heads.",
+    "speaker": null
   },
   {
+    "order": 40,
     "start": 116,
     "end": 119.68,
-    "text": "Are you referring to the fact that men of a certain age can be follically challenged?",
+    "text": "Are you referring to the fact that men of a certain age",
     "speaker": "Tim"
   },
   {
+    "order": 41,
     "start": 119.68,
     "end": 122.319,
     "text": "can be follically challenged?",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 122.319,
     "end": 124.319,
     "text": "Hmm, if you're follically challenged,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 124.319,
     "end": 126.319,
     "text": "it means you're losing your hair.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 126.319,
     "end": 128.56,
     "text": "Having little or no hair is called baldness.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 128.56,
     "end": 130,
     "text": "And if you've reached a certain age,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 130,
     "end": 131.759,
     "text": "it means you aren't young anymore.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 132.319,
     "end": 135.439,
     "text": "Why is our hair so important to us, Neil?",
-    "speaker": null
+    "speaker": "Tim"
   },
   {
+    "order": 48,
     "start": 135.439,
     "end": 137.84,
     "text": "When we aren't worrying about going bald,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 137.84,
     "end": 140,
     "text": "we're busy shaving, waxing,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 140,
     "end": 141.36,
     "text": "plucking and trimming the stuff.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 142,
     "end": 143.599,
     "text": "When I say we, of course,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 143.599,
     "end": 145.52,
     "text": "I'm referring to people in general.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 146.4,
     "end": 147.68,
     "text": "Not myself.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 147.68,
     "end": 151.199,
     "text": "Well, a good head of hair indicates health and youth.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 151.199,
     "end": 153.36,
     "text": "And hair on your face, facial hair,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 153.36,
     "end": 155.919,
     "text": "shows when boys have reached manhood.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 156.879,
     "end": 160.4,
-    "text": "On the other hand, going grey or losing your hair shows you’re getting older.",
+    "text": "On the other hand, going grey or losing your hair ",
     "speaker": "Tim"
   },
   {
+    "order": 58,
     "start": 160.4,
     "end": 161.919,
     "text": "shows you're getting older.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 161.919,
     "end": 164,
     "text": "Hair today, gone tomorrow?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 164,
-    "end": 165.84,
-    "text": "Bad joke, Neil!",
-    "speaker": "Tim"
-  },
-  {
-    "start": 165.84,
-    "end": 166.4,
-    "text": "Sorry.",
     "speaker": null
   },
   {
+    "order": 60,
+    "start": 164,
+    "end": 165.84,
+    "text": "Oh, bad joke, Neil.",
+    "speaker": null
+  },
+  {
+    "order": 61,
+    "start": 165.84,
+    "end": 166.4,
+    "text": "Sorry.",
+    "speaker": "Tim"
+  },
+  {
+    "order": 62,
     "start": 167.199,
     "end": 170.639,
     "text": "It's true that hair on your head shows signs of aging.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 170.639,
     "end": 173.199,
     "text": "But this isn't true of all human hair.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 173.919,
     "end": 177.119,
     "text": "Let's listen to Ralph Pous, a leading hair loss researcher,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 177.119,
     "end": 178,
     "text": "talking about this.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 179.919,
     "end": 183.039,
-    "text": "The eyebrows get stronger, usually in aging men.",
-    "speaker": null
+    "text": "The eyebrows get stronger usually in aging men, ",
+    "speaker": "Ralf Paus, hair loss researcher"
   },
   {
+    "order": 67,
     "start": 183.919,
     "end": 188.079,
     "text": "The hairs in your nose and your ears get stronger.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 188.079,
     "end": 191.359,
     "text": "And what a miracle of nature that an organ,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 191.359,
     "end": 195.519,
     "text": "and well, the entire body is aging actually grows stronger.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 195.519,
     "end": 199.28,
     "text": "So we may even be able to learn from hair follicles how not to age.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 200.08,
     "end": 208.96,
-    "text": "Hmm. I’m not sure I would swap a good head of hair for thick eyebrows and nose hair. How about you, Neil?",
-    "speaker": "Tim"
+    "text": "Hmm, I'm not sure I would swap a good head of hair for thick eyebrows and nose hair.",
+    "speaker": null
   },
   {
+    "order": 72,
     "start": 208.96,
     "end": 210.639,
     "text": "How about you, Neil?",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 210.639,
     "end": 211.28,
-    "text": "I agree.",
-    "speaker": null
+    "text": "I agree!",
+    "speaker": "Neil"
   },
   {
+    "order": 74,
     "start": 211.28,
     "end": 216.24,
     "text": "But let's hear more from Ralph Pous about why some hair gets stronger as you get older.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 218.96,
     "end": 222.56,
     "text": "The hair follicle apparently knows some tricks that the other organs don't know.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 222.56,
     "end": 224.639,
     "text": "So it's continuously regenerating itself,",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 224.639,
     "end": 226.159,
     "text": "it goes through a so-called hair cycle.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 226.159,
     "end": 228,
     "text": "And part of that, we know pretty well,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 228.24,
     "end": 230.719,
     "text": "that the stem cells that it uses to regenerate cells.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 232.8,
     "end": 236.24,
-    "text": "So a hair follicle can regenerate cells,",
-    "speaker": null
+    "text": "So a hair follicle can regenerate cells ",
+    "speaker": "regenerate"
   },
   {
+    "order": 81,
     "start": 236.24,
     "end": 239.919,
     "text": "or grow new cells to replace old or damaged ones.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 240.719,
     "end": 244.8,
     "text": "But if that's only true for eyebrows, nose, and ear hair,",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 244.8,
     "end": 246.56,
     "text": "I am not that impressed.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 246.56,
     "end": 249.199,
     "text": "I want hairs on my head to be able to regenerate.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 249.199,
     "end": 253.039,
     "text": "The important thing here is that these cells in the hair follicles",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 253.039,
     "end": 257.36,
     "text": "may help scientists discover a way to stop other organs of the body aging.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 258.879,
     "end": 264.24,
     "text": "Okay, I'm now going to reveal how many hair follicles on average we have on our bodies.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 264.24,
     "end": 265.12,
     "text": "The answer is...",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 266,
     "end": 267.04,
-    "text": "b) 5 million or",
+    "text": " 5 million",
     "speaker": "hairfollicle"
   },
   {
+    "order": 90,
     "start": 267.04,
     "end": 269.839,
     "text": "Oh. So not 50 million then.",
     "speaker": "Tim"
   },
   {
+    "order": 91,
     "start": 269.839,
     "end": 271.839,
     "text": "Don't worry Tim, it was a tricky question.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 272.399,
     "end": 274.399,
-    "text": "Don’t worry, Tim! It was a tricky question! Now let’s go over the words we learned today.",
-    "speaker": "Neil"
+    "text": "Now let's go over the words we learned today.",
+    "speaker": null
   },
   {
+    "order": 93,
     "start": 275.12,
     "end": 279.6,
     "text": "Hair raising means scary, often in an exciting way.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 279.6,
     "end": 284.72,
     "text": "For example, that ride on the roller coaster was a hair raising experience.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 284.72,
     "end": 289.44,
-    "text": "Next is ‘hair follicle’ – the organ that produces a hair underneath the skin.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 289.44,
-    "end": 292.64,
-    "text": "“Scientists believe that stress can affect hair follicles.”",
+    "text": "Next is hair follicle, the organ that produces a hair underneath the skin.",
     "speaker": "Tim"
   },
   {
-    "start": 292.64,
-    "end": 295.36,
-    "text": "A number of things can affect hair follicles actually – age, disease, diet…",
-    "speaker": "Neil"
+    "order": 96,
+    "start": 289.44,
+    "end": 292.64,
+    "text": "“Scientists believe that stress can affect hair follicles",
+    "speaker": "Tim"
   },
   {
+    "order": 97,
+    "start": 292.64,
+    "end": 295.36,
+    "text": "A number of things can affect hair follicles, actually.",
+    "speaker": null
+  },
+  {
+    "order": 98,
     "start": 295.36,
     "end": 297.92,
     "text": "Age, disease, diet.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 297.92,
     "end": 300.16,
     "text": "Okay, but we haven't got all day, Neil.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 300.16,
     "end": 303.52,
     "text": "So let's move on to the next item, baldness,",
-    "speaker": null
+    "speaker": "Tim"
   },
   {
+    "order": 101,
     "start": 303.52,
     "end": 306.56,
     "text": "which means having little or no hair on your head.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 306.56,
     "end": 311.36,
-    "text": "“My grandfather is bald and he always wears a hat to cover his baldness.”",
-    "speaker": "Neil"
-  },
-  {
-    "start": 311.36,
-    "end": 312.72,
-    "text": "Nice example.",
+    "text": "My grandfather is bald and he always wears a hat to cover his baldness.",
     "speaker": null
   },
   {
-    "start": 312.8,
-    "end": 314.8,
-    "text": "Nice example. Is your grandpa actually bald, Neil?",
+    "order": 103,
+    "start": 311.36,
+    "end": 312.72,
+    "text": "Nice example.",
     "speaker": "Tim"
   },
   {
+    "order": 104,
+    "start": 312.8,
+    "end": 314.8,
+    "text": "Is your grandpa actually bald, Neil?",
+    "speaker": null
+  },
+  {
+    "order": 105,
     "start": 314.8,
     "end": 316.96,
     "text": "No, he has a fine head of hair.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 316.96,
     "end": 320.48,
     "text": "Now, if you are of a certain age, it means you are no longer young.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 320.48,
     "end": 324.64,
-    "text": "“All the people at the party were of a certain age…”",
-    "speaker": "Tim"
-  },
-  {
-    "start": 324.64,
-    "end": 326.8,
-    "text": "How many of them had facial hair, Tim?",
+    "text": "For example, all the people at the party were of a certain age.",
     "speaker": null
   },
   {
+    "order": 108,
+    "start": 324.64,
+    "end": 326.8,
+    "text": "How many of them had facial hair, Tim?",
+    "speaker": "Tim"
+  },
+  {
+    "order": 109,
     "start": 326.8,
     "end": 328,
     "text": "That's our next word.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 328,
     "end": 330.64,
     "text": "And facial means to do with the face.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 330.64,
     "end": 333.36,
-    "text": "“None of the people at the party had facial hair.” There’s your answer!",
+    "text": "“None of the people at the party had facial hair",
     "speaker": "Tim"
   },
   {
+    "order": 112,
     "start": 333.36,
     "end": 334.24,
     "text": "There's your answer.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 335.44,
     "end": 337.2,
     "text": "Hmm, that's unusual, Tim.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 337.2,
     "end": 339.12,
     "text": "Lots of men have beards these days.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 339.68,
     "end": 342.8,
     "text": "Okay, our final word for today is regenerate,",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 342.8,
     "end": 344.079,
     "text": "which means to grow again.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 344.079,
     "end": 347.28,
     "text": "You can talk about regenerating a range of things, for example.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 347.92,
     "end": 351.36,
-    "text": "“The council has plans to regenerate this part of the city.”",
+    "text": "“The council has plans to regenerate this part of the city",
     "speaker": "Neil"
   },
   {
+    "order": 119,
     "start": 352.48,
     "end": 355.84,
-    "text": "“Regeneration of parts of the city is in progress.” – ‘regeneration’ is the noun.",
-    "speaker": "Tim"
+    "text": "Regeneration of parts of the city is in progress.",
+    "speaker": null
   },
   {
+    "order": 120,
     "start": 356.399,
     "end": 358.16,
     "text": "Regeneration is the noun.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 359.36,
     "end": 363.68,
-    "text": "Well, it's time to go now, but if today's show gave you goosebumps,",
-    "speaker": null
+    "text": "Well, it’s time to go now. But if today’s show gave you goosebumps ",
+    "speaker": "Neil"
   },
   {
+    "order": 122,
     "start": 363.68,
     "end": 367.759,
     "text": "please let us know by visiting our Twitter, Facebook and YouTube pages",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 367.839,
     "end": 368.959,
     "text": "and telling us all about it.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 368.959,
     "end": 369.599,
-    "text": "Bye-bye!",
-    "speaker": "Tim"
+    "text": "Bye-bye.",
+    "speaker": null
   },
   {
+    "order": 125,
     "start": 369.599,
     "end": 370.079,
-    "text": "Goodbye!",
-    "speaker": "Neil"
+    "text": "Goodbye.",
+    "speaker": null
   }
 ]

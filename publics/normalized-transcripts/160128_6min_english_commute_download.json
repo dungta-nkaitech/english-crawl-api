@@ -1,644 +1,751 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6MUte English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.279,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.56,
     "end": 15.28,
     "text": "Hello and welcome to 6 Minute English. I'm Neil…",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 15.28,
     "end": 18.48,
-    "text": "… and I'm Alice. Now Neil, how do you get to work?",
-    "speaker": "Alice"
+    "text": "And I'm Alice. Now, Neil, how do you get to work?",
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 18.48,
     "end": 19.44,
     "text": "I cycle.",
     "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 19.44,
     "end": 20.879,
     "text": "I didn't know that.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 20.879,
     "end": 23.519,
     "text": "Somehow I hadn't imagined you as a cyclist.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 23.519,
     "end": 25.199,
     "text": "And where's all your bike gear?",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 25.199,
     "end": 28.4,
     "text": "Well, I sneak in in the morning, have a shower and get changed.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 28.399,
     "end": 30.16,
     "text": "That's my bike in the corner over there.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 12,
     "start": 30.16,
     "end": 33.759,
     "text": "Oh, you've got a fold-away bike, which means it folds up,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 33.759,
     "end": 36.479,
     "text": "so it's easy to carry or put away.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 36.479,
     "end": 37.759,
     "text": "Do you wear Lycra, Neil?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 37.759,
     "end": 39.439,
-    "text": "Yes, I do. It's very comfortable.",
-    "speaker": null
+    "text": "Yes, I do… it's very comfortable.",
+    "speaker": "Lycra"
   },
   {
+    "order": 16,
     "start": 39.439,
     "end": 41.439,
     "text": "Oh. I wear Lycra as often as I can.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 42.239,
     "end": 47.359,
-    "text": "Yes, I do… it's very comfortable. I wear lycra as often as I can. Lycra by the way is a stretchy fabric used in tight-fitting sports clothes.",
-    "speaker": "Lycra"
+    "text": "Lycra, by the way, is a stretchy fabric used in tight-fitting sports clothes.",
+    "speaker": null
   },
   {
+    "order": 18,
     "start": 47.359,
     "end": 51.039,
-    "text": "Well, I'll have to see if I can catch you on your way into the building – I'm intrigued about this sporty Neil I didn't know about!",
-    "speaker": "intrigued"
+    "text": "Well, I'll have to see if I can catch you on your way into the building.",
+    "speaker": null
   },
   {
+    "order": 19,
     "start": 51.039,
     "end": 54.239,
     "text": "I'm intrigued about this sporty Neil I didn't know about.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 54.879,
     "end": 58.079,
     "text": "Intrigued means to be very interested in something.",
-    "speaker": null
+    "speaker": "commuting"
   },
   {
+    "order": 21,
     "start": 58.159,
     "end": 59.92,
     "text": "Well, Alice, I'm flattered.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 59.92,
     "end": 64.719,
     "text": "And today's show is about commuting or traveling between your home and your work.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 64.719,
     "end": 67.439,
     "text": "So how did you commute this morning, Alice?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 67.439,
     "end": 68.879,
-    "text": "the Tube",
-    "speaker": "Alice"
+    "text": "I got the tube.",
+    "speaker": null
   },
   {
+    "order": 25,
     "start": 68.879,
     "end": 71.12,
     "text": "That's the subway system here in London,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 71.12,
     "end": 73.12,
     "text": "also known as the Underground.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 73.12,
     "end": 74.959,
     "text": "And it was a nightmare.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 74.959,
     "end": 78.959,
     "text": "We stopped in a tunnel for so long that people started talking to each other.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 79.599,
     "end": 82.959,
-    "text": "And for those of you who aren't Londoners, that's unusual! Do you ever talk to people on the train?",
+    "text": "And for those of you who aren't Londoners, that's unusual!",
     "speaker": "Neil"
   },
   {
+    "order": 30,
     "start": 82.959,
     "end": 84.719,
     "text": "Do you ever talk to people on the train?",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 84.799,
     "end": 88.56,
     "text": "No. People think you're crazy if you talk to strangers.",
-    "speaker": "Alice"
+    "speaker": null
   },
   {
+    "order": 32,
     "start": 88.56,
     "end": 92.879,
-    "text": "Well, maybe now's a good time to talk about today's quiz question, Alice. What question do you have for me?",
+    "text": "Well, maybe now's a good time to talk about today's quiz question, Alice.",
     "speaker": "Neil"
   },
   {
+    "order": 33,
     "start": 92.879,
     "end": 94.48,
     "text": "What question do you have for me?",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 94.48,
     "end": 97.68,
     "text": "All right, then. I know you like my questions, Neil.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 97.68,
     "end": 99.039,
     "text": "So here we go.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 99.039,
     "end": 103.359,
     "text": "What did the word commuter originally describe?",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 37,
     "start": 103.359,
     "end": 106.799,
     "text": "Was it someone who, a, traveled with other people,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 107.599,
     "end": 110.239,
-    "text": "b) paid a reduced fare to travel?",
+    "text": "b, paid a reduced fare to travel,",
     "speaker": "Alice"
   },
   {
+    "order": 39,
     "start": 110.239,
     "end": 113.039,
     "text": "or c, traveled by train to work?",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 113.04,
     "end": 117.44,
     "text": "Oh, that's easy. I'm going to go for c, traveled by train to work.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 117.44,
     "end": 120.96,
     "text": "Well, we'll find out later whether you're right or not.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 42,
     "start": 120.96,
     "end": 123.52,
     "text": "Now, let's listen to a commuter in Nairobi",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 123.52,
     "end": 126.56,
     "text": "who takes a matato to get to work.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 126.56,
     "end": 130.64,
     "text": "These are mini buses used as shared taxis in East Africa.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 130.64,
     "end": 135.28,
     "text": "Can you spot a word that means being quick to notice things going on around you?",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 138.4,
     "end": 139.759,
     "text": "When I'm stuck in the matato,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 140.719,
     "end": 144.239,
     "text": "there is a lot of strange things happening around you.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 144.239,
     "end": 146.079,
     "text": "So you have to be alert in Nairobi.",
-    "speaker": null
+    "speaker": "INSERT"
   },
   {
+    "order": 49,
     "start": 146.079,
     "end": 148.959,
     "text": "When you open, you leave your window open,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 148.959,
     "end": 152.399,
     "text": "somebody can run away with your belongings.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 152.399,
     "end": 155.599,
     "text": "You may be speaking using the phone,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 155.599,
     "end": 157.599,
     "text": "somebody just snatch your phone.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 157.599,
     "end": 159.84,
     "text": "You may expect that unexpected.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 164.159,
     "end": 167.919,
-    "text": "The word used by this commuter in Kenya is alert,",
-    "speaker": null
+    "text": "The word used by this commuter in Kenya is alert.",
+    "speaker": "alertbelongings"
   },
   {
+    "order": 55,
     "start": 168.079,
     "end": 170.079,
     "text": "and in these noisy crowded buses,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 170.079,
     "end": 174.239,
     "text": "you need to be alert in case someone runs away with your belongings.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 174.239,
     "end": 176.319,
     "text": "Belongings are the things that you own.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 176.319,
     "end": 179.279,
     "text": "Right. Somebody might snatch your phone.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 179.279,
     "end": 182,
     "text": "Snatch means to take something quickly.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 182,
     "end": 184.879,
-    "text": "Public transport in Nairobi sounds stressful.",
-    "speaker": null
-  },
-  {
-    "start": 184.879,
-    "end": 188.079,
-    "text": "Public transport in Nairobi sounds stressful! If I was taking the bus I'd want to have a nap – or short sleep.",
+    "text": "Public transport in Nairobi sounds stressful!",
     "speaker": "nap"
   },
   {
+    "order": 61,
+    "start": 184.879,
+    "end": 188.079,
+    "text": "If I was taking the bus, I'd want to have a nap or short sleep.",
+    "speaker": null
+  },
+  {
+    "order": 62,
     "start": 188.079,
     "end": 192.56,
     "text": "Yes. Well, people have done research on commuting and stress levels,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 192.56,
     "end": 197.359,
-    "text": "Yes. Well, people have done research on commuting and stress levels – and interestingly women are more likely to experience stress during their journey than men.",
-    "speaker": "Alice"
+    "text": "and interestingly, women are more likely to experience stress during their journey",
+    "speaker": null
   },
   {
+    "order": 64,
     "start": 198.24,
     "end": 199.12,
     "text": "Why is that?",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 199.12,
     "end": 201.44,
     "text": "Well, they're more likely to do something,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 66,
     "start": 201.44,
     "end": 204,
     "text": "which is being called trip chaining,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 204,
     "end": 206.96,
     "text": "where they make one or more stops on the way to work,",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 206.96,
     "end": 208.24,
     "text": "or going home.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 208.24,
     "end": 211.6,
     "text": "For example, to drop off or pick up the kids from school.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 211.6,
     "end": 215.44,
     "text": "And this makes it more likely that something will go wrong with their journey.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 215.44,
     "end": 219.36,
     "text": "Even if you want trip chaining, it's no fun being stuck in a traffic jam.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 219.36,
     "end": 223.36,
     "text": "That's a large number of vehicles close together, moving slowly,",
-    "speaker": null
+    "speaker": "traffic jam"
   },
   {
+    "order": 73,
     "start": 223.36,
     "end": 226.8,
     "text": "or being packed into a crowded train like Sardines.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 226.88,
     "end": 231.28,
     "text": "Let's face it, traveling by car or by public transport can be really miserable.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 231.28,
     "end": 237.76,
     "text": "Yes. Packed in like Sardines describes people standing so close together that they can't move,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 237.76,
     "end": 239.04,
     "text": "like fish in a can.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 239.84,
     "end": 245.68,
     "text": "So, let's hear how longer commutes can affect your health from US researcher Christine Heiner.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 248.4,
     "end": 253.68,
     "text": "My study found that adults who commuted longer distances from home to work",
-    "speaker": null
+    "speaker": "INSERT"
   },
   {
+    "order": 79,
     "start": 253.76,
     "end": 256.8,
     "text": "were less physically active, less physically fit,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 256.8,
     "end": 260.8,
     "text": "weighed more, and had higher blood pressure than those people who had shorter commutes.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 262.8,
     "end": 267.759,
-    "text": "The American researcher must be talking about commuters who aren't engaged in active travel, mustn't she? Because if you cycle a longer distance then you're being more physically active.",
+    "text": "The American researcher must be talking about commuters who aren't engaged in active travel,",
     "speaker": "Neil"
   },
   {
+    "order": 82,
     "start": 267.759,
     "end": 271.12,
     "text": "mustn't she? Because if you cycle a longer distance,",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 271.12,
     "end": 273.12,
     "text": "then you're being more physically active.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 273.12,
     "end": 275.519,
-    "text": "I think you're right, for once, Neil!",
-    "speaker": "Alice"
+    "text": "Hmm, I think you're right for once, Neil.",
+    "speaker": null
   },
   {
+    "order": 85,
     "start": 275.519,
     "end": 276.72,
     "text": "Yeah.",
     "speaker": "Neil"
   },
   {
+    "order": 86,
     "start": 276.72,
     "end": 278.96,
     "text": "And I better start going to the gym more.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 278.96,
     "end": 281.28,
-    "text": "And I'd better start going to the gym more. I don't like the sound of high blood pressure.",
-    "speaker": "Alice"
+    "text": "I don't like the sound of high blood pressure.",
+    "speaker": null
   },
   {
+    "order": 88,
     "start": 281.279,
     "end": 285.439,
-    "text": "Why don't you hop on your bike, Alice? Then we can both wear lycra to work.",
-    "speaker": "Neil"
+    "text": "Why don't you hop on your bike, Alice, then we can both wear Lycra to work.",
+    "speaker": null
   },
   {
+    "order": 89,
     "start": 286.719,
     "end": 293.119,
     "text": "That's a fantastic idea, Neil. Moving on, here's the answer to today's quiz question.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 293.119,
     "end": 297.519,
     "text": "I asked, what did the word commuter originally describe?",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 297.519,
     "end": 301.199,
     "text": "Was it someone who, A, traveled with other people,",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 301.919,
     "end": 308,
     "text": "B, paid a reduced fare to travel, or C, traveled by train to work?",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 308,
     "end": 311.68,
     "text": "And I said C, traveled by train to work, it must be right.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 311.68,
     "end": 313.759,
     "text": "And you are wrong, I'm afraid.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 314.959,
     "end": 318.56,
     "text": "It's B, someone who paid a reduced fare to travel.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 96,
     "start": 319.04,
     "end": 323.759,
     "text": "The Oxford Dictionary says the word commute comes from Latin commutare,",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 324.319,
     "end": 328,
     "text": "from comm altogether plus mutare to change.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 328.56,
     "end": 334.56,
     "text": "The word was used in the US in the 1840s when people paid a reduced or commuted fare to",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 334.56,
     "end": 337.439,
     "text": "travel by rail from the suburbs into the city.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 337.439,
     "end": 340.399,
     "text": "Okay, can you tell us the words we heard today again, Alice?",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 340.399,
     "end": 342,
-    "text": "Of course I can. Here they are:",
-    "speaker": "Alice"
+    "text": "Of course I can, here they are.",
+    "speaker": "Neil"
   },
   {
+    "order": 102,
     "start": 342.8,
     "end": 356.24,
     "text": "Fold away bike, Lycra, intrigued, commuting, the tube, alert, belongings, snatch,",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 357.92,
     "end": 364.879,
     "text": "nap, traffic jam, packed in like sardines, commuted.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 364.879,
     "end": 367.759,
-    "text": "Well, that's the end of today's journey with 6 Minute English. Please do join us again soon.",
-    "speaker": "Neil"
+    "text": "Well, that's the end of today's journey with 6 Minute English.",
+    "speaker": "Alice"
   },
   {
+    "order": 105,
     "start": 367.759,
     "end": 370.079,
     "text": "Please do join us again soon. Goodbye.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 370.079,
     "end": 370.639,
     "text": "Bye.",
-    "speaker": "Both"
+    "speaker": null
   }
 ]

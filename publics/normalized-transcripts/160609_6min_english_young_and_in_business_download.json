@@ -1,761 +1,888 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6MuteEnglish",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.12,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.32,
     "end": 15.359,
     "text": "Hello and welcome to 6MuteEnglish. I'm Alice.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 15.359,
     "end": 16.399,
-    "text": "… And I'm Rob.",
+    "text": "And I'm Rob.",
     "speaker": "Rob"
   },
   {
+    "order": 6,
     "start": 16.399,
     "end": 20,
     "text": "So Rob, did you have a part-time job while you were at university?",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 20,
     "end": 22.8,
-    "text": "Yes, I worked in the student bar.",
-    "speaker": "Rob"
+    "text": "Ah yes, I worked in the student bar.",
+    "speaker": null
   },
   {
+    "order": 8,
     "start": 22.8,
     "end": 24.8,
     "text": "Did you learn anything from the experience?",
-    "speaker": "Alice"
+    "speaker": "Rob"
   },
   {
+    "order": 9,
     "start": 24.8,
     "end": 27.039,
     "text": "I learned how to pull a decent pint.",
     "speaker": "Rob"
   },
   {
+    "order": 10,
     "start": 27.039,
     "end": 28.96,
     "text": "Did you learn anything else?",
-    "speaker": "Alice"
+    "speaker": null
   },
   {
+    "order": 11,
     "start": 29.199,
     "end": 31.359,
     "text": "Yes, I learned how to add up.",
     "speaker": "Rob"
   },
   {
+    "order": 12,
     "start": 31.359,
     "end": 33.12,
     "text": "Didn't they teach you that at school?",
-    "speaker": "Alice"
-  },
-  {
-    "start": 33.12,
-    "end": 37.2,
-    "text": "I wasn't good at doing sums in my head, you know, mental arithmetic.",
     "speaker": null
   },
   {
+    "order": 13,
+    "start": 33.12,
+    "end": 37.2,
+    "text": "I wasn't good at doing sums in my head, you know, mental arithmetic.",
+    "speaker": "Rob"
+  },
+  {
+    "order": 14,
     "start": 37.52,
     "end": 40,
     "text": "But I got pretty good at it as a barman.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 40,
     "end": 43.439,
     "text": "They didn't have computerised cash registers in my day, you see?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 43.439,
     "end": 46.079,
     "text": "Oh, I didn't realise you were that old, Rob.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 47.12,
     "end": 51.6,
     "text": "Anyway, the subject of today's show is young business entrepreneurs.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 51.6,
     "end": 54.079,
     "text": "So, can you answer this question?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 54.079,
     "end": 57.04,
     "text": "How young were the founders of Facebook and Microsoft",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 20,
     "start": 57.199,
     "end": 59.359,
     "text": "when they first set up their companies?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 59.359,
     "end": 62.479,
     "text": "Were they, hey, junior high school students?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 63.119,
     "end": 65.439,
     "text": "B, high school students?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 65.439,
     "end": 68,
-    "text": "Or c) university students?",
+    "text": "Or C, university students?",
     "speaker": "Alice"
   },
   {
+    "order": 24,
     "start": 68.64,
     "end": 70.48,
-    "text": "And Alice, in case you think I don't know,",
-    "speaker": null
+    "text": "And Alice in case you think I don't know, ",
+    "speaker": "Rob"
   },
   {
+    "order": 25,
     "start": 70.48,
     "end": 73.439,
     "text": "Facebook is an online social networking service",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 73.439,
     "end": 76.319,
     "text": "and Microsoft is a computer software company, okay?",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 76.319,
     "end": 78,
     "text": "Very good, well done.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 78,
     "end": 82.48,
     "text": "Well, I'm going to say they were B, high school students.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 82.48,
     "end": 86.079,
     "text": "Well, we'll find out if you chose the right answer later on in the programme.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 86.56,
     "end": 90.799,
     "text": "But let's talk now about what drawbacks or disadvantages",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 31,
     "start": 90.799,
     "end": 92.64,
     "text": "there are for young entrepreneurs.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 92.64,
     "end": 93.84,
     "text": "What do you think, Rob?",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 93.84,
     "end": 98.4,
-    "text": "Hmm. Well, I suppose one of the drawbacks of being young and your own boss is that everyone who works for you is older than you!",
+    "text": "Well, I suppose one of the drawbacks of being young and your own boss",
     "speaker": "Rob"
   },
   {
+    "order": 34,
     "start": 98.4,
     "end": 101.519,
     "text": "is that everyone who works for you is older than you.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 101.519,
     "end": 102.879,
     "text": "Is that a drawback?",
-    "speaker": "Alice"
-  },
-  {
-    "start": 102.879,
-    "end": 105.359,
-    "text": "Well, let's consider a real case.",
     "speaker": null
   },
   {
+    "order": 36,
+    "start": 102.879,
+    "end": 105.359,
+    "text": "Well, let's consider a real case.",
+    "speaker": "Rob"
+  },
+  {
+    "order": 37,
     "start": 105.359,
     "end": 111.519,
     "text": "Young British entrepreneur Sulaman Sakhani started his first company when he was 17,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 111.519,
     "end": 114.319,
     "text": "followed by another business shortly afterwards.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 114.399,
     "end": 117.359,
     "text": "Then while studying chemistry at university,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 117.359,
     "end": 121.759,
     "text": "he started his third company, an online version of the pound shop,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 121.759,
     "end": 123.519,
     "text": "or dollar store in the US,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 123.519,
     "end": 126.879,
     "text": "where everything in the shop is priced at one pound.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 126.879,
     "end": 130.4,
     "text": "Let's listen to Sulaman Sakhani talking about his company.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 131.359,
     "end": 134.639,
-    "text": "I'm actually quite fortunate now compared to what I was six months ago,",
-    "speaker": null
+    "text": "I'm actually quite fortunate now, compared to what I was six months ago",
+    "speaker": "INSERT"
   },
   {
+    "order": 45,
     "start": 134.639,
     "end": 136.959,
     "text": "because now I've got two additional directors of Greyhair.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 137.759,
     "end": 140.639,
     "text": "And it actually, commercial meetings are excellent now, you know?",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 140.719,
     "end": 145.679,
     "text": "But before that, I think I came across quite professional,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 145.679,
     "end": 147.919,
     "text": "but you could still tell they were thinking in the back of their heads,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 147.919,
     "end": 149.199,
     "text": "got kids sitting in front of me.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 150.799,
     "end": 156.959,
     "text": "So young entrepreneur Sulaman Sakhani has got two Greyhair directors working with him now.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 156.959,
     "end": 158.079,
-    "text": "That's right.",
-    "speaker": null
+    "text": "That's right ",
+    "speaker": "Alice"
   },
   {
+    "order": 52,
     "start": 158.079,
     "end": 161.759,
     "text": "But how does having Greyhair executives on board help, Rob?",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 161.759,
     "end": 164.56,
     "text": "Well, executives are people who run a business,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 164.56,
     "end": 167.439,
     "text": "and on board means being part of a team.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 167.439,
     "end": 171.359,
     "text": "Well, to answer your question, Alice, they bring experience to the table.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 171.919,
     "end": 173.599,
     "text": "I have a few Greyhairs, you know?",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 173.599,
     "end": 174.96,
     "text": "You could learn a lot from me.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 174.96,
     "end": 176.96,
     "text": "Oh, I do, Rob, every day.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 176.96,
     "end": 179.52,
-    "text": "bring something to the table",
-    "speaker": "Alice"
+    "text": "And if you bring something to the table,",
+    "speaker": "bring something to the table"
   },
   {
+    "order": 60,
     "start": 179.52,
     "end": 182.24,
     "text": "it means you provide something useful.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 182.24,
     "end": 184.4,
     "text": "Well, what do you bring to the table, Rob?",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 184.4,
     "end": 189.439,
-    "text": "Well, bad jokes, peanuts, crisps, cups of coffee, that sort of thing…",
-    "speaker": "Rob"
-  },
-  {
-    "start": 189.439,
-    "end": 192.319,
-    "text": "I was going to say a keen mind,",
+    "text": "Well, bad jokes, peanuts, crisps, cups of coffee, that sort of thing.",
     "speaker": null
   },
   {
+    "order": 63,
+    "start": 189.439,
+    "end": 192.319,
+    "text": "I was going to say a keen mind,",
+    "speaker": "keen"
+  },
+  {
+    "order": 64,
     "start": 192.319,
     "end": 194.479,
     "text": "in other words, a well-developed mind,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 194.479,
     "end": 196.879,
-    "text": "(business) acumen",
-    "speaker": "Alice"
+    "text": "and great business acumen.",
+    "speaker": null
   },
   {
+    "order": 66,
     "start": 196.96,
     "end": 198.719,
     "text": "Oh, come on, you aren't going to say that.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 198.719,
     "end": 200.24,
     "text": "You're right, I wasn't.",
-    "speaker": null
+    "speaker": "Acumen"
   },
   {
+    "order": 68,
     "start": 200.24,
     "end": 202.479,
     "text": "Acumen means good judgment,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 202.479,
     "end": 206.719,
     "text": "but don't worry, you have an abundant enthusiasm that makes up for it.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 206.719,
     "end": 211.919,
     "text": "But moving on now, do you think that school prepared you well for working life?",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 211.919,
     "end": 215.599,
     "text": "No, not really. I studied Latin at school, and I don't use that much.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 215.599,
     "end": 219.519,
     "text": "And maths, well, I never use trigonometry or calculus.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 219.519,
     "end": 222.319,
     "text": "So I'm not sure how useful maths lessons were.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 222.319,
     "end": 226.24,
     "text": "Mmm, yes, and you only learn to add up in the university bar after all.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 226.24,
     "end": 228.48,
     "text": "Yes, but I'm very good at it.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 228.48,
     "end": 231.6,
     "text": "And the point is that I've got a fantastic job now.",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 77,
     "start": 231.6,
     "end": 233.76,
     "text": "And if you're really interested in something,",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 233.76,
     "end": 237.6,
     "text": "you can always acquire or get the skills you don't have.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 237.6,
     "end": 241.28,
     "text": "Let's listen to successful young entrepreneur, Jessica Rose,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 241.28,
     "end": 243.2,
     "text": "talking about her experience.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 243.2,
     "end": 245.04,
     "text": "She works with jewelry.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 246.24,
     "end": 250.719,
-    "text": "I didn't need all these previous skills and experience to go out there and start on my own.",
-    "speaker": null
+    "text": " I didn't need all these previous skills and experience to go out there and start on my own",
+    "speaker": "INSERT"
   },
   {
+    "order": 83,
     "start": 250.719,
     "end": 254.24,
     "text": "When I first started, I had no business training whatsoever,",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 254.24,
     "end": 256.4,
     "text": "no jewelry training whatsoever.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 256.4,
     "end": 258.72,
     "text": "But I kind of broke up one day and thought,",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 258.72,
     "end": 260.879,
     "text": "I'd really love to be a jewelry designer,",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 260.879,
     "end": 264.319,
     "text": "which is kind of a tricky position to be in because it's, you know,",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 264.319,
     "end": 266.48,
     "text": "a lot of people would say and did say,",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 266.48,
     "end": 268.16,
     "text": "well, you're, you know, your mad.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 269.68,
     "end": 273.519,
     "text": "So Jessica Rose used her savings to learn jewelry making,",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 273.519,
     "end": 276.8,
     "text": "and then set up her own jewelry making business.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 276.8,
     "end": 281.68,
     "text": "And despite setting out with no business experience and no jewelry training,",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 281.68,
     "end": 284.4,
     "text": "her enthusiasm for the article paid off.",
-    "speaker": null
-  },
-  {
-    "start": 284.4,
-    "end": 286.879,
-    "text": "And that means it was successful.",
     "speaker": "Alice"
   },
   {
-    "start": 286.879,
-    "end": 288.24,
-    "text": "A bit like me…",
-    "speaker": "Rob"
-  },
-  {
-    "start": 288.24,
-    "end": 288.959,
-    "text": "Yes.",
+    "order": 94,
+    "start": 284.4,
+    "end": 286.879,
+    "text": "And that means it was successful.",
     "speaker": null
   },
   {
+    "order": 95,
+    "start": 286.879,
+    "end": 288.24,
+    "text": "A bit like me.",
+    "speaker": null
+  },
+  {
+    "order": 96,
+    "start": 288.24,
+    "end": 288.959,
+    "text": " Yes",
+    "speaker": "Rob"
+  },
+  {
+    "order": 97,
     "start": 288.959,
     "end": 292.72,
     "text": "Okay, I think it's time for the answer to today's quiz question.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 292.72,
     "end": 296.56,
     "text": "I asked how young were the founders of Facebook and Microsoft",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 296.56,
     "end": 298.96,
     "text": "when they first set up their companies?",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 298.96,
     "end": 302.399,
     "text": "Were they a junior high school students,",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 303.12,
     "end": 305.439,
     "text": "b, high school students,",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 305.439,
     "end": 308.079,
     "text": "or c, university students?",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 308.959,
     "end": 311.039,
     "text": "I said b, high school students.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 311.839,
     "end": 313.68,
-    "text": "And you were wrong, I'm afraid, Rob. Sorry.",
-    "speaker": "Alice"
+    "text": "And you were wrong, I'm afraid.",
+    "speaker": "Rob"
   },
   {
+    "order": 105,
     "start": 313.68,
     "end": 314.319,
     "text": "Rob, sorry.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 314.319,
     "end": 314.959,
-    "text": "Again.",
-    "speaker": "Rob"
+    "text": " again",
+    "speaker": "Alice"
   },
   {
+    "order": 107,
     "start": 314.959,
     "end": 315.519,
     "text": "Yes.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 108,
     "start": 316.319,
     "end": 319.439,
     "text": "Mark Zuckerberg and Bill Gates were both university students",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 319.439,
     "end": 321.279,
     "text": "when they started their companies.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 321.279,
     "end": 326.799,
     "text": "Zuckerberg was studying at Harvard in the US when he launched Facebook in 2004.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 326.799,
     "end": 331.919,
     "text": "And Bill Gates took a break from Harvard to launch Microsoft in 1976,",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 331.919,
     "end": 333.919,
     "text": "but never returned to his studies.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 333.919,
     "end": 336.479,
     "text": "Yeah, both at Harvard, that's a coincidence.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 337.28,
     "end": 339.6,
     "text": "I wonder if the bar there was any good.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 340.56,
     "end": 342.72,
     "text": "Now, can we hear the words we learned today?",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 342.72,
     "end": 343.92,
     "text": "Yes, okay.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 343.92,
     "end": 347.92,
     "text": "They are drawbacks, executives,",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 348.879,
     "end": 351.92,
-    "text": "on board, bring something to the table,",
-    "speaker": null
+    "text": "on board bring something to the table",
+    "speaker": "Alice"
   },
   {
+    "order": 119,
     "start": 352.8,
     "end": 358.48,
     "text": "keen, business acumen, acquire, paid off.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 359.52,
     "end": 360.48,
     "text": "Thanks, Alice.",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 121,
     "start": 360.48,
     "end": 363.84,
     "text": "Well, that's the end of today's six minute English.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 363.839,
     "end": 367.199,
     "text": "We hope you've enjoyed the new vocabulary that we brought to the table.",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 367.199,
     "end": 368.079,
     "text": "Very good.",
-    "speaker": "Alice"
+    "speaker": null
   },
   {
+    "order": 124,
     "start": 368.079,
     "end": 369.439,
     "text": "Please don't ask again soon.",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 369.439,
     "end": 370.079,
-    "text": "Bye.",
-    "speaker": "Both"
+    "text": "Bye-bye.",
+    "speaker": null
   },
   {
+    "order": 126,
     "start": 370.079,
     "end": 370.319,
     "text": "Bye.",

@@ -1,875 +1,1021 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.56,
     "text": "From BBC Learning English",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.439,
     "end": 16.48,
     "text": "Hello, I'm Sam and welcome to 6 Minute English.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 16.48,
     "end": 19.12,
     "text": "This is the programme where in just 6 minutes,",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 19.12,
     "end": 21.12,
     "text": "we discuss an interesting topic",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 21.12,
     "end": 23.76,
     "text": "and teach some related English vocabulary.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 23.76,
     "end": 25.679,
     "text": "Joining me to do this is Rob.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 25.679,
     "end": 29.92,
-    "text": "Hello.  And today we’re talking about fraud.",
-    "speaker": "fraud"
+    "text": "Hello, and today we're talking about fraud.",
+    "speaker": null
   },
   {
+    "order": 10,
     "start": 30.08,
     "end": 33.28,
     "text": "Fraud is the criminal activity of getting money",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 11,
     "start": 33.28,
     "end": 36.32,
     "text": "by deceiving people or tricking people",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 12,
     "start": 36.32,
     "end": 38.16,
     "text": "by doing something dishonest.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 38.16,
     "end": 39.6,
     "text": "There are many ways to do this",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 39.6,
     "end": 42.4,
-    "text": "There are many ways to do this – and much of it is happening online these days.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 42.4,
-    "end": 44.64,
-    "text": "We'll talk more about this in a moment,",
+    "text": "and much of it is happening online these days.",
     "speaker": null
   },
   {
+    "order": 15,
+    "start": 42.4,
+    "end": 44.64,
+    "text": "We’ll talk more about this in a moment.",
+    "speaker": "Sam"
+  },
+  {
+    "order": 16,
     "start": 44.64,
     "end": 48.4,
     "text": "but first a very honest quiz question for you to answer, Rob.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 48.96,
     "end": 51.04,
     "text": "According to UK Finance,",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 18,
     "start": 51.04,
     "end": 54.799,
     "text": "an organisation that represents the British banking industry,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 54.799,
     "end": 57.2,
     "text": "how much money did criminals steal",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 57.2,
     "end": 59.6,
     "text": "through fraud and scams last year?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 59.679,
     "end": 62.56,
     "text": "Was it a, 1.2 million pounds?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 63.2,
     "end": 65.92,
     "text": "b, 120 million,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 65.92,
     "end": 68.719,
     "text": "or c, 1.2 billion pounds?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 69.359,
     "end": 71.439,
-    "text": "Well, I imagine it’s quite a lot – so I’ll say £120m.",
-    "speaker": "Rob"
+    "text": "Well, I imagine it's quite a lot,",
+    "speaker": "Sam"
   },
   {
+    "order": 25,
     "start": 71.439,
     "end": 74,
     "text": "so I'll say 120 million pounds.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 74,
     "end": 77.2,
     "text": "Okay, we'll find out if you're right later in the programme.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 77.2,
     "end": 79.76,
     "text": "Now, I just mentioned the word scam,",
-    "speaker": null
+    "speaker": "scamfallen for"
   },
   {
+    "order": 28,
     "start": 79.76,
     "end": 81.84,
     "text": "which is an illegal way of making money",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 81.84,
     "end": 83.28,
     "text": "by tricking someone.",
-    "speaker": null
+    "speaker": "scamscammers"
   },
   {
+    "order": 30,
     "start": 84.159,
     "end": 86.319,
     "text": "We may think that will never be scammed,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 86.319,
     "end": 88.24,
     "text": "but already millions of people",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 88.239,
     "end": 90,
     "text": "have fallen for fake emails,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 90,
     "end": 93.119,
     "text": "funcalls or letters that look genuine",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 93.119,
     "end": 96.399,
     "text": "and ask us to give or update our financial details.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 96.959,
     "end": 99.679,
     "text": "To fall for means to believe something",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 99.679,
     "end": 102.64,
     "text": "that is a trick or a lie, to be true.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 102.64,
     "end": 103.919,
     "text": "This year, for example,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 103.919,
     "end": 105.759,
     "text": "thousands of people in the UK",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 105.759,
     "end": 108.479,
     "text": "fell for a fraudulent or fake email,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 108.479,
     "end": 111.759,
     "text": "requesting that people update their direct debit details",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 111.759,
     "end": 113.599,
     "text": "for paying their TV licence.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 113.599,
     "end": 115.679,
     "text": "That's a payment we have to make in the UK",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 115.679,
     "end": 116.799,
     "text": "to fund the BBC.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 117.439,
     "end": 120.48,
     "text": "And this is something the BBC Radio 4 programme",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 120.48,
     "end": 122.56,
     "text": "you and yours has been discussing.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 46,
     "start": 123.2,
     "end": 125.679,
     "text": "It's BBC fraud investigator reporter,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 125.679,
     "end": 129.199,
     "text": "Sherry Val, explained why it was easy to be deceived.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 130.079,
     "end": 132.159,
     "text": "It's a sleight of hand fraud.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 132.159,
     "end": 134.8,
     "text": "The criminals get you to look over there",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 134.8,
     "end": 136.159,
     "text": "whilst they rifle your pockets,",
-    "speaker": null
+    "speaker": "sleight of handSleight of hand"
   },
   {
+    "order": 51,
     "start": 136.159,
     "end": 137.599,
     "text": "and I have the email here.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 138.159,
     "end": 140.159,
     "text": "It looks completely convincing.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 140.159,
     "end": 142.639,
     "text": "All the right logos, all the right fonts,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 142.639,
     "end": 145.039,
     "text": "it just says that my direct debit",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 145.12,
     "end": 147.759,
     "text": "or my TV licence has failed and I need to pay it.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 147.759,
     "end": 149.12,
     "text": "It's very polite.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 149.12,
     "end": 151.199,
     "text": "So some great language there.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 151.199,
     "end": 154.799,
     "text": "She said that this scam was a sleight of hand fraud.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 155.359,
     "end": 158.479,
     "text": "Slight of hand means the use of clever skill",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 158.479,
     "end": 160.719,
     "text": "to gain something dishonestly.",
-    "speaker": null
+    "speaker": "sleight of handrifle"
   },
   {
+    "order": 61,
     "start": 160.719,
     "end": 162.239,
     "text": "In this case, money.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 162.239,
     "end": 163.28,
     "text": "As Sherry said,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 163.28,
     "end": 166.959,
     "text": "the criminals get you to metaphorically look over there",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 166.959,
     "end": 169.12,
     "text": "whilst they rifle your pockets.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 169.12,
     "end": 170.879,
     "text": "Rifle means search something",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 170.879,
     "end": 172.479,
     "text": "in order to steal from it.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 172.479,
     "end": 174.399,
     "text": "So to steal from your pocket,",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 174.48,
     "end": 175.68,
     "text": "very dishonest.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 175.68,
     "end": 178.24,
-    "text": "Now, like in this case, fraudsters,",
-    "speaker": null
+    "text": "Now, like in this case, fraudsters ",
+    "speaker": "phishing."
   },
   {
+    "order": 70,
     "start": 178.24,
     "end": 180.159,
     "text": "the people who commit fraud,",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 180.159,
     "end": 182.96,
     "text": "gained financial information by fishing.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 183.68,
     "end": 187.2,
     "text": "That's not fishing using a rod, line and hook,",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 187.2,
     "end": 190.96,
     "text": "but by sending an email that looked like it came from your bank,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 191.599,
     "end": 194.24,
     "text": "asking for confidential information.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 194.24,
     "end": 198.48,
-    "text": "But banks do warn us not to give away our financial details online and to change our passwords regularly.",
-    "speaker": "Rob"
+    "text": "But banks do warn us not to give away our financial details online",
+    "speaker": null
   },
   {
+    "order": 76,
     "start": 198.48,
     "end": 200.719,
     "text": "and to change our passwords regularly.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 200.719,
     "end": 203.84,
-    "text": "But sometimes criminals are very clever in what they do,",
-    "speaker": null
+    "text": "But sometimes criminals are very clever in what they do ",
+    "speaker": "Sam"
   },
   {
+    "order": 78,
     "start": 203.84,
     "end": 205.52,
     "text": "and it's easy to be fooled.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 205.52,
     "end": 208.56,
     "text": "The You and Yours programme also heard about this",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 208.56,
     "end": 211.2,
     "text": "from social engineer Jenny Radcliffe.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 211.2,
     "end": 213.68,
     "text": "What does she call this type of fraud?",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 213.68,
     "end": 215.68,
     "text": "The more sophisticated frauds are ones",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 215.68,
     "end": 218.319,
     "text": "that have been thought through very carefully.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 218.319,
     "end": 219.84,
     "text": "And this has been thought through",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 219.84,
     "end": 221.68,
     "text": "is a fraud that can be layered.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 221.68,
     "end": 224.56,
     "text": "So you know, we're getting some information from you.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 224.56,
     "end": 228.4,
     "text": "What you really look for is a window into someone a key",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 228.4,
     "end": 230.8,
     "text": "that unlocks you to a small part of their identity",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 230.8,
     "end": 232.4,
     "text": "or their personal data",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 232.48,
     "end": 235.68,
     "text": "and from that a good, probable build and build and build on it",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 235.68,
     "end": 239.439,
     "text": "until the consequences so some people can be completely devastated.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 239.439,
     "end": 242.96,
     "text": "So Jenny Radcliffe is talking about sophisticated fraud.",
-    "speaker": null
+    "speaker": "sophisticated"
   },
   {
+    "order": 93,
     "start": 242.96,
     "end": 245.92,
     "text": "That means it's clever and often complicated,",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 245.92,
     "end": 247.439,
     "text": "so it can confuse us.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 247.439,
     "end": 251.759,
     "text": "Yes, criminals need just a small piece of information about us,",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 251.759,
     "end": 255.36,
     "text": "a key that can eventually open up our identity",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 255.36,
     "end": 257.439,
     "text": "and expose our personal data.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 257.439,
     "end": 260,
     "text": "And as Jenny says, for the victims of fraud,",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 260,
     "end": 263.36,
     "text": "the consequences, the outcome, can be very bad,",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 263.36,
     "end": 266.72,
     "text": "especially if somebody loses all their hard-earned savings.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 266.72,
     "end": 268.72,
     "text": "It can be devastating.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 268.72,
     "end": 273.12,
     "text": "Of course banks and security companies are working hard to beat the criminals,",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 273.12,
     "end": 275.199,
     "text": "but it still remains a problem.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 275.199,
     "end": 277.199,
     "text": "An earlier, I asked you, Rob,",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 277.199,
     "end": 279.04,
     "text": "according to UK Finance,",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 279.04,
     "end": 283.68,
     "text": "how much money did criminals steal through fraud and scams last year?",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 283.68,
     "end": 287.68,
     "text": "And I said, be £120 million, that's a lot of money.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 287.68,
     "end": 290.319,
     "text": "It is, but it's even more.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 109,
     "start": 290.319,
     "end": 295.36,
     "text": "In 2018, criminals successfully stole 1.2 billion",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 295.36,
     "end": 298.639,
     "text": "through fraud and scams, and that's just in the UK.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 298.639,
     "end": 300.319,
     "text": "Globally, it's even more.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 300.319,
     "end": 302.16,
     "text": "Well, it certainly is a serious issue,",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 302.16,
     "end": 304.48,
     "text": "but hopefully we haven't deceived you",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 304.48,
     "end": 306.8,
     "text": "with the vocabulary we've discussed today.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 306.8,
     "end": 308.319,
     "text": "Hopefully not.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 308.319,
     "end": 310.399,
     "text": "We've been talking about fraud.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 310.399,
     "end": 313.04,
     "text": "That's the criminal activity of getting money",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 313.04,
     "end": 315.759,
     "text": "by deceiving people or tricking people",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 315.839,
     "end": 317.759,
     "text": "by doing something dishonest.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 317.759,
     "end": 319.279,
     "text": "Next, we had scam,",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 319.279,
     "end": 322.48,
     "text": "which is an illegal or dishonest way of making money",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 322.48,
     "end": 323.839,
     "text": "by tricking someone.",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 323.839,
     "end": 326.24,
     "text": "The people who do it are scammers.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 326.24,
     "end": 327.92,
     "text": "We talked about the phrasal verb,",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 327.92,
     "end": 328.959,
     "text": "fall for.",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 328.959,
     "end": 330.399,
     "text": "When you fall for something,",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 330.399,
     "end": 334.56,
     "text": "you believe something that is a trick or a lie to be true.",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 334.56,
     "end": 337.12,
     "text": "Then we heard about slight of hand,",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 337.12,
     "end": 339.36,
     "text": "which means use of clever skill",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 339.36,
     "end": 341.36,
     "text": "to gain something dishonestly,",
     "speaker": null
   },
   {
+    "order": 131,
     "start": 341.36,
     "end": 344,
     "text": "and rifle, which means search something",
     "speaker": null
   },
   {
+    "order": 132,
     "start": 344.079,
     "end": 345.839,
     "text": "in order to steal from it.",
     "speaker": null
   },
   {
+    "order": 133,
     "start": 345.839,
     "end": 348.48,
     "text": "Fishing, spelt with a ph,",
     "speaker": null
   },
   {
+    "order": 134,
     "start": 348.48,
     "end": 351.439,
     "text": "means tricking someone by email or online",
     "speaker": null
   },
   {
+    "order": 135,
     "start": 351.439,
     "end": 353.36,
     "text": "to get their personal data",
     "speaker": null
   },
   {
+    "order": 136,
     "start": 353.36,
     "end": 355.68,
     "text": "by pretending to be from your bank.",
     "speaker": null
   },
   {
+    "order": 137,
     "start": 355.68,
     "end": 358.959,
     "text": "Finally, we discussed sophisticated fraud.",
     "speaker": null
   },
   {
+    "order": 138,
     "start": 358.959,
     "end": 360.8,
     "text": "When something is sophisticated,",
     "speaker": null
   },
   {
+    "order": 139,
     "start": 360.8,
     "end": 363.839,
     "text": "it's clever and often complicated.",
     "speaker": null
   },
   {
+    "order": 140,
     "start": 363.839,
     "end": 365.439,
     "text": "Unlike our programme, Sam!",
     "speaker": "Rob"
   },
   {
+    "order": 141,
     "start": 365.439,
     "end": 368.639,
     "text": "Let's hope so, but now we've reached the end of our programme.",
     "speaker": null
   },
   {
+    "order": 142,
     "start": 368.639,
     "end": 370.72,
     "text": "See you again soon. Bye!",
     "speaker": "Rob"
   },
   {
+    "order": 143,
     "start": 370.72,
     "end": 371.519,
     "text": "Bye.",
-    "speaker": "Sam"
+    "speaker": null
   },
   {
+    "order": 144,
     "start": 372.399,
     "end": 374.079,
     "text": "Six-minute English.",
     "speaker": null
   },
   {
+    "order": 145,
     "start": 374.079,
     "end": 376.399,
     "text": "From BBC Learning English.",

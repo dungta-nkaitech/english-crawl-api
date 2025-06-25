@@ -1,611 +1,713 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 13.519,
     "end": 17.6,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Sam.",
     "speaker": "Sam"
   },
   {
+    "order": 3,
     "start": 17.6,
     "end": 18.719,
-    "text": "And I’m Rob.",
-    "speaker": "Rob"
+    "text": "And I'm Rob.",
+    "speaker": null
   },
   {
+    "order": 4,
     "start": 18.719,
     "end": 22.719,
-    "text": "How good are you at finding your way from A to B, Rob? Can you read a map?",
+    "text": "How good are you at finding your way from A to B, Rob",
     "speaker": "Sam"
   },
   {
+    "order": 5,
     "start": 22.719,
     "end": 23.92,
     "text": "Can you read a map?",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 23.92,
     "end": 27.12,
     "text": "Oh, come on, Sam. This is the 21st century.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 27.12,
     "end": 31.839,
-    "text": "Come on, Sam, this is the 21st century!  Everyone uses GPS and mobile phone apps to find their way around these days.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 31.839,
-    "end": 34.799,
-    "text": "True, but before mobile phones were invented,",
+    "text": "Everyone uses GPS and mobile phone apps to find their way around these days.",
     "speaker": null
   },
   {
+    "order": 8,
+    "start": 31.839,
+    "end": 34.799,
+    "text": "True, but before mobile phones were invented ",
+    "speaker": "navigate compass"
+  },
+  {
+    "order": 9,
     "start": 34.799,
     "end": 37.52,
     "text": "arriving at your destination wasn't so easy.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 38.24,
     "end": 42.48,
     "text": "At sea, sailors used the stars and sun to navigate,",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 42.48,
     "end": 45.6,
     "text": "to work out which direction they wanted to travel.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 45.6,
     "end": 50.32,
     "text": "And navigating on land was almost impossible with our to compass,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 50.32,
     "end": 54.799,
     "text": "an instrument for finding directions that uses a magnetic needle",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 54.799,
     "end": 57.279,
     "text": "which moves to always point north.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 57.279,
     "end": 59.679,
     "text": "But as we'll be hearing in this programme,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 59.679,
     "end": 65.12,
     "text": "navigation at sea is easy compared to finding your way in out of space.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 65.12,
     "end": 70.56,
     "text": "After all, what's up and what's down for astronauts who are floating in zero gravity?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 70.56,
     "end": 73.759,
     "text": "In space, is there a true north like here on Earth?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 73.759,
     "end": 79.439,
     "text": "And how is everything complicated by the fact that all the stars and planets are moving?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 79.439,
     "end": 83.92,
     "text": "Some big questions there, Rob, but first I have a question of my own.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 21,
     "start": 83.92,
     "end": 87.439,
     "text": "You asked how astronauts know which way is up.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 87.439,
     "end": 90.879,
     "text": "So who better to ask than the first person in space?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 90.879,
     "end": 96.96,
     "text": "But who was that? Was it A, Neil Armstrong, B, Uriga Garen,",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 96.96,
     "end": 100,
-    "text": "c)    Valentina Tereshkova?",
+    "text": "or C, Valentina Tereshkova?",
     "speaker": "Sam"
   },
   {
+    "order": 25,
     "start": 100,
     "end": 103.04,
-    "text": "Well, Neil Armstrong was the first man on the moon,",
-    "speaker": null
+    "text": "Well, Neil Armstrong was the first man on the Moon,",
+    "speaker": "Rob"
   },
   {
+    "order": 26,
     "start": 103.04,
     "end": 105.84,
     "text": "but I don't think he was the first person in space,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 105.84,
     "end": 108.079,
     "text": "so I think it's B, Uriga Garen.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 108.079,
     "end": 111.599,
     "text": "Okay, I'll reveal the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 111.599,
     "end": 118.479,
     "text": "Now, let's get back to Rob's earlier question about whether there's such a thing as north in space.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 118.479,
     "end": 123.28,
     "text": "And to answer that, it's first useful to know how north is found on Earth.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 123.28,
     "end": 126.399,
     "text": "Listen to astrophysicist Ethan Segal,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 126.399,
     "end": 130.24,
     "text": "as he explains why a compass always points north",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 33,
     "start": 130.24,
     "end": 133.039,
     "text": "to BBC World Service programme crowd science.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 134,
     "end": 138.56,
     "text": "Because Earth behaves like it has a giant bar magnet in it,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 138.56,
     "end": 144.4,
     "text": "and your compass needle will point north towards Earth's magnetic pole.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 144.4,
     "end": 148.64,
     "text": "And we've arbitrarily defined north as that's what we're going to say up is.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 148.64,
     "end": 151.68,
     "text": "Like the north pole, that's as up as you can go.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 152.479,
     "end": 155.599,
     "text": "Planet Earth is like a giant magnet.",
-    "speaker": null
+    "speaker": "magnetic pole"
   },
   {
+    "order": 39,
     "start": 155.599,
     "end": 158.56,
     "text": "Because the needle of a compass is magnetised,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 158.56,
     "end": 161.36,
     "text": "it's attracted to the magnetic pole,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 161.36,
     "end": 164,
     "text": "the points near the north and south poles,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 164,
     "end": 167.199,
     "text": "where the Earth's magnetic field is concentrated.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 167.199,
     "end": 169.119,
     "text": "This explains how we find north,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 169.119,
     "end": 175.28,
     "text": "but Ethan points out that the decision to call north up and south down is arbitrary,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 175.28,
     "end": 179.519,
     "text": "decided by random chance not based on any particular reason.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 179.519,
     "end": 183.199,
     "text": "When we look at the world map, we think of north as up.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 183.199,
     "end": 188.399,
     "text": "The USA in the northern hemisphere is above Brazil, in the southern hemisphere.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 48,
     "start": 188.399,
     "end": 192.879,
     "text": "But from space, Earth can just as easily be seen the other way up,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 192.879,
     "end": 197.12,
     "text": "with Australia, South Africa and South America at the top.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 197.28,
     "end": 199.36,
     "text": "Both views are equally true.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 199.36,
     "end": 201.84,
     "text": "Wow, that's a mind-blowing thought.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 201.84,
     "end": 205.28,
     "text": "But even though we can argue which direction is up,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 205.28,
     "end": 209.36,
     "text": "it's still true that we can use a compass to navigate on Earth.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 209.36,
     "end": 212.24,
     "text": "However, this simply isn't true in space.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 212.24,
     "end": 215.84,
     "text": "Here's astrophysicist Ethan Segal again to tell Bebesyworld",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 215.84,
     "end": 218,
     "text": "services crowd science why.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 218.96,
     "end": 226.08,
-    "text": "The problem with navigating in space is that the magnetic field flips irregularly every few",
-    "speaker": null
+    "text": "The problem with navigating in space is that the magnetic field flips irregularly every few",
+    "speaker": "flips light years"
   },
   {
+    "order": 58,
     "start": 226.08,
     "end": 228.4,
     "text": "hundred or few thousand light years.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 228.4,
     "end": 233.28,
     "text": "There's no central object, like the black hole at the center of our galaxy.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 233.28,
     "end": 235.52,
     "text": "It doesn't dominate the whole galaxy.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 235.52,
     "end": 240.08,
     "text": "It doesn't make a magnetic field that you can feel out here 25,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 240.08,
     "end": 242.72,
     "text": "27,000 light years from the center.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 242.72,
     "end": 248.32,
     "text": "So magnetism is not a good guide to navigating in space.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 249.36,
     "end": 252.16,
     "text": "A light year sounds like a measurement of time,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 252.159,
     "end": 257.439,
     "text": "but in fact it measures the distance that light travels in one year,",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 257.439,
     "end": 264.399,
     "text": "which given that light can travel seven and a half times around the Earth in one second",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 264.399,
     "end": 266.399,
     "text": "is a very, very long way.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 266.399,
     "end": 269.199,
     "text": "Around six trillion miles, in fact.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 269.199,
     "end": 272.56,
-    "text": "Well, the problem is that every few hundred light years,",
-    "speaker": null
+    "text": "Well, the problem is that every few hundred light years ",
+    "speaker": "flips"
   },
   {
+    "order": 70,
     "start": 272.56,
     "end": 277.68,
     "text": "the magnetic field flips, turns over or moves into a different position.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 277.68,
     "end": 280.48,
     "text": "So a compass, which depends on magnetism,",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 280.48,
     "end": 283.04,
     "text": "is no good for navigating in space.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 283.04,
     "end": 287.92,
     "text": "So how do spacecraft know where they are and which way to go?",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 287.92,
     "end": 291.12,
     "text": "The answer is both simple and very clever.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 291.12,
     "end": 295.759,
     "text": "They use specialized heat sensors to detect the position of the sun",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 295.759,
     "end": 298,
     "text": "and use that to guide their way.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 298,
     "end": 303.84,
-    "text": "So simple yet so ingenious! I’m sure it would have impressed the first person in space, whoever they were.",
+    "text": "So simple yet so ingenious! I’m sure it would have impressed the first person in space,",
     "speaker": "Rob"
   },
   {
+    "order": 78,
     "start": 303.84,
     "end": 304.64,
     "text": "whoever they are.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 304.64,
     "end": 305.52,
     "text": "Mm-hmm.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 305.52,
     "end": 309.92,
-    "text": "Ah yes, in my question I asked who the first person in space was.",
-    "speaker": "Sam"
+    "text": "Yes, in my question, I asked who the first person in space was.",
+    "speaker": null
   },
   {
+    "order": 81,
     "start": 310,
     "end": 312.319,
     "text": "And I said it was B. Uri Gagarin.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 312.319,
     "end": 313.439,
     "text": "I've got to be right, haven't I?",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 83,
     "start": 313.439,
     "end": 314.72,
     "text": "Anyway, it was right.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 314.72,
     "end": 315.6,
     "text": "Of course.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 315.6,
     "end": 321.36,
     "text": "Soviet cosmonaut Uri Gagarin became the first man in space in 1961",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 321.36,
     "end": 323.2,
     "text": "with Valentina Tereshkova,",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 323.2,
     "end": 327.92,
     "text": "following in his footsteps to become the first woman in space two years later.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 327.92,
     "end": 332.16,
     "text": "Okay, let's recap the vocabulary from this program on how to navigate",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 332.16,
     "end": 334.24,
     "text": "or find your way in space.",
-    "speaker": null
+    "speaker": "navigate"
   },
   {
+    "order": 90,
     "start": 334.24,
     "end": 336.56,
     "text": "On Earth, you can use a compass,",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 336.56,
     "end": 340.72,
     "text": "an instrument with a magnetic needle that moves to point north",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 340.72,
     "end": 343.12,
     "text": "that is towards the magnetic pole,",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 343.12,
     "end": 348.48,
     "text": "a point near the north or south poles where Earth's magnetic field is strongest.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 348.48,
     "end": 351.759,
     "text": "Saying that north is up is arbitrary,",
-    "speaker": null
-  },
-  {
-    "start": 351.759,
-    "end": 355.68,
-    "text": "Saying that north is ‘up’ is arbitrary – done randomly, not according to any particular reason or principle.",
     "speaker": "arbitrary"
   },
   {
-    "start": 355.68,
-    "end": 360.959,
-    "text": "A light year is a unit measuring the distance that light travels in one year - around 6 trillion miles.",
-    "speaker": "light year"
+    "order": 95,
+    "start": 351.759,
+    "end": 355.68,
+    "text": "done randomly, not according to any particular reason or principle.",
+    "speaker": null
   },
   {
+    "order": 96,
+    "start": 355.68,
+    "end": 360.959,
+    "text": "A light year is a unit measuring the distance that light travels in one year,",
+    "speaker": null
+  },
+  {
+    "order": 97,
     "start": 360.959,
     "end": 362.959,
     "text": "around six trillion miles.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 363.039,
     "end": 368.079,
     "text": "And finally, to flip means to turn over or move into a different position.",
     "speaker": "flip"
   },
   {
+    "order": 99,
     "start": 368.079,
     "end": 370.079,
-    "text": "Once again, our time is up. Goodbye for now!",
-    "speaker": "Sam"
+    "text": "Once again, our time is up.",
+    "speaker": null
   },
   {
+    "order": 100,
     "start": 370.079,
     "end": 371.039,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 371.039,
     "end": 371.68,
     "text": "Bye-bye.",

@@ -1,632 +1,737 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.32,
     "end": 14.48,
-    "text": "Hello and welcome to 6 Minute English. I'm Dan and joining me is Rob.",
+    "text": "Hello and welcome to 6 Minute English.",
     "speaker": "Dan"
   },
   {
+    "order": 3,
     "start": 14.48,
     "end": 15.28,
     "text": "I'm Dan.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 15.28,
     "end": 16.879,
     "text": "Enjoying me is Rob.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 16.879,
     "end": 17.839,
     "text": "Hello.",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 17.839,
     "end": 21.039,
     "text": "Here at BBC Learning English, we're always discussing diets.",
     "speaker": "Dan"
   },
   {
+    "order": 7,
     "start": 21.039,
     "end": 23.76,
     "text": "Hmm, I am on a seafood diet.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 23.76,
     "end": 26.16,
-    "text": "I am on a sea-food diet. When I see food, I just have to eat it!",
-    "speaker": "Rob"
-  },
-  {
-    "start": 26.16,
-    "end": 29.839,
-    "text": "I suppose there's no chance of converting you to a vegan diet, is there?",
+    "text": "When I see food, I just have to eat it.",
     "speaker": null
   },
   {
+    "order": 9,
+    "start": 26.16,
+    "end": 29.839,
+    "text": "I suppose there's no chance of converting you to a vegan diet, is there?",
+    "speaker": "fad  fad"
+  },
+  {
+    "order": 10,
     "start": 29.839,
     "end": 33.119,
     "text": "That seems to be the most talked about food fad at the moment.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 33.119,
     "end": 37.039,
-    "text": "OK. Our first word was fad. A fad is something that is popular but only for a short time.",
-    "speaker": "fadfad"
+    "text": "A fad is something that is popular, but only for a short time.",
+    "speaker": "Rob"
   },
   {
+    "order": 12,
     "start": 37.039,
     "end": 42.159,
     "text": "Of course, veganism, that's not eating or using any products that come from animals,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 42.159,
     "end": 43.84,
     "text": "may be more than a fad.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 43.84,
     "end": 47.519,
     "text": "It could be a lifestyle that improves our health and the planet,",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 47.519,
     "end": 49.039,
     "text": "and it could be here to stay.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 49.039,
     "end": 54.24,
     "text": "But personally, me becoming a vegan would take some persuading, I'm sure it would.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 54.24,
     "end": 57.439,
     "text": "And in this programme, we'll be discussing the debate about veganism",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 18,
     "start": 57.519,
     "end": 60.559,
     "text": "and how it's sometimes difficult to change people's minds.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 60.559,
     "end": 62.879,
     "text": "But first, a question to answer.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 63.599,
     "end": 68.879,
     "text": "We've mentioned what a vegan eats, but what about a lacto-ovogetarian?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 68.879,
     "end": 71.84,
     "text": "Which one of these items can they eat?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 71.84,
     "end": 75.84,
     "text": "Is it a pork, b fish, or c cheese?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 76.479,
     "end": 78.959,
-    "text": "I'll say b) they can eat fish.",
-    "speaker": "Rob"
+    "text": "I'll say b, they can eat fish.",
+    "speaker": "Dan"
   },
   {
+    "order": 24,
     "start": 78.959,
     "end": 82.159,
-    "text": "Well, you'll have to wait until the end of the programme to find out.",
-    "speaker": null
+    "text": "Well, you’ll have to wait until the end of the programme to find out.",
+    "speaker": "Dan"
   },
   {
+    "order": 25,
     "start": 82.159,
     "end": 83.92,
     "text": "But now, back to veganism.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 84.799,
     "end": 92.159,
     "text": "According to some national surveys, there are now around 3.5 million full-time vegans in the UK,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 92.159,
     "end": 93.68,
     "text": "and the number is growing.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 93.68,
     "end": 98.96,
-    "text": "And what was recently a radical lifestyle choice is slowly moving into the mainstream – or has become accepted by most people as normal.",
-    "speaker": "mainstream"
+    "text": "And what was recently a radical lifestyle choice is slowly moving into the mainstream,",
+    "speaker": null
   },
   {
+    "order": 29,
     "start": 98.96,
     "end": 102.32,
     "text": "or has become accepted by most people as normal.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 102.32,
     "end": 107.68,
-    "text": "Advocates of veganism say their healthy lifestyle would also free up space and resources for growing food and it would help reduce greenhouse gas emissions.",
+    "text": "Advocates of veganism say their healthy lifestyle would also free up space and resources for",
     "speaker": "Dan"
   },
   {
+    "order": 31,
     "start": 107.68,
     "end": 111.92,
     "text": "growing food, and it would help reduce greenhouse gas emissions.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 112,
     "end": 113.2,
     "text": "But come on, Dan.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 113.2,
     "end": 116.799,
-    "text": "Yeah, but come on Dan. Having a meat-free diet means you might not get all the nutrients you need.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 116.799,
-    "end": 119.2,
-    "text": "Well, this is all part of the debate, Rob.",
+    "text": "Having a meat-free diet means you might not get all the nutrients you need.",
     "speaker": null
   },
   {
+    "order": 34,
+    "start": 116.799,
+    "end": 119.2,
+    "text": "Well, this is all part of the debate, Rob.",
+    "speaker": "polarised"
+  },
+  {
+    "order": 35,
     "start": 119.2,
     "end": 122.879,
     "text": "There's always two sides to an argument, and it's something that's been discussed",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 122.879,
     "end": 125.84,
     "text": "on BBC Radio 4's Farming Today programme.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 125.84,
     "end": 131.439,
     "text": "They spoke to Dr. Yuta Tobias Mortlach, a senior lecturer in Organizational Psychology",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 131.439,
     "end": 137.36,
     "text": "at London City University, who explained why views about veganism are so polarised.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 137.36,
     "end": 141.439,
     "text": "That means causing people to divide into two groups with opposing views.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 142.239,
     "end": 146.639,
     "text": "This issue touches on personal beliefs, and beliefs always trump facts.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 146.639,
     "end": 151.759,
     "text": "And so often, when we talk about beliefs, we're touching on important values.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 151.759,
     "end": 156.639,
     "text": "Values are the things that guide our opinion over what's right versus what's wrong.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 156.639,
     "end": 160.639,
     "text": "And so whenever people argue over whether it's right or wrong to eat meat,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 160.639,
     "end": 163.279,
     "text": "they are in fact not debating the facts around this issue.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 163.279,
     "end": 167.759,
     "text": "They're actually debating the beliefs about what's moral, or immoral about this.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 168.879,
     "end": 171.599,
     "text": "So it seems, in the whole debate about veganism,",
-    "speaker": null
+    "speaker": "beliefs.belief"
   },
   {
+    "order": 47,
     "start": 171.599,
     "end": 177.599,
     "text": "we are basing our views on beliefs. A belief is something we feel is true or real.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 177.599,
     "end": 182.479,
     "text": "Our beliefs are based on our values. Those are the things we think are right and wrong.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 182.479,
     "end": 185.759,
     "text": "And when we argue over the rights and wrongs of veganism,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 185.759,
     "end": 189.039,
     "text": "we base it on our values, not hard facts.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 189.039,
     "end": 191.599,
     "text": "We talk about our view on what is immoral,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 191.599,
     "end": 194.959,
     "text": "so what society thinks is wrong or not acceptable.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 194.959,
     "end": 197.519,
     "text": "But basically, there is no right or wrong answer.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 197.519,
     "end": 199.519,
     "text": "That's why we need facts, Rob.",
     "speaker": "Dan"
   },
   {
+    "order": 55,
     "start": 199.52,
     "end": 204.64,
-    "text": "So Dan, what can I do if I want to win you over to becoming an omnivore, like me?",
-    "speaker": "Rob"
+    "text": "So Dan, what can I do if I want to win you over to becoming an omnivore like me?",
+    "speaker": null
   },
   {
+    "order": 56,
     "start": 204.64,
     "end": 209.04,
     "text": "According to Dr. Yutte, there are two main routes to winning someone over.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 209.04,
     "end": 215.2,
     "text": "A direct, fact-based approach, or a peripheral route, which might be more effective.",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 58,
     "start": 215.2,
     "end": 217.2,
     "text": "Let's hear her explain how it works.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 218,
     "end": 221.76,
     "text": "If I'm working with you and trying to get you to come round to my side,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 221.76,
     "end": 224.96,
     "text": "I might not focus on the central facts.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 224.96,
     "end": 229.92,
     "text": "I might focus on the peripheral stuff around how I'm constructing my argument.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 229.92,
     "end": 235.6,
     "text": "I'd look for ways of how they overlap as people, like what do they have in common?",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 235.6,
     "end": 239.68,
     "text": "And that's a way to debate an issue such as this controversial one",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 239.68,
     "end": 242.56,
     "text": "in a way to get people to feel connected to each other",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 242.56,
     "end": 247.36,
     "text": "and to actually feel that they value each other as decent human beings.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 248.64,
     "end": 252.719,
-    "text": "Interesting. This is a more subtle way of winning an argument.",
-    "speaker": null
+    "text": "Interesting! This is a more subtle way of winning an argument.",
+    "speaker": "peripheral"
   },
   {
+    "order": 67,
     "start": 252.719,
     "end": 255.359,
     "text": "She says we should focus on the peripheral stuff.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 255.359,
     "end": 260.24,
     "text": "These are the things that are not as important as the main argument but are connected to it.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 260.24,
     "end": 263.12,
     "text": "So we could say we're looking for common ground.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 263.12,
     "end": 266.639,
     "text": "Things that both sides agree on, or at least understand.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 266.639,
     "end": 269.92,
     "text": "Dr. Yutte talked about making both sides feel connected.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 269.92,
     "end": 271.279,
     "text": "And it's a good point.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 271.279,
     "end": 275.519,
     "text": "Even if you don't want to be a vegan, you should respect someone's choice to be one.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 275.519,
     "end": 279.6,
     "text": "Yes, it's all about valuing someone as a decent human being.",
-    "speaker": null
+    "speaker": "decent Decent"
   },
   {
+    "order": 75,
     "start": 279.6,
     "end": 283.52,
     "text": "Decent means good and having good moral standards, like us, then.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 283.52,
     "end": 285.36,
     "text": "Well, their wise words, Rob.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 285.36,
     "end": 287.68,
     "text": "Of course, it would be morally wrong.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 287.68,
     "end": 291.12,
     "text": "Immoral. Not to give you the answer to our quiz question.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 291.12,
     "end": 296.4,
     "text": "Earlier, I asked which one of these items can a lacto-over-vegetarian eat?",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 296.4,
     "end": 297.92,
     "text": "I said be fish.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 298.56,
     "end": 302.32,
     "text": "Sorry, no. That's something they can't eat.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 82,
     "start": 302.32,
     "end": 304.56,
     "text": "But they can eat cheese.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 304.56,
     "end": 310.24,
     "text": "A lacto-over-vegetarian is a person who eats vegetables, eggs, and dairy products.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 310.24,
     "end": 312.24,
     "text": "But does not eat meat.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 312.24,
     "end": 313.28,
-    "text": "No meat?",
-    "speaker": null
-  },
-  {
-    "start": 313.28,
-    "end": 315.36,
-    "text": "No meat! No steak! How can they enjoy eating?!",
+    "text": "No meat!",
     "speaker": "Rob"
   },
   {
+    "order": 86,
+    "start": 313.28,
+    "end": 315.36,
+    "text": "No steak. How can they enjoy eating?",
+    "speaker": null
+  },
+  {
+    "order": 87,
     "start": 315.36,
     "end": 320.079,
     "text": "Rob, remember as decent human beings, we respect all views here.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 320.079,
     "end": 320.959,
     "text": "Just joking.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 320.959,
     "end": 326,
-    "text": "Just joking – but now I'm deadly serious about reviewing some of the vocabulary we've discussed today.",
-    "speaker": "Rob"
+    "text": "But now I'm deadly serious about reviewing some of the vocabulary we've discussed today.",
+    "speaker": null
   },
   {
+    "order": 90,
     "start": 326,
     "end": 326.959,
     "text": "Okay.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 326.959,
     "end": 329.12,
     "text": "Our first word was fad.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 329.12,
     "end": 332.639,
     "text": "A fad is something that's popular, but only for a short time.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 333.279,
     "end": 335.439,
     "text": "Next, we mentioned mainstream.",
-    "speaker": null
-  },
-  {
-    "start": 335.439,
-    "end": 339.759,
-    "text": "Next, we mentioned mainstream. Something that is mainstream has become accepted by most people as normal.",
     "speaker": "mainstream."
   },
   {
+    "order": 94,
+    "start": 335.439,
+    "end": 339.759,
+    "text": "Something that is mainstream has become accepted by most people as normal.",
+    "speaker": null
+  },
+  {
+    "order": 95,
     "start": 339.759,
     "end": 341.919,
     "text": "Then we had polarised.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 341.919,
     "end": 347.439,
-    "text": "Then we had polarised – that describes a situation that causes people to divide into two groups with opposing views.",
-    "speaker": "polarised"
-  },
-  {
-    "start": 347.439,
-    "end": 350.56,
-    "text": "A belief is something we feel is true or real.",
+    "text": "That describes a situation that causes people to divide into two groups with opposing views.",
     "speaker": null
   },
   {
-    "start": 350.56,
-    "end": 354.959,
-    "text": "A belief is something we feel is true or real. And immoral describes something that society thinks is wrong or not acceptable.",
+    "order": 97,
+    "start": 347.439,
+    "end": 350.56,
+    "text": "A belief is something we feel is true or real.",
     "speaker": "belief immoral"
   },
   {
+    "order": 98,
+    "start": 350.56,
+    "end": 354.959,
+    "text": "And immoral describes something that society thinks is wrong or not acceptable.",
+    "speaker": null
+  },
+  {
+    "order": 99,
     "start": 354.959,
     "end": 360.56,
     "text": "We also mentioned peripheral, which relates to things that are not as important as the main argument,",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 360.56,
     "end": 362,
     "text": "but are connected to it.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 362.639,
     "end": 365.039,
     "text": "It also means situated on the edge.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 365.039,
     "end": 368.56,
     "text": "And finally, decent means good or good enough.",
     "speaker": "decent"
   },
   {
+    "order": 103,
     "start": 368.56,
     "end": 373.759,
     "text": "Don't forget you can learn more English with us on our website at bbclearningenglish.com.",
-    "speaker": "Dan"
+    "speaker": null
   },
   {
+    "order": 104,
     "start": 373.759,
     "end": 375.439,
-    "text": "Bye for now.",
+    "text": "Bye for now. Goodbye.",
     "speaker": "Rob"
   }
 ]

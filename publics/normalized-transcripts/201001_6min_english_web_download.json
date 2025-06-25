@@ -1,527 +1,615 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.52,
     "text": "This is a download from BBC Learning English. To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 13.04,
     "end": 16.96,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 2,
     "start": 16.96,
     "end": 20.4,
-    "text": "And I’m Sam. What’s the matter, Neil? You sound upset.",
-    "speaker": "Sam"
+    "text": "And I'm Sam. What's the matter, Neil? You sound upset.",
+    "speaker": null
   },
   {
+    "order": 3,
     "start": 21.039,
     "end": 26.24,
-    "text": "Well, I am, Sam - I just spent an hour working on my computer when it suddenly froze. I lost everything and had to start all over again!",
+    "text": "Well, I am Sam. I just spent an hour working on my computer when it suddenly froze.",
     "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 26.24,
     "end": 29.039,
     "text": "I lost everything and had to start all over again.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 29.199,
     "end": 34.96,
     "text": "Oh, that's so frustrating. Like pop up internet ads and buffering videos that never play.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 35.6,
     "end": 39.759,
     "text": "Modern computers in the internet have revolutionised the way we live today,",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 39.759,
     "end": 42.399,
-    "text": "bringing us the world with a click of a button,",
-    "speaker": null
+    "text": " bringing us the world with a click of a button",
+    "speaker": "Neil"
   },
   {
+    "order": 8,
     "start": 42.399,
     "end": 45.679,
     "text": "but not everyone feels happy about these technological developments.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 46.399,
     "end": 50.48,
     "text": "While potentially acting as a force for good and progress,",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 50.48,
     "end": 55.28,
     "text": "the internet also provides a way of spreading hate and misinformation.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 55.28,
     "end": 60.64,
     "text": "And for some people, the worldwide web remains a mysterious and confusing place.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 61.28,
     "end": 66.159,
-    "text": "In this programme, we’ll hear about a new academic subject called Web Science. Web Science studies the technology behind the internet.",
+    "text": "In this programme, we’ll hear about a new academic subject called Web Science.",
     "speaker": "Neil"
   },
   {
+    "order": 13,
     "start": 66.159,
     "end": 69.76,
     "text": "Web science studies the technology behind the internet.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 69.76,
     "end": 75.12,
     "text": "But from the human side, it's also interested in how people interact with each other online.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 75.12,
     "end": 79.28,
     "text": "So we'll be asking whether studying web science could make the internet",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 79.28,
     "end": 81.599,
     "text": "better for humanity in the future.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 81.679,
     "end": 84.239,
-    "text": "But first, it's time for our quiz question.",
-    "speaker": null
+    "text": "But first it’s time for our quiz question. ",
+    "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 84.239,
     "end": 88.159,
     "text": "I wonder what the pioneers of the internet would think about how it is used today.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 88.159,
     "end": 91.519,
     "text": "So the question is, who invented the worldwide web?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 91.519,
     "end": 96.719,
     "text": "Was it A, Bill Gates, B, Tim Berners-Lee, or C, Steve Jobs?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 97.359,
     "end": 102.079,
-    "text": "Well, Bill Gates and Steve Jobs were the brains behind Microsoft and Apple Mac, so I’m going to say c) Tim Berners-Lee.",
-    "speaker": "Sam"
+    "text": " Well, Bill Gates and Steve Jobs were the brains behind Microsoft and Apple Mac",
+    "speaker": "Neil"
   },
   {
+    "order": 22,
     "start": 102.079,
     "end": 104.959,
     "text": "So I'm going to say C, Tim Berners-Lee.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 104.959,
     "end": 107.039,
     "text": "Okay, Sam will find out later.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 107.12,
     "end": 112.719,
-    "text": "OK, Sam, we’ll find out later. Now, because of coronavirus the annual Web Science conference was held online this year. Its theme was ‘making the web human-centric’.",
+    "text": "Now, because of coronavirus, the annual web science conference was held online this year,",
     "speaker": "Neil"
   },
   {
+    "order": 25,
     "start": 112.719,
     "end": 115.44,
     "text": "its theme was making the web human centric.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 116.08,
     "end": 121.68,
-    "text": "One of the conference’s key speakers, and co-founder of the new discipline of Web Science, was Dame Wendy Hall. Here she is speaking to BBC World Service’s Digital Planet:",
-    "speaker": "Sam"
+    "text": "One of the conference's key speakers and co-founder of the new discipline of web science",
+    "speaker": null
   },
   {
+    "order": 27,
     "start": 121.68,
     "end": 123.439,
     "text": "was Dame Wendy Hall.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 123.439,
     "end": 127.04,
     "text": "Here she is, speaking to the BBC World Services Digital Planet.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 128.24,
     "end": 133.04,
     "text": "People think about the web as a technology, but actually it's co-created by society.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 133.039,
     "end": 137.039,
     "text": "We put the content on, we interact with the technology, with the platforms,",
-    "speaker": null
+    "speaker": "social media networksecosysteminterdisciplinary"
   },
   {
+    "order": 31,
     "start": 137.039,
     "end": 139.519,
     "text": "with the social media networks to create it.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 139.519,
     "end": 142.719,
     "text": "What we study is as how that works as an ecosystem.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 142.719,
     "end": 146.959,
     "text": "This is coming together of people and technology, and it's very interdisciplinary,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 146.959,
     "end": 151.68,
     "text": "very sociotechnical, and of course these days a lot of it is powered by AI.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 153.039,
     "end": 157.12,
     "text": "Web science is not only interested in the technology side of the internet.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 157.12,
     "end": 162.719,
     "text": "As a subject, it's very interdisciplinary, involving two or more academic subjects,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 162.719,
     "end": 164.319,
     "text": "or areas of knowledge.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 164.319,
     "end": 169.919,
     "text": "Web science combines digital technology with subjects ranging from psychology and robotics",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 169.919,
     "end": 171.52,
     "text": "to economics and sociology.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 172.159,
     "end": 176.879,
-    "text": "Exchanges between humans and the internet can be seen in social media networks,",
-    "speaker": null
+    "text": "Exchanges between humans and the internet can be seen in social media networks ",
+    "speaker": "social media networks"
   },
   {
+    "order": 41,
     "start": 176.879,
     "end": 180.8,
     "text": "websites, apps and computer programs like Facebook and Instagram,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 180.8,
     "end": 186.159,
     "text": "which allow people to use electronic devices to communicate and share information.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 186.159,
     "end": 192.159,
-    "text": "This view of technology sees the internet as an ecosystem – a complex pattern of relationships and mutual influences that exists between all living things and their environment.",
-    "speaker": "ecosystem"
+    "text": "This view of technology sees the internet as an ecosystem, a complex pattern of relationships",
+    "speaker": null
   },
   {
+    "order": 44,
     "start": 192.159,
     "end": 197.28,
     "text": "and mutual influences that exists between all living things and their environment.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 197.28,
     "end": 202.8,
-    "text": "One ongoing and topical example of websites helpfully interacting with humans is the Covid contact tracing app.",
+    "text": "One ongoing and topical example of websites helpfully interacting with humans",
     "speaker": "Sam"
   },
   {
+    "order": 46,
     "start": 202.8,
     "end": 205.759,
     "text": "is the COVID contact tracing app.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 205.759,
     "end": 210,
-    "text": "You might think the mobile phone app, which tracks movements and contact between people to combat coronavirus, would be a useful practical application of internet technology.",
-    "speaker": "Neil"
+    "text": "You might think the mobile phone app, which tracks movements and contact between people",
+    "speaker": null
   },
   {
+    "order": 48,
     "start": 210,
     "end": 215.199,
     "text": "to combat coronavirus, would be a useful practical application of internet technology.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 215.199,
     "end": 220.079,
     "text": "But is Carly Kind, director of the Ada Lovelace Institute in Cambridge,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 220.08,
     "end": 223.44,
     "text": "explained to the BBC World Services Digital Planet?",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 223.44,
     "end": 225.2,
     "text": "Things are never that straightforward.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 52,
     "start": 226.72,
     "end": 230.24,
     "text": "Actually, there's a lot of more fundamental questions that haven't been answered yet,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 230.24,
     "end": 235.52,
     "text": "such as, is Bluetooth even an adequate mechanism for doing what it says on the tin,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 235.52,
     "end": 238.24,
     "text": "which is detecting contact between two people?",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 238.24,
     "end": 241.36,
     "text": "The trials so far show that it's not actually that great.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 241.36,
     "end": 245.76,
     "text": "And so do we know for sure that these apps work and they work in the way we want them to?",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 246.4,
     "end": 249.439,
     "text": "Do we get the public health information that we need?",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 251.04,
     "end": 254.16,
-    "text": "Apps like this are designed to support public health,",
-    "speaker": null
-  },
-  {
-    "start": 254.16,
-    "end": 258.72,
-    "text": "Apps like this are designed to support public health - services to improve the standard of health of a country’s general population.",
+    "text": "Apps like this are designed to support public health ",
     "speaker": "public health -"
   },
   {
+    "order": 59,
+    "start": 254.16,
+    "end": 258.72,
+    "text": "services to improve the standard of health of a country's general population.",
+    "speaker": null
+  },
+  {
+    "order": 60,
     "start": 258.72,
     "end": 263.52,
     "text": "But Carly thinks the mechanisms used must be suitable and adequate.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 263.52,
     "end": 267.68,
     "text": "They must actually work or do what it says on the tin.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 268.48,
     "end": 273.12,
     "text": "An informal idiom, meaning work exactly as it is intended to.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 273.6,
     "end": 279.04,
-    "text": "To find this out, trials - tests to discover how effective or suitable something is - are carried out over a period of time.",
+    "text": "To find this out, trials - tests to discover how effective or suitable something is",
     "speaker": "trials"
   },
   {
+    "order": 64,
     "start": 279.04,
     "end": 280.96,
     "text": "are carried out over a period of time.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 281.439,
     "end": 286.72,
-    "text": "The kind of trials which were carried out during the invention of the internet in the first place, right, Neil?",
-    "speaker": "Sam"
+    "text": "The kind of trials which were carried out during the invention of the internet in the first place,",
+    "speaker": null
   },
   {
+    "order": 66,
     "start": 286.72,
     "end": 287.28,
     "text": "right Neil?",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 288.879,
     "end": 292.96,
     "text": "Ah yes, the invention of the internet or to be more accurate, the worldwide web.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 293.6,
     "end": 297.52,
     "text": "In our quiz question, I asked you who invented the worldwide web.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 297.52,
     "end": 298.48,
     "text": "What did you say Sam?",
+    "speaker": "Neil"
+  },
+  {
+    "order": 70,
+    "start": 299.759,
+    "end": 301.84,
+    "text": "I said B, Tim Berners-Lee.",
     "speaker": null
   },
   {
-    "start": 299.759,
-    "end": 301.84,
-    "text": "I said b) Tim Berners-Lee.",
-    "speaker": "Sam"
-  },
-  {
+    "order": 71,
     "start": 303.36,
     "end": 307.92,
     "text": "Well, you're a first-class web scientist, Sam, because that is the correct answer.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 309.28,
     "end": 316,
     "text": "Great. In this program, we've been hearing about web science, a new interdisciplinary subject,",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 316,
     "end": 321.439,
     "text": "combining several areas of study, which investigates the ecosystem of the internet,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 74,
     "start": 321.439,
     "end": 326.16,
     "text": "the complex pattern of interconnections between humans and their environment.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 327.12,
     "end": 331.759,
     "text": "Social media networks, websites and apps like Facebook, which let people use",
-    "speaker": null
+    "speaker": "Social media networks"
   },
   {
+    "order": 76,
     "start": 331.759,
     "end": 336.72,
     "text": "electronic devices to communicate on the internet, show how humans and technology can",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 336.72,
     "end": 337.92,
     "text": "successfully interact.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 338.64,
     "end": 342.96,
     "text": "A new COVID contact tracing app is currently undergoing trials,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 343.28,
     "end": 345.28,
     "text": "tests to see if it works effectively.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 346,
     "end": 351.44,
     "text": "This will discover if it does what it says on the tin, works as it's supposed to.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 352.08,
     "end": 358.24,
-    "text": "If successful, by alerting people to coronavirus risks the app will support public health – services aimed at improving the health of the general population.",
+    "text": "If successful, by alerting people to coronavirus risks the app will support public health –",
     "speaker": "public health"
   },
   {
+    "order": 82,
     "start": 358.24,
     "end": 361.84,
     "text": "Services aimed at improving the health of the general population.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 362.4,
     "end": 364.24,
     "text": "And that's all for us for now.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 364.24,
     "end": 368.96,
-    "text": "And we hope you’ll join us again soon for more topical English vocabulary here at 6 Minute English. Bye for now!",
+    "text": "And we hope you’ll join us again soon for more topical English vocabulary here at 6 Minute",
     "speaker": "Neil"
   },
   {
+    "order": 85,
     "start": 368.96,
     "end": 370.24,
     "text": "English. Bye for now.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 370.24,
     "end": 370.96,
     "text": "Bye-bye.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 370.96,
     "end": 374.56,
     "text": "6 Newt English from the BBC.",

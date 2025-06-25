@@ -1,398 +1,464 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 13.519,
     "end": 17.679,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Rob.",
     "speaker": "Rob"
   },
   {
+    "order": 3,
     "start": 17.679,
     "end": 18.879,
-    "text": "And I’m Georgina.",
-    "speaker": "Georgina"
+    "text": "And I'm Georgina.",
+    "speaker": null
   },
   {
+    "order": 4,
     "start": 18.879,
     "end": 23.92,
     "text": "What do Vincent Van Gogh and Galileo Galilee have in common, Georgina?",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 23.92,
     "end": 28.32,
-    "text": "Hmm… their first name and last names both start with the same letter?",
-    "speaker": "Georgina"
+    "text": "Hmm. Their first name and last names both start with the same letter.",
+    "speaker": "Rob"
   },
   {
+    "order": 6,
     "start": 28.32,
     "end": 34,
     "text": "Well, that's true. But another similarity is that their amazing contributions to art and",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 34,
     "end": 37.359,
     "text": "science were only recognised after their death.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 8,
     "start": 37.359,
     "end": 42.719,
     "text": "I know another person who's huge contribution to science went unrecognised during her lifetime",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 42.719,
     "end": 49.12,
     "text": "rope. But unlike Van Gogh or Galileo, you probably haven't heard of her. She's a subject of this",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 49.12,
     "end": 54.88,
     "text": "programme. Henrietta Lacks was a young black American mother who died of cancer in Baltimore",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 54.88,
     "end": 60.48,
     "text": "in 1951. Although she never consented to her tissues being used for medical research,",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 12,
     "start": 60.48,
     "end": 66.4,
     "text": "doctors at the time found her cells to have an extraordinary ability to replace themselves",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 66.4,
     "end": 67.359,
     "text": "endlessly.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 67.359,
     "end": 74,
     "text": "Named healer cells after her initials, Henrietta Lacks' tissue helped make possible all sorts of",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 74,
     "end": 80.8,
     "text": "medical breakthroughs from the polio vaccine to cancer drugs to HIV and IVF treatments.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 80.799,
     "end": 86.56,
     "text": "Born 100 years ago, in 1920, the great great-granddaughter of slaves,",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 86.56,
     "end": 91.599,
-    "text": "Born one hundred years ago, in 1920, the great-great-granddaughter of slaves, Henrietta and her cells continue to provide medical discoveries to this day…",
+    "text": "Henrietta and her cells continue to provide medical discoveries to this day.",
     "speaker": "Rob"
   },
   {
+    "order": 18,
     "start": 91.599,
     "end": 95.759,
-    "text": "…most recently, of course, in the race for a coronavirus vaccine.",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 95.759,
-    "end": 99.759,
-    "text": "But before we go on Georgina, it's time for my quiz question.",
+    "text": "Most recently, of course, in the race for a coronavirus vaccine.",
     "speaker": null
   },
   {
+    "order": 19,
+    "start": 95.759,
+    "end": 99.759,
+    "text": "But before we go on, Georgina, it’s time for my quiz question",
+    "speaker": "Rob"
+  },
+  {
+    "order": 20,
     "start": 99.759,
     "end": 106.56,
     "text": "I mentioned that Henrietta Lacks was born 100 years ago. But do you know what other medical breakthrough",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 106.56,
     "end": 114.079,
     "text": "happened in 1921? Was it A, the discovery of insulin, B, the discovery of penicillin,",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 114.079,
     "end": 117.2,
-    "text": "c) the discovery of vitamin E?",
+    "text": "or C, the discovery of vitamin E?",
     "speaker": "Rob"
   },
   {
+    "order": 23,
     "start": 117.2,
     "end": 120.32,
-    "text": "I’ll say, a) the discovery of insulin.",
+    "text": "I’ll say, a) the discovery of insulin",
     "speaker": "Georgina"
   },
   {
+    "order": 24,
     "start": 120.32,
     "end": 123.599,
     "text": "Okay Georgina, we'll find out if that's right later on.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 124.32,
     "end": 130.24,
     "text": "Now, it was Henrietta's biography by science writer Rebecca Sglute that brought her remarkable",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 130.24,
     "end": 133.039,
     "text": "story to the world's attention a decade ago.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 133.039,
     "end": 139.519,
     "text": "Here is Rebecca Sglute explaining Henrietta's importance to BBC World Service Program, the forum.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 140.799,
     "end": 146.079,
     "text": "So much of science is based on growing cells and culture, which started with her cells",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 146.079,
     "end": 152.159,
     "text": "in vitro fertilization. That started with the ability to grow embryos and culture, which you can",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 152.159,
     "end": 157.599,
     "text": "do in part thanks to her cells. So the list just goes on and on. And right now, people are often asking",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 31,
     "start": 157.599,
     "end": 162.239,
     "text": "how are he, how are he, the cells helping with COVID? Scientists work that out very quickly using",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 162.24,
     "end": 167.12,
     "text": "her cells. They figured out what the receptor looks like. And they did the same thing with HIV.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 168,
     "end": 173.439,
     "text": "So her cells are just this incredible workhorse that is at the base of so much science.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 174.4,
     "end": 181.68,
     "text": "Doctors used Henrietta's cells to figure out or understand how cells reproduce and divide.",
-    "speaker": null
+    "speaker": "figure outin vitro fertilization"
   },
   {
+    "order": 35,
     "start": 181.68,
     "end": 188.56,
     "text": "Knowledge that was vital in developing in vitro fertilization or IVF, a technique for women",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 188.56,
     "end": 193.599,
     "text": "who cannot become pregnant naturally, in which an egg is fertilized outside the body.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 193.599,
     "end": 198.479,
     "text": "Our bodies are made of millions and millions of cells. And to understand how they work,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 198.479,
     "end": 204.719,
     "text": "we need to grow them in a lab. No one had succeeded in doing this until Henrietta's extraordinary",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 204.719,
     "end": 211.36,
     "text": "cells which just grew and grew. This resulted not only in fertility treatments, but later in AIDS",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 211.36,
     "end": 217.36,
     "text": "and cancer breakthroughs, which is why Rebecca refers to healer cells as a workhorse, meaning",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 217.44,
     "end": 223.2,
     "text": "someone who does a lot of work. But perhaps Henrietta's greatest legacy of all was the vaccine",
-    "speaker": null
+    "speaker": "workhorse"
   },
   {
+    "order": 42,
     "start": 223.2,
     "end": 229.68,
     "text": "for polio. Here's Professor of Genetics, Sir John Byrne, talking to BBC World Services,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 229.68,
     "end": 235.6,
     "text": "the forum. Henrietta would have particularly liked the announcement this year that polio vaccine",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 235.6,
     "end": 242.32,
-    "text": "had led to the eradication of polio in Africa. So the centenary of her birth, it seems rather symbolic",
-    "speaker": null
+    "text": "had led to the eradication of polio in Africa – so the centenary of her birth it seems rather symbolic",
+    "speaker": "centenaryunwitting scourge"
   },
   {
+    "order": 45,
     "start": 242.959,
     "end": 249.039,
     "text": "that her unwitting contribution to medicine eventually eradicated that scourge of mankind.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 249.84,
     "end": 255.359,
     "text": "John Byrne calls polio as scourge, meaning something causing much pain and suffering.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 255.359,
     "end": 261.199,
-    "text": "Henrietta's role in eradicating this terrible disease is all the more remarkable as she was never",
-    "speaker": null
+    "text": "Henrietta’s role in eradicating this terrible disease is all the more remarkable as she was never",
+    "speaker": "Rob"
   },
   {
+    "order": 48,
     "start": 261.199,
     "end": 267.36,
     "text": "asked permission to use her cells for research. And it's taken decades for the Laks family to win",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 267.439,
     "end": 273.36,
     "text": "their grandmother the recognition she deserves. That's why John Byrne calls Henrietta's contribution",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 273.36,
     "end": 279.36,
     "text": "unwitting. It was made without her knowledge or consent. And with the eyes of the world now focused",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 279.36,
     "end": 286,
     "text": "on vaccines for the coronavirus, this year is a symbolic time to celebrate her centenary, the 100th",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 286,
     "end": 291.92,
     "text": "anniversary of an important event. Henrietta Laks, a remarkable woman whose name is finally making",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 292.16,
     "end": 298.16,
     "text": "its way into the history books. But something else remarkable happened 100 years ago, didn't it Rob?",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 298.16,
     "end": 304.4,
     "text": "Ah yes, you mean my quiz question. I asked you which important medical breakthrough occurred 100",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 304.4,
     "end": 312.319,
     "text": "years ago in 1921. I said A, the discovery of insulin. Which was the correct answer? Discovered by",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 312.319,
     "end": 319.04,
     "text": "Canadian doctor Frederick Banting, insulin saved the lives of millions of diabetics. And on that healthy",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 57,
     "start": 319.04,
     "end": 326.96,
     "text": "note, let's recap the vocabulary from this program starting with in vitro fertilization or IVF",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 326.96,
     "end": 332.56,
     "text": "a medical technique for women who cannot become pregnant naturally. Henrietta's healer cells help",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 332.56,
     "end": 339.759,
-    "text": "Henrietta’s HeLa cells helped doctors figure out - or understand - a lot about how cells grow and led to so many medical discoveries we might call them a workhorse – something which works extremely hard.",
+    "text": "doctors figure out or understand a lot about how cells grow and led to so many medical discoveries",
     "speaker": "figure outworkhorse"
   },
   {
+    "order": 60,
     "start": 339.759,
     "end": 345.84,
     "text": "we might call them a workhorse. Something which works extremely hard. A scourge means something",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 345.839,
     "end": 351.519,
-    "text": "A scourge means something that causes much pain and suffering, like the terrible diseases which Henrietta’s unwitting, or unknowing, contribution helped eradicate.",
-    "speaker": "scourgeunwitting"
+    "text": "that causes much pain and suffering, like the terrible diseases which Henrietta's unwitting",
+    "speaker": null
   },
   {
+    "order": 62,
     "start": 351.519,
     "end": 358.399,
     "text": "or unknowing contribution helped eradicate. Making 2021 a year of hope and the perfect time to",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 358.399,
     "end": 364.479,
     "text": "celebrate the centenary of her birth, its 100th anniversary. We hope this upbeat program has",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 364.479,
     "end": 370.879,
-    "text": "Remember to join us again soon at 6 Minute English. Bye for now!",
-    "speaker": "Rob"
+    "text": "been just what the doctor ordered. Remember to join us again soon at 6 Minute English. Bye for now!",
+    "speaker": "Georgina"
   },
   {
+    "order": 65,
     "start": 370.879,
     "end": 376.48,
     "text": "Goodbye!",
-    "speaker": "Georgina"
+    "speaker": null
   }
 ]

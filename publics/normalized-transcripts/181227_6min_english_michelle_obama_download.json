@@ -1,644 +1,751 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 11.279,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 12.32,
     "end": 15.359,
     "text": "Hello. This is 6 Minute English and I'm Rob.",
     "speaker": "Rob"
   },
   {
+    "order": 4,
     "start": 15.359,
     "end": 16.64,
     "text": "And I'm Dan.",
-    "speaker": "Dan"
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 16.64,
     "end": 19.92,
     "text": "Now Dan, do you know who Michelle Obama is?",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 19.92,
     "end": 23.6,
     "text": "Er, yeah. Maybe the most famous woman in the world.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 23.6,
     "end": 29.199,
-    "text": "Er, yes. Maybe the most famous woman in the world? Former First Lady, which means she was the wife of the President of the United States of America.",
-    "speaker": "Dan"
+    "text": "Former First Lady, which means she was the wife of the President of the United States of America.",
+    "speaker": "Rob"
   },
   {
+    "order": 8,
     "start": 29.199,
     "end": 30.399,
     "text": "That is correct.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 9,
     "start": 30.399,
     "end": 35.759,
     "text": "She's just published her autobiography and has been talking in the UK about her life.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 35.759,
     "end": 38.96,
     "text": "Before we find out more, here is this week's question.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 38.96,
     "end": 44.719,
-    "text": "Before we wrap up, time to get the answer to this week’s question. When did the title First Lady first become used for the wife of the US president? Was it in the:",
-    "speaker": "Rob"
+    "text": "When did the title First Lady first become used for the wife of the US President?",
+    "speaker": "in their own rightin their own right"
   },
   {
+    "order": 12,
     "start": 44.719,
     "end": 47.759,
     "text": "Was it in the 18th century?",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 47.759,
     "end": 52.719,
     "text": "Be 19th century or C 20th century? Any ideas, Dan?",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 52.719,
     "end": 54.799,
     "text": "This could be a trick question.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 15,
     "start": 54.799,
     "end": 58.079,
     "text": "The first US Presidents were in the 18th century",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 58.079,
     "end": 59.519,
     "text": "and they had wives.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 59.519,
     "end": 64.079,
     "text": "But I think the actual term may only have been introduced much later.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 64.079,
     "end": 68.4,
     "text": "So I'm going to take a wild guess and say the 20th century.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 68.4,
     "end": 71.92,
     "text": "Hmm, okay, well I'll have the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 71.92,
     "end": 75.759,
     "text": "Michelle Obama's visit to the UK was covered on BBC News.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 21,
     "start": 75.759,
     "end": 80.799,
     "text": "According to this report, where did she visit that she had visited before?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 80.799,
     "end": 85.92,
     "text": "The former First Lady spoke openly about a number of issues",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 85.92,
     "end": 89.2,
     "text": "and one of her main messages was about empowerment.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 89.2,
     "end": 93.2,
     "text": "Earlier in the day, Mrs. Obama revisited a school in North London,",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 93.2,
     "end": 97.84,
     "text": "a place where she says she was first inspired to focus on education",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 97.84,
     "end": 100,
     "text": "during her time as the First Lady.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 101.04,
     "end": 104.079,
-    "text": "So, where did she revisit on this trip?",
+    "text": "So, where did she revisit on this trip",
     "speaker": "Rob"
   },
   {
+    "order": 28,
     "start": 104.079,
     "end": 106.4,
     "text": "She went to a school in North London.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 106.4,
     "end": 111.84,
     "text": "She said it was at this school that she was first inspired to focus on education.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 111.84,
     "end": 114.96,
     "text": "If you're inspired to do something, you get a strong feeling",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 114.959,
     "end": 116.399,
     "text": "that you want to do something.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 116.399,
     "end": 119.679,
     "text": "You feel a strong motivation to achieve something particular,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 119.679,
     "end": 123.919,
     "text": "often because of something someone else has said or achieved.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 123.919,
     "end": 128.879,
     "text": "The report also mentioned that she spoke openly about a number of issues.",
-    "speaker": null
+    "speaker": "spoke openly speak openly about something"
   },
   {
+    "order": 35,
     "start": 129.28,
     "end": 132.959,
     "text": "To speak openly about something is when you discuss a subject",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 132.959,
     "end": 137.28,
     "text": "often a difficult subject without trying to hide the facts or your feelings.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 137.28,
     "end": 140.719,
     "text": "It's a phrase that's used when people talk about things in their life",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 140.719,
     "end": 142.879,
     "text": "that they find difficult or embarrassing.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 143.68,
     "end": 148.319,
     "text": "One of the things she spoke openly about was her own feeling that she didn't really belong,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 148.319,
     "end": 151.759,
     "text": "that she didn't have the skills or talent to be doing what she was doing",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 151.759,
     "end": 154.079,
     "text": "and that she didn't deserve her position.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 154.079,
     "end": 157.68,
     "text": "There's a name for that. It's called imposter syndrome.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 157.68,
     "end": 160.879,
     "text": "That feeling where you think one day everyone will realise",
-    "speaker": null
+    "speaker": "imposter syndrome"
   },
   {
+    "order": 44,
     "start": 160.879,
     "end": 163.28,
     "text": "that you're really not very good at what you do.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 163.28,
     "end": 164.8,
     "text": "I hear that feeling all the time.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 164.8,
     "end": 165.599,
     "text": "Yeah, I wonder why.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 166.639,
     "end": 170.96,
-    "text": "Because the thing with this imposter syndrome is that it isn't justified,",
-    "speaker": null
+    "text": " Because the thing with this imposter syndrome is that it isn’t justified",
+    "speaker": "imposter syndrome"
   },
   {
+    "order": 48,
     "start": 170.96,
     "end": 176,
     "text": "it's more of a lack of confidence or a result of the way society labels us.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 176,
     "end": 177.84,
     "text": "Well, anyway, back to the report.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 178.48,
     "end": 183.12,
     "text": "Michelle Obama was also keen to talk about the topic of empowerment.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 183.12,
     "end": 189.12,
-    "text": "Well, anyway, back to the report. Michelle Obama was also keen to talk about the topic of empowerment. That's giving people the strength, confidence and power to achieve what they want in life by themselves.",
-    "speaker": "empowerment"
+    "text": "That's giving people the strength, confidence and power to achieve what they want in life by themselves.",
+    "speaker": null
   },
   {
+    "order": 52,
     "start": 189.68,
     "end": 194.8,
-    "text": "Let’s hear from Michelle Obama herself now talking about how we sometimes judge people based on their class rather than their individual abilities.",
+    "text": "Let’s hear from Michelle Obama herself now talking about how we sometimes judge people",
     "speaker": "Rob"
   },
   {
+    "order": 53,
     "start": 194.8,
     "end": 198.4,
     "text": "based on their class rather than their individual abilities.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 199.36,
     "end": 201.28,
     "text": "That's often the mistake that we make.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 201.28,
     "end": 206.64,
     "text": "We assume that working-class folks are not highly gifted in their own right.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 206.64,
     "end": 211.68,
     "text": "When a lot of times your station and life is limited by the circumstances",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 211.68,
     "end": 213.12,
     "text": "that you find yourself in.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 214,
     "end": 220.96,
     "text": "She says here that we assume things about people based on their social status or station in life.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 220.96,
     "end": 224.879,
     "text": "To assume means to make a judgment which is not based on the facts,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 224.879,
     "end": 226.319,
     "text": "but on what we think is true.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 226.959,
     "end": 229.039,
     "text": "She uses the phrase in their own right.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 229.599,
     "end": 232.319,
     "text": "When you say that someone is talented in their own right,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 232.319,
     "end": 235.759,
     "text": "it means that their talent comes from their own skills and abilities.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 235.759,
     "end": 238.56,
     "text": "And not because of any connection with any organization,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 238.56,
     "end": 241.68,
     "text": "individual or class that they happen to be associated with.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 242.319,
     "end": 245.759,
     "text": "Before we wrap up, time to get the answer to this week's question.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 245.759,
     "end": 251.039,
     "text": "When did the title First Lady first become used for the wife of the US president?",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 251.599,
     "end": 254.079,
     "text": "What it in the A-18th century?",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 255.12,
     "end": 256.48,
     "text": "B-19th century?",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 257.36,
     "end": 259.279,
     "text": "Or C-20th century?",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 260,
     "end": 263.92,
-    "text": "I thought it was the 20th Century.",
-    "speaker": "Dan"
+    "text": "And Dan, you said? I thought it was the 20th Century",
+    "speaker": "Rob"
   },
   {
+    "order": 72,
     "start": 263.92,
     "end": 265.759,
     "text": "Well, you were right.",
     "speaker": "Rob"
   },
   {
+    "order": 73,
     "start": 265.759,
     "end": 266.639,
     "text": "Yay!",
-    "speaker": "Dan"
-  },
-  {
-    "start": 266.639,
-    "end": 267.759,
-    "text": "But let me finish.",
     "speaker": null
   },
   {
+    "order": 74,
+    "start": 266.639,
+    "end": 267.759,
+    "text": "But let me finish.",
+    "speaker": "Rob"
+  },
+  {
+    "order": 75,
     "start": 267.759,
     "end": 271.439,
     "text": "You were right in that it was later than the 18th century,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 271.439,
     "end": 274.879,
     "text": "which is when the first US presidents held their positions,",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 274.879,
     "end": 277.36,
     "text": "but it wasn't as late as the 20th century.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 277.92,
     "end": 282.72,
     "text": "It was the second half of the 19th century when the title First Lady began to be used.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 283.36,
     "end": 285.199,
     "text": "Now let's review today's vocabulary.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 285.68,
     "end": 289.759,
     "text": "We started with the phrase to talk openly about something.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 289.759,
     "end": 293.12,
     "text": "This means to discuss something, usually a difficult subject,",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 293.12,
     "end": 297.04,
     "text": "without hiding your feelings, emotions or facts about that subject.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 297.6,
     "end": 300.08,
     "text": "Then there was the noun empowerment.",
-    "speaker": null
+    "speaker": "empowerment"
   },
   {
+    "order": 84,
     "start": 300.08,
     "end": 304.879,
     "text": "This is the process of giving people the feeling that they're in control of their lives,",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 304.879,
     "end": 307.759,
     "text": "making people more confident in their rights and abilities.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 308.719,
     "end": 310.399,
     "text": "The verb inspire was next.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 311.12,
     "end": 316.24,
     "text": "If you inspire people, you give them the feeling that they want to and can do something,",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 316.24,
     "end": 318.24,
     "text": "something difficult or creative.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 318.24,
     "end": 321.36,
     "text": "If you have that feeling yourself, you are inspired.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 322.159,
     "end": 325.36,
-    "text": "Next, there was the verb to assume something.",
-    "speaker": null
+    "text": "Next there was the verb to assume something. ",
+    "speaker": "to assume somethingTo assume"
   },
   {
+    "order": 91,
     "start": 325.36,
     "end": 329.759,
     "text": "To assume means to make a judgment about someone or something,",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 329.759,
     "end": 333.439,
     "text": "not based on proof, but on things you think or believe to be true.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 334.319,
     "end": 336.879,
     "text": "The next phrase was in their own right.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 336.879,
     "end": 339.92,
     "text": "If someone is successful in their own right, for example,",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 339.92,
     "end": 343.759,
     "text": "it means their success is because of their own skills and abilities,",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 343.759,
     "end": 346.72,
     "text": "and not because of who they work for or work with,",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 346.72,
     "end": 348.56,
     "text": "or which social group they came from.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 349.439,
     "end": 353.199,
-    "text": "And finally there was the noun phrase station in life.",
+    "text": "And finally there was the noun phrase station in life. ",
     "speaker": "station in life"
   },
   {
+    "order": 99,
     "start": 353.199,
     "end": 357.279,
-    "text": "Your station in life is your position in society – your social status.",
-    "speaker": "station in life"
-  },
-  {
-    "start": 357.279,
-    "end": 360.079,
-    "text": "And that brings us to the end of this week's program.",
+    "text": "Your station in life is your position in society, your social status.",
     "speaker": null
   },
   {
+    "order": 100,
+    "start": 357.279,
+    "end": 360.079,
+    "text": "And that brings us to the end of this week's program.",
+    "speaker": "Rob"
+  },
+  {
+    "order": 101,
     "start": 360.079,
     "end": 361.759,
     "text": "We'll be back soon, and in the meantime,",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 361.759,
     "end": 364.719,
     "text": "you can find us on Instagram, Facebook, Twitter, YouTube,",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 364.719,
     "end": 366.56,
     "text": "our app, and of course the website,",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 366.56,
     "end": 368.399,
     "text": "BBCLearningEnglish.com.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 368.399,
     "end": 369.439,
     "text": "Bye-bye for now.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 369.439,
     "end": 370.24,
     "text": "Bye!",
-    "speaker": "Dan"
+    "speaker": null
   }
 ]

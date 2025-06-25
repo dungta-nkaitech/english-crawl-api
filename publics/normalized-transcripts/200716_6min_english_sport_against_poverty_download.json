@@ -1,608 +1,709 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 8.24,
     "text": "6MIT INGLEISH",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.88,
     "text": "From BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.48,
     "end": 16.48,
     "text": "Hello, this is 6MIT English from BBC Learning English. I'm Neil.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 16.48,
     "end": 17.6,
-    "text": "And I’m Sam.",
-    "speaker": "Sam"
-  },
-  {
-    "start": 17.6,
-    "end": 20.32,
-    "text": "We all know that sport is great for our health - and if you’re talented it can make you rich.",
+    "text": "And I'm Sam.",
     "speaker": "Neil"
   },
   {
+    "order": 6,
+    "start": 17.6,
+    "end": 20.32,
+    "text": "We all know that sport is great for our health ",
+    "speaker": "Neil"
+  },
+  {
+    "order": 7,
     "start": 20.32,
     "end": 23.28,
     "text": "and if you're talented, it can make you rich.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 23.28,
     "end": 26.879,
     "text": "Many great champions have found a way out of poverty",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 26.879,
     "end": 28.96,
     "text": "through their sporting ability.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 28.96,
     "end": 31.44,
     "text": "Think of someone like footballer Maradona.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 31.44,
     "end": 34.64,
-    "text": "But in today's programme, we're not looking at the superstars.",
-    "speaker": null
+    "text": "But in today’s programme we’re not looking at the superstars. ",
+    "speaker": "Neil"
   },
   {
+    "order": 12,
     "start": 34.64,
     "end": 38.48,
     "text": "Instead, we'll discuss how sport can change the lives of young people",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 38.48,
     "end": 41.52,
     "text": "from some of the poorest toughest backgrounds on earth.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 41.52,
     "end": 44.88,
     "text": "And of course, we'll be learning some vocabulary on the way.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 44.88,
     "end": 49.04,
-    "text": "Many projects around the world use sports to change children's lives,",
-    "speaker": null
+    "text": "Many projects around the world use sports to change children's’ lives",
+    "speaker": "Neil"
   },
   {
+    "order": 16,
     "start": 49.04,
     "end": 52.64,
     "text": "improving mental health, challenging stereotypes and giving hope.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 53.28,
     "end": 55.76,
     "text": "Among them is the Ebony Club in Brixton,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 55.839,
     "end": 60.799,
     "text": "which uses sport to help young people in London's most disadvantaged communities.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 60.799,
     "end": 63.839,
     "text": "But which sport, that's my quiz question.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 63.839,
     "end": 67.84,
     "text": "Is it a, golf, b, tennis or sea horse riding?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 67.84,
     "end": 72,
-    "text": "Well, I can’t imagine there’s enough space for golf and horse riding in the city, so I’ll say b) tennis.",
-    "speaker": "Sam"
+    "text": "Well, I can't imagine there's enough space for golf and horse riding in the city,",
+    "speaker": "Neil"
   },
   {
+    "order": 22,
     "start": 72,
     "end": 74.56,
     "text": "so I'll say b, tennis.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 74.56,
     "end": 76.879,
     "text": "Okay, we'll find out the answer later.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 77.599,
     "end": 79.68,
     "text": "Just now, we were talking about London,",
-    "speaker": null
-  },
-  {
-    "start": 79.68,
-    "end": 84.159,
-    "text": "OK, we’ll find out the answer later. Just now we were talking about London but sporting projects like the Ebony Club are happening all over the world.",
     "speaker": "Neil"
   },
   {
+    "order": 25,
+    "start": 79.68,
+    "end": 84.159,
+    "text": "but sporting projects like the Ebony Club are happening all over the world.",
+    "speaker": null
+  },
+  {
+    "order": 26,
     "start": 84.239,
     "end": 88.479,
     "text": "In Cape Town, South Africa, British surfer Tim Conneber,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 88.479,
     "end": 93.439,
     "text": "noticed how kids from poor townships hardly ever went to the beach.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 93.439,
     "end": 96.959,
     "text": "So he started giving them free surfing lessons.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 96.959,
     "end": 99.84,
     "text": "Tim founded the Waves for Changes project,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 30,
     "start": 99.84,
     "end": 104.239,
     "text": "and now hundreds of kids go along each week to get surfing therapy.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 104.239,
     "end": 106.56,
     "text": "Not only is surfing giving them a buzz,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 106.56,
     "end": 108.959,
     "text": "it's helping to improve their life chances.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 108.959,
     "end": 112.479,
-    "text": "Here he is talking to the BBC World Service programme People Fixing the World:",
-    "speaker": "Sam"
+    "text": "Here he is, talking to the BBC World Service programme,",
+    "speaker": null
   },
   {
+    "order": 34,
     "start": 112.48,
     "end": 114.16,
     "text": "People Fixing the World.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 115.84,
     "end": 119.84,
     "text": "Surfing also is quite difficult, so you're learning a very challenging skill,",
-    "speaker": null
+    "speaker": "challengingtraumaself-imagementor"
   },
   {
+    "order": 36,
     "start": 119.84,
     "end": 121.359,
     "text": "which takes a lot of confidence.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 121.359,
     "end": 124.24,
     "text": "Are these very small successes that children have when they go into the water?",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 124.24,
     "end": 126.159,
     "text": "It lists a really big emotional response.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 126.159,
     "end": 130.24,
     "text": "So if you come from a background of trauma, quite often you'll have a negative self-image.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 130.24,
     "end": 132.719,
     "text": "And being able to try something new, achieve something new,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 132.719,
     "end": 136.8,
     "text": "be recognised by a coach or a mentor is very, very good for your confidence as well.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 138.24,
     "end": 140.96,
     "text": "Most of the surfers have experienced trauma,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 140.96,
     "end": 145.28,
-    "text": "Most of the surfers have experienced trauma – emotional pain and shock caused by very distressing experiences.",
-    "speaker": "trauma"
-  },
-  {
-    "start": 145.28,
-    "end": 148.4,
-    "text": "This has given them a negative self-image,",
+    "text": "emotional pain and shock caused by very distressing experiences.",
     "speaker": null
   },
   {
+    "order": 44,
+    "start": 145.28,
+    "end": 148.4,
+    "text": "This has given them a negative self-image ",
+    "speaker": "self-image"
+  },
+  {
+    "order": 45,
     "start": 148.4,
     "end": 151.439,
     "text": "the way a person feels about themselves,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 151.439,
     "end": 154.56,
     "text": "their ability, personality and value.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 154.56,
     "end": 158.64,
-    "text": "Surfing helps kids improve their self-image because it’s challenging - difficult in a way that tests your ability and determination.",
-    "speaker": "self-imagechallenging"
+    "text": "Surfing helps kids improve their self-image because it's challenging,",
+    "speaker": null
   },
   {
+    "order": 48,
     "start": 158.64,
     "end": 162.24,
     "text": "difficult in a way that tests your ability and determination.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 162.24,
     "end": 166,
-    "text": "So challenging, in fact, that the children have a mentor,",
-    "speaker": null
+    "text": "So challenging, in fact, that the children have a mentor ",
+    "speaker": "mentor"
   },
   {
+    "order": 50,
     "start": 166,
     "end": 169.36,
     "text": "a trusted adviser who gives help and support",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 169.36,
     "end": 172.56,
     "text": "to a younger or less experienced person.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 172.56,
     "end": 177.76,
-    "text": "Tim believes that the concentration needed to surf makes the children’s other problems disappear - at least for a short time.",
-    "speaker": "Neil"
+    "text": "Tim believes that the concentration needed to surf makes the children's other problems disappear,",
+    "speaker": null
   },
   {
+    "order": 53,
     "start": 177.76,
     "end": 179.44,
     "text": "at least for a short time.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 179.44,
     "end": 182.56,
     "text": "And the results so far have been optimistic",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 55,
     "start": 182.56,
     "end": 186.32,
     "text": "with a significant reduction in violent behaviour reported",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 186.32,
     "end": 188.56,
     "text": "among Cape Town's young surfers.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 188.56,
     "end": 190.88,
     "text": "Surfing is quite well known in South Africa,",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 190.88,
     "end": 194.08,
     "text": "but what happens when you take a completely unknown sport",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 194.08,
     "end": 196.48,
     "text": "into one of the least developed countries on Earth?",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 196.56,
     "end": 201.679,
     "text": "In 2007, Australian Oliver Perkovich was travelling in Afghanistan",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 201.679,
     "end": 203.199,
-    "text": "with his skateboard.",
-    "speaker": null
+    "text": " with his skateboard",
+    "speaker": "Sam"
   },
   {
+    "order": 62,
     "start": 203.199,
     "end": 205.359,
     "text": "The children there were fascinated,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 205.359,
     "end": 208.159,
     "text": "so he started showing them how to skate.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 208.159,
     "end": 213.679,
     "text": "The idea grew, and a few years later he founded the organisation Skater Stan,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 213.679,
     "end": 217.679,
     "text": "giving free skateboard lessons to children aged 5 to 17,",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 217.679,
     "end": 219.839,
     "text": "with a focus on those with disabilities",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 219.839,
     "end": 222.879,
     "text": "from low income backgrounds and especially girls.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 222.96,
     "end": 226.159,
     "text": "His Skater Stan volunteer Jessica Faulkner,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 226.159,
     "end": 230.96,
     "text": "explaining how skateboarding reinforces positive educational messages",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 70,
     "start": 230.96,
     "end": 233.68,
     "text": "which Afghan kids don't always get at home.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 235.519,
     "end": 239.199,
     "text": "There's a few things that the skateboarding does as a kind of function.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 239.199,
     "end": 243.68,
     "text": "It is really quite challenging, it's not an easy sport for anyone, whether you're young or old.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 243.68,
     "end": 246.56,
     "text": "And that means that it also teaches quite a lot of life skills.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 246.56,
     "end": 249.919,
     "text": "You have to fall off a skateboard quite a lot of times before you get better,",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 250.639,
     "end": 254.959,
     "text": "and it really helps children with things like goal setting and resilience and determination.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 255.759,
     "end": 258.879,
     "text": "Also, and really importantly, we do believe that children should have fun.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 260.479,
     "end": 263.839,
     "text": "Like surfing, skateboarding is challenging and difficult.",
-    "speaker": null
+    "speaker": "life skills"
   },
   {
+    "order": 78,
     "start": 263.839,
     "end": 269.12,
     "text": "It requires effort, and Jessica believes this teaches children important life skills.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 269.12,
     "end": 274.48,
     "text": "The basic skills needed to solve problems commonly encountered in everyday life.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 274.48,
     "end": 277.919,
     "text": "One important life skill is goal setting,",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 277.92,
     "end": 282.319,
-    "text": "One important life skill is goal setting – deciding what things you want to achieve and how you plan to achieve them.",
-    "speaker": "goal setting"
+    "text": "deciding what things you want to achieve, and how you plan to achieve them.",
+    "speaker": null
   },
   {
+    "order": 82,
     "start": 282.319,
     "end": 285.52,
-    "text": "Along with other skills like determination and resilience, this helps kids improve their outlook on life.",
+    "text": "Along with other skills like determination and resilience,",
     "speaker": "Neil"
   },
   {
+    "order": 83,
     "start": 285.52,
     "end": 288.56,
     "text": "this helps kids improve their outlook on life.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 288.56,
     "end": 292.96,
-    "text": "And to experience one of the most important things – having fun!",
-    "speaker": "Sam"
-  },
-  {
-    "start": 293.52,
-    "end": 298.16,
-    "text": "Which reminds me about the kids at the Ebony Club and my quiz question.",
+    "text": "And to experience one of the most important things, having fun.",
     "speaker": null
   },
   {
-    "start": 298.16,
-    "end": 303.759,
-    "text": "Which reminds me about the kids at the Ebony Club and my quiz question. Remember that I asked you which sport the club uses to support disadvantaged children in London.",
+    "order": 85,
+    "start": 293.52,
+    "end": 298.16,
+    "text": "Which reminds me about the kids at the Ebony Club and my quiz question.",
     "speaker": "Neil"
   },
   {
+    "order": 86,
+    "start": 298.16,
+    "end": 303.759,
+    "text": "Remember that I asked you which sport the club uses to support disadvantaged children in London?",
+    "speaker": null
+  },
+  {
+    "order": 87,
     "start": 303.759,
     "end": 305.68,
     "text": "Yeah, and I said B, tennis.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 306.24,
     "end": 311.68,
     "text": "But in fact, it's sea horse riding, a sport normally associated with the elite.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 311.68,
     "end": 316.879,
-    "text": "In this episode we’ve been discussing how sport can help improve the life chances of young people from tough backgrounds, many of whom have suffered trauma – severe emotional pain and distress.",
-    "speaker": "trauma"
+    "text": "In this episode, we've been discussing how sport can help improve the life chances of young people",
+    "speaker": "Neil"
   },
   {
+    "order": 90,
     "start": 316.879,
     "end": 323.36,
     "text": "from tough backgrounds, many of whom have suffered trauma, severe emotional pain and distress.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 323.84,
     "end": 329.04,
-    "text": "Such pain damages a child’s self-image – how they see and value themselves in the world.",
+    "text": "Such pain damages a child’s self-image – how they see and value themselves in the world",
     "speaker": "self-image"
   },
   {
+    "order": 92,
     "start": 329.04,
     "end": 334.48,
-    "text": "This can be improved by taking part in sports, like surfing, skating and horse riding, which are challenging – demanding and testing of your abilities.",
-    "speaker": "challenging"
+    "text": "This can be improved by taking part in sports, like surfing, skating and horse riding,",
+    "speaker": null
   },
   {
+    "order": 93,
     "start": 334.48,
     "end": 338.4,
     "text": "which are challenging, demanding and testing of your abilities.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 338.96,
     "end": 345.84,
-    "text": "Often kids are supported by a mentor – a trusted, more experienced friend who can offer help and advice.",
+    "text": "Often kids are supported by a mentor – a trusted, more experienced friend who can offer help and advice",
     "speaker": "mentor"
   },
   {
+    "order": 95,
     "start": 345.84,
     "end": 349.12,
     "text": "And with this support, they learn life skills.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 349.12,
     "end": 352.4,
-    "text": "And with this support they learn life skills – basic skills everyone needs to cope with everyday problems.",
-    "speaker": "life skills"
+    "text": "Basic skills everyone needs to cope with everyday problems.",
+    "speaker": null
   },
   {
+    "order": 97,
     "start": 353.12,
     "end": 359.2,
-    "text": "One important skill is goal setting – deciding what you want to accomplish and planning how to do it.",
+    "text": "One important skill is goal setting – deciding what you want to accomplish and planning how to do it",
     "speaker": "goal setting"
   },
   {
+    "order": 98,
     "start": 359.2,
     "end": 364.319,
-    "text": "And of course, sometimes the most important goal is just to have fun!",
-    "speaker": "Sam"
+    "text": "And of course, sometimes the most important goal is just to have fun.",
+    "speaker": null
   },
   {
+    "order": 99,
     "start": 364.319,
     "end": 368.959,
     "text": "That's all we have time for. Join us again soon as we discuss more topical issues.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 368.959,
     "end": 370.24,
     "text": "Bye for now. Bye.",
-    "speaker": null
+    "speaker": "Neil"
   }
 ]

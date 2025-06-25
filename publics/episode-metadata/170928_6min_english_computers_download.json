@@ -7,8 +7,28 @@
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/170928_6min_english_computers.pdf",
   "vocabItems": [
     {
-      "word": "artificial intelligence or AI",
-      "definition": "the ability of machines to copy human intelligent behaviour."
+      "word": "artificial intelligenceAI",
+      "definition": "artificial intelligence or AIthe ability of machines to copy human intelligent behaviour."
+    },
+    {
+      "word": "an algorithm",
+      "definition": "a set of steps a computer follows in order to solve a problem"
+    },
+    {
+      "word": "limitations",
+      "definition": "a limit on what it can do or how good it can be"
+    },
+    {
+      "word": "take something for granted",
+      "definition": "when we don’t realise how important something is"
+    },
+    {
+      "word": "to implement",
+      "definition": "to perform a task, or take action"
+    },
+    {
+      "word": "cutting edge",
+      "definition": "new and advanced"
     }
   ],
   "quiz": null

@@ -5,6 +5,31 @@
   "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p09pjb51.jpg",
   "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210722_6min_english_wine_download.mp3",
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210722_6min_english_wine.pdf",
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "word": "plonk",
+      "definition": "plonkcheap, poor quality wine"
+    },
+    {
+      "word": "connoisseur",
+      "definition": "someone who enjoys a particular thing and knows a lot about it"
+    },
+    {
+      "word": "sommelier",
+      "definition": "sommelier someone who serves and give advice about wine in a restaurant"
+    },
+    {
+      "word": "sheer",
+      "definition": "word used to emphasise the amount of something; nothing but"
+    },
+    {
+      "word": "palate",
+      "definition": "describes someone’s ability to distinguish and appreciate different tastes"
+    },
+    {
+      "word": "encodes",
+      "definition": "changes information into something we can use or understand"
+    }
+  ],
   "quiz": null
 }

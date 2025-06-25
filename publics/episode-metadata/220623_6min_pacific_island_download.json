@@ -7,28 +7,8 @@
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/220616_6min_english_pacific_islanders.pdf",
   "vocabItems": [
     {
-      "word": "tsunami",
-      "definition": "large wave caused by an earthquake that flows inland causing death and destruction"
-    },
-    {
-      "word": "handicrafts",
-      "definition": "skilfully handmade traditional objects like jewellery, textiles and pottery"
-    },
-    {
-      "word": "vulnerable",
-      "definition": "unprotected, weak, open to harm"
-    },
-    {
-      "word": "food security",
-      "definition": "the ability of a country to produce or obtain enough food to feed its population"
-    },
-    {
-      "word": "heartbreaking",
-      "definition": "causing a strong feeling of sadness"
-    },
-    {
-      "word": "get back on your feet",
-      "definition": "be okay again after having problems or difficulties in life"
+      "word": "tsunamihandicraftsvulnerablefood securityheartbreakingget back on your feet",
+      "definition": "tsunamilarge wave caused by an earthquake that flows inland causing death and destructionhandicraftsskilfully handmade traditional objects like jewellery, textiles and potteryvulnerableunprotected, weak, open to harmfood securitythe ability of a country to produce or obtain enough food to feed its populationheartbreakingcausing a strong feeling of sadnessget back on your feetbe okay again after having problems or difficulties in life"
     }
   ],
   "quiz": null

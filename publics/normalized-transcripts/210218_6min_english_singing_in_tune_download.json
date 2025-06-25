@@ -1,524 +1,611 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6Nate English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.12,
     "text": "From BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.599,
     "end": 17.28,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 17.28,
     "end": 18.559,
-    "text": "And I’m Georgina.",
-    "speaker": "Georgina"
+    "text": "And I'm Georgina.",
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 18.559,
     "end": 24.16,
     "text": "Do-ray me fast, oh la-tito.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 24.16,
     "end": 27.199,
-    "text": "Neil! What are you doing?! Please stop!",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 27.199,
-    "end": 29.92,
-    "text": "Oh, hi Georgina. I'm practising my singing.",
-    "speaker": null
-  },
-  {
-    "start": 29.92,
-    "end": 33.12,
-    "text": "Oh, hi Georgina! I’m practising my singing. I’m going to do virtual karaoke tonight with some friends!",
+    "text": "Neil, what are you doing? Please stop.",
     "speaker": "Neil"
   },
   {
-    "start": 33.12,
-    "end": 38.8,
-    "text": "Karaoke?! – really, Neil?! I heard you singing at the Christmas party and to be honest I think you might be tone deaf – you know, you can’t sing in tune.",
-    "speaker": "tone deaf"
+    "order": 8,
+    "start": 27.199,
+    "end": 29.92,
+    "text": "Oh, hi Georgina! I’m practising my singing.",
+    "speaker": "Neil"
   },
   {
+    "order": 9,
+    "start": 29.92,
+    "end": 33.12,
+    "text": "I'm going to do virtual karaoke tonight with some friends.",
+    "speaker": null
+  },
+  {
+    "order": 10,
+    "start": 33.12,
+    "end": 38.8,
+    "text": "karaoke, really Neil? I heard you singing at the Christmas party and to be honest,",
+    "speaker": null
+  },
+  {
+    "order": 11,
     "start": 38.8,
     "end": 43.04,
     "text": "I think you might be tone deaf. You know, you can't sing in tune.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 43.04,
     "end": 49.2,
     "text": "Me tone deaf, I'm a nightingale. Listen, do-ray me.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 49.2,
     "end": 53.359,
     "text": "Between you and me, I think Neil is a bit tone deaf.",
-    "speaker": null
-  },
-  {
-    "start": 53.359,
-    "end": 56.64,
-    "text": "Between you and me, I think Neil is a bit tone deaf! Wait until I tell him singing is the subject of this programme.",
-    "speaker": "tone deaf"
-  },
-  {
-    "start": 57.28,
-    "end": 62,
-    "text": "I heard that, Georgina! And I’m glad this programme is about singing because I love it and what I lack in ability, I make up for in enthusiasm!",
     "speaker": "Neil"
   },
   {
+    "order": 14,
+    "start": 53.359,
+    "end": 56.64,
+    "text": "Wait until I tell him singing is the subject of this programme.",
+    "speaker": null
+  },
+  {
+    "order": 15,
+    "start": 57.28,
+    "end": 62,
+    "text": "I heard that Georgina and I'm glad this programme is about singing because I love it.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 16,
     "start": 62,
     "end": 65.68,
     "text": "What I lack in ability I make up for in enthusiasm.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 65.68,
     "end": 68.96,
-    "text": "I’m sure your karaoke buddies would agree with you, Neil.",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 68.96,
-    "end": 71.599,
-    "text": "That reminds me of my quiz question, Georgina.",
+    "text": "I'm sure your karaoke buddies would agree with you, Neil.",
     "speaker": null
   },
   {
+    "order": 18,
+    "start": 68.96,
+    "end": 71.599,
+    "text": "That reminds me of my quiz question, Georgina.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 19,
     "start": 71.599,
     "end": 77.04,
     "text": "As you know, I love karaoke, meeting up with friends to sing the words of our favourite pop songs",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 77.04,
     "end": 79.12,
     "text": "over a musical backing track.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 79.12,
     "end": 84.079,
     "text": "karaoke was invented in Japan and its name is a combination of different Japanese words,",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 84.159,
     "end": 87.28,
     "text": "but what words? What is the meaning of karaoke?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 87.28,
     "end": 93.2,
     "text": "Is it a machine voice, b, angry cat or c, empty orchestra?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 93.2,
     "end": 98.4,
-    "text": "Well, after listening to you sing, Neil, I’m tempted to say b), angry cat, but that would be mean, so I’ll guess, a) machine voice.",
-    "speaker": "Georgina"
+    "text": "Well, after listening to you sing, Neil, I'm tempted to say b, angry cat,",
+    "speaker": "Neil"
   },
   {
+    "order": 25,
     "start": 98.4,
     "end": 102.4,
     "text": "but that would be mean. So I'll guess a machine voice.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 102.4,
     "end": 105.039,
     "text": "Okay, Georgina, I'll take that as a compliment.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 105.039,
     "end": 110.879,
     "text": "But however good or bad my singing may be, there's no doubt that the act of singing itself is a",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 28,
     "start": 110.879,
     "end": 115.92,
     "text": "very complex skill involving a huge number of processes in our bodies and brains.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 115.92,
     "end": 119.28,
     "text": "So what happens physically when we sing a musical note?",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 119.28,
     "end": 122.159,
     "text": "Usually something unexpected in your case, Neil.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 122.159,
     "end": 126.64,
     "text": "So here's Maria Peeters, presenter of BBC World Service programme,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 126.64,
     "end": 131.759,
     "text": "Crowd Science, to explain exactly what happens when we open our mouth to sing.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 131.759,
     "end": 135.759,
     "text": "Listen out for the different body parts Maria mentions.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 136.56,
     "end": 140.799,
-    "text": "Vocal folds, also called vocal cords, are crucial here.",
-    "speaker": null
+    "text": " Vocal folds, also called vocal cords, are crucial here",
+    "speaker": "Neil"
   },
   {
+    "order": 35,
     "start": 140.799,
     "end": 145.12,
     "text": "There are two flaps of skin stretched across your larynx that vibrate when you sing",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 145.12,
     "end": 149.599,
     "text": "and create a sound. The pitch of that sound, how high or low it is,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 149.599,
     "end": 152,
     "text": "depends on the frequency of their vibration.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 152.56,
     "end": 156,
     "text": "So if you want to hit the right note, they need to be working properly.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 156.639,
     "end": 160.56,
-    "text": "Important body parts needed to sing include the vocal cords,",
-    "speaker": null
-  },
-  {
-    "start": 161.36,
-    "end": 166.64,
-    "text": "Important body parts needed to sing include the vocal cords - a pair of folds in the throat that move backwards and forwards when air from the lungs moves over them.",
+    "text": "Important body parts needed to sing include the vocal cords ",
     "speaker": "vocal cords"
   },
   {
+    "order": 40,
+    "start": 161.36,
+    "end": 166.64,
+    "text": "a pair of folds in the throat that move backwards and forwards when air from the lungs moves over",
+    "speaker": null
+  },
+  {
+    "order": 41,
     "start": 166.64,
     "end": 171.68,
     "text": "them. The vocal cords are stretched over the larynx, also known as the voice box.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 171.68,
     "end": 175.28,
     "text": "It's the organ between the nose and the lungs containing the vocal folds.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 175.84,
     "end": 179.52,
     "text": "Singing is similar to what happens when you play a guitar.",
-    "speaker": null
+    "speaker": "vibration"
   },
   {
+    "order": 44,
     "start": 179.52,
     "end": 184.719,
     "text": "The vocal cords act like the guitar strings to produce a buzz or vibration,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 184.719,
     "end": 187.759,
     "text": "a continuous and quick shaking movement.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 187.759,
     "end": 192.479,
-    "text": "They vibrate over the larynx which, like the body of a guitar, amplifies the sound.",
-    "speaker": "Neil"
+    "text": "They vibrate over the larynx, which, like the body of a guitar, amplifies the sound.",
+    "speaker": null
   },
   {
+    "order": 47,
     "start": 192.479,
     "end": 196.399,
     "text": "So why do some people kneel, find it hard to sing in tune?",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 197.28,
     "end": 200.079,
     "text": "Is it because they cannot physically reproduce sounds,",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 49,
     "start": 200.799,
     "end": 204.56,
     "text": "or because they hear sounds differently from the rest of us?",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 204.56,
     "end": 208.959,
     "text": "Well, according to psychology professor Peter Fordrescher, it's neither.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 208.959,
     "end": 213.359,
     "text": "He thinks that for poor singers, the problem is generally not in the ears or voice,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 213.36,
     "end": 219.04,
     "text": "but in their brains, specifically the connection between sound perception and muscle movement.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 219.04,
     "end": 220.72,
     "text": "So there’s no hope for you?",
     "speaker": "Georgina"
   },
   {
+    "order": 54,
     "start": 220.72,
     "end": 226.08,
     "text": "Not necessarily. His professor Fordrescher encouraging the listeners of BBC World Services",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 226.08,
     "end": 226.88,
     "text": "crowd science.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 227.6,
     "end": 233.84,
-    "text": "I think there's reason for you to be hopeful, and however accurate or inaccurate your singing is,",
-    "speaker": null
+    "text": "I think there’s reason for you to be hopeful and however accurate or inaccurate your singing is, ",
+    "speaker": "stress responsesto keep it up!"
   },
   {
+    "order": 57,
     "start": 233.84,
     "end": 239.92,
     "text": "one recommendation I would have for you is to keep singing, because there is evidence that singing",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 240.639,
     "end": 246.319,
     "text": "itself, whether accurate or inaccurate, has benefits socially and also for stress responses.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 246.319,
     "end": 248.799,
     "text": "So good reason for you to keep it up.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 249.599,
     "end": 255.439,
-    "text": "Whether you’re tone deaf or pitch perfect, there’s lots of evidence for the health benefits of singing.",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 256,
-    "end": 258.8,
-    "text": "For one, singing strengthens your stress responses.",
+    "text": "Whether you're tone deaf or pitch perfect, there's lots of evidence for the health benefits of singing.",
     "speaker": null
   },
   {
+    "order": 61,
+    "start": 256,
+    "end": 258.8,
+    "text": "For one, singing strengthens your stress responses.",
+    "speaker": "stress responsesstress responses"
+  },
+  {
+    "order": 62,
     "start": 258.8,
     "end": 264.079,
     "text": "Otherwise known as fight or flight, stress responses are the human body's reaction to external",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 264.079,
     "end": 268.56,
     "text": "threats that cause an imbalance, for example, pain, infection or fear.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 268.56,
     "end": 275.12,
     "text": "From operatic power rotties to enthusiastic karaoke fans, Professor Fordrescher thinks singers",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 275.12,
     "end": 280.16,
     "text": "should keep it up. A phrase used to encourage someone to continue doing something.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 280.959,
     "end": 284.079,
     "text": "So Neil, maybe you should keep singing after all.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 284.079,
     "end": 288.48,
     "text": "You've changed your tune, Georgina. Maybe you'd like to come with me to karaoke next time we're",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 288.48,
     "end": 289.04,
     "text": "allowed out.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 69,
+    "start": 290.879,
+    "end": 296.079,
+    "text": "I think some practice would be a good idea, but first let's return to the quiz question.",
     "speaker": null
   },
   {
-    "start": 290.879,
-    "end": 296.079,
-    "text": "Hmm, I think some practice would be a good idea, but first let’s return to the quiz question. You asked me about the meaning of the Japanese word karaoke…",
-    "speaker": "Georgina"
-  },
-  {
+    "order": 70,
     "start": 296.159,
     "end": 299.839,
     "text": "You asked me about the meaning of the Japanese word karaoke.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 299.839,
     "end": 306.8,
-    "text": "Right. Does karaoke mean, a) machine voice, b) angry cat, or c) empty orchestra? What did you say?",
+    "text": "Right. Does karaoke mean a, machine voice, b, angry cat or c, empty orchestra? What did you say?",
     "speaker": "Neil"
   },
   {
+    "order": 72,
     "start": 306.8,
     "end": 308.879,
-    "text": "I said a) machine voice.",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 309.36,
-    "end": 311.759,
-    "text": "Which was the wrong answer?",
+    "text": "I said a machine voice.",
     "speaker": null
   },
   {
-    "start": 311.759,
-    "end": 317.599,
-    "text": "Which was… the wrong answer! Karaoke actually means c) empty orchestra, or in other words, music that has the melody missing.",
+    "order": 73,
+    "start": 309.36,
+    "end": 311.759,
+    "text": "Which was… the wrong answer",
     "speaker": "Neil"
   },
   {
+    "order": 74,
+    "start": 311.759,
+    "end": 317.599,
+    "text": "karaoke actually means c, empty orchestra or in other words, music that has the melody missing.",
+    "speaker": null
+  },
+  {
+    "order": 75,
     "start": 317.599,
     "end": 320.24,
     "text": "Well, that's better than an angry cat, I guess.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 320.8,
     "end": 327.199,
-    "text": "Well, that’s better than an angry cat, I guess! Let’s recap the vocabulary starting with tone deaf – a way to describe someone who cannot sing in tune or hear different sounds.",
-    "speaker": "tone deaf"
+    "text": "Let's recap the vocabulary starting with tone deaf. A way to describe someone who cannot sing in",
+    "speaker": null
   },
   {
+    "order": 77,
     "start": 327.199,
     "end": 332.96,
     "text": "tune or hear different sounds. Like playing a guitar string, singers use their vocal chords,",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 332.96,
     "end": 337.12,
     "text": "a pair of folds in the throat that are stretched over the larynx or voicebox,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 337.12,
     "end": 342.4,
     "text": "another part of the throat to produce a sound vibration, a quick shaking movement.",
+    "speaker": "vocal cordslarynxvibration"
+  },
+  {
+    "order": 80,
+    "start": 342.4,
+    "end": 348.079,
+    "text": "No matter how good or bad a singer you are, singing is good for your stress responses.",
     "speaker": null
   },
   {
-    "start": 342.4,
-    "end": 348.079,
-    "text": "No matter how good or bad a singer you are, singing is good for your stress responses – the ‘fight or flight’ mechanism your body uses to regain inner balance.",
-    "speaker": "stress responses"
-  },
-  {
+    "order": 81,
     "start": 348.079,
     "end": 352.319,
     "text": "The fight or flight mechanism your body uses to regain inner balance.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 352.879,
     "end": 357.039,
-    "text": "So no matter what Georgina thinks about my singing, I’m going to keep it up – a phrase used to encourage someone to continue their good performance.",
+    "text": "So no matter what Georgina thinks about my singing, I’m going to keep it up ",
     "speaker": "keep it up"
   },
   {
+    "order": 83,
     "start": 357.039,
     "end": 360.719,
     "text": "A phrase used to encourage someone to continue their good performance.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 360.719,
     "end": 365.519,
     "text": "That's all from us. Keep singing and join us again soon at six minute English.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 365.519,
     "end": 370.719,
-    "text": "That’s all from us. Keep singing and join us again soon at 6 Minute English. Don’t forget we also have a free app you can download from the app stores. Bye!",
-    "speaker": "Georgina"
+    "text": "Don't forget, we also have a free app you can download from the app stores. Bye.",
+    "speaker": null
   },
   {
+    "order": 86,
     "start": 370.719,
     "end": 371.36,
-    "text": "Goodbye!",
-    "speaker": "Neil"
+    "text": "Goodbye.",
+    "speaker": null
   }
 ]

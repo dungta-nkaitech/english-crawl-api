@@ -1,614 +1,716 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 10.56,
-    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "text": " 6 Minute English from BBC Learning English",
     "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 13.519,
     "end": 17.519,
     "text": "Hello, this is 6 Minute English from BBC Learning English. I'm Neil.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 17.519,
     "end": 18.559,
-    "text": "And I’m Sam.",
-    "speaker": "Sam"
+    "text": "And I'm Sam.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 18.559,
     "end": 23.039,
     "text": "Now, if you're old enough to remember the early days of dial-up internet,",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 23.039,
     "end": 26.8,
     "text": "then you'll know the unforgettable sound of the handshake.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 26.8,
     "end": 31.839,
     "text": "The clicks and squeaks your computer made as it struggled to connect to the internet",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 31.839,
     "end": 33.439,
     "text": "through the telephone line.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 33.439,
     "end": 35.52,
     "text": "Yes, I remember that strange noise.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 36.079,
     "end": 40.88,
     "text": "Dial-up internet was slow and websites took forever to load.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 40.88,
     "end": 46.079,
     "text": "And because you couldn't use both the internet and the telephone at the same time,",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 46.079,
     "end": 48.88,
     "text": "this was usually followed by someone shouting,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 48.88,
     "end": 52.24,
     "text": "get off the computer! I'm making a phone call!",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 52.24,
     "end": 56.64,
     "text": "In the 30 years since then, the internet has changed dramatically.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 56.719,
     "end": 61.2,
     "text": "Fiber optics and broadband have created superfast internet speeds",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 61.2,
     "end": 66.079,
     "text": "and an interconnected online world where physical distances between people",
-    "speaker": null
+    "speaker": "global village"
   },
   {
+    "order": 17,
     "start": 66.079,
     "end": 68.719,
     "text": "are no longer a barrier to communication.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 68.719,
     "end": 72.159,
     "text": "A situation expressed in the phrase, the global village.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 73.039,
     "end": 78.64,
     "text": "But take a closer look and you'll still find people around the world with a slow connection",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 78.64,
     "end": 80.64,
     "text": "or no internet at all.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 80.64,
     "end": 85.359,
     "text": "In this programme, we'll be finding out about how some communities are working together",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 85.359,
     "end": 90.4,
     "text": "to fix their internet connection problems for the benefit of local people.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 90.4,
     "end": 93.84,
     "text": "And of course, we'll be learning some new vocabulary too.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 93.84,
     "end": 96.56,
-    "text": "But before that, I have a question for you, Sam.",
-    "speaker": null
+    "text": "But before that I have a question for you, Sam. ",
+    "speaker": "Neil"
   },
   {
+    "order": 25,
     "start": 96.56,
     "end": 99.439,
     "text": "We've been talking about the early days of the internet,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 99.439,
     "end": 103.12,
     "text": "but do you know the name of the first ever internet browser?",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 103.12,
     "end": 105.12,
     "text": "The engine for searching websites?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 105.12,
     "end": 111.039,
     "text": "Was it A, ask Jeaves, B, World Wide Web, or C, Yahoo?",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 111.039,
     "end": 114,
     "text": "Hmm, I guess it was C, Yahoo!",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 114.079,
     "end": 116.239,
     "text": "Okay, Sam, we'll find out the answer later.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 116.959,
     "end": 121.28,
     "text": "You might think it's people living in the most remote and isolated places",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 32,
     "start": 121.28,
     "end": 125.28,
     "text": "with the greatest difficulty getting online, but that's not always true.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 125.92,
     "end": 128.879,
     "text": "Even here in the UK, people struggle to connect,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 128.879,
     "end": 131.68,
     "text": "including BBC Radio listener Katie,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 131.68,
     "end": 135.92,
     "text": "who explained her problem to BBC World Service programme Digital Planet.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 136.479,
     "end": 140.4,
-    "text": "Hi, I'm Katie. I live in Dorset in England.",
-    "speaker": null
+    "text": "Hi, I’m Katie. I live in Dorset in England.",
+    "speaker": "spasmodic dodgy"
   },
   {
+    "order": 37,
     "start": 140.4,
     "end": 142.8,
     "text": "Our internet can be quite spasmodic here,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 143.439,
     "end": 148.24,
     "text": "and I think that that's due to most of our underground cabling is very old,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 148.24,
     "end": 151.439,
     "text": "and somewhat dodgy, tati, and need replacing.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 152.16,
     "end": 156.24,
     "text": "Katie lives in Dorset, a rural part of southwest England.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 156.24,
     "end": 160.32,
     "text": "She describes her internet connection as spasmodic,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 160.32,
     "end": 163.12,
     "text": "suddenly working, but only for a short time,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 163.12,
     "end": 164.8,
     "text": "and not in a regular way.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 164.8,
     "end": 168.72,
-    "text": "She thinks this is because her internet cables are dodgy, slang for bad or untrustworthy.",
+    "text": "She thinks this is because her internet cables are dodgy,",
     "speaker": "dodgy"
   },
   {
+    "order": 45,
     "start": 168.72,
     "end": 171.36,
     "text": "slang for bad or untrustworthy.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 171.36,
     "end": 174.48,
     "text": "A dodgy internet connection might be irritating,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 174.48,
     "end": 178.4,
     "text": "but in other parts of the world, the consequences can be more serious.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 179.04,
     "end": 182.88,
     "text": "Amahayet is a farmer who lives in the Pakistani Punjab,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 182.88,
     "end": 185.76,
     "text": "one of the country's most fertile regions,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 185.76,
     "end": 188.56,
     "text": "but also one of the least connected.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 188.56,
     "end": 192.4,
     "text": "His village is a three-hour drive from the nearest town,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 192.4,
     "end": 195.84,
     "text": "and he can't make a phone call, even with 2G.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 195.84,
     "end": 200.08,
     "text": "For Amah, basic weather information, like knowing when rain is coming,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 200.16,
     "end": 204.4,
-    "text": "can mean the difference between his crops succeeding or failing.",
-    "speaker": null
+    "text": " can mean the difference between his crops succeeding or failing",
+    "speaker": "Neil"
   },
   {
+    "order": 55,
     "start": 204.4,
     "end": 208.16,
     "text": "Without the internet, he doesn't have a reliable weather report,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 208.16,
     "end": 214.16,
     "text": "so the villagers decided to build their own 50-meter-high telephone transmission tower,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 214.16,
     "end": 216.88,
     "text": "linking a network of five villages to the internet.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 217.76,
     "end": 222.08,
     "text": "Here is Amah talking to BBC World Service Programme Digital Planet.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 222.08,
     "end": 224.32,
     "text": "We used to do the conventional farming,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 224.32,
     "end": 226.72,
     "text": "like just getting information from the world of mouth.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 227.52,
     "end": 232.639,
     "text": "Now I'm using latest technologies to have gadgets available with us,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 232.639,
     "end": 235.84,
     "text": "and taking information right from the harsh mouth,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 235.84,
     "end": 239.599,
     "text": "you can say, through internet and the technology we have in our hands.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 239.599,
     "end": 242.8,
     "text": "So this is what I'm doing in my farm practices.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 242.8,
     "end": 246.639,
     "text": "Before the community-built tower brought the internet to his village,",
-    "speaker": null
+    "speaker": "word-of-mouth"
   },
   {
+    "order": 66,
     "start": 246.639,
     "end": 250.079,
     "text": "Amah got his weather report by word of mouth,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 250.079,
     "end": 253.28,
     "text": "information passed on by people telling each other.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 253.36,
     "end": 255.52,
     "text": "Now there's stable internet that works,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 255.52,
     "end": 258.72,
     "text": "thanks to a tower high enough to pick up a telephone signal,",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 258.72,
     "end": 262.879,
     "text": "which it then sends into the village's via solar-powered receivers.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 262.879,
     "end": 267.439,
     "text": "A type of gadget, meaning a small, electronic device, which does something useful.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 268.24,
     "end": 273.199,
     "text": "This means Amah now gets his weather reports straight from the horse's mouth,",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 273.199,
     "end": 276,
     "text": "an idiom meaning from a reliable source,",
-    "speaker": null
+    "speaker": "from the horse's mouth"
   },
   {
+    "order": 74,
     "start": 276,
     "end": 279.04,
     "text": "or from someone who knows what they're talking about.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 279.6,
     "end": 283.12,
     "text": "The internet brings reliable, climatic information,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 283.12,
     "end": 286.879,
     "text": "which means a good harvest, not just for Amah and his family,",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 286.879,
     "end": 290.48,
     "text": "but for all the families living in the five connected villages.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 291.04,
     "end": 295.92,
     "text": "It's a great example of community action and of people looking after each other,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 295.92,
     "end": 298.48,
     "text": "something which may have been lost since the early,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 298.48,
     "end": 300.24,
     "text": "idealistic days of the internet.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 301.04,
     "end": 302.72,
     "text": "And speaking of the early internet,",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 302.72,
     "end": 304.56,
     "text": "it's time to answer my question.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 304.56,
     "end": 308.399,
     "text": "Remember, I asked you for the name of the very first internet browser.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 308.959,
     "end": 312.079,
     "text": "I guess it was C, yeah, who, so was I right?",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 312.079,
     "end": 314.24,
     "text": "You were wrong, I'm afraid Sam.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 86,
     "start": 314.959,
     "end": 319.279,
     "text": "Way back before Google, the first internet browser was called the World Wide Web,",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 319.279,
     "end": 323.12,
     "text": "invented by none other than cyber legend Sir Tim Berners-Leap,",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 323.12,
     "end": 327.519,
     "text": "who I think would be pleased to hear about Amah's community internet.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 327.519,
     "end": 328.879,
-    "text": "Yes, right.",
-    "speaker": null
+    "text": "Yes. Right,",
+    "speaker": "global village."
   },
   {
+    "order": 90,
     "start": 328.879,
     "end": 334.639,
     "text": "Let's recap the vocabulary we've learned about internet connections between people living at a physical",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 334.639,
     "end": 339.759,
     "text": "distance in the modern world, something described as the global village.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 339.839,
     "end": 343.279,
     "text": "If your internet is spasmodic, it's irregular,",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 343.279,
     "end": 346,
     "text": "stopping then suddenly working for a short time.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 346,
     "end": 350.959,
     "text": "In other words, it's dodgy, a slang word meaning bad or unliable.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 350.959,
     "end": 356.48,
     "text": "If you know something by word of mouth, it's been passed verbally from person to person.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 356.48,
     "end": 359.199,
     "text": "Whereas if you hear it from the horse's mouth,",
-    "speaker": null
+    "speaker": "by word-of-mouthfrom the horse’s mouth"
   },
   {
+    "order": 97,
     "start": 359.199,
     "end": 362.48,
     "text": "it's come directly from a reliable source of information.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 362.48,
     "end": 367.039,
-    "text": "And finally, a gadget is a small, electronic device with a useful purpose. Once again our six minutes are up. Bye for now!",
-    "speaker": "gadget"
+    "text": "And finally, a gadget is a small electronic device with a useful purpose.",
+    "speaker": null
   },
   {
+    "order": 99,
     "start": 367.04,
     "end": 368.8,
     "text": "Once again, our six minutes are up.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 368.8,
     "end": 369.6,
     "text": "Bye for now.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 369.6,
     "end": 370.4,
-    "text": "Bye!",
-    "speaker": "Sam"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

@@ -1,527 +1,615 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6M8 English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.12,
     "text": "From BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.439,
     "end": 18,
     "text": "Hello, this is 6M8 English from BBC Learning English. I'm Georgina.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 18,
     "end": 19.12,
-    "text": "And I’m Rob.",
-    "speaker": "Rob"
+    "text": "And I'm Rob.",
+    "speaker": "Georgina"
   },
   {
+    "order": 6,
     "start": 19.12,
     "end": 21.92,
     "text": "Rob, what’s the best job you’ve ever had?",
     "speaker": "Georgina"
   },
   {
+    "order": 7,
     "start": 21.92,
     "end": 27.199,
-    "text": "Err well, this one, of course! It’s very creative, with lots of variety.",
-    "speaker": "Rob"
+    "text": "Well, this one, of course. It's very creative with lots of variety.",
+    "speaker": null
   },
   {
+    "order": 8,
     "start": 27.199,
     "end": 29.6,
     "text": "Okay, any other reasons?",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 29.6,
     "end": 35.039,
-    "text": "Well yes – it’s a permanent job - a staff job - with regular income and a pension.",
-    "speaker": "Rob"
+    "text": "Well, yes, it's a permanent job, a staff job, with regular income and a pension.",
+    "speaker": "Georgina"
   },
   {
+    "order": 10,
     "start": 35.039,
     "end": 39.84,
-    "text": "Yes, these things can be important, but have you ever been freelance?",
-    "speaker": null
-  },
-  {
-    "start": 39.84,
-    "end": 44.96,
-    "text": "Yes, these things can be important, but have you ever been freelance – by that I mean, working for yourself and selling your skills and services to different businesses?",
+    "text": "Yes, these things can be important, but have you ever been freelance ",
     "speaker": "freelance"
   },
   {
+    "order": 11,
+    "start": 39.84,
+    "end": 44.96,
+    "text": "By that I mean working for yourself and selling your skills and services to different businesses.",
+    "speaker": null
+  },
+  {
+    "order": 12,
     "start": 45.68,
     "end": 50.799,
     "text": "Well, I work to some paper boy ones, delivering newspapers, but not really.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 50.799,
     "end": 53.28,
     "text": "It's a risky way to earn an income.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 53.28,
     "end": 58.799,
-    "text": "It can be Rob, but many people choose to or have to work as a freelancer to survive.",
-    "speaker": null
+    "text": "It can be Rob. But many people choose to, or have to work as a freelancer to survive",
+    "speaker": "Georgina"
   },
   {
+    "order": 15,
     "start": 58.799,
     "end": 61.439,
     "text": "And that's what we're talking about in this programme.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 61.439,
     "end": 64.079,
     "text": "But let's start with a question for you, Rob.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 64.079,
     "end": 64.959,
-    "text": "OK.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 64.959,
-    "end": 66.799,
-    "text": "This is about job titles.",
+    "text": "Okay.",
     "speaker": null
   },
   {
+    "order": 18,
+    "start": 64.959,
+    "end": 66.799,
+    "text": "This is about job titles ",
+    "speaker": "Georgina"
+  },
+  {
+    "order": 19,
     "start": 66.799,
     "end": 70.719,
-    "text": "This is about job titles – back in the 19th Century, what kind of job was a drummer? Were they…",
-    "speaker": "Georgina"
+    "text": "Back in the 19th century, what kind of job was a drummer?",
+    "speaker": null
   },
   {
+    "order": 20,
     "start": 70.719,
     "end": 74.079,
-    "text": "a) someone who played the drums?",
-    "speaker": "Georgina"
+    "text": "Were they a, someone who played the drums?",
+    "speaker": null
   },
   {
+    "order": 21,
     "start": 74.079,
     "end": 76.479,
-    "text": "b) a travelling salesman?, or,",
+    "text": "b) a travelling salesman?",
     "speaker": "Georgina"
   },
   {
+    "order": 22,
     "start": 76.479,
     "end": 80.159,
     "text": "Or C, a music publicist who drums up?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 80.159,
     "end": 82.959,
-    "text": "c) a music publicist – who drums up – meaning encourages, support for a band?",
-    "speaker": "drums up"
+    "text": "Meaning encourages support for a band?",
+    "speaker": null
   },
   {
+    "order": 24,
     "start": 82.959,
     "end": 85.679,
-    "text": "Well, it’s got to be someone who plays the drums – that’s my kind of job.",
+    "text": "Well, it’s got to be someone who plays the drums ",
     "speaker": "Rob"
   },
   {
+    "order": 25,
     "start": 85.679,
     "end": 86.959,
     "text": "That's my kind of job.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 86.959,
     "end": 90.239,
     "text": "Okay Rob, we'll find out if that's right at the end of the programme,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 90.239,
     "end": 93.039,
     "text": "but let's talk more about work now.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 93.039,
     "end": 98.399,
     "text": "Long on are the days of a job for life, where you spent your adult life working your way up",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 98.399,
     "end": 100.879,
     "text": "the career ladder at the same company.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 100.879,
     "end": 101.919,
-    "text": "Yes, that's right.",
-    "speaker": null
+    "text": "Yes, that’s right.",
+    "speaker": "agile"
   },
   {
+    "order": 31,
     "start": 101.919,
     "end": 106.159,
     "text": "We work in many different ways now because the needs of businesses change frequently",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 106.159,
     "end": 112.079,
     "text": "and it needs to be agile, changing the size and type of workforce in order to meet demand.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 112.079,
     "end": 115.919,
     "text": "So people need to adapt and some choose to work for themselves,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 115.92,
     "end": 120.32,
     "text": "offering their skills to different businesses as and when they are needed.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 120.32,
     "end": 124.879,
     "text": "But it can also be a lifestyle choice, as we're about to find out.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 124.879,
     "end": 129.199,
-    "text": "Yes, some people have chosen to become self-employed, working for themselves.",
-    "speaker": null
+    "text": "Yes, some people have chosen to become self-employed – working for themselves",
+    "speaker": "Rob"
   },
   {
+    "order": 37,
     "start": 129.199,
     "end": 132.56,
     "text": "But also because of the recent coronavirus pandemic,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 132.56,
     "end": 134.96,
     "text": "some people have been forced into this situation.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 135.439,
     "end": 141.28,
     "text": "Let's hear from Carla Barker, who set up her own business after giving up her regular job.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 141.28,
     "end": 145.439,
     "text": "She told the BBC Radio 4's programme, You and Yours, how she felt.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 146.479,
     "end": 154.079,
     "text": "You know, the idea of giving up a solid permanent full-time paid, comfortable work is a bit petrified.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 154.079,
     "end": 160,
     "text": "It is super scary because you then have that fear of, oh my goodness, can we do this?",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 160,
     "end": 164.239,
     "text": "You also have things creeping in that say, you know, like self-sabotage,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 164.239,
     "end": 165.759,
     "text": "are you good enough to do this?",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 165.759,
     "end": 168.959,
     "text": "Are people going to want to take me on as a business?",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 170.159,
     "end": 175.759,
     "text": "So, Carla decided to go it alone and in formal way of saying work for herself.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 175.759,
     "end": 182.079,
     "text": "She described giving up a full-time job as petrifying, so frightening you can't speak or move.",
-    "speaker": null
+    "speaker": "petrifying"
   },
   {
+    "order": 48,
     "start": 182.719,
     "end": 188,
     "text": "She may have been exaggerating slightly, but she also said it was super scary.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 188,
     "end": 193.359,
     "text": "I guess working for yourself must be scary as you're solely responsible for your own success.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 194,
     "end": 199.68,
     "text": "It's no surprise Carla had feelings of self-sabotage, having doubts and fears that stop to",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 199.68,
     "end": 200.959,
     "text": "achieving something.",
-    "speaker": null
+    "speaker": "freelance"
   },
   {
+    "order": 52,
     "start": 201.04,
     "end": 206.64,
-    "text": "Luckily, she persisted and things went well. And many other people who have become self-employed or freelance have overcome the fear and discovered the benefits.",
+    "text": "Luckily, she persisted and things went well and many other people who have become self-employed",
     "speaker": "Georgina"
   },
   {
+    "order": 53,
     "start": 206.64,
     "end": 210.719,
     "text": "or freelance have overcome the fear and discovered the benefits.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 210.719,
     "end": 214.24,
     "text": "Like Fiona Thomas, who's the author of a book called,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 214.24,
     "end": 216.56,
     "text": "Ditch the 9-5 and Be Your Own Boss.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 217.36,
     "end": 223.28,
     "text": "She also spoke to the BBC's You and Yours programme and explained why she gave up the 9-5,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 223.28,
     "end": 226.4,
     "text": "the regular full-time staff job and how it helped her.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 227.36,
     "end": 233.12,
     "text": "I kind of combination of wanting some creative fulfilment from a job,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 233.12,
     "end": 237.84,
     "text": "compared to the job that I was in before, which is very much customer-based, working face-to-face",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 237.84,
     "end": 243.92,
     "text": "in hospitality, but I also wanted the flexibility to accommodate my mental health,",
-    "speaker": null
+    "speaker": "fulfilmentfinancial freedom"
   },
   {
+    "order": 61,
     "start": 243.92,
     "end": 249.92,
     "text": "because I suffer from depression and anxiety and I find working in a rigid schedule in being",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 249.92,
     "end": 254.24,
     "text": "in front of a lot of people all the time really exacerbated a lot of my symptoms.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 254.879,
     "end": 260.8,
     "text": "And I also wanted the financial freedom to be able to over time increase my income without",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 261.759,
     "end": 265.92,
     "text": "just having to wait on being promoted or getting a pay rise and traditional employment.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 266.879,
     "end": 272.4,
     "text": "So, Waki for herself gave Fiona a good feeling that she achieved something she wanted to do.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 272.4,
     "end": 278.24,
     "text": "It gave her creative fulfilment. It also meant she could work more flexibly and that helped her",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 278.24,
     "end": 283.04,
     "text": "with her mental health, because she didn't have to follow a fixed roto of tasks.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 283.52,
     "end": 289.84,
-    "text": "And it gave her financial freedom, meaning the money she earned was not controlled by someone else,",
-    "speaker": null
+    "text": "And it gave her financial freedom – meaning the money she earned was not controlled by someone else",
+    "speaker": "financial freedom"
   },
   {
+    "order": 69,
     "start": 289.84,
     "end": 292.879,
     "text": "and she didn't have to wait for someone else to give her a pay rise.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 293.52,
     "end": 295.439,
     "text": "Of course, that could be risky too.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 295.439,
     "end": 301.36,
-    "text": "Let’s get back to my quiz question now, Rob. Earlier I asked you if you knew what job a drummer used to do back in the 19th Century?",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 301.36,
-    "end": 306.879,
-    "text": "And obviously, a drummer plays the drums!",
-    "speaker": "Rob"
-  },
-  {
-    "start": 306.879,
-    "end": 311.36,
-    "text": "Well, you are sort of right, but a drummer also used to be an informal way of",
+    "text": "Let's get back to my quiz question now Rob. Earlier, I asked you if you knew what job a drummer used",
     "speaker": null
   },
   {
+    "order": 72,
+    "start": 301.36,
+    "end": 306.879,
+    "text": "to do back in the 19th century. And obviously, a drummer plays the drums.",
+    "speaker": null
+  },
+  {
+    "order": 73,
+    "start": 306.879,
+    "end": 311.36,
+    "text": "Well, you are sort of right, but a drummer also used to be an informal way of",
+    "speaker": "Rob"
+  },
+  {
+    "order": 74,
     "start": 311.36,
     "end": 317.6,
     "text": "describing a travelling salesperson. Because their job was to drum up business for a company,",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 317.6,
     "end": 319.92,
     "text": "meaning they try to increase sales.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 319.92,
     "end": 323.759,
     "text": "Ah, very interesting. Although I know which drummer I would rather be,",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 323.759,
     "end": 326.08,
     "text": "a freelance drummer in a rock band.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 326.08,
     "end": 329.36,
     "text": "And freelance is one of the words we've mentioned today.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 329.36,
     "end": 334.879,
-    "text": "And freelance is one of the words we’ve mentioned today. To freelance means to work for yourself, selling your skills or services to different businesses.",
-    "speaker": "freelance"
+    "text": "To freelance means to work for yourself, selling your skills or services to different businesses.",
+    "speaker": null
   },
   {
+    "order": 80,
     "start": 334.879,
     "end": 339.92,
     "text": "Becoming self-employed can be petrifying, frightening, so you can't speak or move.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 340.56,
     "end": 344,
     "text": "And starting out on your own can lead to self-sabotage,",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 344,
     "end": 347.28,
     "text": "having doubts and fears that stop you achieving something.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 347.28,
     "end": 352.56,
     "text": "But it can also give you fulfillment, a good feeling of achieving something for yourself.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 352.56,
     "end": 358.24,
     "text": "And having financial freedom means being able to control how you earn and use your money.",
-    "speaker": "financial freedom"
+    "speaker": "fulfilment"
   },
   {
+    "order": 85,
     "start": 358.24,
     "end": 363.52,
     "text": "That's it for this programme. We have plenty more six minute English programmes to enjoy on our",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 363.519,
     "end": 370.24,
     "text": "website at bbclearningenglish.com and check us out on Facebook, Twitter and Instagram.",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 87,
     "start": 370.24,
     "end": 371.599,
     "text": "Bye for now. Goodbye.",

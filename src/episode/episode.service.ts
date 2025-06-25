@@ -5,13 +5,13 @@ import { IEpisode, IVocabItem, ITranscript } from './episode.interfece';
 
 @Injectable()
 export class EpisodeService {
-  constructor(private readonly repo: EpisodeRepository) {}
+    constructor(private readonly repo: EpisodeRepository) {}
 
-  async saveEpisodeData(
-    episode: IEpisode,
-    vocabItems: IVocabItem[],
-    transcripts: ITranscript[],
-  ): Promise<string> {
-    return this.repo.pushData(episode, vocabItems, transcripts);
-  }
+    async saveEpisodeData(
+        episode: IEpisode,
+        vocabItems: IVocabItem[],
+        transcripts: ITranscript[],
+    ): Promise<string> {
+        return this.repo.pushData(episode, vocabItems, transcripts);
+    }
 }

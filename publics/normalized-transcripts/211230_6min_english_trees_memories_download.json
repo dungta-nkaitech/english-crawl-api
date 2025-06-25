@@ -1,407 +1,475 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.52,
     "text": "This is a download from BBC Learning English to find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 14,
     "end": 17.76,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 2,
     "start": 17.76,
     "end": 18.879,
-    "text": "And I’m Sam.",
-    "speaker": "Sam"
-  },
-  {
-    "start": 18.879,
-    "end": 23.44,
-    "text": "Over the past 18 months, we've heard a lot about the human immune system.",
+    "text": "And I'm Sam.",
     "speaker": null
   },
   {
+    "order": 3,
+    "start": 18.879,
+    "end": 23.44,
+    "text": "Over the past 18 months, we’ve heard a lot about the human immune system ",
+    "speaker": "immune system"
+  },
+  {
+    "order": 4,
     "start": 24,
     "end": 27.839,
     "text": "The cells in our bodies that fight diseases like coronavirus.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 27.919,
     "end": 32.399,
     "text": "We know that in humans, the bloodstream carries immune cells around our body.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 32.399,
     "end": 38.32,
-    "text": "But what about trees and plants? They don’t have blood, so how do they protect themselves?",
-    "speaker": "Sam"
-  },
-  {
-    "start": 38.32,
-    "end": 43.2,
-    "text": "That's a good question, Sam. And the answer involves memory. Us humans",
+    "text": "But what about trees and plants? They don't have blood. So how do they protect themselves?",
     "speaker": null
   },
   {
+    "order": 7,
+    "start": 38.32,
+    "end": 43.2,
+    "text": "That's a good question, Sam. And the answer involves memory. Us humans",
+    "speaker": "Neil"
+  },
+  {
+    "order": 8,
     "start": 43.2,
     "end": 48.32,
     "text": "store memories in our brain, but our body also remembers things, including stressful",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 48.32,
     "end": 53.84,
     "text": "situations from the past, which it stores in our genes. The information gets passed on to our",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 53.84,
     "end": 55.359,
     "text": "children genetically.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 55.439,
     "end": 61.039,
-    "text": "But surely trees don’t have memories, Neil! I mean, do you think a tree can remember being young or what it was doing last year?",
-    "speaker": "Sam"
+    "text": "But surely trees don't have memories, Neil. I mean, do you think a tree can remember being young",
+    "speaker": null
   },
   {
+    "order": 12,
     "start": 61.039,
     "end": 62.96,
     "text": "or what it was doing last year?",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 62.96,
     "end": 69.599,
-    "text": "Well, not exactly, but trees grow rings – a layer of wood for each year of growth. That could be a kind of memory.",
+    "text": "Well, not exactly, but trees grow rings, a layer of wood for each year of growth. That could be a",
     "speaker": "Neil"
   },
   {
+    "order": 14,
     "start": 69.599,
     "end": 75.12,
     "text": "kind of memory. In this programme, we'll be asking whether trees can remember. And if so,",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 75.12,
     "end": 78.64,
     "text": "does it make them stronger and better able to fight disease?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 79.12,
     "end": 85.28,
     "text": "But before that, I have a question for you, Sam. As I said, trees grow a new ring every year.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 17,
     "start": 85.519,
     "end": 91.68,
     "text": "And by counting them, we can estimate their age. One of Earth's longest living trees is the great",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 91.68,
     "end": 97.599,
     "text": "bristle cone pine found on the west coast of America. But how long can these trees live?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 97.599,
     "end": 105.519,
     "text": "Is it A? Over a thousand years? B? Over three thousand years? Or C? Over five thousand years?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 105.519,
     "end": 112.239,
     "text": "Wow, it would be a job to count the rings on those trees. I'll say B. Over three thousand years.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 112.239,
     "end": 115.039,
     "text": "Okay, Sam, we'll reveal the correct answer later.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 115.519,
     "end": 120.719,
     "text": "And like us, trees don't have blood in bones to protect them from outside attacks.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 120.719,
     "end": 124.079,
     "text": "So how exactly does a tree's immune system work?",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 24,
     "start": 124.079,
     "end": 130.159,
     "text": "That's what BBC World Service programme crowd science asked bioscientist Jury and Tom.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 130.159,
     "end": 131.039,
     "text": "Here's what he said.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 26,
     "start": 132,
     "end": 137.28,
     "text": "Plans in particular need to have a very efficient immune system for two important reasons.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 137.28,
     "end": 143.039,
     "text": "Firstly, they sit at the bottom of the food chain. So there are a lot of opportunistic organisms out there,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 143.039,
     "end": 148.96,
     "text": "including insect herbivores and microbial pathogens. We want to tap into that biochemical energy",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 148.96,
     "end": 153.439,
     "text": "that is stored in plants. The other reason is plants are rooted to the ground.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 153.439,
     "end": 157.199,
     "text": "They cannot escape from the stressful conditions in their environment.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 158.639,
     "end": 163.84,
-    "text": "It's hard for trees to protect themselves. Unlike animals, they can't run away.",
-    "speaker": null
+    "text": "It’s hard for trees to protect themselves. Unlike animals, they can’t run away,",
+    "speaker": "food chain"
   },
   {
+    "order": 32,
     "start": 163.84,
     "end": 168.8,
     "text": "And they're at the bottom of the food chain. The plants and animals linked in a chain of",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 168.8,
     "end": 172.64,
     "text": "eating weaker things and then being eaten by stronger ones.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 172.64,
     "end": 176.48,
-    "text": "Rabbits eat grass and, in turn, are eaten by foxes.",
-    "speaker": "Neil"
+    "text": "Rabbits eat grass and in turn are eaten by foxes.",
+    "speaker": null
   },
   {
+    "order": 35,
     "start": 176.48,
     "end": 180.879,
     "text": "Right. If you're at the bottom of the food chain, everything wants to eat you,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 180.879,
     "end": 187.199,
     "text": "including opportunistic animals. If something is opportunistic, it takes advantage of a situation",
-    "speaker": null
+    "speaker": "food chainopportunistic opportunistic"
   },
   {
+    "order": 37,
     "start": 187.199,
     "end": 193.36,
     "text": "to gain some benefit for itself. True leaves are opportunities for hungry insects and caterpillars",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 194.08,
     "end": 199.28,
     "text": "to eat. So trees need immunity because they're under attack, either from disease or from living",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 199.28,
     "end": 204.8,
     "text": "things wanting to eat them. But what about memory, Sam? If trees can remember stress,",
-    "speaker": null
-  },
-  {
-    "start": 204.8,
-    "end": 209.6,
-    "text": "If trees can remember stress - types of insects that eat it, for example – they might be better prepared in future.",
-    "speaker": "Sam"
-  },
-  {
-    "start": 209.6,
-    "end": 214.96,
-    "text": "For me, stress is a work deadline or moving house, but for trees it’s more basic, something like not getting enough water.",
     "speaker": "Neil"
   },
   {
+    "order": 40,
+    "start": 204.8,
+    "end": 209.6,
+    "text": "types of insects that eat it, for example, they might be better prepared in future.",
+    "speaker": null
+  },
+  {
+    "order": 41,
+    "start": 209.6,
+    "end": 214.96,
+    "text": "For me, stress is a work deadline or moving house, but for trees it’s more basic,",
+    "speaker": "Neil"
+  },
+  {
+    "order": 42,
     "start": 214.96,
     "end": 221.04,
     "text": "something like not getting enough water. Dr Estrella Loonerdiets believes trees record stress in their",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 221.039,
     "end": 228.159,
     "text": "rings. A small ring showing that the tree didn't grow much that year indicates some outside stress.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 228.159,
     "end": 231.84,
     "text": "She explained more to BBC World Service Programme, Crowd Science.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 233.199,
     "end": 239.919,
     "text": "Our hypothesis could be that depending on the level of that stress, so if it was a really long",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 239.919,
     "end": 247.519,
     "text": "lasting drought of a few years, then maybe the tree can remember it for a long time because it needs",
-    "speaker": null
+    "speaker": "hypothesishypothesisnot even that bothered"
   },
   {
+    "order": 47,
     "start": 247.52,
     "end": 253.92,
     "text": "to adapt to that hostile environment. Now, maybe the hypothesis could be the other way around.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 253.92,
     "end": 260.16,
     "text": "Like if it's maybe it was a very dry July, for instance. Maybe the tree is not even that",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 260.16,
     "end": 266.639,
     "text": "bothered. And then it forgets within one year because that memory of stress is going to be holding",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 266.639,
     "end": 274.639,
     "text": "it back on its growth, for instance. Dr Loonerdiets has a hypothesis, an idea that explains how",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 274.639,
     "end": 280.399,
     "text": "or why something happens, which has yet to be tested to see if it's correct. Her hypothesis is",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 280.399,
     "end": 286.639,
-    "text": "Her hypothesis is that trees remember stressful outside events, something like a drought – a long period of time with little or no rain.",
+    "text": "that trees remember stressful outside events, something like a drought, a long period of time with",
     "speaker": "hypothesisdrought"
   },
   {
+    "order": 53,
     "start": 286.639,
     "end": 292.319,
     "text": "little or no rain. For a tree which has lived for hundreds of years, it might be useful to remember",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 292.319,
     "end": 299.12,
     "text": "that 1947 was a very dry summer. On the other hand, maybe that stressful year is best for Gossin.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 299.12,
     "end": 304.639,
-    "text": "On the other hand, maybe that stressful year is best forgotten. Maybe the tree is not bothered – not worried or concerned because it’s not important to it.",
+    "text": "Maybe the tree is not bothered, not worried or concerned because it's not important to it.",
     "speaker": "Sam"
   },
   {
+    "order": 56,
     "start": 304.639,
     "end": 310.16,
-    "text": "So, trees do have memories - but they don’t let it get them stressed!",
-    "speaker": "Neil"
-  },
-  {
-    "start": 310.16,
-    "end": 315.759,
-    "text": "long life. But what's the answer to your question, Neil? Ah yes, I asked you how long Earth's",
+    "text": "So trees do have memories, but they don't let it get them stressed. Maybe that's the secret to a",
     "speaker": null
   },
   {
+    "order": 57,
+    "start": 310.16,
+    "end": 315.759,
+    "text": "long life. But what's the answer to your question, Neil? Ah yes, I asked you how long Earth's",
+    "speaker": "Sam"
+  },
+  {
+    "order": 58,
     "start": 315.759,
     "end": 323.12,
     "text": "oldest trees, great bristle cone pines, can live. I said B, over 3000 years. What was I right?",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 323.12,
     "end": 328.48,
-    "text": "You were wrong, I’m afraid, Sam. They live even longer – over 5,000 years, in fact – all the way back to the Bronze Age.",
-    "speaker": "Neil"
+    "text": "You were wrong, I'm afraid Sam. They live even longer, over 5000 years, in fact,",
+    "speaker": "Sam"
   },
   {
+    "order": 60,
     "start": 328.48,
     "end": 334.24,
     "text": "all the way back to the Bronze Age. What memories those trees must have, if only they could speak.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 335.04,
     "end": 340.72,
     "text": "Right, let's recap the vocabulary we've learned starting with immune system, the body's way of",
-    "speaker": null
+    "speaker": "immune system"
   },
   {
+    "order": 62,
     "start": 340.72,
     "end": 346.72,
     "text": "fighting infection and disease. A food chain describes how plants and animals get eaten and eat",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 346.72,
     "end": 352.56,
-    "text": "Opportunistic people take advantage of a situation to get some benefit for themselves.",
-    "speaker": "Opportunistic"
-  },
-  {
-    "start": 352.56,
-    "end": 358.639,
-    "text": "A hypothesis is an idea to explain how or why something happens that hasn’t been tested to see if it’s correct.",
-    "speaker": "hypothesis"
-  },
-  {
-    "start": 358.639,
-    "end": 364.8,
-    "text": "A drought is a long period of time with little or no rain.",
-    "speaker": "drought"
-  },
-  {
-    "start": 364.8,
-    "end": 370.16,
-    "text": "bothered about something, you're not worried because it's not important to you. Our six minutes are",
+    "text": "each other. Opportunistic people take advantage of a situation to get some benefit for themselves.",
     "speaker": null
   },
   {
+    "order": 64,
+    "start": 352.56,
+    "end": 358.639,
+    "text": "A hypothesis is an idea to explain how or why something happens that hasn't been tested to see",
+    "speaker": "Opportunistic"
+  },
+  {
+    "order": 65,
+    "start": 358.639,
+    "end": 364.8,
+    "text": "if it's correct. A drought is a long period of time with little or no rain. And finally, if you're not",
+    "speaker": null
+  },
+  {
+    "order": 66,
+    "start": 364.8,
+    "end": 370.16,
+    "text": "bothered about something, you're not worried because it's not important to you. Our six minutes are",
+    "speaker": "not bothered about something"
+  },
+  {
+    "order": 67,
     "start": 370.16,
     "end": 371.76,
     "text": "over. Bye for now. Bye.",

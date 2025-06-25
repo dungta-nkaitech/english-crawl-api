@@ -5,6 +5,27 @@
   "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p07x0bvv.jpg",
   "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/191212_6min_english_chatting_to_new_people_download.mp3",
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/191212_6min_english_chatting_to_new_people.pdf",
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "word": "anticipating",
+      "definition": "guessing or expecting a certain outcome"
+    },
+    {
+      "word": "to pluck up (the) courage",
+      "definition": "to force yourself to do something that you’re scared or nervous about"
+    },
+    {
+      "word": "connect",
+      "definition": "start or have a good relationship with someone"
+    },
+    {
+      "word": "mood",
+      "definition": "the way we feel"
+    },
+    {
+      "word": "introvert",
+      "definition": "person who prefers to spend time on their own"
+    }
+  ],
   "quiz": null
 }

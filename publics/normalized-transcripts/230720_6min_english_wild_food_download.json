@@ -1,347 +1,405 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7,
     "text": "This is a download from BBC Learning English. To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7,
     "end": 15,
     "text": "Hello, this is 6 Minute English from BBCLearningEnglish.com.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 15,
     "end": 21,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Beth.",
     "speaker": "Beth"
   },
   {
+    "order": 3,
     "start": 21,
     "end": 22,
-    "text": "And I’m Neil.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 22,
-    "end": 29,
-    "text": "Nowadays, we are so used to getting food whenever we want that we've almost forgotten how we managed in the past.",
+    "text": "And I'm Neil.",
     "speaker": null
   },
   {
+    "order": 4,
+    "start": 22,
+    "end": 29,
+    "text": "Nowadays we are so used to getting food whenever we want that we’ve almost forgotten how we managed in the past. ",
+    "speaker": "foraging"
+  },
+  {
+    "order": 5,
     "start": 29,
     "end": 36,
     "text": "But for thousands of years before supermarkets, humans found food through foraging,",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 36,
     "end": 40,
     "text": "moving from place to place, looking for wild food to eat.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 40,
     "end": 45,
     "text": "Since the Covid pandemic, foraging for wild food has become popular again.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 45,
     "end": 54,
-    "text": "Since the Covid pandemic, foraging for wild food has become popular again. Why go to the shops when you can walk into nearby countryside and parks to collect edible plants, mushrooms, and fruit for free?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 54,
-    "end": 61,
-    "text": "Of course, you can't eat everything you find growing outside. Some poisonous plants can make you very ill.",
+    "text": "Why go to the shops when you can walk into nearby countryside and parks to collect edible plants, mushrooms and fruit for free?",
     "speaker": null
   },
   {
-    "start": 61,
-    "end": 68,
-    "text": "Of course, you can’t eat everything you find growing outside - some poisonous plants can make you very ill. But there’s something exciting about setting off on a culinary treasure hunt to find new edible plants for dinner.",
+    "order": 9,
+    "start": 54,
+    "end": 61,
+    "text": "Of course, you can’t eat everything you find growing outside - some poisonous plants can make you very ill",
     "speaker": "Beth"
   },
   {
-    "start": 68,
-    "end": 74,
-    "text": "In this programme, we’ll be hearing about a new foraging project taking place across the UK, and, as usual, we'll be learning some useful new vocabulary as well.",
-    "speaker": "Neil"
+    "order": 10,
+    "start": 61,
+    "end": 68,
+    "text": "But there's something exciting about setting off on a culinary treasure hunt to find new edible plants for dinner.",
+    "speaker": null
   },
   {
+    "order": 11,
+    "start": 68,
+    "end": 74,
+    "text": "In this programme, we'll be hearing about a new foraging project taking place across the UK.",
+    "speaker": null
+  },
+  {
+    "order": 12,
     "start": 74,
     "end": 78,
     "text": "And as usual, we'll be learning some useful new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 78,
     "end": 81,
-    "text": "But first, I have a question for you, Neil.",
-    "speaker": null
+    "text": "But first I have a question for you, Neil. ",
+    "speaker": "Beth"
   },
   {
+    "order": 14,
     "start": 81,
     "end": 86,
     "text": "2019 was a good year for the group Wild Food UK.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 86,
     "end": 94,
     "text": "With the launch of their foraging pocket guide, a handbook aimed at helping foragers find and identify safe wild food to eat.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 94,
     "end": 101,
     "text": "So according to the group's website, what is the most popular food foraged in the UK?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 101,
     "end": 107,
     "text": "Is it A, C-weed, B, berries or C mushrooms?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 107,
     "end": 113,
     "text": "Hmm, there's so much coastline in Britain, I reckon it must be A, C-weed.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 113,
     "end": 117,
     "text": "Okay, I will reveal the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 117,
     "end": 126,
     "text": "Monika Wild, known as Mo, is the author of The Wilderness Cure, a book charting her year of eating only wild food.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 126,
     "end": 136,
     "text": "Mo is one of a group of 26 experienced foragers taking part in the Wild Bione project, a three-month experiment into the health benefits of introducing wild food.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 136,
     "end": 140,
     "text": "And then, the third-year experiment of introducing wild food into your diet.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 140,
     "end": 148,
     "text": "Microbiome are tiny organisms, including bacteria and fungi, which live in the human digestive system.",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 24,
     "start": 148,
     "end": 152,
     "text": "Help break down food and strengthen immune defence.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 152,
     "end": 163,
     "text": "The idea is that natural, unprocessed foods found in the wild support our microbiome, leading to a range of health benefits from weight loss to increased energy levels.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 163,
     "end": 168,
     "text": "The diet of the microbiome is measured and monitored before, during and after the experiment.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 168,
     "end": 175,
     "text": "Here's Mo Wild, chatting with one of the foragers Rob Gould for BBC Radio 4's The Food programme.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 175,
     "end": 182,
-    "text": "Even if you don't buy into the whole idea of fully encompassing a wild diet, because for most people it's fairly much unattainable,",
-    "speaker": null
+    "text": "Even if you don't buy into the whole idea of fully encompassing a wild diet - because for most people it's fairly much unattainable",
+    "speaker": "buy into"
   },
   {
+    "order": 29,
     "start": 182,
     "end": 193,
     "text": "but for people just incorporating a small amount of wild food into their diet, you're increasing massively the amount of nutrients, the micronutrients and the vitamins that you're getting,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 193,
     "end": 198,
     "text": "a lot of which aren't even available regularly in your commonly bought foods.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 198,
     "end": 205,
     "text": "Sometimes people say, oh well, you know, for everybody forage there wouldn't be enough, but I've never noticed a shortage of nettles.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 205,
     "end": 214,
     "text": "And if nettles didn't grow in this country, we'd probably be flying them in as a superfood, because they're so nutritious and above all they're free.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 215,
     "end": 223,
-    "text": "With the high levels of nutrients and vitamins found in wild plants like nettles, Rob has bought into the idea of foraging. If you buy into an idea, you completely believe in it.",
+    "text": "With the high levels of nutrients and vitamins found in wild plants like nettles, Rob has bought into the idea of foraging.",
     "speaker": "bought intobuy into"
   },
   {
+    "order": 34,
     "start": 223,
     "end": 227,
-    "text": "If you buy into an idea, you completely believe in it.",
-    "speaker": "buy into"
+    "text": " If you buy into an idea, you completely believe in it",
+    "speaker": "Microbiome"
   },
   {
+    "order": 35,
     "start": 227,
     "end": 234,
     "text": "Did you say stinging nettles, the wild plants growing everywhere, which have leaves covered in hairs that sting when you turn them into a tree,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 234,
     "end": 236,
     "text": "stinging when you touch them?",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 236,
     "end": 243,
-    "text": "Yes, it turns out that nettles are packed full of nutrients and vitamins, which are great for human health.",
-    "speaker": null
-  },
-  {
-    "start": 243,
-    "end": 253,
-    "text": "Yes, it turns out that nettles are packed full of nutrients and vitamins which are great for human health. In fact, they’re even considered a superfood - food that contains many vitamins and other nutrients known to be very good for human health.",
+    "text": "Yes, it turns out that nettles are packed full of nutrients and vitamins which are great for human health. ",
     "speaker": "superfood"
   },
   {
+    "order": 38,
+    "start": 243,
+    "end": 253,
+    "text": "In fact, they're even considered a superfood. Food that contains many vitamins and other nutrients known to be very good for human health.",
+    "speaker": null
+  },
+  {
+    "order": 39,
     "start": 253,
     "end": 260,
     "text": "The Wild Biome project hasn't finished yet, but it already seems that the foragers are feeling happier as well as healthier.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 260,
     "end": 271,
     "text": "They all report greater appreciation for the smell and taste of their food, and say foraging has given them increased self-worth, a natural treatment for depression and anxiety.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 271,
     "end": 277,
     "text": "Here's one forager describing her feelings to BBC Radio 4's The Food Programme.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 278,
     "end": 286,
     "text": "Find the first week. I felt really quite flat, quite limited carbs coming in from chess, not flour primarily.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 286,
     "end": 292,
     "text": "Feeling loads better now, feeling loads better in the last few days, and I'm really enjoying the project having a great time.",
-    "speaker": null
+    "speaker": "flat,"
   },
   {
+    "order": 44,
     "start": 292,
     "end": 294,
     "text": "In fact, I don't really want it to stop.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 294,
     "end": 301,
     "text": "At the start of the experiment, this forager felt flat, low in energy, emotion or excitement.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 301,
     "end": 309,
-    "text": "At the start of the experiment this forager felt flat – low in energy, emotion or excitement, but after some weeks of wild food, fresh air and appreciation of nature, she doesn’t want the project to stop.",
-    "speaker": "flat"
+    "text": "But after some weeks of wild food, fresh air and appreciation of nature, she doesn't want the project to stop.",
+    "speaker": null
   },
   {
+    "order": 47,
     "start": 309,
     "end": 318,
-    "text": "Well, I’m convinced! So, what’s first on my wild food shopping list? I think it’s time you revealed the answer to your question, Beth.",
+    "text": "Well, I’m convinced! So, what’s first on my wild food shopping list? I think it’s time you revealed the answer to your question, Beth",
     "speaker": "Neil"
   },
   {
+    "order": 48,
     "start": 318,
     "end": 328,
     "text": "Right, I asked what was the most popular foraged food in the UK, and you guessed it was seaweed, which was the wrong answer.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 328,
     "end": 331,
     "text": "Mushrooms are the most popular foraged food.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 331,
     "end": 339,
     "text": "Okay, let's recap the vocabulary we've learnt from this programme about foraging, looking for wild edible plants to eat.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 339,
     "end": 347,
-    "text": "Microbiome are tiny bacteria and organisms in the human gut which help digest food and strengthen immunity.",
-    "speaker": "Microbiome"
+    "text": "Microbiome are tiny bacteria and organisms in the human gut, which help digest food and strengthen immunity.",
+    "speaker": null
   },
   {
+    "order": 52,
     "start": 347,
     "end": 351,
     "text": "If you buy into an idea, you completely believe in it.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 351,
     "end": 357,
     "text": "Nettles are common nutritious edible plants with leaves covered in hairs that sting when touched.",
     "speaker": "Nettles"
   },
   {
+    "order": 54,
     "start": 357,
     "end": 363,
     "text": "A superfood describes a food containing many vitamins and other healthy nutrients.",
-    "speaker": "superfood"
-  },
-  {
-    "start": 363,
-    "end": 368,
-    "text": "And finally, the adjective flat means lacking energy, emotion or excitement.",
     "speaker": null
   },
   {
+    "order": 55,
+    "start": 363,
+    "end": 368,
+    "text": "And finally, the adjective flat means lacking energy, emotion or excitement ",
+    "speaker": "flat"
+  },
+  {
+    "order": 56,
     "start": 368,
     "end": 371,
     "text": "And probably means you should go outside and get foraging.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 371,
     "end": 375,
     "text": "Once again, our six minutes are up. Goodbye for now.",

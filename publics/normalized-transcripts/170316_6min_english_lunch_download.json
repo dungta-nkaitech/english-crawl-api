@@ -1,1031 +1,1203 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.4,
     "text": "From BBC Learning English",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 11.279,
     "end": 13.12,
     "text": "Hello and welcome to 6 Minute English,",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 13.12,
     "end": 15.12,
     "text": "the show that brings you an interesting topic,",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 15.12,
     "end": 17.44,
     "text": "authentic listening practice and six items",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 17.44,
     "end": 19.679,
     "text": "of incredibly useful vocabulary.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 19.679,
     "end": 21.359,
     "text": "I'm Dan and I'm Neil.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 21.359,
     "end": 23.039,
     "text": "In this program, we'll be discussing",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 23.039,
     "end": 24.8,
     "text": "the lovely topic of lunch",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 24.8,
     "end": 27.6,
     "text": "and what our lunch choices say about us.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 27.6,
     "end": 28.56,
     "text": "So Dan,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 28.639,
     "end": 30.239,
     "text": "what are you doing for lunch today?",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 30.239,
     "end": 32.64,
-    "text": "Ah, Neil, are you asking me to join you?",
-    "speaker": null
+    "text": "Ah Neil, are you asking me to join you? ",
+    "speaker": "Dan"
   },
   {
+    "order": 15,
     "start": 32.64,
     "end": 33.759,
     "text": "I'd love to!",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 33.759,
     "end": 34.479,
     "text": "Thanks!",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 34.479,
     "end": 36.399,
     "text": "There's this great little Vietnamese place",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 36.399,
     "end": 37.359,
     "text": "we have to check out.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 37.359,
     "end": 38.879,
     "text": "It's right next to the office if you just...",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 38.879,
     "end": 43.84,
-    "text": "Ah, actually – I was just asking to… open up today’s topic. Sorry. You see, I’ve brought a sandwich.",
-    "speaker": "Neil"
+    "text": "Ah, actually, I was just asking to open up today's topic.",
+    "speaker": null
   },
   {
+    "order": 21,
     "start": 44.64,
     "end": 47.039,
     "text": "Sorry, you see, I've brought a sandwich.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 47.039,
     "end": 48.719,
     "text": "Oh, a sandwich.",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 23,
     "start": 49.599,
     "end": 50.079,
     "text": "Again.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 24,
     "start": 51.28,
     "end": 52.32,
     "text": "How dull.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 52.32,
     "end": 53.92,
     "text": "Well, you're not the only one.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 53.92,
     "end": 56.96,
     "text": "A survey from 2012 showed a third of Britain's",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 56.96,
     "end": 59.92,
     "text": "eat exactly the same thing for lunch every day.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 59.92,
     "end": 62.399,
     "text": "And yes, it's mostly sandwiches.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 62.399,
     "end": 63.92,
     "text": "I had a carry yesterday.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 63.92,
     "end": 65.28,
     "text": "Well, it's almost lunch time,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 65.28,
     "end": 66.799,
     "text": "so we'd better get on with our question.",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 32,
     "start": 66.799,
     "end": 67.92,
     "text": "Which is,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 33,
     "start": 67.92,
     "end": 71.439,
     "text": "how long is the average lunch break in the UK?",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 71.439,
     "end": 72.159,
     "text": "Is it...",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 72.159,
     "end": 74,
-    "text": "a) An hour and a half",
-    "speaker": "Dan"
+    "text": "A, an hour and a half,",
+    "speaker": null
   },
   {
+    "order": 36,
     "start": 74,
     "end": 77.359,
     "text": "B, 45 minutes, or C, 25 minutes?",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 77.359,
     "end": 79.28,
-    "text": "Oh, I wish it was an hour and a half,",
-    "speaker": null
+    "text": " Oh, I wish it was an hour and a half",
+    "speaker": "Dan"
   },
   {
+    "order": 38,
     "start": 79.28,
     "end": 82.56,
-    "text": "Oh, I wish it was an hour and a half, but I’m pretty sure it must be c) 25 minutes",
-    "speaker": "Neil"
-  },
-  {
-    "start": 82.56,
-    "end": 84.48,
-    "text": "Well, we'll find out if you're right,",
+    "text": "but I'm pretty sure it must be C, 25 minutes.",
     "speaker": null
   },
   {
+    "order": 39,
+    "start": 82.56,
+    "end": 84.48,
+    "text": "Well, we’ll find out if you’re right…",
+    "speaker": "peckish"
+  },
+  {
+    "order": 40,
     "start": 84.48,
     "end": 86,
     "text": "just before lunch.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 86,
     "end": 89.04,
-    "text": "Well, we’ll find out if you’re right… just before lunch! All this talk of lunch is actually making me feel a bit peckish.",
-    "speaker": "peckish"
-  },
-  {
-    "start": 89.04,
-    "end": 89.76,
-    "text": "Peckish.",
+    "text": "All this talk of lunch is actually making me feel a bit peckish.",
     "speaker": null
   },
   {
+    "order": 42,
+    "start": 89.04,
+    "end": 89.76,
+    "text": "Peckish.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 43,
     "start": 89.76,
     "end": 91.2,
     "text": "That's a great word, isn't it?",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 91.2,
     "end": 93.599,
     "text": "It's a slang word for being a bit hungry,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 93.599,
     "end": 94.879,
     "text": "feeling peckish, Dan.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 94.879,
     "end": 95.84,
     "text": "I am now.",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 47,
     "start": 95.84,
     "end": 97.84,
     "text": "Now, about you and your sandwiches, Neil.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 97.84,
     "end": 100.719,
     "text": "Two slices of bread with filling might be the most",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 100.719,
     "end": 102.48,
     "text": "popular British lunch choice,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 102.48,
     "end": 104.319,
     "text": "but it didn't used to be that way.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 104.319,
     "end": 106.24,
     "text": "Listen to food writer B Wilson,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 106.24,
     "end": 108.96,
     "text": "which adjective does she use to describe sandwiches?",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 108.96,
     "end": 110.64,
     "text": "They were what you had in emergency.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 110.64,
     "end": 112.56,
     "text": "They were what you had on a long train journey.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 112.56,
     "end": 114.079,
     "text": "It was a kind of makeshift lunch",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 114.079,
     "end": 115.76,
     "text": "when you couldn't get anything better.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 115.84,
     "end": 119.44,
     "text": "So sandwiches had humble origins as makeshift meals.",
-    "speaker": null
+    "speaker": "makeshiftMakeshift"
   },
   {
+    "order": 58,
     "start": 119.44,
     "end": 122.64,
     "text": "Makeshift describes something temporary and low quality,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 122.64,
     "end": 126.48,
     "text": "a solution you create when you can't do anything better.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 126.48,
     "end": 129.92,
     "text": "I can't help feel all this is getting a little personal, Dan.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 129.92,
     "end": 132.879,
     "text": "There's a sometimes very practical reason to eat a sandwich.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 132.879,
     "end": 133.92,
     "text": "Like on a train.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 133.92,
     "end": 137.2,
     "text": "On a weekday in the office, though, there's no excuse.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 137.2,
     "end": 139.28,
     "text": "Well, if you worked as hard as I did, Dan,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 140,
     "end": 141.84,
     "text": "you'd only have time for a sandwich,",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 141.84,
     "end": 144.319,
     "text": "which is just what B Wilson was saying.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 144.319,
     "end": 147.039,
     "text": "We treat lunch time as if it were an emergency.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 147.039,
     "end": 150.56,
     "text": "It says something about our attitude to work and food in the UK.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 150.56,
     "end": 153.28,
     "text": "Next, let's hear from philosopher Julian Bagini",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 153.28,
     "end": 156.239,
     "text": "with his view on eating the same thing every day.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 156.239,
     "end": 158.319,
-    "text": "And let's teach one more word first,",
-    "speaker": null
+    "text": "And let’s teach one more word first ",
+    "speaker": "utilitarian"
   },
   {
+    "order": 72,
     "start": 158.319,
     "end": 159.68,
     "text": "utilitarian.",
-    "speaker": null
+    "speaker": "utilitarian"
   },
   {
+    "order": 73,
     "start": 159.68,
     "end": 162.079,
     "text": "It describes something practical and useful,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 162.079,
     "end": 163.68,
     "text": "rather than attractive.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 163.68,
     "end": 167.359,
     "text": "What lunch says about us is that we're still very much stuck",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 167.359,
     "end": 169.759,
     "text": "in this kind of quite functional,",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 169.759,
     "end": 172.479,
     "text": "you know, efficient utilitarian attitude",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 172.639,
     "end": 174.719,
     "text": "of how we should construct our daily lives.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 174.719,
     "end": 178.959,
     "text": "And for all our embrace of this great food culture and everything,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 178.959,
     "end": 180.639,
     "text": "we haven't managed to make that.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 180.639,
     "end": 183.839,
     "text": "And every day thing, it remains something for the special occasions.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 184.879,
     "end": 188.639,
-    "text": "So – he thinks we live in a world where we value being efficient – where we have a functional, utilitarian attitude to life.",
-    "speaker": "utilitarian"
+    "text": "So he thinks we live in a world where we value being efficient,",
+    "speaker": null
   },
   {
+    "order": 83,
     "start": 188.639,
     "end": 192.239,
     "text": "where we have a functional utilitarian attitude to life.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 192.239,
     "end": 192.959,
     "text": "Exactly.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 192.959,
     "end": 194.879,
     "text": "We're aware of a great food culture.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 194.879,
     "end": 198,
-    "text": "Exactly, we’re aware of a great food culture, we embrace this culture – but only for special occasions.",
-    "speaker": "embrace"
-  },
-  {
-    "start": 198,
-    "end": 200.319,
-    "text": "Yes, let's look at that word embrace.",
+    "text": "We embrace this culture, but only for special occasions.",
     "speaker": null
   },
   {
+    "order": 87,
+    "start": 198,
+    "end": 200.319,
+    "text": "Yes – let’s look at that word embrace",
+    "speaker": "embrace"
+  },
+  {
+    "order": 88,
     "start": 200.319,
     "end": 202.319,
     "text": "It normally means this.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 202.319,
     "end": 204.239,
     "text": "Let me just, um,",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 204.239,
     "end": 206.479,
     "text": "oh, Neil, I didn't know you cared.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 206.479,
     "end": 207.68,
     "text": "Neil just hugged me.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 207.68,
     "end": 210.159,
     "text": "Wrap his arms around me, embraced me.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 210.159,
     "end": 212.959,
     "text": "Just as we can embrace physical things in people,",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 212.959,
     "end": 215.039,
     "text": "we can also embrace ideas.",
-    "speaker": null
+    "speaker": "embraceembrace"
   },
   {
+    "order": 95,
     "start": 215.039,
     "end": 216.719,
     "text": "Here's an idea I embrace, Neil.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 216.719,
     "end": 218.639,
     "text": "We should all embrace new foods,",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 218.639,
     "end": 220,
-    "text": "broaden our horizons.",
-    "speaker": null
-  },
-  {
-    "start": 220,
-    "end": 223.199,
-    "text": "To broaden our horizons means 'to open our minds and experience new things'.",
+    "text": "broaden our horizons ",
     "speaker": "broaden our horizons"
   },
   {
+    "order": 98,
+    "start": 220,
+    "end": 223.199,
+    "text": "To broaden our horizons means to open our minds",
+    "speaker": null
+  },
+  {
+    "order": 99,
     "start": 223.199,
     "end": 224.56,
     "text": "and experience new things.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 224.56,
     "end": 226.719,
     "text": "Let me broaden your horizons right now.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 226.719,
     "end": 229.199,
     "text": "Experts from Cornell University say it leads",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 229.199,
     "end": 232.639,
     "text": "to better team spirit if colleagues eat together.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 232.639,
     "end": 234.079,
     "text": "Okay, I get the picture.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 234.079,
     "end": 236.719,
     "text": "I should ditch my sandwich and eat with you",
-    "speaker": null
+    "speaker": "team spirit"
   },
   {
+    "order": 105,
     "start": 236.719,
     "end": 238.319,
     "text": "in the name of team spirit.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 238.319,
     "end": 240.719,
     "text": "That is getting on well with team members",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 240.719,
     "end": 242.799,
     "text": "having a feeling of belonging.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 242.799,
     "end": 243.839,
     "text": "Finally.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 243.839,
     "end": 244.799,
-    "text": "Finally. Vietnamese?",
-    "speaker": "Dan"
+    "text": "Vietnamese?",
+    "speaker": null
   },
   {
+    "order": 110,
     "start": 244.799,
     "end": 248.56,
-    "text": "Oh yes, but not before you tell me the answer to today’s question. How long do Brits take for lunch?",
+    "text": "Oh yes, but not before you tell me the answer to today’s question. ",
     "speaker": "Neil"
   },
   {
+    "order": 111,
     "start": 248.56,
     "end": 250.959,
     "text": "How long do Brits take for lunch?",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 250.959,
     "end": 253.599,
     "text": "Well, the answer was C, 25 minutes.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 253.599,
     "end": 256.319,
     "text": "That comes from a survey done by the BBC this year",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 256.319,
     "end": 258.879,
     "text": "to find out about our modern dining habits.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 258.959,
     "end": 259.839,
-    "text": "c) 25 minutes",
-    "speaker": "Dan"
+    "text": "25 minutes.",
+    "speaker": null
   },
   {
+    "order": 116,
     "start": 259.839,
     "end": 261.199,
     "text": "It's a crying shame, Dan.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 261.199,
     "end": 262.8,
     "text": "But before we have lunch ourselves,",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 262.8,
     "end": 265.439,
     "text": "let's run over the vocabulary one more time.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 265.439,
     "end": 266.8,
     "text": "First up, we had Peckish.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 266.8,
     "end": 269.68,
     "text": "It means hungry, just a little hungry.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 269.68,
     "end": 271.759,
     "text": "I'm feeling rather peckish at the moment.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 271.759,
     "end": 274.159,
-    "text": "I think I’ve gone beyond peckish, Dan. Roll on lunch. Next?",
+    "text": "I think I’ve gone beyond peckish, Dan.",
     "speaker": "peckish"
   },
   {
+    "order": 123,
     "start": 274.159,
     "end": 275.439,
     "text": "Roll on lunch.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 275.439,
     "end": 277.12,
     "text": "Next, we had MakeShift,",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 277.12,
     "end": 280.639,
     "text": "which describes a temporary or low-quality solution.",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 280.639,
     "end": 284,
     "text": "For example, last week my team's goalkeeper was sick,",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 284,
     "end": 286.719,
     "text": "so I had to replace him as a MakeShift goalie.",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 286.8,
     "end": 288,
-    "text": "Or another example,",
-    "speaker": null
-  },
-  {
-    "start": 288,
-    "end": 291.12,
-    "text": "Or, another example – when I was a student I used the steel bin in my room as a makeshift drum.",
+    "text": "Or, another example",
     "speaker": "makeshift"
   },
   {
+    "order": 129,
+    "start": 288,
+    "end": 291.12,
+    "text": "when I was a student, I used the steel bin in my room",
+    "speaker": null
+  },
+  {
+    "order": 130,
     "start": 291.12,
     "end": 292.56,
     "text": "as a MakeShift drum.",
     "speaker": null
   },
   {
+    "order": 131,
     "start": 292.56,
     "end": 294.32,
     "text": "I'm sure the neighbours loved that.",
     "speaker": null
   },
   {
+    "order": 132,
     "start": 294.32,
     "end": 294.88,
     "text": "Mm-hmm.",
     "speaker": null
   },
   {
+    "order": 133,
     "start": 294.88,
     "end": 297.36,
     "text": "Now, what about this word utilitarian?",
     "speaker": null
   },
   {
+    "order": 134,
     "start": 297.36,
     "end": 300.64,
     "text": "In the context we used, it means simple and functional",
     "speaker": null
   },
   {
+    "order": 135,
     "start": 300.64,
     "end": 301.92,
     "text": "rather than beautiful.",
     "speaker": null
   },
   {
+    "order": 136,
     "start": 301.92,
     "end": 304.72,
-    "text": "Do you think it would be fair to describe your polo shirt as utilitarian?",
+    "text": "Do you think it would be fair to describe your polo shirt",
     "speaker": "utilitarian"
   },
   {
+    "order": 137,
     "start": 304.72,
     "end": 306,
     "text": "as utilitarian?",
     "speaker": null
   },
   {
+    "order": 138,
     "start": 306,
     "end": 308.48,
-    "text": "I prefer classic and timeless. Please.",
-    "speaker": "Dan"
-  },
-  {
-    "start": 309.2,
-    "end": 310,
-    "text": "Please.",
+    "text": "I prefer classic and timeless.",
     "speaker": null
   },
   {
+    "order": 139,
+    "start": 309.2,
+    "end": 310,
+    "text": "Please.",
+    "speaker": "team spirit"
+  },
+  {
+    "order": 140,
     "start": 310,
     "end": 311.44,
     "text": "Well, enough of all this banter.",
     "speaker": null
   },
   {
+    "order": 141,
     "start": 311.44,
     "end": 314.72,
-    "text": "But enough of all this banter. You know, I believe we should all just get along.",
-    "speaker": "Neil"
+    "text": "You know, I believe we should all just get along.",
+    "speaker": null
   },
   {
+    "order": 142,
     "start": 314.72,
     "end": 316.32,
-    "text": "Oh, are you going to hug me again? To embrace me?",
-    "speaker": "embrace"
+    "text": "Oh, are you going to hug me again?",
+    "speaker": null
   },
   {
+    "order": 143,
     "start": 316.72,
     "end": 318.72,
     "text": "To embrace me, not this time,",
     "speaker": null
   },
   {
+    "order": 144,
     "start": 318.72,
     "end": 320.72,
     "text": "let's stick with the metaphorical meaning",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 145,
     "start": 320.72,
     "end": 323.2,
     "text": "to accept a new belief or idea.",
     "speaker": null
   },
   {
+    "order": 146,
     "start": 323.2,
     "end": 326.08,
-    "text": "For example, I wasn’t sure about the new website design, but now I fully embrace it.",
-    "speaker": "embrace"
+    "text": "For example, I wasn't sure about the new website design,",
+    "speaker": null
   },
   {
+    "order": 147,
     "start": 326.08,
     "end": 328.08,
     "text": "but now I fully embrace it.",
     "speaker": null
   },
   {
+    "order": 148,
     "start": 328.08,
     "end": 328.64,
     "text": "Very nice.",
-    "speaker": null
-  },
-  {
-    "start": 328.64,
-    "end": 331.92,
-    "text": "Very nice. And I embrace your suggestion that colleagues should eat together.",
     "speaker": "embrace"
   },
   {
-    "start": 331.92,
-    "end": 333.84,
-    "text": "It looks like you’ve broadened your horizons.",
-    "speaker": "broadened your horizons"
-  },
-  {
-    "start": 333.84,
-    "end": 336.96,
-    "text": "Well, when I taught English in Spain, Japan, Poland,",
+    "order": 149,
+    "start": 328.64,
+    "end": 331.92,
+    "text": "And I embrace your suggestion that colleagues should eat together.",
     "speaker": null
   },
   {
+    "order": 150,
+    "start": 331.92,
+    "end": 333.84,
+    "text": "It looks like you've broadened your horizons.",
+    "speaker": null
+  },
+  {
+    "order": 151,
+    "start": 333.84,
+    "end": 336.96,
+    "text": "Well, when I taught English in Spain, Japan, Poland ",
+    "speaker": "broadened my horizons"
+  },
+  {
+    "order": 152,
     "start": 336.96,
     "end": 339.84,
     "text": "and the Czech Republic, it really broadened my horizons",
     "speaker": null
   },
   {
+    "order": 153,
     "start": 339.84,
     "end": 341.76,
     "text": "and taught me about new ways of life.",
     "speaker": null
   },
   {
+    "order": 154,
     "start": 341.76,
     "end": 342.56,
     "text": "How about you?",
     "speaker": null
   },
   {
+    "order": 155,
     "start": 342.56,
     "end": 344.72,
     "text": "Yes, they say travel broadens the mind.",
     "speaker": null
   },
   {
+    "order": 156,
     "start": 344.8,
     "end": 347.04,
     "text": "It's certainly broadened my horizons, too.",
     "speaker": null
   },
   {
+    "order": 157,
     "start": 347.04,
     "end": 347.84,
     "text": "Even better.",
     "speaker": null
   },
   {
+    "order": 158,
     "start": 347.84,
     "end": 349.68,
     "text": "Why don't we go traveling together",
     "speaker": null
   },
   {
+    "order": 159,
     "start": 349.68,
     "end": 351.52,
     "text": "with the whole learning English team?",
     "speaker": null
   },
   {
+    "order": 160,
     "start": 351.52,
     "end": 354,
     "text": "Yeah, that would be wonderful for team spirit,",
     "speaker": null
   },
   {
+    "order": 161,
     "start": 354,
     "end": 355.84,
     "text": "the good feeling of being together.",
     "speaker": null
   },
   {
+    "order": 162,
     "start": 355.84,
     "end": 357.52,
     "text": "Maybe to Cambodia?",
     "speaker": null
   },
   {
+    "order": 163,
     "start": 357.52,
     "end": 358.72,
     "text": "It certainly would.",
     "speaker": null
   },
   {
+    "order": 164,
     "start": 358.72,
     "end": 361.12,
     "text": "That's the end of today's six minute English.",
     "speaker": null
   },
   {
+    "order": 165,
     "start": 361.12,
     "end": 363.84,
     "text": "Please join us again soon after our delicious lunch.",
     "speaker": null
   },
   {
+    "order": 166,
     "start": 363.84,
     "end": 365.6,
     "text": "And we're on social media too.",
     "speaker": null
   },
   {
+    "order": 167,
     "start": 365.6,
     "end": 368.24,
-    "text": "And we are on social media too. Make sure to visit our Facebook, Twitter, Instagram and YouTube pages.",
+    "text": " Make sure to visit our Facebook, Twitter, Instagram",
     "speaker": "Dan"
   },
   {
+    "order": 168,
     "start": 368.24,
     "end": 369.6,
     "text": "and YouTube pages.",
     "speaker": null
   },
   {
+    "order": 169,
     "start": 369.6,
     "end": 370.24,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 170,
     "start": 370.24,
     "end": 370.72,
-    "text": "Bye!",
-    "speaker": "Both"
+    "text": "Bye-bye.",
+    "speaker": null
   },
   {
+    "order": 171,
     "start": 370.72,
     "end": 376.08,
     "text": "Six minute English from BBCLearningEnglish.com.",

@@ -1,425 +1,496 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 11.12,
     "text": "6Nate English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 14.24,
     "end": 18.559,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Rob.",
     "speaker": "Rob"
   },
   {
+    "order": 4,
     "start": 18.559,
     "end": 19.76,
-    "text": "And I’m Sam.",
-    "speaker": "Sam"
+    "text": "And I'm Sam.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 19.76,
     "end": 23.44,
     "text": "Now, when we think about famous figures in the history of science,",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 23.44,
     "end": 26.24,
-    "text": "the name of Charles Darwin often comes up.",
-    "speaker": null
+    "text": " the name of Charles Darwin often comes up",
+    "speaker": "Rob"
   },
   {
+    "order": 7,
     "start": 27.199,
     "end": 31.119,
     "text": "Darwin is most famous for his theory of evolution,",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 31.119,
     "end": 35.599,
     "text": "the idea that animals change and adapt in response to their environment.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 36.239,
     "end": 42.56,
     "text": "In the 1830s, he visited the Galapagos, a string of islands in the Pacific Ocean,",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 42.56,
     "end": 45.439,
     "text": "famous because of the unique animals living there.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 46.159,
     "end": 51.039,
     "text": "It was while in the Galapagos, observing small birds called finches,",
-    "speaker": null
+    "speaker": "evolution"
   },
   {
+    "order": 12,
     "start": 51.039,
     "end": 54.399,
     "text": "that Darwin started forming his theory of evolution.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 54.879,
     "end": 60.799,
     "text": "But today, the animals of the Galapagos face the same pressures as animals across the world",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 60.799,
     "end": 63.679,
     "text": "because of the effects of man-made climate change.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 65.12,
     "end": 72.799,
-    "text": "Warming sea waters and more frequent extreme weather events are affecting animals as much as humans, so, in this programme, we’ll be asking ‘can animals evolve to deal with climate change?’",
-    "speaker": "Sam"
+    "text": "Warming sea waters and more frequent extreme weather events are affecting animals as much as humans.",
+    "speaker": null
   },
   {
+    "order": 16,
     "start": 72.799,
     "end": 78.239,
     "text": "So in this programme, we'll be asking, can animals evolve to deal with climate change?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 79.519,
     "end": 81.92,
-    "text": "But first, I have a question for you, Sam.",
-    "speaker": null
+    "text": "But first I have a question for you, Sam, ",
+    "speaker": "flora and fauna"
   },
   {
+    "order": 18,
     "start": 81.92,
     "end": 84.48,
     "text": "And it's about Charles Darwin's trip to the Galapagos.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 85.439,
     "end": 91.28,
     "text": "In 1831, Darwin set sail around the world, collecting samples of flora and fauna,",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 91.28,
     "end": 94.64,
     "text": "the plants and animals of the places he visited.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 94.64,
     "end": 97.359,
     "text": "But what was the name of the ship he sailed in?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 98.4,
     "end": 104.64,
     "text": "Was it A, HMS Beagle, B, HMS Victory, or C, SS Great Britain?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 106.159,
     "end": 108.32,
-    "text": "Hmm, maybe it was B. HMS Victory.",
-    "speaker": "Sam"
+    "text": "Maybe it was B, HMS Victory.",
+    "speaker": "flora and fauna"
   },
   {
+    "order": 24,
     "start": 108.879,
     "end": 109.68,
     "text": "Are you sure?",
     "speaker": "Rob"
   },
   {
+    "order": 25,
     "start": 109.68,
     "end": 110.48,
     "text": "No.",
-    "speaker": "Sam"
+    "speaker": "Rob"
   },
   {
+    "order": 26,
     "start": 110.96,
     "end": 113.6,
     "text": "Well, I'll reveal the correct answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 114.48,
     "end": 119.28,
     "text": "Now, it may have been the Galapagos Finches that started Charles Darwin thinking",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 119.28,
     "end": 122.24,
     "text": "about how animals adapt to their environment.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 122.24,
     "end": 128.64,
     "text": "But as naturalist Kiyoko Gotanda explained to BBC World Service Programme the Climate Question,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 128.64,
     "end": 132.319,
     "text": "Darwin's first impression of the small birds wasn't very good.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 133.84,
     "end": 138.719,
     "text": "When Darwin got to the Galapagos Islands, he actually wasn't that interested in the finches.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 138.8,
     "end": 142,
     "text": "They were kind of a drab colour and they didn't have a very interesting song.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 142.639,
     "end": 145.919,
     "text": "He sampled, though, for the finches from different islands.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 145.919,
     "end": 150.8,
     "text": "And so when he got back to England and he was looking at all the variation in beak shape and size",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 150.8,
     "end": 155.919,
     "text": "and body size and shape and he was recalling how certain finches were found on certain islands,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 155.919,
     "end": 157.759,
     "text": "but not on other islands.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 159.52,
     "end": 163.36,
     "text": "In contrast to more colourful birds like Galapagos parrots,",
-    "speaker": null
+    "speaker": "drab"
   },
   {
+    "order": 38,
     "start": 163.44,
     "end": 169.04,
     "text": "the finches Darwin observed would drab dull and boring looking with little colour.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 170,
     "end": 177.28,
     "text": "Instead, what Darwin noticed were variations in the finches beak, the hard pointed part of a bird's",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 177.28,
     "end": 184.08,
     "text": "mouth. Finches born with a beak that could help them get more food were more likely to survive",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 184.08,
     "end": 189.44,
     "text": "and have babies. Over time, as the birds passed on their successful genes,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 189.439,
     "end": 194.079,
     "text": "they adapted to fit in with their environment, what we know as evolution.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 195.68,
     "end": 201.599,
-    "text": "So, if animals can evolve to survive their environment, can they also evolve to cope with the impact humans are having on the climate?",
+    "text": "So if animals can evolve to survive their environment, can they also evolve to cope with the",
     "speaker": "Rob"
   },
   {
+    "order": 44,
     "start": 201.599,
     "end": 208.079,
     "text": "impact humans are having on the climate? Well, there's already some evidence to show they can.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 208.079,
     "end": 214.96,
     "text": "Studies on birds in the Brazilian Amazon and Red Deer on the Isle of Rum in Scotland show warmer",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 214.96,
     "end": 221.36,
     "text": "temperatures have caused animals to evolve smaller bodies. It's easier to keep cool when you're small.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 222.159,
     "end": 227.76,
     "text": "American conservationist Thor Hanson records and measures and noly lizards in the Caribbean.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 227.76,
     "end": 233.28,
-    "text": "He wants to see how the effects of man-made climate change, in this case hurricanes,",
-    "speaker": null
+    "text": " He wants to see how the effects of man-made climate change, in this case hurricanes",
+    "speaker": "Rob"
   },
   {
+    "order": 49,
     "start": 233.28,
     "end": 239.12,
     "text": "is affecting the lizards. Listen to what Thor found out as he speaks with presenters of BBC World",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 239.2,
     "end": 245.759,
     "text": "Services, the climate question. But what you can see is that large two-pads and strong front",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 245.759,
     "end": 250.4,
     "text": "legs give some lizards a tighter grip. When they do start to let go and their body starts",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 250.4,
     "end": 255.84,
-    "text": "When they do start to let go and their body starts flapping in the air like a flag, smaller back legs reduce the drag, and allow them to cling on and survive the hurricane.",
+    "text": "flapping in the air like a flag, smaller back legs reduce the drag and allow them to cling on",
     "speaker": "Kate Lamble"
   },
   {
+    "order": 53,
     "start": 255.84,
     "end": 262.16,
     "text": "and survive the hurricane. So the survivors were those lizards with those characteristics",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 262.16,
     "end": 265.28,
     "text": "and they passed those traits along to their offspring.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 266.4,
     "end": 272.88,
     "text": "Thor's lizards develop stronger front legs and smaller back legs, allowing them to cling on,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 272.88,
     "end": 278.879,
     "text": "hold on to something tightly when hurricanes pass through. It's this trait, a genetically",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 57,
     "start": 278.879,
     "end": 284.96,
     "text": "determined characteristic that allows the lizards to survive and is passed on to their babies.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 285.84,
     "end": 291.12,
     "text": "Thor checked other areas of the Caribbean where hurricanes were frequent and found the same",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 291.12,
     "end": 298,
     "text": "traits in lizards there. Proof of evolution in action. But whereas we often think of evolution",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 298,
     "end": 304.079,
     "text": "happening over hundreds, even thousands of years, the changes in the Caribbean lizards happened",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 304.079,
     "end": 310.319,
     "text": "in around 40 years, something that would have surprised Charles Darwin. Richard reminds me of your",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 310.319,
     "end": 317.439,
     "text": "question, Rob. Ah yes, I asked you the name of the ship. Darwin sailed around the world in.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 317.439,
     "end": 323.6,
     "text": "Darwin ship was called the HMS Beagle and appropriately enough, it was named after an animal,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 323.6,
     "end": 330.399,
     "text": "a beagle is a type of dog. Okay, let's recap the vocabulary from this program about evolution,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 330.399,
     "end": 336.079,
     "text": "the way living things adapt to their environment and pass these adaptations onto their children.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 337.36,
     "end": 341.839,
     "text": "Flora and Fauna is another way of saying the plants and animals are the place.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 342.319,
     "end": 350.319,
-    "text": "A bird’s beak is the hard, pointed part of its mouth.",
-    "speaker": "beak"
+    "text": "Drab means dull and colourless in appearance. A bird’s beak is the hard, pointed part of its mouth",
+    "speaker": "Drab"
   },
   {
+    "order": 68,
     "start": 351.439,
     "end": 358.399,
     "text": "To cling on means to hold on very tightly. And finally, a trait is a genetically determined",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 358.399,
     "end": 365.439,
     "text": "characteristic. Once again, our six minutes are up. Join us again soon for more interesting topics",
-    "speaker": null
+    "speaker": "To cling on"
   },
   {
+    "order": 70,
     "start": 365.439,
     "end": 370.079,
     "text": "and useful vocabulary here at six minutes English. Goodbye for now. Bye.",

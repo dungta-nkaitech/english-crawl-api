@@ -1,410 +1,478 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 8.4,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 8.4,
     "end": 12.759,
     "text": "Hello, this is 6 Minute English from BBCLearningEnglish. I'm Neil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.759,
     "end": 19.559,
-    "text": "And I’m Georgie. “That's one small step for man, one giant leap for mankind” – famous words, but do you know who said them?",
-    "speaker": "Georgie"
+    "text": "And I'm Georgie. That's one small step for man, one giant leap for mankind. Famous words.",
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 19.559,
     "end": 24.56,
     "text": "But do you know who said them? Of course, that was Neil Armstrong, the first person to land",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 24.56,
     "end": 28.359,
     "text": "on the moon. Right. The Apollo 11 spacecraft landed Neil",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 28.359,
     "end": 34.519,
     "text": "Armstrong on the moon on 20th July 1969. But in decades after that famous event,",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 34.519,
     "end": 38.92,
     "text": "interest in returning to the moon faded away. Until now.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 38.92,
     "end": 45.76,
     "text": "Summer 2023 saw the start of a new race for the moon between Russia's Lunar 25 spacecraft",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 45.76,
     "end": 54,
     "text": "and India's Chandrayan 3. Russia's rocket crashed on landing, but Chandrayan 3 successfully",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 54,
     "end": 59.6,
     "text": "touched down on the 23rd of August, making India only the fourth country to successfully",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 10,
     "start": 59.6,
     "end": 65.12,
     "text": "land on the moon. But why this sudden interest in going back to the moon? That's what we'll",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 65.12,
     "end": 70.76,
-    "text": "But why this sudden interest in going back to the Moon? That’s what we’ll be discussing in this programme and, as usual, we'll be learning some useful new vocabulary too.",
-    "speaker": "Georgie"
+    "text": "be discussing in this programme, and as usual, we'll be learning some useful new vocabulary",
+    "speaker": null
   },
   {
+    "order": 12,
     "start": 70.76,
     "end": 77.76,
     "text": "too. But before we blast off, I have a question for you, Georgie. Everyone knows that Neil Armstrong",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 77.76,
     "end": 83.879,
     "text": "was the first man on the moon and was followed by a second astronaut Buzz Aldrin. But who",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 14,
     "start": 83.879,
     "end": 89.679,
     "text": "was the third Apollo astronaut who flew the command module while his crewmates walked",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 89.679,
     "end": 97.079,
     "text": "on the moon? Was it a Yuri Gagarin, b Michael Collins or C. Allen Sheppard?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 97.079,
     "end": 100.159,
     "text": "Hmm, I think it was Michael Collins.",
-    "speaker": "Georgie"
+    "speaker": "Neil"
   },
   {
+    "order": 17,
     "start": 100.159,
     "end": 105.399,
-    "text": "Okay, Georgie, we'll find out the answer at the end of the programme.",
-    "speaker": null
+    "text": "Okay, Georgie, we’ll find out the answer at the end of the programme.",
+    "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 105.399,
     "end": 111.399,
     "text": "In some ways, the current interest in the moon is really more about the origins of Earth.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 111.4,
     "end": 116.6,
     "text": "One theory is that during the early days of the solar system, around four billion years",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 116.6,
     "end": 123.88,
     "text": "ago, another planet crashed into Earth, breaking off a part, which then formed the moon. Unlike",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 123.88,
     "end": 130.879,
     "text": "the Earth's surface, which is constantly moving, the moon is completely still, frozen in time",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 130.879,
     "end": 137.36,
     "text": "to create a perfectly preserved record of what happened at the birth of the solar system.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 137.36,
     "end": 144.56,
     "text": "Here's astronomer Dr. Becky Smithhurst explaining more to BBC Radio 4 programme Inside Science.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 144.56,
     "end": 150.76,
     "text": "Whereas on the moon, it's just this inert rock. There's no atmosphere. So every single",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 150.76,
     "end": 155.56,
     "text": "thing that's happened to the moon in its four and a half billion years worth of history",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 155.56,
     "end": 162.84,
     "text": "is still recorded there on it. So if anyone's ever seen an image of the far side of the moon,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 162.84,
     "end": 169.36,
     "text": "the side of the moon that we cannot see from Earth is incredibly pop-up. There are",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 169.36,
     "end": 174.56,
     "text": "craters all over that thing. And so this is a really big deal when we're thinking about",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 174.56,
     "end": 180.599,
     "text": "what happened to the early Earth as well, because we think all of the Earth's water came",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 180.599,
     "end": 184.96,
     "text": "from impacts with comets and asteroids in the very early days of the solar system.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 184.96,
     "end": 191.039,
-    "text": "The rock which makes up the moon is inert. It doesn't move. It's also full of craters,",
-    "speaker": null
+    "text": "The rock which makes up the Moon is inert – it doesn’t move. It’s also full of craters",
+    "speaker": "inertcraters pockmarked"
   },
   {
+    "order": 32,
     "start": 191.039,
     "end": 196.079,
     "text": "which holes in the ground caused by something hitting it. The moon has so many of these",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 196.079,
     "end": 202.68,
     "text": "craters, it's described as pockmarked, having a surface that's covered in small marks and scars.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 202.68,
     "end": 207.639,
     "text": "These craters play an important part in the story. Because the moon's surface does not",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 207.639,
     "end": 214.079,
     "text": "change, finding water there would explain a lot about how water and therefore life started",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 214.079,
     "end": 220.319,
     "text": "on Earth. That's why Dr. Smithhurst calls the moon mission a big deal, meaning important",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 220.319,
     "end": 226.359,
     "text": "or significant. That's right. Astronomers know that comets are full of ice and think",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 226.359,
     "end": 231.799,
     "text": "comets brought water to Earth when they crashed into it. Evidence of those crashes has been",
-    "speaker": null
+    "speaker": "Georgie"
   },
   {
+    "order": 39,
     "start": 231.799,
     "end": 237.68,
     "text": "erased by the constantly moving surfaces on Earth, but not on the moon. So comparing",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 237.68,
     "end": 243.079,
     "text": "water from the moon with water on Earth could provide scientists with vital information",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 243.079,
     "end": 247.56,
     "text": "as Dr. Smithhurst explained to BBC Radio 4's Inside Science.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 248,
     "end": 252.52,
     "text": "Yeah, so they'll be looking essentially to see if it has the same characteristics as water",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 252.52,
     "end": 257.199,
     "text": "here on Earth. And then we can sort of trace that back from sort of the crater history as",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 257.199,
     "end": 261.639,
     "text": "well to working out what actually happened, how long has it been there for as well? Also",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 261.639,
     "end": 265.56,
     "text": "various other minerals that might be there, these very heavy minerals that we know come",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 265.56,
     "end": 269.92,
     "text": "from comets and asteroids. Again, that'll be this sort of smoking gun to be like, yes,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 269.92,
     "end": 273.84,
     "text": "that's where this water came from. And it's likely that Earth's water came from there as",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 273.84,
     "end": 274.84,
     "text": "well.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 274.839,
     "end": 279.719,
-    "text": "Scientists can trace the existence of water on the moon back to find out what happened",
-    "speaker": null
+    "text": "Scientists can trace the existence of water on the Moon back to find out what happened",
+    "speaker": "trace backtrace back,"
   },
   {
+    "order": 50,
     "start": 279.719,
     "end": 285.399,
     "text": "on Earth. If you trace something back, you discover the causes of something by investigating",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 285.399,
     "end": 286.919,
     "text": "how it developed.",
-    "speaker": null
+    "speaker": "big deal"
   },
   {
+    "order": 52,
     "start": 286.919,
     "end": 291.759,
     "text": "For this reason, Dr. Smithhurst says finding water on the moon would be finding a smoking",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 291.759,
     "end": 297.519,
     "text": "gun, a modern idiom meaning indisputable evidence or proof. We've learned a lot about",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 297.519,
     "end": 302,
     "text": "the moon, but we still don't know the answer to your question, Neil, who was the third",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 302,
     "end": 308.48,
     "text": "Apollo astronaut on that famous first landing in 1969? I said it was Michael Collins, which",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 308.48,
     "end": 315.04,
     "text": "was the correct answer. Michael Collins never set foot on the moon himself, but afterwards",
-    "speaker": null
+    "speaker": "inert"
   },
   {
+    "order": 57,
     "start": 315.04,
     "end": 320.439,
     "text": "said the experience of looking back at Earth from the Apollo spacecraft changed his life",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 320.439,
     "end": 321.439,
     "text": "forever.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 321.439,
     "end": 326.72,
     "text": "Okay, let's recap the vocabulary we've learned from our trip to the moon, starting with",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 326.72,
     "end": 334.16,
-    "text": "A crater is a very large hole in the ground.",
-    "speaker": "crater"
+    "text": "inert, not moving or unable to move. A crater is a very large hole in the ground.",
+    "speaker": null
   },
   {
+    "order": 61,
     "start": 334.16,
     "end": 340.32,
-    "text": "Pockmarked means marked by small holes and scars.",
-    "speaker": "Pockmarked"
+    "text": "Pockmarked means marked by small holes and scars. If you say something is a big deal, it's",
+    "speaker": null
   },
   {
+    "order": 62,
     "start": 340.32,
     "end": 346.16,
     "text": "important or significant in some way. To trace something back means to discover its causes",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 346.16,
     "end": 348.4,
     "text": "by examining how it developed.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 348.4,
     "end": 354.28,
     "text": "And finally, the idiom as smoking gun refers to indisputable evidence or conclusive proof",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 354.279,
     "end": 360.199,
     "text": "of something. Once again, our six minutes are up. Join us next time for more scintillating",
-    "speaker": null
+    "speaker": "a smoking gun"
   },
   {
+    "order": 66,
     "start": 360.199,
     "end": 365.399,
     "text": "science and useful vocabulary here at six minute English. Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 365.399,
     "end": 366.399,
-    "text": "Goodbye!",
-    "speaker": "Neil"
+    "text": "Goodbye.",
+    "speaker": null
   }
 ]

@@ -1,947 +1,1105 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6-Mate English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.88,
     "text": "From BBC Learning English",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 10.88,
     "end": 13.12,
-    "text": "Hello and welcome to 6 Minute English,",
-    "speaker": null
+    "text": "Hello and welcome to 6 Minute English–",
+    "speaker": "Dan"
   },
   {
+    "order": 5,
     "start": 13.12,
     "end": 15.04,
     "text": "the show that brings you an interesting topic,",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 15.04,
     "end": 17.28,
     "text": "authentic listening practice and vocabulary",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 17.28,
     "end": 18.96,
     "text": "to help you improve your language skills.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 18.96,
     "end": 20.8,
     "text": "I'm Dan and I'm Neil.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 20.8,
     "end": 23.359,
     "text": "In this program, we'll be discussing romance,",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 23.359,
     "end": 27.44,
     "text": "as well as teaching you six new items of vocabulary, of course.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 27.6,
     "end": 30.64,
     "text": "Now, Dan, why are you looking so upset?",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 30.64,
     "end": 32.16,
-    "text": "Oh, Neil, it's all over.",
-    "speaker": null
+    "text": "Oh Neil, it's all over! ",
+    "speaker": "Dan"
   },
   {
+    "order": 13,
     "start": 32.16,
     "end": 34.32,
     "text": "She broke up with me on Valentine's Day.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 34.32,
     "end": 36.32,
     "text": "She said I wasn't the one.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 36.32,
     "end": 37.679,
     "text": "Cheer up, Dan.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 37.679,
     "end": 39.92,
-    "text": "Cheer up Dan, cheer up. It's not your fault.",
-    "speaker": "Neil"
+    "text": "Cheer up. It's not your fault.",
+    "speaker": null
   },
   {
+    "order": 17,
     "start": 39.92,
     "end": 40.64,
     "text": "No?",
     "speaker": "Dan"
   },
   {
+    "order": 18,
     "start": 40.64,
     "end": 42.88,
     "text": "You can blame romanticism.",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 19,
     "start": 42.88,
     "end": 43.68,
-    "text": "Romanticism? What's that?",
+    "text": "Romanticism?",
     "speaker": "Dan"
   },
   {
+    "order": 20,
     "start": 44.48,
     "end": 45.439,
     "text": "Well, what's that?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 45.439,
     "end": 49.52,
-    "text": "Romanticism was a movement that started in Europe and spread worldwide. It influenced literature, art, poetry, music and the way people behaved.",
-    "speaker": "movement"
+    "text": "Romanticism was a movement that started in Europe and spread worldwide.",
+    "speaker": null
   },
   {
+    "order": 22,
     "start": 49.52,
     "end": 52.4,
     "text": "It influenced literature, art, poetry, music,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 52.4,
     "end": 54.079,
     "text": "and the way people behaved.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 54.079,
     "end": 56.56,
-    "text": "A movement meaning 'a group of people working together to support an idea'?",
+    "text": "A movement meaning 'a group of people working together",
     "speaker": "movement"
   },
   {
+    "order": 25,
     "start": 56.56,
     "end": 57.679,
     "text": "to support an idea.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 26,
     "start": 57.679,
     "end": 60.56,
     "text": "Yes, and that brings us on to this week's question.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 61.28,
     "end": 64,
     "text": "When was the start of the romantic period?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 64,
     "end": 66.96,
     "text": "Was it A, the beginning of the 18th century?",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 29,
     "start": 66.96,
     "end": 69.359,
     "text": "B, the middle of the 18th century,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 69.359,
     "end": 71.92,
     "text": "or C, the end of the 18th century.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 71.92,
     "end": 73.52,
     "text": "Well, I honestly have no idea,",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 32,
     "start": 73.52,
     "end": 75.359,
     "text": "so I'm going to go smack in the middle,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 75.359,
     "end": 77.359,
-    "text": "And I said: the middle of the 18th century.",
+    "text": " the middle of the 18th century",
     "speaker": "Dan"
   },
   {
+    "order": 34,
     "start": 77.359,
     "end": 79.12,
     "text": "And we'll find out later on in the show",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 79.12,
     "end": 80.8,
     "text": "if you got the question right.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 80.8,
     "end": 83.439,
     "text": "Now, going back to your ex-girlfriend,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 83.439,
     "end": 85.439,
     "text": "let me take a wild guess.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 85.439,
     "end": 86.879,
     "text": "Love at first sight, was it?",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 86.879,
     "end": 87.84,
-    "text": "Well, yes.",
-    "speaker": null
-  },
-  {
-    "start": 87.84,
-    "end": 88.64,
-    "text": "Well… yes. What's your point?",
+    "text": "Well… yes.",
     "speaker": "Dan"
   },
   {
+    "order": 40,
+    "start": 87.84,
+    "end": 88.64,
+    "text": "What's your point?",
+    "speaker": null
+  },
+  {
+    "order": 41,
     "start": 88.64,
     "end": 90.56,
     "text": "Well, it's not your fault, Dan.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 90.56,
     "end": 93.12,
     "text": "The idea is romantic, and by that,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 93.12,
     "end": 96.159,
     "text": "I mean it originated from the romantic era.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 96.159,
     "end": 98.159,
     "text": "It was part of the zeitgeist,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 98.159,
     "end": 100.959,
     "text": "and many of these ideas still continue today.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 100.959,
     "end": 101.84,
-    "text": "zeitgeist.",
-    "speaker": null
+    "text": "Zeitgeist ",
+    "speaker": "Zeitgeist"
   },
   {
+    "order": 47,
     "start": 101.84,
     "end": 103.2,
     "text": "The word comes from German,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 103.2,
     "end": 105.84,
-    "text": "Zeitgeist - the word comes from German and literally means 'the spirit of the time'.",
-    "speaker": "Zeitgeist"
+    "text": "and literally means the spirit of the time.",
+    "speaker": null
   },
   {
+    "order": 49,
     "start": 105.84,
     "end": 108.319,
     "text": "A lot of what we believe about love today,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 108.319,
     "end": 112.4,
     "text": "for example, the idea that two people will live happily ever after,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 112.4,
     "end": 114.719,
     "text": "comes from the romantic period.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 114.719,
     "end": 116.4,
-    "text": "But, everyone loves a bit of romance!",
+    "text": "But, everyone loves a bit of romance",
     "speaker": "Dan"
   },
   {
+    "order": 53,
     "start": 116.4,
     "end": 117.359,
     "text": "Well, that's true.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 117.359,
     "end": 119.92,
     "text": "However, it's one thing to enjoy romance,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 119.92,
     "end": 122.799,
     "text": "but it can be dangerous to judge your relationship",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 122.799,
     "end": 124.56,
     "text": "against romantic ideals.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 124.56,
     "end": 125.439,
-    "text": "True.",
-    "speaker": null
+    "text": "True,",
+    "speaker": "benchmark"
   },
   {
+    "order": 58,
     "start": 125.439,
     "end": 127.359,
     "text": "It might not be a realistic benchmark,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 127.359,
     "end": 128.879,
     "text": "and by that, I mean a standard",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 128.879,
     "end": 130.479,
     "text": "from which other things are judged.",
-    "speaker": null
+    "speaker": "movementmovementzeitgeist zeitgeist"
   },
   {
+    "order": 61,
     "start": 130.479,
     "end": 132.96,
     "text": "So we grow up hearing these romantic stories,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 132.96,
     "end": 134.879,
     "text": "which leads us to develop an idea",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 134.879,
     "end": 136.879,
     "text": "of what a relationship is meant to be,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 136.879,
     "end": 139.439,
     "text": "and then we get disappointed by the real thing.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 139.439,
     "end": 141.599,
     "text": "Well, to put it bluntly, yes.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 141.599,
     "end": 143.599,
     "text": "The romantic ideal is just that.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 143.599,
     "end": 147.439,
     "text": "An idealized version, or perfect version, of a relationship.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 147.439,
     "end": 149.759,
     "text": "But it often leaves out the nitty-gritty,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 149.759,
     "end": 151.519,
     "text": "meaning practical details.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 151.519,
     "end": 154,
     "text": "Details like work, stress, children,",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 154,
     "end": 157.12,
     "text": "all of the things that we have to deal with in everyday life.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 157.12,
     "end": 159.439,
     "text": "Not to mention the fact that everyone is flawed",
-    "speaker": null
+    "speaker": "flawed"
   },
   {
+    "order": 73,
     "start": 159.439,
     "end": 161.359,
     "text": "or imperfect in their own way.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 161.359,
     "end": 163.84,
     "text": "That means we get angry or moody or upset",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 163.84,
     "end": 165.12,
     "text": "for all sorts of reasons.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 165.12,
     "end": 166.159,
     "text": "Exactly.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 166.159,
     "end": 169.039,
     "text": "Many popular love stories end at the point",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 169.039,
     "end": 171.599,
     "text": "where the characters get together or marry.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 171.68,
     "end": 175.359,
     "text": "But very few show us how to keep that someone special",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 175.359,
     "end": 177.359,
     "text": "over a long period of time.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 177.359,
     "end": 179.039,
     "text": "A relationship is hard work.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 179.039,
     "end": 181.919,
     "text": "And if the relationship you are in isn't as perfect",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 83,
     "start": 181.919,
     "end": 183.599,
     "text": "as the story said it should be,",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 183.599,
     "end": 185.599,
     "text": "then maybe you're with the wrong person,",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 185.599,
     "end": 189.359,
     "text": "which could explain why so many marriages end in divorce.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 189.359,
     "end": 192,
     "text": "I wonder if that's true for other people's relationships.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 192,
     "end": 194.799,
     "text": "Fortunately, I found some people with partners and asked them,",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 194.799,
     "end": 197.599,
     "text": "Is your partner 100% perfect for you?",
     "speaker": "Vox Pops"
   },
   {
+    "order": 89,
     "start": 197.599,
     "end": 198.639,
     "text": "No.",
     "speaker": "Vox Pops"
   },
   {
+    "order": 90,
     "start": 198.639,
     "end": 199.439,
     "text": "No.",
-    "speaker": null
-  },
-  {
-    "start": 199.439,
-    "end": 202.639,
-    "text": "Not 100%.",
-    "speaker": "Vox Pops"
-  },
-  {
-    "start": 202.639,
-    "end": 204.479,
-    "text": "No, I don't think that's true.",
-    "speaker": "Vox Pops"
-  },
-  {
-    "start": 204.479,
-    "end": 206.479,
-    "text": "Does that mean true love doesn't exist?",
     "speaker": "Dan"
   },
   {
+    "order": 91,
+    "start": 199.439,
+    "end": 202.639,
+    "text": "Hmm, not 100%.",
+    "speaker": null
+  },
+  {
+    "order": 92,
+    "start": 202.639,
+    "end": 204.479,
+    "text": "No, I don't think that's true.",
+    "speaker": null
+  },
+  {
+    "order": 93,
+    "start": 204.479,
+    "end": 206.479,
+    "text": "Does that mean true love doesn't exist?",
+    "speaker": null
+  },
+  {
+    "order": 94,
     "start": 206.479,
     "end": 208.959,
     "text": "No, it just means that all relationships",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 208.959,
     "end": 212.399,
     "text": "must be worked on and that perfection is impossible.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 212.399,
     "end": 214.879,
     "text": "But we should never give up trying.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 214.879,
     "end": 216.959,
     "text": "You're right. She wasn't the one for me.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 216.959,
     "end": 218.719,
     "text": "I need to find my next Juliet.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 218.719,
     "end": 220.159,
     "text": "She'll be just perfect.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 220.159,
     "end": 221.759,
     "text": "Oh, Dan, you haven't learned anything.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 221.759,
     "end": 223.519,
     "text": "You're just a hopeless romantic.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 223.519,
     "end": 225.759,
     "text": "Now, can you remember the quiz question?",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 225.759,
     "end": 229.599,
     "text": "I asked you when the romantic period originated.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 229.599,
     "end": 232.479,
     "text": "Was it A, the beginning of the 18th century,",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 232.479,
     "end": 234.399,
     "text": "B, the middle of the 18th century,",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 234.399,
     "end": 236.399,
     "text": "or C, the end of the 18th century?",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 236.399,
     "end": 238.239,
     "text": "And I said the middle of the 18th century.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 238.959,
     "end": 243.12,
-    "text": "Wrong I'm afraid! It was towards the end of the 18th century.",
-    "speaker": "Neil"
+    "text": "Wrong, I'm afraid it was towards the end of the 18th century.",
+    "speaker": null
   },
   {
+    "order": 109,
     "start": 243.12,
     "end": 245.439,
     "text": "I have not been good in my life at the moment.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 245.439,
     "end": 247.84,
-    "text": "Shall we take a look at the vocabulary too?",
-    "speaker": "Neil"
+    "text": "Shall we take a look at the vocabulary, too?",
+    "speaker": null
   },
   {
+    "order": 111,
     "start": 247.84,
     "end": 250.879,
     "text": "Sure. The first word we had was movement.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 250.879,
     "end": 254.399,
     "text": "A movement is a group of people working together to support an idea.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 254.48,
     "end": 256.56,
     "text": "Can you think of any modern day movements, Neil?",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 256.56,
     "end": 260.16,
     "text": "The environmental movement is very strong and popular at the moment,",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 260.16,
     "end": 264.079,
     "text": "as is the movement for equality, gender equality, for example.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 264.079,
     "end": 266.639,
     "text": "And the next word we had was zeitgeist.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 266.639,
     "end": 270.079,
     "text": "Now, a zeitgeist literally means the spirit of a particular time.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 270.079,
     "end": 272.879,
     "text": "What would you say the zeitgeist is these days, Dad?",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 272.879,
     "end": 275.6,
     "text": "Well, I think there's a focus on personal freedom.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 275.6,
     "end": 277.519,
     "text": "There's environmental concern.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 277.519,
     "end": 280.48,
     "text": "And of course, let's not forget the rise of social media.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 280.48,
     "end": 282.319,
     "text": "The next word we had was benchmark.",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 282.319,
     "end": 285.599,
     "text": "A benchmark is a standard from which other things are judged.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 285.599,
     "end": 288.8,
     "text": "If you were looking for a new house, Neil, what would your benchmark be?",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 288.8,
     "end": 294,
-    "text": "Well, my current house has a garden and it has somewhere I can park my car.",
-    "speaker": null
+    "text": "Well, my current house has a garden and it has somewhere I can park my car,",
+    "speaker": "benchmarkidealised idealisedidealised"
   },
   {
+    "order": 126,
     "start": 294,
     "end": 296.48,
     "text": "So that would be the benchmark for a new house.",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 296.48,
     "end": 298.959,
     "text": "It would have to have that at least end more.",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 298.959,
     "end": 300.24,
     "text": "Next we have idealized.",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 300.24,
     "end": 304,
     "text": "An idealized thing is an often imagined perfect version of something.",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 304,
     "end": 308.159,
     "text": "Now, what three things would exist in an idealized world for you, then, Dad?",
     "speaker": null
   },
   {
+    "order": 131,
     "start": 308.159,
     "end": 311.759,
     "text": "I would say personal freedom, religious tolerance,",
     "speaker": null
   },
   {
+    "order": 132,
     "start": 311.759,
     "end": 314.639,
     "text": "and free ice cream for everybody on a daily basis.",
     "speaker": null
   },
   {
+    "order": 133,
     "start": 314.639,
     "end": 315.279,
-    "text": "Brilliant! Ok!",
+    "text": "Brilliant!",
     "speaker": "Neil"
   },
   {
+    "order": 134,
     "start": 315.279,
     "end": 316.159,
     "text": "OK.",
-    "speaker": null
+    "speaker": "flawed"
   },
   {
+    "order": 135,
     "start": 316.159,
     "end": 317.759,
     "text": "Next we have nitty gritty.",
     "speaker": null
   },
   {
+    "order": 136,
     "start": 317.759,
     "end": 322.959,
     "text": "The nitty gritty is the important or practical detail involved in a situation or thing.",
     "speaker": null
   },
   {
+    "order": 137,
     "start": 322.959,
     "end": 325.279,
     "text": "Now, getting married is supposed to be a wonderful thing,",
     "speaker": null
   },
   {
+    "order": 138,
     "start": 325.279,
     "end": 328.24,
     "text": "but what about the nitty gritty of the ceremony, Neil?",
     "speaker": null
   },
   {
+    "order": 139,
     "start": 328.24,
     "end": 329.599,
     "text": "Give us a few examples.",
     "speaker": null
   },
   {
+    "order": 140,
     "start": 329.599,
     "end": 333.92,
     "text": "Well, you have to decide who's going to sit next to who, who to invite.",
     "speaker": null
   },
   {
+    "order": 141,
     "start": 333.92,
     "end": 334.959,
     "text": "The food.",
     "speaker": null
   },
   {
+    "order": 142,
     "start": 334.959,
     "end": 336.079,
     "text": "Some people don't like this.",
     "speaker": null
   },
   {
+    "order": 143,
     "start": 336.079,
     "end": 337.279,
     "text": "Some people don't like that.",
     "speaker": null
   },
   {
+    "order": 144,
     "start": 337.279,
     "end": 339.36,
     "text": "You've got to get the flowers right.",
     "speaker": null
   },
   {
+    "order": 145,
     "start": 339.36,
     "end": 340.959,
     "text": "Oh, there's so much to think about.",
     "speaker": null
   },
   {
+    "order": 146,
     "start": 340.959,
     "end": 342.959,
     "text": "Make sure you think that marriage might be flawed.",
     "speaker": null
   },
   {
+    "order": 147,
     "start": 342.959,
     "end": 346.399,
     "text": "And flawed is a thing which is imperfect in some way.",
     "speaker": null
   },
   {
+    "order": 148,
     "start": 346.399,
     "end": 349.759,
     "text": "London is a great city, but how do you feel about it, Dad?",
     "speaker": null
   },
   {
+    "order": 149,
     "start": 349.759,
     "end": 353.599,
     "text": "Well, I think it's flawed in the way that the public transport could use an upgrade.",
     "speaker": null
   },
   {
+    "order": 150,
     "start": 353.599,
     "end": 355.68,
     "text": "There's never enough space on the carriages.",
     "speaker": null
   },
   {
+    "order": 151,
     "start": 355.68,
     "end": 357.759,
     "text": "Well, that's the end of today's six minute English.",
     "speaker": null
   },
   {
+    "order": 152,
     "start": 357.759,
     "end": 359.199,
     "text": "Please join us again soon.",
     "speaker": null
   },
   {
+    "order": 153,
     "start": 359.199,
     "end": 360.56,
     "text": "And we're on social media too,",
     "speaker": null
   },
   {
+    "order": 154,
     "start": 360.56,
     "end": 365.439,
     "text": "so make sure to visit our Facebook, Twitter, Instagram, and YouTube pages.",
     "speaker": null
   },
   {
+    "order": 155,
     "start": 365.439,
     "end": 366.24,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 156,
     "start": 366.24,
     "end": 367.039,
-    "text": "Bye!",
-    "speaker": "Both"
+    "text": "Bye-bye.",
+    "speaker": null
   },
   {
+    "order": 157,
     "start": 367.04,
     "end": 371.52,
     "text": "Six-minute English from BBCLearningEnglish.com.",

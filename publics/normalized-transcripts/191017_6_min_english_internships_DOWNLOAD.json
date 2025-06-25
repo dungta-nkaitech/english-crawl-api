@@ -1,755 +1,881 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 13.519,
     "end": 16.32,
     "text": "Hello. This is 6 Minute English. I'm Sam.",
     "speaker": "Sam"
   },
   {
+    "order": 3,
     "start": 16.32,
     "end": 17.6,
     "text": "And I'm Rob.",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 4,
     "start": 17.6,
     "end": 22.24,
     "text": "Before you got your first job, Rob, did you do any work experience?",
     "speaker": "Sam"
   },
   {
+    "order": 5,
     "start": 22.8,
     "end": 26.16,
     "text": "I think I've done a day or two at some companies,",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 26.16,
     "end": 29.039,
     "text": "just shadowing, watching how they did things,",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 29.039,
     "end": 31.039,
     "text": "but nothing much more than that.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 31.039,
     "end": 34.879,
     "text": "Hmm, some companies offer students or recent graduates",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 34.879,
     "end": 36.96,
     "text": "what they call internships.",
-    "speaker": null
+    "speaker": "internships"
   },
   {
+    "order": 10,
     "start": 37.519,
     "end": 40.24,
     "text": "These are extended periods of work experience",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 40.24,
     "end": 43.039,
     "text": "where someone can be working full-time",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 43.039,
     "end": 45.12,
     "text": "without an actual contract.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 45.12,
     "end": 47.84,
     "text": "And in many cases, without even being paid.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 47.84,
     "end": 50.56,
     "text": "Ah, yes, this is a bit of a problem, isn't it?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 50.56,
     "end": 54.56,
     "text": "Some companies are being accused of using students and graduates",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 54.56,
     "end": 56.399,
     "text": "as cheap or free labour.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 56.399,
     "end": 59.6,
     "text": "Yes, although the counter-argument is that internships",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 59.6,
     "end": 62.64,
     "text": "are valuable experience for people who need it",
-    "speaker": null
+    "speaker": "internships"
   },
   {
+    "order": 19,
     "start": 62.64,
     "end": 65.12,
     "text": "before they can get a real job.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 65.519,
     "end": 67.84,
     "text": "Well, we'll look at this topic a little more",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 67.84,
     "end": 69.84,
     "text": "after this week's quiz question.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 69.84,
     "end": 72.719,
     "text": "On the topic of business and companies,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 72.719,
     "end": 76.56,
     "text": "which is the oldest stock exchange in the world?",
-    "speaker": null
+    "speaker": "internshipsestablishedwell-connectedopendoors"
   },
   {
+    "order": 24,
     "start": 76.56,
     "end": 83.68,
     "text": "Is it A, Bombay, B, New York, or C, Amsterdam?",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 83.68,
     "end": 84.719,
-    "text": "What do you think, Rob?",
+    "text": " What do you think, Rob",
     "speaker": "internships"
   },
   {
+    "order": 26,
     "start": 84.799,
     "end": 88.319,
     "text": "Ah, tricky, because I was expecting London on that list.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 88.319,
     "end": 91.359,
     "text": "I'm going to take a guess then at Amsterdam.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 28,
     "start": 91.359,
     "end": 94.56,
     "text": "Okay, well, I will reveal the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 95.2,
     "end": 99.28,
     "text": "James Turner is the chief executive of an education charity.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 99.84,
     "end": 103.599,
     "text": "Recently, he took part in a discussion on the BBC Radio programme",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 103.599,
     "end": 106.719,
     "text": "You and Yours on the topic of internships.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 106.719,
     "end": 110.4,
     "text": "What does he think is a big issue with unpaid internships?",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 111.12,
     "end": 114.079,
     "text": "In many careers, we're now seeing that it's almost an expectation",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 114.079,
     "end": 115.92,
     "text": "that a young person doesn't internship",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 115.92,
     "end": 118.64,
     "text": "before they stand a chance of getting that first full-time job",
-    "speaker": null
+    "speaker": "internshipsocial mobilityrules out"
   },
   {
+    "order": 36,
     "start": 118.64,
     "end": 119.759,
     "text": "in that profession.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 119.759,
     "end": 123.359,
     "text": "And the issue with that from a social mobility point of view",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 123.359,
     "end": 126.56,
     "text": "is that substantial proportion of those internships are unpaid",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 126.56,
     "end": 130.8,
     "text": "and that effectively rules out those who can't afford to work for free.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 130.8,
     "end": 134.159,
     "text": "So what is the problem with unpaid internships, Rob?",
-    "speaker": "internships"
-  },
-  {
-    "start": 134.159,
-    "end": 136.639,
-    "text": "Well, if you can't afford to work for free,",
     "speaker": null
   },
   {
+    "order": 41,
+    "start": 134.159,
+    "end": 136.639,
+    "text": "Well, if you can’t afford to work for free,",
+    "speaker": "internshiprules outinternship"
+  },
+  {
+    "order": 42,
     "start": 136.639,
     "end": 140.24,
     "text": "it makes it very difficult to do an internship,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 140.24,
     "end": 142.879,
     "text": "particularly in expensive cities like London.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 143.439,
     "end": 146.479,
     "text": "This excludes or rules out a lot of people",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 146.479,
     "end": 148.319,
     "text": "from the benefits of an internship.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 148.879,
     "end": 151.359,
     "text": "This is bad for social mobility,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 151.359,
     "end": 154.4,
     "text": "which is the ability of people to move to higher,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 154.4,
     "end": 156.4,
     "text": "better paid levels in society.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 157.039,
     "end": 162.159,
     "text": "So the poorer you are, the more difficult it can be to get a good job,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 162.159,
     "end": 163.599,
     "text": "even if you have the ability.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 164.4,
     "end": 166.8,
-    "text": "Could you afford to work for free here in London, Sam?",
+    "text": "Could you afford to work for free here in London, Sam",
     "speaker": "Rob"
   },
   {
+    "order": 52,
     "start": 166.8,
     "end": 170.639,
     "text": "No, I can barely afford to live in London as it is.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 170.719,
     "end": 173.679,
     "text": "So the idea of doing an unpaid internship",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 173.679,
     "end": 175.519,
     "text": "would not appeal to me at all.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 176.159,
     "end": 178.639,
     "text": "Turner goes on to talk about other issues",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 178.639,
     "end": 181.439,
     "text": "that are also problematic in internship programmes.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 182.319,
     "end": 185.119,
     "text": "Too often internships are open to those",
-    "speaker": null
+    "speaker": "internshipsestablishedrules outwell-connectedopendoors"
   },
   {
+    "order": 58,
     "start": 185.119,
     "end": 187.679,
     "text": "with established connections in the professions.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 187.679,
     "end": 189.679,
     "text": "And again, that rules out those young people",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 189.679,
     "end": 192.879,
     "text": "who don't have the well-connected families or friends",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 192.879,
     "end": 194.319,
     "text": "who can open those doors for them.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 195.199,
     "end": 196.719,
     "text": "So what are these other issues?",
-    "speaker": "Sam"
-  },
-  {
-    "start": 197.279,
-    "end": 200.239,
-    "text": "In many cases, he says that internship opportunities",
     "speaker": null
   },
   {
+    "order": 63,
+    "start": 197.279,
+    "end": 200.239,
+    "text": "In many cases he says that internship opportunities ",
+    "speaker": "established connections"
+  },
+  {
+    "order": 64,
     "start": 200.4,
     "end": 204.24,
     "text": "are only available to those with established connections",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 204.24,
     "end": 206.24,
     "text": "to the company or industry.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 206.24,
     "end": 209.6,
     "text": "This means they have some pre-existing link with the company,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 209.6,
     "end": 212.8,
     "text": "for example, through family or friends families.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 212.8,
     "end": 215.84,
     "text": "Yes, it's a lot easier if your family is well-connected.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 216.4,
     "end": 220.08,
     "text": "If it has a lot of contacts and links to a particular company",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 220.08,
     "end": 222.64,
     "text": "or important people in that company.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 222.879,
     "end": 226.96,
-    "text": "These links make it easier to open doors to the opportunity. To open doors is an expression that means to get access to.",
+    "text": "These links make it easier to open doors to the opportunity.",
     "speaker": "open doorsopen doors"
   },
   {
+    "order": 72,
     "start": 227.04,
     "end": 230.64,
     "text": "To open doors is an expression that means to get access to.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 231.28,
     "end": 234.32,
     "text": "So it seems that to be able to do an unpaid internship,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 234.32,
     "end": 236.48,
     "text": "you need to have a fair bit of money",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 236.48,
     "end": 238.96,
     "text": "and to get an internship in the first place,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 238.96,
     "end": 241.76,
     "text": "you may need to have a previous link to the company",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 241.76,
     "end": 243.84,
     "text": "through a family connection, for example.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 244.48,
     "end": 248.24,
     "text": "So the system would seem to be difficult for poorer families",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 248.24,
     "end": 250.319,
     "text": "and make it more difficult for students",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 250.319,
     "end": 252.879,
     "text": "without those resources or connections",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 252.879,
     "end": 254.64,
     "text": "to get on the job ladder.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 254.64,
     "end": 256.079,
     "text": "Here's James Turner again.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 256.56,
     "end": 259.439,
     "text": "Too often internships are open to those",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 259.439,
     "end": 261.919,
     "text": "with established connections in the professions.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 261.919,
     "end": 263.919,
     "text": "And again, that rules out those young people",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 263.919,
     "end": 267.12,
     "text": "who don't have the well-connected families or friends",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 267.12,
     "end": 268.56,
     "text": "who can open those doors for them.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 269.439,
     "end": 272.479,
     "text": "Right, time now to answer this week's question.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 272.479,
     "end": 275.519,
     "text": "Which is the oldest stock exchange in the world?",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 275.519,
     "end": 280.799,
     "text": "Is it A, Bombay, B, New York or C, Amsterdam?",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 280.799,
     "end": 282.24,
-    "text": "Rob, what did you say?",
+    "text": " Rob, what did you say",
     "speaker": "Sam"
   },
   {
+    "order": 92,
     "start": 282.24,
     "end": 284.079,
     "text": "I went for Amsterdam.",
     "speaker": "Rob"
   },
   {
+    "order": 93,
     "start": 284.479,
     "end": 286.399,
     "text": "Well done, that's correct.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 286.399,
     "end": 289.12,
     "text": "Congratulations to everyone who got that right.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 289.12,
     "end": 292.479,
     "text": "An extra bonus point, if you know the date, Rob.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 293.439,
     "end": 295.279,
     "text": "Having a clue, 1750?",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 295.279,
     "end": 298.8,
-    "text": "Actually it’s a lot earlier, 1602.",
-    "speaker": "Sam"
-  },
-  {
-    "start": 298.8,
-    "end": 300.799,
-    "text": "Wow, that’s much earlier than I thought.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 300.799,
-    "end": 304.079,
-    "text": "Right, let's have a look again at today's vocabulary.",
+    "text": "Hmm, actually it's a lot earlier, 1602.",
     "speaker": null
   },
   {
+    "order": 98,
+    "start": 298.8,
+    "end": 300.799,
+    "text": "Wow, that's much earlier than I thought.",
+    "speaker": "Sam"
+  },
+  {
+    "order": 99,
+    "start": 300.799,
+    "end": 304.079,
+    "text": "Right, let’s have a look again at today’s vocabulary.",
+    "speaker": "internships"
+  },
+  {
+    "order": 100,
     "start": 304.639,
     "end": 306.799,
     "text": "We've been talking about internships,",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 306.799,
     "end": 309.12,
     "text": "which are periods of work at companies as a way",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 309.12,
     "end": 311.68,
     "text": "for students or new graduates to get experience",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 311.68,
     "end": 313.519,
     "text": "in a particular field.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 313.599,
     "end": 317.919,
     "text": "If they're unpaid, it can make social mobility very difficult.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 317.919,
     "end": 321.439,
     "text": "This is the movement from a lower social level to a higher one,",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 321.439,
     "end": 323.68,
     "text": "and it's difficult as poorer candidates",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 323.68,
     "end": 325.919,
     "text": "can't afford to work for free.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 325.919,
     "end": 328.639,
-    "text": "Yes, the cost rules them out.",
-    "speaker": null
-  },
-  {
-    "start": 328.639,
-    "end": 331.359,
-    "text": "Yes, the cost rules them out, it excludes them from the opportunity.",
+    "text": "Yes, the cost rules them out,",
     "speaker": "rules  out"
   },
   {
-    "start": 331.359,
-    "end": 335.919,
-    "text": "What helps is if you have established connections with a company. This refers to previous or pre-existing links with a company.",
-    "speaker": "established"
+    "order": 109,
+    "start": 328.639,
+    "end": 331.359,
+    "text": "It excludes them from the opportunity.",
+    "speaker": null
   },
   {
+    "order": 110,
+    "start": 331.359,
+    "end": 335.919,
+    "text": "What helps is if you have established connections with a company.",
+    "speaker": null
+  },
+  {
+    "order": 111,
     "start": 335.919,
     "end": 340.079,
     "text": "This refers to previous or pre-existing links with a company.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 340.079,
     "end": 342.799,
     "text": "And also if your family is well connected,",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 342.8,
     "end": 345.36,
     "text": "if it has good connections, for example,",
-    "speaker": null
+    "speaker": "well-connectedopen doors"
   },
   {
+    "order": 114,
     "start": 345.36,
     "end": 349.6,
     "text": "if your father plays golf with the CEO, it can open doors.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 349.6,
     "end": 353.439,
     "text": "Or in other words, it can make it easier to get into the company.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 353.439,
     "end": 355.68,
     "text": "So, Sam, are you well connected?",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 355.68,
     "end": 357.759,
-    "text": "No, only to my smartphone!",
-    "speaker": "Sam"
+    "text": "Ah, no, only to my smartphone.",
+    "speaker": null
   },
   {
+    "order": 118,
     "start": 357.759,
     "end": 359.12,
     "text": "Ah, same here.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 359.12,
     "end": 362,
     "text": "But we still made it to BBC Learning English,",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 120,
     "start": 362,
     "end": 366.56,
     "text": "and you can find more from us online on social media and on a app.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 366.56,
     "end": 369.12,
     "text": "But for now, that's all from six minute English.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 369.12,
     "end": 370.72,
     "text": "See you again soon. Bye-bye.",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 370.72,
     "end": 371.92,
-    "text": "Bye everyone!",
-    "speaker": "Sam"
+    "text": "Bye, everyone.",
+    "speaker": null
   },
   {
+    "order": 124,
     "start": 372.879,
     "end": 374.56,
     "text": "Six minute English.",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 374.56,
     "end": 377.12,
     "text": "From BBC Learning English.",

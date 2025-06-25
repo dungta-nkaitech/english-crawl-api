@@ -1,779 +1,909 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.56,
     "text": "From BBC Learning English",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.439,
     "end": 16.24,
     "text": "Hello and welcome to 6 Minute English, I'm Neil",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 16.24,
     "end": 17.44,
     "text": "And I'm Rob.",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 17.44,
     "end": 19.679,
-    "text": "Now Rob, you like your food, don't you?",
+    "text": "Rob, you like your food, don't you?",
     "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 19.679,
     "end": 20.32,
     "text": "Oh yes.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 20.32,
     "end": 21.679,
     "text": "Yum yum food!",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 21.679,
     "end": 23.6,
-    "text": "Oh yes, yum yum, food! One of my favourite things.",
-    "speaker": "Rob"
+    "text": "One of my favourite things.",
+    "speaker": null
   },
   {
+    "order": 10,
     "start": 23.6,
     "end": 25.679,
     "text": "And what do you think of street food?",
     "speaker": "Neil"
   },
   {
+    "order": 11,
     "start": 25.679,
     "end": 27.039,
     "text": "Oh, I love street food.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 27.119,
     "end": 30.64,
     "text": "There are some great places in London where you can find delicious foods",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 30.64,
     "end": 34.799,
     "text": "from all over the world, cooked in front of you in market stalls on the street.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 35.439,
     "end": 37.119,
-    "text": "It's quite new though, isn't it?",
-    "speaker": null
-  },
-  {
-    "start": 37.119,
-    "end": 39.2,
-    "text": "It's quite new though, isn't it - not really a British tradition?",
+    "text": "It's quite new though, isn't it ",
     "speaker": "Neil"
   },
   {
-    "start": 39.2,
-    "end": 42.719,
-    "text": "I guess not, but it seems to be much more popular these days.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 42.719,
-    "end": 46.879,
-    "text": "Well, our topic today is street food, but before we tuck into that,",
+    "order": 15,
+    "start": 37.119,
+    "end": 39.2,
+    "text": "Not really a British tradition.",
     "speaker": null
   },
   {
+    "order": 16,
+    "start": 39.2,
+    "end": 42.719,
+    "text": "I guess not, but it seems to be much more popular these days.",
+    "speaker": null
+  },
+  {
+    "order": 17,
+    "start": 42.719,
+    "end": 46.879,
+    "text": "Well our topic today is street food, but before we tuck into that, ",
+    "speaker": "Neil"
+  },
+  {
+    "order": 18,
     "start": 46.879,
     "end": 48.079,
     "text": "here is today's question.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 48.719,
     "end": 52.56,
     "text": "Recently, archaeologists in Jordan discovered what they believe",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 52.56,
     "end": 54.32,
     "text": "is the oldest remains of bread.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 55.039,
     "end": 56.56,
     "text": "How old is this bread?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 57.039,
     "end": 59.359,
-    "text": "a)    18,000 years old",
-    "speaker": "Neil"
+    "text": "Is it a, 18,000 years old?",
+    "speaker": null
   },
   {
+    "order": 23,
     "start": 59.359,
     "end": 64.56,
-    "text": "b)    14,000 years old, or",
+    "text": "B, 14,000 years old or C, 5,500 years old?",
     "speaker": "Neil"
   },
   {
+    "order": 24,
     "start": 64.56,
     "end": 65.439,
     "text": "What do you think?",
     "speaker": "Neil"
   },
   {
+    "order": 25,
     "start": 65.439,
     "end": 69.519,
     "text": "Hmm, I don't know, but what I do know is I wouldn't really want to try",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 69.519,
     "end": 71.76,
     "text": "sandwich made from that bread.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 71.76,
     "end": 73.12,
     "text": "Hmm, might be a bit moldy.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 73.12,
     "end": 74,
     "text": "Yes.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 29,
     "start": 74,
     "end": 75.28,
     "text": "Anyway, I'm going to have a guess then.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 75.28,
     "end": 78.48,
-    "text": "c)    5,500 years old?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 78.48,
-    "end": 81.359,
-    "text": "Right, we will find out the answer later in the programme.",
+    "text": "I'll go for C, 5,500 years old.",
     "speaker": null
   },
   {
+    "order": 31,
+    "start": 78.48,
+    "end": 81.359,
+    "text": "Right, we will find out the answer later in the programme.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 32,
     "start": 82.159,
     "end": 85.759,
     "text": "Mark Laurie is from the Nationwide Caterer's Association.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 85.76,
     "end": 88.96,
     "text": "He's an expert in the business of street food in the UK.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 88.96,
     "end": 92.24,
     "text": "He appeared on BBC Radio 4's The Food programme",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 92.24,
     "end": 96.719,
     "text": "and was asked how the business of street food has changed in recent years.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 96.719,
     "end": 102,
     "text": "In his answer, he talks about the areas where there is most growth in street food.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 102,
     "end": 103.68,
     "text": "What are those areas?",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 103.68,
     "end": 106.24,
     "text": "It's been phenomenal the growth in street food.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 39,
     "start": 106.24,
     "end": 107.439,
     "text": "It's really taken off.",
-    "speaker": null
+    "speaker": "phenomenal"
   },
   {
+    "order": 40,
     "start": 107.439,
     "end": 110,
     "text": "It's really become quite mainstream.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 110,
     "end": 112.08,
     "text": "Part of the cultural fabric of the country, really,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 112.079,
     "end": 115.519,
     "text": "or so he's beginning to be certainly in the bigger cities",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 115.519,
     "end": 117.84,
     "text": "and increasingly in the sort of provinces, if you like.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 118.56,
     "end": 122.879,
-    "text": "So where does he say the popularity of street food is growing?",
+    "text": "So where does he say the popularity of street food is growing? ",
     "speaker": "Neil"
   },
   {
+    "order": 45,
     "start": 122.879,
     "end": 127.359,
     "text": "He says that it's in the bigger cities and also in the provinces.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 127.359,
     "end": 132.319,
-    "text": "He says that it's in the bigger cities and also in the provinces. The provinces is a word which means 'the parts of a country outside of the cities'.",
-    "speaker": "provincesprovinces"
+    "text": "The provinces is a word which means the parts of a country outside of the cities.",
+    "speaker": null
   },
   {
+    "order": 47,
     "start": 132.319,
     "end": 135.28,
     "text": "So essentially, he's saying it's getting more popular everywhere.",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 48,
     "start": 135.28,
     "end": 136.319,
     "text": "Exactly.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 136.319,
     "end": 138.8,
     "text": "In fact, he says the growth is phenomenal.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 138.8,
     "end": 142,
-    "text": "Exactly. In fact he says the growth is phenomenal. This means he thinks the growth is spectacular, really big.",
-    "speaker": "phenomenal"
+    "text": "This means he thinks the growth is spectacular, really big.",
+    "speaker": null
   },
   {
+    "order": 51,
     "start": 142,
     "end": 144.8,
     "text": "Yes, he says that it's really taken off.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 144.8,
     "end": 149.199,
     "text": "Taken off is one of those phrasal verbs that can be used in many different ways.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 149.199,
     "end": 154,
     "text": "In this sense, when something takes off, it means it becomes successful and popular.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 154,
     "end": 157.759,
     "text": "You know, street food isn't really something you associate with Britain.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 157.759,
     "end": 160,
     "text": "Perhaps it's the climate or British food.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 160,
     "end": 164.56,
     "text": "So street food is something that we're now getting used to and enjoying more.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 164.56,
     "end": 167.68,
     "text": "In fact, Mark says that it's now becoming mainstream.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 167.68,
     "end": 169.92,
     "text": "This means that it's no longer something",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 169.919,
     "end": 172.799,
     "text": "that is seen as being unusual or different.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 172.799,
     "end": 177.439,
     "text": "It's becoming an accepted part of the everyday eating experience.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 177.439,
     "end": 182.799,
-    "text": "Well, let’s listen again to Mark Laurie talking about the growth of street food in the UK.",
-    "speaker": "Neil"
+    "text": "Well, let's listen again to Mark Laurie talking about the growth of street food in the UK.",
+    "speaker": null
   },
   {
+    "order": 62,
     "start": 182.799,
     "end": 186.399,
     "text": "It's been phenomenal. The growth in street food is really taken off.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 186.399,
     "end": 189.039,
     "text": "It's really become quite mainstream.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 189.039,
     "end": 191.119,
     "text": "Part of the cultural fabric of the country, really,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 191.119,
     "end": 194.479,
     "text": "where it's beginning to be certainly in the bigger cities",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 194.479,
     "end": 196.799,
     "text": "and increasingly in the provinces, if you like.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 197.52,
     "end": 201.52,
-    "text": "Mark Laurie goes on to talk about why street food has become popular. What kind of food does he say it's not like?",
+    "text": "Mark Laurie goes on to talk about why street food has become popular.",
     "speaker": "Neil"
   },
   {
+    "order": 68,
     "start": 201.52,
     "end": 204.8,
     "text": "What kind of food does he say it's not like?",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 204.8,
     "end": 207.92,
     "text": "Yeah, it's just really captured the imagination of the public.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 207.92,
     "end": 211.92,
     "text": "It's honest food, it's authentic food, and it's people that you can trust making it.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 211.92,
     "end": 215.76,
     "text": "It's not some microwave food or whatever that you might get in your local pub.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 215.76,
     "end": 219.92,
     "text": "So street food is many things, but what isn't it?",
     "speaker": "Neil"
   },
   {
+    "order": 73,
     "start": 219.92,
     "end": 224.72,
     "text": "Well, he says that it's not like food you might get in some pubs.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 224.8,
     "end": 227.84,
     "text": "That food, he says, may be some microwave food,",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 227.84,
     "end": 230.479,
     "text": "which is food prepared in a microwave oven.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 230.479,
     "end": 233.52,
-    "text": "You know I quite like a microwave meal now and then - and I reheat my leftovers in the microwave.",
+    "text": "You know I quite like a microwave meal now and then -",
     "speaker": "microwavemicrowave"
   },
   {
+    "order": 77,
     "start": 233.52,
     "end": 236.24,
     "text": "and I reheat my leftovers in the microwave.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 236.24,
     "end": 238.96,
     "text": "But I guess if you were paying for a nice meal,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 238.96,
     "end": 241.84,
     "text": "you wouldn't expect reheated leftovers.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 241.84,
     "end": 244.96,
     "text": "I think the point he's making is that in many places,",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 244.96,
     "end": 247.759,
     "text": "the food you're served is not freshly made.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 247.759,
     "end": 251.199,
     "text": "It may be pre-prepared and finished off in a microwave.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 251.28,
     "end": 253.359,
     "text": "Street food, he says, is authentic.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 253.359,
     "end": 255.039,
     "text": "Yes, authentic.",
-    "speaker": null
+    "speaker": "authentic"
   },
   {
+    "order": 85,
     "start": 255.039,
     "end": 258.56,
     "text": "It's real, fresh, and cooked right in front of you.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 258.56,
     "end": 260.56,
     "text": "And if it's food from a particular country,",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 260.56,
     "end": 264.24,
     "text": "it's probably being prepared by people from that culture.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 264.24,
     "end": 268.399,
     "text": "He also says that this has captured the imagination of the public.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 268.399,
     "end": 271.68,
     "text": "It's something that the public have experienced and thought,",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 271.68,
     "end": 273.36,
     "text": "yep, you know, I like this.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 273.36,
     "end": 274.719,
     "text": "This is a great idea.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 274.719,
     "end": 278,
     "text": "Well, all this sort of food is making me hungry.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 278,
     "end": 281.68,
     "text": "So let's get the answer to the quiz and review today's vocabulary",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 94,
     "start": 281.68,
     "end": 284.399,
     "text": "before we head off and grab a bite to eat.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 284.399,
     "end": 286.399,
     "text": "We asked about the age of bread",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 286.399,
     "end": 289.04,
     "text": "discovered by archaeologists in Jordan.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 289.04,
     "end": 293.839,
     "text": "Was it A, 18,000 years old, B, 14,000 years old,",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 293.839,
     "end": 297.36,
     "text": "or C, 5,500 years old?",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 297.36,
     "end": 300.319,
     "text": "And I said C, 5,500 years old.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 300.319,
     "end": 302.879,
     "text": "And I'm afraid it's a lot moldier than that.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 302.879,
     "end": 305.519,
     "text": "The answer was 14,000 years.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 102,
+    "start": 305.519,
+    "end": 307.36,
+    "text": "Ah, very tasty, I'm sure.",
     "speaker": null
   },
   {
-    "start": 305.519,
-    "end": 307.36,
-    "text": "Very tasty I'm sure.",
-    "speaker": "Rob"
-  },
-  {
+    "order": 103,
     "start": 307.36,
     "end": 310.16,
     "text": "Yes, right then, the vocabulary we started off",
-    "speaker": null
+    "speaker": "phenomenal"
   },
   {
+    "order": 104,
     "start": 310.16,
     "end": 313.04,
     "text": "with the adjective phenomenal to describe something",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 313.04,
     "end": 315.68,
     "text": "that is amazing, remarkable and extraordinary.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 315.68,
     "end": 318.56,
     "text": "Then we had to take off a phrasal verb,",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 318.56,
     "end": 320.639,
     "text": "which means to become popular.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 320.639,
     "end": 323.12,
     "text": "Street food has really taken off in the UK.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 323.12,
     "end": 324.48,
     "text": "It's become really popular.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 324.48,
     "end": 327.439,
-    "text": "And not just in the cities, but also in the provinces,",
-    "speaker": null
+    "text": "And not just in the cities but also in the provinces, ",
+    "speaker": "provinces,"
   },
   {
+    "order": 111,
     "start": 327.439,
     "end": 330.08,
     "text": "which is a noun to describe areas of a country",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 330.08,
     "end": 332.319,
     "text": "that aren't the major cities.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 332.319,
     "end": 334.56,
     "text": "Something which captures the imagination",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 334.639,
     "end": 336.639,
     "text": "is something which makes you interested",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 336.639,
     "end": 338.48,
     "text": "and not just for short time.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 338.48,
     "end": 340.8,
     "text": "And one thing which has captured the imagination",
-    "speaker": null
+    "speaker": "captured the imaginationauthenticauthentic"
   },
   {
+    "order": 117,
     "start": 340.8,
     "end": 343.759,
     "text": "of the British public is authentic street food.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 343.759,
     "end": 346.56,
     "text": "Something authentic is real, it's genuine,",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 346.56,
     "end": 348.56,
     "text": "it's not a fake or a copy.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 348.56,
     "end": 351.279,
     "text": "And finally, we had microwave food.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 351.279,
     "end": 353.519,
     "text": "Food prepared in a microwave oven.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 353.519,
     "end": 356.8,
     "text": "And that kind of food is not seen by summer's authentic.",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 356.8,
     "end": 358.959,
-    "text": "Well, it's time to eat.",
-    "speaker": null
+    "text": "Well, it's time to eat,",
+    "speaker": "Neil"
   },
   {
+    "order": 124,
     "start": 358.959,
     "end": 360.56,
     "text": "So that's all we have time for today.",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 360.56,
     "end": 361.92,
     "text": "Join us again next time.",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 361.92,
     "end": 364.08,
     "text": "And remember, you can find us on Instagram,",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 364.08,
     "end": 366.4,
     "text": "Facebook, Twitter, YouTube, and of course,",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 366.4,
     "end": 369.36,
     "text": "on our website, BBCLearningEnglish.com.",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 369.36,
     "end": 371.439,
     "text": "See you soon. Bye. Bye-bye.",

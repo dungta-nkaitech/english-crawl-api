@@ -5,6 +5,31 @@
   "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p09d133l.jpg",
   "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210527_6min_english_compassion_fatigue_download.mp3",
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210527_6min_english_compassion_fatigue.pdf",
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "word": "compassion fatigue",
+      "definition": "compassion fatigueemotional exhaustion which reduces your ability to empathise or feel compassion for other people’s unhappiness and pain"
+    },
+    {
+      "word": "numb",
+      "definition": "unable to feel any emotions or think clearly because you are so shocked, frightened or tired"
+    },
+    {
+      "word": "learned helplessness",
+      "definition": "psychologically giving up trying to feel better because your previous attempts have not been successful or rewarded"
+    },
+    {
+      "word": "finite",
+      "definition": "limited or having a definite, fixed size"
+    },
+    {
+      "word": "headwinds",
+      "definition": "forces blowing in the opposite direction which stop you moving forward"
+    },
+    {
+      "word": "news cycle",
+      "definition": "the reporting in the media of a particular news story, from the first instance to the last, as well as people’s reactions and opinions on the original report"
+    }
+  ],
   "quiz": null
 }

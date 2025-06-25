@@ -1,395 +1,461 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.679,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7.839,
     "end": 12.16,
     "text": "Hello, this is 6-minute English from BBC Learning English. I'm Neil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.16,
     "end": 13.28,
-    "text": "And I’m Beth.",
-    "speaker": "Beth"
+    "text": "And I'm Beth.",
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 13.839,
     "end": 18.48,
     "text": "Plastic pollution is a problem we've discussed before on 6-minute English.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 18.48,
     "end": 24.56,
     "text": "It's an environmental issue which, like the growing amounts of plastic waste, isn't going away.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 24.559,
     "end": 29.919,
     "text": "And now micro particles of plastic have even been found, can you guess where, Beth?",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 29.919,
     "end": 35.92,
-    "text": "Hmm, let me guess – in our food? inside dead animals? at the North Pole?",
-    "speaker": "Beth"
-  },
-  {
-    "start": 36.96,
-    "end": 42.64,
-    "text": "At the top of Mount Everest, although the other places you mentioned are true as well.",
-    "speaker": null
-  },
-  {
-    "start": 42.64,
-    "end": 49.039,
-    "text": "At the top of Mount Everest! Although the other places you mentioned are true as well. Plastic is a tough problem to fix, but fortunately scientists may now have found a solution.",
+    "text": "Let me guess, in our food, inside dead animals at the North Pole.",
     "speaker": "Neil"
   },
   {
+    "order": 7,
+    "start": 36.96,
+    "end": 42.64,
+    "text": "At the top of Mount Everest! Although the other places you mentioned are true as well.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 8,
+    "start": 42.64,
+    "end": 49.039,
+    "text": "Plastic is a tough problem to fix, but fortunately, scientists may now have found a solution.",
+    "speaker": null
+  },
+  {
+    "order": 9,
     "start": 49.039,
     "end": 52.799,
     "text": "In this programme, we'll be hearing about chemical recycling,",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 52.799,
     "end": 56.559,
     "text": "a groundbreaking way of making old plastic new again.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 56.559,
     "end": 60.879,
     "text": "And as usual, we'll be learning some useful new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 60.879,
     "end": 63.119,
-    "text": "But first, I have a question for you, Beth.",
-    "speaker": null
+    "text": "But first I have a question for you, Beth. ",
+    "speaker": "Neil"
   },
   {
+    "order": 13,
     "start": 63.759,
     "end": 68.319,
     "text": "Visit the country or seaside and you'll soon see evidence of plastic waste.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 68.959,
     "end": 76.4,
     "text": "According to the UN, around 400 million tons of new plastic is produced every year, much of it going to waste.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 76.879,
     "end": 81.039,
     "text": "It's hard to imagine what 400 million tons looks like.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 81.04,
     "end": 86.56,
     "text": "So, which of the following, if you placed on a set of scales, would weigh about the same?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 86.56,
     "end": 94,
     "text": "Is it A, all the people on Earth, B, all the cars on Earth, or C, all the elephants on Earth?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 94,
     "end": 99.68,
     "text": "Hmm, I think all the cars on Earth would weigh about 400 million tons.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 99.68,
     "end": 103.52,
     "text": "Okay, Beth, we'll find out if that's the right answer later.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 104.56,
     "end": 108.88,
     "text": "Globally, less than 10% of all plastic gets recycled.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 109.439,
     "end": 115.92,
     "text": "Some gets incinerated or burnt, and about half of all plastic waste goes straight to landfill,",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 22,
     "start": 115.92,
     "end": 118.159,
     "text": "meaning it's buried underground.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 118.159,
     "end": 124.64,
     "text": "But as a reporter for BBC World Service programme People Fixing the World, William Kramer explained,",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 124.64,
     "end": 126.959,
     "text": "this only fixes part of the problem.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 128.159,
     "end": 134.159,
     "text": "So, there is a mechanical process where some plastics can be sort of melted down and",
-    "speaker": null
+    "speaker": "brittle. downcycling"
   },
   {
+    "order": 26,
     "start": 134.159,
     "end": 140.96,
     "text": "remolded into a new shape or a new form. But not all plastics can go through that process at all.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 141.52,
     "end": 146.96,
     "text": "And also, it loses a little bit of quality every time you do that, so it will become slightly more",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 146.96,
     "end": 153.12,
     "text": "brittle. So, it's actually more downcycling than recycling, but every time it goes through that",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 153.12,
     "end": 159.919,
     "text": "process, it gets less useful. Each time plastic is recycled, it gets more brittle, meaning it's",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 159.919,
     "end": 166.639,
     "text": "easier to break or crack. As a result, what we call recycling is actually downcycling,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 166.639,
     "end": 172.56,
     "text": "creating recycled products which are less valuable and of lower quality than the original waste",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 172.56,
     "end": 179.039,
     "text": "product. And that's where the new discovery fits in. Chemical recycling uses enzymes,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 179.039,
     "end": 184.159,
     "text": "natural chemicals, which cause changes in other chemicals without being changed themselves.",
-    "speaker": null
+    "speaker": "enzymes"
   },
   {
+    "order": 34,
     "start": 184.719,
     "end": 191.039,
     "text": "Certain enzymes have evolved the ability to break down plastic into its basic building blocks",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 191.039,
     "end": 193.439,
     "text": "and use that to make new plastic.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 193.439,
     "end": 199.599,
     "text": "The problem is that very few enzymes exist, which can break the chemical bonds in stronger plastics,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 199.599,
     "end": 205.759,
     "text": "like PET, the plastic used in drinks bottles. At least that's what scientists used to think.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 205.759,
     "end": 212.079,
     "text": "Until researcher Sintoui Suleiman took a autumn walk in the park near Hela Baratry at the University of",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 212.08,
     "end": 219.52,
     "text": "Osaka, Japan. In a pile of rotting leaves, she discovered the microorganism leaf branch compost",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 219.52,
     "end": 222,
     "text": "cutinets, or LCC for short.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 222.72,
     "end": 230.16,
     "text": "Sintoui mixed LCC with plastic and left it in her lab overnight. She was surprised to return",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 230.16,
     "end": 237.52,
     "text": "the next morning and find the plastic gone eaten by the enzyme. The news spread and soon scientists",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 43,
     "start": 237.68,
     "end": 243.76,
     "text": "were predicting a major breakthrough, as William Kramer reported for BBC World Service programme",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 243.76,
     "end": 245.04,
     "text": "people fixing the world.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 245.68,
     "end": 250.879,
-    "text": "This discovery wasn't the end of the story but the beginning. LCC showed promise in breaking down PET plastic, but it needed a lot more work to become stable and effective.",
-    "speaker": "showed promise"
+    "text": "This discovery wasn't the end of the story, but the beginning. LCC showed promise in breaking",
+    "speaker": null
   },
   {
+    "order": 46,
     "start": 250.879,
     "end": 256,
     "text": "down PET plastic, but it needed a lot more work to become stable and effective.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 256.879,
     "end": 263.28,
-    "text": "The LCC enzyme showed promise in breaking down even strong plastics. If something shows promise, it has the potential to be successful in the future.",
+    "text": "The LCC enzyme showed promise in breaking down even strong plastics. If something",
     "speaker": "showed promiseshows promise"
   },
   {
+    "order": 48,
     "start": 263.279,
     "end": 267.679,
     "text": "shows promise, it has the potential to be successful in the future.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 267.679,
     "end": 274.159,
     "text": "Since then, that promise has started to come true. Scientists in France have used LCC to develop",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 274.159,
     "end": 282.239,
     "text": "new enzymes, and by 2025 they plan to recycle 50,000 tons of plastic waste annually, including",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 282.239,
     "end": 287.039,
     "text": "strong plastics like PET and nylon, which is used to make clothes.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 287.12,
     "end": 294.56,
     "text": "But there's still work to do. 50,000 tons sounds a lot, but not as much as the 400",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 294.56,
     "end": 299.52,
     "text": "million tons of plastic waste in your question, Neil. So what was the correct answer?",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 299.52,
     "end": 305.68,
     "text": "Right, I asked you what else would weigh about 400 million tons? The amount of new plastic we",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 305.68,
     "end": 312.4,
     "text": "produce each year. You guessed all the cars on Earth would weigh the same, which was the wrong",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 56,
     "start": 312.479,
     "end": 316.479,
     "text": "answer I'm afraid, Beth. In fact, it was all the people on Earth.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 317.12,
     "end": 321.679,
     "text": "Okay, let's recap the vocabulary we've learned in this program, starting with",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 321.679,
     "end": 328.639,
     "text": "incinerate another word for burn. Landfill is a method of dealing with rubbish by burying it in",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 328.639,
     "end": 333.839,
-    "text": "The adjective brittle means easily broken or snapped.",
-    "speaker": "brittle"
+    "text": "large holes in the ground. The adjective brittle means easily broken or snapped.",
+    "speaker": "Landfill"
   },
   {
+    "order": 60,
     "start": 334.399,
     "end": 340.56,
-    "text": "Downcycling is recycling but in such a way that the resulting product is less valuable or of lower quality than the original.",
+    "text": "Downcycling is recycling, but in such a way that the resulting product is less valuable,",
     "speaker": "Downcycling"
   },
   {
+    "order": 61,
     "start": 340.56,
     "end": 346.079,
     "text": "or of lower quality than the original. Enzymes are chemicals found in living cells,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 346.079,
     "end": 350.639,
-    "text": "Enzymes are chemicals found in living cells which cause changes in other chemicals to happen while not being changed themselves.",
-    "speaker": "Enzymes"
-  },
-  {
-    "start": 350.639,
-    "end": 356.639,
-    "text": "And finally, if something shows promise, it has a lot of potential for success in the future.",
+    "text": "which cause changes in other chemicals to happen while not being changed themselves.",
     "speaker": null
   },
   {
+    "order": 63,
+    "start": 350.639,
+    "end": 356.639,
+    "text": "And finally, if something shows promise, it has a lot of potential for success in the future.",
+    "speaker": "shows promise"
+  },
+  {
+    "order": 64,
     "start": 357.279,
     "end": 363.36,
     "text": "Once again, our six minutes are up, but remember to join us again next time here at six minutes",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 363.36,
     "end": 365.36,
     "text": "English. Goodbye for now. Bye.",

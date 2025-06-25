@@ -1,713 +1,832 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.279,
-    "text": "6 Minute English.",
-    "speaker": null
+    "text": " 6 Minute English",
+    "speaker": "Georgina"
   },
   {
+    "order": 3,
     "start": 8.279,
     "end": 10.88,
     "text": "From BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.48,
     "end": 16.199,
-    "text": "Hello. This is 6 Minute English, I'm Georgina.",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 16.199,
-    "end": 17.44,
-    "text": "And I'm Rob.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 17.44,
-    "end": 19.559,
-    "text": "Are you a punctuation pedant?",
+    "text": "Hello, this is 6 Minute English. I'm Georgina.",
     "speaker": null
   },
   {
+    "order": 5,
+    "start": 16.199,
+    "end": 17.44,
+    "text": "And I'm Rob.",
+    "speaker": null
+  },
+  {
+    "order": 6,
+    "start": 17.44,
+    "end": 19.559,
+    "text": "Are you a punctuation pedant?",
+    "speaker": "pedant"
+  },
+  {
+    "order": 7,
     "start": 19.559,
     "end": 21.719,
     "text": "Do you get upset, annoyed or angry",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 21.719,
     "end": 24.4,
     "text": "if you see punctuation being used incorrectly,",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 24.4,
     "end": 26.199,
     "text": "particularly apostrophes?",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 26.199,
     "end": 27.839,
     "text": "Oh, well, it depends.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 27.839,
     "end": 30.559,
     "text": "Usually, I'm pretty chilled out about it,",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 30.559,
     "end": 34.56,
     "text": "but sometimes, just sometimes, it really winds me up.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 34.56,
     "end": 38.439,
     "text": "For example, if I see a sign for taxes at a train station",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 38.439,
     "end": 41.399,
     "text": "and it says taxi apostrophe S,",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 41.399,
     "end": 43.6,
     "text": "ah, why? Why?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 43.6,
     "end": 46.84,
     "text": "The apostrophe is not used to show there is more than one.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 46.84,
     "end": 49.12,
     "text": "It's used to show there is a missing letter",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 49.12,
     "end": 50.56,
     "text": "or that the word is a possessive.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 50.56,
     "end": 51.84,
     "text": "It's just wrong.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 51.84,
     "end": 54.56,
     "text": "So that does kind of make my blood boil.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 54.56,
     "end": 57.28,
     "text": "So, when you say you’re pretty chilled about it you mean…",
     "speaker": "Georgina"
   },
   {
+    "order": 22,
     "start": 57.32,
     "end": 59.52,
     "text": "OK, OK, I'm not chilled at all,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 59.52,
     "end": 61.64,
     "text": "but maybe I wish I was.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 61.64,
     "end": 63.92,
-    "text": "Well, we're going to be taking a look at reactions",
-    "speaker": null
+    "text": "Well, we’re going to be taking a look at reactions",
+    "speaker": "Georgina"
   },
   {
+    "order": 25,
     "start": 63.92,
     "end": 67.04,
     "text": "to the use and abuse of apostrophes in this programme",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 67.04,
     "end": 68.64,
     "text": "but first a question.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 68.64,
     "end": 72.96,
     "text": "The word apostrophe itself, which language does it come from?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 72.96,
     "end": 78.64,
     "text": "Is it A, Latin, B, Greek or C, Arabic?",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 78.64,
     "end": 80.28,
-    "text": "What do you think, Rob?",
+    "text": " What do you think, Rob",
     "speaker": "Georgina"
   },
   {
+    "order": 30,
     "start": 80.28,
     "end": 82.079,
     "text": "Well, I don't think it's Arabic,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 82.079,
     "end": 85.28,
     "text": "so it's a toss up between Latin and Greek.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 85.28,
     "end": 87.159,
     "text": "I'm going to say Greek.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 33,
     "start": 87.2,
     "end": 90.399,
     "text": "OK, we'll see if you're correct at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 90.399,
     "end": 94.2,
     "text": "The apostrophe it is true to say is often misused.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 94.2,
     "end": 97.879,
     "text": "It's put where it shouldn't be and not used where it should be.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 97.879,
     "end": 99.359,
     "text": "Is it important, though?",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 99.359,
     "end": 100.719,
     "text": "Does it matter?",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 100.719,
     "end": 102.239,
     "text": "After all, in spoken English,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 102.239,
     "end": 104.159,
     "text": "there is no difference between it's",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 104.159,
     "end": 107.4,
     "text": "within apostrophe and it's without.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 107.4,
     "end": 110.92,
     "text": "Your and your short for you are sound the same.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 110.92,
     "end": 113.319,
     "text": "So what's the problem in written English?",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 113.319,
     "end": 116.159,
-    "text": "In many cases, there isn't a problem at all.",
-    "speaker": null
+    "text": "In many cases there isn’t a problem at all. ",
+    "speaker": "Rob"
   },
   {
+    "order": 44,
     "start": 116.159,
     "end": 118.039,
     "text": "There will be very little confusion,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 118.039,
     "end": 122.799,
     "text": "but I don't think that means we should just ignore the correct way to use them.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 122.799,
     "end": 125.879,
     "text": "Sometimes it can be very important to make clear",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 125.879,
     "end": 129.56,
     "text": "if it's a singular or plural or possessive.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 129.56,
     "end": 133.8,
     "text": "Another important thing to remember is that in CVs and job applications,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 133.8,
     "end": 137.479,
     "text": "a good standard of spelling and punctuation is expected.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 137.479,
     "end": 141.039,
     "text": "Get it wrong and you could miss out on a good opportunity.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 141.039,
     "end": 143.879,
     "text": "There is one group that has tried for nearly 20 years",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 143.96,
     "end": 146.12,
     "text": "to keep others to these high standards,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 146.12,
     "end": 148.84,
     "text": "the apostrophe protection society.",
-    "speaker": null
+    "speaker": "lingerup in the air"
   },
   {
+    "order": 54,
     "start": 148.84,
     "end": 153.56,
     "text": "They have publicly pointed out incorrect use in public signs and communications,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 153.56,
     "end": 157.079,
     "text": "attacked it that has not always been welcome or successful,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 157.079,
     "end": 160.359,
     "text": "but like the apostrophe itself, the group is in danger.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 160.359,
     "end": 163.719,
     "text": "Here's a BBC news report on the subject.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 163.719,
     "end": 166.28,
     "text": "They linger above our letters,",
-    "speaker": null
+    "speaker": "linger  linger"
   },
   {
+    "order": 59,
     "start": 166.28,
     "end": 170.039,
     "text": "they wander around the endings of our words,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 170.28,
     "end": 174.199,
     "text": "but apostrophes, it seems, are an endangered species.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 174.199,
     "end": 178.439,
     "text": "The apostrophe protection society, yes, there really is one,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 178.439,
     "end": 181.719,
     "text": "says their future is well up in the air.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 181.719,
     "end": 184.359,
     "text": "How does he describe apostrophes?",
-    "speaker": "Georgina"
+    "speaker": null
   },
   {
+    "order": 64,
     "start": 184.359,
     "end": 187.239,
     "text": "Using metaphorical poetic language,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 187.239,
     "end": 189.639,
     "text": "he says they linger above our letters.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 189.639,
     "end": 193.399,
     "text": "To linger is a verb usually used to describe someone or something,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 193.399,
     "end": 196.759,
     "text": "staying somewhere before finally leaving.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 196.84,
     "end": 199.719,
     "text": "So we have apostrophes lingering above our letters,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 199.719,
     "end": 203.479,
     "text": "and also he said they wander around the end of the words.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 203.479,
     "end": 206.12,
     "text": "Yes, also a metaphorical use.",
-    "speaker": null
-  },
-  {
-    "start": 206.12,
-    "end": 211.319,
-    "text": "Yes, also a metaphorical use. To wander means to walk slowly around without any real purpose or urgency.",
     "speaker": "wander"
   },
   {
+    "order": 71,
+    "start": 206.12,
+    "end": 211.319,
+    "text": "To wander means to walk slowly around without any real purpose or urgency.",
+    "speaker": null
+  },
+  {
+    "order": 72,
     "start": 211.319,
     "end": 215.56,
     "text": "And he went on to say that the future of the apostrophe is up in the air.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 215.56,
     "end": 219.399,
     "text": "When something is up in the air, it means its future is not certain,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 219.399,
     "end": 221,
     "text": "it's not guaranteed.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 221,
     "end": 224.519,
     "text": "So if, for example, your holiday plans are up in the air,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 224.52,
     "end": 228.84,
     "text": "it means there is some kind of problem and you might not be going on holiday after all.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 228.84,
     "end": 233.4,
     "text": "The person who founded the apostrophe protection society is John Edwards.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 233.4,
     "end": 237,
     "text": "Now 96 years old, he has decided to give it up,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 237,
     "end": 241.24,
     "text": "partly because of his age, but also because he thinks that due to the impact of",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 241.24,
     "end": 246.28,
     "text": "texting and social media, he has lost the battle against bad punctuation.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 246.28,
     "end": 247.719,
     "text": "So why has it come to this?",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 248.2,
     "end": 253,
     "text": "Here he is explaining why he thinks people aren't bothered about using correct punctuation.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 253.96,
     "end": 257.079,
-    "text": "I think it's a mixture of ignorance and laziness.",
-    "speaker": null
+    "text": "I think it’s a mixture of ignorance and laziness.",
+    "speaker": "ignorancebarbarians"
   },
   {
+    "order": 84,
     "start": 257.639,
     "end": 261.24,
     "text": "They're too ignorant to know where it goes, they're too lazy to learn.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 261.959,
     "end": 265.16,
     "text": "So they just don't bother the barbarians of one.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 265.72,
     "end": 266.839,
-    "text": "So what’s his reason?",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 267.639,
-    "end": 270.279,
-    "text": "He blames ignorance and laziness.",
+    "text": "So what's his reason?",
     "speaker": null
   },
   {
+    "order": 87,
+    "start": 267.639,
+    "end": 270.279,
+    "text": "He blames ignorance and laziness.",
+    "speaker": "ignoranceIgnorance"
+  },
+  {
+    "order": 88,
     "start": 270.279,
     "end": 273.959,
     "text": "Ignorance is a lack of knowledge or understanding of something,",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 273.959,
     "end": 277.079,
     "text": "so people don't know the rules and are too lazy to learn them,",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 277.079,
     "end": 278.439,
     "text": "according to Edwards.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 278.439,
     "end": 279.959,
-    "text": "Quite strong views there!",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 279.959,
-    "end": 281.879,
-    "text": "Yes, and you thought I was a pedant.",
+    "text": "Quite strong views there.",
     "speaker": null
   },
   {
+    "order": 92,
+    "start": 279.959,
+    "end": 281.879,
+    "text": "Yes, and you thought I was a pedant!",
+    "speaker": "pedantbarbariansBarbarian"
+  },
+  {
+    "order": 93,
     "start": 282.439,
     "end": 286.04,
     "text": "He actually goes further to say that the barbarians have won.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 286.6,
     "end": 292.439,
     "text": "Barbarian is a historical word for people who weren't part of so-called civilised society.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 292.439,
     "end": 296.04,
     "text": "They were seen as violent and aggressive, primitive and uncivilised.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 296.68,
     "end": 298.36,
-    "text": "So it’s not a compliment then?",
-    "speaker": "Georgina"
+    "text": "So it's not a compliment then?",
+    "speaker": null
   },
   {
+    "order": 97,
     "start": 298.36,
     "end": 298.839,
     "text": "Oh no!",
     "speaker": "Rob"
   },
   {
+    "order": 98,
     "start": 299.639,
     "end": 303.879,
-    "text": "Right, before we review today’s vocabulary, let’s have the answer to today’s quiz. Which language does the word apostrophe come from? What did you say?",
-    "speaker": "Georgina"
+    "text": "Right, before we review today's vocabulary, let's have the answer to today's quiz.",
+    "speaker": null
   },
   {
+    "order": 99,
     "start": 304.439,
     "end": 307.56,
     "text": "Which language does the word apostrophe come from?",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 307.56,
     "end": 308.68,
     "text": "What did you say?",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 308.68,
     "end": 310.36,
     "text": "I went for Greek.",
     "speaker": "Rob"
   },
   {
+    "order": 102,
     "start": 310.439,
     "end": 314.04,
     "text": "Congratulations to you and anyone else who got that right.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 314.04,
     "end": 315.8,
     "text": "Greek is the right answer.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 315.8,
     "end": 318.68,
     "text": "Now let's remind ourselves of today's vocabulary.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 318.68,
     "end": 320.84,
     "text": "First, what's a pedant, Rob?",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 320.84,
     "end": 325.56,
-    "text": "A pedant is someone who corrects other people's small mistakes,",
-    "speaker": null
+    "text": "A pedant is someone who corrects other people’s small mistakes ",
+    "speaker": "pedantpedant"
   },
   {
+    "order": 107,
     "start": 325.56,
     "end": 328.52,
     "text": "particularly in grammar and punctuation.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 328.52,
     "end": 330.759,
     "text": "But it's not the same as an English teacher.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 330.759,
     "end": 335.24,
     "text": "A pedant will correct native speakers mistakes too and not in the classroom.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 335.8,
     "end": 338.439,
     "text": "Tulingo means to stay somewhere for longer.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 338.439,
     "end": 343.16,
     "text": "To wander is to walk around without a real purpose or intention to get somewhere quickly.",
     "speaker": "wander"
   },
   {
+    "order": 112,
     "start": 343.16,
     "end": 347.319,
     "text": "If your plans are up in the air, it means they are at risk and might not happen.",
-    "speaker": "up in the air"
+    "speaker": null
   },
   {
+    "order": 113,
     "start": 347.319,
     "end": 351.24,
     "text": "Ignorance is the state of not knowing something that should be known.",
     "speaker": "Ignorance"
   },
   {
+    "order": 114,
     "start": 351.24,
     "end": 356.12,
     "text": "And finally, a barbarian is a word for a primitive and uncivilised person.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 356.68,
     "end": 360.92,
     "text": "Right, we can't linger in the studio as our six minutes are up.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 360.92,
     "end": 365.72,
     "text": "You can find more from us about punctuation and many other aspects of English online",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 365.72,
     "end": 369.24,
     "text": "on social media and on the BBC Learning English app.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 369.24,
     "end": 370.68,
     "text": "Bye for now. Bye-bye.",

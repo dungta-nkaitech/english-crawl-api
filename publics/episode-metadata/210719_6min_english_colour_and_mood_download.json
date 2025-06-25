@@ -5,6 +5,31 @@
   "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p09k33ts.jpg",
   "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210719_6min_english_colour_and_mood_download.mp3",
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210719_6min_english_colour_and_mood.pdf",
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "word": "green with envy",
+      "definition": "green with envy the feeling someone has who wishes they had what someone else has"
+    },
+    {
+      "word": "wavelength",
+      "definition": "distance between two waves of sound or light that are next to each other"
+    },
+    {
+      "word": "govern",
+      "definition": "control or influence"
+    },
+    {
+      "word": "sanctuary",
+      "definition": "peaceful, relaxing or safe place"
+    },
+    {
+      "word": "stimulation",
+      "definition": "feeling of being excited, interested or enthused by something"
+    },
+    {
+      "word": "pale",
+      "definition": "colour that lacks intensity"
+    }
+  ],
   "quiz": null
 }

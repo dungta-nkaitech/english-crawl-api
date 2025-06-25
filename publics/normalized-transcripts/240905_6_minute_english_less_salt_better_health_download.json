@@ -1,539 +1,629 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.679,
     "text": "6 Nuit English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 5.679,
     "end": 11.439,
-    "text": "Hello. This is 6 Minute English from BBC Learning English. I'm Neil.",
+    "text": "Hello. This is 6 Minute English from BBC Learning English.",
     "speaker": "Neil"
   },
   {
+    "order": 2,
     "start": 11.439,
     "end": 12.439,
     "text": "I'm Neil.",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 12.439,
     "end": 13.439,
     "text": "And I'm Georgie.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.439,
     "end": 16.32,
     "text": "Do you know the five taste switch give food its flavour, Neil?",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 16.32,
     "end": 17.32,
     "text": "They're sweet.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 17.32,
     "end": 18.32,
-    "text": "Yes.",
-    "speaker": null
+    "text": "Yes…",
+    "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 18.32,
     "end": 21.96,
     "text": "And sour, bitter.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 21.96,
     "end": 23.28,
     "text": "And salty.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 23.28,
     "end": 28.8,
-    "text": "And salty! Everyone knows that salt makes food taste better by enhancing the flavours of the ingredients. There's even a phrase you'll see in many recipes – 'add a pinch of salt'.",
-    "speaker": "Georgie"
+    "text": "Everyone knows that salt makes food taste better by enhancing the flavours of the ingredients.",
+    "speaker": null
   },
   {
+    "order": 10,
     "start": 28.8,
     "end": 33.12,
     "text": "There's even a phrase you'll see in many recipes, add a pinch of salt.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 33.12,
     "end": 37.399,
     "text": "But exactly how much salt makes a pinch of salt?",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 12,
     "start": 37.399,
     "end": 44.76,
     "text": "The World Health Organization, or WHO, recommends a daily salt intake of less than 5 grams,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 44.76,
     "end": 47,
     "text": "about the same as a teaspoon.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 47,
     "end": 51.719,
     "text": "In fact, the human body needs salt, at least 1 gram a day to survive.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 51.719,
     "end": 58.24,
     "text": "But most of us eat far too much, increasing the risk of high blood pressure and heart disease.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 58.24,
     "end": 62.92,
     "text": "In this programme, we'll be asking, how much salt is too much?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 62.92,
     "end": 66.68,
     "text": "And as usual, we'll be learning some useful new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 66.68,
     "end": 67.68,
     "text": "Great.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 67.68,
     "end": 70.24,
     "text": "But first, I have a question for you, Neil.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 70.24,
     "end": 75.4,
     "text": "The reason it's difficult to know how much salt you consume is that it's hidden in a food,",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 75.4,
     "end": 77.48,
     "text": "especially processed food.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 77.48,
     "end": 82.599,
     "text": "So which of the following everyday foods do you think contains most salt?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 82.599,
     "end": 87.12,
     "text": "Is it A, meat, B, bread or C, pasta?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 87.12,
     "end": 91.68,
     "text": "Well, I'm going to guess that meat is the saltiest of those foods.",
-    "speaker": "Neil"
+    "speaker": "Georgie"
   },
   {
+    "order": 25,
     "start": 91.68,
     "end": 95.6,
-    "text": "OK, Neil, I'll reveal the answer later in the programme.",
-    "speaker": null
+    "text": "OK Neil, I'll reveal the answer later in the programme. ",
+    "speaker": "Georgie"
   },
   {
+    "order": 26,
     "start": 95.6,
     "end": 101.56,
     "text": "Marion Sambiva lives in Estana, the capital of Kazakhstan, a country where people eat on",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 101.56,
     "end": 104.88,
     "text": "average 17 grams of salt a day.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 104.88,
     "end": 109.48,
     "text": "That's more than three times the amount recommended by the WHO.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 109.48,
     "end": 116.12,
     "text": "Here, Marion explains some of the reasons behind this to BBC World Service programme, the Food Chain.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 116.12,
     "end": 123.96,
     "text": "We consume lots of salt, which is due to historical heritage, because when we were normal",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 123.96,
     "end": 130.08,
     "text": "for centuries and centuries, we travelled and wandered across the steps.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 130.08,
     "end": 137.599,
     "text": "And here we had to carry lots of meat, which could be preserved only adding salt.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 137.599,
     "end": 144.92,
     "text": "And even the milk products, the dairy products are also very much salty for the same reasons.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 144.919,
     "end": 150.159,
     "text": "Besides improving its flavour, salt can be used to preserve food, to stop it from going",
-    "speaker": null
+    "speaker": "preservenomadsdairy products,"
   },
   {
+    "order": 35,
     "start": 150.159,
     "end": 151.159,
     "text": "bad.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 151.159,
     "end": 154.399,
     "text": "Traditionally, people in Kazakhstan were nomads.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 154.399,
     "end": 158.959,
     "text": "They travelled from place to place with their animals, rather than living in one place",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 158.959,
     "end": 160.56,
     "text": "all the time.",
-    "speaker": null
+    "speaker": "preserve"
   },
   {
+    "order": 39,
     "start": 160.56,
     "end": 165.279,
     "text": "Treating food with salt gave them enough to eat during the long winter months.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 165.279,
     "end": 170.679,
     "text": "They even did it with dairy products, foods which are made from milk, such as cheese and",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 170.679,
     "end": 171.679,
-    "text": "butter.",
-    "speaker": null
+    "text": "butter,",
+    "speaker": "Dairy products"
   },
   {
+    "order": 42,
     "start": 171.68,
     "end": 176.879,
     "text": "So salt has a long and useful history, but there's a big difference between traditional",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 176.879,
     "end": 182.48,
     "text": "Kazakh nomads and the health problems associated with modern processed food.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 182.48,
     "end": 186.84,
     "text": "When we eat too much salt, the body dilutes it by retaining water.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 186.84,
     "end": 191.439,
     "text": "And as a result, the heart works harder to pump liquid around the body.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 191.439,
     "end": 196.48,
     "text": "This causes high blood pressure, which over time can lead to heart disease.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 196.48,
     "end": 200.8,
     "text": "Globally, governments are fighting this health risk in different ways.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 48,
     "start": 200.8,
     "end": 206.12,
     "text": "The Australian government reduced its recommended salt intake to 6 grams a day, while the British",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 206.12,
     "end": 211.48,
     "text": "government has passed laws forcing food companies to reduce the amount of salt they use, and",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 211.48,
     "end": 214.92,
     "text": "now recommends just 5 grams of salt per day.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 214.92,
     "end": 219.72,
     "text": "Claire Collins is professor of nutrition at the University of Newcastle in Australia.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 219.72,
     "end": 225.56,
     "text": "Here, she explains more about these salt recommendations to BBC World Service programme,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 225.56,
     "end": 226.56,
     "text": "the food chain.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 226.56,
     "end": 231.12,
     "text": "I think you just got to take a step back and look at the bigger picture.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 231.12,
     "end": 236.52,
     "text": "Like arguing whether it should be 5 grams or 6 grams, the issue is that around the world",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 236.52,
     "end": 242.28,
     "text": "salt intake is very high, contributing to blood pressure, contributing to premature",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 242.28,
     "end": 250.92,
     "text": "strokes, premature mortality, and we need to address it in a way that's culturally appropriate",
-    "speaker": null
+    "speaker": "take a step back, look at the bigger picture,premature , premature"
   },
   {
+    "order": 58,
     "start": 250.92,
     "end": 252.4,
     "text": "for each country.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 252.4,
     "end": 257.8,
     "text": "Instead of arguing over grams of salt, Professor Collins thinks we should take a step back and",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 257.8,
     "end": 259.639,
-    "text": "look at the bigger picture.",
-    "speaker": null
+    "text": " look at the bigger picture",
+    "speaker": "look at the bigger picture"
   },
   {
+    "order": 61,
     "start": 259.639,
     "end": 265.68,
     "text": "She uses two idioms, take a step back, which means to temporarily withdraw from a situation",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 265.68,
     "end": 270.68,
     "text": "in order to think about it more calmly, and look at the bigger picture.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 270.68,
     "end": 274.48,
     "text": "To consider the overall meaning of something, not just the details.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 274.48,
     "end": 281.12,
     "text": "Yes, the problem remains that overconsumption of salt is causing premature health problems,",
-    "speaker": null
+    "speaker": "premature"
   },
   {
+    "order": 65,
     "start": 281.12,
     "end": 284.16,
     "text": "which are happening sooner than they should.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 284.16,
     "end": 289.56,
     "text": "By limiting salt and processed food, most people can enjoy long, healthy lives.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 289.56,
     "end": 294.399,
     "text": "And if you don't like your food unsalted, try adding herbs and spices instead.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 294.399,
     "end": 299.399,
-    "text": "Well, speaking of salty foods, I think it's time to reveal the answer to my question, Neil. If you remember, I asked you which everyday food contains most salt.",
-    "speaker": "Georgie"
+    "text": "Well, speaking of salty foods, I think it's time to reveal the answer to my question,",
+    "speaker": null
   },
   {
+    "order": 69,
     "start": 299.399,
     "end": 300.399,
     "text": "Neil.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 300.399,
     "end": 304.92,
     "text": "If you remember, I asked you which everyday food contains most salt.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 304.92,
     "end": 306.759,
-    "text": "And I guessed it was meat…",
-    "speaker": "Neil"
+    "text": "And I guessed it was meat.",
+    "speaker": null
   },
   {
+    "order": 72,
     "start": 306.759,
     "end": 309.56,
     "text": "Which was the correct answer.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 309.56,
     "end": 317.16,
     "text": "Meat contains the highest amount of salt, around 19%, followed by bread with 14%, and pasta",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 317.16,
     "end": 318.16,
     "text": "with 7%.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 318.16,
     "end": 323.439,
     "text": "Okay, let's recap the vocabulary we've learned in this program, starting with the verb",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 323.439,
     "end": 329.68,
     "text": "to preserve food, meaning to do something to stop it rotting so it can be eaten later.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 329.68,
     "end": 334.84,
     "text": "No meds are people who travel from one place to another, often with animal livestock,",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 334.84,
     "end": 337.319,
     "text": "rather than living in one place all the time.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 337.319,
     "end": 342,
     "text": "Dairy products are foods such as cheese and butter, which are made from milk.",
-    "speaker": "Dairy products"
-  },
-  {
-    "start": 342,
-    "end": 348.199,
-    "text": "If you take a step back, you temporarily remove yourself from a situation in order to reevaluate it.",
-    "speaker": "take a step back"
-  },
-  {
-    "start": 348.199,
-    "end": 349.199,
-    "text": "it.",
     "speaker": null
   },
   {
-    "start": 349.199,
-    "end": 353.839,
-    "text": "The idiom 'to look at the bigger picture' means to consider the overall meaning of something rather than the specific details.",
-    "speaker": "look at the bigger picture"
+    "order": 80,
+    "start": 342,
+    "end": 348.199,
+    "text": "If you take a step back, you temporarily remove yourself from a situation in order to re-evaluate",
+    "speaker": null
   },
   {
+    "order": 81,
+    "start": 348.199,
+    "end": 349.199,
+    "text": "it.",
+    "speaker": "Georgie"
+  },
+  {
+    "order": 82,
+    "start": 349.199,
+    "end": 353.839,
+    "text": "The idiom to look at the bigger picture means to consider the overall meaning of something",
+    "speaker": null
+  },
+  {
+    "order": 83,
     "start": 353.839,
     "end": 356.039,
     "text": "rather than the specific details.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 356.039,
     "end": 361.36,
-    "text": "And finally, the adjective premature describes something which happens too soon or before the proper time. Once again, our six minutes are up. Goodbye for now!",
-    "speaker": "premature"
+    "text": "And finally, the adjective premature describes something which happens too soon or before",
+    "speaker": null
   },
   {
+    "order": 85,
     "start": 361.36,
     "end": 363.159,
     "text": "the proper time.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 363.159,
     "end": 364.6,
     "text": "Once again, our six minutes are up.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 364.6,
     "end": 365.6,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 365.6,
     "end": 366.6,
-    "text": "Bye!",
-    "speaker": "Georgie"
+    "text": "Bye.",
+    "speaker": null
   },
   {
+    "order": 89,
     "start": 367.319,
     "end": 371.959,
     "text": "6-Mate English from BBCLearningEnglish.com",

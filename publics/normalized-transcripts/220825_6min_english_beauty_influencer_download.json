@@ -1,548 +1,639 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 14.64,
     "end": 18.64,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 18.64,
     "end": 24.719,
     "text": "And I'm Sam. In the UK, there's a well-known children's game called Happy Families.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 24.719,
     "end": 28.8,
     "text": "Players have to collect all the cards belonging to one family.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 28.8,
     "end": 33.679,
     "text": "There's a butcher, a baker, a carpenter, a doctor and a tailor.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 33.679,
     "end": 38.56,
     "text": "Some of the traditional jobs that people in the UK have been doing for centuries.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 38.56,
     "end": 42.159,
-    "text": "But, since the invention of the internet and social media,",
-    "speaker": null
+    "text": "But since the invention of the internet and social media, ",
+    "speaker": "Neil"
   },
   {
+    "order": 8,
     "start": 42.159,
     "end": 47.359,
     "text": "a more up-to-date list of jobs in the 21st century would be very different.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 47.359,
     "end": 50.64,
     "text": "It would include modern jobs which didn't exist before.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 50.64,
     "end": 54.4,
     "text": "Online jobs like web designer and YouTuber.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 54.399,
     "end": 59.359,
     "text": "One of the most unusual of these new digital jobs is the influencer.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 59.359,
     "end": 63.6,
     "text": "Someone who is paid by a company to promote their brand on social media,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 63.6,
     "end": 66.319,
     "text": "encouraging people to buy their products.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 66.319,
     "end": 71.519,
     "text": "In this programme, we'll meet two beauty influencers from different parts of the world,",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 71.519,
     "end": 77.68,
     "text": "Nigeria and Pakistan. We'll discover how these women are using their online influence",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 77.68,
     "end": 81.599,
     "text": "to change attitudes towards female beauty and, as usual,",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 81.599,
     "end": 83.759,
     "text": "we'll learn some related vocabulary too.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 83.759,
     "end": 86.399,
-    "text": "But first, I have a question for you, Sam.",
-    "speaker": null
-  },
-  {
-    "start": 86.399,
-    "end": 92.56,
-    "text": "But first I have a question for you, Sam. YouTube make-up tutorials are very modern, but make-up has been around for a long time. So, when was lipstick first used?Was it:",
+    "text": "But first I have a question for you, Sam. ",
     "speaker": "Neil"
   },
   {
+    "order": 19,
+    "start": 86.399,
+    "end": 92.56,
+    "text": "YouTube makeup tutorials are very modern, but makeup has been around for a long time.",
+    "speaker": null
+  },
+  {
+    "order": 20,
     "start": 92.56,
     "end": 95.359,
     "text": "So, when was lipstick first used?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 95.359,
     "end": 99.919,
-    "text": "a)    around 3000 years ago by the ancient Celts?",
-    "speaker": "Neil"
+    "text": "Was it A, around 3,000 years ago by the ancient Celts?",
+    "speaker": null
   },
   {
+    "order": 22,
     "start": 99.919,
     "end": 103.919,
-    "text": "b)    around 4000 years ago by the ancient Egyptians? or",
+    "text": "B, around 4,000 years ago by the ancient Egyptians?",
     "speaker": "Neil"
   },
   {
+    "order": 23,
     "start": 103.919,
     "end": 108.639,
-    "text": "c)    around 5000 years ago by the ancient Sumerians?",
-    "speaker": "Neil"
+    "text": "Or C, around 5,000 years ago by the ancient Sumerians?",
+    "speaker": null
   },
   {
+    "order": 24,
     "start": 108.64,
     "end": 113.359,
-    "text": "I’ll say it was being used 5000 years ago by the ancient Sumerians.",
+    "text": "I’ll say it was being used 5000 years ago by the ancient Sumerians. ",
     "speaker": "Sam"
   },
   {
+    "order": 25,
     "start": 113.359,
     "end": 116.56,
     "text": "Okay, Sam will find out if you're right later on.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 116.56,
     "end": 120.079,
     "text": "Dima Umay is a beauty influencer from Nigeria.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 120.079,
     "end": 125.12,
     "text": "She's been creating makeup video tutorials for women of colour for 8 years",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 125.12,
     "end": 127.84,
     "text": "and has hundreds of thousands of followers.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 127.84,
     "end": 134.159,
     "text": "Her videos go from eyebrow shaping tips to shopping trips in Nigeria's bigger city, Lagos.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 134.159,
     "end": 138.319,
     "text": "Here's Dima telling BBC World Service programme the conversation,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 138.319,
     "end": 142,
     "text": "how her life as an influencer got started.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 32,
     "start": 142,
     "end": 147.359,
     "text": "So, I did a makeup do's and don'ts and video in 2017.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 147.359,
     "end": 150.719,
     "text": "I had seen a couple of people do it prior to that, but then, you know,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 150.719,
     "end": 153.439,
     "text": "I kind of did it in a way that was a bit funny.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 153.439,
     "end": 157.28,
     "text": "Maybe cracked a couple of jerks around the ways or the,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 157.28,
     "end": 160.879,
     "text": "maybe not so great ways some people were doing things at the time.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 160.879,
     "end": 163.599,
     "text": "And that video just took off.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 163.68,
     "end": 167.68,
     "text": "In 2017, Dima made a YouTube video of makeup,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 167.68,
     "end": 174,
-    "text": "In 2017, Dimma made a YouTube video of make-up dos and don’ts - rules about what to do and what not to do in a certain situation, or when doing a certain activity.",
+    "text": "do's and don'ts. Rules about what to do and what not to do in a certain situation,",
     "speaker": "dos and don’ts"
   },
   {
+    "order": 40,
     "start": 174,
     "end": 176.159,
     "text": "or when doing a certain activity.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 176.159,
     "end": 180.799,
     "text": "Dima wasn't the first Nigerian influencer to post videos on YouTube,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 180.799,
     "end": 187.199,
     "text": "but the difference was her humour, the way she laughed and cracked or told jokes.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 187.84,
     "end": 193.039,
     "text": "More and more people started watching Dima's makeup videos and they soon took off,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 193.039,
     "end": 196.4,
     "text": "meaning they suddenly became successful and popular.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 196.4,
     "end": 199.599,
     "text": "Our next beauty influencer is Ramal Membud,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 199.599,
     "end": 204.239,
     "text": "a photographer turned makeup artist based in Islamabad, Pakistan.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 47,
     "start": 204.239,
     "end": 208.56,
     "text": "As well as makeup tips, Ramal creates colourful face painting designs,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 208.56,
     "end": 211.919,
     "text": "which she says helped her through a period of depression.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 212.56,
     "end": 218.079,
     "text": "She has popular Instagram and YouTube accounts on which she shares content to help other women",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 218.079,
     "end": 220.239,
     "text": "with their confidence and mental health.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 220.32,
     "end": 226.159,
     "text": "Like Dima, Ramal now has Instagram followers numbering in the hundreds of thousands.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 226.159,
     "end": 230.64,
     "text": "So how does she decide what to share in her blogs and videos?",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 230.64,
     "end": 233.84,
     "text": "What boundaries does she set for her followers?",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 233.84,
     "end": 237.6,
     "text": "Here's what Ramal told BBC World Service programme, the conversation.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 239.439,
     "end": 242.8,
-    "text": "Well, people are very intrigued about your personal life as a blogger.",
-    "speaker": null
+    "text": "Well, people are very intrigued about your personal life as a blogger ",
+    "speaker": "intrigued a given,"
   },
   {
+    "order": 56,
     "start": 243.6,
     "end": 247.68,
     "text": "That's a given, but you need to have strong boundaries.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 247.76,
     "end": 250.56,
     "text": "I do share about my family and friends.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 250.56,
     "end": 255.599,
     "text": "You actually have to ask people if they are comfortable being on your platform or not.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 256.959,
     "end": 261.439,
     "text": "Ramal says her followers are intrigued about her personal life.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 261.439,
     "end": 264.72,
     "text": "If you're intrigued, you're very interested in someone,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 264.72,
     "end": 268.96,
     "text": "often because of something unusual or unexpected about them.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 268.96,
     "end": 274.079,
     "text": "Ramal accepts that her followers' interest in her personal life is a given,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 274.079,
     "end": 278.959,
-    "text": "And finally, a given describes something that is considered to be a fact, or that is certain to happen.",
+    "text": "something that is considered to be a fact or that is certain to happen.",
     "speaker": "a given"
   },
   {
+    "order": 64,
     "start": 278.959,
     "end": 283.68,
     "text": "For example, you could say it's a given that there will be champagne",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 283.68,
     "end": 290,
     "text": "at a typical British wedding, meaning it's certain it's a fact there will be champagne.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 290,
     "end": 293.759,
     "text": "But just because her followers' interest in her life is a given,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 293.759,
     "end": 297.039,
     "text": "that doesn't mean Ramal shares everything with them.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 297.039,
     "end": 299.12,
     "text": "She has to set boundaries.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 299.12,
     "end": 302.56,
     "text": "Both Dima and Ramal make money as beauty influencers,",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 302.56,
     "end": 307.68,
     "text": "but what's amazing is how they're using social media to start conversations about what",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 71,
     "start": 307.68,
     "end": 313.12,
     "text": "beauty means to women in their country and sharing some great lipstick tips as well.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 313.12,
     "end": 317.28,
-    "text": "And speaking of lipstick, let’s reveal the answer to my question, Sam. I asked you when lipstick was first used.",
-    "speaker": "Neil"
+    "text": "And speaking of lipstick, let's reveal the answer to my question, Sam.",
+    "speaker": null
   },
   {
+    "order": 73,
     "start": 317.28,
     "end": 319.92,
     "text": "I asked you when lipstick was first used.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 319.92,
     "end": 324.079,
-    "text": "I said it was around 5000 years ago by the ancient Sumerians.",
+    "text": "I said it was around 5000 years ago by the ancient Sumerians. ",
     "speaker": "Sam"
   },
   {
+    "order": 75,
     "start": 324.079,
     "end": 326.24,
     "text": "Which was the correct answer?",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 326.879,
     "end": 331.68,
     "text": "Ancient Sumerians, both men and women, painted their faces, eyes and lips.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 331.759,
     "end": 333.84,
     "text": "A very early kind of lipstick.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 333.84,
     "end": 338.079,
     "text": "Okay, let's recap the vocabulary from this program on influencers,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 338.079,
     "end": 343.199,
     "text": "people who influence their social media followers to try different products.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 343.199,
     "end": 348.56,
     "text": "Doos and don'ts are rules about what you should and shouldn't do in certain situations.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 348.56,
     "end": 351.12,
-    "text": "To crack a joke, means to tell a joke.",
-    "speaker": "crack a joke"
+    "text": "To crack a joke means to tell a joke.",
+    "speaker": "Sam"
   },
   {
+    "order": 82,
     "start": 351.12,
     "end": 356.319,
     "text": "The phrasal verb take off means to suddenly become popular or successful.",
     "speaker": "take off"
   },
   {
+    "order": 83,
     "start": 356.319,
     "end": 359.199,
     "text": "If you are intrigued, you are interested in someone,",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 359.199,
     "end": 361.92,
     "text": "often because of something unusual about them.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 361.92,
     "end": 363.519,
-    "text": "And finally, a given.",
-    "speaker": null
+    "text": "And finally, a given ",
+    "speaker": "a given"
   },
   {
+    "order": 86,
     "start": 363.519,
     "end": 366.8,
     "text": "Describe something that is considered to be a fact,",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 366.8,
     "end": 368.8,
     "text": "or that is certain to happen.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 368.8,
     "end": 370.639,
-    "text": "Once again, our six minutes are up! Goodbye for now!",
-    "speaker": "Neil"
+    "text": "Once again, our six minutes are up.",
+    "speaker": null
   },
   {
+    "order": 89,
     "start": 370.639,
     "end": 371.599,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 371.599,
     "end": 372,
-    "text": "Bye bye!",
-    "speaker": "Sam"
+    "text": "Bye bye.",
+    "speaker": null
   }
 ]

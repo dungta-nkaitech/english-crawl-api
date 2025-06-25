@@ -1,524 +1,611 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.6,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7.799,
     "end": 11.88,
     "text": "Hello, this is 6-minute English from BBCLearningEnglish. I'm Neil",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 11.88,
     "end": 13.28,
     "text": "And I'm Beth.",
-    "speaker": null
-  },
-  {
-    "start": 13.28,
-    "end": 18.32,
-    "text": "And I’m Beth. Do the names, 'Lion’s Mane', or, 'Turkey Tail', mean anything to you, Neil?",
-    "speaker": "Beth"
-  },
-  {
-    "start": 18.32,
-    "end": 24.679,
-    "text": "Lion’s Mane and Turkey Tail? Sounds like things you might find in the zoo!",
     "speaker": "Neil"
   },
   {
+    "order": 3,
+    "start": 13.28,
+    "end": 18.32,
+    "text": "Do the names Lion's Mane or Turkey Tail mean anything to you, Neil?",
+    "speaker": null
+  },
+  {
+    "order": 4,
+    "start": 18.32,
+    "end": 24.679,
+    "text": "Lion’s Mane and Turkey Tail? Sounds like things you might find in the zoo",
+    "speaker": "Neil"
+  },
+  {
+    "order": 5,
     "start": 24.679,
     "end": 26.08,
     "text": "Oh, good guess.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 26.08,
     "end": 29.359,
     "text": "But they are actually the names of mushrooms.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 29.439,
     "end": 33.92,
     "text": "Lion's Mane is a white, hairy mushroom found across Asia.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 33.92,
     "end": 40.399,
     "text": "And Turkey Tail is a brown, fan-shaped fungus, which looks a bit like, well, a Turkey's tail.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 40.399,
     "end": 44.879,
     "text": "But if you haven't already heard these names, you probably will soon,",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 44.879,
     "end": 48.48,
     "text": "because these mushrooms are becoming popular as medicine.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 48.48,
     "end": 52.719,
-    "text": "Throughout history, our ancestors used mushrooms as food,",
-    "speaker": null
+    "text": "Throughout history our ancestors used mushrooms as food, ",
+    "speaker": "Neil"
   },
   {
+    "order": 12,
     "start": 52.719,
     "end": 58.399,
     "text": "but also as medicine for physical problems and mental illnesses like depression.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 58.399,
     "end": 63.199,
     "text": "In the 21st century, this medicine is being rediscovered and marketed.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 63.199,
     "end": 65.679,
     "text": "Today, mushrooms are big business.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 65.679,
     "end": 73.439,
     "text": "In 2021, the global medicinal mushroom market was valued at $26 billion and growing.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 73.439,
     "end": 77.92,
     "text": "But how real are the supposed health benefits of mushrooms?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 77.92,
     "end": 82.96,
-    "text": "But how real are the supposed health benefits of mushrooms? In this programme we’ll be finding out, along with some useful new vocabulary.",
-    "speaker": "Beth"
-  },
-  {
-    "start": 82.96,
-    "end": 85.439,
-    "text": "But first, I have a question for you, Beth.",
+    "text": "In this programme, we'll be finding out, along with some useful new vocabulary.",
     "speaker": null
   },
   {
+    "order": 18,
+    "start": 82.96,
+    "end": 85.439,
+    "text": "But first, I have a question for you, Beth.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 19,
     "start": 86.239,
     "end": 92.159,
     "text": "Neither plant nor animal, mushrooms are mysterious and amazing things.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 92.159,
     "end": 97.599,
     "text": "But which of the following statements about mushrooms is actually true?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 97.599,
     "end": 100.879,
-    "text": "a)    Most mushrooms are poisonous?",
-    "speaker": "Neil"
+    "text": "A. Most mushrooms are poisonous.",
+    "speaker": null
   },
   {
+    "order": 22,
     "start": 100.879,
     "end": 103.359,
-    "text": "b)    Some mushrooms can fly? or,",
+    "text": "B. Some mushrooms can fly.",
     "speaker": "Neil"
   },
   {
+    "order": 23,
     "start": 103.359,
     "end": 106.4,
-    "text": "c)    Some mushrooms glow in the dark?",
-    "speaker": "Neil"
+    "text": "Or C. Some mushrooms glow in the dark.",
+    "speaker": null
   },
   {
+    "order": 24,
     "start": 106.4,
     "end": 109.039,
-    "text": "I think some mushrooms glow in the dark.",
-    "speaker": "Beth"
+    "text": "Hmm, I think some mushrooms glow in the dark.",
+    "speaker": null
   },
   {
+    "order": 25,
     "start": 109.039,
     "end": 113.439,
     "text": "Okay, Beth, we'll find out if that's true at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 113.519,
     "end": 119.039,
     "text": "Scientific researcher Dr. Emily Leaming has been studying the medicinal properties of mushrooms",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 119.039,
     "end": 120.879,
     "text": "for King's College London.",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 28,
     "start": 120.879,
     "end": 123.28,
     "text": "She shared her discoveries with Sheila Dillan,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 123.28,
     "end": 126.959,
     "text": "presenter of the BBC Radio 4 programme The Food Chain.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 127.599,
     "end": 130.8,
-    "text": "So I think these mushrooms are very much having a moment right now.",
-    "speaker": null
+    "text": "So, I think these mushrooms are very much having a moment right now",
+    "speaker": "having a momentclaims"
   },
   {
+    "order": 31,
     "start": 130.8,
     "end": 133.919,
     "text": "They're kind of labelled as sort of superbrained drugs.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 133.919,
     "end": 137.68,
     "text": "So things are going to potentially help with lessening anxiety,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 137.68,
     "end": 140,
     "text": "improving potentially depression.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 140.08,
     "end": 143.439,
     "text": "It's very much about these mind benefits that we're seeing,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 143.439,
     "end": 146.24,
     "text": "the labels on the claims getting better.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 146.24,
     "end": 147.84,
     "text": "What do you think of those claims?",
-    "speaker": "Sheila Dillon"
-  },
-  {
-    "start": 147.84,
-    "end": 151.759,
-    "text": "I think that at the moment they seem to be quite overblown.",
     "speaker": null
   },
   {
-    "start": 151.759,
-    "end": 155.84,
-    "text": "I think that at the moment they seem to be quite overblown. We don't have as much evidence on humans at all, it's very limited.",
+    "order": 37,
+    "start": 147.84,
+    "end": 151.759,
+    "text": "I think that at the moment they seem to be quite overblown.",
     "speaker": "overblown."
   },
   {
+    "order": 38,
+    "start": 151.759,
+    "end": 155.84,
+    "text": "We don't have as much evidence on humans at all. It's very limited.",
+    "speaker": null
+  },
+  {
+    "order": 39,
     "start": 155.84,
     "end": 160.879,
     "text": "Dr. Leaming says that right now medicinal mushrooms are having a moment.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 160.879,
     "end": 166.639,
-    "text": "Dr Leeming says that right now medicinal mushrooms are having a moment. If something is having a moment, it’s very popular or fashionable at a particular time.",
-    "speaker": "having a momenthaving a moment"
-  },
-  {
-    "start": 166.639,
-    "end": 170.319,
-    "text": "Mushrooms are popular due to the claims about what they can do.",
+    "text": "If something is having a moment, it's very popular or fashionable at a particular time.",
     "speaker": null
   },
   {
+    "order": 41,
+    "start": 166.639,
+    "end": 170.319,
+    "text": "Mushrooms are popular due to the claims about what they can do,",
+    "speaker": "claimsclaim overblown"
+  },
+  {
+    "order": 42,
     "start": 170.319,
     "end": 172.959,
     "text": "For example, reduce depression.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 172.959,
     "end": 175.679,
     "text": "A claim is a statement that something is true,",
+    "speaker": "having a moment"
+  },
+  {
+    "order": 44,
+    "start": 175.679,
+    "end": 179.119,
+    "text": "although it cannot be proved and others might not believe it.",
     "speaker": null
   },
   {
-    "start": 175.679,
-    "end": 179.119,
-    "text": "A claim is a statement that something is true or a fact, although it cannot be proved and others might not believe it.",
-    "speaker": "claim"
-  },
-  {
+    "order": 45,
     "start": 179.119,
     "end": 183.199,
     "text": "Dr. Leaming thinks some of the claims made about mushrooms are overblown,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 183.199,
     "end": 187.039,
     "text": "exaggerated to see more significant than they really are.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 187.039,
     "end": 189.919,
     "text": "The problem is that to sell something as medicine,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 189.919,
     "end": 193.039,
     "text": "you need scientific proof of its benefits.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 193.12,
     "end": 196.959,
     "text": "You might feel less stressed after drinking chamomile tea,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 196.959,
     "end": 201.439,
     "text": "but that doesn't mean you can legally call chamomile a medicine,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 201.439,
     "end": 205.12,
     "text": "even though it's been used for centuries to help people relax.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 205.12,
     "end": 210.319,
-    "text": "However, that hasn't discouraged many from experimenting, especially young people.",
-    "speaker": null
+    "text": "However, that hasn’t discouraged many from experimenting, especially young people.",
+    "speaker": "Neil"
   },
   {
+    "order": 53,
     "start": 210.319,
     "end": 214.159,
     "text": "Emma Clifford works for food research organization Mintel.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 214.159,
     "end": 220.479,
     "text": "Here she discusses young people's attitude towards mushrooms for BBC Radio 4 program, the food chain.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 221.199,
     "end": 226.879,
     "text": "Lots of people absolutely want there to be scientific proof for health claims on food and drink,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 226.879,
     "end": 234.639,
     "text": "because there still is a fair amount of skepticism, distrust, and general confusion around functionality.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 234.639,
     "end": 240.159,
     "text": "However, I also think that for many consumers, the medicinal properties of certain ingredients",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 240.159,
     "end": 245.439,
     "text": "based on natural and holistic ancient wisdom may be just as compelling,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 245.68,
     "end": 250.639,
     "text": "if not more so than knowledge based on modern science and clinical trials.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 250.639,
     "end": 253.439,
     "text": "And I think many people, young people in particular,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 253.439,
     "end": 256.24,
     "text": "they're just really intrigued to give these ingredients a go.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 256.959,
     "end": 261.439,
     "text": "People want scientific evidence that what they are taking is good for them,",
-    "speaker": null
+    "speaker": "ancient wisdom"
   },
   {
+    "order": 63,
     "start": 261.439,
     "end": 265.04,
     "text": "but many are also convinced by ancient wisdom,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 265.04,
     "end": 271.12,
     "text": "a phrase referring to knowledge, philosophy, and beliefs that existed before the arrival of",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 271.12,
     "end": 276.319,
     "text": "Christianity in Europe. Ancient knowledge about medicinal plants has been kept alive,",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 276.319,
     "end": 279.84,
     "text": "and some trust this wisdom more than modern medicine.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 279.84,
     "end": 283.28,
     "text": "Young people are especially prepared to give mushrooms a go.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 283.28,
     "end": 287.519,
-    "text": "If you give something a go, you try doing something to see if you like it.",
-    "speaker": "give something a go"
+    "text": "If you give something a go, you try doing something to see if you like it.",
+    "speaker": "ancient wisdom"
   },
   {
+    "order": 69,
     "start": 287.519,
     "end": 292.639,
     "text": "They are intrigued about mushrooms, they find them interesting and want to know more,",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 292.639,
     "end": 296.959,
     "text": "which is not surprising given some of the amazing things mushrooms can do.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 296.959,
     "end": 300.24,
     "text": "I think it's time to reveal the answer to your question, Neil.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 300.24,
     "end": 305.28,
     "text": "I guess one of the amazing things some mushrooms can do is glow in the dark.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 305.28,
     "end": 308.16,
     "text": "That was, Beth, the correct answer.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 308.16,
     "end": 314.16,
     "text": "About 80 species of fungi are bioluminescent, meaning they really do glow in the dark.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 314.8,
     "end": 318.319,
     "text": "Okay, let's recap the vocabulary we've learned in this program,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 318.319,
     "end": 325.04,
     "text": "starting with having a moment, a phrase meaning to be popular or fashionable at a particular time.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 325.12,
     "end": 331.28,
     "text": "A claim is a statement that something is true or a fact, although it cannot be proved and others",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 331.28,
     "end": 337.04,
     "text": "might not believe it. The adjective overblown means exaggerated to seem bigger or more important",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 337.04,
     "end": 344,
     "text": "than it really is. In Britain, the phrase ancient wisdom describes pagan knowledge, philosophy,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 344,
     "end": 346.879,
     "text": "and beliefs that existed before Christianity.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 346.879,
     "end": 351.36,
     "text": "If you give something a go, you try doing something to see if you like it.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 351.36,
     "end": 356.4,
-    "text": "And finally, when someone is intrigued by something strange or mysterious,",
-    "speaker": null
+    "text": "And finally, when someone is intrigued by something strange or mysterious,",
+    "speaker": "intrigued"
   },
   {
+    "order": 83,
     "start": 356.4,
     "end": 359.04,
     "text": "they're very interested and want to know more.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 359.04,
     "end": 364,
     "text": "Join us next time for more new useful vocabulary here at 6 Minute English.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 364,
     "end": 364.96,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 364.96,
     "end": 365.6,
     "text": "Bye!",
-    "speaker": "Neil"
+    "speaker": null
   }
 ]

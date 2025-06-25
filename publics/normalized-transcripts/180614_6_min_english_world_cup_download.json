@@ -1,833 +1,972 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.56,
     "text": "From BBC Learning English",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.439,
     "end": 16.399,
-    "text": "Hello and welcome to 6 Minute English, I'm Rob…",
-    "speaker": "Rob"
+    "text": "Hello and welcome to 6 Minute English, I'm Rob.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 16.399,
     "end": 18.48,
     "text": "And hello, I'm Neil and Rob.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 18.48,
     "end": 23.039,
-    "text": "And hello, I'm Neil. And Rob, I have to say, I am very very excited!",
-    "speaker": "Neil"
+    "text": "I have to say I am very, very excited.",
+    "speaker": null
   },
   {
+    "order": 7,
     "start": 23.039,
     "end": 25.519,
     "text": "Oh, why is that Neil? Are you going on holiday?",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 25.599,
     "end": 27.679,
     "text": "Oh, come on, Rob. You know why?",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 27.679,
     "end": 32,
     "text": "The 2018 World Cup is about to start in Russia,",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 10,
     "start": 32,
     "end": 34.56,
     "text": "four weeks of world-class football to watch.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 34.56,
     "end": 38,
     "text": "By world-class, I mean some of the best in the world.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 38,
     "end": 40,
     "text": "Oh, yes, yes. I know that.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 40,
     "end": 43.76,
-    "text": "Yes, yes, I know that. But to be honest, I'll just be taking a passing interest – I've got better things to do!",
+    "text": "But to be honest, I'll just be taking a passing interest.",
     "speaker": "Rob"
   },
   {
+    "order": 14,
     "start": 43.76,
     "end": 45.28,
     "text": "I've got better things to do.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 45.28,
     "end": 46.719,
     "text": "Better things to do.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 46.719,
     "end": 49.84,
     "text": "Well, I'm going to be glued to my TV",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 49.84,
     "end": 54.799,
     "text": "to watch the 32 countries compete for the title of World Cup Champions.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 54.879,
     "end": 57.039,
     "text": "And if you love football or not,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 57.039,
     "end": 59.359,
-    "text": "… we've got some useful vocabulary to learn.",
-    "speaker": "Neil"
+    "text": "we've got some useful vocabulary to learn.",
+    "speaker": "Rob"
   },
   {
+    "order": 20,
     "start": 59.359,
     "end": 62.559,
     "text": "But let's start with a question for you to answer, Neil,",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 21,
     "start": 62.559,
     "end": 64.799,
     "text": "to see how much you really know.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 64.799,
     "end": 70.159,
     "text": "Now, the mascot for Russia 2018 is a wolf called Zabivarka.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 70.159,
     "end": 72.479,
     "text": "What does his name mean in English?",
+    "speaker": "Neil"
+  },
+  {
+    "order": 24,
+    "start": 72.479,
+    "end": 74.799,
+    "text": "Is it A. The winner?",
     "speaker": null
   },
   {
-    "start": 72.479,
-    "end": 74.799,
-    "text": "a) The winner",
-    "speaker": "Rob"
-  },
-  {
+    "order": 25,
     "start": 74.799,
     "end": 78.239,
-    "text": "b) The one who scores or",
+    "text": "b) The one who scores or c) Fair play",
     "speaker": "Rob"
   },
   {
+    "order": 26,
     "start": 78.239,
     "end": 81.359,
     "text": "Uh, well, my Russian is a little rusty,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 81.359,
     "end": 83.679,
     "text": "so I'll go for A. The winner.",
-    "speaker": null
-  },
-  {
-    "start": 83.68,
-    "end": 86.24,
-    "text": "OK. I'll reveal the answer later.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 86.24,
-    "end": 88.88,
-    "text": "OK, but now I have a question for you, Rob.",
-    "speaker": null
-  },
-  {
-    "start": 88.88,
-    "end": 92.08,
-    "text": "OK, but now I have a question for you, Rob. Who won the last World Cup in Brazil in 2014?",
     "speaker": "Neil"
   },
   {
+    "order": 28,
+    "start": 83.68,
+    "end": 86.24,
+    "text": "OK, I'll reveal the answer later.",
+    "speaker": null
+  },
+  {
+    "order": 29,
+    "start": 86.24,
+    "end": 88.88,
+    "text": "OK, but now I have a question for you, Rob.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 30,
+    "start": 88.88,
+    "end": 92.08,
+    "text": "Who won the last World Cup in Brazil in 2014?",
+    "speaker": null
+  },
+  {
+    "order": 31,
     "start": 92.08,
     "end": 94.08,
     "text": "Oh, come on. It was Germany, Neil,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 94.08,
     "end": 97.6,
     "text": "and they beat Lionel Messi's Argentina in the final.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 97.6,
     "end": 100.16,
     "text": "Both teams are among the favourites again this time,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 100.16,
     "end": 103.12,
     "text": "but there'll be lots of countries who fancy their chances",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 103.12,
     "end": 105.2,
     "text": "of lifting the World Cup trophy.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 105.2,
     "end": 107.84,
     "text": "That means they think they're likely to succeed,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 107.84,
     "end": 109.44,
     "text": "even though they might not.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 109.44,
     "end": 111.76,
-    "text": "So you do know your football, Rob.",
-    "speaker": null
+    "text": "So you do know your football, Rob!",
+    "speaker": "Neil"
   },
   {
+    "order": 39,
     "start": 111.84,
     "end": 114.719,
     "text": "Anyway, the final will take place in the revamped",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 114.719,
     "end": 120.719,
     "text": "or much improved Luzniki Stadium in Moscow on July 15th, 2018.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 120.719,
     "end": 122.64,
     "text": "Did I say I was very excited?",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 123.12,
     "end": 125.04,
     "text": "Well, I'm not the only one.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 125.04,
     "end": 128.159,
     "text": "We are some people what they think about the World Cup",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 128.159,
     "end": 131.439,
     "text": "and hear a Keith and Jane describing their feelings.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 131.439,
     "end": 133.68,
     "text": "It's a four-week festival of football, isn't it?",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 133.68,
     "end": 136,
     "text": "Everyone kind of gets behind their country.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 136,
     "end": 138.8,
     "text": "You also get to know about football teams in parts of the world.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 138.8,
     "end": 141.28,
     "text": "You don't really think about very often.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 141.36,
     "end": 145.039,
     "text": "So it's that double-sided thing of the actual football itself,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 145.039,
     "end": 148.719,
     "text": "which is exciting, but also the stories that happen off the pitch as well.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 148.719,
     "end": 152,
     "text": "I'm really excited. I can't wait for it to start.",
-    "speaker": null
+    "speaker": "underdogs"
   },
   {
+    "order": 52,
     "start": 152,
     "end": 154.639,
     "text": "One thing, there's going to be great telly every night.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 155.36,
     "end": 157.759,
     "text": "It's great to see the underdogs that are going to come through",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 157.759,
     "end": 161.84,
     "text": "and have a really sensational tournament.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 161.84,
     "end": 165.199,
     "text": "I think it's the enthusiasm of the crowds",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 165.199,
     "end": 167.84,
     "text": "and the love of football that people have.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 168.879,
     "end": 171.039,
     "text": "So two football fans there.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 171.039,
     "end": 173.12,
     "text": "Keith used some good alliteration.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 173.12,
     "end": 175.519,
     "text": "That's words beginning with the same letter.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 175.519,
     "end": 177.759,
     "text": "Four-week festival of fun.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 178.479,
     "end": 181.199,
     "text": "He talked about people getting behind their country,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 181.199,
     "end": 184.879,
     "text": "not literally going behind their team, but supporting them.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 184.879,
     "end": 186.399,
     "text": "Who are you supporting, Rob?",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 186.399,
     "end": 188.56,
-    "text": "Well, my home team is England,",
-    "speaker": null
+    "text": "Well, my home team is England ",
+    "speaker": "underdogsunderdogunderdogs"
   },
   {
+    "order": 65,
     "start": 188.56,
     "end": 190.639,
     "text": "but I'm not confident they'll do well.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 190.639,
     "end": 192.319,
     "text": "That doesn't matter to Jane, though.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 192.319,
     "end": 195.28,
     "text": "She said it's fun to see the underdogs do well.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 195.28,
     "end": 198.719,
     "text": "The underdog here means the team considered to be the weakest",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 198.719,
     "end": 200.399,
     "text": "and the least likely to win.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 200.48,
     "end": 203.28,
     "text": "You could say Iceland are the underdogs in this tournament.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 203.28,
     "end": 204.319,
     "text": "Maybe, Rob.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 204.319,
     "end": 207.28,
     "text": "So you can see where everyone's excited by the World Cup.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 207.28,
     "end": 208.319,
     "text": "Not everyone, Neil.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 74,
     "start": 208.319,
     "end": 211.28,
     "text": "For many people, they're not bothered by the tournament.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 211.28,
     "end": 213.68,
     "text": "We could say it's not their thing.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 213.68,
     "end": 215.599,
     "text": "And there are different reasons for it.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 215.599,
     "end": 219.12,
     "text": "Let's hear from some other people, Jeff and Inga.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 219.12,
     "end": 221.52,
     "text": "There's not a lot of sportsmanship in it now.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 221.52,
     "end": 224.24,
     "text": "I find that it's very corporate.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 225.12,
     "end": 227.68,
     "text": "There's a lot of what I would call cheating going on.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 227.68,
     "end": 229.12,
     "text": "People taking dives.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 229.2,
     "end": 231.2,
     "text": "People falling over because somebody looked at them",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 231.2,
     "end": 232.8,
     "text": "the wrong way on the pitch.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 232.8,
     "end": 234.08,
     "text": "Not really that excited.",
-    "speaker": null
+    "speaker": "hype"
   },
   {
+    "order": 85,
     "start": 234.08,
     "end": 237.28,
     "text": "It's just too much hype about nothing, really.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 237.28,
     "end": 241.84,
     "text": "The World Cup is a great event if you are into football,",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 241.84,
     "end": 244.24,
     "text": "but I'm not so can't be really bored.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 244.96,
     "end": 246,
     "text": "Well, there you go, Neil.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 246,
     "end": 247.68,
     "text": "Some sensible people there.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 247.68,
     "end": 250,
     "text": "Jeff thinks football has changed",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 250,
     "end": 252.4,
     "text": "and now lacks real sportsmanship.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 252.4,
     "end": 254.56,
     "text": "That's fair and honest behaviour.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 254.56,
     "end": 256.879,
     "text": "He even claims some players cheat.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 257.519,
     "end": 260.24,
-    "text": "I'm not sure about that, Rob, but maybe he's right",
-    "speaker": null
+    "text": "I'm not sure about that, Rob. But maybe he's right",
+    "speaker": "Neil"
   },
   {
+    "order": 95,
     "start": 260.24,
     "end": 262.719,
     "text": "about the tournament becoming very corporate,",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 262.719,
     "end": 265.199,
     "text": "which means it's sponsored by big companies",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 265.199,
     "end": 268.079,
     "text": "who like to decide how the tournament's run.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 268.079,
     "end": 270.719,
     "text": "And Inga thinks there's too much hype.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 270.719,
     "end": 273.199,
     "text": "This means there's a lot of talk and publicity",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 273.199,
     "end": 275.36,
     "text": "to make people interested in something.",
-    "speaker": null
+    "speaker": "underdogsportsmanship"
   },
   {
+    "order": 101,
     "start": 275.36,
     "end": 277.839,
     "text": "Well, there is certainly a lot of talk about the World Cup,",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 277.839,
     "end": 281.199,
     "text": "but we have to remember it's not everybody's cup of tea.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 281.199,
     "end": 283.199,
     "text": "Well, it is my cup of tea, Rob.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 283.199,
     "end": 285.6,
-    "text": "Well, it is my cup of tea, Rob. Now, can we have the answer to that question, please?",
-    "speaker": "Neil"
+    "text": "Now, can we have the answer to that question, please?",
+    "speaker": null
   },
   {
+    "order": 105,
     "start": 285.6,
     "end": 289.439,
     "text": "Yes, earlier I said the mascot for Russia 2018,",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 289.439,
     "end": 292,
     "text": "it's a wolf called Zabivarka.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 292,
     "end": 294.4,
     "text": "What does his name mean in English?",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 294.4,
     "end": 296.24,
-    "text": "a) The winner",
-    "speaker": "Rob"
+    "text": "Was it A, the winner?",
+    "speaker": null
   },
   {
+    "order": 109,
     "start": 296.24,
     "end": 299.12,
-    "text": "b) The one who scores",
-    "speaker": "Rob"
+    "text": "B, the one who scores or C, fair play?",
+    "speaker": null
   },
   {
+    "order": 110,
     "start": 299.12,
     "end": 302.879,
     "text": "And I said A, the winner, because football's all about winning, isn't it?",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 302.879,
     "end": 305.04,
     "text": "It's the taking part that's important, Neil,",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 305.04,
     "end": 308.56,
     "text": "and you took part in my quiz and got it wrong.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 113,
     "start": 308.56,
     "end": 311.68,
     "text": "The answer is B, the one who scores.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 311.68,
     "end": 313.52,
     "text": "Now, let's have a brief reminder",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 313.599,
     "end": 315.68,
     "text": "of the vocabulary we've discussed today,",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 315.68,
     "end": 317.519,
     "text": "starting with world class.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 317.519,
     "end": 320,
-    "text": "That means some of the best in the world.",
-    "speaker": null
+    "text": "That means 'some of the best in the world",
+    "speaker": "Neil"
   },
   {
+    "order": 118,
     "start": 320,
     "end": 322.799,
     "text": "We should see some world class football in Russia.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 322.799,
     "end": 324.319,
     "text": "If we're watching it, Neil.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 324.319,
     "end": 326.719,
     "text": "Next, we had fancy their chances.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 326.719,
     "end": 328.719,
     "text": "If someone fancies their chances,",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 328.719,
     "end": 331.519,
     "text": "they think they're likely to succeed, but they might not.",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 331.519,
     "end": 333.759,
     "text": "Let's move on to get behind.",
-    "speaker": null
-  },
-  {
-    "start": 333.759,
-    "end": 338.079,
-    "text": "Let's move on to get behind. If we get behind someone – like our national football team – we support them.",
     "speaker": "get behind"
   },
   {
+    "order": 124,
+    "start": 333.759,
+    "end": 338.079,
+    "text": "If we get behind someone, like our national football team, we support them.",
+    "speaker": null
+  },
+  {
+    "order": 125,
     "start": 338.079,
     "end": 340.399,
     "text": "Are you getting behind our national team, Neil?",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 126,
     "start": 340.399,
     "end": 343.439,
     "text": "No, I'm supporting the underdog, Iceland, Rob.",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 343.519,
     "end": 346.8,
     "text": "That's a word to describe the team or person least likely to win.",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 347.519,
     "end": 349.519,
     "text": "Next, we discussed sportsmanship.",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 349.519,
     "end": 352.319,
     "text": "That describes fair and honest behaviour.",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 352.319,
     "end": 354.56,
     "text": "And finally, we talked about hype,",
     "speaker": null
   },
   {
+    "order": 131,
     "start": 354.56,
     "end": 357.04,
     "text": "which means lots of talking and publicity",
     "speaker": null
   },
   {
+    "order": 132,
     "start": 357.04,
     "end": 358.72,
     "text": "to make people interested in something.",
     "speaker": null
   },
   {
+    "order": 133,
     "start": 359.279,
     "end": 362.639,
     "text": "Well, we've had enough hype about the world cup today and we're out of time.",
     "speaker": null
   },
   {
+    "order": 134,
     "start": 362.639,
     "end": 367.12,
-    "text": "Yes, but don't forget to join us on Facebook, Twitter, Instagram and YouTube for more Learning English fun. Thanks for joining us and goodbye.",
+    "text": "Yes, but don't forget to join us on Facebook, Twitter, Instagram and YouTube",
     "speaker": "Neil"
   },
   {
+    "order": 135,
     "start": 367.12,
     "end": 369.04,
     "text": "for more learning English fun.",
     "speaker": null
   },
   {
+    "order": 136,
     "start": 369.04,
     "end": 371.04,
     "text": "Thanks for joining us, and goodbye.",
     "speaker": null
   },
   {
+    "order": 137,
     "start": 371.04,
     "end": 371.839,
     "text": "Bye-bye.",
     "speaker": null
   },
   {
+    "order": 138,
     "start": 373.439,
     "end": 377.04,
     "text": "English from BBC Learning English.",

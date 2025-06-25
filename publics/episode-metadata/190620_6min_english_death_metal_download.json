@@ -5,6 +5,31 @@
   "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p07f3nck.jpg",
   "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/190620_6min_english_death_metal_download.mp3",
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/190620_6min_english_death_metal.pdf",
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "word": "genre",
+      "definition": "genrea style of something such as music or films"
+    },
+    {
+      "word": "lyrics",
+      "definition": "the words of a song"
+    },
+    {
+      "word": "desensitised (to something)",
+      "definition": "feeling that something extreme is normal"
+    },
+    {
+      "word": "joy/joyful",
+      "definition": "happiness noun/adjective"
+    },
+    {
+      "word": "cannibalism",
+      "definition": "cannibalismthe eating of human flesh by another human"
+    },
+    {
+      "word": "aesthetic",
+      "definition": "an artistic appreciation of something, a feeling that something is beautiful from an artistic point of view"
+    }
+  ],
   "quiz": null
 }

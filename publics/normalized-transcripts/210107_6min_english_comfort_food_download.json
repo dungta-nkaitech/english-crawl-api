@@ -1,572 +1,667 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 11.12,
     "text": "6Nate English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 13.439,
     "end": 17.519,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 17.519,
     "end": 18.64,
-    "text": "And I’m Rob.",
-    "speaker": "Rob"
+    "text": "And I'm Rob.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 18.64,
     "end": 21.519,
     "text": "I see you’ve been tucking into the biscuits again, Rob.",
     "speaker": "Neil"
   },
   {
+    "order": 6,
     "start": 21.519,
     "end": 23.199,
     "text": "Well, I have Neil.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 23.199,
     "end": 27.44,
     "text": "You can't beat a bite on a biscuit for a quick and easy sweet treat.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 27.44,
     "end": 30.96,
     "text": "They make me feel good, as long as I don't eat too many.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 30.96,
     "end": 33.359,
     "text": "So these are your edible comfortors.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 33.359,
     "end": 37.28,
     "text": "A comfortor is something that makes you feel relaxed and feel good.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 37.28,
     "end": 39.84,
     "text": "Put another way, it is your comfort food,",
-    "speaker": null
+    "speaker": "comforter"
   },
   {
+    "order": 12,
     "start": 39.84,
     "end": 42.48,
     "text": "which is what we're talking about in this programme.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 42.48,
     "end": 48.799,
     "text": "Yes, like biscuits, comfort food is snacks and meals we like to stuff our faces with,",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 48.799,
     "end": 50.64,
     "text": "even if it's not always good for us.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 51.12,
     "end": 53.84,
     "text": "We'll be discussing what actually makes us eat the stuff.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 54.64,
     "end": 57.04,
     "text": "But how about a question to feast on, Rob?",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 17,
     "start": 57.039,
     "end": 60.96,
     "text": "Patrick Bertoletti from the USA holds the Guinness World Record",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 60.96,
     "end": 64.159,
     "text": "for eating the most cream-filled biscuits in one minute.",
-    "speaker": null
+    "speaker": "take comfort"
   },
   {
+    "order": 19,
     "start": 64.159,
     "end": 66.799,
     "text": "But do you know how many biscuits he had?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 66.799,
     "end": 71.599,
     "text": "Was it A2, B7 or C15?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 72.319,
     "end": 76.48,
     "text": "Well, based on my biscuit-eating skills, I'd say 15,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 22,
     "start": 77.2,
     "end": 79.28,
     "text": "it depends if he had to swallow them as well.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 80.159,
     "end": 83.2,
-    "text": "I'm not sure about that, but I'll reveal the answer later on.",
-    "speaker": null
+    "text": "I’m not sure about that – but I’ll reveal the answer later on",
+    "speaker": "culinaryculinary"
   },
   {
+    "order": 24,
     "start": 83.68,
     "end": 89.6,
     "text": "Now, biscuits, ice cream, crisps and pizzas are all good examples of comfort food.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 89.6,
     "end": 93.6,
     "text": "They're easy to snack on and they don't require many culinary skills.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 93.6,
     "end": 95.76,
     "text": "Colony means related to cooking.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 96.96,
     "end": 102.879,
-    "text": "Umm, well that makes sense, but there must be something else that is urging us to seek out this ‘easy’ food?",
-    "speaker": "Rob"
+    "text": "Well, that makes sense, but there must be something else that is urging us to seek out this",
+    "speaker": null
   },
   {
+    "order": 28,
     "start": 102.879,
     "end": 103.76,
     "text": "easy food.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 104.24,
     "end": 110,
-    "text": "According to psychologist Shira Gabriel, it's about memories and emotional experiences.",
-    "speaker": null
+    "text": "According to psychologist Shira Gabriel, it’s about memories and emotional experiences.",
+    "speaker": "Neil"
   },
   {
+    "order": 30,
     "start": 110.239,
     "end": 116,
     "text": "She spoke on the Food Chain podcast on BBC World Service and said her comfort food was macaroni",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 116,
     "end": 118.879,
     "text": "and cheese, something that brings back memories.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 120.48,
     "end": 125.359,
     "text": "At some point in my life, those were foods that were made for me or shared with me by people",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 125.359,
     "end": 128.8,
     "text": "who cared about me and loved me and took care of me.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 128.8,
     "end": 135.199,
     "text": "So because those are the foods that I had in my youth, I've associated them with",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 135.199,
     "end": 138.479,
     "text": "sort of those feelings of being taken care of.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 138.479,
     "end": 140.239,
     "text": "And those associations are strong.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 140.239,
     "end": 142.959,
     "text": "The associations we have with food are very strong.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 142.959,
     "end": 149.919,
     "text": "And so by eating those foods, I'm able to activate those associations and give myself a rush",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 149.919,
     "end": 153.039,
     "text": "of positive feelings and a sense of acceptance.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 154.079,
     "end": 159.839,
-    "text": "… so like so many of us, Shira associates eating certain types of food with past experiences from her youth. Associates means makes a connection in your mind with something.",
+    "text": "So like so many of us, Shira associates eating certain types of food with past experiences",
     "speaker": "associatesAssociates"
   },
   {
+    "order": 41,
     "start": 159.839,
     "end": 160.56,
     "text": "from her youth.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 161.28,
     "end": 164.64,
     "text": "Associates means makes a connection in your mind with something.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 165.199,
     "end": 169.28,
     "text": "And these connections between food and memories are very strong.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 169.84,
     "end": 173.92,
-    "text": "And these connections between food and memories are very strong. I know eating biscuits reminds me of eating them after school, as a treat.",
-    "speaker": "Rob"
+    "text": "I know eating biscuits reminds me of eating them after school as a treat.",
+    "speaker": null
   },
   {
+    "order": 45,
     "start": 174.8,
     "end": 180.64,
-    "text": "Well, Shira explains how we get a rush – a sudden and strong emotion – of positive feelings when these memories are activated by eating comfort food.",
+    "text": "Well, Shira explains how we get a rush, a sudden and strong emotion of positive feelings",
     "speaker": "rush"
   },
   {
+    "order": 46,
     "start": 180.64,
     "end": 183.599,
     "text": "when these memories are activated by eating comfort food.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 184.159,
     "end": 189.28,
     "text": "And it's not just memories that are activated, but also the emotions we feel as well.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 189.919,
     "end": 195.439,
-    "text": "And it’s not just memories that are activated, but also the emotions we feel as well. If we felt happy the first time we ate the food, then hopefully we’ll feel happy when we eat it again.",
-    "speaker": "Rob"
+    "text": "If we felt happy the first time we ate the food, then hopefully we'll feel happy when we eat it",
+    "speaker": null
   },
   {
+    "order": 49,
     "start": 195.439,
     "end": 198.159,
     "text": "again. It's not always that simple, Rob.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 198.159,
     "end": 203.439,
     "text": "Tucking into food that's high in carbohydrates, sugar or salt can make us feel guilty.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 51,
     "start": 203.439,
     "end": 208.56,
     "text": "But we don't realise our minds are trying to trigger or start a positive emotion.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 208.56,
     "end": 210.879,
     "text": "And it's making us eat that food to do so.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 211.52,
     "end": 215.039,
     "text": "The Food Chain podcast explores this in more detail.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 215.039,
     "end": 218.959,
     "text": "But what is interesting is that comfort food isn't universal.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 219.439,
     "end": 222.4,
     "text": "Some languages don't have a comparable phrase.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 222.4,
     "end": 226.239,
-    "text": "It’s a good point and something food writer Jenny Linford talked about. Here’s her theory on why that is…",
+    "text": "It’s a good point and something food writer Jenny Linford talked about.",
     "speaker": "Neil"
   },
   {
+    "order": 57,
     "start": 226.239,
     "end": 228.079,
     "text": "Here's her theory on why that is.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 229.28,
     "end": 234.479,
     "text": "Talking to Italian friends, I realised that no, they don't have a phrase for comfort food.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 235.039,
     "end": 236.799,
     "text": "I think it's sort of irrelevant.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 236.799,
     "end": 238.799,
     "text": "My Italian friends I asked about comfort food.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 238.799,
     "end": 244.879,
     "text": "They said, they said, you know, food is always comfort and always pleasure.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 245.039,
     "end": 246.56,
     "text": "And it's a joyful thing.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 246.56,
     "end": 250.079,
     "text": "So it's just really interesting that, you know, this idea of comfort food is not universal.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 250.079,
     "end": 251.359,
     "text": "It's actually quite nuanced.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 252.719,
     "end": 257.439,
-    "text": "So according to Jenny's Italian friends, all food brings comfort and pleasure.",
-    "speaker": null
+    "text": "So, according to Jenny’s Italian friends, all food brings comfort and pleasure",
+    "speaker": "irrelevantnuanced"
   },
   {
+    "order": 66,
     "start": 258.079,
     "end": 261.68,
     "text": "Talking about specific comforting food is irrelevant.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 261.68,
     "end": 264.8,
     "text": "It's not important or has no connection with the discussion.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 265.36,
     "end": 268.959,
     "text": "Yes, she thinks the concept of comfort food is quite nuanced,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 268.959,
     "end": 272.879,
-    "text": "Yes, she thinks the concept of comfort food is quite nuanced, depending on where you are from – so there are small but important differences.",
-    "speaker": "nuanced"
+    "text": "depending on where you are from, so there are small but important differences.",
+    "speaker": null
   },
   {
+    "order": 70,
     "start": 273.519,
     "end": 278.159,
     "text": "Well, maybe we should take comfort from or feel less bad about.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 278.159,
     "end": 283.92,
     "text": "The fact that eating any kind of food can bring us joy, warmth, happiness and comfort.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 284.399,
     "end": 287.92,
     "text": "So if you don't mind, I think I'll munch on another biscuit.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 287.92,
     "end": 291.759,
     "text": "Are you trying to beat the record of Patrick Bertoletti from the USA?",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 291.759,
     "end": 295.519,
     "text": "Earlier, I mentioned he holds the Guinness World Record for eating the most",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 295.519,
     "end": 297.519,
     "text": "cream-filled biscuits in one minute.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 297.519,
     "end": 299.68,
     "text": "But how many biscuits did he eat?",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 299.68,
     "end": 300.8,
     "text": "Was it A, 2?",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 301.6,
     "end": 303.84,
-    "text": "b) 7, or",
+    "text": "b) 7, or c) 15",
     "speaker": "Neil"
   },
   {
+    "order": 79,
     "start": 304.48,
     "end": 307.12,
     "text": "I thought he ate 15. Was I right?",
     "speaker": "Rob"
   },
   {
+    "order": 80,
     "start": 307.759,
     "end": 312.319,
     "text": "No, Rob. He scoffed only 7 in one minute, so maybe you can beat him.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 312.879,
     "end": 316.72,
-    "text": "No, Rob. He scoffed only 7 in one minute. So maybe you can beat him? But before you do, let’s recap on some of the vocabulary we’ve been discussing.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 317.28,
-    "end": 322.4,
-    "text": "Of course. We've been talking about comfort food, food that makes us feel good,",
+    "text": "But before you do, let's recap on some of the vocabulary we've been discussing.",
     "speaker": null
   },
   {
-    "start": 322.4,
-    "end": 327.84,
-    "text": "Of course. We’ve been talking about comfort food – food that makes us feel good – and we described it as a ‘comforter’ - something that makes us feel relaxed and feel good.",
+    "order": 82,
+    "start": 317.28,
+    "end": 322.4,
+    "text": "Of course. We’ve been talking about comfort food – food that makes us feel good",
     "speaker": "comforter"
   },
   {
-    "start": 327.839,
-    "end": 331.119,
-    "text": "We also mentioned culinary – connected to cooking.",
-    "speaker": "culinary"
+    "order": 83,
+    "start": 322.4,
+    "end": 327.84,
+    "text": "and we described it as a comforter, something that makes us feel relaxed and feel good.",
+    "speaker": null
   },
   {
+    "order": 84,
+    "start": 327.839,
+    "end": 331.119,
+    "text": "We also mentioned culinary, connected to cooking,",
+    "speaker": null
+  },
+  {
+    "order": 85,
     "start": 331.119,
     "end": 335.599,
-    "text": "And associated – which means made a connection in our mind with something.",
+    "text": "And associated – which means made a connection in our mind with something",
     "speaker": "associated"
   },
   {
+    "order": 86,
     "start": 336.239,
     "end": 341.759,
     "text": "Something that is irrelevant is not important or has no connection with the discussion taking place.",
-    "speaker": "irrelevant"
+    "speaker": null
   },
   {
+    "order": 87,
     "start": 341.759,
     "end": 346.159,
     "text": "And something that is nuanced has small but important differences.",
     "speaker": "nuanced"
   },
   {
+    "order": 88,
     "start": 346.159,
     "end": 351.439,
-    "text": "Finally, when you take comfort in something, you don’t feel so bad because of something else.",
-    "speaker": "take comfort"
+    "text": "Finally, when you take comfort in something, you don't feel so bad because of something else.",
+    "speaker": null
   },
   {
+    "order": 89,
     "start": 351.439,
     "end": 356.239,
-    "text": "Well, Neil, we’re out of time but let’s take comfort in knowing that there are lots more 6 Minute English programmes to enjoy on our website at bbclearningenglish.com.",
+    "text": "Well, Neil, we’re out of time but let’s take comfort in knowing that there are lots more ",
     "speaker": "Rob"
   },
   {
+    "order": 90,
     "start": 356.24,
     "end": 361.92,
     "text": "six minute English programs to enjoy on our website at BBCLearningEnglish.com.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 361.92,
     "end": 366.24,
-    "text": "We also have an app that you can download for free from the app stores. And of course, we are all over social media.",
-    "speaker": "Neil"
+    "text": "We also have an app that you can download for free from the app stores.",
+    "speaker": null
   },
   {
+    "order": 92,
     "start": 366.24,
     "end": 369.04,
     "text": "And of course, we are all over social media.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 369.04,
     "end": 370.879,
     "text": "Thanks for listening and goodbye.",
     "speaker": "Rob"
   },
   {
+    "order": 94,
     "start": 370.879,
     "end": 371.519,
     "text": "Goodbye.",
-    "speaker": "Neil"
+    "speaker": null
   }
 ]

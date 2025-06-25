@@ -1,545 +1,636 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 8.24,
     "text": "6-Mute English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.88,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.56,
     "end": 14.88,
     "text": "Hello, this is 6 Minute English. I'm Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 14.88,
     "end": 16.08,
     "text": "And I'm Georgina.",
-    "speaker": "Georgina"
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 16.08,
     "end": 19.28,
     "text": "Georgina, what do you do to cheer yourself up?",
     "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 19.28,
     "end": 22.96,
-    "text": "Having a walk usually helps – especially if it’s in the countryside.",
-    "speaker": "Georgina"
+    "text": "Having a walk usually helps, especially if it's in the countryside.",
+    "speaker": null
   },
   {
+    "order": 8,
     "start": 22.96,
     "end": 28.56,
-    "text": "Yes, being in all the green open space can certainly help us relax and de-stress – getting back to nature can be a tonic when you’re feeling down.",
+    "text": "Yes, being in all the green open space can certainly help us relax and de-stress ",
     "speaker": "tonic"
   },
   {
+    "order": 9,
     "start": 28.559,
     "end": 31.839,
     "text": "Getting back to nature can be a tonic when you're feeling down.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 31.839,
     "end": 35.039,
-    "text": "A tonic is something that makes you feel happier and healthier. I’ll drink to that!",
-    "speaker": "tonic"
+    "text": "A tonic is something that makes you feel happier and healthier.",
+    "speaker": null
   },
   {
+    "order": 11,
     "start": 35.039,
     "end": 37.039,
     "text": "I'll drink to that. Me too.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 37.039,
     "end": 42.56,
-    "text": "But connecting with the natural world is particularly beneficial to people with mental health issues,",
-    "speaker": null
+    "text": " But connecting with the natural world is particularly beneficial to people with mental health issues",
+    "speaker": "Neil"
   },
   {
+    "order": 13,
     "start": 42.56,
     "end": 44.64,
     "text": "such as clinical depression.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 44.64,
     "end": 48.079,
     "text": "And it's something that's being called eco-therapy.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 48.079,
     "end": 52.32,
     "text": "More on that in a moment, but here's our question for you to answer, Georgina.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 52.32,
     "end": 54.079,
     "text": "Okay, Neil, far away.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 54.079,
     "end": 58.239,
-    "text": "Well, seeing or even hugging trees is a form of therapy.",
-    "speaker": null
+    "text": "Well, seeing or even hugging trees is a form of therapy,",
+    "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 58.32,
     "end": 62.4,
     "text": "But how high is the world's tallest tree thought to be?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 62.4,
     "end": 72.799,
     "text": "Is it 65.8 metres, 115.8 metres, or 185.8 metres, Georgina? Any ideas?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 72.799,
     "end": 78,
-    "text": "Not a clue – but let’s go for the highest figure of 185.8 metres.",
-    "speaker": "Georgina"
+    "text": "Not a clue, but let's go for the highest figure of 185.8 metres.",
+    "speaker": "Neil"
   },
   {
+    "order": 21,
     "start": 78,
     "end": 83.12,
-    "text": "Are you sure? Well, we'll have to wait until the end of the programme to find out.",
-    "speaker": null
+    "text": "Are you sure? Well, we’ll have to wait until the end of the programme to find out.",
+    "speaker": "Neil"
   },
   {
+    "order": 22,
     "start": 83.92,
     "end": 88.96,
     "text": "The mental health charity Mind describes eco-therapy as a formal type of treatment,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 88.96,
     "end": 92.16,
     "text": "which involves doing outdoor activities in nature.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 92.16,
     "end": 94.88,
     "text": "However, there's not one simple definition.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 94.88,
     "end": 98.4,
     "text": "It just relates to doing activities outdoors.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 98.4,
     "end": 103.2,
     "text": "Yes, it can involve doing many things, such as outdoor yoga or horticulture,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 103.2,
     "end": 105.04,
     "text": "another name for gardening.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 105.04,
     "end": 107.28,
     "text": "It doesn't involve taking medication,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 107.28,
     "end": 111.04,
     "text": "but instead it just develops a person's relationship with nature.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 111.12,
     "end": 114,
-    "text": "It's something Patricia Hasbach knows a lot about.",
-    "speaker": null
+    "text": "It’s something Patricia Hasbach knows a lot about.",
+    "speaker": "Neil"
   },
   {
+    "order": 31,
     "start": 114,
     "end": 118.88,
     "text": "She's a clinical psychotherapist and told the BBC Radio programme Health Check",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 118.88,
     "end": 121.04,
     "text": "how eco-therapy can help.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 121.04,
     "end": 123.28,
     "text": "Does she say it can help everyone?",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 125.84,
     "end": 133.439,
     "text": "I often think about eco-therapy as another tool in the therapist's toolbox.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 133.439,
     "end": 139.2,
     "text": "It's not a panacea, it's not going to erase somebody's pain or grief,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 139.839,
     "end": 142.479,
     "text": "but it is a powerful tool.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 144.079,
     "end": 147.679,
     "text": "Traditionally, therapy has stopped at the urban boundary.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 150.239,
     "end": 154,
-    "text": "So it's interesting that she describes eco-therapy as a tool,",
-    "speaker": null
+    "text": "So it’s interesting that she describes ecotherapy as a tool –",
+    "speaker": "Neil"
   },
   {
+    "order": 39,
     "start": 154,
     "end": 157.039,
     "text": "something that can be used to achieve something else.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 157.599,
     "end": 160.879,
     "text": "Here, it can be used to help improve someone's mental health.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 161.599,
     "end": 166.319,
     "text": "But she says it's not a panacea, so not something that will solve everything.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 166.4,
     "end": 169.12,
     "text": "It won't erase or get rid of someone's pain,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 169.12,
     "end": 172.079,
     "text": "but going beyond what she calls the urban boundary",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 172.079,
     "end": 176.56,
     "text": "and into the natural world means there's another method for helping people.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 176.56,
     "end": 180.319,
     "text": "Now, as we've mentioned, eco-therapy can take many forms,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 180.319,
     "end": 184.479,
     "text": "doing art in a forest or running on a beach are all therapeutic.",
-    "speaker": null
+    "speaker": "therapeutic"
   },
   {
+    "order": 47,
     "start": 184.479,
     "end": 187.439,
     "text": "They're things that make you feel better or healthier.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 187.439,
     "end": 192,
-    "text": "Well, I think that’s clear, but what is it about the outdoors that affects us?",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 192,
-    "end": 193.359,
-    "text": "A good question, Georgina.",
+    "text": "Well, I think that's clear, but what is it about the outdoors that affects us?",
     "speaker": null
   },
   {
+    "order": 49,
+    "start": 192,
+    "end": 193.359,
+    "text": "A good question, Georgina.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 50,
     "start": 193.44,
     "end": 197.68,
     "text": "It seems from research that our busy brains are always on guard,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 197.68,
     "end": 200.32,
     "text": "but when we get into nature, it gets a break.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 200.32,
     "end": 203.92,
     "text": "There's not so much to be on the lookout for, and we can relax.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 204.48,
     "end": 209.84,
     "text": "Well, it does seem the negative symptoms of urban life can benefit from a dose of nature.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 209.84,
     "end": 211.52,
     "text": "A dose is an amount of something.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 212.08,
     "end": 214.96,
     "text": "Let's get a good explanation from an expert.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 214.96,
     "end": 218.24,
     "text": "Environmental psychologist, Bugita Gardes-Leban,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 218.24,
     "end": 222.24,
     "text": "also spoke to the BBC Health Check programme and gave two reasons.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 222.8,
     "end": 225.68,
     "text": "One of them she explained was something called biofilia.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 227.76,
     "end": 234.96,
     "text": "Biofilia, very briefly, is really innate, positive response that people have",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 235.52,
     "end": 238.08,
     "text": "with life and life-like features.",
-    "speaker": null
+    "speaker": "Biophilia"
   },
   {
+    "order": 61,
     "start": 238.08,
     "end": 245.28,
     "text": "The idea that nature reminds us of life, and if we are exposed to natural elements,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 245.28,
     "end": 251.6,
     "text": "then our sort of negative feelings get almost immediately replaced with positive",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 252.079,
     "end": 252.319,
     "text": "emotions.",
-    "speaker": null
+    "speaker": "innate"
   },
   {
+    "order": 64,
     "start": 254.96,
     "end": 260.319,
     "text": "Bugita Gardes-Leban, they're explaining biofilia, which is a passion for or empathy with",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 260.319,
     "end": 262.8,
     "text": "the natural world and living things.",
-    "speaker": null
+    "speaker": "therapeutic"
   },
   {
+    "order": 66,
     "start": 262.8,
     "end": 267.68,
     "text": "She said biofilia is innate, which means it's a quality that you're born with.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 267.68,
     "end": 271.199,
     "text": "So basically, most of us were born to connect with nature.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 271.199,
     "end": 275.04,
     "text": "Nature reminds us of life and gives us good, positive emotions.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 275.68,
     "end": 276.079,
-    "text": "Naturally.",
-    "speaker": null
+    "text": "naturally ",
+    "speaker": "innate"
   },
   {
+    "order": 70,
     "start": 276.879,
     "end": 280.959,
     "text": "Okay, well Georgina, maybe getting today's quiz question right will give you",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 281.039,
     "end": 286.719,
     "text": "positive emotions. Earlier, I asked you how high the world's tallest tree is thought to be.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 286.719,
     "end": 297.199,
     "text": "Is it a 65.8 meters, b 115.8 meters, or c 185.8 meters? What did you say?",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 297.199,
     "end": 300.56,
     "text": "I said c 185.8 meters.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 300.56,
     "end": 304.479,
     "text": "Oh dear. I'm afraid that's far too high.",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 75,
     "start": 304.48,
     "end": 308.879,
     "text": "The correct answer is 115.8 meters. Never mind.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 308.879,
     "end": 315.52,
     "text": "The tree named Hyperion is a type of redwood and was found in California in 2006.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 315.52,
     "end": 318.24,
-    "text": "Well, that’s still very tall, and would be great to see.",
+    "text": "Well, that’s still very tall, and would be great to see",
     "speaker": "Georgina"
   },
   {
+    "order": 78,
     "start": 318.24,
     "end": 321.84,
     "text": "Now, we've just got time to recap some of the vocabulary we've discussed,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 321.84,
     "end": 324.56,
     "text": "starting with tonic, which can be a fizzy drink,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 324.56,
     "end": 328.24,
     "text": "humics with an alcoholic drink, but in the context of therapy,",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 328.24,
     "end": 331.52,
     "text": "it can mean something that makes you feel happier and healthier.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 331.599,
     "end": 337.359,
-    "text": "Horticulture is the study or activity of growing garden plants – in other words, gardening.",
+    "text": "Horticulture is the study or activity of growing garden plants – in other words, gardening",
     "speaker": "Horticulture"
   },
   {
+    "order": 83,
     "start": 337.359,
     "end": 340.639,
     "text": "A panacea is something believed to solve everything.",
-    "speaker": "panacea"
+    "speaker": null
   },
   {
+    "order": 84,
     "start": 340.639,
     "end": 344.479,
     "text": "If something is therapeutic, it makes you feel better or healthier.",
-    "speaker": "therapeutic"
+    "speaker": null
   },
   {
+    "order": 85,
     "start": 344.479,
     "end": 350.639,
     "text": "We also discussed biofilia, which is a passion for or empathy with the natural world and living things.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 350.639,
     "end": 354.799,
-    "text": "And innate means a quality that you naturally have – you’re born with it.",
-    "speaker": "innate"
+    "text": "And innate means a quality that you naturally have, you're born with it.",
+    "speaker": null
   },
   {
+    "order": 87,
     "start": 354.799,
     "end": 358.56,
     "text": "Well, as you know, I have an innate quality for presenting this program,",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 358.56,
     "end": 363.04,
     "text": "but now it's time to go. Please join us next time and don't forget to check us out on your",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 363.04,
     "end": 368.399,
     "text": "favorite social media platform on our app and of course the website bbclearningenglish.com.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 368.959,
     "end": 370.48,
     "text": "Goodbye. Bye.",

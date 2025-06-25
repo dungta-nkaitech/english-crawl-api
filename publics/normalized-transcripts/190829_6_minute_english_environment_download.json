@@ -1,674 +1,786 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.52,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.72,
     "end": 14.96,
     "text": "Hello. This is 6 Minute English. I'm Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 14.96,
     "end": 15.919,
     "text": "And I'm Sam.",
-    "speaker": "Sam"
+    "speaker": null
   },
   {
+    "order": 4,
     "start": 15.919,
     "end": 19.44,
     "text": "Now, tell me about your teeth cleaning routine.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 19.44,
     "end": 22.64,
     "text": "Huh, okay, well it's pretty good.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 22.64,
     "end": 27.6,
-    "text": "OK. Well, it’s pretty good, I think. I brush twice a day and change my brush every couple of months.",
-    "speaker": "Sam"
+    "text": "I think I brush twice a day and change my brush every couple of months.",
+    "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 27.6,
     "end": 30.56,
     "text": "And what kind of brush do you use?",
     "speaker": "Neil"
   },
   {
+    "order": 8,
     "start": 30.56,
     "end": 33.76,
-    "text": "Nothing fancy, just a regular, cheap plastic one.",
-    "speaker": "Sam"
+    "text": "Nothing fancy, just a regular cheap plastic one.",
+    "speaker": null
   },
   {
+    "order": 9,
     "start": 33.76,
     "end": 34.96,
     "text": "Oh dear!",
     "speaker": "Neil"
   },
   {
+    "order": 10,
     "start": 34.96,
     "end": 36.32,
-    "text": "What do you mean?",
-    "speaker": "Sam"
-  },
-  {
-    "start": 36.32,
-    "end": 40.16,
-    "text": "Well, imagine all the toothbrushes you've used in your life",
+    "text": "Hmm, what do you mean?",
     "speaker": null
   },
   {
+    "order": 11,
+    "start": 36.32,
+    "end": 40.16,
+    "text": "Well, imagine all the toothbrushes you’ve used in your life",
+    "speaker": "Neil"
+  },
+  {
+    "order": 12,
     "start": 40.16,
     "end": 44.079,
     "text": "from your first brush as a child to the one you currently have.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 44.079,
     "end": 49.68,
     "text": "You do realise that probably they all still exist in the environment somewhere.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 49.68,
     "end": 51.28,
     "text": "We use them for a couple of months,",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 51.28,
     "end": 54.48,
     "text": "yet they were lost for hundreds of years.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 54.479,
     "end": 58,
-    "text": "Oh dear, and I thought I was actually quite environmentally aware. But that’s quite shocking. I hadn’t thought of that.",
-    "speaker": "Sam"
+    "text": "Oh dear, and I thought I was actually quite environmentally aware.",
+    "speaker": null
   },
   {
+    "order": 17,
     "start": 58.719,
     "end": 60.319,
     "text": "But that's quite shocking.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 60.319,
     "end": 61.759,
     "text": "I hadn't thought of that.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 61.759,
     "end": 66.079,
     "text": "Well, it's just one of the problems we're facing with our use of plastics.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 66.079,
     "end": 68.719,
     "text": "A marvellous invention that has given us so much,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 21,
     "start": 68.719,
     "end": 75.199,
     "text": "but we are beginning to realise it's causing many long-lasting environmental problems.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 75.199,
     "end": 77.92,
     "text": "More on this topic shortly, but first a question.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 77.92,
     "end": 80.239,
     "text": "Plastic has many natural variations,",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 80.239,
     "end": 83.199,
     "text": "but where was the first artificial plastic developed?",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 83.28,
     "end": 87.12,
     "text": "Was it A, England, B, Germany, or C, Switzerland?",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 87.12,
     "end": 88.64,
-    "text": "What do you think, Sam?",
+    "text": "What do you think Sam?",
     "speaker": "Neil"
   },
   {
+    "order": 27,
     "start": 88.64,
     "end": 91.359,
     "text": "I’m going to have a guess at Switzerland.",
     "speaker": "Sam"
   },
   {
+    "order": 28,
     "start": 91.359,
     "end": 94.48,
     "text": "Okay, we'll find out if you're right at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 95.04,
     "end": 98.24,
     "text": "Environmental issues are of course a big story at the moment.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 98.24,
     "end": 102.879,
     "text": "The topic was featured on the BBC Woman's Hour Radio programme recently.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 102.879,
     "end": 108.24,
     "text": "Madeleine Murray is from an Irish organisation that gives advice to businesses and communities",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 108.24,
     "end": 111.84,
     "text": "on how to operate in an environmentally responsible way.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 112.079,
     "end": 114.96,
     "text": "She was asked about what she does in her daily life",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 114.96,
     "end": 117.04,
     "text": "that other people could do too.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 117.04,
     "end": 119.28,
     "text": "What food items does she mention?",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 119.92,
     "end": 125.04,
     "text": "My personal, like, pet peeve is multipax and mini-pax.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 125.6,
     "end": 128.64,
     "text": "I buy them bulk now. I buy the biggest yogurt I can buy.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 128.64,
     "end": 130.719,
     "text": "I buy big cereal boxes.",
-    "speaker": null
+    "speaker": "pet peevein bulkdecant"
   },
   {
+    "order": 39,
     "start": 130.719,
     "end": 132.56,
     "text": "I buy big shampoo bottles.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 132.56,
     "end": 138.64,
     "text": "We can decant stuff into lunch boxes and we can, you know, refill our pasta and our rice.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 138.959,
     "end": 142.159,
-    "text": "So, what food does she mention, Sam?",
-    "speaker": "Neil"
+    "text": "So what food does she mention, Sam?",
+    "speaker": null
   },
   {
+    "order": 42,
     "start": 142.159,
     "end": 145.919,
     "text": "She talks about yogurt, cereal, pasta and rice.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 145.919,
     "end": 148.719,
     "text": "And what was she saying about those foods?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 148.719,
-    "end": 153.439,
-    "text": "She was saying that she buys the biggest containers for those that she can - and not just food - things like shampoo as well.",
     "speaker": "Sam"
   },
   {
+    "order": 44,
+    "start": 148.719,
+    "end": 153.439,
+    "text": "She was saying that she buys the biggest containers for those that she can ",
+    "speaker": "Sam"
+  },
+  {
+    "order": 45,
     "start": 153.439,
     "end": 156.079,
     "text": "And not just food, things like shampoo as well.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 156.079,
     "end": 157.759,
-    "text": "And what’s the benefit of that?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 157.759,
-    "end": 162.159,
-    "text": "Well, she says that her pet peeve is small packs of things.",
+    "text": "And what's the benefit of that?",
     "speaker": null
   },
   {
+    "order": 47,
+    "start": 157.759,
+    "end": 162.159,
+    "text": "Well, she says that her pet peeve is small packs of things.",
+    "speaker": "pet peeve pet peeve"
+  },
+  {
+    "order": 48,
     "start": 162.159,
     "end": 166,
     "text": "A pet peeve is something that you find particularly annoying.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 166.08,
     "end": 171.52,
     "text": "She doesn't like small packs because they use a lot of packaging for a small amount of product.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 171.52,
     "end": 173.439,
     "text": "So she buys in bulk.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 173.439,
     "end": 176.24,
     "text": "Buying in bulk means buying a lot of something.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 176.24,
     "end": 179.36,
     "text": "And if you have a lot of something like rice or pasta,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 179.36,
     "end": 183.759,
     "text": "you can always transfer it to different smaller reusable containers.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 183.759,
     "end": 185.84,
     "text": "She uses the word decant for this.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 186.8,
     "end": 190.56,
     "text": "So that's one area where we can all be a bit more environmentally friendly.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 191.12,
     "end": 194.24,
     "text": "Another area is reusing things that are perfectly good,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 194.32,
     "end": 196.159,
     "text": "but which we don't need anymore.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 196.159,
     "end": 199.28,
     "text": "Dr Tara Shine is a colleague of Madeline Murray,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 199.28,
     "end": 203.92,
     "text": "and she talked about how new parents often buy a lot of new things for their babies,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 203.92,
     "end": 207.52,
     "text": "which they then throw away when the child gets too big or too old.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 208.08,
     "end": 212.879,
     "text": "She suggests that it's better to pass these things on to give them to other people.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 213.76,
     "end": 215.04,
     "text": "Then pass things on.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 215.04,
     "end": 220,
     "text": "The hand me down passing on culture is really, really important in the world of kids.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 220,
     "end": 224.08,
     "text": "And there are lots of things that can be passed down, whether it's toys or",
-    "speaker": null
+    "speaker": "Passonhand-me-downpass-thing-onpassed onin good nickpasson"
   },
   {
+    "order": 65,
     "start": 224.08,
     "end": 228.56,
     "text": "the equipment or the high chair, whatever it is, all of that can be passed on.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 228.56,
     "end": 229.68,
     "text": "And that's really important.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 229.68,
     "end": 231.36,
     "text": "It's saving someone else money.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 231.36,
     "end": 234,
     "text": "Most of these things are in good nick when we need to pass them on.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 235.12,
     "end": 238.56,
-    "text": "She used another expression for passing things on, didn’t she?",
-    "speaker": "passingon"
+    "text": "She used another expression for passing things on, didn't she?",
+    "speaker": null
   },
   {
+    "order": 70,
     "start": 238.56,
     "end": 241.6,
     "text": "Yes, she talked about the hand me down culture.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 241.6,
     "end": 245.36,
     "text": "When I was growing up, I had a lot of hand me downs.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 245.36,
     "end": 248.32,
     "text": "These were toys and clothes from my older cousins,",
-    "speaker": null
+    "speaker": "hand-me-downhand-me-downs"
   },
   {
+    "order": 73,
     "start": 249.04,
     "end": 253.04,
     "text": "which saved us a lot of money, and they were then passed on to someone else.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 253.039,
     "end": 257.199,
-    "text": "And the thing is children grow up quickly so often everything is in good condition.",
-    "speaker": "Neil"
+    "text": "And the thing is children grow up quickly, so often everything is in good condition.",
+    "speaker": null
   },
   {
+    "order": 75,
     "start": 258,
     "end": 261.199,
     "text": "Dr. Schein used an interesting expression for that, didn't she?",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 261.759,
     "end": 265.279,
     "text": "She said most of these things are in good nick.",
-    "speaker": null
+    "speaker": "in good nick"
   },
   {
+    "order": 77,
     "start": 265.279,
     "end": 267.599,
     "text": "That expression means in good condition.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 268.159,
     "end": 270.639,
-    "text": "Now, before we recycle today’s vocabulary …",
-    "speaker": "Neil"
+    "text": "Now, before we recycle today's vocabulary...",
+    "speaker": null
   },
   {
+    "order": 79,
     "start": 270.639,
     "end": 272.159,
     "text": "Ah, very good.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 272.159,
     "end": 273.279,
-    "text": "Oh, very good, I see what you did there!",
+    "text": "See what you did there.",
     "speaker": "Sam"
   },
   {
+    "order": 81,
     "start": 273.279,
     "end": 275.68,
     "text": "It's time for the answer to today's question.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 276.319,
     "end": 279.199,
     "text": "Where was the first artificial plastic developed?",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 279.279,
     "end": 283.519,
     "text": "Was it A, England, B, Germany, or C, Switzerland?",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 283.519,
     "end": 285.519,
     "text": "What did you think, Sam?",
     "speaker": "Neil"
   },
   {
+    "order": 85,
     "start": 285.519,
     "end": 286.719,
     "text": "I guess Switzerland.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 287.279,
     "end": 290.319,
     "text": "Well, I'm afraid you are wrong.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 87,
     "start": 290.319,
     "end": 292.48,
     "text": "The correct answer is actually England.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 293.12,
     "end": 294.8,
     "text": "Well done if you got that right.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 294.8,
     "end": 300.639,
     "text": "Extra bonus points if you knew that in 1856, Alexander Parks,",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 300.639,
     "end": 304.959,
     "text": "patented, Parkinson, the first artificial plastic.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 304.959,
     "end": 307.839,
     "text": "Now, let's recap today's words and expressions.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 307.839,
     "end": 312.319,
     "text": "Yes, a pet peeve is something that someone finds particularly annoying.",
     "speaker": "pet peeve"
   },
   {
+    "order": 93,
     "start": 312.319,
     "end": 316.159,
     "text": "Buying in bulk means buying many of the same things",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 316.159,
     "end": 318,
     "text": "or a large quantity of something.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 318,
     "end": 322.399,
     "text": "Buying in bulk is usually cheaper and can be better environmentally.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 322.399,
     "end": 327.199,
-    "text": "And if you have a lot of something, you can decant it to smaller containers.",
-    "speaker": null
+    "text": "And if you have a lot of something, you can decant it to smaller containers,",
+    "speaker": "decant"
   },
   {
+    "order": 97,
     "start": 327.199,
     "end": 332.639,
     "text": "That is, you can transfer it to those other containers to make it easier to use.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 332.639,
     "end": 336.319,
     "text": "For example, I buy huge bottles of liquid soap",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 336.399,
     "end": 340.399,
     "text": "and decant it into smaller dispenses for the kitchen and bathrooms.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 340.399,
     "end": 344.959,
     "text": "You can pass on clothes, toys, and other kids stuff to family and friends.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 344.959,
     "end": 347.92,
     "text": "This means giving them to other people to use.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 347.92,
     "end": 350.8,
     "text": "And those things can be described as hand-me-downs.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 350.8,
     "end": 354.8,
-    "text": "But of course you’d only want to pass on things in good nick, that is, 'in good condition'.",
+    "text": "But, of course, you'd only want to pass on things in good nick.",
     "speaker": "good nick"
   },
   {
+    "order": 104,
     "start": 354.8,
     "end": 356.56,
     "text": "That is, in good condition.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 356.56,
     "end": 358.159,
     "text": "Right, that's all we have time for.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 358.159,
     "end": 360.639,
     "text": "We hope you will join us again soon, though.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 360.639,
     "end": 365.68,
     "text": "And you can always find us on Facebook, Twitter, YouTube, Instagram, online, and on our app.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 365.759,
     "end": 367.28,
     "text": "We are BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 367.28,
     "end": 368,
     "text": "See you soon.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 368,
     "end": 368.72,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 368.72,
     "end": 369.439,
-    "text": "Bye!",
-    "speaker": "Sam"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

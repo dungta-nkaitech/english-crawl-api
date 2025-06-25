@@ -1,386 +1,450 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.679,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 5.679,
     "end": 12.04,
     "text": "Hello, this is 6-Minute English from BBCLearningEnglish. I'm Neil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.04,
     "end": 16.559,
     "text": "And I'm Georgie. In this programme, we're discussing a controversial topic that often",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 16.559,
     "end": 22.08,
     "text": "produces strong feelings. Should animals be kept in zoos? What's your opinion on this",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 22.08,
     "end": 27.6,
     "text": "debate, Neil? Oh, it's a really difficult question, Georgie. I think there are good scientific",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 27.6,
     "end": 34.719,
     "text": "reasons for having animals in zoos, but also it seems to me a little bit sad and cruel",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 6,
     "start": 34.719,
     "end": 40.32,
     "text": "for wild animals to be locked up. For some, zoos are a good way to teach people about",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 40.32,
     "end": 46.24,
     "text": "nature and save endangered species from extinction. Others think separating animals from their natural",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 46.24,
     "end": 53.76,
     "text": "habitat is cruel and unnecessary. Either way, with an estimated 700 million visitors every year,",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 53.759,
     "end": 59.519,
     "text": "zoos remain popular. But, are they a good thing? We'll be debating the pros and cons as well as",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 59.519,
     "end": 64.64,
     "text": "learning some useful new words and phrases. And remember, you can find all the vocabulary for",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 64.64,
     "end": 71.439,
-    "text": "this programme on our website, BBCLearningEnglish.com. Now, I have a question for you, Georgie.",
-    "speaker": null
+    "text": "this programme on our website, bbclearningenglish.com. Now, I have a question for you, Georgie.",
+    "speaker": "Neil"
   },
   {
+    "order": 12,
     "start": 71.439,
     "end": 78.4,
     "text": "In 2022, five animals escape from Sydney's Taronga Zoo in Australia, but were they escaped",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 78.4,
     "end": 87.68,
     "text": "animals A, elephants, B, lions or C, zebras? I can imagine zebras running away from the zoo.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 87.68,
     "end": 91.04,
     "text": "Okay, we'll find out the answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 91.04,
     "end": 96.64,
     "text": "Reporter William Lee Adams has been investigating the arguments for and against keeping animal",
-    "speaker": null
+    "speaker": "Georgie"
   },
   {
+    "order": 16,
     "start": 96.64,
     "end": 103.12,
     "text": "in zoos with BBC World Service programme What in the World. Here, he gives two arguments in favour of",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 104.079,
     "end": 109.04,
-    "text": "Education is the primary reason that zoos give for why they should exist. The fact is,",
-    "speaker": null
+    "text": "Education is the primary reason that zoos give for why they should exist. The fact is ",
+    "speaker": "conservation"
   },
   {
+    "order": 18,
     "start": 109.04,
     "end": 113.439,
     "text": "school children all over the world are often bussed to zoos. I remember myself going to see",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 113.439,
     "end": 118.32,
     "text": "lowland gorillas at zoos at land every single year. And the point of this was to introduce us to",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 118.32,
     "end": 124.4,
     "text": "conservation One argument for keeping animals in zoos is to educate people about the importance of",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 124.4,
     "end": 129.36,
     "text": "conservation, the protection of plants, animals and the natural world from human damage.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 129.84,
     "end": 135.52,
     "text": "A second point is that zoos often invest in research programmes that help endangered animals.",
-    "speaker": null
+    "speaker": "reluctantit takes two to tango"
   },
   {
+    "order": 23,
     "start": 135.52,
     "end": 141.92,
     "text": "Now, as we know, pandas are notoriously reluctant to mate. The female pandas have a narrow window",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 141.92,
     "end": 148,
     "text": "of fertility. Their solitary creatures and it takes two to tango when it comes to reproduction.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 148,
     "end": 153.84,
     "text": "But a lot of money in zoos, it goes to sort of find ways to encourage these animals to mate.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 153.84,
     "end": 158.72,
     "text": "A second argument is that zoos protects endangered species from extinction through breeding.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 159.36,
     "end": 165.12,
     "text": "William mentions pandas, animals which are reluctant, meaning slow and unwilling to reproduce.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 166,
     "end": 171.92,
     "text": "Male and female pandas need a little help to make babies and zoos can provide this help.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 171.92,
     "end": 177.92,
     "text": "William uses the idiom it takes two to tango to describe an activity which needs two people,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 177.92,
     "end": 181.68,
     "text": "or in this case two pandas, to be willing to make something a success.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 182.32,
     "end": 186.8,
     "text": "Now, let's turn to some of the arguments against zoos with Nikita Darwin,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 186.8,
     "end": 192.24,
     "text": "a 19-year-old animal rights activist from India, who spoke to BBC World Service Program,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 192.24,
     "end": 196.16,
     "text": "What in the World. I don't think zoos should exist for several reasons.",
-    "speaker": null
+    "speaker": "Georgie"
   },
   {
+    "order": 34,
     "start": 196.16,
     "end": 200.719,
     "text": "The first one being zoos' detrimental impact on both the physical and psychological",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 200.719,
     "end": 206.08,
     "text": "health of animals. Many studies and research have shown that many animals in zoos and aquariums",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 206.08,
     "end": 212.8,
     "text": "display abnormal behaviors like headballing, pacing, stereotypical behaviors, signs of mental distress.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 212.8,
     "end": 219.2,
     "text": "The second reason I would say is that zoos cannot mimic the natural habitat of animals in the wild.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 219.2,
     "end": 224,
-    "text": "Nikita argues that being enclosed in a zoo is so stressful for wild animals,",
-    "speaker": null
+    "text": "Nikita argues that being enclosed in a zoo is so stressful for wild animals ",
+    "speaker": "abnormalzoochosis"
   },
   {
+    "order": 39,
     "start": 224,
     "end": 229.68,
     "text": "it leads to abnormal behavior, behavior that is different and worse from what would normally be",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 229.68,
     "end": 236.24,
     "text": "expected. Examples of this include animals pacing their cages in circles and rocking,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 236.24,
     "end": 240.8,
     "text": "barbiting, and even self-harm. And they're so common in captive animals,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 240.8,
     "end": 247.36,
     "text": "there's a name for it, zoocosis. Even zoos with large enclosures can not fully mimic or copy",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 247.36,
     "end": 253.52,
     "text": "the natural habitats and open spaces these animals would enjoy in the wild. And imagine how a polar bear",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 253.52,
     "end": 258.4,
     "text": "evolved for life in the frozen Arctic would feel trapped in a zoo in a much warmer country.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 258.96,
     "end": 265.12,
     "text": "Some zoologists have compared zoocosis to human traumas like post-traumatic stress disorder,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 265.199,
     "end": 270.879,
     "text": "but say it's even more damaging. For captive animals, everything, including the air they breathe,",
-    "speaker": null
+    "speaker": "zoochosis"
   },
   {
+    "order": 47,
     "start": 270.879,
     "end": 276.639,
     "text": "is traumatic. We've heard a few arguments for and against keeping animals in zoos. What do you think,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 276.639,
     "end": 282.24,
     "text": "Neil? Have you changed your opinion at all? Well, I think there are really strong arguments on",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 282.24,
     "end": 288.079,
     "text": "both sides, so I'm still not sure, Georgie. Well, we know how some of the animals at the Sydney zoo",
-    "speaker": null
-  },
-  {
-    "start": 288.079,
-    "end": 293.759,
-    "text": "Well, we know how some of the animals at the Sydney Zoo felt about things because they managed to escape! But what was the answer to your question, Neil?",
-    "speaker": "Georgie"
-  },
-  {
-    "start": 293.839,
-    "end": 300.079,
-    "text": "Well, Georgie, I asked you which animals escaped from a zoo in Sydney, Australia, in 2022. Was it a) elephants, b) lions, or c) zebras?",
     "speaker": "Neil"
   },
   {
+    "order": 50,
+    "start": 288.079,
+    "end": 293.759,
+    "text": "felt about things because they managed to escape. But what was the answer to your question, Neil?",
+    "speaker": null
+  },
+  {
+    "order": 51,
+    "start": 293.839,
+    "end": 300.079,
+    "text": "Well, Georgie, I asked you which animals escaped from a zoo in Sydney, Australia, in 2022",
+    "speaker": "Neil"
+  },
+  {
+    "order": 52,
     "start": 300.079,
     "end": 307.439,
     "text": "Was it A, elephants, B, lions or sea zebras? And I said zebras. I'm afraid. That was the wrong",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 307.439,
     "end": 312.879,
     "text": "answer. It was actually lions, how scary. Okay, it's time to recap the vocabulary we've learned.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 312.879,
     "end": 318.159,
     "text": "Conservation is the protection of plants, animals and the natural world from human harm.",
-    "speaker": null
+    "speaker": "Conservation"
   },
   {
+    "order": 55,
     "start": 318.159,
     "end": 323.519,
     "text": "If you are reluctant to do something, you don't want to do it, or you do it very slowly.",
-    "speaker": "reluctant"
+    "speaker": null
   },
   {
+    "order": 56,
     "start": 323.759,
     "end": 329.519,
     "text": "The idiom it takes to tatango refers to an activity which needs two people to willingly and",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 329.519,
     "end": 335.279,
     "text": "actively take part for it to succeed. The adjective abnormal means different from what would normally",
-    "speaker": null
+    "speaker": "it takes two to tango"
   },
   {
+    "order": 58,
     "start": 335.279,
     "end": 342.319,
     "text": "be expected in a bad way. Zucosis is a term to describe the repeated purposeless behavior performed",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 342.319,
     "end": 348.48,
     "text": "by captive animals in response to the stress of being confined, including pacing, head bobbing",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 348.72,
     "end": 354.96,
     "text": "and swaying. And finally, if you mimic somebody or something, you imitate it or copy it.",
-    "speaker": null
+    "speaker": "Zoochosis"
   },
   {
+    "order": 61,
     "start": 354.96,
     "end": 360.08,
     "text": "Once again, our six minutes are up, but don't forget we have a worksheet and a quiz that you can",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 360.08,
     "end": 366.4,
     "text": "use to practice the vocabulary from this episode. Visit BBCLearningEnglish.com. Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 366.4,
     "end": 367.04,
     "text": "Goodbye.",
-    "speaker": "Neil"
+    "speaker": null
   }
 ]

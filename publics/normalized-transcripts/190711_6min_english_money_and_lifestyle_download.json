@@ -1,755 +1,881 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 12.4,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 12.4,
     "end": 14.72,
-    "text": "Hello, and welcome to 6 Minute English. I'm Neil.",
+    "text": "Hello, and welcome to 6 Minute English. I'm Neil",
     "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 14.72,
     "end": 15.759,
     "text": "And I'm Rob.",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 15.759,
     "end": 19.359,
     "text": "In this program, we're talking about finance and in particular,",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 19.359,
     "end": 22,
-    "text": "planning for our future lifestyles.",
-    "speaker": null
+    "text": " planning for our future lifestyles",
+    "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 22,
     "end": 25.28,
-    "text": "I can barely afford my current lifestyle!",
-    "speaker": "Rob"
-  },
-  {
-    "start": 25.28,
-    "end": 28.16,
-    "text": "But perhaps we'll pick up some good tips today.",
+    "text": "I can barely afford my current lifestyle and I'll same here.",
     "speaker": null
   },
   {
+    "order": 8,
+    "start": 25.28,
+    "end": 28.16,
+    "text": " but perhaps we’ll pick up some good tips today",
+    "speaker": "Neil"
+  },
+  {
+    "order": 9,
     "start": 28.16,
     "end": 30.16,
     "text": "Before that, though, a question.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 30.16,
     "end": 33.84,
     "text": "Being a millionaire may be an impossible dream for most of us,",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 33.84,
     "end": 36.96,
     "text": "but when was the word first used in English?",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 36.96,
     "end": 39.6,
     "text": "Was it A, the 1600s?",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 39.6,
     "end": 42.64,
     "text": "B, the 1700s or C, the 1800s?",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 42.64,
     "end": 44,
-    "text": "What do you think, Rob?",
+    "text": " What do you think, Rob",
     "speaker": "Neil"
   },
   {
+    "order": 15,
     "start": 44,
     "end": 47.359,
-    "text": "I'm going to guess that it's the 1600s",
-    "speaker": null
-  },
-  {
-    "start": 47.359,
-    "end": 50.24,
-    "text": "I’m going to guess that it’s the 1600s as there have always been very wealthy people.",
+    "text": "I’m going to guess that it’s the 1600s",
     "speaker": "Rob"
   },
   {
+    "order": 16,
+    "start": 47.359,
+    "end": 50.24,
+    "text": "as there have always been very wealthy people.",
+    "speaker": null
+  },
+  {
+    "order": 17,
     "start": 50.24,
     "end": 52.799,
     "text": "Well, I'll reveal the answer later.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 52.799,
     "end": 57.359,
     "text": "Now, the BBC Money Box programme covers all sorts of financial features.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 57.359,
     "end": 61.2,
     "text": "Recently, they were talking about lifestyle financial planning,",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 61.2,
     "end": 65.519,
     "text": "which is planning your finances to meet the kind of lifestyle you want to have.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 65.519,
     "end": 69.12,
     "text": "Julie Lorde leads a financial planning organisation,",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 69.12,
     "end": 72.56,
     "text": "and she talked about the process of lifestyle financial planning.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 72.56,
     "end": 75.359,
     "text": "How many numbers does she say you need to start with?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 76.319,
     "end": 80.319,
     "text": "Well, we were start by saying that we need to put together a lifetime cash flow forecast",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 80.319,
     "end": 81.12,
-    "text": "or a model.",
-    "speaker": null
+    "text": " or a model",
+    "speaker": "cashflow forecastincomeexpenditureassetsliabilities"
   },
   {
+    "order": 26,
     "start": 81.12,
     "end": 82.319,
     "text": "You just need four numbers.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 27,
     "start": 82.319,
     "end": 84.56,
     "text": "Your income, your expenditure, assets, liabilities.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 84.64,
     "end": 88.719,
     "text": "And then we can project forward to show you what sort of lifestyle you will have",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 88.719,
     "end": 90.48,
     "text": "if you do nothing at all.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 90.48,
     "end": 94,
     "text": "And if indeed you do some of the things that perhaps an iser or a pension",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 94,
     "end": 96.719,
     "text": "or any other kind of financial product might help you with.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 97.68,
     "end": 99.84,
     "text": "So how many numbers do you need?",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 33,
     "start": 99.84,
     "end": 102.96,
     "text": "She says that you start with just four numbers.",
     "speaker": "Rob"
   },
   {
+    "order": 34,
     "start": 102.96,
     "end": 103.76,
     "text": "That's right.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 103.76,
     "end": 106,
     "text": "The first of these numbers is your income.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 106,
     "end": 107.92,
     "text": "This is the money that you have coming in.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 107.92,
     "end": 109.68,
     "text": "Your salary, for example.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 109.68,
     "end": 112.32,
     "text": "Then there's the number for your expenditure.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 112.32,
     "end": 114.159,
-    "text": "This is the money you have going out.",
-    "speaker": null
+    "text": " This is the money you have going out",
+    "speaker": "expenditure"
   },
   {
+    "order": 40,
     "start": 114.64,
     "end": 118.159,
     "text": "For rent, food, entertainment, transport and so on.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 118.159,
     "end": 120.56,
     "text": "The next number was for assets.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 120.56,
     "end": 123.359,
     "text": "This is the cash value of things that you own.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 123.359,
     "end": 126,
     "text": "For example, property, cars, jewelry,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 126,
     "end": 127.84,
     "text": "as well as savings and investments.",
-    "speaker": null
+    "speaker": "cashflow forecast incomeexpenditure"
   },
   {
+    "order": 45,
     "start": 127.84,
     "end": 128.8,
     "text": "That kind of thing.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 128.8,
     "end": 131.36,
-    "text": "And finally, there is liabilities.",
-    "speaker": null
-  },
-  {
-    "start": 131.36,
-    "end": 135.599,
-    "text": "And finally there is liabilities. This is the money that you owe, for example on credit cards or loans.",
+    "text": "And finally there is liabilities. ",
     "speaker": "liabilities"
   },
   {
+    "order": 47,
+    "start": 131.36,
+    "end": 135.599,
+    "text": "This is the money that you owe, for example, on credit cards or loans.",
+    "speaker": null
+  },
+  {
+    "order": 48,
     "start": 135.599,
     "end": 141.28,
     "text": "So if you know these details, she says they can come up with a lifetime cash flow forecast.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 141.36,
     "end": 145.439,
     "text": "Which is a calculation of how much money you can expect to have in the future.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 145.439,
     "end": 148.24,
     "text": "And if that is enough to meet your expectations,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 148.24,
     "end": 151.039,
     "text": "do you have those details? Do you know your numbers, Rob?",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 151.039,
     "end": 153.599,
     "text": "I have a very detailed spreadsheet",
-    "speaker": null
+    "speaker": "incomeexpenditure"
   },
   {
+    "order": 53,
     "start": 153.599,
     "end": 156.56,
     "text": "where I do list my income and expenditure.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 156.56,
     "end": 161.039,
     "text": "So I do know for a month to month how much money I need and how much I can spend.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 161.039,
     "end": 162.879,
     "text": "Oh, that sounds very organized.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 162.879,
     "end": 164.719,
-    "text": "That sounds very organised! What does it tell you about your future?",
-    "speaker": "Neil"
+    "text": "What does it tell you about your future?",
+    "speaker": null
   },
   {
+    "order": 57,
     "start": 164.719,
     "end": 169.039,
-    "text": "Well, it just reminds me of exactly how much money I don’t have. It’s quite depressing! How about you, Neil?",
-    "speaker": "Rob"
+    "text": "Well, it just reminds me of exactly how much money I don't have.",
+    "speaker": null
   },
   {
+    "order": 58,
     "start": 169.039,
     "end": 171.039,
     "text": "It's quite depressing. How about you, Neil?",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 171.12,
     "end": 173.039,
     "text": "Oh, I live in blissful ignorance.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 173.039,
     "end": 175.759,
     "text": "I have no idea how big my debts are.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 175.759,
     "end": 177.199,
     "text": "I try not to worry about it.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 177.199,
     "end": 180.719,
     "text": "I kind of think I'm much too young to worry about it now.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 180.719,
     "end": 184.079,
     "text": "And that as if by magic, it will all work out in the end.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 184.079,
     "end": 187.439,
     "text": "So it would be difficult for me to come up with those four numbers.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 187.439,
     "end": 189.919,
     "text": "Anyway, let's listen to Julie Lorde again,",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 189.919,
     "end": 193.12,
     "text": "describing the lifestyle financial planning process.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 194.079,
     "end": 198.079,
     "text": "Well, we were start by saying that we need to put together a lifetime cash flow forecast",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 198.16,
     "end": 200,
     "text": "or a model. You just need four numbers.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 200,
     "end": 202.32,
     "text": "Your income, your expenditure, assets, liabilities.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 202.32,
     "end": 206.48,
     "text": "And then we can project forward to show you what sort of lifestyle you will have",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 206.48,
     "end": 208.16,
     "text": "if you do nothing at all.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 208.16,
     "end": 211.68,
     "text": "And if indeed you do some of the things that perhaps an isor or a pension",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 211.68,
     "end": 214.48,
     "text": "or any other kind of financial product might help you with.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 215.439,
     "end": 219.36,
-    "text": "Is lifestyle financial planning only for older people with a good pension? Not according to Julie Lord.",
+    "text": "Is lifestyle financial planning only for older people with a good pension?",
     "speaker": "Neil"
   },
   {
+    "order": 75,
     "start": 219.36,
     "end": 220.8,
     "text": "Not according to Julie Lorde?",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 221.76,
     "end": 223.6,
     "text": "Well, it's not all about old age, is it?",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 77,
     "start": 223.6,
     "end": 226.88,
     "text": "I mean, there are people we have quite a number of younger clients who come to us",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 226.879,
     "end": 228.96,
     "text": "and say we just want to get financially organised.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 228.96,
     "end": 231.919,
     "text": "We've heard about all this stuff, these financial products.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 231.919,
     "end": 235.519,
     "text": "No idea really what they are or more importantly what they're going to do for us.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 235.519,
     "end": 240,
     "text": "So can you give us a hand to help us look forward to see what will happen?",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 240.96,
     "end": 245.039,
     "text": "So she also has younger clients who ask for her company’s help.",
     "speaker": "Neil"
   },
   {
+    "order": 83,
     "start": 245.039,
     "end": 249.519,
-    "text": "Yes, she uses the phrase, give us a hand, which means to help someone. If you give someone a hand, you help them.",
-    "speaker": "give us a hand"
+    "text": "Yes, she uses the phrase give us a hand, which means to help someone.",
+    "speaker": null
   },
   {
+    "order": 84,
     "start": 249.519,
     "end": 252.159,
     "text": "If you give someone a hand, you help them.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 252.159,
     "end": 255.199,
     "text": "Exactly. In the way that I give you a hand with six minute English.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 255.839,
     "end": 259.12,
-    "text": "Well, I think I give you a hand rather than the other way around, Neil.",
-    "speaker": "give you a hand"
-  },
-  {
-    "start": 259.839,
-    "end": 262.159,
-    "text": "Really, well let’s not fall out about it. Let’s listen to Julie Lord again.",
+    "text": "Well, I think I give you a hand rather than the other way around Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 87,
+    "start": 259.839,
+    "end": 262.159,
+    "text": "Really? Well, let's not fall out about it.",
+    "speaker": null
+  },
+  {
+    "order": 88,
     "start": 262.159,
     "end": 263.68,
     "text": "Let's listen to Julie Lorde again.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 264.56,
     "end": 266.319,
     "text": "Well, it's not all about old age, is it?",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 266.319,
     "end": 269.599,
     "text": "I mean, there are people we have quite a number of younger clients who come to us",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 269.599,
     "end": 271.759,
     "text": "and say we just want to get financially organised.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 271.759,
     "end": 274.639,
     "text": "We've heard about all this stuff, these financial products.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 274.639,
     "end": 278.24,
     "text": "No idea really what they are or more importantly what they're going to do for us.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 278.24,
     "end": 282.719,
     "text": "So can you give us a hand to help us look forward to see what will happen?",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 283.68,
     "end": 289.28,
-    "text": "It’s nearly time now to review our vocabulary, but first, let’s have the answer to our quiz question. When was the word millionaire first used in English? Was it:",
+    "text": "It’s nearly time now to review our vocabulary, but first, let’s have the answer to our quiz question",
     "speaker": "Neil"
   },
   {
+    "order": 96,
     "start": 289.92,
     "end": 292.88,
     "text": "When was the word millionaire first used in English?",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 292.88,
     "end": 298.64,
     "text": "Was it A, the 1600s, B, the 1700s or C, the 1800s?",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 298.64,
     "end": 300.08,
-    "text": "What did you think, Rob?",
+    "text": " What did you think, Rob",
     "speaker": "Neil"
   },
   {
+    "order": 99,
     "start": 300.08,
     "end": 302.96,
     "text": "Well, I guessed and said it was the 1600s.",
     "speaker": "Rob"
   },
   {
+    "order": 100,
     "start": 302.96,
     "end": 307.36,
     "text": "Well, not a good guess this time. I'm afraid it's actually a lot later.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 307.36,
     "end": 310.88,
     "text": "It was the 1800s when it was first used in English,",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 310.959,
     "end": 313.759,
     "text": "though it had appeared in French in the 1700s.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 313.759,
     "end": 315.199,
     "text": "Now onto the vocabulary.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 315.199,
     "end": 319.04,
     "text": "Yes, we had a lot of financial terms in this programme.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 319.04,
     "end": 321.439,
     "text": "We had cash flow forecast.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 321.439,
     "end": 324.959,
     "text": "This is a calculation of how much money you can expect to have",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 324.959,
     "end": 326.959,
     "text": "at a particular time in the future.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 326.959,
     "end": 330.24,
     "text": "And the cash flow forecast is based on knowing your income,",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 330.24,
     "end": 333.439,
     "text": "which is the money you have coming in and your expenditure,",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 333.439,
     "end": 335.12,
     "text": "the money you have going out.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 335.68,
     "end": 337.759,
     "text": "You also need to know your assets,",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 337.759,
     "end": 341.92,
     "text": "which is the value of things you own as well as savings and investments.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 341.92,
     "end": 344.56,
     "text": "This is balanced against your liabilities,",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 344.56,
     "end": 348.24,
     "text": "which is the term for the money that you owe, for example, on credit cards.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 348.24,
     "end": 351.439,
     "text": "And finally, we have the expression to give someone a hand,",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 351.439,
     "end": 352.56,
     "text": "meaning to help someone.",
-    "speaker": null
+    "speaker": "to give someone a hand"
   },
   {
+    "order": 117,
     "start": 353.039,
     "end": 355.279,
     "text": "Well, that's all from us in this programme.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 355.279,
     "end": 357.36,
     "text": "We look forward to your company next time.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 357.36,
     "end": 360.8,
     "text": "Until then, you can find us in all the usual places on social media,",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 360.8,
     "end": 362.48,
     "text": "online and on our app.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 362.48,
     "end": 364.56,
     "text": "Just search for BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 364.56,
     "end": 365.199,
     "text": "Bye.",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 365.199,
     "end": 366.639,
     "text": "And thanks, Rob, for giving me a hand.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 367.12,
     "end": 369.36,
-    "text": "No, thank you for giving me a hand. Bye!",
-    "speaker": "Rob"
+    "text": "No, thank you for giving me a hand.",
+    "speaker": null
   },
   {
+    "order": 125,
     "start": 370,
     "end": 370.399,
     "text": "Bye.",

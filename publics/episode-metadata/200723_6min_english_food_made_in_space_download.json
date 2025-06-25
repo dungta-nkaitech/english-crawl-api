@@ -5,6 +5,31 @@
   "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p08llxx2.jpg",
   "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/200723_6min_english_food_made_in_space_download.mp3",
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/200723_6min_english_food_made_in_space.pdf",
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "word": "LED light",
+      "definition": "LED lightelectronic device that lights up when electricity is passed through it - abbreviation of ‘light emitting diode’"
+    },
+    {
+      "word": "wavelength",
+      "definition": "the distance between two waves of light which makes things appear to us in the different colours of the rainbow"
+    },
+    {
+      "word": "photon",
+      "definition": "single unit of light"
+    },
+    {
+      "word": "microgravity",
+      "definition": "microgravityweaker pull of gravity in space, making things float and seem weightless"
+    },
+    {
+      "word": "plasticity",
+      "definition": "ability of a plant to adapt to and cope with changes in the environment by changing its biological structure"
+    },
+    {
+      "word": "genes",
+      "definition": "chemicals and DNA in the cells of plants and animals which control their development and behaviour"
+    }
+  ],
   "quiz": null
 }

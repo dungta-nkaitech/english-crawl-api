@@ -1,536 +1,625 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 6.799,
     "text": "6-Mute English from the BBC",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 6.799,
     "end": 10.8,
     "text": "Hello, this is 6-minute English from BBC Learning English. I'm Neil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 10.8,
     "end": 11.839,
-    "text": "And I’m Beth.",
-    "speaker": "Beth"
+    "text": "And I'm Beth.",
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 11.839,
     "end": 15.439,
     "text": "Now, imagine a field polluted by spilled oil.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 15.439,
     "end": 20.879,
     "text": "Toxic waste has mixed into the water and chemical fumes have overtaken the air,",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 20.879,
     "end": 24.48,
     "text": "leaving animals dead and the land unsafe for humans.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 24.48,
     "end": 28.8,
     "text": "Unfortunately, situations like this are common all over the world.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 28.8,
     "end": 32.719,
     "text": "Cleaning up chemical pollution is dangerous and expensive,",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 32.719,
     "end": 35.92,
     "text": "and mostly involves highly technological equipment.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 35.92,
     "end": 38.399,
     "text": "But what if there was a more natural solution?",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 39.12,
     "end": 44.159,
     "text": "Recently, scientists have been developing a new technique for cleaning pollution,",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 44.159,
     "end": 46.4,
     "text": "letting plants do the work instead.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 46.4,
     "end": 53.04,
     "text": "Yes, plants like water hire synths have been used to clean rivers by sucking up oil spilled into the water,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 53.04,
     "end": 58.48,
     "text": "and researchers have successfully used fungi to break down plastic waste.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 58.479,
     "end": 62,
     "text": "In this programme, we'll be hearing about plants that fight pollution,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 15,
     "start": 62,
     "end": 65.84,
     "text": "and of course we'll be learning some useful new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 65.84,
     "end": 68.799,
     "text": "But first, I have a question for you, Neil.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 68.799,
     "end": 73.92,
     "text": "One word we'll be hearing a lot in this programme is phytoromediation,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 73.92,
     "end": 80,
     "text": "the technique that certain plants use to remove harmful chemicals from polluted environments.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 80,
     "end": 81.599,
     "text": "But how do they do this?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 81.599,
     "end": 86.4,
     "text": "Is it by using A, their leaves, B, their roots,",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 86.4,
     "end": 88.719,
-    "text": "c)     their seeds?",
+    "text": "or C, their seeds?",
     "speaker": "Beth"
   },
   {
+    "order": 22,
     "start": 88.719,
     "end": 92.64,
     "text": "I think some plants clean up pollution using their roots.",
     "speaker": "Neil"
   },
   {
+    "order": 23,
     "start": 92.64,
     "end": 96.08,
     "text": "Okay, Neil. We'll find out the correct answer later.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 96.08,
     "end": 103.04,
     "text": "Phytoromedicating plants are certainly needed in one of the most oil polluted places on Earth.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 103.04,
     "end": 106.16,
     "text": "The delta of the River Niger in Nigeria.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 106.16,
     "end": 112.8,
     "text": "Ever since oil, known by the nickname Black Gold, was discovered there in the 1950s,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 112.8,
     "end": 115.92,
     "text": "it's become central to Nigeria's economy.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 115.92,
     "end": 119.68,
     "text": "But oil spills have devastated the region's landscape,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 119.68,
     "end": 123.12,
     "text": "and there is mistrust between local communities",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 123.12,
     "end": 126.24,
     "text": "and the multinational oil companies working there.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 126.24,
     "end": 130.64,
     "text": "Now, one woman and her plants are trying to fix the problem.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 32,
     "start": 130.64,
     "end": 136.479,
     "text": "Eucaria Noichi is a biochemist from the University of Port Harcourt in Nigeria.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 136.479,
     "end": 141.759,
     "text": "She uses phytoromediation to clean and protect the region's land and rivers.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 141.84,
     "end": 147.199,
     "text": "Discussing Eucaria's work are Georgina Renard from the BBC Climate News team",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 147.199,
     "end": 152.479,
     "text": "and Maira Anubi, presenter of BBC World Service Programme People Fixing the World.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 152.479,
     "end": 156,
     "text": "Eucaria is a specialist in phytoromediation.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 156,
     "end": 161.84,
-    "text": "…that word again. It basically means plants being used to clean up contaminated environments, right?",
+    "text": "…that word again. It basically means plants being used to clean up contaminated environments, right",
     "speaker": "Myra Anubi"
   },
   {
+    "order": 38,
     "start": 161.84,
     "end": 166.639,
     "text": "Right. And when I met her recently in London, she had just won the Maddox Prize.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 166.639,
     "end": 171.28,
     "text": "This is a prestigious award for scientists showing courage in the face of hostility.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 171.36,
     "end": 175.68,
     "text": "Now, the Niger Delta is a really dangerous and challenging place to work in.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 175.68,
     "end": 181.199,
     "text": "And despite personal risk to her safety, Eucaria has spent 20 years teaching communities there",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 181.199,
     "end": 184.479,
     "text": "how these plants can suck up, talk the oil from the ground,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 184.479,
     "end": 186.719,
     "text": "and bring their land back to life.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 186.719,
     "end": 190.879,
     "text": "Eucaria's work won a prestigious scientific award.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 190.879,
     "end": 194,
     "text": "Pristigious means admired and well respected.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 194,
     "end": 200.96,
     "text": "The award recognises the personal risks Eucaria takes in her efforts to bring the land back to life.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 200.96,
     "end": 204.56,
-    "text": "If you bring something back to life you make it come alive again after being dead.",
-    "speaker": "bring something back to life"
+    "text": "If you bring something back to life, you make it come alive again",
+    "speaker": "prestigiousPrestigious"
   },
   {
+    "order": 48,
     "start": 204.56,
     "end": 207.6,
     "text": "or reanimated after it has died.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 207.6,
     "end": 213.2,
     "text": "A big problem for climate scientists is being accepted and trusted by the people living in",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 50,
     "start": 213.2,
     "end": 218.08,
     "text": "polluted places, but Eucaria has found a way to work with local communities.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 218.8,
     "end": 223.76,
     "text": "Listen to Georgina Renard of BBC World Services People Fixing the World,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 223.76,
     "end": 226.64,
     "text": "who is followed by Eucarian White G herself.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 226.64,
     "end": 229.12,
     "text": "Her success often comes from getting communities",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 229.12,
     "end": 235.039,
     "text": "you have deep mistrust of outsiders after broken promises from companies to clean up the oil spills.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 235.039,
     "end": 239.28,
     "text": "She gets them to trust her and then they take ownership for the restoration of their land.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 239.28,
     "end": 243.52,
     "text": "And I think Eucaria's magic formula really relies on diplomacy trust",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 243.52,
     "end": 246.4,
     "text": "and actually charisma, which is a very important quality.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 246.4,
     "end": 248.08,
-    "text": "We have a leadership structure.",
-    "speaker": null
+    "text": "We have a leadership structure…",
+    "speaker": "chief"
   },
   {
+    "order": 59,
     "start": 248.08,
     "end": 252.879,
     "text": "So you have the chief, like traditional ruler, you have the women leader,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 252.879,
     "end": 256.72,
     "text": "you have the youth leader, so you find out who those are.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 256.72,
     "end": 259.28,
     "text": "And inform them of what you want to do.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 259.28,
     "end": 264.48,
-    "text": "Local people’s mistrust of big oil companies comes from their broken promises - times when they said they would definitely do something but then failed to.",
-    "speaker": "broken promises"
+    "text": "Local people's mistrust of big oil companies comes from their broken promises,",
+    "speaker": null
   },
   {
+    "order": 63,
     "start": 264.48,
     "end": 268.88,
     "text": "times when they said they would definitely do something but then fail to.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 268.88,
     "end": 273.52,
     "text": "Eucaria, on the other hand, is trusted because she consults the community",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 273.52,
     "end": 279.2,
-    "text": "Eucharia, on the other hand, is trusted because she consults the community by speaking with local chiefs – the rulers, or highest ranking leaders of a tribe.",
+    "text": "by speaking with local chiefs, the rulers or highest ranking leaders of a tribe.",
     "speaker": "chiefs"
   },
   {
+    "order": 66,
     "start": 279.2,
     "end": 282.56,
     "text": "What's more, Eucaria has lots of charisma.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 282.639,
     "end": 288.8,
     "text": "This personal characteristic is the natural ability to attract, influence and inspire people.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 288.8,
     "end": 293.12,
     "text": "Taken together, these make Eucaria's approach a magic formula,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 293.12,
     "end": 296.959,
     "text": "a combination of actions that is likely to result in success.",
-    "speaker": null
+    "speaker": "Charisma"
   },
   {
+    "order": 70,
     "start": 296.959,
     "end": 301.6,
-    "text": "It's good to hear a positive environmental news story for once, isn't it Neil?",
-    "speaker": null
+    "text": "It’s good to hear a positive environmental news story for once, isn’t it, Neil",
+    "speaker": "Beth"
   },
   {
+    "order": 71,
     "start": 301.6,
     "end": 304.8,
     "text": "But what's the science behind what Eucaria is doing?",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 305.36,
     "end": 309.199,
     "text": "How do plants clean up polluted environments?",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 309.279,
     "end": 313.279,
     "text": "To find that out, I need to reveal the answer to my question.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 313.279,
     "end": 318.639,
     "text": "Right, you asked me how plants clean up pollution through phytoromediation.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 318.639,
     "end": 321.039,
     "text": "I said it was using their roots.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 321.039,
     "end": 323.439,
-    "text": "And that was the correct answer.",
-    "speaker": null
+    "text": "And that was… the correct answer",
+    "speaker": "prestigious"
   },
   {
+    "order": 77,
     "start": 324.159,
     "end": 328.399,
     "text": "Okay, it's time to recap the vocabulary we've learnt from the programme,",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 328.399,
     "end": 333.199,
     "text": "starting with the adjective prestigious, meaning admired and well-respected.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 333.199,
     "end": 337.919,
     "text": "If you bring something back to life, you make it come alive again after being dead.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 337.92,
     "end": 341.759,
-    "text": "A broken promise is when you promise definitely to do something but then fail to do what you said you would.",
+    "text": "A broken promise is when you promise definitely to do something ",
     "speaker": "broken promise"
   },
   {
+    "order": 81,
     "start": 341.759,
     "end": 344.4,
     "text": "but then fail to do what you said you would.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 344.4,
     "end": 347.92,
-    "text": "A chief is the ruler of a tribe, or the most important, highest ranking leader of an organisation.",
-    "speaker": "chief"
+    "text": "A chief is the ruler of a tribe or the most important,",
+    "speaker": null
   },
   {
+    "order": 83,
     "start": 347.92,
     "end": 350.4,
     "text": "highest-ranking leader of an organisation.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 350.4,
     "end": 355.92,
-    "text": "Charisma is a special, natural ability to attract, influence and inspire people.",
-    "speaker": "Charisma"
+    "text": "Charisma is a special natural ability to attract, influence and inspire people.",
+    "speaker": null
   },
   {
+    "order": 85,
     "start": 355.92,
     "end": 360.8,
     "text": "And finally, the phrase a magic formula describes a combination of actions",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 360.8,
     "end": 363.2,
     "text": "that is likely to result in success.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 363.2,
     "end": 365.84,
     "text": "Once again, our six minutes are up. Bye for now.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 365.84,
     "end": 366.48,
-    "text": "Goodbye!",
-    "speaker": "Beth"
+    "text": "Goodbye.",
+    "speaker": null
   }
 ]

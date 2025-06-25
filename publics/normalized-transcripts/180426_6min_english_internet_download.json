@@ -1,716 +1,835 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.4,
     "text": "From BBC Learning English",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.359,
     "end": 16.08,
-    "text": "Hello welcome to 6 Minute English. I'm Rob.",
-    "speaker": "Rob"
+    "text": "Hello, welcome to 6 Minute English. I'm Rob.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 16.08,
     "end": 17.199,
     "text": "And I'm Neil.",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 17.199,
     "end": 21.92,
     "text": "Now, Neil, can you remember the first time you've ever used the World Wide Web",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 21.92,
     "end": 24.24,
-    "text": "or as we often call it the internet?",
-    "speaker": null
+    "text": "or as we often call it, the internet",
+    "speaker": "Rob"
   },
   {
+    "order": 8,
     "start": 24.24,
     "end": 25.679,
     "text": "And what you used it for?",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 25.679,
     "end": 28.24,
     "text": "Oh, that's a good question. I do remember.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 29.199,
     "end": 30.159,
     "text": "And...",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 11,
     "start": 30.159,
     "end": 31.839,
     "text": "Well, nothing really changes, does it?",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 31.839,
     "end": 33.759,
     "text": "Because I've looked up pictures of cats.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 34.56,
     "end": 35.519,
-    "text": "Cats.",
-    "speaker": null
+    "text": "Cats!",
+    "speaker": "Rob"
   },
   {
+    "order": 14,
     "start": 35.519,
     "end": 36.96,
     "text": "Very useful.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 36.96,
     "end": 41.359,
-    "text": "Cats! Very useful, anyway do you think the internet has generally been positive or negative for the world?",
-    "speaker": "Rob"
+    "text": "Anyway, do you think the internet has generally been positive or negative for the world?",
+    "speaker": null
   },
   {
+    "order": 16,
     "start": 41.359,
     "end": 44.079,
     "text": "Wow. Now that is a big question.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 44.079,
     "end": 45.359,
     "text": "A huge question.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 45.359,
     "end": 46.959,
     "text": "I don't know if I can answer that.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 46.959,
     "end": 47.519,
     "text": "Hmm.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 47.519,
     "end": 50.159,
-    "text": "Well, one person who perhaps can answer it",
-    "speaker": null
+    "text": "Well one person who perhaps can answer it,",
+    "speaker": "Rob"
   },
   {
+    "order": 21,
     "start": 50.159,
     "end": 51.84,
     "text": "is the man who invented it,",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 51.84,
     "end": 54.879,
     "text": "British computer scientist Tim Berners-Lee.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 54.96,
     "end": 58.32,
     "text": "We'll find out what he thinks has become of his child shortly.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 58.32,
     "end": 60.32,
     "text": "But before that, a question for you all.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 60.96,
     "end": 66.48,
     "text": "When did Berners-Lee first suggest the idea for what would become the World Wide Web?",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 66.48,
     "end": 72.079,
     "text": "Was it a 1985, b 1989, or c 1991?",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 72.719,
     "end": 73.68,
     "text": "Hmm.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 73.68,
     "end": 77.599,
-    "text": "Tricky but I think it's earlier than people think so I'm going to go for 1985.",
-    "speaker": "Neil"
+    "text": " Tricky but I think it's earlier than people think ",
+    "speaker": "Rob"
   },
   {
+    "order": 29,
     "start": 77.599,
     "end": 81.2,
     "text": "so I'm going to go for 1985.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 81.2,
     "end": 82.4,
     "text": "Well, that was a long time ago,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 82.4,
     "end": 86,
     "text": "but we'll reveal the answer a little later in the programme.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 86,
     "end": 89.2,
     "text": "I think it's true to say that the internet has been one of,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 89.2,
     "end": 92.24,
     "text": "if not the most important technological developments,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 92.24,
     "end": 94.56,
     "text": "perhaps of all time. Would you agree, Neil?",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 94.56,
     "end": 96.719,
     "text": "Well, it's hard to imagine living without it.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 97.28,
     "end": 100.24,
-    "text": "Well it's hard to imagine living without it. Not impossible, but not nearly as convenient.",
-    "speaker": "Neil"
+    "text": "Not impossible, but not nearly as convenient.",
+    "speaker": null
   },
   {
+    "order": 37,
     "start": 100.24,
     "end": 102.8,
     "text": "These days, we take the internet for granted.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 102.8,
     "end": 104.88,
     "text": "We share our lives on social media,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 104.88,
     "end": 107.12,
     "text": "and not just with friends and family.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 107.12,
     "end": 109.52,
     "text": "And that isn't always a positive thing,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 109.519,
     "end": 113.039,
     "text": "according to the father of the internet, Tim Berners-Lee.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 113.039,
     "end": 115.759,
     "text": "In a recent BBC tech-tent programme,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 115.759,
     "end": 118.239,
     "text": "he talked about his concerns with the internet,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 118.239,
     "end": 121.039,
     "text": "and particularly the companies that control its information.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 121.759,
     "end": 125.039,
     "text": "Companies which he calls internet giants.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 125.039,
     "end": 127.679,
     "text": "What does he say he thought these companies had to do?",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 128.319,
     "end": 133.759,
     "text": "Initially, I felt the main thing that internet giant had to do was to just be neutral.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 133.759,
     "end": 135.84,
-    "text": "Just be a platform and humanity.",
-    "speaker": null
+    "text": " just be a platform and humanity",
+    "speaker": "Tim Berners-Lee"
   },
   {
+    "order": 49,
     "start": 135.84,
     "end": 138.319,
     "text": "Once connected by technology, we'll do wonderful things.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 139.52,
     "end": 141.2,
     "text": "And clearly, it doesn't work like that.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 141.2,
     "end": 144.719,
     "text": "If you connect humanity via Wikipedia,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 144.719,
     "end": 147.12,
     "text": "then they do produce in general wonderful things.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 147.12,
     "end": 152.719,
     "text": "If you connect people by social networks where they have anonymity,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 152.719,
     "end": 154.96,
     "text": "then it can bring out the very nastiest of people.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 154.96,
     "end": 158.16,
-    "text": "So what did he say he thought these internet giants had to do?",
-    "speaker": "Rob"
-  },
-  {
-    "start": 158.16,
-    "end": 162.48,
-    "text": "He said that he thought initially that they just had to be neutral.",
+    "text": "So, what did he say he thought these internet giants had to do?",
     "speaker": null
   },
   {
-    "start": 162.48,
-    "end": 165.28,
-    "text": "Initially – means 'at first - in the beginning'. Then we had neutral.",
+    "order": 56,
+    "start": 158.16,
+    "end": 162.48,
+    "text": "He said that he thought initially, that they just had to be neutral",
     "speaker": "Neil"
   },
   {
+    "order": 57,
+    "start": 162.48,
+    "end": 165.28,
+    "text": "Initially, means at first, in the beginning.",
+    "speaker": "Rob"
+  },
+  {
+    "order": 58,
     "start": 165.28,
     "end": 168.879,
     "text": "And it also suggests that later he'd changed his mind.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 168.96,
     "end": 172.639,
     "text": "Anyway, he said that he thought they just had to be neutral.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 172.639,
     "end": 175.359,
     "text": "Neutral here means that they didn't need to do anything.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 175.359,
     "end": 178,
     "text": "They didn't need to control the internet or information.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 178,
     "end": 181.759,
     "text": "He thought it would be a tool to connect people and ideas and information,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 181.759,
     "end": 183.039,
     "text": "and it would be wonderful.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 183.039,
     "end": 185.039,
     "text": "But it's not all good, is it?",
-    "speaker": "Rob"
-  },
-  {
-    "start": 185.039,
-    "end": 186,
-    "text": "No.",
     "speaker": null
   },
   {
-    "start": 186,
-    "end": 190.56,
-    "text": "No. He does say that giving people access to sources of information is generally a good thing but that when it comes to social networks, social media, people have anonymity.",
+    "order": 65,
+    "start": 185.039,
+    "end": 186,
+    "text": "No.",
     "speaker": "Neil"
   },
   {
+    "order": 66,
+    "start": 186,
+    "end": 190.56,
+    "text": "He does say that giving people access to sources of information is generally a good thing.",
+    "speaker": null
+  },
+  {
+    "order": 67,
     "start": 190.56,
     "end": 193.84,
     "text": "But that when it comes to social networks, social media,",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 193.84,
     "end": 195.919,
     "text": "people have anonymity.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 195.919,
     "end": 196.8,
     "text": "Anonymity?",
-    "speaker": "Rob"
+    "speaker": "Neil"
   },
   {
+    "order": 70,
     "start": 196.8,
     "end": 197.519,
     "text": "Yes.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 197.52,
     "end": 201.76,
     "text": "It means that on the internet, people can hide their true identity or personality.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 202.4,
     "end": 205.76,
     "text": "Some people write things that they would never say to someone in person,",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 205.76,
     "end": 207.92,
     "text": "because they think there will be no consequences.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 208.56,
     "end": 213.04,
     "text": "Berners-Lee says anonymity can bring out the nastiest side of people.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 213.04,
     "end": 216.08,
     "text": "People saying horrible and terrible things to each other.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 216.08,
     "end": 220.16,
     "text": "Berners-Lee does have some suggestions for how this could be changed,",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 220.16,
     "end": 225.04,
     "text": "and it's based on the idea of likes and shares, which he calls Qdos.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 225.04,
     "end": 226.32,
     "text": "What's his suggestion?",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 226.4,
     "end": 228.879,
     "text": "The different social networks, the different platforms,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 228.879,
     "end": 230.239,
-    "text": "are in different situations.",
-    "speaker": null
+    "text": "are in different situations ",
+    "speaker": "Tim Berners-Lee"
   },
   {
+    "order": 81,
     "start": 230.239,
     "end": 233.84,
     "text": "In some cases, they have acknowledged that there's an issue.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 233.84,
     "end": 240.639,
     "text": "I think they realize that the issue could perhaps be hugely mediated by tweaking the way the thing works,",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 240.639,
     "end": 246.879,
     "text": "by changing the way retweets or propagated or changing the way people get Qdos.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 246.879,
     "end": 249.919,
     "text": "Give them all Qdos for being constructive, for example.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 249.919,
     "end": 253.12,
     "text": "So how does he think companies could address the problem?",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 86,
     "start": 253.12,
     "end": 255.919,
     "text": "Well, he says that some of the social networks have agreed",
-    "speaker": null
-  },
-  {
-    "start": 255.919,
-    "end": 258.959,
-    "text": "Well, he says that some of the social networks have agreed that there is a problem and they know what could improve it.",
     "speaker": "Neil"
   },
   {
-    "start": 258.959,
-    "end": 261.599,
-    "text": "He didn't use the word improve though, did he?",
-    "speaker": "Rob"
+    "order": 87,
+    "start": 255.919,
+    "end": 258.959,
+    "text": "that there is a problem, and they know what could improve it.",
+    "speaker": null
   },
   {
+    "order": 88,
+    "start": 258.959,
+    "end": 261.599,
+    "text": "He didn't use the word improve, though, did he?",
+    "speaker": null
+  },
+  {
+    "order": 89,
     "start": 261.599,
     "end": 264.24,
     "text": "No. He actually used the rather formal verb,",
-    "speaker": null
-  },
-  {
-    "start": 264.24,
-    "end": 268,
-    "text": "No he actually used the rather formal verb ameliorate, which means 'to improve or make something better'.",
     "speaker": "Neil"
   },
   {
+    "order": 90,
+    "start": 264.24,
+    "end": 268,
+    "text": "ameliorate, which means to improve or make something better.",
+    "speaker": null
+  },
+  {
+    "order": 91,
     "start": 268,
     "end": 271.599,
     "text": "So how does he suggest the problem could be ameliorated?",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 92,
     "start": 271.599,
     "end": 275.519,
     "text": "By tweaking the way in which people give or receive Qdos.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 275.519,
     "end": 279.279,
     "text": "Tweaking means making a small change to the way something works.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 94,
     "start": 279.279,
     "end": 284.319,
     "text": "Much of what happens on the internet is driven by our desire to get likes and shares.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 284.399,
     "end": 287.36,
     "text": "This is the Qdos that Berners-Lee talks about.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 287.36,
     "end": 290.8,
     "text": "He feels that tweaking this could lead to a better experience.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 290.8,
     "end": 294.879,
     "text": "For example, getting more Qdos for constructive or positive actions.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 294.879,
     "end": 299.519,
-    "text": "Mmm, interesting – but I wonder who would decide if something is constructive?",
-    "speaker": "Rob"
+    "text": "Interesting, but I wonder who would decide if something is constructive?",
+    "speaker": null
   },
   {
+    "order": 99,
     "start": 299.519,
     "end": 302.879,
-    "text": "Well that's another big question for another day, I guess.",
-    "speaker": "Neil"
+    "text": "Well, that's another big question for another day, I guess.",
+    "speaker": null
   },
   {
+    "order": 100,
     "start": 302.879,
     "end": 306.24,
     "text": "For now, though, let's have the answer to our small question.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 306.24,
     "end": 311.68,
     "text": "In what year did Berners-Lee present the idea for what would become the World Wide Web?",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 312.079,
     "end": 317.92,
     "text": "The options were A, 1985, B, 1989, or C, 1991.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 317.92,
     "end": 320.4,
     "text": "It was, in fact, 1989.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 320.959,
     "end": 324.96,
     "text": "Now, before we go, let's have a quick recap of today's vocabulary.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 324.96,
     "end": 329.84,
     "text": "Initially, means at first in the beginning, and then we had neutral.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 329.84,
     "end": 334.48,
-    "text": "In this case it meant 'not controlling' or 'not taking any action to control'.",
+    "text": "Hmm, in this case, it meant not controlling or not taking any action to control.",
+    "speaker": null
+  },
+  {
+    "order": 107,
+    "start": 335.199,
+    "end": 341.199,
+    "text": "Then there was the noun anonymity, which is the state of having a hidden identity or personality.",
     "speaker": "Rob"
   },
   {
-    "start": 335.199,
-    "end": 341.199,
-    "text": "Then there was the noun anonymity which is the state of having a hidden identity or personality.",
-    "speaker": "Neil"
-  },
-  {
+    "order": 108,
     "start": 341.199,
     "end": 345.039,
     "text": "Next, to ameliorate a situation is to make it better.",
     "speaker": "Rob"
   },
   {
+    "order": 109,
     "start": 345.039,
     "end": 349.519,
     "text": "To tweak something is to make a small change to the way something works.",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 110,
     "start": 349.519,
     "end": 351.279,
     "text": "And then we have, of course, Qdos.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 351.279,
     "end": 354.319,
     "text": "Qdos is praise and appreciation for something you've done.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 354.319,
     "end": 357.599,
     "text": "Well, Qdos to you, Rob, for today's programme. Thank you very much.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 357.599,
     "end": 360.159,
     "text": "Well, thank you, Neil, and thank you everyone for listening.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 114,
     "start": 360.159,
     "end": 362.159,
     "text": "That's all we have time for today.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 362.159,
     "end": 365.36,
     "text": "But you can find us on Facebook, Twitter, Instagram, and YouTube.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 365.36,
     "end": 369.279,
     "text": "And of course, our website, bbclearningenglish.com.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 369.279,
     "end": 370,
     "text": "Bye for now.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 370,
     "end": 371.279,
     "text": "Thanks for joining us and goodbye.",
-    "speaker": "Neil"
+    "speaker": null
   }
 ]

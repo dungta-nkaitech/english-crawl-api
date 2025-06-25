@@ -7,12 +7,16 @@
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/180222_6min_english_mermaiding.pdf",
   "vocabItems": [
     {
-      "word": "exercise is done over a longer period of time and strengthens the heart and lungs",
-      "definition": "aquatic"
+      "word": "aerobic  aquatic synchronised  mono",
+      "definition": "aerobicexercise is done over a longer period of time and strengthens the heart and lungs  aquaticconnected to water (eg: aquatic sports)  synchronisedmoving together at the same time or speed as someone or something else  mono(used as a prefix) single / one"
     },
     {
-      "word": "mono",
-      "definition": "(used as a prefix) single / one"
+      "word": "cardiovascular",
+      "definition": "connected with the heart and the blood vessels"
+    },
+    {
+      "word": "social",
+      "definition": "doing things with other people and usually having fun"
     }
   ],
   "quiz": null

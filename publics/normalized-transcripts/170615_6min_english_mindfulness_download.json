@@ -1,416 +1,485 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.16,
     "text": "6M8 ING.",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.16,
     "end": 11.12,
     "text": "From BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 16.32,
     "end": 18.24,
     "text": "Okay, I want you to close your eyes.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 19.12,
     "end": 20.48,
     "text": "Focus on your breathing.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 6,
     "start": 21.199,
     "end": 23.199,
     "text": "No.",
+    "speaker": "mindfulness"
+  },
+  {
+    "order": 7,
+    "start": 29.28,
+    "end": 33.439,
+    "text": "Neil, can we do this later? We've only got six minutes.",
     "speaker": null
   },
   {
-    "start": 29.28,
-    "end": 33.439,
-    "text": "Er, Neil? Can we do this later? We've only got six minutes.",
-    "speaker": "Catherine"
-  },
-  {
+    "order": 8,
     "start": 33.439,
     "end": 39.6,
     "text": "Okay, Catherine. Welcome to a mindful edition of 6M8 English, where we're exploring the rise of",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 39.6,
     "end": 45.84,
     "text": "mindfulness, particularly in schools. And we'll be teaching six items of vocabulary along the way.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 45.84,
     "end": 49.92,
     "text": "So I think we should start with mindfulness itself.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 49.92,
     "end": 56.079,
-    "text": "Being mindful, as an adjective, means 'being calmly aware of everything in your body and mind'. You only focus on 'now'.",
-    "speaker": "mindful"
+    "text": "Being mindful as an adjective means being calmly aware of everything in your body and mind.",
+    "speaker": null
   },
   {
+    "order": 12,
     "start": 56.079,
     "end": 58.56,
     "text": "You only focus on now.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 58.56,
     "end": 65.12,
     "text": "People practice mindfulness, the noun, by focusing only on their breath and not allowing them's",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 65.12,
     "end": 70.879,
     "text": "hose to be distracted by passing thoughts. Indeed, it's traditionally associated with Buddhism and",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 70.879,
     "end": 76.719,
     "text": "has become incredibly popular in the secular world. It works places in private classes and even",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 76.719,
     "end": 80.4,
     "text": "in schools. Succula means non-religious, by the way.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 80.4,
     "end": 86.319,
     "text": "Okay, I just mentioned schools. How many teachers in the UK are trained to teach mindfulness?",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 86.319,
     "end": 97.68,
-    "text": "Let me focus really hard – I think it's 5,000.",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 97.68,
-    "end": 102.879,
-    "text": "A very mindful answer, Catherine, but I'll reveal the real answer later.",
+    "text": "Is it a 500, b 5000 or c 50,000? Let me focus really hard. I think it's 5,000.",
     "speaker": null
   },
   {
+    "order": 19,
+    "start": 97.68,
+    "end": 102.879,
+    "text": "A very mindful answer, Catherine, but I'll reveal the real answer later.",
+    "speaker": "Catherine"
+  },
+  {
+    "order": 20,
     "start": 102.879,
     "end": 107.839,
     "text": "Now let's hear from one teacher who's been practicing mindfulness with students for many years,",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 107.839,
     "end": 111.679,
     "text": "Alison Meio, head of early years at Dharma Primary School.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 111.679,
     "end": 115.119,
     "text": "Things it's particularly suited to young children. Why?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 116.799,
     "end": 121.759,
     "text": "That's very natural for children to be in the present. And we really kind of celebrate that",
-    "speaker": null
+    "speaker": "in the presentgrounded"
   },
   {
+    "order": 24,
     "start": 121.759,
     "end": 127.519,
     "text": "because that is a place where they are learning. So if they feel grounded, then they can really",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 127.519,
     "end": 133.599,
     "text": "develop their concentration and their focus and relax. Learning happens so much",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 133.599,
     "end": 135.599,
     "text": "easily if you're relaxed and happy.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 137.28,
     "end": 140.8,
     "text": "Alison said it was natural for children to be in the present.",
-    "speaker": "in the present"
+    "speaker": null
   },
   {
+    "order": 28,
     "start": 140.8,
     "end": 145.84,
     "text": "The present means now. You'll know the term from the present tense in grammar.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 145.84,
     "end": 153.84,
     "text": "And people who practice mindfulness use this phrase a lot to be in the present or in the present",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 153.84,
     "end": 157.36,
-    "text": "It sounds simple, but actually it's very hard to achieve.",
-    "speaker": "Neil"
+    "text": "moment. It sounds simple, but actually it's very hard to achieve.",
+    "speaker": "The presentmindfulnessin the presentin the present moment"
   },
   {
+    "order": 31,
     "start": 158.159,
     "end": 163.52,
     "text": "Well, Neil, it might be for an old chap like you, but for young people, Miss Meio thinks it's",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 163.52,
     "end": 169.28,
     "text": "very natural. Fair enough, being grounded, as she says, helps students concentrate and learn",
-    "speaker": null
-  },
-  {
-    "start": 169.28,
-    "end": 176.96,
-    "text": "Grounded is another good adjective there – it means 'rational, sensible, clear thinking'.",
-    "speaker": "Grounded"
-  },
-  {
-    "start": 176.96,
-    "end": 181.599,
-    "text": "So, she's a fan of mindfulness. And there's growing evidence behind its benefits.",
-    "speaker": "mindfulness"
-  },
-  {
-    "start": 181.68,
-    "end": 187.84,
-    "text": "Yes. The UK's national health advisory body has recommended it to help treat conditions like depression and anxiety.",
     "speaker": "Catherine"
   },
   {
-    "start": 187.84,
-    "end": 193.84,
-    "text": "Studies have shown it reduces levels of the stress hormone, cortisol.",
-    "speaker": "Neil"
+    "order": 33,
+    "start": 169.28,
+    "end": 176.96,
+    "text": "in a relaxed way. Grounded is another good adjective there. It means rational, sensible, clear thinking.",
+    "speaker": null
   },
   {
+    "order": 34,
+    "start": 176.96,
+    "end": 181.599,
+    "text": "So she's a fan of mindfulness and there's growing evidence behind its benefits.",
+    "speaker": "Grounded"
+  },
+  {
+    "order": 35,
+    "start": 181.68,
+    "end": 187.84,
+    "text": "Yes. The UK's national health advisory body has recommended it to help treat conditions",
+    "speaker": "Catherine"
+  },
+  {
+    "order": 36,
+    "start": 187.84,
+    "end": 193.84,
+    "text": "like depression and anxiety. Studies have shown it reduces levels of the stress hormone cortisol.",
+    "speaker": null
+  },
+  {
+    "order": 37,
     "start": 193.84,
     "end": 199.84,
     "text": "And a new study has claimed that eating mindfully can actually help people to lose weight.",
     "speaker": "mindfully"
   },
   {
+    "order": 38,
     "start": 199.84,
     "end": 201.199,
     "text": "You mean eating slowly?",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 39,
     "start": 201.199,
     "end": 208.56,
-    "text": "Yeah, slowly and really experiencing and tasting the food. Not being distracted and not eating too much too fast! Anyway, Neil, is mindfulness taking over the world?",
+    "text": "Yeah, slowly and really experiencing and tasting the food. Not being distracted and not eating too",
     "speaker": "mindfulness"
   },
   {
+    "order": 40,
     "start": 208.64,
     "end": 214.08,
     "text": "much too fast. Anyway, Neil, is mindfulness taking over the world?",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 214.08,
     "end": 219.12,
     "text": "Well, not quite yet. There still aren't many detailed studies on it. And some critics say the",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 219.12,
     "end": 225.12,
-    "text": "Well, not quite yet. There still aren't many detailed studies on it – and some critics say the studies we have show a publication bias. In other words, only the positive results are published.",
-    "speaker": "bias"
+    "text": "studies we have show a publication bias. In other words, only the positive results are published.",
+    "speaker": null
   },
   {
+    "order": 43,
     "start": 225.12,
     "end": 231.599,
-    "text": "A bias is when you support something or someone in an unfair way, because of your preferences or beliefs.",
+    "text": "A bias is when you support something or someone in an unfair way because of your preferences or",
     "speaker": "bias"
   },
   {
+    "order": 44,
     "start": 231.599,
     "end": 236.48,
     "text": "beliefs. What seems certain is that mindfulness has entered into many aspects of modern life,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 236.479,
     "end": 242.159,
     "text": "at least here in the UK. Now, let's look back at our question. I asked how many teachers in the UK",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 242.159,
     "end": 248,
     "text": "have been trained in mindfulness? And I said 5,000. Well, it was actually 5,000.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 248,
     "end": 252.56,
     "text": "Yay! Well done. According to the mindfulness initiative and it keeps on growing.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 253.28,
     "end": 257.519,
-    "text": "So before we finish up, here's another question that might be useful for our listeners – what's the difference between mindfulness and meditation?",
-    "speaker": "mindfulnessmeditation"
+    "text": "So before we finish up, here's another question that might be useful for our listeners.",
+    "speaker": "Mindfulness"
   },
   {
+    "order": 49,
     "start": 257.519,
     "end": 261.519,
     "text": "What's the difference between mindfulness and meditation?",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 262,
     "end": 268.079,
     "text": "That's not so easy to define. Meditation is the broader term. When you meditate, you spend time",
-    "speaker": null
+    "speaker": "MeditationmeditateMindfulnessmeditation"
   },
   {
+    "order": 51,
     "start": 268.079,
     "end": 275.12,
     "text": "quietly, focusing your mind, often for relaxation or spiritual purposes. Mindfulness is a particular",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 275.12,
     "end": 279.599,
     "text": "kind of meditation where you try to empty your mind of thought. Does that make sense?",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 279.599,
     "end": 286,
     "text": "Yeah, more or less. So we'll let our listeners meditate on that answer. And before we empty our",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 286,
     "end": 293.12,
     "text": "minds, let's look back at today's words. We had mindfulness, mindful and mindfully.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 293.839,
     "end": 299.199,
     "text": "They all relate to the particular practice of being only focused on what's happening now.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 299.199,
     "end": 304.079,
-    "text": "What's happening now, or we could say – what's happening in the present. People often focus on the past – thinking back about mistakes or happy memories…",
+    "text": "What's happening now? Or we could say what's happening in the present. People often focus on the",
     "speaker": "in the present"
   },
   {
+    "order": 57,
     "start": 304.079,
     "end": 310,
     "text": "past thinking back about mistakes or happy memories. Or on the future, which can be full of worries.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 310,
     "end": 314.079,
     "text": "But by being in the present, you overcome these thoughts and fears.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 314.639,
     "end": 322.079,
     "text": "Next we had secular. It contrasts with religious. So while a church is a religious building,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 322.079,
     "end": 326.16,
     "text": "we also have secular buildings, like factories and shops and hospitals.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 326.16,
     "end": 332.399,
-    "text": "Exactly. Now, tell me Neil, are you feeling grounded right now?",
-    "speaker": "grounded"
+    "text": "All non-religious buildings, in other words! Exactly. Now, tell me Neil, are you feeling grounded right now?",
+    "speaker": "Neil"
   },
   {
+    "order": 62,
     "start": 332.399,
     "end": 337.519,
-    "text": "You're asking if I'm thinking clearly and feeling connected to the world? Do you even have to ask, Catherine – I'm a very grounded person.",
+    "text": "You're asking if I'm thinking clearly and feeling connected to the world? Do you even have to ask",
     "speaker": "grounded"
   },
   {
+    "order": 63,
     "start": 337.519,
     "end": 342,
     "text": "Catherine, I'm a very grounded person. You are most of the time. Most of the time you're",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 342,
     "end": 347.359,
     "text": "naturally grounded. Every now and again you get a bit panicked, but hey. But some of us need to",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 347.359,
     "end": 353.599,
     "text": "remember to slow down, chill out and meditate once in a while. Yes, that would be",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 353.599,
     "end": 359.199,
-    "text": "meditate, meaning to take quiet time to focus deeply on something. Exactly. Now for more ways to",
+    "text": " meditate meaning to take quiet time to focus deeply on something. Exactly. Now for more ways to",
+    "speaker": "meditate"
+  },
+  {
+    "order": 67,
+    "start": 359.199,
+    "end": 364.959,
+    "text": "improve your English, I suggest you mindfully visit our Facebook, Twitter, Instagram and YouTube",
     "speaker": null
   },
   {
-    "start": 359.199,
-    "end": 364.959,
-    "text": "Exactly. Now for more ways to improve your English I suggest you mindfully visit our Facebook, Twitter, Instagram and YouTube pages.",
-    "speaker": "mindfully"
-  },
-  {
+    "order": 68,
     "start": 364.959,
     "end": 371.279,
-    "text": "Yes, focus only on our pages. Don't be distracted by anything else!",
-    "speaker": "Neil"
+    "text": "pages. Yes, focus only on our pages. Don't be distracted by anything else. Bye. Goodbye.",
+    "speaker": null
   }
 ]

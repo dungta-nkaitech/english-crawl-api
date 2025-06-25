@@ -1,359 +1,419 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.44,
     "text": "This is a download from BBC Learning English. To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 13.599,
     "end": 17.92,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Sam.",
     "speaker": "Sam"
   },
   {
+    "order": 2,
     "start": 17.92,
     "end": 19.039,
-    "text": "And I’m Neil.",
-    "speaker": "Neil"
+    "text": "And I'm Neil.",
+    "speaker": null
   },
   {
+    "order": 3,
     "start": 19.039,
     "end": 25.679,
     "text": "Sleep. We all need it. Some more than others. I can usually get by with around 7 hours",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 25.679,
     "end": 31.6,
     "text": "a night, but I do like to have an app, a short sleep in the afternoon when I'm not working, of course.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 31.6,
     "end": 33.039,
     "text": "How about you, Neil?",
+    "speaker": "Sam"
+  },
+  {
+    "order": 6,
+    "start": 33.039,
+    "end": 38.079,
+    "text": "I'm always tired, and as soon as my head hits the pillow, I'm out like a light,",
     "speaker": null
   },
   {
-    "start": 33.039,
-    "end": 38.079,
-    "text": "I’m always tired and as soon as my head hits the pillow, I’m out like a light – meaning I go to sleep very quickly.",
-    "speaker": "out like a light"
-  },
-  {
+    "order": 7,
     "start": 38.079,
     "end": 40.159,
     "text": "meaning I go to sleep very quickly.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 40.159,
     "end": 44.879,
-    "text": "Well, Neil, you might not survive in South Korea, then. Apparently, it's one of the most",
-    "speaker": null
+    "text": "Well, Neil, you might not survive in South Korea then. Apparently, it’s one of the most ",
+    "speaker": "Sam"
   },
   {
+    "order": 9,
     "start": 44.879,
     "end": 51.12,
     "text": "stressed and tired nations on Earth. A place where people work and study longer hours and get",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 51.119,
     "end": 57.359,
     "text": "less sleep than anywhere else. We'll find out more later and teach some sleep-related vocabulary.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 57.359,
     "end": 61.759,
-    "text": "But before we do, you need to give me a question to keep me awake and alert!",
-    "speaker": "Neil"
-  },
-  {
-    "start": 62.64,
-    "end": 69.2,
-    "text": "Of course I do, and here it is. In the 1960s, American man Randy Gardner",
+    "text": "But before we do, you need to give me a question to keep me awake and alert.",
     "speaker": null
   },
   {
-    "start": 69.2,
-    "end": 75.519,
-    "text": "Of course I do, and here it is. In the 1960s, American man, Randy Gardner, set the world record for staying awake for the longest period. Do you know what that time was? Was it:",
+    "order": 12,
+    "start": 62.64,
+    "end": 69.2,
+    "text": "Of course I do, and here it is. In the 1960s, American man Randy Gardner",
     "speaker": "Sam"
   },
   {
+    "order": 13,
+    "start": 69.2,
+    "end": 75.519,
+    "text": "set the world record for staying awake for the longest period. Do you know what that time was?",
+    "speaker": null
+  },
+  {
+    "order": 14,
     "start": 76.159,
     "end": 83.519,
     "text": "A, 64 hours. B, 164 hours. C, 264 hours.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 84.239,
     "end": 89.519,
     "text": "Or sound impossible, but I'll guess A, 64 hours. That's nearly three days.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 90.399,
     "end": 95.12,
     "text": "Well, I'll give you the answer later in the program, assuming you don't dose off.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 95.12,
     "end": 100.64,
     "text": "But let's talk more about sleep now. As I mentioned, we all need it to help our mind and body",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 101.04,
     "end": 106.159,
     "text": "rest and relax. And going without sleep or sleeplessness is bad for our health.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 106.96,
     "end": 114.64,
     "text": "Many things can stop us sleeping and some of them are pressure, anxiety and stress caused by your job.",
-    "speaker": null
+    "speaker": "switch off"
   },
   {
+    "order": 20,
     "start": 114.64,
     "end": 120.879,
     "text": "And in South Korea, research has shown it's increasingly difficult to switch off. Stop thinking",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 120.879,
     "end": 126.96,
     "text": "about work and relax. South Koreans sleep fewer hours and have higher rates of depression and",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 126.959,
     "end": 132.719,
     "text": "suicide than almost anywhere else. C, Wankoo has been reporting on this for the BBC World",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 132.719,
     "end": 139.28,
-    "text": "Se-Woong Koo has been reporting on this for the BBC World Service Documentary podcast. He met one worker who explained why she never got time to relax.",
-    "speaker": "Sam"
+    "text": "Service documentary podcast. He met one worker who explained why she never got time to relax.",
+    "speaker": null
   },
   {
+    "order": 24,
     "start": 140.879,
     "end": 144.879,
     "text": "Separating work and rest time has been a recurring issue for Chile.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 144.879,
     "end": 150.4,
     "text": "In her last job, her office hours were long. Like most Korean firms, her employer didn't think",
-    "speaker": null
+    "speaker": "encroached"
   },
   {
+    "order": 26,
     "start": 150.4,
     "end": 156.879,
     "text": "about any boundaries. They encroached on almost all her time. They told me you need to be",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 157.68,
     "end": 164.08,
     "text": "contactable 24-7. There will always be someone from work reaching out to me like you need to get",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 164.08,
     "end": 168.159,
     "text": "this done right now. I'm even just thinking about it like I get really agitated.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 169.52,
     "end": 176.4,
     "text": "So that stressed out worker got agitated just thinking about the situation. She got worried or upset.",
-    "speaker": null
+    "speaker": "agitated"
   },
   {
+    "order": 30,
     "start": 177.039,
     "end": 182.879,
     "text": "That's because office hours in South Korea are long and some employers expect their workers to be",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 182.879,
     "end": 189.36,
     "text": "contactable all the time. Yes, there are no boundaries, so no limits or rules about when",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 189.36,
     "end": 195.84,
     "text": "employers can contact their employees. Therefore, as this employee said work encroached,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 195.84,
     "end": 201.439,
     "text": "it gradually took over her leisure time. Stress like this can lead to insomnia,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 201.439,
     "end": 207.039,
     "text": "a condition where you are unable to sleep. The BBC Discovery podcast goes on to explain that",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 207.039,
     "end": 213.039,
     "text": "offering a cure for this sleep business has become big business. There are sleep clinics where",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 213.039,
     "end": 219.52,
     "text": "doctors assess people overnight and sleep cafes that offer places to nap in the middle of the working",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 37,
     "start": 219.52,
     "end": 225.12,
     "text": "day. One other issue in South Korea that's affecting sleep is the Bali-Bali culture,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 225.2,
     "end": 231.68,
     "text": "meaning quickly, quickly or hurry, hurry. People are constantly in a rush. Dr Lee spoke to the",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 231.68,
     "end": 237.92,
-    "text": "Doctor Lee spoke to the World Service’s Discovery podcast about the effects of this and how even trying to take medication to help sleep, has its problems.",
+    "text": "World Services Discovery podcast about the effects of this and how even trying to take medication",
     "speaker": "Sam"
   },
   {
+    "order": 40,
     "start": 237.92,
     "end": 248.8,
     "text": "to help sleep has its problems. People take like 10 or 20 pills per one night and because they",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 248.8,
     "end": 255.04,
     "text": "cannot follow sleep even with the medication they drink alcohol on top of that and they experience",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 255.039,
     "end": 262.159,
     "text": "the side effects of the medication. People can sleepwalk and go to the refrigerator,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 263.039,
     "end": 269.039,
     "text": "eat a lot of things unconsciously, uncooked food and they don't remember next day.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 269.599,
     "end": 275.279,
     "text": "There were cases of car accidents in the center of Seoul, which has been a sleepwalking patient.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 277.36,
     "end": 282.399,
-    "text": "So some people are taking lots of pills to help them sleep, but they're not working, so they're",
-    "speaker": null
+    "text": "So, some people are taking lots of pills to help them sleep but they’re not working so they’re ",
+    "speaker": "side-effects"
   },
   {
+    "order": 46,
     "start": 282.399,
     "end": 288.239,
     "text": "drinking alcohol as well. This leads to side effects, unpleasant and unexpected results from the",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 288.239,
     "end": 294.56,
     "text": "medication. It seems one of these side effects is sleepwalking, moving around and doing things",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 294.56,
     "end": 300.079,
     "text": "whilst still asleep. Well, if sleeping pills aren't working, there's always meditation or working",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 300.079,
     "end": 305.679,
     "text": "less. At least South Koreans are guessing sunsleep, unlike Randy Gardner, who I asked you about",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 305.679,
     "end": 310.959,
     "text": "earlier. Yes, he holds the record for staying awake the longest and I thought he stayed awake for",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 51,
     "start": 310.959,
     "end": 319.12,
     "text": "64 hours. Was I right? Oh, no Neil, not long enough. Randy Gardner stayed awake for an incredible",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 319.12,
     "end": 330.24,
     "text": "264.4 hours. That's 11 days and 25 minutes in January 1964. That's one record I really don't want to",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 53,
     "start": 330.24,
     "end": 336.079,
     "text": "beat. Well, before you nod off Neil, let's recap some of the vocabulary we've been discussing,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 336.079,
     "end": 341.919,
     "text": "including go out like a light, which means you go to sleep very quickly. When you switch off,",
-    "speaker": null
+    "speaker": "go out like a light"
   },
   {
+    "order": 55,
     "start": 341.919,
     "end": 347.279,
     "text": "you stop concentrating on one thing and start thinking about something else. A lack of sleep or",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 347.279,
     "end": 354.799,
     "text": "rest can make you agitated. You get worried or upset. Incroach means gradually take over. When you",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 354.799,
     "end": 361.12,
     "text": "take medication and it gives you unpleasant and unexpected results, we call these side effects.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 361.68,
     "end": 366.639,
     "text": "And sleepwalking describes moving around and doing things while still asleep.",
-    "speaker": "sleepwalking"
+    "speaker": "side-effects"
   },
   {
+    "order": 59,
     "start": 366.639,
     "end": 371.12,
     "text": "That's our six minutes up. Goodbye and see dreams. Goodbye.",

@@ -1,539 +1,629 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.4,
     "text": "From BBC Learning English",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.359,
     "end": 16.96,
-    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
-    "speaker": "Neil"
+    "text": "Hello, this is 6 Minute English from BBC Learning English.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 16.96,
     "end": 17.839,
     "text": "I'm Neil.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 17.839,
     "end": 18.96,
-    "text": "And I’m Rob.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 18.96,
-    "end": 21.839,
-    "text": "Fancy a game of food connections, Rob.",
+    "text": "And I'm Rob.",
     "speaker": null
   },
   {
+    "order": 7,
+    "start": 18.96,
+    "end": 21.839,
+    "text": "Fancy a game of food connections, Rob.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 8,
     "start": 21.839,
     "end": 25.92,
     "text": "So I'll name a place and you say the first food that comes to mind.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 25.92,
     "end": 26.56,
     "text": "Ready?",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 26.56,
     "end": 28.08,
-    "text": "Yeah, sure, let’s go!",
-    "speaker": "Rob"
+    "text": "Yeah, sure, let's go.",
+    "speaker": null
   },
   {
+    "order": 11,
     "start": 28.08,
     "end": 28.879,
     "text": "Italy.",
     "speaker": "Neil"
   },
   {
+    "order": 12,
     "start": 28.879,
     "end": 32.399,
     "text": "Pizza or Lissagna.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 32.399,
     "end": 33.28,
     "text": "New York?",
     "speaker": "Rob"
   },
   {
+    "order": 14,
     "start": 33.28,
     "end": 36.799,
-    "text": "‘Hot dogs’, of course. Or maybe ‘bagels’. How about… Cornwall from the UK?",
-    "speaker": "Neil"
+    "text": "Hot dogs, of course, or maybe bagels.",
+    "speaker": null
   },
   {
+    "order": 15,
     "start": 36.799,
     "end": 40.239,
     "text": "Now, how about Cornwall from the UK?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 40.239,
     "end": 45.039,
-    "text": "If it’s Cornwall, it must be the famous ‘Cornish pasty’, right?",
-    "speaker": "Rob"
-  },
-  {
-    "start": 45.039,
-    "end": 46,
-    "text": "That's right.",
+    "text": "Oh, right. If it's Cornwall, it must be the famous Cornish Pasty, right?",
     "speaker": null
   },
   {
+    "order": 17,
+    "start": 45.039,
+    "end": 46,
+    "text": "That's right.",
+    "speaker": "Rob"
+  },
+  {
+    "order": 18,
     "start": 46,
     "end": 49.92,
     "text": "Cornwall, the region which forms the southwestern tip of Britain,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 49.92,
     "end": 53.599,
     "text": "is as famous for its pasties as New Yorkers for hot dogs.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 54.239,
     "end": 58.239,
     "text": "In this programme, we'll be finding out all about Cornish pasties",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 58.24,
     "end": 60.8,
     "text": "and we'll hear how it's gone from humble beginnings",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 60.8,
     "end": 63.359,
     "text": "to become a symbol of Cornish identity",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 63.359,
     "end": 67.2,
     "text": "and spread around the world to Jamaica, Argentina and Brazil.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 68.24,
     "end": 70.96,
     "text": "But what exactly is a pasty, Neil?",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 25,
     "start": 70.96,
     "end": 74.4,
     "text": "Somewhere between a pie and a sandwich, right?",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 74.4,
     "end": 78.32,
     "text": "A piece of pastry which is turned over and crimped along the side",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 78.32,
     "end": 79.84,
     "text": "to make two corners.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 79.84,
     "end": 82,
     "text": "And filled with different ingredients,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 82,
     "end": 84.96,
     "text": "which brings me to my quiz question for today, Rob.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 85.279,
     "end": 89.679,
     "text": "What is the traditional filling in an authentic Cornish Pasty?",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 89.679,
     "end": 96.399,
     "text": "Is it a chicken avocado and bry, b, beef potato and turnip,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 96.399,
     "end": 99.679,
-    "text": "c)      Pork, onion and chorizo",
-    "speaker": "Neil"
-  },
-  {
-    "start": 100.719,
-    "end": 103.199,
-    "text": "Well, chorizo is Spanish, isn't it?",
+    "text": "or c, pork, onion and chorizo?",
     "speaker": null
   },
   {
+    "order": 33,
+    "start": 100.719,
+    "end": 103.199,
+    "text": "Well, chorizo is Spanish, isn't it?",
+    "speaker": "Neil"
+  },
+  {
+    "order": 34,
     "start": 103.199,
     "end": 106.959,
     "text": "An avocado with bry doesn't sound traditionally Cornish,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 106.959,
     "end": 109.839,
-    "text": "b)     Beef, potato and turnip",
-    "speaker": "Neil"
+    "text": "so I'll say b, beef potato and turnip.",
+    "speaker": null
   },
   {
+    "order": 36,
     "start": 110.479,
     "end": 113.199,
     "text": "Okay, Rob, we'll find out later if you were right.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 113.28,
     "end": 117.12,
     "text": "What's for sure is that the Cornish Pasty has had a long history",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 38,
     "start": 117.12,
     "end": 120.159,
     "text": "as BBC Radio 4's The Food Programme discovered.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 120.799,
     "end": 125.84,
     "text": "They spoke to Dr. Polly Russell, a public life curator at the British Library.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 125.84,
     "end": 129.599,
     "text": "Here she is reading from one of the earliest mentions of pasties",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 129.599,
     "end": 131.599,
     "text": "from the late 17th century.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 132.24,
     "end": 135.12,
     "text": "There's a lovely bit here where he's describing",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 136.48,
     "end": 139.84,
     "text": "what a housewife in Hertfordshire does,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 139.84,
     "end": 144.719,
     "text": "and he's talking about her way to make pork pies and pork pasties.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 145.36,
     "end": 148.56,
     "text": "Pies may be made and baked, either raised in paste,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 148.56,
     "end": 152.24,
     "text": "earth and pans or imputed dishes, or in the shape of a turnover,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 152.24,
     "end": 154.319,
     "text": "two-corned pasties.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 154.319,
     "end": 157.92,
     "text": "So that's a very early reference to a pastie in the shape,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 157.92,
     "end": 162.56,
     "text": "I think, that we know it, but also being made specifically for laborers",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 162.56,
     "end": 166,
     "text": "to be feeding laborers on a farm at harvest time.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 166.8,
     "end": 170.479,
     "text": "So the earliest pasties were made in pewter dishes,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 170.479,
     "end": 175.599,
     "text": "a traditional cooking plate made of a silver coloured metal called pewter.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 175.599,
     "end": 181.759,
     "text": "And they were eaten by agricultural laborers, workers doing physical farmwork during harvest time,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 181.759,
     "end": 186.159,
     "text": "the weeks in autumn when crops like wheat are cut and collected from the fields.",
-    "speaker": null
+    "speaker": "pewter dishes"
   },
   {
+    "order": 55,
     "start": 186.719,
     "end": 190.319,
     "text": "But it wasn't only farmers and laborers who ate pasties.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 190.96,
     "end": 193.039,
     "text": "As well as its farms and fishing,",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 57,
     "start": 193.039,
     "end": 199.12,
     "text": "Cornel was famous for tin mines, as Ruth Huxley of the Cornish Pasties Association explains.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 199.68,
     "end": 201.919,
     "text": "Pasties would have been eaten by lots of people who went to work,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 201.919,
     "end": 207.12,
     "text": "but it just worked perfectly down mines and Cornel became the world capital of mining.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 207.12,
     "end": 209.84,
     "text": "And so lots of pasties were made, lots of pasties were eaten,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 209.84,
     "end": 213.439,
     "text": "and then that mining community went all over the world and took the pasties with them.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 214.399,
     "end": 218.879,
-    "text": "Pasties were eaten by hungry workers involved in the mining industry,",
-    "speaker": null
-  },
-  {
-    "start": 218.879,
-    "end": 224.56,
-    "text": "Pasties were eaten by hungry workers involved in the mining industry - digging up materials such as coal or metals like gold, or in Cornwall tin, from the ground.",
+    "text": "Pasties were eaten by hungry workers involved in the mining industry ",
     "speaker": "mining"
   },
   {
+    "order": 63,
+    "start": 218.879,
+    "end": 224.56,
+    "text": "digging up materials such as coal or metals like gold or in Cornwall tin from the ground.",
+    "speaker": null
+  },
+  {
+    "order": 64,
     "start": 225.519,
     "end": 231.12,
     "text": "So far we've been talking about Cornel, but you said the Cornish pastie has spread around the",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 231.12,
     "end": 236.56,
     "text": "world, Neil. How did that happen? Well, that's connected to the tin miners we just talked about.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 236.56,
     "end": 244.24,
     "text": "Here's Pauli Russell again. This is replicated not just in Mexico, but with migrants moving to",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 244.24,
     "end": 249.92,
     "text": "America, to Minnesota, to Canada, to Australia. So anyone who travels to many of those places now",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 68,
     "start": 249.92,
     "end": 256.24,
     "text": "will see foods which are incredibly reminiscent and familiar and just like Cornish pasties.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 256.96,
     "end": 262.4,
-    "text": "In the 19th century, many Cornish tin miners emigrated moving abroad to start a better life.",
-    "speaker": null
+    "text": "In the 19th century, many Cornish tin miners emigrated, moving abroad to start a better life",
+    "speaker": "replicated"
   },
   {
+    "order": 70,
     "start": 263.04,
     "end": 268.56,
     "text": "Their pasties recipes were replicated or copied exactly in the new places where they landed",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 268.56,
     "end": 273.439,
     "text": "from America to Australia. And that's why in many places around the world, you can find food which",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 273.439,
     "end": 279.279,
     "text": "is reminiscent of pasties, meaning it reminds you of something similar. In this case, the original",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 279.279,
     "end": 284.639,
     "text": "Cornish pastie with its traditional filling of, what was your quiz question again, Neil?",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 284.639,
     "end": 289.279,
     "text": "Ah, yes. I asked you what the traditional Cornish pastie filling was. You said.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 289.279,
     "end": 295.759,
     "text": "I said B, beef potato and turnip. And you were right. Kess Lawena Robb,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 295.759,
     "end": 301.839,
     "text": "that's Cornish for congratulations. Heb Grev, Neil, that's no problem.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 77,
     "start": 301.839,
     "end": 307.039,
     "text": "In fact, those other fillings, Churrisso, avocado and bry, really did feature in pasties",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 307.039,
     "end": 311.679,
     "text": "entered for this year's annual world pastie championships held in Cornwall every spring.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 312.239,
     "end": 319.359,
     "text": "Other pastie inspired ideas include Argentinian, Chimichuri and Panadas and spicy Jamaican patties.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 319.359,
     "end": 324.479,
     "text": "So the pastie is still going strong both in Cornwall and around the world.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 324.479,
     "end": 329.839,
-    "text": "Today we’ve been discussing Cornish pasties – a kind of filled pastry from the south-west of England, originally made in pewter dishes – a silver-coloured metal dish.",
-    "speaker": "pewter dishes"
+    "text": "Today we've been discussing Cornish pasties, a kind of filled pastry from the southwest of England,",
+    "speaker": "Rob"
   },
   {
+    "order": 82,
     "start": 329.839,
     "end": 336.719,
     "text": "originally made in pewter dishes, that's a silver-colored metal dish. Pasties were eaten by agricultural",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 336.719,
     "end": 342.319,
     "text": "labourers, farm workers bringing in the autumn harvest, the time when crops are cut and collected",
-    "speaker": null
+    "speaker": "labourersharvest mining"
   },
   {
+    "order": 84,
     "start": 342.319,
     "end": 348.159,
     "text": "from the fields, and also by workers in the tin mining industry, digging up metals like tin",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 348.159,
     "end": 354.079,
     "text": "from underground. Later, when these miners emigrated to new lands, pasties were replicated,",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 354.319,
     "end": 360.959,
     "text": "cooked again in the same way. In fact, Cornish miners moved to so many new countries that today,",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 360.959,
     "end": 366.879,
-    "text": "In fact Cornish miners moved to so many new countries that today, almost every corner of the world has food reminiscent of – or reminding you of, the original Cornish pasty.",
+    "text": "almost every corner of the world has food reminiscent of or reminding you of the original Cornish",
     "speaker": "reminiscent of"
   },
   {
+    "order": 88,
     "start": 366.879,
     "end": 372.399,
     "text": "pastie. That's all for today. Join us again soon for more topical discussion and vocabulary on",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 372.399,
     "end": 374.639,
     "text": "6 Minute English. Goodbye for now. Bye bye.",

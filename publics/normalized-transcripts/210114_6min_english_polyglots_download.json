@@ -1,584 +1,681 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 13.519,
     "end": 17.12,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 17.12,
     "end": 18.08,
-    "text": "And I’m Rob.",
-    "speaker": "Rob"
+    "text": "And I'm Rob.",
+    "speaker": null
   },
   {
+    "order": 4,
     "start": 18.08,
     "end": 19.28,
-    "text": "Bonjour, Rob! Kon’nichi’wa!",
+    "text": "Bonjour, Rob!",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 20.879,
     "end": 21.92,
-    "text": "Excuse me?",
-    "speaker": "Rob"
+    "text": "Excuse me.",
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 23.92,
     "end": 28.32,
     "text": "Oh, okay. I think Neil's saying hello in different languages.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 28.64,
     "end": 31.359,
     "text": "French was it and then Japanese.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 8,
     "start": 31.359,
     "end": 32.96,
     "text": "And Spanish, is that right?",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 33.6,
     "end": 34.48,
     "text": "Seem we'll be in.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 35.6,
     "end": 38.88,
     "text": "The English are famously slow to learn other languages,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 11,
     "start": 38.88,
     "end": 41.28,
     "text": "but it seems that Rob and I, and of course you,",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 41.28,
     "end": 44.079,
     "text": "our global audience here at 6 Minute English,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 44.079,
     "end": 48.96,
     "text": "are good examples of polyglots, people who speak more than one language,",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 48.96,
     "end": 51.28,
     "text": "sometimes known as super linguists,",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 51.28,
     "end": 55.439,
     "text": "people who speak multiple languages benefit from many advantages,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 55.439,
     "end": 57.6,
     "text": "as we'll be hearing in this programme.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 57.679,
     "end": 60.24,
-    "text": "That word polyglot sounds familiar, Neil. Doesn’t the prefix – poly – mean, ‘many’?",
+    "text": "That word polyglot sounds familiar, Neil.",
     "speaker": "polyglot"
   },
   {
+    "order": 18,
     "start": 60.24,
     "end": 63.359,
     "text": "doesn't the prefix poly mean many?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 63.359,
     "end": 66.96,
-    "text": "That’s right, like polygon – a shape with many sides.",
-    "speaker": "Neil"
+    "text": "That's right, like polygon, a shape with many sides.",
+    "speaker": null
   },
   {
+    "order": 20,
     "start": 66.96,
     "end": 70.719,
-    "text": "Or polymath – someone who knows many things.",
+    "text": "Or polymath – someone who knows many things",
     "speaker": "Rob"
   },
   {
+    "order": 21,
     "start": 70.719,
     "end": 74.4,
     "text": "And speaking of knowing things, it's time for my quiz question.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 74.4,
     "end": 78.4,
     "text": "The word polyglot comes from Greek and is made up of two parts,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 78.4,
     "end": 82.159,
     "text": "poly, which as Rob says means many, and glut.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 82.159,
     "end": 83.84,
     "text": "But what does glut mean?",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 83.84,
     "end": 86.64,
     "text": "What is the meaning of the word polyglot?",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 86.64,
     "end": 88.959,
-    "text": "a) many words?,",
-    "speaker": "polyglot"
+    "text": "Is it A? Many words?",
+    "speaker": null
   },
   {
+    "order": 27,
     "start": 88.959,
     "end": 91.68,
-    "text": "b) many sounds? or",
+    "text": "b) many sounds? or c) many tongues",
     "speaker": "polyglot"
   },
   {
+    "order": 28,
     "start": 92.4,
     "end": 95.599,
-    "text": "Well, there’s three syllables in ‘polyglot’, Neil, so I reckon it’s b), many sounds.",
+    "text": "Well, there's three syllables in polyglot, Neil,",
     "speaker": "Rob"
   },
   {
+    "order": 29,
     "start": 95.599,
     "end": 98.4,
     "text": "so I reckon it's B. Many sounds.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 98.96,
     "end": 102.719,
     "text": "Okay, Rob will find out if that's right at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 102.719,
     "end": 105.519,
     "text": "But leaving aside the origins of the word,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 105.519,
     "end": 108.4,
     "text": "what exactly does being a polyglot involve?",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 108.96,
     "end": 113.439,
     "text": "British-born polyglot Richard Simcott speaks 11 languages.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 113.439,
     "end": 118.319,
     "text": "Listen to his definition as he speaks to BBC World Service programme, the documentary.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 119.28,
     "end": 123.519,
-    "text": "A polyglot, for me, can be anyone who identifies with that term.",
-    "speaker": null
+    "text": "A polyglot for me can be anyone who identifies with that term – ",
+    "speaker": "polyglotidentifies with sheer"
   },
   {
+    "order": 36,
     "start": 123.519,
     "end": 127.84,
     "text": "It's somebody who learns languages that they don't necessarily need for their lives,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 127.84,
     "end": 133.28,
     "text": "but just out of sheer enjoyment, pleasure, or fascination with another language or culture.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 134.159,
     "end": 139.28,
-    "text": "For Richard, being a polyglot simply means identifying with the idea - feeling that you are similar or closely connected to it.",
-    "speaker": "identifying with"
+    "text": "For Richard, being a polyglot simply means identifying with the idea,",
+    "speaker": null
   },
   {
+    "order": 39,
     "start": 139.28,
     "end": 142.879,
     "text": "feeling that you are similar or closely connected to it.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 142.879,
     "end": 146.319,
     "text": "He says polyglots learn languages not because they have to,",
-    "speaker": null
+    "speaker": "sheer sheer"
   },
   {
+    "order": 41,
     "start": 146.319,
     "end": 151.039,
     "text": "but for the sheer enjoyment, which means nothing except enjoyment.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 151.759,
     "end": 156.639,
     "text": "Richard uses the word sheer to emphasise how strong and pure this enjoyment is.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 157.199,
     "end": 160.159,
     "text": "As well as the pleasure of speaking other languages,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 160.159,
     "end": 163.439,
     "text": "polyglots are also better at communicating with others.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 164,
     "end": 168.56,
     "text": "My favourite quote by South Africa's first black president Nelson Mandela is,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 169.199,
     "end": 174.24,
     "text": "if you talk to a man in a language he understands, that goes to his head.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 174.24,
     "end": 177.92,
     "text": "If you talk to him in his language, that goes to his heart.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 178.719,
     "end": 181.199,
-    "text": "How inspiring, Rob. I'm lost for words.",
-    "speaker": null
+    "text": "How inspiring, Rob – I’m lost for words",
+    "speaker": "soul"
   },
   {
+    "order": 49,
     "start": 181.68,
     "end": 182.56,
     "text": "Here's another.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 182.56,
     "end": 185.84,
-    "text": "How inspiring, Rob – I’m lost for words! Here’s another: ‘To have another language is to possess a second soul’.",
-    "speaker": "soul"
+    "text": "To have another language is to possess a second soul.",
+    "speaker": null
   },
   {
+    "order": 51,
     "start": 187.36,
     "end": 193.199,
-    "text": "So language learning is good for the head, heart and soul – a person’s spirit or the part of them which is believed to continue existing after death.",
-    "speaker": "soul"
+    "text": "So language learning is good for the head, heart and soul, a person's spirit,",
+    "speaker": null
   },
   {
+    "order": 52,
     "start": 193.199,
     "end": 197.039,
     "text": "or the part of them, which is believed to continue existing after death.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 197.599,
     "end": 201.28,
-    "text": "Yes, and what's more, language learning is good for the brain too.",
-    "speaker": null
+    "text": "Yes – and what’s more, language learning is good for the brain too",
+    "speaker": "Neil"
   },
   {
+    "order": 54,
     "start": 201.28,
     "end": 205.759,
     "text": "That's according to Harvard neuroscientist, Eve Federenko.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 205.759,
     "end": 210.479,
     "text": "She's researched the effects of speaking multiple languages on the brains of growing children.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 211.12,
     "end": 216.399,
     "text": "Eve predicted that multilingual children would have hyperactive language brains.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 217.039,
     "end": 222.239,
     "text": "But what she actually found surprised her, as she explains here to BBC World Services,",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 222.239,
     "end": 223.199,
     "text": "the documentary.",
-    "speaker": null
+    "speaker": "soul"
   },
   {
+    "order": 59,
     "start": 224.159,
     "end": 229.199,
-    "text": "What we found, this is now people who already have proficiency in multiple languages,",
-    "speaker": null
+    "text": "What we found – this is now people who already have proficiency in multiple languages",
+    "speaker": "proficiencyefficient."
   },
   {
+    "order": 60,
     "start": 229.199,
     "end": 233.199,
     "text": "what we found is that their language regions appear to be smaller.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 233.199,
     "end": 235.199,
     "text": "And that was surprising.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 235.199,
     "end": 239.119,
     "text": "And as people get better and better and more automatic at performing the task,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 239.119,
     "end": 242.239,
     "text": "the activations shrink, so to speak, over time.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 242.239,
     "end": 247.839,
     "text": "So they become, it becomes so that you don't have to use as much brain tissue to do the task as well.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 247.839,
     "end": 249.28,
     "text": "Right, so you become more efficient.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 249.759,
     "end": 254.719,
     "text": "And Eve was testing children who already have language proficiency,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 254.719,
     "end": 258.079,
     "text": "the skill and ability to do something, such as speak a language.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 258.639,
     "end": 264.48,
-    "text": "Her surprising discovery was that the language regions of these children's brains were shrinking,",
-    "speaker": null
+    "text": "Her surprising discovery was that the language regions of these children’s brains were shrinking ",
+    "speaker": "efficient"
   },
   {
+    "order": 69,
     "start": 264.48,
     "end": 268.319,
     "text": "not because their speaking skills were getting worse, but the opposite.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 268.319,
     "end": 273.6,
     "text": "As they learned and repeated language patterns, their brain tissue became more efficient,",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 273.6,
     "end": 275.439,
     "text": "worked quicker and more effectively.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 275.68,
     "end": 280.879,
     "text": "It suggested that this increased efficiency is a result of exposure to different languages.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 281.439,
     "end": 283.12,
-    "text": "So that proves it, Neil.",
+    "text": "So that proves it, Neil:",
+    "speaker": "Rob"
+  },
+  {
+    "order": 74,
+    "start": 283.12,
+    "end": 287.68,
+    "text": "Speaking many languages is good for the head, heart, mind and soul.",
     "speaker": null
   },
   {
-    "start": 283.12,
-    "end": 287.68,
-    "text": "So that proves it, Neil: speaking many languages is good for the head, heart, mind and soul!",
-    "speaker": "Rob"
-  },
-  {
+    "order": 75,
     "start": 288.319,
     "end": 290.48,
-    "text": "You took the words right out of my mouth!",
-    "speaker": "Neil"
+    "text": "You took the words right out of my mouth.",
+    "speaker": null
   },
   {
+    "order": 76,
     "start": 291.6,
     "end": 296.639,
-    "text": "And speaking of words, what does the ‘glot’ in polyglot actually mean? Was my answer correct?",
+    "text": "And speaking of words, what does the glot in polyglot actually mean?",
     "speaker": "Rob"
   },
   {
+    "order": 77,
     "start": 296.639,
     "end": 297.68,
     "text": "Was my answer correct?",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 298.48,
     "end": 299.759,
     "text": "Ah, that's right.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 299.759,
     "end": 304.319,
-    "text": "Ah, that’s right. In my quiz question I asked you for the meaning of the word ‘polyglot’.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 304.399,
-    "end": 306.48,
-    "text": "I said, b) many sounds.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 307.12,
-    "end": 310.319,
-    "text": "But in fact, the correct answer was C, many tongues.",
+    "text": "In my quiz question, I asked you for the meaning of the word polyglot.",
     "speaker": null
   },
   {
+    "order": 80,
+    "start": 304.399,
+    "end": 306.48,
+    "text": "And I said B, many sounds.",
+    "speaker": null
+  },
+  {
+    "order": 81,
+    "start": 307.12,
+    "end": 310.319,
+    "text": "But in fact, the correct answer was C, many tongues.",
+    "speaker": "Rob"
+  },
+  {
+    "order": 82,
     "start": 310.319,
     "end": 314.959,
     "text": "You may be a polyglot, Rob, that you're not quite a polymath yet.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 314.959,
     "end": 320.159,
     "text": "Okay, well, let me get my brain tissues working by recapping the vocabulary,",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 320.159,
     "end": 324.319,
     "text": "starting with polyglot, someone who speaks many languages.",
+    "speaker": "polyglot"
+  },
+  {
+    "order": 85,
+    "start": 324.319,
+    "end": 327.759,
+    "text": "The language centres in a polyglot's brain are efficient.",
     "speaker": null
   },
   {
-    "start": 324.319,
-    "end": 327.759,
-    "text": "The language centres in a polyglot’s brain are efficient – theywork quickly and effectively in an organised way.",
-    "speaker": "efficient"
-  },
-  {
+    "order": 86,
     "start": 327.759,
     "end": 331.199,
     "text": "They work quickly and effectively in an organised way.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 331.199,
     "end": 335.12,
     "text": "Proficiency means the skill and ability to do something well.",
-    "speaker": null
+    "speaker": "Proficiency identify with"
   },
   {
+    "order": 88,
     "start": 335.759,
     "end": 341.439,
     "text": "And if you identify with something, you feel that you are similar or closely connected to it.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 341.439,
     "end": 344.8,
     "text": "Polyglot's learn languages for the sheer enjoyment of it.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 344.8,
     "end": 349.759,
-    "text": "Polyglots learn languages for the sheer enjoyment of it – a word meaning ‘nothing except‘ which is used to emphasise the strength of feeling.",
-    "speaker": "sheer"
+    "text": "A word meaning nothing except which is used to emphasise the strength of feeling.",
+    "speaker": null
   },
   {
+    "order": 91,
     "start": 349.759,
     "end": 356.319,
-    "text": "So speaking many languages is good for mind and soul – a person’s non-physical spirit which some believe to continue after death.",
-    "speaker": "soul"
+    "text": "So speaking many languages is good for mind and soul, a person's non-physical spirit,",
+    "speaker": null
   },
   {
+    "order": 92,
     "start": 356.319,
     "end": 358.959,
     "text": "which some believe to continue after death.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 358.959,
     "end": 362.399,
     "text": "That's it for this programme, but to discover more about language learning,",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 362.399,
     "end": 366.879,
     "text": "including some useful practical tips, check out the SuperLinguist series",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 366.879,
     "end": 369.199,
     "text": "from BBC World Services, the documentary.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 369.759,
     "end": 370.799,
-    "text": "Bye for now!",
+    "text": "Bye for now! Bye!",
     "speaker": "Rob"
   }
 ]

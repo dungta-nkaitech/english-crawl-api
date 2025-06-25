@@ -1,365 +1,426 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 8.4,
     "text": "6 Minute English From BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 8.4,
     "end": 12.8,
     "text": "Hello, this is 6 Minute English from BBCLearningEnglish, I'm Phil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.8,
     "end": 14.08,
     "text": "And I'm Beth.",
-    "speaker": "Beth"
+    "speaker": "Phil"
   },
   {
+    "order": 3,
     "start": 14.08,
     "end": 20.64,
-    "text": "If you use the internet, and nearly everyone does, you’ve probably read headlines like this:",
+    "text": "If you use the internet, and nearly everyone does, you’ve probably read headlines like this",
     "speaker": "Phil"
   },
   {
+    "order": 4,
     "start": 20.64,
     "end": 25.28,
-    "text": "You won’t believe what plastic surgery this celebrity has had done!",
-    "speaker": "Phil"
+    "text": "You won't believe what plastic surgery this celebrity has had done.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 25.28,
     "end": 31.6,
     "text": "Known as clickbait, headlines like these are used to grab your attention and make you read more.",
     "speaker": "Phil"
   },
   {
+    "order": 6,
     "start": 31.6,
     "end": 36.64,
     "text": "But now a new trend called ragebait is spreading across social media.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 36.64,
     "end": 41.92,
     "text": "Ragebait is online content designed to make you angry or outraged.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 41.92,
     "end": 47.6,
-    "text": "In this programme, we’ll explore the trend of rage-baiting, and, as usual, we’ll learn some useful new vocabulary, all of which you can find on our website, bbclearningenglish.com.",
+    "text": "In this programme we'll explore the trend of ragebaiting and as usual we'll learn some useful",
     "speaker": "rage bait"
   },
   {
+    "order": 9,
     "start": 47.6,
     "end": 53.28,
     "text": "new vocabulary, all of which you can find on our website, BBCLearningEnglish.com.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 53.28,
     "end": 59.76,
-    "text": "Great, but first it’s time for my question, Beth, which is about the two terms we’ve been using: 'clickbait' and 'rage bait'. Both contain the word, 'bait', but what is its actual meaning? Is bait:",
-    "speaker": "rage bait"
+    "text": "Great, but first it's time for my question, Beth, which is about the two terms we've been using.",
+    "speaker": null
   },
   {
+    "order": 11,
     "start": 59.76,
     "end": 67.359,
     "text": "Clickbait and ragebait. Both contain the word bait. But what is his actual meaning?",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 67.359,
     "end": 71.12,
     "text": "Is bait a strong feeling of anger?",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 71.84,
     "end": 77.599,
     "text": "Be food, put on a hook to catch fish or animals or see a piece of computer software.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 77.599,
     "end": 81.76,
     "text": "I am fairly confident that it is bait food, put on a hook.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 82.32,
     "end": 86.08,
     "text": "Okay, well we'll find out the correct answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 86.96,
     "end": 92.96,
     "text": "Here's how ragebait works. A creator posts a provocative piece of content online,",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 92.96,
     "end": 99.36,
     "text": "a message maybe or a video, people see it, feel outraged and comment angrily.",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 18,
     "start": 100.16,
     "end": 106.48,
     "text": "Others see it, like it and share it around. On either way the content creates interest,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 106.48,
     "end": 109.68,
     "text": "increases internet traffic and makes money for the creator.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 110.32,
     "end": 115.04,
     "text": "Here's marketing strategist Andrea Jones explaining more to Megan Lawton,",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 115.04,
     "end": 118.64,
     "text": "presenter of BBC World Service programme Business Daily.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 119.28,
     "end": 123.2,
     "text": "The more content they create, the more engagement they get, the more that they get paid.",
-    "speaker": null
+    "speaker": "The morethe morethe moreinciting"
   },
   {
+    "order": 23,
     "start": 123.2,
     "end": 128.879,
     "text": "And so they will do anything, some creators will do anything to get more views because the more views",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 128.879,
     "end": 136.319,
     "text": "they get, the more that they get paid, even if those views are negative or inciting rage and anger.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 136.479,
     "end": 142.159,
     "text": "Andrea, how is ragebait different to clickbait or other online tactics?",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 142.159,
     "end": 147.12,
     "text": "As a marketer, I'm always coaching my clients and talking to them about using hooks in their",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 147.12,
     "end": 152.959,
     "text": "marketing, right? And I think the difference between a hook and ragebait or even it's a long-lost",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 152.959,
     "end": 159.12,
     "text": "cousin clickbait content, when we think about a hook, to me a hook accurately reflects what's in",
-    "speaker": null
+    "speaker": "manipulative."
   },
   {
+    "order": 29,
     "start": 159.12,
     "end": 166.159,
     "text": "that piece of content. And it comes from a place of trust, whereas ragebaiting content is designed",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 166.159,
     "end": 174.24,
     "text": "to be manipulative. Andrea says the more reaction a post gets, the more money the creator makes,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 174.24,
     "end": 180.4,
     "text": "even if the reactions are hateful. She uses the structure, the more one thing happens,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 180.4,
     "end": 186.319,
     "text": "the more something else happens, to show that as one thing happens repeatedly, another thing",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 186.319,
     "end": 192.639,
     "text": "increases as a result. For example, the more you practise English, the more you'll improve.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 192.639,
     "end": 198.319,
     "text": "It doesn't matter that the content is designed to incite outrage, to encourage unpleasant or violent",
-    "speaker": null
+    "speaker": "incite clickbait manipulative"
   },
   {
+    "order": 35,
     "start": 198.319,
     "end": 205.439,
     "text": "reactions. That's why Andrea thinks ragebait is worse than clickbait. While clickbait is more",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 205.439,
     "end": 212.479,
     "text": "truthful about its content, ragebait is manipulative, meaning it tries to influence something to its",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 212.479,
     "end": 219.519,
     "text": "own advantage. So it's not hard to see why many people think ragebait is toxic. So if you're",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 219.52,
     "end": 226.64,
     "text": "wondering why people react in the first place, listen as Dr. William Brady explains the psychology",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 226.64,
     "end": 234.32,
     "text": "behind ragebait to BBC World Services business daily. If you are an influencer and you want to",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 234.32,
     "end": 240.16,
     "text": "figure out, well, how do I get more eyeballs on my content? Well, you need to exploit those biases",
-    "speaker": null
+    "speaker": "eyeballsbiases"
   },
   {
+    "order": 41,
     "start": 240.16,
     "end": 245.12,
     "text": "we have in our psychology, because that's the content we'll pay more attention to. In turn,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 245.12,
     "end": 250,
     "text": "that's the content that algorithms will amplify, which ultimately means more advertising revenue.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 250.56,
     "end": 258.399,
     "text": "Influences want more eyeballs on their content, more people to view their website or social media posts,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 258.399,
     "end": 265.68,
     "text": "and use human psychology to do it. Psychologically speaking, we all have biases. Feelings which are",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 265.68,
     "end": 273.28,
     "text": "often unconscious, either for or against a certain idea or group of people. Biasis are emotional,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 273.279,
     "end": 278.639,
-    "text": "Biases are emotional, and since listening to our emotions has been vital to the evolution of the human species, creators know that provoking our emotions will grab our attention.",
+    "text": " and since listening to our emotions has been vital to the evolution of the human species",
     "speaker": "Beth"
   },
   {
+    "order": 47,
     "start": 278.639,
     "end": 282.479,
     "text": "creators know that provoking our emotions will grab our attention.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 283.199,
     "end": 290.079,
     "text": "So what can be done to combat ragebait? Well, we could all take a moment to think before reacting,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 290.079,
     "end": 294.079,
     "text": "and remember that by sharing something outrageous, you might be making things worse,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 294.799,
     "end": 300.239,
     "text": "while also making the creator richer. Okay, Phil, let's reveal the answer to your question. You",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 300.24,
     "end": 307.92,
     "text": "asked me what bait is. I did. And the correct answer is B. Food put on a hook to catch a fish or",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 52,
     "start": 307.92,
     "end": 314.96,
     "text": "an animal. Isn't that what you said, Ben? It is, yes. Right again. Okay, let's recap the vocabulary",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 314.96,
     "end": 321.519,
     "text": "we've learnt in the programme, starting with ragebait. Social media content designed to provoke",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 321.519,
     "end": 328.639,
     "text": "anger, thereby encouraging people to engage with it. The structure, the more, the more, describes",
+    "speaker": "rage bait"
+  },
+  {
+    "order": 55,
+    "start": 328.639,
+    "end": 334.479,
+    "text": "the situation when one thing happening repeatedly results in another thing happening too.",
     "speaker": null
   },
   {
-    "start": 328.639,
-    "end": 334.479,
-    "text": "The structure, the more… the more… describes the situation when one thing happening repeatedly results in another thing happening too.",
-    "speaker": "the more… the more…"
-  },
-  {
+    "order": 56,
     "start": 334.479,
     "end": 341.439,
     "text": "To incite someone means to encourage them to do or feel something unpleasant or violent.",
     "speaker": "incite"
   },
   {
+    "order": 57,
     "start": 341.439,
     "end": 347.519,
-    "text": "The adjective, manipulative, describes trying to influence or control someone to your own advantage.",
-    "speaker": "manipulative"
+    "text": "The adjective manipulative describes trying to influence or control someone to your own advantage.",
+    "speaker": null
   },
   {
+    "order": 58,
     "start": 348.079,
     "end": 353.519,
-    "text": "Eyeballs is an informal word for the number of people viewing a particular website or television programme.",
+    "text": "Eyeballs is an informal word for the number of people viewing a particular website or television",
     "speaker": "Eyeballs"
   },
   {
+    "order": 59,
     "start": 354.319,
     "end": 360.879,
     "text": "programme. And finally, biases are feelings, often unconscious, either for or against an idea",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 360.879,
     "end": 365.919,
     "text": "or a group of people. Once again, our six minutes are up. Goodbye for now. Bye.",

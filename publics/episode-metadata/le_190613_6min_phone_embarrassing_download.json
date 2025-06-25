@@ -5,6 +5,23 @@
   "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p07ck81h.jpg",
   "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/le_190613_6min_phone_embarrassing_download.mp3",
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/190613_6min_phone_embarrassing.pdf",
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "word": "a technophile",
+      "definition": "someone who loves technology"
+    },
+    {
+      "word": "to despise",
+      "definition": "to hate strongly, to detest"
+    },
+    {
+      "word": "class",
+      "definition": "an artificial grouping of society dictated by birth"
+    },
+    {
+      "word": "a blipin real time",
+      "definition": "a blipa temporary fault or mistakein real timehappening at that moment, live, not recorded"
+    }
+  ],
   "quiz": null
 }

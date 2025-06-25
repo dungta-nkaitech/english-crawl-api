@@ -1,395 +1,461 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.52,
     "text": "This is a download from BBC Learning English. To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 13.519,
     "end": 17.359,
     "text": "Hello, this is 6 minutes English from BBC Learning English. I'm Sam.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 17.359,
     "end": 22.16,
-    "text": "And I'm Neil. On Saturday mornings, I love going to watch football in the park.",
-    "speaker": null
-  },
-  {
-    "start": 22.16,
-    "end": 27.839,
-    "text": "On Saturday mornings I love going to watch football in the park. The problem is when it’s cold and rainy - I look out the bedroom window and go straight back to bed!",
-    "speaker": "Sam"
-  },
-  {
-    "start": 27.919,
-    "end": 32,
-    "text": "Well, instead of going to the park, why not bring the park to you?",
-    "speaker": null
-  },
-  {
-    "start": 32,
-    "end": 36.88,
-    "text": "Well, instead of going to the park, why not bring the park to you? Imagine watching a live version of the football match at home in the warm, with friends. Sound good, Sam?",
+    "text": "And I’m Neil. On Saturday mornings I love going to watch football in the park. ",
     "speaker": "Neil"
   },
   {
+    "order": 3,
+    "start": 22.16,
+    "end": 27.839,
+    "text": "The problem is, when it's cold and rainy, I look out the bedroom window and go straight back to bed.",
+    "speaker": null
+  },
+  {
+    "order": 4,
+    "start": 27.919,
+    "end": 32,
+    "text": "Well, instead of going to the park, why not bring the park to you?",
+    "speaker": "Neil"
+  },
+  {
+    "order": 5,
+    "start": 32,
+    "end": 36.88,
+    "text": "Imagine watching a live version of the football match at home in the warm with friends.",
+    "speaker": null
+  },
+  {
+    "order": 6,
     "start": 36.88,
     "end": 41.679,
     "text": "Sound good, Sam? Hmm, sounds great. But how can I be in two places at once?",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 41.679,
     "end": 45.2,
     "text": "Is there some amazing invention to do that? Yeah, it might be, Sam.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 45.2,
     "end": 51.039,
     "text": "And it could be happening sooner than you think. Thanks to developments in VR or virtual reality.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 9,
     "start": 51.039,
     "end": 56.079,
     "text": "According to Facebook, Boss Mark Zuckerberg, in the future, will all spend much of our time",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 56.079,
     "end": 60.719,
     "text": "living and working in the Metaverse, a series of virtual worlds.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 61.439,
     "end": 66.079,
     "text": "Virtual reality is a topic we've discussed before in 6 minutes English,",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 66.079,
     "end": 72.4,
     "text": "but when Facebook announced that it was hiring 10,000 new workers to develop VR for the Metaverse,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 72.4,
     "end": 74.4,
     "text": "we thought it was time for another look.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 74.4,
     "end": 79.12,
     "text": "In this programme, we'll be hearing two different opinions on the Metaverse and how it might shape",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 79.12,
     "end": 85.759,
     "text": "the future. But first, I have a question for you, Neil. According to a 2021 survey by Gaming",
+    "speaker": "Neil"
+  },
+  {
+    "order": 16,
+    "start": 85.76,
+    "end": 92.8,
+    "text": "Company Thrive Analytics, what percentage of people who try virtual reality once want to try it",
     "speaker": null
   },
   {
-    "start": 85.76,
-    "end": 92.8,
-    "text": "But first I have a question for you, Neil. According to a 2021 survey by gaming company, Thrive Analytics, what percentage of people who try virtual reality once want to try it again? Is it:",
-    "speaker": "Sam"
-  },
-  {
+    "order": 17,
     "start": 92.8,
     "end": 103.28,
     "text": "again? Is it a 9%, b 49%, or c 79%. I guess with VR, you either love it or hate it.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 103.28,
     "end": 107.6,
     "text": "So I'll say b 49% of people want to try it again.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 107.6,
     "end": 110.719,
     "text": "Okay, I'll reveal the correct answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 110.719,
     "end": 115.519,
     "text": "But what Neil said is true, people tend to either love virtual reality or hate it.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 21,
     "start": 116.239,
     "end": 123.039,
     "text": "Somebody who loves it is Emma Riddestad, CEO of Warpin, a company which develops VR technology.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 123.039,
     "end": 126,
-    "text": "Here she is telling BBC World Service programme, Tech Tent, her vision of the future:",
+    "text": "Here she is telling BBC World Service programme, Tech",
     "speaker": "Neil"
   },
   {
+    "order": 23,
     "start": 126,
     "end": 128.159,
     "text": "tend her vision of the future.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 128.159,
     "end": 133.12,
     "text": "In 10 years, everything that you do on your phone today, you will do in 3D.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 133.12,
     "end": 137.599,
     "text": "Through your glasses, for example, you will be able to do your shopping,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 137.599,
     "end": 142,
     "text": "you will be able to meet your friends, you will be able to work remotely with",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 142,
     "end": 146.479,
     "text": "whomever you want, you will be able to share digital spaces,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 147.199,
     "end": 153.599,
     "text": "share music, share art, share projects in digital spaces between each other.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 153.599,
     "end": 158.24,
     "text": "And you will also be able to integrate the digital objects in your physical world,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 158.24,
     "end": 161.919,
     "text": "making the world much more digital than it is today.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 162.719,
     "end": 169.599,
     "text": "Virtual reality creates 3D or 3-dimensional experiences where objects have the 3 dimensions",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 169.599,
     "end": 176.479,
     "text": "of length, width and height. This makes them look life like and solid, not too dimensional and flat.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 177.439,
     "end": 183.199,
     "text": "Emma says that in the future, VR will mix digital objects and physical objects to create exciting",
-    "speaker": null
+    "speaker": "3-Dthree-dimensional"
   },
   {
+    "order": 34,
     "start": 183.199,
     "end": 188.56,
     "text": "new experiences, like staying at home to watch the same football match that is simultaneously",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 188.56,
     "end": 194.64,
     "text": "happening in the park. She blends the words physical and digital to make a new word describing",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 194.64,
     "end": 200.879,
     "text": "this combination. Figital. But while a digital future sounds like paradise to some,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 200.879,
     "end": 205.92,
     "text": "others are more skeptical. They doubt that VR will come true or be useful.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 205.92,
     "end": 211.68,
     "text": "One such skeptic is technology innovator Dr. Nicola Millard. For one thing, she doesn't like",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 211.68,
     "end": 217.68,
     "text": "wearing a VR headset, the heavy helmet and glasses that create virtual reality for the wearer,",
-    "speaker": null
+    "speaker": "sceptical"
   },
   {
+    "order": 40,
     "start": 217.76,
     "end": 221.2,
     "text": "something she explained to the BBC World Services tech tent.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 222,
     "end": 226,
     "text": "There are some basic things that we need to think about. So how do we access it?",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 226,
     "end": 232.319,
     "text": "So the reason that social networks took off was we got mobile technologies that let us use it.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 232.319,
     "end": 239.439,
     "text": "Now, obviously one of the barriers can be that VR or AR headsets. So VR, I've always been slightly",
-    "speaker": null
+    "speaker": "scepticalunwieldyAR immersive"
   },
   {
+    "order": 44,
     "start": 239.439,
     "end": 246.24,
     "text": "skeptical about, I called it vomiting reality for a while because frankly, I usually need a bucket",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 246.24,
     "end": 251.12,
     "text": "somewhere close if you've got a headset on me and also do I want to spend vast amounts of time",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 251.12,
     "end": 256.079,
     "text": "in those rather unwieldy headsets. Now, I know they're talking AR as well and obviously that doesn't",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 256.079,
     "end": 261.199,
     "text": "not necessarily need a headset, but I think that we're seeing some quite immersive environments",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 261.199,
     "end": 267.68,
     "text": "coming out at the moment as well. Nicola called VR vomissy reality because wearing a headset makes",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 267.68,
     "end": 274.8,
-    "text": "Nicola called VR ‘vomity reality’ because wearing a headset makes her feel sick, maybe because it’s so unwieldy – difficult to move or wear because it’s big and heavy.",
-    "speaker": "unwieldy"
+    "text": "her feel sick, maybe because it's so unwieldy, difficult to move or wear because it's big and heavy.",
+    "speaker": null
   },
   {
+    "order": 50,
     "start": 274.8,
     "end": 282,
     "text": "She also makes a distinction between VR, virtual reality and AR, which stands for augmented reality.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 282.639,
     "end": 288,
     "text": "Tech, which adds to the ordinary physical world by projecting virtual words, pictures and",
-    "speaker": null
+    "speaker": "ARaugmented reality"
   },
   {
+    "order": 52,
     "start": 288,
     "end": 293.92,
     "text": "characters, usually by wearing glasses or with a mobile phone. While virtual reality replaces",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 293.92,
     "end": 302.08,
     "text": "what you hear and see, augmented reality adds to it. Both VR and AR are immersive experiences.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 302.079,
     "end": 307.519,
     "text": "They stimulate your senses and surround you so that you feel completely involved in the experience.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 307.519,
     "end": 312,
     "text": "In fact, the experience feels so real that people keep coming back for more.",
     "speaker": "Neil"
   },
   {
+    "order": 56,
     "start": 312,
     "end": 317.919,
     "text": "Right, so in my question, I asked Neil how many people who try VR for the first time want to try",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 317.919,
     "end": 325.199,
     "text": "it again? I guessed it was about half 49%. Was I right? You were wrong, number three. The correct",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 325.199,
     "end": 331.759,
     "text": "answer is much higher. 79% of people would give VR another try. I suppose because the",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 331.759,
     "end": 338.56,
     "text": "experience was so immersive, stimulating, surrounding and realistic. Okay, Sam, let's recap the other",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 338.56,
     "end": 344.879,
     "text": "vocabulary from this program on the Metaverse, a kind of augmented reality, reality which is",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 344.879,
     "end": 351.839,
-    "text": "3-D objects have three dimensions, making them appear real and solid.",
-    "speaker": "3-Dthree dimensions"
+    "text": "enhanced or added to by technology. 3D objects have three dimensions, making them appear real and solid.",
+    "speaker": "augmented reality"
   },
   {
+    "order": 62,
     "start": 351.839,
     "end": 357.599,
     "text": "Figital is an invented word which combines the features of physical and digital worlds.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 357.6,
     "end": 363.76,
     "text": "A skeptical person is doubtful about something. And finally, unwieldy means difficult to move or",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 363.76,
     "end": 369.92,
     "text": "carry because it's so big and heavy. That's our six minutes up in this reality anyway. See you in",
-    "speaker": null
+    "speaker": "unwieldy"
   },
   {
+    "order": 65,
     "start": 369.92,
     "end": 373.12,
     "text": "the Metaverse soon. Goodbye.",

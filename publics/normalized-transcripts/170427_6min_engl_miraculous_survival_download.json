@@ -1,956 +1,1115 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 8.24,
     "text": "6-Nate English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.56,
     "text": "From BBC Learning English",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.16,
     "end": 14.16,
-    "text": "Hello and welcome to 6 Minute English,",
-    "speaker": null
+    "text": "Hello and welcome to 6 Minute English–",
+    "speaker": "Dan"
   },
   {
+    "order": 5,
     "start": 14.16,
     "end": 16.08,
     "text": "the show that brings you an interesting topic,",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 16.08,
     "end": 20.16,
     "text": "authentic listening practice and six new items of vocabulary.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 20.16,
     "end": 22,
     "text": "I'm Dan and I'm Neil.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 22,
     "end": 26.16,
-    "text": "And I'm Neil. In this episode we’ll be discussing miraculous survivals.",
-    "speaker": "Neil"
+    "text": "In this episode we'll be discussing miraculous survival.",
+    "speaker": null
   },
   {
+    "order": 9,
     "start": 26.16,
     "end": 26.8,
     "text": "Hmm.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 26.8,
     "end": 29.359,
     "text": "Have you ever had a near-death experience, Neil?",
     "speaker": "near-death experience"
   },
   {
+    "order": 11,
     "start": 29.359,
     "end": 33.519,
     "text": "A near-death experience, meaning a situation where I very nearly died.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 34.159,
     "end": 39.6,
-    "text": "A near-death experience, meaning a situation where I very nearly died? Well, I once fell off the side of a mountain, but I was saved by a tree.",
-    "speaker": "near-death experience"
+    "text": "Well, I once fell off the side of a mountain, but I was saved by a tree.",
+    "speaker": null
   },
   {
+    "order": 13,
     "start": 39.6,
     "end": 40.399,
     "text": "That's incredible!",
     "speaker": "Dan"
   },
   {
+    "order": 14,
     "start": 41.2,
     "end": 42.159,
     "text": "Why do you ask?",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 15,
     "start": 42.159,
     "end": 45.439,
     "text": "Well, I recently heard a story about Alcidez Moreno.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 45.439,
     "end": 46.159,
     "text": "Who's that?",
-    "speaker": "Neil"
+    "speaker": "Dan"
   },
   {
+    "order": 17,
     "start": 46.159,
     "end": 47.359,
     "text": "He's a window cleaner.",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 18,
     "start": 47.359,
     "end": 50.239,
     "text": "He cleaned the windows on the skyscrapers in New York,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 50.239,
     "end": 52.56,
     "text": "except one day he fell.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 52.56,
     "end": 53.76,
     "text": "Oh my goodness.",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 21,
     "start": 53.76,
     "end": 56.399,
     "text": "Yes. And what's more is. He survived.",
     "speaker": "Dan"
   },
   {
+    "order": 22,
     "start": 56.399,
     "end": 57.359,
     "text": "Wow.",
-    "speaker": null
+    "speaker": "unprecedentedmiracles"
   },
   {
+    "order": 23,
     "start": 57.359,
     "end": 58.64,
-    "text": "Wow! How far did he fall?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 58.64,
-    "end": 62.16,
-    "text": "Ah, well, all will be revealed after this week's question.",
+    "text": "How far did he fall?",
     "speaker": null
   },
   {
+    "order": 24,
+    "start": 58.64,
+    "end": 62.16,
+    "text": "Ah, well, all will be revealed after this week’s question.",
+    "speaker": "Dan"
+  },
+  {
+    "order": 25,
     "start": 62.799,
     "end": 64.319,
     "text": "According to the BBC,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 64.319,
     "end": 67.2,
     "text": "what chance of survival does a human have",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 27,
     "start": 67.2,
     "end": 70.799,
     "text": "when falling to the ground from around three stories?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 70.799,
     "end": 75.599,
     "text": "Is it A, 30%, B, 50% or C, 70%.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 75.599,
     "end": 79.04,
     "text": "And by stories, you mean the entire floor of a building,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 79.04,
     "end": 80.319,
     "text": "including all its rooms?",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 31,
     "start": 81.12,
     "end": 84.719,
     "text": "Well, I think it's got to be B, 50%.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 84.719,
     "end": 87.599,
-    "text": "Well, we'll find out if you're right or not later. So, do you want to hear the story?",
+    "text": "Well, we'll find out if you're right or not later.",
     "speaker": "Dan"
   },
   {
+    "order": 33,
     "start": 87.679,
     "end": 89.199,
     "text": "So, do you want to hear the story?",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 89.199,
     "end": 89.919,
-    "text": "Of course!",
-    "speaker": "Neil"
-  },
-  {
-    "start": 89.919,
-    "end": 91.839,
-    "text": "Well, on the 7th of December,",
+    "text": "Of course.",
     "speaker": null
   },
   {
+    "order": 35,
+    "start": 89.919,
+    "end": 91.839,
+    "text": "Well, on the 7th of December,",
+    "speaker": "Dan"
+  },
+  {
+    "order": 36,
     "start": 91.839,
     "end": 95.199,
     "text": "Ecuadorians, Alcidez Moreno and his brother, Edgar,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 95.199,
     "end": 98.159,
     "text": "went up to the top of the solo tower in New York",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 98.159,
     "end": 100.719,
     "text": "to clean the windows like they did every day.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 100.719,
     "end": 102.239,
     "text": "And how tall is that building?",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 40,
     "start": 102.239,
     "end": 104.079,
     "text": "It's 47 stories.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 104.079,
     "end": 106.159,
     "text": "And how did they usually clean it?",
-    "speaker": "Neil"
+    "speaker": "Dan"
   },
   {
+    "order": 42,
     "start": 106.159,
     "end": 107.919,
     "text": "Well, they used a scaffold,",
-    "speaker": null
+    "speaker": "scaffold"
   },
   {
+    "order": 43,
     "start": 107.919,
     "end": 111.199,
     "text": "which is a structure of interconnected pipes and boards",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 111.199,
     "end": 113.039,
     "text": "that creates a frame or shape.",
-    "speaker": null
+    "speaker": "a near-death experience"
   },
   {
+    "order": 45,
     "start": 113.039,
     "end": 116.079,
     "text": "Ah, so in this case, there was a platform",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 116.079,
     "end": 119.12,
     "text": "which was attached by cables or large metal ropes",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 119.12,
     "end": 121.359,
     "text": "and hung over the edge of the building",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 121.359,
     "end": 123.759,
     "text": "and which the window cleaners could raise and lower.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 123.759,
     "end": 124.959,
     "text": "Exactly.",
-    "speaker": null
-  },
-  {
-    "start": 124.959,
-    "end": 127.679,
-    "text": "Exactly. So, as usual they filled up their buckets and climbed on to the scaffold.",
     "speaker": "scaffold"
   },
   {
+    "order": 50,
+    "start": 124.959,
+    "end": 127.679,
+    "text": "So, as usual, they filled up their buckets",
+    "speaker": null
+  },
+  {
+    "order": 51,
     "start": 127.679,
     "end": 129.759,
     "text": "and climbed onto the scaffold.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 129.759,
     "end": 134,
     "text": "And, well, unfortunately, the cables were loose",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 134,
     "end": 136.4,
     "text": "and the scaffold fell from the building.",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 54,
     "start": 136.4,
     "end": 140,
     "text": "Both brothers fell 47 stories.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 140,
     "end": 141.199,
     "text": "That's terrible.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 141.199,
     "end": 142.479,
-    "text": "That's terrible! What happened next?",
-    "speaker": "Neil"
+    "text": "What happened next?",
+    "speaker": null
   },
   {
+    "order": 57,
     "start": 142.479,
     "end": 143.68,
     "text": "I'll let Joe Fidgin,",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 143.68,
     "end": 145.919,
-    "text": "I’ll let Jo Fidgen, presenter of the BBC show Outlook, explain",
+    "text": "presenter of the BBC show Outlook,",
     "speaker": "Dan"
   },
   {
+    "order": 59,
     "start": 145.919,
     "end": 146.799,
     "text": "explain.",
-    "speaker": null
+    "speaker": "escaped unscathedunprecedentedunprecedented"
   },
   {
+    "order": 60,
     "start": 146.799,
     "end": 148.799,
     "text": "When firefighters arrived on the scene,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 148.799,
     "end": 150.639,
     "text": "they found a crowd of distraught onlookers",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 150.639,
     "end": 152.639,
     "text": "pointing towards an alleyway.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 152.639,
     "end": 156.239,
     "text": "Edgar had landed on a fence and couldn't be helped.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 156.239,
     "end": 158.079,
     "text": "But our cedars was found crouching",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 158.079,
     "end": 160.239,
     "text": "in a pile of twisted metal,",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 160.239,
     "end": 162.639,
     "text": "still clutching the controls of the scaffold.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 162.639,
     "end": 165.679,
     "text": "He was breathing, even trying to stand up.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 165.679,
     "end": 169.199,
     "text": "So, firefighters arrived to find a group of distraught,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 69,
     "start": 169.199,
     "end": 172.319,
     "text": "which means extremely worried and upset people,",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 172.319,
     "end": 174.959,
     "text": "showing them where the two men had come down.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 175.04,
     "end": 178.48,
     "text": "Yes, and though, unfortunately, Edgar didn't survive,",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 178.48,
     "end": 180.4,
     "text": "Alcides was found clutching",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 180.4,
     "end": 182.4,
     "text": "or holding extremely tightly",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 182.4,
     "end": 184.48,
     "text": "to the controls of the scaffold.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 184.48,
     "end": 187.439,
-    "text": "Did I hear correctly that he was trying to stand up? Did he escape the accident unscathed?",
+    "text": "Did I hear correctly that he was trying to stand up?",
     "speaker": "unscathed"
   },
   {
+    "order": 76,
     "start": 187.439,
     "end": 189.84,
     "text": "Did he escape the accident unscathed?",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 189.84,
     "end": 192.64,
     "text": "Unscathed means without any injury at all.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 192.64,
     "end": 193.92,
-    "text": "And…",
-    "speaker": "Neil"
+    "text": "And no.",
+    "speaker": null
   },
   {
+    "order": 79,
     "start": 193.92,
     "end": 195.84,
     "text": "He fell into a coma for three weeks",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 195.84,
     "end": 198.56,
     "text": "and he needed 24 pints of blood.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 198.56,
     "end": 199.439,
     "text": "I'm speechless.",
-    "speaker": null
-  },
-  {
-    "start": 199.439,
-    "end": 201.439,
-    "text": "I'm speechless. I don't understand how he lived.",
     "speaker": "Neil"
   },
   {
+    "order": 82,
+    "start": 199.439,
+    "end": 201.439,
+    "text": "I don't understand how he lived.",
+    "speaker": null
+  },
+  {
+    "order": 83,
     "start": 201.439,
     "end": 202.8,
     "text": "You aren't the only one.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 202.8,
     "end": 204.64,
     "text": "Listen to what Dr. Philip Barry",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 204.64,
     "end": 207.2,
     "text": "from New York Presbyterian Hospital said",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 207.2,
     "end": 208.96,
     "text": "about the whole incident.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 208.96,
     "end": 214.16,
     "text": "I don't know what adjective you'd care to use on precedented, extraordinary.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 214.16,
     "end": 217.28,
     "text": "If you are a believer in miracles, this would be one.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 217.92,
     "end": 220.32,
     "text": "Wow, so he can't explain it either.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 220.32,
     "end": 222.08,
     "text": "He said it was unprecedented,",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 222.08,
     "end": 224.64,
     "text": "which means never happened or done before.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 224.64,
     "end": 227.439,
     "text": "Yes, and he also said that it was a miracle,",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 227.439,
     "end": 229.92,
     "text": "which is an unexplainable positive outcome",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 229.92,
     "end": 231.36,
     "text": "to a bad situation",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 231.44,
     "end": 234.4,
     "text": "that people say was the intervention of a god.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 234.4,
     "end": 236,
     "text": "I guess we'll never know.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 236,
     "end": 239.2,
-    "text": "I guess we'll never know. But one thing I can know is the answer to this week's question.",
-    "speaker": "Neil"
+    "text": "But one thing I can know is the answer to this week's question.",
+    "speaker": null
   },
   {
+    "order": 98,
     "start": 239.2,
     "end": 240.8,
     "text": "Ah, yes. I asked you,",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 240.8,
     "end": 242.96,
     "text": "what chance of survival does a human have",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 242.96,
     "end": 245.76,
     "text": "when falling to the ground from around three stories?",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 245.76,
     "end": 249.6,
     "text": "A, 30%, B, 50% or C, 70%.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 249.6,
     "end": 251.84,
-    "text": "And I said b) 50%",
-    "speaker": "Neil"
+    "text": "And I said B, 50%.",
+    "speaker": "Dan"
   },
   {
+    "order": 103,
     "start": 251.84,
     "end": 254.08,
     "text": "And you were exactly right. Well done.",
     "speaker": "Dan"
   },
   {
+    "order": 104,
     "start": 254.08,
     "end": 255.28,
-    "text": "Wow! It's a first!",
-    "speaker": "Neil"
+    "text": "Wow, it's a first.",
+    "speaker": null
   },
   {
+    "order": 105,
     "start": 256.08,
     "end": 258.16,
     "text": "Shall we take a look at the vocabulary then?",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 258.16,
     "end": 260.56,
     "text": "First, we had a near-death experience,",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 260.56,
     "end": 263.439,
     "text": "which is an experience where a person very nearly",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 263.439,
     "end": 265.439,
     "text": "or could easily have died.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 265.439,
     "end": 266.959,
     "text": "Have you ever had one, Dan?",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 266.959,
     "end": 269.6,
     "text": "When I was 14, I fell out of a canoe into a river",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 269.6,
     "end": 271.759,
     "text": "and got stuck between the boat and a rock",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 271.759,
     "end": 273.28,
     "text": "with my head underwater.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 273.28,
     "end": 274.399,
     "text": "I thought it was the end,",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 274.399,
     "end": 276.24,
     "text": "but some people pulled me out.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 276.24,
     "end": 277.6,
     "text": "Then we had scaffold.",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 277.6,
     "end": 280.399,
     "text": "A scaffold is a structure of interconnected pipes",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 280.399,
     "end": 283.04,
     "text": "and boards that creates a frame or shape.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 283.04,
     "end": 285.68,
     "text": "Name a place that you might see scaffolding near.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 285.68,
     "end": 287.92,
     "text": "They are usually put up around houses",
-    "speaker": null
+    "speaker": "clutchingclutch"
   },
   {
+    "order": 120,
     "start": 287.92,
     "end": 290.16,
     "text": "when builders are working on the roof.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 290.24,
     "end": 291.52,
     "text": "Then we had clutching.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 291.52,
     "end": 295.28,
     "text": "If you clutch something, it means you hold it extremely tightly.",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 296,
     "end": 298.16,
     "text": "There's a well-known idiom that uses this word.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 298.16,
     "end": 299.2,
     "text": "Sam, familiar, Dan?",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 299.2,
     "end": 301.6,
     "text": "Ah, you're clutching at straws, Neil,",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 301.6,
     "end": 304.48,
     "text": "which means you're trying to find a reason or hope to succeed",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 304.48,
     "end": 306.48,
     "text": "when it's extremely unlikely.",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 306.48,
     "end": 307.84,
     "text": "What was after that?",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 307.84,
     "end": 309.92,
     "text": "After that, we had unscathed.",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 309.92,
     "end": 312.48,
     "text": "If you are unscathed, you are un-injured.",
     "speaker": null
   },
   {
+    "order": 131,
     "start": 312.48,
     "end": 315.92,
     "text": "We often talk about escaping something unscathed.",
     "speaker": null
   },
   {
+    "order": 132,
     "start": 315.92,
     "end": 318,
     "text": "Have you ever escaped an accident unscathed?",
     "speaker": null
   },
   {
+    "order": 133,
     "start": 318.72,
     "end": 320.639,
     "text": "Well, when I was six, I fell through a hole",
     "speaker": null
   },
   {
+    "order": 134,
     "start": 320.639,
     "end": 323.279,
     "text": "that some builders had made while doing renovation.",
     "speaker": null
   },
   {
+    "order": 135,
     "start": 323.279,
     "end": 324.879,
     "text": "I hit the ground in the garage,",
     "speaker": null
   },
   {
+    "order": 136,
     "start": 324.879,
     "end": 327.439,
     "text": "but somehow I escaped unscathed.",
     "speaker": null
   },
   {
+    "order": 137,
     "start": 327.439,
     "end": 328.399,
     "text": "Maybe I bounced?",
     "speaker": null
   },
   {
+    "order": 138,
     "start": 329.439,
     "end": 331.199,
     "text": "Then we heard unprecedented.",
     "speaker": null
   },
   {
+    "order": 139,
     "start": 331.199,
     "end": 332.56,
     "text": "If something is unprecedented,",
     "speaker": null
   },
   {
+    "order": 140,
     "start": 332.56,
     "end": 335.279,
     "text": "it has never happened all being done before.",
     "speaker": null
   },
   {
+    "order": 141,
     "start": 335.279,
     "end": 336.959,
     "text": "Can you think of an example, Neil?",
     "speaker": null
   },
   {
+    "order": 142,
     "start": 336.959,
     "end": 338.959,
     "text": "Well, Neil Armstrong, walking on the moon",
     "speaker": null
   },
   {
+    "order": 143,
     "start": 338.959,
     "end": 341.439,
     "text": "was unprecedented in 1969.",
     "speaker": null
   },
   {
+    "order": 144,
     "start": 341.439,
     "end": 343.6,
     "text": "And finally, we had miracle.",
     "speaker": null
   },
   {
+    "order": 145,
     "start": 343.6,
     "end": 346.24,
     "text": "A miracle is an unexplainable positive outcome",
     "speaker": null
   },
   {
+    "order": 146,
     "start": 346.24,
     "end": 348.8,
     "text": "to a bad situation that people say",
     "speaker": null
   },
   {
+    "order": 147,
     "start": 348.8,
     "end": 350.4,
     "text": "was the intervention of a god.",
     "speaker": null
   },
   {
+    "order": 148,
     "start": 351.04,
     "end": 352.8,
     "text": "The adjective is miraculous.",
     "speaker": null
   },
   {
+    "order": 149,
     "start": 352.8,
     "end": 354.4,
     "text": "Do you believe in miracles, Dan?",
     "speaker": "miracles"
   },
   {
+    "order": 150,
     "start": 354.4,
     "end": 356.48,
     "text": "Well, I've never seen or experienced one,",
     "speaker": null
   },
   {
+    "order": 151,
     "start": 356.48,
     "end": 358.56,
     "text": "but when you hear a story like this,",
     "speaker": null
   },
   {
+    "order": 152,
     "start": 358.56,
     "end": 359.759,
     "text": "it's difficult not to.",
     "speaker": null
   },
   {
+    "order": 153,
     "start": 360.4,
     "end": 362.48,
     "text": "And that's the end of today's six-minute English.",
     "speaker": null
   },
   {
+    "order": 154,
     "start": 362.48,
     "end": 363.84,
     "text": "Please join us again soon.",
     "speaker": null
   },
   {
+    "order": 155,
     "start": 363.84,
     "end": 365.36,
     "text": "And we're on social media too.",
     "speaker": null
   },
   {
+    "order": 156,
     "start": 365.36,
     "end": 367.759,
-    "text": "Facebook, Twitter, Instagram, and YouTube.",
-    "speaker": null
+    "text": "- Facebook, Twitter, Instagram and YouTube",
+    "speaker": "Neil"
   },
   {
+    "order": 157,
     "start": 367.759,
     "end": 368.56,
     "text": "See you there.",
     "speaker": null
   },
   {
+    "order": 158,
     "start": 368.56,
     "end": 369.519,
-    "text": "Bye!",
-    "speaker": "Both"
+    "text": "Bye-bye.",
+    "speaker": null
   }
 ]

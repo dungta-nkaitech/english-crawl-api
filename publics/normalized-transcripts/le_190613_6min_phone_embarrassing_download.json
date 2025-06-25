@@ -1,698 +1,814 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.48,
     "end": 14.96,
-    "text": "Hello, and welcome to 6 Minute English. I'm Neil.",
+    "text": "Hello, and welcome to 6 Minute English. I'm Neil",
     "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 14.96,
     "end": 16.08,
     "text": "And I'm Sam.",
-    "speaker": "Sam"
+    "speaker": null
   },
   {
+    "order": 4,
     "start": 16.08,
     "end": 18.24,
-    "text": "Sam, do you know Stephen Fry?",
-    "speaker": "Neil"
+    "text": "Sam, do you know Stephen Frye?",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 18.24,
     "end": 21.76,
     "text": "Hmm, not personally, but I know of him.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 21.76,
     "end": 24.64,
     "text": "Stephen Frye is an English writer and comedian",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 24.64,
     "end": 28.08,
     "text": "and is well known for being extremely intelligent",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 8,
     "start": 28.159,
     "end": 30.559,
     "text": "and very knowledgeable about many things,",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 30.559,
     "end": 32.96,
     "text": "cultural, historical and linguistic.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 32.96,
     "end": 36.32,
-    "text": "To be knowledgeable means 'to know a lot about something'. I wish I was half as knowledgeable as he is!",
+    "text": "To be knowledgeable means 'to know a lot about something",
     "speaker": "knowledgeableknowledgeable"
   },
   {
+    "order": 11,
     "start": 37.519,
     "end": 40.079,
     "text": "I wish I was half as knowledgeable as he is.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 40.079,
     "end": 42.719,
     "text": "Hmm, I wish I were a coarser as knowledgeable.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 42.719,
     "end": 44.32,
-    "text": "There is still time, Sam.",
-    "speaker": null
+    "text": "There is still time, Sam!",
+    "speaker": "knowledgeable"
   },
   {
+    "order": 14,
     "start": 44.32,
     "end": 47.119,
     "text": "And maybe this week's question will help you become",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 47.119,
     "end": 50.48,
     "text": "just a little bit more knowledgeable on the topic of the telephone.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 51.359,
     "end": 56.239,
     "text": "The first long-distance telephone call was made in 1876.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 56.24,
     "end": 59.44,
     "text": "Approximately what was the distance of that call?",
-    "speaker": null
+    "speaker": "class"
   },
   {
+    "order": 18,
     "start": 60.16,
     "end": 66.24,
     "text": "Was it A, 10 kilometres, B, 15 kilometres or C, 20 kilometres?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 66.879,
     "end": 68.159,
-    "text": "What do you think Sam?",
+    "text": "? What do you think Sam",
     "speaker": "knowledgeable"
   },
   {
+    "order": 20,
     "start": 68.159,
     "end": 70.159,
     "text": "So when you say long-distance...",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 71.68,
     "end": 76.079,
-    "text": "For the time, yes. Remember the telephone was only a baby in 1876.",
-    "speaker": "Neil"
+    "text": "For the time, yes, remember the telephone was only a baby in 1876.",
+    "speaker": "knowledgeable"
   },
   {
+    "order": 22,
     "start": 76.879,
     "end": 80.4,
     "text": "In that case, I'll say approximately 15 kilometres,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 80.4,
     "end": 83.76,
     "text": "but that's just a guess, a long-distance guess.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 83.76,
     "end": 86.24,
     "text": "We'll find out if you're right at the end of the programme.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 25,
     "start": 86.8,
     "end": 90.08,
     "text": "Stephen Fry is also known as a technophile.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 90.08,
     "end": 93.52,
     "text": "The suffix file means a lover of that thing.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 93.52,
     "end": 96.16,
-    "text": "A technophile is someone who loves technology.",
-    "speaker": "technophile"
+    "text": "So a technophile is someone who loves technology.",
+    "speaker": null
   },
   {
+    "order": 28,
     "start": 96.8,
     "end": 99.84,
     "text": "Fry was a guest on the BBC podcast word of mouth",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 99.84,
     "end": 103.2,
     "text": "and was talking about the technology of communication.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 103.2,
     "end": 106.719,
     "text": "It seems he's not a fan of the telephone, but why not?",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 107.92,
     "end": 113.12,
-    "text": "I think the telephone was a really annoying blip,",
-    "speaker": null
+    "text": "I think the telephone was a really annoying blip ",
+    "speaker": "blipdespisesclassin real time"
   },
   {
+    "order": 32,
     "start": 113.359,
     "end": 116.16,
     "text": "in our communications, and that's old technology.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 116.16,
     "end": 118,
     "text": "I mean, that's 1880s and 90s.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 119.76,
     "end": 122.48,
     "text": "When you're on the telephone to someone, especially if you're British,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 122.48,
     "end": 124,
     "text": "you know, that burning-chore thing,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 124.8,
     "end": 126.4,
     "text": "you know, the moment one Englishman opens his mouth,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 126.4,
     "end": 127.92,
     "text": "another Englishman despises him.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 129.039,
     "end": 131.52,
     "text": "When you're speaking to someone on the telephone,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 132.319,
     "end": 137.36,
     "text": "all the age, class, education, vocabulary all come into play,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 137.36,
     "end": 140,
     "text": "because it's in real time and it's embarrassing.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 140,
     "end": 141.84,
     "text": "I hate being on the telephone to people.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 142.8,
     "end": 144.96,
     "text": "Especially strangers in shops and things like that,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 144.96,
     "end": 148.48,
     "text": "because it's embarrassing and awkward.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 148.48,
     "end": 150.319,
-    "text": "So, why doesn’t he like the telephone?",
-    "speaker": "Neil"
+    "text": "So why doesn't he like the telephone?",
+    "speaker": null
   },
   {
+    "order": 45,
     "start": 150.96,
     "end": 155.039,
     "text": "Well, he uses a quote from the writer George Burnidge Shaw.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 155.759,
     "end": 161.759,
-    "text": "It's not the exact quote, but the meaning is that as soon as an English person speaks,",
-    "speaker": null
+    "text": ". It’s not the exact quote but the meaning is that as soon as an English person speaks",
+    "speaker": "despisesdespise"
   },
   {
+    "order": 47,
     "start": 161.759,
     "end": 164.08,
     "text": "another English person despises them.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 164.719,
     "end": 167.439,
     "text": "To despise someone is a very strong emotion,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 167.439,
     "end": 169.759,
     "text": "and it means to really hate someone.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 169.84,
     "end": 174.719,
-    "text": "So, what is it about the English person’s voice that leads others to despise them?",
-    "speaker": "despise"
+    "text": "So what is it about the English person's voice that leads others to despise them?",
+    "speaker": null
   },
   {
+    "order": 51,
     "start": 174.719,
     "end": 179.599,
     "text": "Stephen Fry goes on to explain that there's a lot of information about someone",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 179.599,
     "end": 181.28,
     "text": "that people get from their voice.",
-    "speaker": null
+    "speaker": "class"
   },
   {
+    "order": 53,
     "start": 181.84,
     "end": 184.479,
     "text": "You can make a judgment about someone's age,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 184.479,
     "end": 186.399,
     "text": "level of education,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 186.399,
     "end": 188.879,
     "text": "and class from the way that they speak,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 188.879,
     "end": 191.039,
     "text": "and the vocabulary they use.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 191.039,
     "end": 195.439,
     "text": "Class refers to your economic and social position in a society.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 195.439,
     "end": 197.84,
     "text": "In Britain, we talk about three classes,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 197.84,
     "end": 200.719,
     "text": "upper class, middle class, and working class.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 200.719,
     "end": 204.24,
     "text": "The family into which you are born dictates your class.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 204.24,
     "end": 207.36,
     "text": "These used to be a lot more important in British society,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 207.36,
     "end": 211.84,
     "text": "but there are still different prejudices and negative feelings related to the relationship",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 211.84,
     "end": 213.199,
     "text": "between the classes.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 213.199,
     "end": 213.92,
-    "text": "Exactly.",
-    "speaker": null
+    "text": "Exactly,",
+    "speaker": "classinreal time"
   },
   {
+    "order": 65,
     "start": 213.92,
     "end": 218.24,
     "text": "So hearing someone's voice on the telephone might make you think something negative",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 218.24,
     "end": 222.08,
     "text": "about someone based on very old-fashioned ideas of class.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 222.64,
     "end": 227.12,
     "text": "What makes it worse is that these conversations happen in real time.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 227.12,
     "end": 230.159,
     "text": "This means they're happening live, not recorded,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 230.159,
     "end": 232.719,
     "text": "so you have no time to really think about it.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 232.719,
     "end": 236.4,
-    "text": "So he may be a technophile, but he’s not a fan of the phone!",
-    "speaker": "technophile"
-  },
-  {
-    "start": 236.4,
-    "end": 237.12,
-    "text": "Indeed.",
+    "text": "So he may be a technophile, but he's not a fan of the phone.",
     "speaker": null
   },
   {
+    "order": 71,
+    "start": 236.4,
+    "end": 237.12,
+    "text": "Indeed.",
+    "speaker": "blip"
+  },
+  {
+    "order": 72,
     "start": 237.12,
     "end": 238.64,
     "text": "He called it a blip,",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 238.64,
     "end": 241.68,
     "text": "which is a word for when something is not quite right,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 241.68,
     "end": 243.759,
     "text": "when there's a fault or a mistake,",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 243.759,
     "end": 246.08,
     "text": "which is usually not long-lasting.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 246.08,
     "end": 247.68,
-    "text": "So do you think he’s right?",
-    "speaker": "Neil"
+    "text": "So do you think he's right?",
+    "speaker": null
   },
   {
+    "order": 77,
     "start": 247.68,
     "end": 251.84,
     "text": "Well, actually, I don't like to talk to strangers on the phone very much myself,",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 251.84,
     "end": 253.36,
     "text": "but that's just me.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 253.44,
     "end": 257.439,
     "text": "But I do think that although the class divisions in British society",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 257.439,
     "end": 261.439,
     "text": "are much less obvious and much less important than in the past,",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 261.439,
     "end": 265.439,
     "text": "we still do make judgments about people based on how they speak,",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 265.439,
     "end": 268.48,
     "text": "and those judgments can often be completely false.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 268.48,
     "end": 271.12,
     "text": "Right, nearly time to review our vocabulary,",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 271.12,
     "end": 274.319,
     "text": "but first, let's have the answer to today's question.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 274.319,
     "end": 278.72,
     "text": "The first long-distance telephone call was made in 1876.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 278.72,
     "end": 282.08,
     "text": "Approximately, what was the distance of that call?",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 282.159,
     "end": 288,
     "text": "Was it A, 10 kilometres, B, 15 kilometres, or C, 20 kilometres?",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 288,
     "end": 289.039,
     "text": "Would you think Sam?",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 289.039,
     "end": 292.159,
     "text": "I guess 15 kilometres, but it was just a guess.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 292.159,
     "end": 296.079,
-    "text": "Well, sadly, on this occasion, it was not a correct guess.",
-    "speaker": null
+    "text": ". Well, sadly, on this occasion it was not a correct guess",
+    "speaker": "Sam"
   },
   {
+    "order": 91,
     "start": 296.079,
     "end": 300.24,
     "text": "The correct answer is approximately 10 kilometres or six miles.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 300.24,
     "end": 302.639,
     "text": "Congratulations, if you got that right.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 302.639,
     "end": 304.319,
     "text": "Now on with the vocabulary.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 304.319,
     "end": 306.799,
-    "text": "We started with the adjective knowledgeable, which means 'knowing a lot about something'.",
+    "text": "We started with the adjective knowledgeable,",
     "speaker": "knowledgeable"
   },
   {
+    "order": 95,
     "start": 306.799,
     "end": 309.36,
     "text": "which means knowing a lot about something.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 309.439,
     "end": 312.08,
     "text": "A technophile is someone who loves technology.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 312.08,
     "end": 315.28,
     "text": "To despise someone is to hate someone strongly.",
     "speaker": "despise"
   },
   {
+    "order": 98,
     "start": 315.28,
     "end": 320.24,
     "text": "Class refers to a group in society you were said to belong to from your birth.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 320.24,
     "end": 323.439,
     "text": "Certain stereotypes are often attached to different classes",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 323.439,
     "end": 326.24,
     "text": "to do with intelligence and education, for example.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 326.24,
     "end": 332,
-    "text": "In real time is an expression that means 'happening live, without any pauses or breaks'. So for example, you aren’t listening to this programme in real time,",
+    "text": "In real time is an expression that means happening live without any pauses or breaks.",
     "speaker": "In real time in real time"
   },
   {
+    "order": 102,
     "start": 332,
     "end": 336.08,
     "text": "So, for example, you aren't listening to this programme in real time.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 336.08,
     "end": 337.199,
     "text": "Well, I am.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 337.199,
-    "end": 341.68,
-    "text": "Well, of course, you are Neil, because you are here with me as we are recording.",
     "speaker": null
   },
   {
+    "order": 104,
+    "start": 337.199,
+    "end": 341.68,
+    "text": "Well, of course, you are Neil, because you are here with me as we are recording.",
+    "speaker": "Neilreal time."
+  },
+  {
+    "order": 105,
     "start": 341.68,
     "end": 345.599,
     "text": "But if you're listening to the podcast, it's no longer real time.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 345.599,
     "end": 347.36,
     "text": "It's been recorded and edited.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 347.36,
     "end": 349.759,
-    "text": "And we had one other word, didn’t we?",
-    "speaker": "Neil"
+    "text": "And we had one other word, didn't we?",
+    "speaker": null
   },
   {
+    "order": 108,
     "start": 349.759,
     "end": 353.36,
-    "text": "Yes, a blip, which is a temporary fault, or mistake.",
+    "text": "Yes, a blip, which is a temporary fault, or mistake",
     "speaker": "blip"
   },
   {
+    "order": 109,
     "start": 353.36,
     "end": 355.439,
     "text": "Well, that's all we've got for this programme.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 355.439,
     "end": 359.439,
     "text": "For more, find us on Facebook, Twitter, Instagram and our YouTube pages,",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 359.439,
     "end": 363.039,
     "text": "and of course, our website, BBCLearningEnglish.com,",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 363.04,
     "end": 367.36,
     "text": "where you can find all kinds of other programmes and videos and activities",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 367.36,
     "end": 369.12,
     "text": "to help you improve your English.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 369.12,
     "end": 371.04,
     "text": "Thank you for joining us and goodbye.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 371.04,
     "end": 371.6,
     "text": "Bye!",
-    "speaker": "Sam"
+    "speaker": null
   }
 ]

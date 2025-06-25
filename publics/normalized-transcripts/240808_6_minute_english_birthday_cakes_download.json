@@ -1,383 +1,447 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7.679,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7.679,
     "end": 11.919,
     "text": "Hello, this is 6 Minute English from BBCLearningEnglish. I'm Neil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 11.919,
     "end": 13.28,
     "text": "And I'm Beth.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 13.28,
     "end": 15.439,
     "text": "Happy Birthday to you.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 15.439,
     "end": 17.44,
     "text": "Happy Birthday to you.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 17.44,
     "end": 20.4,
     "text": "Happy Birthday to Neil.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 20.4,
     "end": 22.64,
     "text": "Happy Birthday to you.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 22.64,
     "end": 27.28,
     "text": "Um, thank you, Beth, but it's not my birthday.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 27.28,
     "end": 33.84,
-    "text": "I know, but this programme is all about birthdays – or birthday cakes to be precise.",
-    "speaker": "Beth"
-  },
-  {
-    "start": 33.84,
-    "end": 38.96,
-    "text": "Ah yes, the highlight of any birthday party is the birthday cake, blowing out the candles and making a wish.",
+    "text": "I know, but this programme is all about birthdays or birthday cakes to be precise.",
     "speaker": "Neil"
   },
   {
+    "order": 9,
+    "start": 33.84,
+    "end": 38.96,
+    "text": "Ah yes, the highlight of any birthday party is the birthday cake, ",
+    "speaker": "Neil"
+  },
+  {
+    "order": 10,
     "start": 38.96,
     "end": 41.84,
     "text": "blowing out the candles and making a wish.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 41.84,
     "end": 48.159,
     "text": "Right. But things have changed a lot from the days when most birthday cakes were homemade,",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 48.159,
     "end": 54.96,
     "text": "made at home and not bought from a shop. Nowadays, many birthday cakes are works of art,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 54.96,
     "end": 62.96,
     "text": "extravagant, edible creations designed and decorated to represent the person celebrating their birthday.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 62.96,
     "end": 69.84,
-    "text": "In this programme, we'll be hearing from two bakers, a famous TV chef who bakes simple but tasty cakes",
-    "speaker": null
+    "text": "In this programme we’ll be hearing from two bakers – a famous TV chef who bakes simple but tasty cakes",
+    "speaker": "Neil"
   },
   {
+    "order": 15,
     "start": 69.84,
     "end": 74.4,
     "text": "and another who's designed personalised birthday cakes for celebrities,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 74.4,
     "end": 76.799,
     "text": "including Arnold Schwarzenegger.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 76.799,
     "end": 80.719,
     "text": "And as usual, we'll be learning some useful new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 81.359,
     "end": 84.879,
     "text": "Sounds good, but first I have a question for you, Neil.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 85.519,
     "end": 89.68,
     "text": "Everyone looks forward to their birthday, especially if there's cake.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 89.68,
     "end": 97.12,
     "text": "But according to the UK's Office for National Statistics, which is the most common month to be born?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 97.12,
     "end": 101.92,
     "text": "Is it A, March, B, July or C, September?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 101.92,
     "end": 107.92,
-    "text": "Hmm that's an interesting question and I’m going to guess it’s September.",
-    "speaker": "Neil"
+    "text": "? Hmm that's an interesting question and I’m going to guess it’s September",
+    "speaker": "Beth"
   },
   {
+    "order": 23,
     "start": 107.92,
     "end": 111.28,
     "text": "Okay, Neil, I'll reveal the answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 112.24,
     "end": 116.4,
     "text": "One of Britain's best-loved cake bakers is Dame Mary Berry.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 117.04,
     "end": 122.799,
     "text": "Here she describes her perfect birthday cake to BBC Radio 4's The Food programme.",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 26,
     "start": 123.599,
     "end": 132.879,
     "text": "My perfect cake would be something in lemon or orange because those are my favourite flavours.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 132.879,
     "end": 137.36,
     "text": "I don't mind how hegelty pickled theatres don't take a long time to do",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 137.36,
     "end": 142.64,
     "text": "but beautifully fresh and beautifully flavoured simple.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 143.44,
     "end": 147.2,
     "text": "Mary Berry thinks a simple birthday cake is best.",
-    "speaker": null
+    "speaker": "higgledy-piggledy"
   },
   {
+    "order": 30,
     "start": 147.2,
     "end": 152.88,
     "text": "She doesn't mind if the decoration is hegelty-piggyly mixed up and in no particular order.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 152.88,
     "end": 159.44,
     "text": "Yes, when it comes to birthday cakes, flavour is more important than decoration for Dame Mary Berry.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 160.08,
     "end": 165.36,
     "text": "But now a new generation of bakers is making cakes in a totally different way.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 166.32,
     "end": 173.2,
     "text": "The cakes Adam Cox makes in his East London bakery are truly fantastic looking creations.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 174,
     "end": 177.92,
     "text": "Here's Adam speaking to BBC Radio 4's The Food programme.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 178.88,
     "end": 185.92,
     "text": "I get asked to do all sorts like my customers and clients are very generous with the leeway",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 185.92,
     "end": 190.72,
     "text": "that they give me based on the past designs that I've made that they've seen so they're happy",
-    "speaker": null
+    "speaker": "leeway last long in the memorygo above and beyond"
   },
   {
+    "order": 37,
     "start": 190.719,
     "end": 197.12,
     "text": "to just leave it with me. I really just want to create something that will last long in the memory",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 197.12,
     "end": 204.24,
     "text": "for the person that I do it for. It's a real pleasure to have this as a job because, as I say,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 205.439,
     "end": 212.319,
     "text": "it gives me a lot of freedom to express myself creatively. So I really try and go above and beyond",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 212.319,
     "end": 219.28,
     "text": "to give the client something that they will be really happy with.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 220.24,
     "end": 226.64,
     "text": "Adam gets asked to make all sorts, meaning many different kinds of cakes. His customers,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 226.64,
     "end": 231.92,
     "text": "who want the cake to be a special part of a birthday party, give him lots of leeway,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 231.92,
     "end": 237.92,
     "text": "lots of freedom to make the cake the way he wants to. Adam finds out about the person's interests",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 237.92,
     "end": 245.92,
     "text": "and hobbies and uses these to come up with decoration ideas. Adam loves his job. It gives him the freedom",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 245.919,
     "end": 252.719,
     "text": "to express himself creatively and he enjoys seeing his customers reaction when the finished cake",
-    "speaker": null
+    "speaker": "goes above and beyondgo above and beyond"
   },
   {
+    "order": 46,
     "start": 252.719,
     "end": 261.12,
     "text": "is revealed. Adam goes above and beyond to satisfy his customers. If you go above and beyond,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 261.12,
     "end": 265.759,
     "text": "you do something with more effort than would normally be expected.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 265.759,
     "end": 271.519,
     "text": "And the results of Adam's extra effort, birthday cakes which last long in the memory,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 271.519,
     "end": 276.799,
-    "text": "And the result of Adam’s extra effort? Birthday cakes which last long in the memory, a phrase describing something which creates such a strong impression that it’s remembered for a long time…",
-    "speaker": "last long in the memory"
+    "text": "a phrase describing something which creates such a strong impression that it's remembered for a",
+    "speaker": null
   },
   {
+    "order": 50,
     "start": 276.799,
     "end": 282.959,
     "text": "long time. Or at least until the following year when another birthday comes around and it's time",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 282.959,
     "end": 288.879,
     "text": "to start baking all over again. And speaking of birthdays coming around, what was the answer to your",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 52,
     "start": 288.879,
     "end": 296,
     "text": "question, Beth? You asked me which was the most common month to be born in the UK. And you guessed it",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 296,
     "end": 303.68,
-    "text": "was September, which was the correct answer. Babies born in the UK peak in September,",
-    "speaker": null
+    "text": "was September, which was… the correct answer! Babies born in the UK peak in September",
+    "speaker": "Beth"
   },
   {
+    "order": 54,
     "start": 303.68,
     "end": 309.759,
     "text": "right? Let's recap the vocabulary from this programme starting with Home Made, an adjective",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 309.759,
     "end": 315.759,
     "text": "describing something which is made at home and not bought from a shop. If something is higgledy",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 315.759,
     "end": 322.56,
     "text": "piggledy, it's mixed up and in no particular order. The phrase all sorts means many different",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 322.56,
     "end": 327.92,
     "text": "kinds of something, like the sweets called licoriceal sorts which come in different shapes and",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 327.92,
     "end": 334.639,
     "text": "colours. If someone gives you leeway to do something, they give you the freedom to do it the way you",
-    "speaker": null
+    "speaker": "all sorts"
   },
   {
+    "order": 59,
     "start": 334.639,
     "end": 341.519,
     "text": "want to. The idiom to last long in the memory means to create such a strong effect that it's",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 341.519,
     "end": 347.84,
     "text": "remembered for a long time. And finally, when someone goes above and beyond, they do something with",
-    "speaker": null
+    "speaker": "to last long in the memory"
   },
   {
+    "order": 61,
     "start": 347.839,
     "end": 354.479,
     "text": "much more effort than would usually be expected. Once again, our six minutes are up. If your birthdays",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 354.479,
     "end": 359.759,
     "text": "coming up, we hope you have a cake with candles and make a wish to join us again soon for more",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 359.759,
     "end": 364.879,
     "text": "trending topics and useful vocabulary here at 6 Minute English. Goodbye for now. Bye.",

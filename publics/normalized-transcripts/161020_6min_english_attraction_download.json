@@ -1,611 +1,713 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Sophie"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.04,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.08,
     "end": 15.359,
-    "text": "Hello and welcome to 6 Minute English. I'm Sophie…",
-    "speaker": "Sophie"
+    "text": "Hello and welcome to 6 Minute English, I'm Sophie.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 15.359,
     "end": 20.719,
     "text": "And I'm Neil. So Sophie, the subject of today's show is a traction.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 20.719,
     "end": 22.64,
     "text": "Do you believe in love at first sight?",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 22.64,
     "end": 26.08,
     "text": "No, I don't. I think it takes time to get to know somebody",
-    "speaker": null
+    "speaker": "Sophie"
   },
   {
+    "order": 8,
     "start": 26.08,
     "end": 28.24,
     "text": "well enough to know if you love them.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 28.319,
     "end": 31.679,
     "text": "But I have a friend who says when she saw her husband for the first time.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 31.679,
     "end": 33.839,
-    "text": "That was before they got married?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 33.839,
-    "end": 37.439,
-    "text": "That's right. When they met for the first time, that was it.",
+    "text": "Uh, that was before they got married.",
     "speaker": null
   },
   {
-    "start": 37.439,
-    "end": 39.119,
-    "text": "bolt out of the blue",
-    "speaker": "Neil"
+    "order": 11,
+    "start": 33.839,
+    "end": 37.439,
+    "text": "That's right – when they met for the first time, that was it",
+    "speaker": "Sophie"
   },
   {
+    "order": 12,
+    "start": 37.439,
+    "end": 39.119,
+    "text": "A bolt out of the blue.",
+    "speaker": null
+  },
+  {
+    "order": 13,
     "start": 39.119,
     "end": 41.519,
     "text": "And they got married three months later.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 41.519,
     "end": 45.2,
     "text": "A bolt out of the blue means something totally unexpected.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 45.2,
     "end": 46.959,
     "text": "Well, that sounds very romantic.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 46.959,
     "end": 49.519,
     "text": "And leads me onto today's quiz question.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 49.519,
     "end": 54.48,
-    "text": "Very good. Now, remember I asked you, Sophie: What percentage of Americans said they believe in love at first sight? Is it… a) 26%, b) 56% or c) 86%?",
-    "speaker": "Neil"
+    "text": "Sophie, what percentage of Americans said they believe in love at first sight?",
+    "speaker": "Sophie"
   },
   {
+    "order": 18,
     "start": 54.639,
     "end": 60.64,
     "text": "Is it a 26% b 56% or c 86%?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 60.64,
     "end": 62.879,
-    "text": "I'm not an old romantic like you Neil, so I'm going to go for a) 26%.",
-    "speaker": "Sophie"
+    "text": "I'm not an old romantic like you, Neil.",
+    "speaker": "bolt out of the blue"
   },
   {
+    "order": 20,
     "start": 62.879,
     "end": 66.479,
     "text": "So I'm going to go for a 26%.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 66.479,
     "end": 71.359,
     "text": "Well, we'll find out later on in the show if you're right to be skeptical or not, Sophie.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 71.359,
     "end": 73.599,
     "text": "And skeptical for those of you who don't know,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 73.599,
     "end": 75.759,
     "text": "means to have doubts about something.",
-    "speaker": null
+    "speaker": "sceptical"
   },
   {
+    "order": 24,
     "start": 76.4,
     "end": 79.599,
     "text": "I think you can be physically attracted to somebody straight away.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 80.159,
     "end": 83.359,
     "text": "I just don't think you can fall in love with somebody so easily.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 84,
     "end": 89.599,
     "text": "Love is about other things, compatibility, personality, and a good sense of humour.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 89.599,
     "end": 92.959,
-    "text": "Yes, humour is important, but apparently Sophie, for men,",
-    "speaker": null
+    "text": "Yes, humour is important, but apparently, Sophie, for men",
+    "speaker": "ratio"
   },
   {
+    "order": 28,
     "start": 92.959,
     "end": 95.359,
     "text": "it's all about the waste hip ratio.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 95.84,
     "end": 100.64,
     "text": "According to research, the ideal waste hip ratio for women is 0.7,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 101.2,
     "end": 104.799,
     "text": "where ratio means the relationship between two sizes.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 104.799,
     "end": 108.879,
     "text": "And you get this figure by dividing the waste measurement by the hip measurement.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 109.439,
     "end": 110.56,
     "text": "I see.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 110.56,
     "end": 113.839,
-    "text": "I see. And why do men find 0.7 so irresistible?",
-    "speaker": "Sophie"
+    "text": "And why do men find 0.7 so irresistible?",
+    "speaker": null
   },
   {
+    "order": 34,
     "start": 113.839,
     "end": 119.84,
-    "text": "Well, let's listen to Dr Anna Machin, an Evolutionary Anthropologist from the University of Oxford, explaining what a man is looking for.",
+    "text": "Well, let's listen to Dr Anna Machin, an Evolutionary Anthropologist from the University of Oxford,",
     "speaker": "Neil"
   },
   {
+    "order": 35,
     "start": 119.84,
     "end": 122.079,
     "text": "explaining what a man is looking for.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 123.759,
     "end": 126.719,
     "text": "He's going to look of signs for fertility and what we call for",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 126.719,
     "end": 128.24,
     "text": "quantity and good health.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 128.24,
     "end": 132.319,
     "text": "And the major indicator of that in women is the waste hip ratio.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 132.319,
     "end": 136.4,
     "text": "And the waste hip ratio, the absolute ideal, what men find most attractive,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 136.4,
     "end": 139.84,
     "text": "regardless of culture, this has been tested in many different cultures around the world,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 139.84,
     "end": 141.52,
     "text": "is 0.7.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 141.52,
     "end": 144.4,
     "text": "And that's really your classic hourglass figure.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 144.4,
     "end": 150.319,
     "text": "And the reason why that universally is attractive is because it's tied to the health of that",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 150.319,
     "end": 154.56,
     "text": "individual. There's a very strong relationship between someone circulating estrogen and",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 154.56,
     "end": 158.719,
     "text": "testosterone. Obviously, we want the estrogen to be high, the testosterone to be low for women",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 158.719,
     "end": 164.08,
     "text": "to be fertile. And also her general health. So 0.7 is linked to lower risk of heart disease,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 164.08,
     "end": 166.56,
     "text": "lower risk of diabetes and certain sorts of cancers.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 168.48,
     "end": 175.2,
     "text": "So a waste hip ratio of 0.7 correlates or has a strong relationship with good general health",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 175.2,
     "end": 181.52,
     "text": "and fertility in women. And the men find this attractive because it identifies fertile women,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 181.52,
     "end": 186.48,
-    "text": "And men find this attractive because it identifies fertile women – women who will be able to conceive – or get pregnant – and have babies successfully.",
-    "speaker": "fertileconceive"
+    "text": "women who will be able to conceive or get pregnant and have babies successfully.",
+    "speaker": "correlates"
   },
   {
+    "order": 51,
     "start": 186.48,
     "end": 193.2,
-    "text": "Dr Machin also mentions that 0.7 is the classic hourglass figure – which means curvy!",
+    "text": "Dr Machin also mentions that 0.7 is the classic hourglass figure – which means curvy",
     "speaker": "hourglass figure"
   },
   {
+    "order": 52,
     "start": 193.199,
     "end": 196.959,
     "text": "Do you like curves, Neil? I'm your own business, Sophie.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 196.959,
     "end": 200.959,
     "text": "But all this waste hip theory of attraction isn't very romantic, is it?",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 200.959,
     "end": 205.599,
     "text": "You're right, it isn't. And whilst we do judge people by the way they look,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 55,
     "start": 205.599,
     "end": 210.799,
     "text": "we also use our senses smell to sniff out our ideal mate or sexual partner.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 211.599,
     "end": 215.439,
     "text": "Apparently, we can detect whether people are genetically different to us,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 215.439,
     "end": 221.759,
     "text": "by the way they smell. And parents who have different immune systems create healthier babies.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 221.759,
     "end": 225.28,
-    "text": "So it's back to having babies again – all biology and chemistry – and not about feelings at all.",
+    "text": "So it's back to having babies again – all biology and chemistry",
     "speaker": "Neil"
   },
   {
+    "order": 59,
     "start": 225.28,
     "end": 227.439,
     "text": "And not about feelings at all.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 227.439,
     "end": 232.239,
     "text": "Well, let's leave chemistry behind for a moment and listen to Professor David Perrett",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 232.239,
     "end": 237.12,
     "text": "at the School of Psychology and Neuroscience at St Andrew's University in Scotland.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 237.84,
     "end": 241.039,
     "text": "He talks about other factors that play a role in attraction.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 243.12,
     "end": 246.479,
     "text": "Classic surgery really doesn't count for much in the end.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 247.039,
     "end": 250.799,
     "text": "You could be with somebody who's aesthetically very beautiful, but if they don't",
-    "speaker": null
+    "speaker": "David Perrett, Professor at the School of Psychology and Neuroscience at St Andrews University in Scotland"
   },
   {
+    "order": 65,
     "start": 251.12,
     "end": 254.8,
     "text": "smile and react, then that counts for much less.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 254.8,
     "end": 260.319,
     "text": "So we can change our faces by interacting with others and doing so in a pleasant manner.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 260.319,
     "end": 263.84,
     "text": "And that will aid our attractiveness and make others interested in us.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 265.759,
     "end": 267.84,
     "text": "What does aesthetically mean, Sophie?",
-    "speaker": "aesthetically"
-  },
-  {
-    "start": 268.72,
-    "end": 271.759,
-    "text": "It means judging something by the way it looks.",
     "speaker": null
   },
   {
+    "order": 69,
+    "start": 268.72,
+    "end": 271.759,
+    "text": "It means judging something by the way it looks.",
+    "speaker": "Sophie"
+  },
+  {
+    "order": 70,
     "start": 271.759,
     "end": 276.96,
     "text": "And whilst we all enjoy a pretty face, most of us are looking for more than that.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 276.959,
     "end": 282.959,
     "text": "We are looking for people who appear friendly and approachable and who we share interests with.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 282.959,
     "end": 288.239,
-    "text": "Exactly – and personally, I think kind eyes are very important – with a bit of a twinkle. What about you, Sophie?",
-    "speaker": "Neil"
+    "text": "Exactly. And personally, I think kind eyes are very important with a bit of a twinkle.",
+    "speaker": null
   },
   {
+    "order": 73,
     "start": 288.239,
     "end": 289.759,
     "text": "What about you, Sophie?",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 289.759,
     "end": 291.68,
     "text": "I like a good sense of humour.",
-    "speaker": "Sophie"
+    "speaker": null
   },
   {
+    "order": 75,
     "start": 291.68,
     "end": 297.439,
     "text": "Very good. Now remember I asked you, Sophie, what percentage of Americans said they believe in love at first sight?",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 297.439,
     "end": 303.199,
     "text": "Is it a 26% b 56% or c 86%?",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 303.199,
     "end": 305.359,
     "text": "I said 26%.",
     "speaker": "Sophie"
   },
   {
+    "order": 78,
     "start": 306.16,
     "end": 307.68,
     "text": "Sorry, that's the wrong answer.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 307.68,
     "end": 311.6,
     "text": "Sophie, 56% of Americans believe in love at first sight.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 311.6,
     "end": 315.759,
     "text": "And the percentage is even higher for married people and those in relationships,",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 315.759,
     "end": 321.28,
     "text": "according to a poll conducted by the website cbs.com in 2013.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 321.28,
     "end": 323.6,
     "text": "Well, Americans are a romantic bunch.",
     "speaker": "Sophie"
   },
   {
+    "order": 83,
     "start": 323.6,
     "end": 325.84,
     "text": "Me too. And I'm British.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 325.84,
     "end": 327.6,
-    "text": "Me too, and I'm British. Now, here are the words we heard today.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 328.24,
-    "end": 329.28,
-    "text": "Bolt out of the blue.",
+    "text": "Now, here are the words we heard today.",
     "speaker": null
   },
   {
+    "order": 85,
+    "start": 328.24,
+    "end": 329.28,
+    "text": "bolt out of the blue ",
+    "speaker": "Neil"
+  },
+  {
+    "order": 86,
     "start": 330.08,
     "end": 330.8,
     "text": "Skeptical.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 331.68,
     "end": 332.24,
-    "text": "ratio",
+    "text": "ratio ",
     "speaker": "Neil"
   },
   {
+    "order": 88,
     "start": 333.12,
     "end": 333.759,
-    "text": "correlates",
-    "speaker": "Neil"
+    "text": "Correlates.",
+    "speaker": null
   },
   {
+    "order": 89,
     "start": 334.079,
     "end": 335.599,
     "text": "Thirtile.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 335.599,
     "end": 337.279,
     "text": "conceive",
     "speaker": "Neil"
   },
   {
+    "order": 91,
     "start": 337.279,
     "end": 339.68,
     "text": "Our glass figure.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 339.68,
     "end": 341.36,
     "text": "mate",
     "speaker": "Neil"
   },
   {
+    "order": 93,
     "start": 341.36,
     "end": 343.279,
     "text": "Stethically.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 343.279,
     "end": 347.279,
     "text": "Well, that's the end of this edition of 6 Minute English.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 95,
     "start": 347.279,
     "end": 348.8,
     "text": "Join us again soon.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 348.8,
     "end": 353.279,
     "text": "Meanwhile, visit our website bbclearningenglish.com",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 353.279,
     "end": 360.319,
     "text": "where you'll find guides to grammar, exercises, videos and articles to read and improve your English.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 360.879,
     "end": 362.879,
     "text": "And we're on social media too.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 362.879,
     "end": 367.519,
-    "text": "And we are on social media too. Make sure to visit our profiles on Facebook, Twitter, Instagram and YouTube.",
+    "text": " Make sure to visit our profiles on Facebook, Twitter, Instagram and YouTube",
     "speaker": "Neil"
   },
   {
+    "order": 100,
     "start": 368.399,
     "end": 369.12,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 369.12,
     "end": 369.68,
     "text": "Bye bye.",

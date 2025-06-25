@@ -1,536 +1,625 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7.44,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7.44,
     "end": 11.679,
     "text": "Hello, this is 6 Minute English from BBCLearningEnglish. I'm Phil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 11.679,
     "end": 15.56,
-    "text": "And I'm Beth. Now, let's talk about food.",
-    "speaker": "Beth"
+    "text": "And I'm Beth. Now let's talk about food.",
+    "speaker": "Phil"
   },
   {
+    "order": 3,
     "start": 15.56,
     "end": 21.559,
     "text": "Okay, what food do you love? What food do you hate? If you ask around you'll soon see",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 21.559,
     "end": 26.16,
     "text": "there's no right or wrong answer. It's all a question of taste.",
-    "speaker": null
+    "speaker": "Phil"
   },
   {
+    "order": 5,
     "start": 26.16,
     "end": 30.839,
     "text": "But our taste, it turns out, isn't simply a matter of opinion.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 30.839,
     "end": 37.24,
     "text": "Rather, scientists have discovered that taste is influenced by our genes and DNA.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 37.24,
     "end": 42.92,
     "text": "So in this programme we'll be asking, what is taste? Why can't we agree on it?",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 42.92,
     "end": 48.719,
     "text": "And is it worth listening to experts whose job is to tell us what to eat and drink?",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 48.719,
     "end": 53.519,
     "text": "And as usual, we'll be learning some useful new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 53.56,
     "end": 57.16,
     "text": "Great, but first I have a question for you, Beth.",
-    "speaker": null
+    "speaker": "Phil"
   },
   {
+    "order": 11,
     "start": 57.16,
     "end": 63.24,
     "text": "A good way of finding out about British tastes is with the nation's best love snack.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 63.24,
     "end": 69.4,
     "text": "Crisps. So what is the most popular flavour of crisps in the UK?",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 69.4,
     "end": 73,
-    "text": "a)    salt and vinegar?",
-    "speaker": "Phil"
+    "text": "Is it a salt and vinegar,",
+    "speaker": null
   },
   {
+    "order": 14,
     "start": 73,
     "end": 75.48,
-    "text": "b)    cheese and onion? or,",
+    "text": "b, cheese and onion,",
     "speaker": "Phil"
   },
   {
+    "order": 15,
     "start": 75.48,
     "end": 78.04,
-    "text": "c)    prawn cocktail?",
-    "speaker": "Phil"
+    "text": "or c, prawn cocktail?",
+    "speaker": null
   },
   {
+    "order": 16,
     "start": 78.04,
     "end": 80.68,
     "text": "I'm going to guess cheese and onion.",
     "speaker": "Beth"
   },
   {
+    "order": 17,
     "start": 80.68,
     "end": 84.76,
     "text": "Okay, Beth, I'll reveal the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 84.76,
     "end": 90.52,
     "text": "Scientists' understanding of how taste works started only 25 years ago",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 90.52,
     "end": 93.24,
     "text": "with the discovery of taste receptors.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 93.24,
     "end": 96.28,
     "text": "Cells located in the taste buds on your tongue.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 96.28,
     "end": 99.2,
     "text": "But people's taste is unique to them.",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 22,
     "start": 99.2,
     "end": 103.92,
     "text": "What tastes sweet to me might taste sour or salty to someone else.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 103.92,
     "end": 107.84,
     "text": "And this is because of differences in the receptors we're born with.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 107.84,
     "end": 110.88,
     "text": "In other words, taste is partly genetic.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 110.88,
     "end": 116.4,
     "text": "Here's Danielle Reid, researcher at the Menel Chemical Census Centre in Philadelphia,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 116.4,
     "end": 120.48,
     "text": "explaining more to BBC World Service programme, The Food Chain.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 120.48,
     "end": 123.68,
     "text": "When we first started doing genetic studies,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 123.68,
     "end": 128.92,
     "text": "we really just confined ourselves to looking at a few European,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 128.92,
     "end": 131.56,
     "text": "people of European ancestry.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 131.56,
     "end": 136.719,
     "text": "And so our understanding of the broad diversity of humans on the planet",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 136.719,
     "end": 139.199,
     "text": "was extremely limited.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 139.199,
     "end": 145.4,
     "text": "We are broadening our horizons in studying people of Asian and African ancestry.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 145.4,
     "end": 152.199,
     "text": "And that has really opened up the knowledge that people are much more diverse",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 152.199,
     "end": 154.28,
     "text": "than we ever realised.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 154.28,
     "end": 157.639,
-    "text": "And what you're saying is, \"No, taste isn't a matter of opinion, it's a matter of biology\".",
-    "speaker": "Ruth Alexander"
+    "text": "And what you're saying is, no taste isn't a matter of opinion.",
+    "speaker": "broadening our horizons"
   },
   {
+    "order": 36,
     "start": 157.639,
     "end": 159.4,
     "text": "It's a matter of biology.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 159.4,
     "end": 164.199,
     "text": "Exactly. And we wouldn't, you know, for our friends who are colourblind,",
-    "speaker": null
+    "speaker": "colour-blindchastise"
   },
   {
+    "order": 38,
     "start": 164.199,
     "end": 170.56,
     "text": "we wouldn't chastise them for not being able to see red or for dressing in colours we don't appreciate.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 170.56,
     "end": 174.599,
     "text": "But we feel very free to criticise our friend's sense of taste.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 174.599,
     "end": 179.359,
     "text": "It was only when scientists looked outside Europe to the rest of the world",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 179.359,
     "end": 183.239,
     "text": "that they realised the diversity of human taste.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 183.239,
     "end": 186.879,
     "text": "Danielle says they broadened their horizons.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 186.879,
     "end": 192.839,
     "text": "They investigated something in a new way to increase their knowledge and understanding of it.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 192.879,
     "end": 197.2,
     "text": "Danielle compares taste to another genetically controlled condition,",
-    "speaker": null
+    "speaker": "colour-blindchastise colour-blind"
   },
   {
+    "order": 45,
     "start": 197.2,
     "end": 203.759,
     "text": "being colourblind or unable to see the difference between certain colours like green and red.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 203.759,
     "end": 209,
     "text": "You wouldn't chastise, criticise or punish someone for being colourblind.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 209,
     "end": 212.28,
     "text": "So why criticise someone's taste?",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 212.28,
     "end": 216.56,
     "text": "But if scientists are telling us taste is largely genetic,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 216.56,
     "end": 220.039,
     "text": "what about restaurant critics and wine connoisseurs?",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 220.039,
     "end": 223.84,
     "text": "People whose job it is to tell us what to eat and drink.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 223.84,
     "end": 226.639,
     "text": "Are there opinions any better than our own?",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 226.639,
     "end": 232.079,
     "text": "Here's David Komode, wine judge for the international wine and spirits competition,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 232.079,
     "end": 237.439,
     "text": "speaking with Ruth Alexander for BBC World Services, The Food Chain.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 237.439,
     "end": 241.479,
-    "text": "Scientists have established that taste is individual,",
-    "speaker": null
+    "text": "Scientists have established that taste is individual ",
+    "speaker": "pointless"
   },
   {
+    "order": 55,
     "start": 241.479,
     "end": 244.399,
     "text": "and to a large extent, actually genetic.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 244.399,
     "end": 249.959,
     "text": "So I wonder does that render the wine competition a pointless exercise?",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 249.96,
     "end": 256.28,
     "text": "No, I would say that wouldn't I, but of course, individual taste is subjective.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 256.28,
     "end": 262.92,
     "text": "We all have our own personal prejudices in whatever sphere of life you want to go into,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 262.92,
     "end": 268.84,
     "text": "but we are encouraged, I mean, ordered almost to park those prejudices.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 268.84,
     "end": 271.879,
     "text": "Since people's tastes are naturally different,",
-    "speaker": null
+    "speaker": "pointlessI would say that, wouldn't I?"
   },
   {
+    "order": 61,
     "start": 271.879,
     "end": 275.68,
     "text": "Ruth asks if wine competitions are pointless,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 275.68,
     "end": 278.48,
     "text": "without purpose and a waste of time.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 278.52,
     "end": 283,
     "text": "Being a wine judge, David, of course, disagrees, using the phrase,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 283,
     "end": 285.8,
     "text": "but I would say that wouldn't I.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 285.8,
     "end": 289.6,
     "text": "This phrase means something like, of course, I would say that.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 289.6,
     "end": 294.92,
     "text": "It implies there's some reason that what the speaker is saying is obviously biased towards them.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 294.92,
     "end": 297.759,
     "text": "David admits that taste is subjective,",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 297.759,
     "end": 301.68,
-    "text": "David admits that taste is subjective, based on personal opinions and feelings rather than on facts.",
-    "speaker": "subjective"
+    "text": "based on personal opinions and feelings rather than on facts.",
+    "speaker": null
   },
   {
+    "order": 69,
     "start": 301.68,
     "end": 305.36,
-    "text": "I think it's time to reveal the answer to your question, Phil.",
-    "speaker": "Beth"
+    "text": "And I think it's time to reveal the answer to your question, Phil.",
+    "speaker": null
   },
   {
+    "order": 70,
     "start": 305.4,
     "end": 309.52,
     "text": "Right, I asked the Britain's most popular flavour of crisp,",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 309.52,
     "end": 314.639,
     "text": "and you said cheese and onion, which was the correct answer.",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 72,
     "start": 314.639,
     "end": 318.84,
     "text": "OK, let's recap the vocabulary we've learned in this programme,",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 318.84,
     "end": 323.4,
     "text": "starting with the phrase, to broaden or expand your horizons,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 323.4,
     "end": 326.04,
     "text": "meaning to explore something in a new way,",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 326.04,
     "end": 329.879,
     "text": "which increases your knowledge and understanding of it.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 329.879,
     "end": 333.96,
     "text": "To chest eyes means to strongly punish or criticise.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 333.959,
     "end": 338.279,
-    "text": "A colour-blind person is unable to distinguish certain colours especially greens and reds.",
-    "speaker": "colour-blind"
+    "text": "A colourblind person is unable to distinguish certain colours,",
+    "speaker": "chastise"
   },
   {
+    "order": 78,
     "start": 338.279,
     "end": 340.959,
     "text": "especially greens and reds.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 340.959,
     "end": 344.439,
-    "text": "Something which is pointless, has no purpose or meaning and is a waste of time.",
+    "text": "Something which is pointless, has no purpose or meaning",
     "speaker": "pointless"
   },
   {
+    "order": 80,
     "start": 344.439,
     "end": 346.759,
     "text": "and is a waste of time.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 346.759,
     "end": 349.799,
     "text": "The phrase, I would say that wouldn't I.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 349.799,
     "end": 353.679,
     "text": "It's a tag question, meaning, of course, I would say that.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 353.679,
     "end": 356.359,
     "text": "And finally, if something is subjective,",
-    "speaker": null
+    "speaker": "subjective,"
   },
   {
+    "order": 84,
     "start": 356.359,
     "end": 359.479,
     "text": "it's influenced by personal beliefs or feelings,",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 359.479,
     "end": 361.639,
     "text": "rather than based on facts.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 361.639,
     "end": 363.839,
     "text": "Once again, our six minutes are up.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 363.839,
     "end": 364.719,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 364.719,
     "end": 365.719,
-    "text": "Bye!",
-    "speaker": "Phil"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

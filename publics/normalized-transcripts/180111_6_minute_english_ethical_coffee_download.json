@@ -1,737 +1,860 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.32,
     "end": 14.32,
     "text": "Hello and welcome to 6 Minute English.",
+    "speaker": "Dan"
+  },
+  {
+    "order": 3,
+    "start": 14.32,
+    "end": 16.96,
+    "text": "I'm Dan and joining me today is Catherine. Hey, Catherine.",
     "speaker": null
   },
   {
-    "start": 14.32,
-    "end": 16.96,
-    "text": "Hello and welcome to 6 Minute English. I'm Dan and joining me today is Catherine. Hey Catherine.",
-    "speaker": "Dan"
-  },
-  {
+    "order": 4,
     "start": 16.96,
     "end": 17.679,
-    "text": "Hey Dan.",
-    "speaker": "Catherine"
+    "text": "Hey, Dan.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 17.679,
     "end": 21.679,
-    "text": "So Catherine, do you prefer a brew or a cup of joe in the morning?",
+    "text": "So Catherine, do you prefer a brew or a cup of joe in the morning? ",
     "speaker": "Dan"
   },
   {
+    "order": 6,
     "start": 21.679,
     "end": 25.039,
     "text": "Oh, well, if you're referring to whether I prefer a cup of tea,",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 25.039,
     "end": 28.48,
     "text": "which we sometimes call a brew or a cup of coffee,",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 28.48,
     "end": 32.799,
     "text": "sometimes called a cup of Joe, I prefer my coffee in the morning.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 32.799,
     "end": 36.24,
     "text": "I only drink coffee when I really need to wake up quickly.",
     "speaker": "Dan"
   },
   {
+    "order": 10,
     "start": 36.24,
     "end": 38.32,
-    "text": "And, why are you asking, Dan?",
-    "speaker": "Catherine"
+    "text": "Mmm, and why are you asking, Dan?",
+    "speaker": null
   },
   {
+    "order": 11,
     "start": 38.32,
     "end": 40.56,
     "text": "Because it’s part of this 6 Minute English.",
     "speaker": "Dan"
   },
   {
+    "order": 12,
     "start": 40.56,
     "end": 43.679,
-    "text": "Coffee. I see. So how do you take it then, Dan?",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 43.679,
-    "end": 46,
-    "text": "Well, I'm an instant coffee kind of guy,",
+    "text": "Coffee, I see. So how do you take it, then, Dan?",
     "speaker": null
   },
   {
+    "order": 13,
+    "start": 43.679,
+    "end": 46,
+    "text": "Well, I’m an instant coffee kind of guy.",
+    "speaker": "dash"
+  },
+  {
+    "order": 14,
     "start": 46,
     "end": 48.32,
     "text": "and I like mine with a dash of milk.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 48.32,
     "end": 49.2,
     "text": "How about you?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 49.2,
     "end": 53.92,
     "text": "A dash of something is a small amount of something, especially liquid.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 53.92,
     "end": 58.079,
     "text": "Personally, I prefer freshly ground coffee beans,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 58.079,
     "end": 62.079,
     "text": "and I like my coffee dark and strong,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 62.079,
     "end": 66.159,
     "text": "preferably Colombian or maybe Brazilian.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 66.159,
     "end": 69.039,
     "text": "Wow. A coffee aficionado, eh?",
     "speaker": "aficionado"
   },
   {
+    "order": 21,
     "start": 69.039,
     "end": 73.759,
-    "text": "An aficionado is a person who’s very enthusiastic about, or interested in, a particular subject.",
-    "speaker": "aficionado"
+    "text": "An aficionado is a person who's very enthusiastic about",
+    "speaker": null
   },
   {
+    "order": 22,
     "start": 73.759,
     "end": 77.039,
     "text": "or interested in a particular subject.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 77.039,
     "end": 81.12,
-    "text": "Well, let me test your knowledge with this week's quiz question.",
-    "speaker": null
+    "text": "Well, let me test your knowledge with this week’s quiz question.",
+    "speaker": "Dan"
   },
   {
+    "order": 24,
     "start": 81.12,
     "end": 83.759,
     "text": "The speciality coffee, Copi L'Ouac,",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 83.759,
     "end": 86.64,
     "text": "is made from coffee beans which have already passed",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 86.64,
     "end": 89.28,
     "text": "through an animal's digestive system.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 89.28,
     "end": 91.04,
     "text": "But which animal?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 91.04,
     "end": 92.48,
-    "text": "a)    an elephant",
-    "speaker": "Dan"
+    "text": "Is it A, an elephant?",
+    "speaker": null
   },
   {
+    "order": 29,
     "start": 92.48,
     "end": 95.599,
     "text": "B, a cat or C, a weasel?",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 95.599,
     "end": 98.719,
     "text": "I'm always going to answer B, a cat.",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 31,
     "start": 98.719,
     "end": 102.239,
     "text": "Did you say this coffee actually goes through the animal?",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 102.239,
     "end": 106.56,
     "text": "As in, it eats it, and then it comes out the other end,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 106.56,
     "end": 109.2,
     "text": "and that's what we use for the coffee?",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 109.2,
     "end": 114.4,
-    "text": "Well, yes, it is actually one of the most expensive coffees in the world.",
-    "speaker": null
+    "text": "Well, yes. It is actually one of the most expensive coffees in the world.",
+    "speaker": "cheap as chips"
   },
   {
+    "order": 35,
     "start": 114.4,
     "end": 118.08,
     "text": "Anyway, we'll find out if you're right or not later on.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 118.08,
     "end": 121.76,
     "text": "So talking of expensive, do you tend to pay more for your coffee",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 121.76,
     "end": 124.48,
     "text": "or are you happy with the cheapest chips stuff?",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 124.48,
     "end": 127.2,
     "text": "Chippers chips means very cheap.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 127.2,
     "end": 130.4,
     "text": "And personally, I do actually like a quality product,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 130.4,
     "end": 133.28,
     "text": "and I am willing to pay a bit more for it.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 133.28,
     "end": 137.12,
     "text": "Would you be willing to pay even more than you already do",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 42,
     "start": 137.12,
     "end": 139.92,
     "text": "if it meant that the farmer who grew the beans",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 139.92,
     "end": 141.92,
     "text": "was getting a fairer price?",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 142,
     "end": 145.199,
-    "text": "I would because I think that that sort of thing is important.",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 145.199,
-    "end": 146.799,
-    "text": "And you aren't alone.",
+    "text": "I would, because I think that that sort of thing is important.",
     "speaker": null
   },
   {
+    "order": 45,
+    "start": 145.199,
+    "end": 146.799,
+    "text": "And you aren’t alone.",
+    "speaker": "Dan"
+  },
+  {
+    "order": 46,
     "start": 146.799,
     "end": 151.199,
     "text": "There's a growing trend among many Western customers of artists and cafes",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 151.199,
     "end": 155.279,
     "text": "to be willing to pay more for ethically-produced coffee.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 155.279,
     "end": 157.759,
     "text": "Ethical means morally right.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 157.759,
     "end": 161.359,
-    "text": "Ethical means morally right. So, Dan, why is this trend happening at the moment?",
-    "speaker": "Ethical"
-  },
-  {
-    "start": 161.359,
-    "end": 163.919,
-    "text": "Well, it's probably been going on for a while,",
+    "text": "So, Dan, why is this trend happening at the moment?",
     "speaker": null
   },
   {
+    "order": 50,
+    "start": 161.359,
+    "end": 163.919,
+    "text": "Well, it’s probably been going on for a while,",
+    "speaker": "Dan"
+  },
+  {
+    "order": 51,
     "start": 163.919,
     "end": 168.079,
     "text": "but a new report from the UN's World Intellectual Property Organization",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 168.079,
     "end": 171.039,
     "text": "has observed the effect that smarter processing,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 171.039,
     "end": 176.239,
     "text": "branding and marketing has had on the farmers and their communities.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 176.239,
     "end": 182.239,
     "text": "And because of this, coffee drinkers are better able to choose ethically-produced coffee",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 182.239,
     "end": 185.84,
     "text": "that puts more money in the hands of the farmers.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 185.84,
     "end": 190.479,
     "text": "But, Dan, do the farmers actually see any of this money?",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 190.479,
     "end": 192.479,
-    "text": "Well, it's complicated.",
-    "speaker": null
+    "text": "Well, it’s complicated.",
+    "speaker": "roasted"
   },
   {
+    "order": 58,
     "start": 192.479,
     "end": 194.879,
     "text": "The price of the coffee is relatively cheap",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 194.879,
     "end": 198.319,
     "text": "until it's been roasted or cooked in an oven.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 198.4,
     "end": 201.84,
     "text": "As a result, roasters take most of the profits.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 201.84,
     "end": 204.079,
     "text": "But there is still a difference.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 204.799,
     "end": 209.439,
     "text": "I'll let Jonathan Joseph's a business reporter for the BBC News explain.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 210.479,
     "end": 214.56,
     "text": "For a pound of coffee beans that end up in the instant-sold-in supermarkets,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 214.56,
     "end": 217.28,
     "text": "the roaster can get over $4.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 217.28,
     "end": 220.4,
     "text": "But the export price is just $1.45.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 220.4,
     "end": 222.079,
     "text": "The farmer gets most of that.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 222.079,
     "end": 227.039,
     "text": "But when the new wave of socially-aware customers pays a premium for higher standards,",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 227.039,
     "end": 230.4,
     "text": "the roaster can get $17.45.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 230.4,
     "end": 234.079,
     "text": "But the export price also rises to $5.14.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 235.84,
     "end": 239.28,
-    "text": "A premium is an amount that's more than usual.",
-    "speaker": null
+    "text": "A premium is an amount that’s more than usual.",
+    "speaker": "premium"
   },
   {
+    "order": 71,
     "start": 239.28,
     "end": 243.12,
     "text": "So if the farmer makes three and a half times as much money,",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 243.12,
     "end": 246.079,
-    "text": "Which means a better quality of life for the farmer, their family and their community.",
-    "speaker": "Dan"
+    "text": "which means a better quality of life for the farmer,",
+    "speaker": null
   },
   {
+    "order": 73,
     "start": 246.079,
     "end": 248.879,
     "text": "their family and their community.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 248.879,
     "end": 249.759,
-    "text": "That's good news.",
-    "speaker": null
+    "text": "That’s good news!",
+    "speaker": "Catherine"
   },
   {
+    "order": 75,
     "start": 249.759,
     "end": 253.359,
     "text": "I will definitely look for the ethically-produced coffee from now on.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 253.44,
     "end": 257.199,
     "text": "As long as Dan, it doesn't come out of some animal.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 257.199,
     "end": 260.639,
     "text": "Yes, actually, that reminds me our quiz question.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 260.639,
     "end": 265.439,
     "text": "I ask you which animal the speciality coffee Copi-Lawak comes from.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 265.439,
     "end": 267.12,
-    "text": "a)    an elephant",
-    "speaker": "Dan"
+    "text": "Is it A, an elephant?",
+    "speaker": null
   },
   {
+    "order": 80,
     "start": 267.12,
     "end": 270.16,
     "text": "B, a cat or C, a weasel?",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 270.16,
     "end": 271.52,
     "text": "And I said a cat.",
-    "speaker": "Catherine"
+    "speaker": "Dan"
   },
   {
+    "order": 82,
     "start": 271.52,
     "end": 273.36,
     "text": "And you were wrong, I'm afraid.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 273.36,
     "end": 276.08,
     "text": "Copi-Lawak comes from a type of weasel.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 276.08,
     "end": 277.759,
-    "text": "I’m kind of relieved about that.",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 277.759,
-    "end": 281.52,
-    "text": "Let’s try not to think about it, and have a look at the vocabulary instead.",
+    "text": "I'm kind of relieved about that.",
     "speaker": "Dan"
   },
   {
+    "order": 85,
+    "start": 277.759,
+    "end": 281.52,
+    "text": "Let’s try not to think about it, and have a look at the vocabulary instead",
+    "speaker": "Dan"
+  },
+  {
+    "order": 86,
     "start": 282.079,
     "end": 284.24,
     "text": "Okay, so first we had dash.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 284.24,
     "end": 287.279,
     "text": "A dash of something is a small amount of something,",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 287.279,
     "end": 288.799,
     "text": "usually illiquid.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 288.799,
     "end": 291.759,
     "text": "Where might we talk about a dash of something, Dan?",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 291.759,
     "end": 294.319,
-    "text": "Well, I like my tea with a dash of milk,",
-    "speaker": null
+    "text": "Well, I like my tea with a dash of milk.",
+    "speaker": "aficionadoaficionado"
   },
   {
+    "order": 91,
     "start": 294.319,
     "end": 298.319,
     "text": "my gin with a dash of tonic, and my soup with a dash of salt.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 299.199,
     "end": 301.199,
     "text": "Then we had a fishanado.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 301.199,
     "end": 306.56,
     "text": "An fishanado is someone who's very interested or enthusiastic about a subject.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 306.56,
     "end": 308.399,
     "text": "What are you an fishanado of?",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 308.479,
     "end": 313.199,
     "text": "I'm working on becoming a bit of an accordion of fishanado, actually, Dan.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 313.199,
     "end": 314.079,
     "text": "Wow, cool!",
     "speaker": "Dan"
   },
   {
+    "order": 97,
     "start": 314.079,
     "end": 314.959,
     "text": "Yeah.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 314.959,
     "end": 317.039,
     "text": "After that, we had cheap as chips.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 317.039,
     "end": 320.639,
     "text": "If something is cheapest chips, then it's very cheap indeed.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 320.639,
     "end": 321.759,
-    "text": "Like my shoes.",
-    "speaker": null
+    "text": "Like my shoes!",
+    "speaker": "ethicalethical"
   },
   {
+    "order": 101,
     "start": 321.759,
     "end": 324.479,
     "text": "I bought them at a market for next to nothing.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 324.479,
     "end": 326.959,
     "text": "They were as cheap as chips.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 326.959,
     "end": 328.719,
     "text": "Then we had ethical.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 328.719,
     "end": 331.759,
     "text": "Something which is ethical is morally right.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 331.759,
     "end": 334.56,
     "text": "Do you consider yourself to be an ethical person, Catherine?",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 334.56,
     "end": 336,
     "text": "Well, I try, Dan.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 336,
     "end": 338.56,
     "text": "I don't always get it right, but I do attempt to be.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 338.56,
     "end": 340.319,
     "text": "After that, we heard roasted.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 340.319,
     "end": 343.839,
     "text": "Roasted means cooked in an oven, like our coffee beans.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 343.839,
     "end": 347.279,
-    "text": "And of course, our very famous English roast.",
-    "speaker": null
+    "text": "And of course our very famous English roast. ",
+    "speaker": "premium."
   },
   {
+    "order": 111,
     "start": 347.279,
     "end": 349.439,
     "text": "Finally, we had a premium.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 349.439,
     "end": 352.879,
     "text": "If you pay a premium, you pay more than usual,",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 352.879,
     "end": 355.92,
     "text": "usually for a better quality or service.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 355.92,
     "end": 357.36,
     "text": "Can you think of an example?",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 357.36,
     "end": 360.079,
-    "text": "If you’re going to the cinema, you might pay a premium to get more comfortable seats.",
-    "speaker": "Catherine"
+    "text": "If you're going to the cinema, you might pay a premium",
+    "speaker": null
   },
   {
+    "order": 116,
     "start": 360.079,
     "end": 361.839,
     "text": "to get more comfortable seats.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 361.839,
     "end": 364.24,
     "text": "And that's the end of this six-minute English.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 364.24,
     "end": 367.519,
     "text": "Don't forget to check out our YouTube, Facebook, Twitter,",
-    "speaker": null
+    "speaker": "Dan"
   },
   {
+    "order": 119,
     "start": 367.519,
     "end": 368.879,
     "text": "and Instagram pages.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 368.879,
     "end": 370.56,
     "text": "And we'll see you next time.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 370.56,
     "end": 371.519,
     "text": "Goodbye. Bye.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 371.519,
     "end": 379.279,
     "text": "Six-minute English from BBCLearningEnglish.com",

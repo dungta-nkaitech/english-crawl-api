@@ -1,755 +1,881 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 8.24,
     "text": "6-Mate English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.4,
     "text": "From BBC Learning English",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 11.2,
     "end": 13.04,
-    "text": "Hello and welcome to 6 Minute English,",
-    "speaker": null
+    "text": "Hello and welcome to 6 Minute English ",
+    "speaker": "Dan"
   },
   {
+    "order": 5,
     "start": 13.04,
     "end": 17.28,
     "text": "the program where we bring you an interesting topic and six items of vocabulary.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 17.28,
     "end": 19.519,
     "text": "I'm Dan and today we're talking about...",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 22.16,
     "end": 23.92,
     "text": "Sying. I'm Catherine.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 23.92,
     "end": 28.24,
-    "text": "Now – was that a real sigh – or just one to demonstrate the meaning?",
+    "text": "Now, was that a real sigh or just one to demonstrate the meaning?",
     "speaker": "Dan"
   },
   {
+    "order": 9,
     "start": 28.239,
     "end": 31.919,
     "text": "That one was just for educational purposes, of course, Dan.",
-    "speaker": "Catherine"
+    "speaker": null
   },
   {
+    "order": 10,
     "start": 31.919,
     "end": 36.479,
-    "text": "We’ll be looking at why we sigh, and learn how sighing keeps us alive!",
+    "text": "We’ll be looking at why we sigh, and learn how sighing keeps us alive",
     "speaker": "Dan"
   },
   {
+    "order": 11,
     "start": 36.479,
     "end": 40.96,
-    "text": "Yes, very interesting. And it’s not just humans that sigh, is it, Dan?",
-    "speaker": "Catherine"
+    "text": "Yes, very interesting. And it's not just humans that sigh, is it Dan?",
+    "speaker": null
   },
   {
+    "order": 12,
     "start": 40.96,
     "end": 45.119,
-    "text": "Indeed, most mammals sigh. And that brings me to today’s question. How many times does a mouse sigh in an hour, on average? Is it?",
+    "text": "Indeed, most mammals sigh. And that brings me to today’s question",
     "speaker": "Dan"
   },
   {
+    "order": 13,
     "start": 45.119,
     "end": 49.039,
     "text": "How many times does a mouse sigh in an hour on average?",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 49.039,
     "end": 53.439,
     "text": "Is it a twice, b 10 times or c 40 times?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 54.079,
     "end": 59.039,
     "text": "I'm going to say the poor little thing was sigh about 40 times an hour.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 59.039,
     "end": 63.119,
     "text": "Okay, let's find out if you'll write later on in the program.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 63.119,
     "end": 65.92,
     "text": "Now, what is a sigh exactly?",
-    "speaker": null
+    "speaker": "Catherine"
   },
   {
+    "order": 18,
     "start": 65.92,
     "end": 73.12,
     "text": "Let's hear from Dr. Lin Barker, a cognitive neuroscientist from Sheffield-Hallum University in the UK.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 73.68,
     "end": 79.28,
     "text": "It's a typically cardio respiratory kind of resetting mechanism",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 79.28,
     "end": 83.28,
     "text": "and most mammals will engage in sying of some kind.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 83.519,
     "end": 87.84,
     "text": "Because people who don't sigh will eventually die, but it is a survival mechanism.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 88.48,
     "end": 91.599,
     "text": "So, sying keeps us alive.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 91.599,
     "end": 94.4,
-    "text": "Dr. Barker called it a survival mechanism.",
-    "speaker": null
+    "text": " Dr Barker called it a survival mechanism.",
+    "speaker": "Catherine"
   },
   {
+    "order": 24,
     "start": 94.4,
     "end": 99.2,
     "text": "To survive means to continue living, especially in difficult circumstances.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 99.2,
     "end": 102.96,
     "text": "A mechanism here means a system of behaviour.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 102.96,
     "end": 110.24,
-    "text": "So, a survival mechanism is something the body does automatically in order to survive. But, Dan, why is sighing a survival mechanism?",
+    "text": "So, a survival mechanism is something the body does automatically in order to survive.",
     "speaker": "survival mechanismsurvival mechanism"
   },
   {
+    "order": 27,
     "start": 110.239,
     "end": 114.56,
     "text": "But, Dan, why is sying a survival mechanism?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 114.56,
     "end": 117.039,
     "text": "It's because sying can reset the lungs.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 117.039,
     "end": 120.56,
     "text": "To reset is to return something to its original settings.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 120.56,
     "end": 123.199,
     "text": "We often use this verb when talking about technology.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 123.199,
     "end": 125.359,
     "text": "You can reset a computer or a phone.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 125.359,
     "end": 129.28,
     "text": "Okay, that's fine, but how does a sigh reset the lungs?",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 129.28,
     "end": 133.919,
     "text": "Well, scientists from UCLA, that's the University of California, Los Angeles,",
-    "speaker": null
+    "speaker": "reset"
   },
   {
+    "order": 34,
     "start": 133.919,
     "end": 137.759,
     "text": "found that a sigh is a special kind of very deep breath",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 137.84,
     "end": 141.039,
     "text": "that keeps the tiny sacks of air in our lungs,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 141.039,
     "end": 143.359,
     "text": "called alveoli, working properly.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 143.359,
     "end": 148.399,
     "text": "And without sying, these alveoli would collapse and we would die.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 148.399,
     "end": 153.28,
-    "text": "And without sighing, these alveoli would collapse and we would die. We need the alveoli to transfer oxygen from our lungs to our blood.",
+    "text": "We need the alveoli to transfer oxygen from our lungs to our blood.",
     "speaker": "Catherine"
   },
   {
+    "order": 39,
     "start": 153.919,
     "end": 157.68,
-    "text": "Thankfully, we don’t have to think about this need to reset our lungs. Sighing is in fact a reflex.",
-    "speaker": "reset reflex"
+    "text": "Thankfully, we don't have to think about this need to reset our lungs.",
+    "speaker": null
   },
   {
+    "order": 40,
     "start": 157.68,
     "end": 160.239,
     "text": "Sying is in fact a reflex.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 160.239,
     "end": 160.719,
     "text": "Boo!",
     "speaker": "Catherine"
   },
   {
+    "order": 42,
     "start": 160.719,
     "end": 161.199,
     "text": "Ha!",
-    "speaker": null
+    "speaker": "Catherine"
   },
   {
+    "order": 43,
     "start": 161.679,
     "end": 162.799,
     "text": "Ha!",
-    "speaker": null
+    "speaker": "reflex"
   },
   {
+    "order": 44,
     "start": 162.799,
     "end": 163.679,
     "text": "Ha!",
-    "speaker": null
+    "speaker": "breathe a sigh of relief"
   },
   {
+    "order": 45,
     "start": 163.679,
     "end": 167.759,
     "text": "There you jumped and that was a fabulous reflex, Dan.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 167.759,
     "end": 170.479,
     "text": "It's something our bodies do without thinking.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 170.479,
     "end": 173.359,
     "text": "Something you do unconsciously or automatically.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 174.239,
     "end": 176.319,
     "text": "I meant, ah, like a man.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 176.319,
     "end": 177.759,
-    "text": "I meant… argh… like a man. Thank you for that, Catherine.",
-    "speaker": "Dan"
+    "text": "Thank you for that, Catherine.",
+    "speaker": null
   },
   {
+    "order": 50,
     "start": 177.759,
     "end": 178.479,
     "text": "You’re welcome.",
     "speaker": "Catherine"
   },
   {
+    "order": 51,
     "start": 178.479,
     "end": 179.199,
     "text": "Do you sigh a lot?",
-    "speaker": "Dan"
+    "speaker": null
   },
   {
+    "order": 52,
     "start": 181.28,
     "end": 184.959,
-    "text": "Well, I sigh when I’m tired, and I sigh when I’m relieved. I breathe a sigh of relief.",
-    "speaker": "breathe a sigh of relief"
+    "text": "Well, I sigh when I'm tired and I sigh when I'm relieved.",
+    "speaker": null
   },
   {
+    "order": 53,
     "start": 184.959,
     "end": 187.679,
     "text": "I breathe a sigh of relief.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 188.64,
     "end": 192,
     "text": "To breathe a sigh of relief, that's a great expression.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 192,
     "end": 195.52,
     "text": "It means what you think it means to sigh when you feel good",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 195.52,
     "end": 197.76,
     "text": "that something bad has not happened.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 197.76,
     "end": 199.84,
     "text": "But it's often used metaphorically.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 199.84,
     "end": 204.159,
     "text": "It relates more to the feeling of relief than the act of sying.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 204.159,
     "end": 204.96,
-    "text": "That's right.",
-    "speaker": null
+    "text": "That’s right.",
+    "speaker": "breathed a sigh of relief"
   },
   {
+    "order": 60,
     "start": 204.96,
     "end": 209.04,
     "text": "Now, I breathed a sigh of relief when I found my mobile phone the other day.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 209.04,
     "end": 210,
     "text": "I thought I'd lost it.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 210,
     "end": 210.64,
     "text": "It was new.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 210.64,
     "end": 212.96,
     "text": "I was so pleased when I found it.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 212.96,
     "end": 214.24,
     "text": "What about you, Dan?",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 214.24,
     "end": 216.56,
-    "text": "I tend to sigh to show frustration. And sometimes resignation.",
-    "speaker": "frustrationresignation"
+    "text": "I tend to sigh to show frustration",
+    "speaker": null
   },
   {
+    "order": 66,
     "start": 216.64,
     "end": 218.319,
     "text": "and sometimes resignation.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 218.319,
     "end": 222.24,
     "text": "No, frustration is what we feel when things aren't going well,",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 222.24,
     "end": 224.719,
     "text": "when things are annoying us and they don't work,",
-    "speaker": null
+    "speaker": "frustrationfrustrating"
   },
   {
+    "order": 69,
     "start": 224.719,
     "end": 226.879,
     "text": "when things are frustrating.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 226.879,
     "end": 229.84,
     "text": "And resignation is what we feel when we finally accept",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 229.84,
     "end": 233.439,
     "text": "that something bad has happened, that we can't change.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 233.439,
     "end": 235.599,
     "text": "We feel resigned to something.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 235.599,
     "end": 240.8,
-    "text": "So, relief, resignation, frustration, resetting our lungs. It sounds like we humans never stop sighing!",
+    "text": "So, relief, resignation, frustration, resetting our lungs.",
     "speaker": "Catherine"
   },
   {
+    "order": 74,
     "start": 240.8,
     "end": 243.599,
     "text": "It sounds like we humans never stop sying.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 243.68,
     "end": 248.239,
-    "text": "Well, actually, we humans sigh on average 12 times an hour. But what about… mice?",
-    "speaker": "Dan"
+    "text": "Well, actually, we humans sigh on average 12 times an hour.",
+    "speaker": null
   },
   {
+    "order": 76,
     "start": 248.239,
     "end": 250.479,
     "text": "But what about mice?",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 250.479,
     "end": 255.68,
-    "text": "Well, I said, I reckon they sigh about 40 times an hour.",
+    "text": "Well, I said, I reckon they sigh about 40 times an hour",
     "speaker": "Catherine"
   },
   {
+    "order": 78,
     "start": 255.68,
     "end": 258.56,
     "text": "Well, in fact, it is 40 times an hour.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 258.56,
     "end": 260.639,
     "text": "The hearts of mice beat faster,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 260.639,
     "end": 263.68,
     "text": "so they need to regulate their lungs more than humans.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 263.68,
     "end": 265.759,
     "text": "Let’s review today’s vocabulary.",
     "speaker": "Catherine"
   },
   {
+    "order": 82,
     "start": 266.319,
     "end": 268.879,
     "text": "We had the phrase survival mechanism,",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 268.879,
     "end": 271.92,
-    "text": "We had the phrase survival mechanism. Something we do without thinking that keeps us alive.",
-    "speaker": "survival mechanism"
-  },
-  {
-    "start": 271.92,
-    "end": 273.759,
-    "text": "We often use this phrase",
+    "text": "something we do without thinking that keeps us alive.",
     "speaker": null
   },
   {
+    "order": 84,
+    "start": 271.92,
+    "end": 273.759,
+    "text": "We often use this phrase",
+    "speaker": "Catherine"
+  },
+  {
+    "order": 85,
     "start": 273.759,
     "end": 276.8,
     "text": "and the related phrase defense mechanism",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 276.8,
     "end": 280.879,
-    "text": "We often use this phrase, and the related phrase defence mechanism, when talking about what people do to cope with difficulties in life.",
-    "speaker": "Catherine"
+    "text": "when talking about what people do to cope with difficulties in life.",
+    "speaker": null
   },
   {
+    "order": 87,
     "start": 280.879,
     "end": 282.8,
     "text": "Next, we had reset.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 282.8,
     "end": 286.64,
     "text": "You can reset a computer or a machine to make it work again.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 286.64,
     "end": 289.04,
     "text": "This usually means switching it off and on again.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 289.84,
     "end": 291.52,
-    "text": "And you can reset a password.",
-    "speaker": null
+    "text": "And you can reset a password ",
+    "speaker": "Catherine"
   },
   {
+    "order": 91,
     "start": 291.52,
     "end": 292.96,
     "text": "This is a little bit different.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 292.96,
     "end": 296.48,
     "text": "It means to set or choose a new password.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 296.48,
     "end": 298.48,
     "text": "We also had the word reflex.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 298.48,
     "end": 301.04,
     "text": "This is a physical action or reaction",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 301.04,
     "end": 302.56,
     "text": "that you can't control.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 302.56,
     "end": 303.76,
     "text": "For example, Catherine?",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 303.76,
     "end": 304.319,
     "text": "Yes, Dan.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 305.28,
     "end": 308.08,
-    "text": "There, you closed your eyes. Another reflex.",
-    "speaker": "reflex"
+    "text": " There, you closed your eyes. Another reflex",
+    "speaker": "Catherine"
   },
   {
+    "order": 99,
     "start": 308.08,
     "end": 310.72,
     "text": "And we had to breathe a sigh of relief,",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 310.72,
     "end": 314.96,
-    "text": "which means to feel better after something bad doesn't happen.",
-    "speaker": null
+    "text": " Which means to feel better after something bad doesn’t happen",
+    "speaker": "tobreathe a sigh to relief"
   },
   {
+    "order": 101,
     "start": 314.96,
     "end": 319.36,
     "text": "I breathe a sigh of relief when my friend recovered from her illness.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 319.36,
     "end": 321.84,
     "text": "But we sigh for other reasons too.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 321.84,
     "end": 326.32,
     "text": "Two useful sying words were frustration and resignation.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 326.32,
     "end": 330.16,
     "text": "Frustration is the state of being frustrated.",
-    "speaker": null
+    "speaker": "Frustrationfrustratedfrustratingfrustrating"
   },
   {
+    "order": 105,
     "start": 330.16,
     "end": 332.48,
     "text": "We can say something is frustrating.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 332.48,
     "end": 335.92,
     "text": "It's frustrating when the boss doesn't listen to me.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 335.92,
     "end": 338.8,
-    "text": "But let’s say you move beyond feeling frustrated and start feeling resigned.",
-    "speaker": "frustratedresigned"
+    "text": "But let's say you move beyond feeling frustrated",
+    "speaker": null
   },
   {
+    "order": 108,
     "start": 338.8,
     "end": 340.88,
     "text": "and start feeling resigned.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 340.88,
     "end": 341.6,
-    "text": "Yeah.",
-    "speaker": null
-  },
-  {
-    "start": 341.6,
-    "end": 345.76,
-    "text": "Yeah, and that would be when I finally accept the boss will never listen to me. And that’s when I’ll resign!",
+    "text": "Yeah,",
     "speaker": "resign"
   },
   {
+    "order": 110,
+    "start": 341.6,
+    "end": 345.76,
+    "text": "And that would be when I finally accept the boss will never listen to me.",
+    "speaker": null
+  },
+  {
+    "order": 111,
     "start": 345.76,
     "end": 347.92,
     "text": "And that's when I'll resign.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 347.92,
     "end": 351.36,
     "text": "To resign also means to voluntarily leave a job.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 351.36,
     "end": 353.6,
-    "text": "To resign also means to voluntarily leave a job! Please, Catherine, tell me that’s just another vocabulary example?!",
-    "speaker": "resign"
-  },
-  {
-    "start": 353.6,
-    "end": 355.84,
-    "text": "Of course it is, Dan. I love my job.",
+    "text": "Please, Catherine, tell me that's just another vocabulary example.",
     "speaker": null
   },
   {
+    "order": 114,
+    "start": 353.6,
+    "end": 355.84,
+    "text": "Of course it is, Dan. I love my job!",
+    "speaker": "Catherine"
+  },
+  {
+    "order": 115,
     "start": 355.84,
     "end": 356.32,
     "text": "You.",
-    "speaker": null
+    "speaker": "Catherine"
   },
   {
+    "order": 116,
     "start": 356.32,
     "end": 358,
     "text": "I only have a sigh about what?",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 358,
     "end": 359.2,
     "text": "12 times an hour?",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 359.199,
     "end": 360.719,
     "text": "Which is perfectly average.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 360.719,
     "end": 362.959,
     "text": "And that's it for today's six minute English.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 362.959,
     "end": 364.479,
     "text": "Please join us again soon.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 364.479,
     "end": 366.24,
     "text": "And we're on social media too.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 366.24,
     "end": 370.159,
-    "text": "And we are on social media too. Make sure to find us on Facebook, Twitter, Instagram and YouTube.",
-    "speaker": "Catherine"
+    "text": "Make sure to find us on Facebook, Twitter, Instagram and YouTube.",
+    "speaker": null
   },
   {
+    "order": 123,
     "start": 370.159,
     "end": 370.959,
     "text": "Bye bye.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 370.959,
     "end": 371.759,
-    "text": "Bye!",
-    "speaker": "Both"
+    "text": "Bye.",
+    "speaker": null
   },
   {
+    "order": 125,
     "start": 371.759,
     "end": 374.959,
     "text": "Six minute English from the BBC.",

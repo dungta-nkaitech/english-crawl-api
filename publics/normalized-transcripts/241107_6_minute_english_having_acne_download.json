@@ -1,395 +1,461 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 2.64,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 1,
     "start": 2.64,
     "end": 5.679,
     "text": "From BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 8.04,
     "end": 12.24,
-    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
-    "speaker": "Neil"
+    "text": "Hello, this is 6 Minute English from BBC Learning English. I'm Neil.",
+    "speaker": null
   },
   {
+    "order": 3,
     "start": 12.24,
     "end": 13.439,
     "text": "And I'm Beth.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.439,
     "end": 16.48,
     "text": "As a society, we're obsessed with our skin.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 16.48,
     "end": 22.32,
-    "text": "And I’m Beth. As a society, we’re obsessed with our skin. But the pursuit of perfect skin can make life difficult for people who struggle with skin conditions.",
-    "speaker": "Beth"
-  },
-  {
-    "start": 22.32,
-    "end": 25.6,
-    "text": "Spots, zits, or pimples.",
+    "text": "But the pursuit of perfect skin can make life difficult for people who struggle with skin conditions.",
     "speaker": null
   },
   {
+    "order": 6,
+    "start": 22.32,
+    "end": 25.6,
+    "text": "Spots, zits, or pimples.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 7,
     "start": 25.679,
     "end": 30.24,
     "text": "There are many names for the red inflamed marks which appear on the face and neck,",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 30.24,
     "end": 32.719,
     "text": "but the medical term is acne.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 32.719,
     "end": 36.16,
     "text": "Acne is a skin condition which can affect anyone.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 36.16,
     "end": 41.76,
     "text": "It often happens between the ages of 14 and 19, but can continue into adulthood.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 41.76,
     "end": 48,
     "text": "There are many types of acne from black heads and white heads to more severe forms of cysts and scarring.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 48.48,
     "end": 53.76,
     "text": "But whatever the type of acne looking different from others can be emotionally damaging,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 53.759,
     "end": 59.039,
     "text": "especially during the teenage years when our self-image and physical appearance are changing.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 59.679,
     "end": 66.159,
     "text": "In this programme, we'll be hearing from a skin doctor or dermatologist who suffered acne herself.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 66.159,
     "end": 69.84,
     "text": "And as usual, we'll be learning some useful new vocabulary too.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 69.84,
     "end": 71.92,
-    "text": "But first, I have a question for you, Beth.",
-    "speaker": null
+    "text": "But first I have a question for you, Beth. ",
+    "speaker": "Neil"
   },
   {
+    "order": 17,
     "start": 72.719,
     "end": 77.759,
     "text": "Mild or moderate acne is very common in teenagers and young adults.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 77.759,
     "end": 80.879,
     "text": "So, according to the UK's National Health Service,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 81.119,
     "end": 87.28,
     "text": "what proportion of people aged 11 to 30 experience some amount of acne?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 87.28,
     "end": 94.079,
     "text": "Is it A 75% B 85% or C 95%?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 94.079,
     "end": 99.039,
-    "text": "I'm going to guess that it is c) 95%.",
-    "speaker": "Beth"
+    "text": "Oh, I'm going to guess that it is C 95%.",
+    "speaker": null
   },
   {
+    "order": 22,
     "start": 99.039,
     "end": 104.159,
     "text": "Okay, Beth will find out if that's the correct answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 104.959,
     "end": 109.199,
     "text": "Dr Sharon Crichlo is a dermatologist originally from Barbados,",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 109.76,
     "end": 115.92,
     "text": "as someone who grew up with acne, she understands the impact it can have on a person's mental health.",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 25,
     "start": 115.92,
     "end": 120,
     "text": "As she explains here to BBC World Service programme, the conversation.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 121.2,
     "end": 127.28,
     "text": "Well, we know for sure that it does stand to a rise from puberty onwards, so the biggest cohort",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 127.28,
     "end": 134.719,
     "text": "of patients is in the teenage age group. However, a proportion of patients up to 20 or so",
-    "speaker": null
+    "speaker": "pubertyemotionally vulnerable,trivialised."
   },
   {
+    "order": 28,
     "start": 134.719,
     "end": 141.12,
     "text": "percent, certainly in females, it will persist well into the 30s, 40s, much longer than people",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 141.12,
     "end": 146.4,
     "text": "often give it credit for. And we also know that it has a huge psychological impact,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 146.4,
     "end": 153.12,
     "text": "so even mild to moderate acne because it affects teenagers who are quite emotionally vulnerable,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 153.12,
     "end": 159.599,
     "text": "it affects their friendships, their pair groups, and so it should never really be trivialised.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 160.56,
     "end": 166.879,
     "text": "Acne tends to start during puberty, the stage in people's lives when they develop from a child",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 166.879,
     "end": 172.879,
     "text": "into an adult because of changes in their body. Hormone, such as testosterone, which are",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 172.879,
     "end": 177.439,
     "text": "released into the body during puberty, often cause acne to appear.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 177.439,
     "end": 184.079,
     "text": "Of course, puberty involves emotional as well as physical changes. Acne can be harder to live with",
-    "speaker": null
+    "speaker": "emotionally vulnerabletrivialised,"
   },
   {
+    "order": 36,
     "start": 184.08,
     "end": 189.76,
     "text": "for someone who is emotionally vulnerable, meaning someone who gets their feelings hurt easily.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 190.4,
     "end": 196.4,
     "text": "Acne affects your confidence and how you interact with the world, so it shouldn't be trivialised,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 196.4,
     "end": 202.8,
     "text": "or made to seem less important than it really is. At times, most teenagers are self-conscious",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 202.8,
     "end": 208.96,
     "text": "about their looks, and having acne adds to social pressure. Acne is largely genetic,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 208.96,
     "end": 214.24,
     "text": "and the buildup of oil and bacteria in the pores of the skin, which causes spots,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 214.24,
     "end": 219.52,
     "text": "is due to hormones, which are completely natural. Here's Dr Sharon Crichlo again,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 219.52,
     "end": 224.8,
     "text": "telling BBC World Service Program, the conversation, how her own experience with acne",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 224.8,
     "end": 231.439,
     "text": "led her to help others with the same problem. I didn't have the luxury of being able to see a",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 44,
     "start": 231.439,
     "end": 235.92,
     "text": "dermatologist when I was younger. My family simply couldn't afford it, so I had to get through",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 236,
     "end": 240.239,
     "text": "as best I could, and you just tried everything over the counter, etc.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 242.639,
     "end": 249.039,
     "text": "I just felt if I could help people with something that has been such a pain of my life,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 249.759,
     "end": 254.56,
     "text": "and having that inside experience as well, so I would often tell my patients,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 254.56,
     "end": 259.36,
     "text": "pretty much anything I recommend to them, I've tried it myself, I can tell them it works.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 260.079,
     "end": 265.839,
     "text": "Growing up, Dr Crichlo didn't have anyone to help her get through acne. If you get",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 265.839,
     "end": 271.599,
     "text": "through something, you manage to survive a difficult experience or challenging period of life.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 272.239,
     "end": 277.119,
     "text": "Instead, she got whatever medicine she could buy without a doctor's prescription,",
-    "speaker": null
+    "speaker": "get throughget throughover the counter"
   },
   {
+    "order": 52,
     "start": 277.119,
     "end": 280.799,
     "text": "known as over the counter medicines from her local pharmacy.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 281.519,
     "end": 288.879,
     "text": "Dr Crichlo calls acne the bane of my life, an idiom meaning the cause of unhappiness or misfortune.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 289.519,
     "end": 295.359,
     "text": "But as she grew older and her acne improved, she used her experience to support her patients in the",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 295.36,
     "end": 302.08,
     "text": "UK. For most people, acne stops as they grow older, but remember it's completely natural and",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 302.08,
     "end": 308.8,
     "text": "you're not alone. Which reminds me of my question, Beth, what proportion of 11 to 30-year-olds get",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 308.8,
     "end": 317.439,
     "text": "acne to some extent? You said it was 95%, which was the correct answer. Okay, let's recap the vocabulary",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 317.439,
     "end": 323.759,
     "text": "we've learned starting with puberty, the stage of life when a person changes from a child to an adult.",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 59,
     "start": 324.24,
     "end": 329.68,
     "text": "Someone who is emotionally vulnerable has their feelings and emotions easily hurt.",
     "speaker": "emotionally vulnerable"
   },
   {
+    "order": 60,
     "start": 329.68,
     "end": 334.959,
     "text": "The verb to trivialize means to make something seem less important than it really is.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 334.959,
     "end": 340.8,
     "text": "If you get through it, you manage to survive a difficult experience or period of life.",
     "speaker": "get through it"
   },
   {
+    "order": 62,
     "start": 340.8,
     "end": 345.519,
-    "text": "Over the counter medicines can be bought in a shop without a doctor’s prescription.",
-    "speaker": "Over the counter"
-  },
-  {
-    "start": 345.519,
-    "end": 353.12,
-    "text": "And finally, the idiom the bane of my life refers to a source of persistent unhappiness or misfortune.",
+    "text": "Over the counter medicines can be bought in a shop without a doctor's prescription.",
     "speaker": null
   },
   {
+    "order": 63,
+    "start": 345.519,
+    "end": 353.12,
+    "text": "And finally, the idiom, the bane of my life refers to a source of persistent unhappiness or misfortune",
+    "speaker": "thebane of my life"
+  },
+  {
+    "order": 64,
     "start": 353.199,
     "end": 359.36,
     "text": "Once again, our six minutes are up. But remember to join us again next time for more trending topics",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 359.36,
     "end": 364.079,
     "text": "and useful vocabulary here at six minutes English. Goodbye for now. Bye.",

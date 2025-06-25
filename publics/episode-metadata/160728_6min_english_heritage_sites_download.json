@@ -7,12 +7,24 @@
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/160728_6min_english_heritage_sites.pdf",
   "vocabItems": [
     {
-      "word": "heritage",
-      "definition": "the things a society considers important to its history and culture, for example art, buildings, or natural sites"
+      "word": "heritageencroach on something",
+      "definition": "heritage the things a society considers important to its history and culture, for example art, buildings, or natural sitesencroach on something move beyond acceptable limits"
     },
     {
-      "word": "encroach on something",
-      "definition": "move beyond acceptable limits"
+      "word": "sustainable tourismdynamic",
+      "definition": "sustainable tourism tourism designed to have a low impact on the local culture and the environment, while generating employment for local peopledynamic active or capable of changing"
+    },
+    {
+      "word": "resilience",
+      "definition": "the ability to recover or adapt to change"
+    },
+    {
+      "word": "species diversity",
+      "definition": "the range of plants and animals"
+    },
+    {
+      "word": "visual aesthetic",
+      "definition": "the way something looks"
     }
   ],
   "quiz": null

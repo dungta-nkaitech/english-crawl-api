@@ -1,449 +1,524 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 8,
     "end": 13,
     "text": "Hello, this is 6 Minute English from BBCLearningEnglish. I'm Phil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 13,
     "end": 14,
-    "text": "And I’m Beth.",
-    "speaker": "Beth"
-  },
-  {
-    "start": 14,
-    "end": 21,
-    "text": "Today we’re going to be talking about an interesting approach to the problem of invasive species. When animals or plants are introduced to new areas, they can be dangerous for existing wildlife.",
+    "text": "And I'm Beth.",
     "speaker": "Phil"
   },
   {
+    "order": 3,
+    "start": 14,
+    "end": 21,
+    "text": "Today we’re going to be talking about an interesting approach to the problem of invasive species.",
+    "speaker": "Phil"
+  },
+  {
+    "order": 4,
     "start": 21,
     "end": 27,
     "text": "When animals or plants are introduced to new areas, they can be dangerous for existing wildlife.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 27,
     "end": 34,
-    "text": "Tell me about it! Every time I plant something in my garden, squirrels dig it up. I’m getting really fed up with them.",
-    "speaker": "Beth"
+    "text": "Tell me about it. Every time I plant something in my garden squirrels dig it up.",
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 34,
     "end": 36,
     "text": "I'm getting really fed up with them.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 36,
     "end": 38,
     "text": "Have you tried eating them?",
     "speaker": "Phil"
   },
   {
+    "order": 8,
     "start": 38,
     "end": 41,
-    "text": "Sorry, what? Eat the squirrels?",
-    "speaker": "Beth"
-  },
-  {
-    "start": 41,
-    "end": 47,
-    "text": "That's right. One of the simplest ways to deal with invasive species is just to eat them.",
+    "text": "Sorry, what eat the squirrels?",
     "speaker": null
   },
   {
+    "order": 9,
+    "start": 41,
+    "end": 47,
+    "text": "That’s right! One of the simplest ways to deal with invasive species is just to eat them.",
+    "speaker": "Phil"
+  },
+  {
+    "order": 10,
     "start": 47,
     "end": 52,
     "text": "In this program, we'll be hearing about initiatives in the UK and Belize",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 52,
     "end": 57,
     "text": "that are trying to get people to improve things using their stomachs.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 57,
     "end": 61,
     "text": "Okay, but before that, I've got a question for you Phil.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 61,
     "end": 67,
     "text": "Lionfish are aggressive predators which hunt over 50 different varieties of fish.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 67,
     "end": 71,
     "text": "To help them do this, their stomachs can expand.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 71,
     "end": 73,
     "text": "But by how much?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 73,
     "end": 77,
-    "text": "a)    10 times its original size",
+    "text": "Is it A, 10 times its original size?",
     "speaker": "Beth"
   },
   {
+    "order": 17,
     "start": 77,
     "end": 81,
-    "text": "b)    30 times or",
+    "text": "B, 30 times or C, 50 times?",
     "speaker": "Beth"
   },
   {
+    "order": 18,
     "start": 81,
     "end": 87,
     "text": "Well, those numbers all seem incredibly big. I mean, he can't be more than 10 times.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 87,
     "end": 88,
     "text": "Come here.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 88,
     "end": 92,
-    "text": "Well, I will reveal the answer later in the programme.",
-    "speaker": "Beth"
+    "text": "Well, I will reveal the answer later in the program.",
+    "speaker": "Phil"
   },
   {
+    "order": 21,
     "start": 92,
     "end": 96,
-    "text": "Before that, let's get back to your squirrel problem.",
-    "speaker": null
+    "text": "Before that, let’s get back to your squirrel problem!",
+    "speaker": "Phil"
   },
   {
+    "order": 22,
     "start": 96,
     "end": 100,
     "text": "There's a restaurant in London that offers squirrel cababs.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 100,
     "end": 104,
     "text": "They specialize in food made from invasive species.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 104,
     "end": 109,
     "text": "So if that's not your taste, you could try Japanese knotweed beer.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 109,
     "end": 114,
     "text": "This invasive plant has caused a lot of problems in the UK.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 114,
     "end": 118,
     "text": "But just why is it so damaging?",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 118,
     "end": 124,
     "text": "Host of BBC World Service Programme, People Fixing the World, Myra Anubi explains.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 124,
     "end": 132,
-    "text": "Japanese knotweed is an extremely invasive plant that arrived in Europe from Japan over a century ago.",
-    "speaker": null
+    "text": "Japanese knotweed is an extremely invasive plant that arrived in Europe from Japan over a century ago,",
+    "speaker": "resilientwithstandchoke out"
   },
   {
+    "order": 29,
     "start": 132,
     "end": 135,
     "text": "This superweed doesn't just grow fast.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 135,
     "end": 141,
     "text": "It has root systems that are so strong and resilient that they can withstand Morton Lava,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 141,
     "end": 146,
     "text": "choke out surrounding plants and cause a lot of damage to buildings.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 146,
     "end": 150,
     "text": "Myra tells us that Japanese knotweed is resilient.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 150,
     "end": 157,
-    "text": "Myra tells us that Japanese knotweed is resilient. If something or someone is resilient then it means that it or they can resist attempts to stop them.",
-    "speaker": "resilientresilient"
-  },
-  {
-    "start": 157,
-    "end": 161,
-    "text": "And another word for resist is withstand.",
+    "text": "If something or someone is resilient, then it means that it or they can resist attempts to stop them.",
     "speaker": null
   },
   {
+    "order": 34,
+    "start": 157,
+    "end": 161,
+    "text": "And another word for resist is withstand.",
+    "speaker": "withstandwithstand"
+  },
+  {
+    "order": 35,
     "start": 161,
     "end": 166,
     "text": "If you can withstand an attack or damage, then you don't let it affect you.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 166,
     "end": 172,
     "text": "We heard that Japanese knotweed's roots can withstand lava from a volcano.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 172,
     "end": 177,
     "text": "We also heard that Japanese knotweed can choke out other plants.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 177,
     "end": 183,
-    "text": "We also heard that Japanese knotweed can ‘choke out’ other plants. By this we mean that it takes the space and the resources such as light and water that they need to survive.",
-    "speaker": "choke out"
+    "text": "By this, we mean that it takes the space and the resources such as light and water that they need to survive.",
+    "speaker": null
   },
   {
+    "order": 39,
     "start": 183,
     "end": 189,
     "text": "A knotweed is not the only invasive species problem with a tasty solution.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 189,
     "end": 198,
-    "text": "In Belize, since 2008, Lionfish have had a massive impact on coral reefs and native wildlife.",
-    "speaker": null
+    "text": " In Belize, since 2008 lionfish have had a massive impact on coral reefs and native wildlife.",
+    "speaker": "Beth"
   },
   {
+    "order": 41,
     "start": 198,
     "end": 202,
     "text": "They can eat four times as much as native species.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 202,
     "end": 207,
     "text": "BBC World Service Programme People Fixing the World went to investigate.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 207,
     "end": 214,
     "text": "Here's Marisol Amaya talking to Salso Show from Marine Conservation NGO Blue Ventures",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 214,
     "end": 220,
     "text": "about attempts by the Belizean government to get people to eat Lionfish.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 220,
     "end": 223,
     "text": "With a big campaign slogan, eat the lion.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 223,
     "end": 233,
-    "text": "With a big campaign slogan ‘Eat the lion’, they got renowned chefs to prepare it in exotic ways to raise awareness that eating lionfish was both tasty and helping the environment.",
-    "speaker": "renowned"
-  },
-  {
-    "start": 233,
-    "end": 236,
-    "text": "We have developed awareness for the restaurants to purchase it.",
+    "text": "They got renowned chefs to prepare it in exotic ways to raise awareness that eating Lionfish was both tasty and helping the environment.",
     "speaker": null
   },
   {
+    "order": 47,
+    "start": 233,
+    "end": 236,
+    "text": "We have developed awareness for the restaurants to purchase it.",
+    "speaker": "outreachfisheries"
+  },
+  {
+    "order": 48,
     "start": 236,
     "end": 245,
     "text": "I think we had a lot of outreach trying to ensure fishers, the general public how to remove the spine.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 245,
     "end": 249,
     "text": "Then that allows them to actually eat the meat from the fish.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 249,
     "end": 255,
     "text": "We heard that the Belizean government asked renowned chefs to prepare Lionfish dishes.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 255,
     "end": 260,
     "text": "Renowned means to be well known for being very good at something.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 260,
     "end": 263,
     "text": "Salso Show talked about outreach work.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 263,
     "end": 269,
-    "text": "Celso Sho talked about outreach work. Outreach is where an organisation brings their work to people through events or publicity.",
+    "text": " Outreach is where an organisation brings their work to people through events or publicity",
     "speaker": "outreachOutreach"
   },
   {
+    "order": 54,
     "start": 269,
     "end": 277,
     "text": "Fisheries are either the businesses that breed and catch fish to sell or the places where that happens.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 277,
     "end": 283,
-    "text": "So in Belize, people are being shown attractive ways to eat Lionfish.",
-    "speaker": null
+    "text": "So, in Belize people are being shown attractive ways to eat lionfish.",
+    "speaker": "Beth"
   },
   {
+    "order": 56,
     "start": 283,
     "end": 290,
     "text": "And speaking of Lionfish and eating, I think it's time I revealed the answer to our quiz, Phil.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 290,
     "end": 295,
     "text": "I asked you by how much can a Lionfish expand its stomach to eat more?",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 295,
     "end": 298,
     "text": "And I thought it was ten times.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 298,
     "end": 306,
-    "text": "But you were wrong, unfortunately, a Lionfish can actually make its stomach 30 times bigger.",
-    "speaker": null
+    "text": "But you were wrong unfortunately, a lionfish can actually make its stomach 30 times bigger. ",
+    "speaker": "resilient"
   },
   {
+    "order": 60,
     "start": 306,
     "end": 311,
     "text": "That might help to explain why they are such a danger to native Belizean fish.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 311,
     "end": 315,
     "text": "Okay, now let's recap the vocabulary that we've looked at today.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 315,
     "end": 319,
     "text": "If something is resilient, then it's very hard to damage.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 319,
     "end": 325,
-    "text": "Yes, you could say that it can withstand a lot of damage – it can cope with it.",
-    "speaker": "withstand"
+    "text": "Yes, you could say that it can withstand a lot of damage. It can cope with it.",
+    "speaker": null
   },
   {
+    "order": 64,
     "start": 325,
     "end": 330,
     "text": "If one plant chokes out another, then it takes away the resources needed to live.",
     "speaker": "chokes out"
   },
   {
+    "order": 65,
     "start": 330,
     "end": 336,
     "text": "If you are renowned for something, then you're famous for what you do.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 336,
     "end": 340,
     "text": "Outreach is how organisations bring their work to people.",
     "speaker": "Outreach"
   },
   {
+    "order": 67,
     "start": 340,
     "end": 346,
     "text": "Fisheries are the companies that catch and sell fish or the places where they do it.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 346,
     "end": 349,
     "text": "That's all we've got time for today.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 349,
     "end": 355,
     "text": "Maybe you might want to see if there are any invasive species near you that you might want to eat.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 355,
     "end": 356,
     "text": "See you next time.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 356,
     "end": 357,
-    "text": "Bye!",
-    "speaker": "Beth"
+    "text": "Bye.",
+    "speaker": null
   },
   {
+    "order": 72,
     "start": 357,
     "end": 362,
     "text": "If you like six-minute English, why not try our news review podcast,",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 362,
     "end": 366,
     "text": "where you can learn English from that latest news headlines.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 366,
     "end": 372,
     "text": "Six-minute English from BBCLearningEnglish.com",

@@ -1,572 +1,667 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.56,
     "text": "From BBC Learning English",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.439,
     "end": 17.519,
-    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
-    "speaker": "Neil"
+    "text": "Hello, this is 6 Minute English from BBC Learning English. I'm Neil.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 17.519,
     "end": 18.48,
-    "text": "And I’m Sam.",
-    "speaker": "Sam"
+    "text": "And I'm Sam.",
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 18.48,
     "end": 20.48,
     "text": "Do you like cooking, Sam?",
-    "speaker": null
-  },
-  {
-    "start": 20.48,
-    "end": 24.719,
-    "text": "Do you like cooking, Sam? There’s a new recipe I’ve been trying out - it’s for ‘frosted oysters’.",
     "speaker": "Neil"
   },
   {
-    "start": 24.719,
-    "end": 26.719,
-    "text": "Frosted oysters.",
+    "order": 7,
+    "start": 20.48,
+    "end": 24.719,
+    "text": "There's a new recipe I've been trying out. It's for frosted oysters.",
     "speaker": null
   },
   {
-    "start": 26.959,
-    "end": 29.919,
-    "text": "Frosted oysters?! Sounds… unusual. How do you make it?",
-    "speaker": "Sam"
+    "order": 8,
+    "start": 24.719,
+    "end": 26.719,
+    "text": "Frosted oysters.",
+    "speaker": "Neil"
   },
   {
+    "order": 9,
+    "start": 26.959,
+    "end": 29.919,
+    "text": "Sounds unusual? How do you make it?",
+    "speaker": null
+  },
+  {
+    "order": 10,
     "start": 29.919,
     "end": 35.119,
     "text": "Well, you take a pound of chicken, then some cubed pork and half crushed garlic.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 35.119,
     "end": 38.719,
     "text": "A. I thought you said it was for frosted oysters.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 38.719,
     "end": 39.6,
     "text": "Whatever they are.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 39.6,
     "end": 40.64,
-    "text": "Yes, that's right.",
-    "speaker": null
+    "text": "Yes, that’s right.",
+    "speaker": "Neil"
   },
   {
+    "order": 14,
     "start": 40.64,
     "end": 43.759,
     "text": "Now heated up until boiling and serve with custard.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 43.759,
     "end": 45.599,
     "text": "Ah, sounds disgusting.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 45.599,
     "end": 47.519,
-    "text": "Ugh, that sounds disgusting! Who on earth told you that recipe?",
-    "speaker": "Sam"
-  },
-  {
-    "start": 47.519,
-    "end": 50.719,
-    "text": "It's not who told me, Sam, but what?",
+    "text": "Who on earth told you that recipe?",
     "speaker": null
   },
   {
+    "order": 17,
+    "start": 47.519,
+    "end": 50.719,
+    "text": "It's not who told me, Sam, but what?",
+    "speaker": "Neil"
+  },
+  {
+    "order": 18,
     "start": 50.719,
     "end": 56.159,
     "text": "In fact, that recipe was made by computers using artificial intelligence or AI,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 56.159,
     "end": 58.559,
     "text": "which is the topic of today's programme.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 58.559,
     "end": 65.039,
     "text": "In real life, AI is making huge progress from car satnavs to detecting cancer cells.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 65.039,
     "end": 70.239,
     "text": "But as you can see from that revolting recipe, things don't always go according to plan.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 70.239,
     "end": 74.4,
-    "text": "So, just how intelligent is artificial intelligence? I mean, it definitely needs some cooking lessons!",
-    "speaker": "Sam"
+    "text": "So just how intelligent is artificial intelligence?",
+    "speaker": null
   },
   {
+    "order": 23,
     "start": 74.4,
     "end": 77.599,
     "text": "I mean, it definitely needs some cooking lessons.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 77.599,
     "end": 81.439,
     "text": "Right. AI is not as intelligent as we tend to think.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 25,
     "start": 81.84,
     "end": 87.359,
     "text": "AI programmes use artificial brain cells to roughly imitate real brain cell activities,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 87.359,
     "end": 91.519,
     "text": "but they're still a long way behind human levels of intelligence.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 91.519,
     "end": 92.879,
     "text": "And that's my quiz question.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 93.439,
     "end": 98.959,
     "text": "In terms of brain cell count, what level of intelligence is AI currently working at?",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 99.519,
     "end": 105.039,
     "text": "Is AI as smart as A a frog, B an earthworm or C a bumblebee?",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 105.599,
     "end": 109.599,
     "text": "Well, I don't think any of those are good cooks either, to be honest,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 109.599,
     "end": 113.919,
     "text": "but I'll say C a bumblebee because at least they can make honey.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 113.919,
     "end": 116.319,
     "text": "Nice guess, Sam. We'll find out the answer later.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 33,
     "start": 116.319,
     "end": 122.239,
     "text": "But first, let's find out more about how AI misunderstandings, like the oyster recipe, can happen.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 122.959,
     "end": 126.719,
     "text": "Janelle Shane is the author of You Look Like A Thing and I Love You,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 126.719,
     "end": 131.28,
     "text": "in which she tells her amusing experiences and bizarre experiments with AI.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 132,
     "end": 134.4,
-    "text": "You look like a thing and I love you.",
-    "speaker": null
-  },
-  {
-    "start": 134.4,
-    "end": 137.12,
-    "text": "You Look Like a Thing and I Love You – that’s a strange title for a book, Neil.",
+    "text": "You Look Like a Thing and I Love You ",
     "speaker": "Sam"
   },
   {
+    "order": 37,
+    "start": 134.4,
+    "end": 137.12,
+    "text": "That's a strange title for a book, Neil.",
+    "speaker": null
+  },
+  {
+    "order": 38,
     "start": 137.2,
     "end": 140.56,
     "text": "Yes, it's another example of AI miscommunication.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 141.12,
     "end": 145.52,
     "text": "The book title is what AI produced when asked to write chat-up lines.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 145.52,
     "end": 149.759,
     "text": "Remarks, men and women make to start up a conversation with someone they don't know,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 149.759,
     "end": 151.28,
     "text": "but find attractive.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 151.28,
     "end": 155.04,
     "text": "Here she is talking to the BBC World Service Program more or less.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 155.68,
     "end": 162.4,
     "text": "So machine learning is what most programmers mean when they say AI.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 162.48,
     "end": 166.64,
     "text": "In the programs that we're used to, if you want to have a computer program,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 166.64,
     "end": 172.8,
     "text": "solve a problem, you have to have a human programmer write down exhaustive step-by-step",
-    "speaker": null
+    "speaker": "chat-up lines"
   },
   {
+    "order": 46,
     "start": 172.8,
     "end": 174.56,
     "text": "instructions on how to do everything.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 175.12,
     "end": 179.84,
     "text": "But with machine learning, you just give it the goal and then the program figures out",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 179.84,
     "end": 183.04,
     "text": "via trial and error how it's going to solve that problem.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 183.759,
     "end": 187.2,
-    "text": "So even though we're talking about machines learning for themselves,",
-    "speaker": null
+    "text": "So even though we’re talking about machines learning for themselves,",
+    "speaker": "computer programmers"
   },
   {
+    "order": 50,
     "start": 187.2,
     "end": 190.64,
     "text": "there still need to be humans involved at the start of the journey.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 191.279,
     "end": 195.439,
     "text": "This human teaching is done by computer programmers,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 195.439,
     "end": 200.239,
     "text": "people who write or code, the computer programs used by AI.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 200.239,
     "end": 202.879,
     "text": "Right, these programmers write algorithms,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 202.879,
     "end": 207.119,
     "text": "a set of rules or procedures to be followed in problem-solving exercises.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 207.599,
     "end": 213.679,
     "text": "So for example, the AI that wrote that oyster recipe read thousands of other recipes before",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 213.679,
     "end": 215.359,
     "text": "coming up with its own version.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 215.359,
     "end": 220.56,
     "text": "In other words, our official intelligence uses a process of trial and error.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 221.199,
     "end": 225.919,
     "text": "Repeating the same task over and over until finding the most successful way.",
-    "speaker": null
+    "speaker": "trial and error"
   },
   {
+    "order": 59,
     "start": 226.719,
     "end": 230.879,
     "text": "Only in the case of the oyster recipe, there was more error than trial.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 230.879,
     "end": 236.479,
-    "text": "Well, according to Janelle Shane, we can learn a lot about something by seeing how it goes wrong. Here she is, talking about an AI which had been told to solve maths problems:",
-    "speaker": "Neil"
+    "text": "Well, according to Janelle Shane, we can learn a lot about something by seeing how it goes wrong.",
+    "speaker": null
   },
   {
+    "order": 61,
     "start": 236.479,
     "end": 240.959,
     "text": "Here she is talking about an AI which have been told to solve maths problems.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 241.599,
     "end": 247.359,
     "text": "It seemed to be that it was getting scored on how many wrong answers that it got.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 247.36,
     "end": 250.4,
     "text": "And it was supposed to be minimizing the number of wrong answers.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 250.4,
     "end": 255.92,
-    "text": "And just by a stroke of luck, as part of its trial and error flailing around,",
-    "speaker": null
+    "text": ", and just by a stroke of luck as part of its trial and error flailing around",
+    "speaker": "minimisinga stroke of luck"
   },
   {
+    "order": 65,
     "start": 255.92,
     "end": 261.36,
     "text": "one of the flails it did accidentally deleted the solutions list.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 261.36,
     "end": 264.16,
     "text": "And then it and everybody else got a perfect score.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 264.879,
     "end": 270.4,
     "text": "So, AI is learned by minimizing their errors, reducing them as much as possible.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 270.96,
     "end": 276.72,
     "text": "And sometimes these algorithms only discover the right answer by a stroke of luck.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 277.36,
     "end": 281.199,
     "text": "When something unexpected happens by good luck or chance.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 281.199,
     "end": 284.56,
     "text": "It seems to me that they're not so intelligent after all.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 284.56,
     "end": 288.48,
-    "text": "Well, let's settle it once and for all by answering today's quiz question.",
-    "speaker": null
+    "text": "Well, let’s settle it once and for all by answering today’s quiz question.",
+    "speaker": "Neil"
   },
   {
+    "order": 72,
     "start": 288.48,
     "end": 293.199,
     "text": "Remember I asked you how intelligent AI was in terms of brain cell count.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 293.199,
     "end": 295.36,
     "text": "And you said as intelligent as...",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 295.36,
     "end": 297.6,
     "text": "I said see a bumblebee.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 297.6,
     "end": 299.759,
     "text": "Well, here’s Janelle again with the answer…",
     "speaker": "Neil"
   },
   {
+    "order": 76,
     "start": 300.4,
     "end": 303.52,
     "text": "If you're looking at rough computing power,",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 303.519,
     "end": 308.719,
-    "text": "If you’re looking at rough computing power, the algorithms we’re working with are probably somewhere around the level of an earthworm.",
-    "speaker": "Janelle Shane"
+    "text": "the algorithms we're working with are probably somewhere around the level of an earthworm?",
+    "speaker": null
   },
   {
+    "order": 78,
     "start": 308.719,
     "end": 313.359,
     "text": "Ah, so the correct answer was B as clever as an earthworm.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 313.359,
     "end": 315.439,
     "text": "No wonder AI's can't cook.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 80,
     "start": 315.439,
     "end": 317.519,
     "text": "Or take a maths test without cheating.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 318.079,
     "end": 321.68,
     "text": "In this program, we've been looking at artificial intelligence or AI.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 321.68,
     "end": 326.479,
     "text": "And seeing how programmers, that's people who write instructions for computers to follow,",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 326.479,
     "end": 330.079,
     "text": "create algorithms, sets of rules used in problem solving.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 330.639,
     "end": 333.199,
-    "text": "AI learns through trial and error,",
-    "speaker": null
+    "text": "AI learns through trial and error ",
+    "speaker": "trial and errorminimising"
   },
   {
+    "order": 85,
     "start": 333.199,
     "end": 338.159,
     "text": "repeating the same activity again and again until discovering the best way",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 338.159,
     "end": 344.56,
     "text": "and minimizing, so reducing as much as possible, the number of errors it makes.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 344.56,
     "end": 350.56,
     "text": "And success can be the result of a stroke of luck when something unexpected happens purely by chance.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 350.56,
     "end": 354.639,
     "text": "Although so far that hasn't helped AI's to write good chat-up lines.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 354.639,
     "end": 358.399,
     "text": "The flattering remarks people make to get to know someone they find attractive.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 358.959,
     "end": 362.079,
-    "text": "And AIs don’t know much about cooking oysters either!",
+    "text": "And AIs don’t know much about cooking oysters either! ",
     "speaker": "Sam"
   },
   {
+    "order": 91,
     "start": 362.079,
     "end": 363.839,
     "text": "That's all from us from this program.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 363.839,
     "end": 370,
     "text": "Be sure to join us again for more topical discussion and vocabulary on 6 Minute English for BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 370,
     "end": 370.799,
     "text": "Bye for now.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 370.799,
     "end": 371.599,
-    "text": "Bye.",
-    "speaker": "Sam"
+    "text": "Bye-bye.",
+    "speaker": null
   }
 ]

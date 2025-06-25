@@ -1,383 +1,447 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7,
     "text": "This is a download from BBC Learning English. To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7,
     "end": 14,
     "text": "6Nate English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 14,
     "end": 20,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 20,
     "end": 21,
-    "text": "And I’m Sam.",
-    "speaker": "Sam"
+    "text": "And I'm Sam.",
+    "speaker": null
   },
   {
+    "order": 4,
     "start": 21,
     "end": 28,
     "text": "Calettes, collie shoots and tender stems. Can you guess what they are Sam?",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 28,
     "end": 31,
-    "text": "Well, they sound like the names of pop groups to me!",
-    "speaker": "Sam"
+    "text": "Hmm, well they sound like the names of pop groups to me.",
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 31,
     "end": 38,
     "text": "Ah yes, well, good guess. But in fact, the truth is even stranger. Their varieties of vegetable",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 38,
     "end": 43,
     "text": "being grown in the UK by a new generation of fruit and veg growers.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 8,
     "start": 43,
     "end": 49,
     "text": "Forget traditional carrots, leeks and potatoes. Vegetables today are getting a modern makeover",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 49,
     "end": 56,
     "text": "thanks to breeding methods which mix two different plants to produce something completely new, known as a hybrid.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 56,
     "end": 62,
     "text": "The hybrid collette, for example, is a mix between kale and a Brussels sprout.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 62,
     "end": 68,
     "text": "Tender stems are a mix of traditional broccoli with the type of Chinese kale.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 68,
     "end": 74,
     "text": "And collie shoots are small green stems with mini-collar flower heads shooting out the side.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 74,
     "end": 79,
     "text": "These exciting new varieties, which look very different from traditional vegetables,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 14,
     "start": 79,
     "end": 85,
     "text": "are increasingly popular on farms, in shops and in restaurants across the UK.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 85,
     "end": 91,
     "text": "In this programme, we'll hear all about these new vegetables and the people who grow, cook and eat them.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 91,
     "end": 95,
     "text": "And as usual, we'll be learning some new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 95,
     "end": 99,
-    "text": "Sounds good Sam, but first I have a question for you.",
-    "speaker": null
-  },
-  {
-    "start": 99,
-    "end": 106,
-    "text": "Sounds good, Sam! But first I have a question for you. One of the first hybrids on sale in the UK was named, Cotton Candy, because of its sweet, caramel flavour. But is Cotton Candy:",
+    "text": "Sounds good, Sam! But first I have a question for you",
     "speaker": "Neil"
   },
   {
+    "order": 18,
+    "start": 99,
+    "end": 106,
+    "text": "One of the first hybrids on sale in the UK was named Cotton Candy, because of its sweet caramel flavour.",
+    "speaker": null
+  },
+  {
+    "order": 19,
     "start": 106,
     "end": 112,
     "text": "But is Cotton Candy a cherry, be a strawberry or see a grape?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 112,
     "end": 115,
     "text": "Well, if it's sweet, I guess it's a strawberry.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 115,
     "end": 119,
     "text": "Okay, well, we'll reveal the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 119,
     "end": 127,
     "text": "The collettes, which Sam mentioned earlier were introduced to the British market in 2010 under the name Flower Sprouts.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 127,
     "end": 134,
     "text": "They were advertised as a healthy vegetable that could be cooked or eaten raw and became extremely popular.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 24,
     "start": 134,
     "end": 141,
     "text": "The inventor of the collette is Jamie Clackston, one of the UK's top seed producers in head of plant breeding firm,",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 141,
     "end": 143,
     "text": "Toza Seeds.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 143,
     "end": 149,
     "text": "Here's Jamie chatting with Leyla Kazim, presenter of BBC Radio 4's, the Food programme.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 27,
     "start": 149,
     "end": 156,
     "text": "And so how did the idea of the Kayla even come about in the first place?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 156,
     "end": 160,
     "text": "We do quite a lot of blue sky breeding where we just try wacky stuff and see what happens.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 160,
     "end": 163,
     "text": "Were you looking at a sprout and a cow and going, I can do something inside of this?",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 163,
     "end": 170,
     "text": "A whole of the Brassica family, those are all Brassica Rollerati, Brussels sprouts, kails, cauliflower and just thinking how long it takes to get the food.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 170,
     "end": 175,
     "text": "Just thinking how obviously we knew they would cross-porn on it easily and produce unusual veg.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 175,
     "end": 181,
     "text": "And we were just kind of thinking we need to create something that's more modern, you know, Brussels sprouts and kails are very traditional.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 181,
     "end": 185,
     "text": "Through our few things into gathering and mixing potency, what comes out?",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 185,
     "end": 189,
     "text": "Jamie says collettes with a result of blue sky breeding.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 189,
     "end": 199,
     "text": "This phrase comes from another expression, blue sky thinking, which means using your imagination to try to come up with completely new and original ideas.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 199,
     "end": 205,
     "text": "Some of Jamie's plants were wacky and unusual in a funny or surprising way.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 205,
     "end": 209,
     "text": "But this was all part of the fun of breeding and growing new vegetables.",
-    "speaker": null
+    "speaker": "blue-sky thinking"
   },
   {
+    "order": 38,
     "start": 209,
     "end": 212,
     "text": "Jamie threw his ideas into the mixing pot.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 212,
     "end": 217,
     "text": "A place where different ideas mingle together to create something new.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 217,
     "end": 228,
     "text": "Hybrid vegetables add exciting new colours and tastes to traditional veg, such as the deep purple leaves of rainbow kale or the sweet nutty flavour of a collyshoot.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 229,
     "end": 240,
-    "text": "Hybrid vegetables add exciting new colours and tastes to traditional veg, such as the deep purple leaves of rainbow kale, or the sweet nutty flavour of a CauliShoot. As a result, they have become fashionable with many British chefs, including Jack Stein, son of TV chef, Rick, who runs a restaurant in the seaside town of Padstow in Cornwall.",
+    "text": "As a result, they have become fashionable with many British chefs, including Jack Stein, son of TV chef Rick, who runs a restaurant in the seaside town of Padstow in Cornwall.",
     "speaker": "Hybrid vegetables"
   },
   {
+    "order": 42,
     "start": 240,
     "end": 249,
     "text": "Here's presenter of BBC Radio 4's The Food Programme, Laila Kazim again, talking to Jack about what makes a great new vegetable.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 250,
     "end": 258,
     "text": "When you’re looking at new varieties of veg, are there any particular traits that you're looking for that will help in the kitchen?",
     "speaker": "Leyla Kazim"
   },
   {
+    "order": 44,
     "start": 258,
     "end": 264,
     "text": "I mean, obviously it's going to be down to taste really, and it's going to be down to what it looks like on the plates.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 264,
     "end": 267,
     "text": "The colour, the texture, the taste, all these things are really important.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 267,
     "end": 273,
     "text": "But I think novelty and things like the kaleettes were great. I mean, they were originally called flower sprouts.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 274,
     "end": 281,
-    "text": "Jack names two features of great hybrid veg. First, there’s the texture – the way something feels when you touch it…",
+    "text": "Jack names two features of great hybrid veg. First, there’s the texture – the way something feels when you touch it",
     "speaker": "texture"
   },
   {
+    "order": 48,
     "start": 281,
     "end": 292,
     "text": "And second, novelty, the fact that something is new and unusual. Added to the surprising way many new varieties look, and of course they're great taste.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 292,
     "end": 298,
     "text": "Modern vegetables have provided a welcome new addition to traditional British cooking.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 298,
     "end": 305,
-    "text": "And don’t forget the unusual names too, Sam, like the ‘Cotton Candy’ fruit I asked you about in my question.",
+    "text": "And don't forget the unusual names too, Sam, like the cotton candy fruit I asked you about in my question.",
     "speaker": "Neil"
   },
   {
+    "order": 51,
     "start": 305,
     "end": 310,
-    "text": "Yes, I guessed Cotton Candies were a new variety of strawberry. Was I right?",
-    "speaker": "Sam"
-  },
-  {
-    "start": 310,
-    "end": 321,
-    "text": "You were wrong, I'm afraid, Sam. In fact, cotton candy is a variety of grape, so called because they're very sweet and taste like you've been to the fairground.",
+    "text": "Yes, I guessed cotton candies were a new variety of strawberry, was I right?",
     "speaker": null
   },
   {
+    "order": 52,
+    "start": 310,
+    "end": 321,
+    "text": "You were wrong I’m afraid, Sam. In fact, Cotton Candy is a variety of grape, so called because they’re very sweet and taste like you’ve been to the fairground. ",
+    "speaker": "vegetable hybrids"
+  },
+  {
+    "order": 53,
     "start": 321,
     "end": 331,
     "text": "Okay, let's recap the vocabulary we've learned from this program about new vegetable hybrids, plants which have been grown by mixing two different plants together.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 331,
     "end": 337,
     "text": "Blue sky thinking involves using your imagination to try and think up original ideas.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 337,
     "end": 343,
     "text": "Something which is unusual in a funny or surprising way could be described as wacky.",
     "speaker": "wacky."
   },
   {
+    "order": 56,
     "start": 343,
     "end": 349,
     "text": "The mixing pot is a place where different ideas or ingredients get mixed to create something new.",
-    "speaker": "The mixing pot"
-  },
-  {
-    "start": 349,
-    "end": 353,
-    "text": "Texture means the way something feels when you touch it.",
-    "speaker": "Texture"
-  },
-  {
-    "start": 353,
-    "end": 358,
-    "text": "And finally, novelty is the quality of being new or unusual.",
     "speaker": null
   },
   {
+    "order": 57,
+    "start": 349,
+    "end": 353,
+    "text": "And texture means the way something feels when you touch it.",
+    "speaker": null
+  },
+  {
+    "order": 58,
+    "start": 353,
+    "end": 358,
+    "text": " And finally, novelty is the quality of being new or unusual",
+    "speaker": "Texture"
+  },
+  {
+    "order": 59,
     "start": 358,
     "end": 365,
     "text": "If you've enjoyed this program, why not take the taste test by cooking some hybrid vegetables yourself?",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 365,
     "end": 372,
-    "text": "And remember to join us again soon for more trending topics and useful vocabulary here at 6 Minute English. Goodbye for now!",
+    "text": "And remember to join us again soon for more trending topics and useful vocabulary here at 6 Minute English.",
     "speaker": "Neil"
   },
   {
+    "order": 61,
     "start": 372,
     "end": 373,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 373,
     "end": 374,
-    "text": "Bye bye!",
-    "speaker": "Sam"
+    "text": "Bye bye.",
+    "speaker": null
   },
   {
+    "order": 63,
     "start": 379,
     "end": 380,
     "text": "Bye.",

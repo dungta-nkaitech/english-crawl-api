@@ -5,6 +5,31 @@
   "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p09p2r3h.jpg",
   "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210802_6min_english_carbon_download.mp3",
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/210802_6min_english_carbon.pdf",
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "word": "carbon footprint",
+      "definition": "carbon footprint how much carbon is used through the activities of a person, company or country"
+    },
+    {
+      "word": "footprinting",
+      "definition": "(informal) measuring the carbon footprint of something"
+    },
+    {
+      "word": "caught on",
+      "definition": "become popular or fashionable"
+    },
+    {
+      "word": "informedchoices",
+      "definition": "informed choices decisions based on good and accurate information"
+    },
+    {
+      "word": "responsible",
+      "definition": "trusted or reliable"
+    },
+    {
+      "word": "from farm to fork",
+      "definition": "the processes involved from agricultural production to consumption"
+    }
+  ],
   "quiz": null
 }

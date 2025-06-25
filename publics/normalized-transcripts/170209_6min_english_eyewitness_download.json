@@ -1,632 +1,737 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 11.439,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 12.48,
     "end": 15.599,
     "text": "Hello and welcome to 6 Minute English. I'm Catherine…",
     "speaker": "Catherine"
   },
   {
+    "order": 4,
     "start": 15.599,
     "end": 16.48,
     "text": "And I'm Neil.",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 16.48,
     "end": 20.4,
     "text": "So, Neil, do you notice anything different about me today?",
     "speaker": "Catherine"
   },
   {
+    "order": 6,
     "start": 20.4,
     "end": 23.28,
     "text": "Have you done your hair differently?",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 7,
     "start": 23.28,
     "end": 24.16,
     "text": "No.",
     "speaker": "Catherine"
   },
   {
+    "order": 8,
     "start": 24.16,
     "end": 25.6,
     "text": "Is that a new outfit?",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 9,
     "start": 25.6,
     "end": 26.8,
     "text": "Honestly, Neil!",
     "speaker": "Catherine"
   },
   {
+    "order": 10,
     "start": 27.6,
     "end": 28.4,
     "text": "I give up.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 28.4,
     "end": 30.32,
-    "text": "I give up. I don't know what's different about you.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 30.32,
-    "end": 33.679,
-    "text": "OK, well, maybe by the end of the show, you'll have figured it out.",
+    "text": "I don't know what's different about you.",
     "speaker": null
   },
   {
+    "order": 12,
+    "start": 30.32,
+    "end": 33.679,
+    "text": "OK. Well, maybe by the end of the show you'll have figured it out. ",
+    "speaker": "Catherine"
+  },
+  {
+    "order": 13,
     "start": 33.679,
     "end": 35.84,
     "text": "Anyway, today we're discussing memory",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 35.84,
     "end": 38.88,
     "text": "and whether we can remember things accurately.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 38.88,
     "end": 41.84,
     "text": "So, are you ready to answer today's quiz question, Neil?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 41.84,
     "end": 42.48,
     "text": "I am.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 42.48,
-    "end": 45.28,
-    "text": "OK, so in which part of the brain",
     "speaker": null
   },
   {
-    "start": 45.28,
-    "end": 49.28,
-    "text": "OK. So in which part of the brain is there an area dedicated to remembering faces? Is it…",
+    "order": 17,
+    "start": 42.48,
+    "end": 45.28,
+    "text": "OK. So in which part of the brain",
     "speaker": "Catherine"
   },
   {
+    "order": 18,
+    "start": 45.28,
+    "end": 49.28,
+    "text": "is there an area dedicated to remembering faces?",
+    "speaker": null
+  },
+  {
+    "order": 19,
     "start": 49.28,
     "end": 54.719,
     "text": "Is it A, the temporal lobe, B, the hypothalamus,",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 54.719,
     "end": 57.28,
-    "text": "or c) the cerebellum?",
+    "text": "or C, the cerebellum?",
     "speaker": "Catherine"
   },
   {
+    "order": 21,
     "start": 57.28,
     "end": 59.679,
     "text": "Well, I have no idea.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 22,
+    "start": 59.679,
+    "end": 61.92,
+    "text": "But I'll say A, the temporal lobe.",
     "speaker": null
   },
   {
-    "start": 59.679,
-    "end": 61.92,
-    "text": "a) the temporal lobe?",
-    "speaker": "Catherine"
-  },
-  {
+    "order": 23,
     "start": 61.92,
     "end": 66.48,
     "text": "OK, and we'll find out whether you chose a correct answer later on in the show.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 66.48,
     "end": 71.039,
     "text": "But let's talk more about how our memories can play tricks on us.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 25,
     "start": 71.039,
     "end": 74.48,
     "text": "We tend to think of memory as being like a video recorder",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 74.48,
     "end": 80.079,
     "text": "that we can replay and recall again and again as it originally occurred.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 80.079,
     "end": 82.96,
     "text": "But memory doesn't work like that.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 82.959,
     "end": 85.199,
-    "text": "A reconstructive process?",
-    "speaker": "Neil"
+    "text": "It's a reconstructive process.",
+    "speaker": null
   },
   {
+    "order": 29,
     "start": 85.199,
     "end": 87.439,
     "text": "A reconstructive process?",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 87.439,
     "end": 91.119,
     "text": "Yes, we reconstruct or rebuild memories.",
-    "speaker": null
+    "speaker": "reconstructdistorted"
   },
   {
+    "order": 31,
     "start": 91.119,
     "end": 94.719,
     "text": "And during this process, they may be distorted",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 94.719,
     "end": 97.919,
     "text": "or changed for different reasons.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 97.919,
     "end": 99.839,
     "text": "Let's listen to Tim Valentine,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 99.839,
     "end": 103.039,
     "text": "retired professor of psychology at Goldsmith College",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 103.039,
     "end": 107.359,
     "text": "at the University of London talking about this.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 107.359,
     "end": 109.359,
-    "text": "From all those TV dramas you've watched,",
-    "speaker": null
+    "text": "From all those TV dramas you've watched ",
+    "speaker": "INSERT"
   },
   {
+    "order": 37,
     "start": 109.359,
     "end": 113.2,
     "text": "you'll be familiar with the forensic scenes of crime's officers",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 113.2,
     "end": 116.959,
     "text": "wearing their paper suits and covering their shoes and their hair",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 116.959,
     "end": 122.239,
     "text": "to make sure they don't introduce their DNA or physical traces onto the crime scene.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 122.239,
     "end": 127.2,
     "text": "So that, in the same way, anybody who has any interaction with a witness",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 127.2,
     "end": 132,
     "text": "needs to make sure that they don't distort their memory.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 132,
     "end": 135.599,
-    "text": "So crime officers wear protective clothing at crime scenes so they don't contaminate it with their DNA.",
-    "speaker": "Neil"
+    "text": "So crime officers wear protective clothing at crime scenes",
+    "speaker": null
   },
   {
+    "order": 43,
     "start": 135.599,
     "end": 138.479,
     "text": "so they don't contaminate it with their DNA?",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 138.479,
     "end": 143.679,
     "text": "That's right. A crime scene is a place where a crime was committed",
-    "speaker": null
+    "speaker": "crime scenecontaminated"
   },
   {
+    "order": 45,
     "start": 143.679,
     "end": 150.079,
     "text": "and contaminated means made impure through contact with an outside source.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 150.079,
     "end": 154.959,
     "text": "So for example, if an officer touches something without gloves on,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 154.959,
     "end": 157.679,
     "text": "they introduce new information.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 157.679,
     "end": 162.56,
     "text": "And once this has happened, you can't get back to the original information.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 162.56,
     "end": 167.28,
     "text": "Now, Tim Valentine says that when police officers talk to the witness of a crime,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 167.28,
     "end": 169.84,
     "text": "they might also introduce new information.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 169.84,
     "end": 173.439,
     "text": "And this could change the witness's memory of what happened.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 173.439,
     "end": 177.28,
     "text": "And it isn't only police questioning that can distort memory.",
-    "speaker": null
+    "speaker": "at knifepoint"
   },
   {
+    "order": 53,
     "start": 178,
     "end": 183.199,
     "text": "Other factors such as stress can affect your ability to recall events accurately.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 183.759,
     "end": 186.96,
     "text": "For example, if you're being held at knife point,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 186.96,
     "end": 191.759,
     "text": "you're likely to be concentrating on the weapon rather than on your attacker's face.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 192.4,
     "end": 196.96,
     "text": "And at knife point means under threat of being stabbed.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 197.04,
     "end": 200.64,
     "text": "So why do we place so much importance on eyewitness accounts?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 201.28,
-    "end": 204.64,
-    "text": "Eyewitness accounts can sound very convincing in court.",
     "speaker": null
   },
   {
+    "order": 58,
+    "start": 201.28,
+    "end": 204.64,
+    "text": "Eyewitness accounts can sound very convincing in court ",
+    "speaker": "Catherine"
+  },
+  {
+    "order": 59,
     "start": 204.64,
     "end": 208.08,
     "text": "But in fact, according to research, they're often unreliable.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 208.8,
     "end": 214.56,
     "text": "Karen Neweith, senior attorney at the Innocence Project in New York, explains this further.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 216.159,
     "end": 221.2,
     "text": "First, I think it's sort of natural for people to want to believe",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 221.2,
     "end": 223.2,
     "text": "that memory can be accurate.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 223.199,
     "end": 226.239,
     "text": "It's very disconcerting to think that we're going through life,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 226.239,
     "end": 231.759,
     "text": "relying on our memories, and then to learn how mistaken they can be and how frequently.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 232.319,
     "end": 240.639,
     "text": "Second is that the testimony of eyewitnesses has become a very expected piece of a criminal trial.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 240.639,
     "end": 244.399,
     "text": "So jurors sort of anticipate it, look for it, and tend to believe it.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 245.919,
     "end": 249.919,
-    "text": "So we like to trust in our ability to remember things accurately,",
-    "speaker": null
+    "text": "So we like to trust in our ability to remember things accurately.",
+    "speaker": "disconcerting"
   },
   {
+    "order": 68,
     "start": 249.919,
     "end": 254.239,
     "text": "and it's disconcerting to learn that memory is frequently inaccurate.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 254.239,
     "end": 255.839,
-    "text": "disconcerting",
-    "speaker": "Neil"
+    "text": "And disconcerting means...",
+    "speaker": null
   },
   {
+    "order": 70,
     "start": 255.839,
     "end": 258.24,
-    "text": "…it means 'confusing and a bit upsetting'.",
-    "speaker": "Catherine"
+    "text": "It means confusing and a bit upsetting.",
+    "speaker": null
   },
   {
+    "order": 71,
     "start": 258.8,
     "end": 265.12,
     "text": "Karen Neweith also says that people expect eyewitness testimony or spoken statements in court.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 265.12,
     "end": 266.639,
     "text": "Do you think that's true, Catherine?",
+    "speaker": "testimony"
+  },
+  {
+    "order": 73,
+    "start": 266.639,
+    "end": 272.24,
+    "text": "Yes, and it's the most commonly used evidence brought against criminal defendants in court,",
     "speaker": null
   },
   {
-    "start": 266.639,
-    "end": 272.24,
-    "text": "Yes – and it's the most commonly used evidence brought against criminal defendants in court, even though they are often inaccurate.",
-    "speaker": "Catherine"
-  },
-  {
+    "order": 74,
     "start": 272.24,
     "end": 274.879,
     "text": "even though they're often inaccurate.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 274.879,
     "end": 277.199,
     "text": "Are there any ways to improve accuracy?",
     "speaker": "Neil"
   },
   {
+    "order": 76,
     "start": 277.279,
     "end": 278.24,
     "text": "Yes, there are.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 278.24,
     "end": 283.519,
     "text": "For example, in a police line-up, you can prevent eyewitnesses receiving information",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 283.519,
     "end": 287.68,
     "text": "from the officer giving instructions, which might influence their response.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 287.68,
     "end": 288.8,
     "text": "Yes, I see.",
-    "speaker": null
-  },
-  {
-    "start": 288.8,
-    "end": 292.639,
-    "text": "Yes, I see. Well, you didn't give anything away when you asked what was different about your appearance at the beginning of the show.",
     "speaker": "Neil"
   },
   {
+    "order": 80,
+    "start": 288.8,
+    "end": 292.639,
+    "text": "Well, you didn't give anything away when you asked what was different about your appearance",
+    "speaker": null
+  },
+  {
+    "order": 81,
     "start": 292.639,
     "end": 293.599,
     "text": "at the beginning of the show.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 294.399,
     "end": 301.279,
-    "text": "Yes, that's true, Neil. But I can now reveal to you that... I'm wearing glasses, Neil. I've lost my contact lenses!",
-    "speaker": "Catherine"
+    "text": "Yes, that's true, Neil, but I can now reveal to you that I'm wearing glasses, Neil.",
+    "speaker": null
   },
   {
+    "order": 83,
     "start": 301.279,
     "end": 302.639,
     "text": "I've lost my contact lenses.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 303.919,
     "end": 306.719,
-    "text": "I don't know how I missed that. Because actually you do look, well, completely different with glasses.",
+    "text": "I don't know how I missed that. Because actually you do look",
     "speaker": "Neil"
   },
   {
+    "order": 85,
     "start": 307.439,
     "end": 309.279,
     "text": "well, completely different with glasses.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 310,
     "end": 311.199,
     "text": "Just a bit, yes.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 311.199,
     "end": 316.159,
     "text": "So now we're running out of time, so let's move on to the answer to today's quiz question.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 316.719,
     "end": 323.759,
     "text": "Remember, I asked, in which part of the brain is there an area dedicated to recognizing faces?",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 323.759,
     "end": 330.399,
     "text": "Is it A, the temporal lobe, B, the hypothalamus, or C, the cerebellum?",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 330.399,
     "end": 332.319,
-    "text": "a) the temporal lobe?",
-    "speaker": "Catherine"
-  },
-  {
-    "start": 332.319,
-    "end": 333.039,
-    "text": "Was I right?",
+    "text": "And I said A, the temporal lobe.",
     "speaker": null
   },
   {
-    "start": 333.039,
-    "end": 334.8,
-    "text": "You were indeed, Neil! Very well done, it was the correct answer!",
+    "order": 91,
+    "start": 332.319,
+    "end": 333.039,
+    "text": "Was I right?",
     "speaker": "Catherine"
   },
   {
-    "start": 334.8,
-    "end": 335.599,
-    "text": "Yes!",
-    "speaker": "Neil"
+    "order": 92,
+    "start": 333.039,
+    "end": 334.8,
+    "text": "You were indeed, Neil! Very well done",
+    "speaker": "Catherine"
   },
   {
+    "order": 93,
+    "start": 334.8,
+    "end": 335.599,
+    "text": "Yes.",
+    "speaker": null
+  },
+  {
+    "order": 94,
     "start": 335.68,
     "end": 336.56,
     "text": "Correct answer.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 336.56,
     "end": 343.68,
     "text": "The main part of the brain dedicated to recognizing faces called a fusing form face area",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 343.68,
     "end": 349.92,
-    "text": "The main part of the brain dedicated to recognising faces – called the Fusiform Face Area – is positioned in the temporal lobe, which can be found roughly in the area just behind your ears.",
+    "text": "is positioned in the temporal lobe, which can be found roughly in the area just behind your ears.",
     "speaker": "Catherine"
   },
   {
+    "order": 97,
     "start": 349.92,
     "end": 350.8,
     "text": "Fascinating.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 350.8,
     "end": 353.04,
-    "text": "Fascinating! Now, here are the words we learned today…",
-    "speaker": "Neil"
+    "text": "Now, here are the words we learned today.",
+    "speaker": null
   },
   {
+    "order": 99,
     "start": 353.04,
     "end": 360.8,
     "text": "Reconstruct, distorted, crime scene, contaminated, at knife point,",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 361.6,
     "end": 363.84,
-    "text": "disconcerting, testimony.",
-    "speaker": null
+    "text": "disconcerting testimony",
+    "speaker": "Neil"
   },
   {
+    "order": 101,
     "start": 364.4,
     "end": 367.68,
     "text": "And that brings us to the end of today's six-minute English.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 367.68,
     "end": 369.6,
     "text": "Don't forget to join us again soon.",
-    "speaker": null
+    "speaker": "Catherine"
   },
   {
+    "order": 103,
     "start": 369.6,
     "end": 370.079,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 370.079,
     "end": 370.56,
-    "text": "Bye!",
-    "speaker": "Both"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

@@ -1,509 +1,594 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.88,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 11.679,
     "end": 14.16,
-    "text": "Hello and welcome to 6 Minute English. I'm Neil…",
-    "speaker": "Neil"
+    "text": "Hello and welcome to 6 Minute English, I'm Neil.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 14.16,
     "end": 18.719,
-    "text": "And I'm Alice. So Neil, the subject of today's show is superheroes! Who's your favourite?",
-    "speaker": "Alice"
+    "text": "And I'm Alice. So Neil, the subject of today's show is superheroes.",
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 18.719,
     "end": 20.64,
     "text": "Who's your favourite? Spider-Man.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 20.64,
     "end": 24.719,
-    "text": "Spiderman. He's cool and funny – and he can spin webs and jump off skyscrapers!",
+    "text": "He's cool and funny and he can spin webs and jump off skyscrapers.",
     "speaker": "Neil"
   },
   {
+    "order": 8,
     "start": 24.719,
     "end": 27.359,
-    "text": "Well, my favourite superhero is Ms Marvel.",
-    "speaker": "Alice"
+    "text": "Well, my favourite superhero is Ms. Marvel.",
+    "speaker": null
   },
   {
+    "order": 9,
     "start": 28.32,
     "end": 32.32,
     "text": "I've never heard of her. And I'm a bit of an expert on comic book superheroes.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 32.32,
     "end": 36.719,
     "text": "Well, a growing number of people from ethnic backgrounds are getting bored of all these",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 11,
     "start": 36.719,
     "end": 39.84,
     "text": "white male superheroes they can't relate to.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 39.84,
     "end": 42.96,
     "text": "And their hungry for characters a little closer to home,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 42.96,
     "end": 45.2,
     "text": "or relevant to their own lives.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 45.2,
     "end": 47.359,
     "text": "So what's Ms. Marvel's superpower?",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 47.359,
     "end": 52.48,
     "text": "She's a shape shifter, which means she can change shape and become anything she wants.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 16,
     "start": 52.48,
     "end": 56.96,
     "text": "But she's also just Kamala Khan, an average teenager from New Jersey",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 56.96,
     "end": 59.28,
     "text": "who happens to be Asian and a Muslim.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 59.28,
     "end": 63.439,
-    "text": "It sounds good. But I think it must be time for today's quiz question, Alice!",
+    "text": "sounds good. But I think it must be time for today's quiz question, Alice!",
     "speaker": "Neil"
   },
   {
+    "order": 19,
     "start": 63.439,
     "end": 64.48,
     "text": "Okay, here it is.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 65.04,
     "end": 70.64,
-    "text": "OK, here it is. What is the name of the new character that replaces Tony Stark as Iron Man? Is it…",
-    "speaker": "Alice"
+    "text": "What is the name of the new character that replaces Tony Stark as Iron Man?",
+    "speaker": null
   },
   {
+    "order": 21,
     "start": 70.64,
     "end": 77.76,
     "text": "Is it A. Miles Morales, B. Reweigh Williams, or C. Jane Foster?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 77.76,
     "end": 81.28,
-    "text": "I'm going to say a) Miles Morales because he sounds like a man.",
-    "speaker": "Neil"
+    "text": "I'm going to say A. Miles Morales because he sounds like a man.",
+    "speaker": "Alice"
   },
   {
+    "order": 23,
     "start": 81.28,
     "end": 85.92,
     "text": "Hmm, well, we'll find out later on in the show whether you got the answer right or not.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 86.56,
     "end": 88.719,
     "text": "Now, I have another question.",
-    "speaker": null
+    "speaker": "contaminated"
   },
   {
+    "order": 25,
     "start": 88.719,
     "end": 92.24,
     "text": "What are the rules for achieving superhero status?",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 92.24,
     "end": 94.24,
     "text": "Superman is an alien.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 94.24,
     "end": 100.48,
     "text": "Ms. Marvel has alien genes, and Spider-Man and the Hulk are both contaminated or poisoned",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 100.48,
     "end": 103.599,
     "text": "by radioactive substances that change their DNA.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 103.599,
     "end": 105.599,
     "text": "What about Batman and Iron Man?",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 105.599,
     "end": 110.719,
-    "text": "What about Batman and Iron Man? They're just ordinary guys with a lot of money who use technology to create superpowers for themselves.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 110.719,
-    "end": 111.84,
-    "text": "Good point.",
+    "text": "They're just ordinary guys with a lot of money who use technology to create superpowers for themselves.",
     "speaker": null
   },
   {
+    "order": 31,
+    "start": 110.719,
+    "end": 111.84,
+    "text": "Good point.",
+    "speaker": "hard-and-fast"
+  },
+  {
+    "order": 32,
     "start": 111.92,
     "end": 116,
     "text": "There don't seem to be any hard and fast or clear rules,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 116,
     "end": 122,
     "text": "but these special powers, whether it's being able to fly or change shape or spin webs,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 122,
     "end": 125.12,
     "text": "they allow the characters to do good in the world.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 125.12,
     "end": 127.92,
     "text": "And that's a big theme across all comic books.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 127.92,
     "end": 130.96,
     "text": "That's true, but times have changed in comic books these days,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 130.96,
     "end": 134.96,
     "text": "often blur the line between right and wrong, making things unclear.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 134.96,
     "end": 140,
     "text": "Superheroes don't always do the right thing and struggle with everyday problems like you and me.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 140,
     "end": 144.08,
     "text": "Let's hear more about imperfect superheroes from Jason Dippmer,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 144.08,
     "end": 147.439,
-    "text": "Let's hear more about imperfect superheroes from Jason Ditmer, professor of political geography at University College London.",
+    "text": "Professor of Political Geography at University College London.",
     "speaker": "Alice"
   },
   {
+    "order": 41,
     "start": 148.639,
     "end": 153.759,
     "text": "They imbued these characters with real human problems.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 153.759,
     "end": 157.92,
     "text": "So Peter Parker had just sort of one problem after another.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 157.92,
     "end": 161.599,
     "text": "The Fantastic Four was a family, and they bickered and fought,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 162.639,
     "end": 167.92,
     "text": "reading, so we're a couple, and then they got married, and that had like never happened in",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 167.919,
     "end": 171.359,
     "text": "superhero comics, so these people had lives that others could relate to.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 172.239,
     "end": 177.759,
     "text": "So publishers like Marvel Comics imbued or filled their characters with human problems.",
-    "speaker": null
-  },
-  {
-    "start": 177.759,
-    "end": 182.319,
-    "text": "So publishers – like Marvel Comics – imbued – or filled – their characters with human problems. I can't imagine a character like Captain America worrying about small things – or bickering with his wife!",
     "speaker": "imbued"
   },
   {
+    "order": 47,
+    "start": 177.759,
+    "end": 182.319,
+    "text": "I can't imagine a character like Captain America worrying about small things or bickering with his",
+    "speaker": null
+  },
+  {
+    "order": 48,
     "start": 182.319,
     "end": 186.56,
     "text": "wife. And bickering means arguing about things that aren't important.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 187.199,
     "end": 190.319,
     "text": "Well, like you said earlier, times change, Neil.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 190.319,
     "end": 195.359,
     "text": "These days, the publishing houses want to attract a more diverse or varied readership.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 195.44,
     "end": 200.08,
     "text": "Teenagers, women, ethnic minorities who want superheroes they can relate to,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 200.08,
     "end": 203.92,
     "text": "facing issues from racial discrimination to bickering at home.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 203.92,
     "end": 208.8,
-    "text": "I know that women are indeed interested in superheroes because they've been appearing in movies and on TV, but the world of comic books has always been a bit of a guy thing.",
+    "text": "I know that women are indeed interested in superheroes because they've been appearing in movies",
     "speaker": "Neil"
   },
   {
+    "order": 54,
     "start": 208.8,
     "end": 213.28,
     "text": "and on TV, but the world of comic books has always been a bit of a guy thing.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 213.28,
     "end": 218.08,
     "text": "Well, it isn't. Women read them and in some places women work in them.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 218.08,
     "end": 224.32,
     "text": "In Japan, for example, we have the manga. These are Japanese comic books for adults and children.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 224.319,
     "end": 228.56,
     "text": "And guess what? There is a strong tradition of female illustrators there.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 228.56,
     "end": 229.28,
     "text": "Really?",
     "speaker": "Neil"
   },
   {
+    "order": 59,
     "start": 229.28,
     "end": 235.519,
     "text": "Yes. Let's move on now and listen to Dr. Kasey Brienza, sociologist at City University in London,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 235.519,
     "end": 236.639,
     "text": "talking about manga.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 237.519,
     "end": 244.079,
     "text": "One of the really interesting things about producing comics in Japan is that it's one of the few",
-    "speaker": null
+    "speaker": "Dr Casey Brienza, Sociologist at City University in London"
   },
   {
+    "order": 62,
     "start": 244.079,
     "end": 253.84,
     "text": "kind of autonomous careers that women can have. And so Japan has many, many female comic book artists",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 253.84,
     "end": 260.319,
     "text": "who write both for men, women, boys and girls. And in the United States and in Britain,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 261.04,
     "end": 265.439,
     "text": "female comic book artists are far and away a minority.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 266.56,
     "end": 271.92,
     "text": "Dr. Kasey Brienza there. So she says female comic book artists are common in Japan,",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 271.92,
     "end": 274.48,
     "text": "but are a minority in the US and the UK.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 275.28,
     "end": 280,
-    "text": "It's particularly interesting that being an artist is an autonomous career,",
-    "speaker": null
-  },
-  {
-    "start": 280,
-    "end": 284.56,
-    "text": "It's particularly interesting that being an artist is an autonomous career – meaning you have the freedom to make your own decisions - and apparently this is not common for women in Japan.",
+    "text": "It's particularly interesting that being an artist is an autonomous career ",
     "speaker": "autonomous"
   },
   {
+    "order": 68,
+    "start": 280,
+    "end": 284.56,
+    "text": "meaning you have the freedom to make your own decisions. And apparently this is not common for",
+    "speaker": null
+  },
+  {
+    "order": 69,
     "start": 284.56,
     "end": 285.68,
     "text": "women in Japan.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 285.68,
     "end": 289.12,
     "text": "And do you know who draws Miss Marvel? Is it a woman?",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 289.12,
     "end": 294.639,
     "text": "No. Miss Marvel is drawn by a man, the Canadian comic book artist Adrian Alphona.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 295.279,
     "end": 299.759,
     "text": "But we're running out of time, so let's go to today's quiz question. I asked you,",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 300.319,
     "end": 307.279,
     "text": "what's the name of the new character that replaces Tony Stark as Iron Man? Is it A, Miles Morales,",
-    "speaker": null
-  },
-  {
-    "start": 308,
-    "end": 311.759,
-    "text": "Or c) Jane Foster?",
     "speaker": "Alice"
   },
   {
+    "order": 74,
+    "start": 308,
+    "end": 311.759,
+    "text": "B, Revy Williams or C, Jane Foster?",
+    "speaker": null
+  },
+  {
+    "order": 75,
     "start": 311.759,
     "end": 313.679,
     "text": "And I said Miles Morales.",
-    "speaker": "Neil"
+    "speaker": "Alice"
   },
   {
+    "order": 76,
     "start": 313.679,
     "end": 321.599,
     "text": "And you were wrong, Neil. I'm sorry. The answer is Revy Williams. Marvel Comics has recently",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 321.599,
     "end": 327.279,
     "text": "diversified its characters to look more like the world we know today, including the addition of female",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 78,
     "start": 327.279,
     "end": 333.919,
     "text": "African American college student Revy Williams as Iron Man. Marvel has also given Thor's hammer to a",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 333.92,
     "end": 340.08,
     "text": "woman, introduced a black Hispanic Spider-Man called Miles Morales and created Kamala Khan,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 340.08,
     "end": 343.439,
     "text": "a Muslim superhero otherwise known as Miss Marvel.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 343.439,
     "end": 347.28,
-    "text": "Very interesting. Now, let's remind ourselves of the words we learned today:",
-    "speaker": "Neil"
+    "text": "Very interesting. Now, let's remind ourselves of the words we learned today.",
+    "speaker": null
   },
   {
+    "order": 82,
     "start": 348.08,
     "end": 355.52,
     "text": "Close it to home. Shape shifter. Contaminated. Hard and fast. Blur.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 356.479,
     "end": 363.839,
     "text": "Inbued. Bicker. Diverse. Manga. Autonomous.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 364.479,
     "end": 369.68,
     "text": "And that's the end of today's Six Minute English. Don't forget to join us again soon. Bye bye.",

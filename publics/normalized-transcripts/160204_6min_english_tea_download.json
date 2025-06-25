@@ -1,800 +1,933 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6Mute English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.12,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.24,
     "end": 15.439,
     "text": "Hello and welcome to 6Mute English. I'm Alice.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 15.439,
     "end": 16.64,
     "text": "And I'm Neil.",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 6,
     "start": 16.64,
     "end": 18.8,
     "text": "Uh, Alice, what's this?",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 18.8,
     "end": 21.359,
     "text": "It's a cup of tea, Neil. Would you like some?",
     "speaker": "Alice"
   },
   {
+    "order": 8,
     "start": 21.359,
     "end": 22.559,
     "text": "Oh, I can't drink that.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 22.559,
     "end": 24.8,
     "text": "You didn't let the tea brew for long enough.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 24.8,
     "end": 26.56,
     "text": "Oh. And you forgot to add sugar?",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 26.56,
     "end": 28.48,
-    "text": "Well, make it yourself next time.",
-    "speaker": null
+    "text": "Well, make it yourself next time!",
+    "speaker": "brew"
   },
   {
+    "order": 12,
     "start": 28.8,
     "end": 32.32,
     "text": "And when you brew a cup of tea, by the way,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 32.32,
     "end": 35.2,
     "text": "you add boiling water to tea leaves or a tea bag",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 35.2,
     "end": 36.799,
     "text": "and allow the flavour to develop.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 36.799,
     "end": 39.52,
-    "text": "I'm sorry, Alice. I didn’t mean to be rude about your tea. But I do like it very strong and sweet.",
-    "speaker": "Neil"
+    "text": "I'm sorry, Alice. I didn't mean to be rude about your tea.",
+    "speaker": null
   },
   {
+    "order": 16,
     "start": 39.52,
     "end": 41.52,
     "text": "But I do like it very strong and sweet.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 41.52,
     "end": 44.24,
     "text": "Tea is the subject of today's show.",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 18,
     "start": 44.24,
     "end": 47.519,
     "text": "And Neil, I think you'd like the way they serve tea in India.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 48.079,
     "end": 50.96,
     "text": "They drink tea, a strong black tea,",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 50.96,
     "end": 53.28,
     "text": "served with lots of milk, sugar and spices.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 53.28,
     "end": 54.88,
     "text": "Mmm, that does sound good.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 54.88,
     "end": 56.64,
     "text": "I quite fancy a cup of tea now.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 56.719,
     "end": 59.28,
     "text": "Hmm, did you know that it was the British",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 59.28,
     "end": 61.12,
     "text": "who introduced tea to India?",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 25,
     "start": 61.12,
     "end": 62.24,
     "text": "No, I didn't, Alice.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 62.24,
     "end": 63.679,
     "text": "This is very interesting.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 63.679,
     "end": 66.239,
     "text": "I'm proud of our habit of having tea all the time.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 66.239,
     "end": 68.96,
     "text": "And tea bags are great, marvel, that's little invention.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 68.96,
     "end": 70.48,
     "text": "Yes, I agree.",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 30,
     "start": 70.48,
     "end": 72.719,
     "text": "Well, that's my question for you today.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 73.359,
     "end": 75.68,
     "text": "Where was the tea bag invented?",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 75.68,
     "end": 81.76,
     "text": "Was it in a, China, B, the US, or C, Britain?",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 81.76,
     "end": 85.599,
     "text": "Hmm, I buy a lot of tea bags, but I don't know their history.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 85.599,
     "end": 88.64,
     "text": "So I'm going to guess C, Britain.",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 35,
     "start": 88.64,
     "end": 92,
     "text": "Well, we'll find out if you chose the right answer later on.",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 36,
     "start": 92.559,
     "end": 95.28,
     "text": "Let's listen now to Professor Markham Ellis",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 95.28,
     "end": 97.839,
     "text": "talking about the Chinese tea plant.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 97.839,
     "end": 100.56,
     "text": "He's a historian at Queen Mary University of London.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 101.679,
     "end": 105.519,
-    "text": "Tea is a shrub that grows naturally in the mountainous areas of China.",
-    "speaker": null
+    "text": "Tea is a shrub that grows naturally in the mountainous areas of China ",
+    "speaker": "INSERT"
   },
   {
+    "order": 40,
     "start": 105.519,
     "end": 110.879,
     "text": "And several thousand years ago, no one knows how, exactly, I mean, there are stories,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 111.519,
     "end": 115.039,
     "text": "came to be clear that if you consume the leaves of this plant,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 115.039,
     "end": 118.239,
     "text": "especially the younger leaves, then it had an interesting effect on you.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 118.239,
     "end": 121.28,
     "text": "And that effect could be thought of as medicinal,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 121.28,
     "end": 124.159,
     "text": "or it could be thought of as just kind of sanative,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 124.159,
     "end": 126.159,
     "text": "making you feel a bit better than you used to feel.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 127.12,
     "end": 130.4,
     "text": "Professor Markham Ellis tells us that people in ancient China",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 130.4,
     "end": 133.599,
     "text": "consumed or ate leaves from the tea plant,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 133.599,
     "end": 135.759,
     "text": "and it had an interesting effect on them.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 135.759,
     "end": 139.12,
-    "text": "Professor Ellis says tea has a sanative effect,",
-    "speaker": null
+    "text": "Professor Ellis says tea has a sanative effect ",
+    "speaker": "sanative"
   },
   {
+    "order": 50,
     "start": 139.12,
     "end": 140.4,
     "text": "making you feel better.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 140.48,
     "end": 142.96,
     "text": "So I might try munching a few leaves later on.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 142.96,
     "end": 144.08,
     "text": "All right, then.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 144.08,
     "end": 146.8,
     "text": "Apparently, the Chinese started drinking tea",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 146.8,
     "end": 149.92,
     "text": "because of its medicinal or healing qualities.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 149.92,
     "end": 152.64,
     "text": "And they've been drinking tea for thousands of years.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 153.2,
     "end": 155.36,
     "text": "Well, we British may love a good cup of tea,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 155.36,
     "end": 158.48,
     "text": "but we haven't been brewing it for nearly so long as the Chinese.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 158.48,
     "end": 162,
-    "text": "But remember that tea actually grows in China, Alice. We don't grow it in Britain.",
+    "text": "But remember that tea actually grows in China, Alice.",
     "speaker": "Neil"
   },
   {
+    "order": 59,
     "start": 162,
     "end": 163.2,
     "text": "We don't grow it in Britain.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 163.2,
     "end": 167.759,
     "text": "Good point, Neil, which brings me back to what we were talking about earlier.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 167.759,
     "end": 171.28,
     "text": "In the 19th century, the British started to grow tea in India",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 171.28,
     "end": 173.679,
     "text": "in order to compete with Chinese tea production.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 174.319,
     "end": 177.12,
     "text": "When tea first arrived in Britain in the 17th century,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 177.12,
     "end": 179.199,
     "text": "it was incredibly expensive,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 179.199,
     "end": 181.679,
     "text": "and only the elite could afford to drink it.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 181.679,
     "end": 184.239,
     "text": "Elite means a small group of people in society",
-    "speaker": null
+    "speaker": "Elite"
   },
   {
+    "order": 67,
     "start": 184.239,
     "end": 186.159,
     "text": "who have money and power.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 186.159,
     "end": 187.759,
     "text": "Well, the opposite is true today.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 187.759,
     "end": 188.879,
     "text": "Everyone drinks tea,",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 188.879,
     "end": 191.68,
     "text": "and cheap tea bags make really strong tea,",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 191.68,
     "end": 192.719,
     "text": "just the way I like it.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 192.719,
     "end": 194.799,
     "text": "Oh, it's not for me.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 194.799,
     "end": 197.439,
     "text": "I like tea with a delicate flavour.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 197.439,
     "end": 201.199,
     "text": "Lapsang Sushong is my favourite with its evocative fragrance.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 201.199,
     "end": 202.639,
     "text": "Not tea bags, then.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 202.639,
     "end": 203.919,
     "text": "No, Neil.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 77,
     "start": 203.919,
     "end": 206.159,
     "text": "Lapsang is different from other types of tea,",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 206.159,
     "end": 209.84,
     "text": "because the leaves are smoke-dried over pinewood fires,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 209.84,
     "end": 212.879,
     "text": "giving the tea its distinctive smoky flavour.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 212.879,
     "end": 215.28,
     "text": "Sounds like a TV advert, Alice.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 215.28,
     "end": 218.24,
     "text": "I can just see the misty mountains and the fields of tea.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 219.84,
     "end": 221.599,
     "text": "Can you tell us what evocative means?",
-    "speaker": null
+    "speaker": "evocative"
   },
   {
+    "order": 83,
     "start": 221.599,
     "end": 225.039,
     "text": "It means making you imagine something pleasant.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 225.12,
     "end": 229.199,
     "text": "And for some people, drinking tea is a spiritual experience.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 229.199,
     "end": 231.84,
     "text": "Let's listen to BBC reporter Mike Williams",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 231.84,
     "end": 234.719,
     "text": "learning about the Asian custom of the tea ceremony.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 238.56,
     "end": 240.959,
     "text": "Please enjoy, Marathon Green Tea.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 240.959,
     "end": 241.439,
     "text": "Thank you.",
-    "speaker": null
+    "speaker": "CH:"
   },
   {
+    "order": 89,
     "start": 244.879,
     "end": 246.399,
     "text": "That was less than a mouthful.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 246.399,
     "end": 247.919,
     "text": "It's very, very small amount, isn't it?",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 247.919,
     "end": 249.359,
     "text": "It's about 20 mil.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 249.359,
     "end": 252.159,
     "text": "It's a way to appreciate tea in very small quantities,",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 252.159,
     "end": 255.199,
     "text": "so you can concentrate and cultivate your mindfulness",
-    "speaker": null
+    "speaker": "CH:"
   },
   {
+    "order": 94,
     "start": 255.199,
     "end": 256.319,
     "text": "in drinking the tea.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 257.759,
     "end": 258.399,
-    "text": "mindfulness",
-    "speaker": "Alice"
+    "text": "Mindfulness.",
+    "speaker": "CH:"
   },
   {
+    "order": 96,
     "start": 260,
     "end": 261.6,
-    "text": "MW: Mindfulness? What do you mean by mindfulness?",
-    "speaker": "MW:"
+    "text": "What do you mean by mindfulness?",
+    "speaker": null
   },
   {
+    "order": 97,
     "start": 261.6,
     "end": 264.959,
     "text": "Tea ceremony has some of its origin in Buddhism.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 264.959,
     "end": 267.12,
     "text": "The Japanese tea ceremony, for example,",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 267.12,
     "end": 269.68,
     "text": "has a lot of Zen Buddhism influence.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 269.68,
     "end": 274.399,
     "text": "Mindfulness is the concentration and focus on the now.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 274.399,
     "end": 277.04,
     "text": "Forget about the past, forget about the future,",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 277.04,
     "end": 279.519,
     "text": "and enjoy this specific moment.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 279.519,
     "end": 281.04,
     "text": "And that's what I call mindfulness.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 282.88,
     "end": 285.36,
     "text": "So they don't use mugs in the tea ceremony.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 285.36,
     "end": 288.88,
     "text": "It's 20 milliliters or a mouthful of green tea.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 288.88,
     "end": 290,
     "text": "That's right.",
-    "speaker": null
+    "speaker": "mouthfulmindfulness"
   },
   {
+    "order": 107,
     "start": 290,
     "end": 292.88,
     "text": "Drinking just a mouthful or small amount",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 292.88,
     "end": 296.24,
     "text": "helps you concentrate and cultivate mindfulness.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 296.24,
     "end": 300,
     "text": "As the speaker explains, mindfulness means living in the moment",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 300,
     "end": 302.64,
     "text": "and forgetting about the past and future.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 302.64,
     "end": 305.12,
     "text": "Well, forgive me for thinking about the past",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 305.12,
     "end": 307.44,
     "text": "and how about the answer to today's quiz question.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 307.44,
     "end": 308.48,
     "text": "Okay, then.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 308.48,
     "end": 312,
     "text": "I asked where was the tea bag invented?",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 312,
     "end": 318.24,
     "text": "Was it in a China, B, the US, or C, Britain?",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 318.24,
     "end": 320.8,
-    "text": "And I said c) Britain. And I must be right.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 321.36,
-    "end": 325.839,
-    "text": "Well, I'm afraid you're wrong, Neil.",
-    "speaker": null
-  },
-  {
-    "start": 325.839,
-    "end": 328.079,
-    "text": "b) the US",
+    "text": "And I said C, Britain, and I must be right.",
     "speaker": "Alice"
   },
   {
+    "order": 117,
+    "start": 321.36,
+    "end": 325.839,
+    "text": "Well, I'm afraid you're wrong, Neil!",
+    "speaker": "Alice"
+  },
+  {
+    "order": 118,
+    "start": 325.839,
+    "end": 328.079,
+    "text": "It was B, the US.",
+    "speaker": null
+  },
+  {
+    "order": 119,
     "start": 328.72,
     "end": 330.959,
     "text": "Tea bags first appeared commercially",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 330.959,
     "end": 333.6,
     "text": "in the first decade of the 20th century",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 333.6,
     "end": 336.319,
     "text": "and were successfully marketed by Thomas Sullivan,",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 336.319,
     "end": 338.16,
     "text": "a tea merchant from New York,",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 338.16,
     "end": 340.319,
     "text": "who shipped his tea bags around the world.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 340.399,
     "end": 343.439,
     "text": "Really, tea bags are older than I thought.",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 343.439,
     "end": 346.639,
-    "text": "Really? Teabags are older than I thought! Now, can you tell us the words we heard today?",
-    "speaker": "Neil"
+    "text": "Now, can you tell us the words we heard today?",
+    "speaker": null
   },
   {
+    "order": 126,
     "start": 346.639,
     "end": 356.8,
     "text": "They are brew, consumed, sanative, medicinal, elite,",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 356.8,
     "end": 362.879,
     "text": "evocative, mouthful, mindfulness.",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 362.879,
     "end": 364.959,
     "text": "Well, that's the end of today's six-minute English.",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 364.959,
     "end": 367.36,
     "text": "You can go and put the kettle on now for a nice brew.",
-    "speaker": null
+    "speaker": "Alice"
   },
   {
+    "order": 130,
     "start": 367.36,
     "end": 368.719,
     "text": "Please join us again soon.",
     "speaker": null
   },
   {
+    "order": 131,
     "start": 368.719,
     "end": 369.6,
     "text": "Good bye.",
     "speaker": null
   },
   {
+    "order": 132,
     "start": 369.6,
     "end": 370.24,
-    "text": "Bye.",
-    "speaker": "Both"
+    "text": "Bye-bye.",
+    "speaker": null
   }
 ]

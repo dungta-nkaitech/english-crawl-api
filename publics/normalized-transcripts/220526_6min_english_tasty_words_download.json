@@ -1,506 +1,590 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 11.12,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 13.2,
     "end": 17.039,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 17.039,
     "end": 19.839,
     "text": "And I'm Sam. Many people have favourites.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 19.839,
     "end": 23.44,
     "text": "My favourite colour, my favourite flavour, my favourite word.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 23.44,
     "end": 24.4,
     "text": "What's yours, Neil?",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 24.4,
     "end": 27.28,
-    "text": "Hmm, my favourite colour is green.",
-    "speaker": null
+    "text": "Hmm, my favourite colour is green,",
+    "speaker": "nincompoop"
   },
   {
+    "order": 8,
     "start": 27.28,
     "end": 29.6,
     "text": "My favourite flavour is sweet and sour.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 29.6,
     "end": 34.8,
     "text": "And, well, I don't know if it's my favourite, but there is a word I really like saying out loud.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 35.439,
     "end": 38.079,
     "text": "Ninkam poop. It means a silly person.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 39.28,
     "end": 45.12,
-    "text": "For me, it’s the taste of coffee, and the smell of lavender, or freshly baked bread.",
-    "speaker": "Sam"
-  },
-  {
-    "start": 46.4,
-    "end": 51.2,
-    "text": "Our favourite tastes, smells and colours are controlled by our five senses.",
+    "text": "For me, it's the taste of coffee and the smell of lavender or freshly baked bread.",
     "speaker": null
   },
   {
+    "order": 12,
+    "start": 46.4,
+    "end": 51.2,
+    "text": "Our favourite tastes, smells and colours are controlled by our five senses ",
+    "speaker": "Neil"
+  },
+  {
+    "order": 13,
     "start": 51.2,
     "end": 53.76,
     "text": "Sight, sound, smell, taste and touch.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 54.159,
     "end": 60.799,
     "text": "For most of us, they don't mix. We see colours and taste flavours, but we can't taste sounds.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 60.799,
     "end": 63.359,
     "text": "But that's not how everyone's brain works.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 63.359,
     "end": 67.28,
     "text": "Imagine being able to taste every word that you hear.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 67.28,
     "end": 71.2,
     "text": "In this programme, we'll meet two sisters from Glasgow in Scotland",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 71.2,
     "end": 76.159,
     "text": "who can do just that. And as usual, we'll learn some new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 76.159,
     "end": 80.479,
     "text": "Julie McDowell and her younger sister, Jen McCready, have synesthesia,",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 80.48,
     "end": 84.8,
     "text": "a neurological condition where two or more senses mix together.",
-    "speaker": null
+    "speaker": "synaesthesia"
   },
   {
+    "order": 21,
     "start": 84.8,
     "end": 91.6,
     "text": "When synestheats, as they are called, hear a word, their sense of taste also becomes activated.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 91.6,
     "end": 94.56,
     "text": "Words produce specific tastes on their tongues.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 94.56,
     "end": 100.56,
     "text": "For example, when Jen hears the name of her daughter, Sophia, she tastes pink marshmallows.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 100.56,
     "end": 102.88,
     "text": "And the name Leo tastes like noodles.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 102.88,
     "end": 109.92,
     "text": "Well, hear more from the unusual sisters later, but first I have a question for you, Neil.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 110,
     "end": 115.519,
     "text": "We've just heard what happens when Jen McCready hears the names Sophia and Leo.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 115.519,
     "end": 118.719,
     "text": "But what does she taste when she hears the name?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 118.719,
     "end": 126.64,
     "text": "Neil. Is it A, eggs and bacon, B, spaghetti hoops, or C, a jam sandwich?",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 126.64,
     "end": 132.8,
-    "text": "Well, I don’t know what this says about me, Sam, but I’m going to guess that it’s c) a jam sandwich.",
-    "speaker": "Neil"
+    "text": "Well, I don't know what this says about me, Sam, but I'm going to guess that it's C, a jam sandwich.",
+    "speaker": "Sam"
   },
   {
+    "order": 30,
     "start": 132.8,
     "end": 136.08,
     "text": "Okay, don't worry, Neil. I'll reveal the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 137.04,
     "end": 142,
     "text": "Synesthesia isn't only about people like Julie and Jen who taste words.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 142,
     "end": 149.2,
     "text": "It can be a mixing of any of our senses, a synesthet may hear colours or see sounds.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 149.2,
     "end": 154.88,
     "text": "In fact, there could be as many as 150 different types of synesthesia.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 154.88,
     "end": 160.48,
     "text": "For the Scottish sisters having synesthesia is a gift, something Jen explained when she talked with",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 160.48,
     "end": 163.36,
     "text": "BBC World Service programme, the Food Chain.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 36,
     "start": 164.08,
     "end": 169.84,
     "text": "It's enjoyable. It's never anything that causes the only thing I always say is it's quite hard",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 169.84,
     "end": 174.64,
     "text": "for you to try and eat healthily because if you hear a word that maybe tastes like tuna,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 174.64,
     "end": 176.88,
     "text": "I'll be like, oh, I need to get a tuna baguette now.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 176.88,
     "end": 179.44,
     "text": "You know it's almost like being pregnant and having a craving.",
-    "speaker": null
+    "speaker": "cravingvivid"
   },
   {
+    "order": 40,
     "start": 179.44,
     "end": 183.84,
     "text": "Words can be so vivid that you just want to eat that. That's the only negative I would say about it.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 185.2,
     "end": 190.24,
     "text": "For Jen, the only drawback to synesthesia is that it can be hard to eat healthily,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 190.32,
     "end": 197.2,
-    "text": "For Jen, the only drawback to synaesthesia is that it can be hard to eat healthily because hearing certain words produces a craving – a strong feeling of wanting a particular food.",
-    "speaker": "craving"
+    "text": "because hearing certain words produces a craving, a strong feeling of wanting a particular food.",
+    "speaker": null
   },
   {
+    "order": 43,
     "start": 197.2,
     "end": 202.24,
-    "text": "That could be because, for Jen, the sound of the word is so vivid – clear, detailed, and powerful in her mind.",
+    "text": "That could be because, for Jen, the sound of the word is so vivid – clear",
     "speaker": "vivid"
   },
   {
+    "order": 44,
     "start": 202.24,
     "end": 204.48,
     "text": "detailed and powerful in her mind.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 204.48,
     "end": 210,
     "text": "There's still much doctors don't know about why some people experience sense mixing,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 210,
     "end": 213.6,
     "text": "while most of us experience each sense in isolation.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 213.6,
     "end": 219.2,
     "text": "But it's clear that for Julie and Jen, synesthesia makes the world a more interesting,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 219.199,
     "end": 220.479,
     "text": "colorful place.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 220.479,
     "end": 225.439,
     "text": "Someone who can explain why so little is known about synesthesia is Guy Letchzina,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 225.439,
     "end": 231.599,
     "text": "consultant neurologist at King's College London, an author of the book The Man Who Tasted Words.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 231.599,
     "end": 235.199,
     "text": "Here he is speaking to BBC World Services, The Food Chain.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 52,
     "start": 236.799,
     "end": 242.399,
     "text": "One of the problems with synesthesia is for many years it's been dismissed and it's been viewed as",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 242.399,
     "end": 246,
     "text": "people with an overactive imagination, something not real.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 246,
     "end": 251.439,
     "text": "But actually what research in recent years has taught us is that it does have an underlying",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 251.439,
     "end": 253.599,
     "text": "neurological and genetic basis.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 255.12,
     "end": 259.36,
     "text": "Guy says that in the past synesthesia was often dismissed,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 259.36,
     "end": 261.92,
-    "text": "When something is dismissed, it’s considered unimportant or uninteresting.",
-    "speaker": "dismissed"
+    "text": "considered unimportant or uninteresting.",
+    "speaker": "dismissed overactive imaginations"
   },
   {
+    "order": 58,
     "start": 262.48,
     "end": 266.639,
     "text": "Synesthetes were labelled people with overactive imaginations,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 266.639,
     "end": 269.6,
     "text": "a tendency to imagine things that are not true.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 269.6,
     "end": 274,
     "text": "But research is showing that the cause of synesthesia could run in the family.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 274.639,
     "end": 279.439,
     "text": "Julie and Jen's brothers don't have synesthesia, but Jen's daughter does.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 279.439,
     "end": 284.959,
     "text": "And with an estimated 4% of the world population having some form of sense mixing,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 284.959,
     "end": 289.279,
     "text": "a world of new and exciting possibilities is opening up to millions.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 289.279,
     "end": 292.959,
-    "text": "Exciting possibilities like tasting someone's name.",
-    "speaker": null
+    "text": "Exciting possibilities like tasting someone’s name…",
+    "speaker": "Sam"
   },
   {
+    "order": 65,
     "start": 292.959,
     "end": 300.16,
     "text": "Remember in my question I asked what synesthetes Jen McCready tastes when she hears the name Neil.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 300.88,
     "end": 304.56,
     "text": "Okay well I guess that Neil tastes like a jam sandwich.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 304.56,
     "end": 305.52,
     "text": "Was I right?",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 305.52,
     "end": 308.48,
     "text": "Well Neil no, you don't taste like a jam sandwich.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 69,
     "start": 309.04,
     "end": 313.76,
     "text": "In fact when Jen hears the name Neil she tastes spaghetti hoops.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 314.48,
     "end": 319.12,
     "text": "Oh well it could be worse, the name Robert makes Jen taste rotten eggs.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 319.68,
     "end": 321.2,
     "text": "Sorry to any Robert's listening.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 322,
     "end": 326.879,
     "text": "Okay let's recap the vocabulary we've learned in this program about synesthesia,",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 326.879,
     "end": 331.199,
     "text": "a neurological condition where two or more senses mix together.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 331.199,
     "end": 335.92,
     "text": "A ninkam poop is an informal way of saying a silly person.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 335.92,
     "end": 339.04,
-    "text": "A craving for something is the strong desire to have it.",
-    "speaker": "craving"
+    "text": " A craving for something is the strong desire to have it",
+    "speaker": "nincompoop"
   },
   {
+    "order": 76,
     "start": 339.68,
     "end": 344.399,
     "text": "A vivid sensation is clear, strong and detailed in your mind.",
     "speaker": "vivid"
   },
   {
+    "order": 77,
     "start": 344.399,
     "end": 348.24,
     "text": "When something is dismissed it's considered unimportant or uninteresting.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 348.719,
     "end": 354.8,
-    "text": "And finally an overactive imagination is the tendency to imagine things that are not true.",
-    "speaker": null
+    "text": "And finally, an overactive imagination is the tendency to imagine things that are not true",
+    "speaker": "overactive imagination"
   },
   {
+    "order": 79,
     "start": 355.52,
     "end": 357.92,
     "text": "Once again our six minutes are up.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 357.92,
     "end": 362.24,
     "text": "If you've enjoyed this look into the weird and wonderful world of synesthesia",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 362.24,
     "end": 367.12,
     "text": "we hope you'll join us again next time for more chat, interesting issues and useful",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 367.12,
     "end": 370.72,
     "text": "vocabulary here at Six Minute English. Bye for now.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 370.72,
     "end": 371.199,
-    "text": "Goodbye!",
-    "speaker": "Neil"
+    "text": "Goodbye.",
+    "speaker": null
   }
 ]

@@ -1,473 +1,552 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7.6,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7.6,
     "end": 12.08,
     "text": "Hello, this is 6-minute English from BBCLearningEnglish. I'm Neil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.08,
     "end": 13.599,
-    "text": "And I’m Beth.",
-    "speaker": "Beth"
+    "text": "And I'm Beth.",
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 13.599,
     "end": 17.92,
     "text": "In China, they're crescent-shaped and filled with pork and cabbage.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 17.92,
     "end": 22.4,
     "text": "In Nepal, they're called momoes and are fried with buffalo meat.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 22.4,
     "end": 27.679,
     "text": "In Ireland, they're soaked in Guinness gravy and Italians fill them with spinach",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 6,
     "start": 27.679,
     "end": 29.76,
     "text": "and call them nyokki.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 29.76,
     "end": 33.6,
     "text": "They can be steamed or fried and are found all over the world.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 33.6,
     "end": 36.4,
     "text": "I'm talking, of course, about dumplings.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 37.12,
     "end": 43.359,
     "text": "Dumplings are a group of dishes where a filling is wrapped inside pieces of cooked dough.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 43.359,
     "end": 46.719,
     "text": "They're basically dough envelopes with a filling inside.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 47.28,
     "end": 52.799,
     "text": "Fillings can be anything from meat and fish to vegetables, tofu or cheese.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 52.799,
     "end": 58.96,
     "text": "And the dough is usually based on a starchy grain like wheat, rice, corn or potato.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 58.96,
     "end": 63.679,
     "text": "In fact, the English word dumpling comes from a 17th century adjective,",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 63.679,
     "end": 65.599,
     "text": "dump, meaning dough-like.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 65.92,
     "end": 70.799,
-    "text": "The really amazing thing about dumplings is that they're found all over the world.",
-    "speaker": null
+    "text": "The really amazing thing about dumplings is that they’re found all over the world.",
+    "speaker": "Neil"
   },
   {
+    "order": 16,
     "start": 70.799,
     "end": 74.24,
     "text": "Over the centuries, different countries and regions have experimented with",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 74.24,
     "end": 77.04,
     "text": "flavours and fillings to create something unique.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 77.519,
     "end": 82.159,
     "text": "Wherever in the world you are, there's probably a special kind of dumpling for you.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 82.4,
     "end": 86.24,
     "text": "In this programme, we'll be sampling a dumpling from the West African",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 86.239,
     "end": 87.92,
     "text": "country of Ghana.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 87.92,
     "end": 92.399,
     "text": "And as usual, we'll be learning some useful new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 92.399,
     "end": 95.119,
-    "text": "Great, but first I have a question for you, Beth.",
-    "speaker": null
+    "text": "Great! But first I have a question for you, Beth.",
+    "speaker": "Neil"
   },
   {
+    "order": 23,
     "start": 95.919,
     "end": 98.719,
     "text": "Probably the most famous British dumplings,",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 98.719,
     "end": 104.319,
     "text": "suet dumplings are cooked on top of a chicken or beef stew that made from suet.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 104.319,
     "end": 106.079,
     "text": "But what exactly is that?",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 106.799,
     "end": 113.119,
     "text": "Is suet a wheat, b potato or sea animal fat?",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 114.079,
     "end": 117.76,
     "text": "I think suet is made from animal fats.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 117.76,
     "end": 122.32,
     "text": "Okay, Beth, we'll find out if that's the correct answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 123.12,
     "end": 125.68,
     "text": "The origins of dumplings are a mystery.",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 30,
     "start": 125.68,
     "end": 131.36,
     "text": "Historians think the dish is very old, but no one knows for sure when or where the first",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 131.36,
     "end": 136.719,
     "text": "dumpling was cooked. One theory puts the birthplace of the dumpling along the silk road,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 136.719,
     "end": 139.28,
     "text": "linking China with Central Asia and Turkey.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 139.919,
     "end": 145.68,
     "text": "One way or another, the dumpling journeyed through the Middle East and across Africa to Ghana,",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 34,
     "start": 145.68,
     "end": 149.759,
     "text": "where today it's a favourite way of adding carbohydrates to a dish,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 149.759,
     "end": 152.24,
     "text": "as well as soaking up sources and juices.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 152.879,
     "end": 158.639,
     "text": "Caprui Agdhda is a business woman and fan of the Ghanaian dumpling called Kenki.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 159.36,
     "end": 162.56,
     "text": "Here she introduces Kenki to Ruth Alexander,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 162.56,
     "end": 166,
     "text": "presenter of the BBC World Service programme The Food Chain.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 166.96,
     "end": 169.28,
     "text": "I love Kenki. In fact, I had Kenki this afternoon.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 169.28,
     "end": 170.639,
-    "text": "You’ve had some this afternoon?",
-    "speaker": "Ruth Alexander"
+    "text": "You've had some this afternoon?",
+    "speaker": "Kafui Adzah"
   },
   {
+    "order": 41,
     "start": 170.639,
     "end": 172.879,
     "text": "Yes, I love it. And it hits the spot.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 173.599,
     "end": 180.8,
     "text": "Absolutely. And the Ga'wa, the Ga'wa is one of the tribes in Ghana.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 180.8,
     "end": 185.68,
     "text": "And Kenki is the ass-taple food, even though it's eaten across the whole country.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 186.4,
     "end": 188.08,
     "text": "How is it then eaten?",
-    "speaker": "Ruth Alexander"
+    "speaker": "staple food"
   },
   {
+    "order": 45,
     "start": 188.08,
     "end": 193.599,
     "text": "Now, we have to eat Kenki with what we call chitok, chili sauce, okay?",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 194.4,
     "end": 200.879,
     "text": "But we also have the black sauce, which streams fish and all sort of proteins in it.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 201.599,
     "end": 204.879,
     "text": "And then, yum yum, you go at it. You dig in.",
+    "speaker": "Yum YumYou dig in"
+  },
+  {
+    "order": 48,
+    "start": 204.879,
+    "end": 209.28,
+    "text": "So is this really satisfying comfort food?",
     "speaker": null
   },
   {
-    "start": 204.879,
-    "end": 209.28,
-    "text": "Is this really satisfying comfort food?",
-    "speaker": "comfort food"
-  },
-  {
+    "order": 49,
     "start": 209.28,
     "end": 216,
     "text": "It is very satisfying. In fact, Kenki is loved by most people who do manual works,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 216.479,
     "end": 222.799,
     "text": "because it feels that Tommy and he takes you almost a whole day before you feel hungry again.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 223.84,
     "end": 228,
     "text": "Caféu says eating Kenki really hits the spot.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 228,
     "end": 233.439,
-    "text": "Kafui says eating kenkey really hits the spot. If something hits the spot, it’s exactly what you wanted and totally satisfies you.",
-    "speaker": "hits the spotsomething hits the spot"
+    "text": "If something hits the spot, it's exactly what you wanted and totally satisfies you.",
+    "speaker": "tummy"
   },
   {
+    "order": 53,
     "start": 234,
     "end": 238.56,
     "text": "Kenki dumplings are made from maize sourdough and eaten across Ghana.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 238.56,
     "end": 244.319,
     "text": "For some tribes, Kenki is their staple food, a basic and important type of food that is",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 244.319,
     "end": 247.28,
     "text": "regularly eaten by a large portion of the population.",
-    "speaker": null
+    "speaker": "staple food"
   },
   {
+    "order": 56,
     "start": 247.84,
     "end": 251.919,
     "text": "In Britain, for example, bread and eggs are staple foods.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 251.919,
     "end": 257.279,
     "text": "Kenki takes time to make. The maize needs to be soaked in water for a week,",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 257.279,
     "end": 260.959,
     "text": "but when they're ready and served with a hot chili sauce,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 260.959,
     "end": 269.199,
     "text": "Caféu uses two phrases to show it's time to eat. Yum yum is used to say that food tastes or smells",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 269.199,
     "end": 276.399,
     "text": "very good. And dig in is another exclamation, meaning don't wait, start eating and eat as much as",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 276.399,
     "end": 281.68,
     "text": "you like. For Ghanaians, Kenki is comfort food, something which is enjoyable to",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 281.92,
     "end": 286.639,
-    "text": "For Ghanaians, kenkey is comfort food, something which is enjoyable to eat and makes you feel happier. And what’s more, it fills your tummy or stomach.",
+    "text": "eat and makes you feel happier. And what's more, it fills your tummy or stomach.",
     "speaker": "comfort foodtummy"
   },
   {
+    "order": 63,
     "start": 286.639,
     "end": 290.4,
     "text": "Whatever type you eat and wherever in the world you eat them,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 290.4,
     "end": 294.639,
-    "text": "Whatever type you eat and wherever in the world you eat them, dumplings are a great way to spread a little love, including in Britain!",
-    "speaker": "Beth"
-  },
-  {
-    "start": 294.639,
-    "end": 297.84,
-    "text": "Ah yes, it looks like we're back to my earlier question.",
+    "text": "dumplings are a great way to spread a little love, including in Britain.",
     "speaker": null
   },
   {
+    "order": 65,
+    "start": 294.639,
+    "end": 297.84,
+    "text": "Ah yes, it looks like we’re back to my earlier question.",
+    "speaker": "comfort food"
+  },
+  {
+    "order": 66,
     "start": 297.84,
     "end": 302.16,
     "text": "I asked you what the traditional British suet dumpling is made from.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 302.16,
     "end": 307.199,
     "text": "Beth guessed it was animal fat, which was the correct answer.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 307.92,
     "end": 312.959,
     "text": "Suet dumplings aren't the healthiest, but for some brits, they're certainly comfort food.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 312.959,
     "end": 318.159,
     "text": "Food that makes you feel happier because it tastes good or because it reminds you of home.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 318.159,
     "end": 322.959,
     "text": "Okay, let's recap the rest of the vocabulary we've learned in this programme,",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 322.959,
     "end": 328.8,
-    "text": "OK, let's recap the rest of the vocabulary we've learned in this programme, starting with the idiom hits the spot, meaning that something is satisfying and exactly what you wanted.",
-    "speaker": "hits the spot"
+    "text": "starting with the idiom hits the spot, meaning that something is satisfying and exactly what you",
+    "speaker": null
   },
   {
+    "order": 72,
     "start": 328.8,
     "end": 334.8,
     "text": "wanted. A staple food is a basic and important type of food that is regularly eaten by a large",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 334.8,
     "end": 341.6,
     "text": "portion of the population. The exclamation yum yum is used to say that food tastes or smells",
+    "speaker": "staple food"
+  },
+  {
+    "order": 74,
+    "start": 341.6,
+    "end": 347.28,
+    "text": "delicious. If you say dig in, you're inviting someone to start eating as much as they want.",
     "speaker": null
   },
   {
-    "start": 341.6,
-    "end": 347.28,
-    "text": "If you say dig in! you’re inviting someone to start eating as much as they want.",
-    "speaker": "dig in"
-  },
-  {
+    "order": 75,
     "start": 347.28,
     "end": 353.759,
     "text": "And finally, tummy is an informal word for stomach. Once again, our six minutes are up,",
-    "speaker": null
+    "speaker": "dig in"
   },
   {
+    "order": 76,
     "start": 353.759,
     "end": 359.6,
     "text": "but remember to join us again next time for more trending topics and useful vocabulary here",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 359.6,
     "end": 362.319,
     "text": "at six minutes English. Goodbye for now. Goodbye.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 364.8,
     "end": 368.319,
     "text": "From BBCLearningEnglish.com",

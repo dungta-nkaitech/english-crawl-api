@@ -1,317 +1,370 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.679,
     "text": "6-Mete English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7.839,
     "end": 12.64,
     "text": "Hello, this is 6-Minute English from BBC Learning English. I'm Neil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12.64,
     "end": 19.519,
     "text": "And I'm Beth. In this programme, we're discussing the positives and negatives of social media",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 19.519,
     "end": 24.64,
     "text": "in the lives of young people. And this is a really trending topic at the moment",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 24.64,
     "end": 30.88,
     "text": "because of what's happening in Australia, where a new law to limit under 16-year-olds access",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 30.88,
     "end": 38,
     "text": "to social media is being debated. Neil, tell me one good thing and one bad thing about having",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 38,
     "end": 46.56,
     "text": "social media in your life. Well, one good thing is it means I can see what friends are doing",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 47.12,
     "end": 53.359,
-    "text": "Well, one good thing is it means I can see what friends are doing who live far away and one bad thing is it's really addictive and a massive waste of time.",
+    "text": " who live far away and one bad thing is it's really addictive and a massive waste of time.",
     "speaker": "Neil"
   },
   {
+    "order": 8,
     "start": 54.079,
     "end": 59.2,
     "text": "Well, it's interesting to hear a man's perspective, Neil, because when it comes to issues like",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 59.2,
     "end": 65.76,
     "text": "cyberbullying, it's often young women who are most affected. So soon we'll be hearing from women",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 65.76,
     "end": 72.239,
     "text": "in different countries about their online experiences. And remember, you can find all the vocabulary",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 72.239,
     "end": 78.56,
     "text": "and a worksheet on our website, BBCLearningEnglish.com. But first, I have a question for you, Beth.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 79.04,
     "end": 85.519,
-    "text": "But first I have a question for you, Beth. In 2024, which was the most regularly used social media platform in the world? Was it:",
+    "text": "In 2024, which was the most regularly used social media platform in the world?",
     "speaker": "Neil"
   },
   {
+    "order": 13,
     "start": 85.519,
     "end": 92.96,
     "text": "Was it A, Facebook, B, Instagram or C, TikTok? Oh, I'm going to say TikTok.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 93.6,
     "end": 98.64,
     "text": "Well, we'll find out the answer at the end of the programme. Now let's start with the positive",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 15,
     "start": 98.64,
     "end": 105.52,
     "text": "side of social media. As a politics student at Oklahoma University, 21-year-old Haley Hurst",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 105.519,
     "end": 112.239,
     "text": "campaigned in the 2024 US presidential election. Here she explains one benefit of social media",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 112.239,
     "end": 116.879,
     "text": "to BBC World Service programme Pick of the World. I do think social media has played a",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 116.879,
     "end": 122.079,
     "text": "huge role in educating young voters on different policies and different people who are running.",
-    "speaker": null
+    "speaker": "soft spotsparked ."
   },
   {
+    "order": 19,
     "start": 122.079,
     "end": 129.039,
     "text": "I know Trump has recently said that he has a soft spot in his heart for TikTok. With the growth",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 129.039,
     "end": 134.639,
     "text": "of social media, it has sparked a lot more debate. I think my generation two has seen so many",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 134.719,
     "end": 141.279,
     "text": "dramatic things happen. Haley thinks one good thing about social media is that it sparks debates",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 141.279,
     "end": 149.039,
     "text": "and conversations. It causes debates to start. She comments that Donald Trump is a fan of social media",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 149.039,
     "end": 155.359,
     "text": "by saying he has a soft spot for TikTok. If you have a soft spot for something or someone,",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 155.359,
     "end": 161.839,
     "text": "you feel affectionate and fond of it. You like it a lot. But of course, that's not the whole story.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 161.84,
     "end": 167.12,
     "text": "Increasingly, young women are reporting the negative impact social media is making on their",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 26,
     "start": 167.12,
     "end": 174.08,
     "text": "lives and the pressure they feel to appear perfect online, especially from men. Manvi Sharma,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 174.08,
     "end": 181.039,
     "text": "age 28, is a business woman and model with a large Instagram following who lives in Delhi, India.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 181.039,
     "end": 188.56,
     "text": "And Kemi Adyemi is a 26-year-old travel blogger from Lagos in Nigeria. Both young women",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 188.56,
     "end": 193.599,
     "text": "discuss these social media worries with BBC World Service Programme. Pick of the world.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 218.64,
     "end": 224.64,
     "text": "Don't you to shrink yourself so that they can be the bigger person. They get to listen to what",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 224.64,
     "end": 229.92,
     "text": "they're afraid say about you, what their family says about you, and they're not able to stand",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 229.92,
     "end": 236.64,
     "text": "up for you to say, oh, I know this person. I believe she's not doing these things for all that",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 236.64,
     "end": 244.56,
     "text": "reasons. Manvi thinks some men are intimidated by her popularity on Instagram. Intimidated means",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 244.64,
     "end": 250.4,
     "text": "to feel frightened or nervous because you lack confidence. She feels people gossip about her",
-    "speaker": null
+    "speaker": "shrink yourselfstand up for"
   },
   {
+    "order": 35,
     "start": 250.4,
     "end": 258.16,
     "text": "posts and photos using expressions like, oh my gosh, and oh my god, to express their shock or surprise.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 258.16,
     "end": 264.8,
     "text": "And Kemi agrees. She says that on social media, some people want her to shrink herself,",
-    "speaker": null
+    "speaker": "shrink herselfstand up for stand up for"
   },
   {
+    "order": 37,
     "start": 264.8,
     "end": 270.879,
     "text": "a phrase meaning that you underuse your full potential in order to avoid making people feel",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 270.879,
     "end": 277.68,
     "text": "uncomfortable or to fit in. When she's bullied online, Kemi says that these people don't stand",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 277.68,
     "end": 284,
     "text": "up for her. To stand up for someone means to defend or support someone who's being criticised",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 284,
     "end": 289.04,
     "text": "or bullied. And I think it's time you reveal the answer to your question, Neil.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 289.04,
     "end": 295.519,
-    "text": "I asked which was the most regularly used social media platform in the world in 2024 – Facebook, Instagram or TikTok? What did you say Beth?",
+    "text": "I asked which was the most regularly used social media platform in the world in 2024 – Facebook",
     "speaker": "Neil"
   },
   {
+    "order": 42,
     "start": 295.599,
     "end": 302,
     "text": "Instagram or TikTok. What did you say, Beth? TikTok. I'm afraid you're wrong. It's Facebook",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 302,
     "end": 309.039,
     "text": "with over three billion regular users. Okay, let's recap the vocabulary we've learned in this program",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 309.039,
     "end": 314.879,
-    "text": "OK, let's recap the vocabulary we've learned in this programme, starting with the verb spark, meaning to cause something, such as a debate or argument, to start happening.",
-    "speaker": "spark"
+    "text": "starting with the verb spark, meaning to cause something such as a debate or argument to start",
+    "speaker": "Neil"
   },
   {
+    "order": 45,
     "start": 314.879,
     "end": 321.599,
-    "text": "If you have a soft spot for someone, you feel affection for them; you like them very much.",
-    "speaker": "a soft spot"
+    "text": "happening. If you have a soft spot for someone, you feel affection for them. You like them very much.",
+    "speaker": null
   },
   {
+    "order": 46,
     "start": 321.6,
     "end": 327.28,
     "text": "To be intimidated means to feel frightened or nervous because you lack confidence in a situation.",
-    "speaker": "intimidated"
+    "speaker": "a soft spot"
   },
   {
+    "order": 47,
     "start": 327.28,
     "end": 333.84,
     "text": "The expressions, oh my gosh and oh my god, are exclamations of strong feelings like shock,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 333.84,
     "end": 340.16,
     "text": "surprise, anger or disbelief. If you shrink yourself, you make yourself smaller and don't use",
+    "speaker": "Oh my gosh!Oh my God!"
+  },
+  {
+    "order": 49,
+    "start": 340.16,
+    "end": 344.4,
+    "text": "your full potential in order to make others feel comfortable or to fit in with them.",
     "speaker": null
   },
   {
-    "start": 340.16,
-    "end": 344.4,
-    "text": "If you shrink yourself, you make yourself smaller and don't use your full potential in order to make others feel comfortable, or to fit in with them.",
-    "speaker": "shrink yourself"
-  },
-  {
+    "order": 50,
     "start": 345.2,
     "end": 351.04,
     "text": "And finally, to stand up for someone means to be vocal in defending a person who is being",
-    "speaker": null
+    "speaker": "stand up for"
   },
   {
+    "order": 51,
     "start": 351.04,
     "end": 357.439,
     "text": "bullied. Once again, our time is up, but if you're ready for more, head over to the BBC Learning",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 357.439,
     "end": 362.8,
     "text": "English website to try the worksheet with a quiz for this program. See you there soon. Goodbye.",

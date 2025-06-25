@@ -1,509 +1,594 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7,
     "text": "6 Minute English from the BBC",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7,
     "end": 11.279,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 2,
     "start": 11.279,
     "end": 12.48,
-    "text": "And I’m Beth.",
-    "speaker": "Beth"
+    "text": "And I'm Beth.",
+    "speaker": null
   },
   {
+    "order": 3,
     "start": 12.48,
     "end": 15.839,
     "text": "In this program, we'll be discussing the dinner table.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 15.839,
     "end": 21.16,
-    "text": "In this programme, we’ll be discussing the dinner table – but we’re not interested in food. We’re talking about… talking!",
+    "text": "But we're not interested in food. We're talking about talking.",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 21.16,
     "end": 23.8,
     "text": "A lot can happen around the dinner table.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 23.8,
     "end": 29.96,
     "text": "Gossip, arguments. You might meet the love of your life on a blind dinner date.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 29.96,
     "end": 32.32,
     "text": "Or find out you're a great storyteller.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 32.32,
     "end": 36.759,
     "text": "Neil, when you were younger, did you eat with your family around a dinner table?",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 36.759,
     "end": 40.399,
-    "text": "We did. Eating at the table was an important ritual.",
-    "speaker": null
+    "text": "We did! Eating at the table was an important ritual.",
+    "speaker": "open up"
   },
   {
+    "order": 10,
     "start": 40.399,
     "end": 42.76,
     "text": "It was something we did every day.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 42.76,
     "end": 47.04,
     "text": "And quite often, it was the only time we could get together and chat.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 47.04,
     "end": 50.4,
     "text": "I think there's something very comforting about eating good food",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 50.4,
     "end": 53.04,
     "text": "and being with the people you're closest to.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 53.04,
     "end": 55.92,
     "text": "And now, I do the same with my own family.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 55.92,
     "end": 58.12,
     "text": "The kids are more likely to open up.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 58.159,
     "end": 62.719,
     "text": "Talk more easily about their day or something troubling them while they're eating.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 62.719,
     "end": 68.159,
     "text": "Well, the dinner table is a space that families across the world get together at.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 68.159,
     "end": 70.4,
     "text": "To not only eat, but chat.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 70.4,
     "end": 76.28,
     "text": "And it's often the only point in the day or week that the whole family gathers together.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 76.28,
     "end": 80.679,
     "text": "In this program, we'll be discussing how people behave at the table.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 80.679,
     "end": 84.359,
     "text": "And of course, we'll be learning some useful new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 84.4,
     "end": 87.159,
-    "text": "But first, I have a question for you, Beth.",
-    "speaker": null
-  },
-  {
-    "start": 87.159,
-    "end": 94.64,
-    "text": "But first I have a question for you, Beth. In 2016, a couple from Germany won the world record for the fastest time to set a dinner table. But, how long did it take them? Was it:",
+    "text": "But first I have a question for you, Beth. ",
     "speaker": "Neil"
   },
   {
+    "order": 23,
+    "start": 87.159,
+    "end": 94.64,
+    "text": "In 2016, a couple from Germany won the world record for the fastest time to set a dinner table.",
+    "speaker": null
+  },
+  {
+    "order": 24,
     "start": 94.64,
     "end": 96.959,
     "text": "But how long did it take them?",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 96.959,
     "end": 104.439,
     "text": "Was it A, 25 seconds, B, 1 minute and 5 seconds, or C, 2 minutes and 5 seconds?",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 104.439,
     "end": 107.64,
-    "text": "Surely not 25 seconds.",
-    "speaker": null
+    "text": " Surely not 25 seconds",
+    "speaker": "Neil"
   },
   {
+    "order": 27,
     "start": 107.64,
     "end": 109.799,
     "text": "I will guess 1 minute, 5 seconds.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 109.799,
     "end": 113.319,
     "text": "OK, Beth, I'll reveal the answer later in the program.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 29,
     "start": 113.319,
     "end": 118.439,
     "text": "Now, while eating with a group, you might feel that you need to act in a certain way",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 118.439,
     "end": 120.719,
     "text": "because of the people around you.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 120.719,
     "end": 127.159,
     "text": "Philip Aperi, a psychotherapist and author, thinks we should try to be ourselves as much as possible",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 127.159,
     "end": 131.719,
     "text": "as she told BBC World Service Program, The Food Chain.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 131.719,
     "end": 136.039,
     "text": "In any group, we find a role.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 136.039,
     "end": 140.639,
     "text": "And if we're only in one group, if we're only ever with our family, we might think,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 140.639,
     "end": 143.919,
     "text": "oh, I'm the funny one. He's the wise one.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 143.919,
     "end": 145.759,
     "text": "We might think that's who we are.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 145.759,
     "end": 150.959,
     "text": "And then we go to another group and then we find, oh, I'm the wise one.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 150.959,
     "end": 155.119,
     "text": "And I think if you feel like you're assigned a role in your family,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 155.119,
     "end": 159.359,
     "text": "I just think take that with a little bit of a pinch of salt.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 159.359,
     "end": 162.399,
     "text": "When you spend time with the same group of people,",
-    "speaker": null
+    "speaker": "'the funny one''the wise one''the … one'the tall one"
   },
   {
+    "order": 41,
     "start": 162.399,
     "end": 167.759,
     "text": "you might start to think of yourself as the funny one or the wise one.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 167.84,
     "end": 176.56,
     "text": "When we say the one, we describe a person by using a particular and prominent characteristic they have.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 176.56,
     "end": 179.679,
     "text": "If you're very tall, you might be the tall one.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 179.679,
     "end": 184.799,
     "text": "However, Philip Aperi says we should take these labels with a pinch of salt.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 184.799,
     "end": 190.639,
     "text": "An idiom meaning you shouldn't believe or do everything you're told or that's expected of you.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 190.639,
     "end": 195.439,
     "text": "Now, over time, interactions at the dinner table have changed.",
-    "speaker": null
+    "speaker": "childrenshould be seen and not heard"
   },
   {
+    "order": 47,
     "start": 195.439,
     "end": 200.319,
     "text": "In the past, children were sometimes seated on a different table to adults,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 200.319,
     "end": 203.759,
     "text": "or toles they should be seen and not heard.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 203.759,
     "end": 210.479,
     "text": "An old-fashioned phrase emphasising that children should be quiet and always on their best behaviour.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 210.479,
     "end": 215.84,
     "text": "Embraer Medos Fernandez, a writer and founder of Free Black Motherhood,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 215.84,
     "end": 222.639,
     "text": "spoke about older generations' reactions to children asking awkward questions at the dinner table",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 222.799,
     "end": 225.839,
     "text": "to BBC World Service Program, the food chain.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 227.039,
     "end": 229.359,
     "text": "So it's a mixed bag.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 229.359,
     "end": 236.879,
     "text": "It's overwhelmingly positive, but I also know that it is kind of a bit of a culture shock",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 236.879,
     "end": 241.599,
     "text": "for them to hear my children ask the questions that they ask,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 241.599,
     "end": 246.959,
     "text": "because our children haven't really been raised with that line of demarcation",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 246.959,
     "end": 249.439,
     "text": "between the adult table and the key at table.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 250.319,
     "end": 256.639,
     "text": "Embraer says that the older generations' reactions to her children's questions at the table",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 256.639,
     "end": 258.719,
     "text": "can be a mixed bag.",
-    "speaker": null
+    "speaker": "a mixed bagA mixed bagculture shock"
   },
   {
+    "order": 60,
     "start": 258.719,
     "end": 264.16,
     "text": "A mixed bag is a situation that can have positive and negative aspects.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 264.16,
     "end": 269.04,
     "text": "She also says that it's a culture shock for them, a sense of feeling uncertain",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 269.04,
     "end": 271.759,
     "text": "because you're in a different environment to usual.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 271.759,
     "end": 276.56,
     "text": "OK, Beth, I think it's time I revealed the answer to my question.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 276.56,
     "end": 282.24,
-    "text": "OK, Beth. I think it’s time I revealed the answer to my question. I asked you what the world record is for the fastest time to set a dinner table.",
-    "speaker": "Neil"
+    "text": "I asked you what the world record is for the fastest time to set a dinner table.",
+    "speaker": null
   },
   {
+    "order": 65,
     "start": 282.24,
     "end": 284.879,
     "text": "And I said it was one minute and five seconds.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 284.879,
     "end": 289.439,
     "text": "And that was the right answer. That's not very long, is it?",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 67,
     "start": 289.439,
     "end": 295.36,
     "text": "OK, let's recap the vocabulary we've learned from this program, starting with open up.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 295.36,
     "end": 302.16,
     "text": "A phrasal verb meaning speak more easily than usual, particularly about worries or problems.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 302.16,
     "end": 308.8,
     "text": "If someone is the funny one or the wise one, they're labelled by that particular characteristic.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 308.8,
     "end": 313.36,
     "text": "To take something with a pinch of salt means you shouldn't believe everything you're told.",
-    "speaker": "take something with a pinch of salt"
+    "speaker": "'the funny one''the wise one'"
   },
   {
+    "order": 71,
     "start": 314.16,
     "end": 319.68,
-    "text": "Children should be seen and not heard is an old-fashioned phrase that means children should be quiet and behave well.",
+    "text": "Children should be seen and not heard is an old-fashioned phrase that means children should be",
     "speaker": "Children should be seen and not heard"
   },
   {
+    "order": 72,
     "start": 319.68,
     "end": 321.6,
     "text": "quiet and behave well.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 321.6,
     "end": 326.24,
     "text": "A mixed bag means something has both positive and negative aspects.",
-    "speaker": "A mixed bag"
-  },
-  {
-    "start": 326.319,
-    "end": 332.72,
-    "text": "And finally, a culture shock is an uncertain feeling because you're in a new environment.",
     "speaker": null
   },
   {
+    "order": 74,
+    "start": 326.319,
+    "end": 332.72,
+    "text": "And finally, a culture shock is an uncertain feeling because you're in a new environment.",
+    "speaker": "culture shock"
+  },
+  {
+    "order": 75,
     "start": 332.72,
     "end": 335.36,
     "text": "Once again, our six minutes are up.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 335.36,
     "end": 340.319,
     "text": "Join us again soon for more useful vocabulary here at six minutes English.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 340.319,
     "end": 341.28,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 341.28,
     "end": 341.68,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 342.639,
     "end": 347.92,
     "text": "We know you love six minute English, but have you tried our other podcasts,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 347.92,
     "end": 351.199,
     "text": "news review where you can learn English from news headlines?",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 351.199,
     "end": 353.28,
     "text": "Or you might like office English.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 353.28,
     "end": 356.079,
     "text": "It's all about the English we need at work.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 356.079,
     "end": 360.079,
     "text": "To listen, head to our website, bbclearningenglish.com,",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 360.079,
     "end": 363.519,
     "text": "or search learning English for work in your podcast player.",

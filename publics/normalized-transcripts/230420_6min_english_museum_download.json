@@ -1,398 +1,464 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7,
     "text": "This is a download from BBC Learning English to find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7,
     "end": 14,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 14,
     "end": 19,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 19,
     "end": 26,
     "text": "And I'm Beth. London has many tourist attractions from Big Ben to Buckingham Palace.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 26,
     "end": 32,
     "text": "Would it surprise you to hear that many tourist-top destination is actually a museum?",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 32,
     "end": 39,
     "text": "The British Museum contains thousands of important artifacts, objects of special historical interest,",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 39,
     "end": 44,
     "text": "including ancient Egyptian mummies, an Aztec serpent and the Rosetta stone.",
-    "speaker": null
+    "speaker": "artefacts"
   },
   {
+    "order": 7,
     "start": 44,
     "end": 49,
     "text": "In fact, London has museums on every subject from trains to fashion.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 49,
     "end": 56,
     "text": "But recently, many museums have been criticised for stealing ancient treasures during Imperial times,",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 56,
     "end": 65,
     "text": "the age of the British Empire. Many argue that these treasures, such as the famous Parthenon marbles and Ben in Bruns', should be returned.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 65,
     "end": 71,
     "text": "In this programme, we'll discuss the controversial role of museums in the 21st century and, as usual,",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 71,
     "end": 74,
-    "text": "century, and as usual, we’ll be learning some useful new vocabulary as well.",
+    "text": "we'll be learning some useful new vocabulary as well.",
     "speaker": "Beth"
   },
   {
+    "order": 12,
     "start": 74,
     "end": 77,
     "text": "But first, I have a question for you, Beth.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 13,
     "start": 77,
     "end": 84,
     "text": "Another of London's most visited museums, the Natural History Museum, features a grand entrance hall,",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 84,
     "end": 89,
     "text": "which, for decades, contained an impressive life-size model of a dinosaur.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 89,
     "end": 93,
     "text": "But what was this iconic dinosaur's name?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 93,
     "end": 101,
     "text": "Was it a, Dippy the Diplodocus, B, Terry the Terradactyl, or C, Tyrone the Terranosaurus?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 101,
     "end": 104,
-    "text": "Ah, I think the answer is Dippy the Diplodocus.",
-    "speaker": "Beth"
+    "text": "I think the answer is Dippy the Diplodocus.",
+    "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 104,
     "end": 108,
     "text": "Okay, Beth, I'll reveal the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 108,
     "end": 114,
     "text": "Anthropologist Professor Adam Cooper has written a new book, The Museum of Other People,",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 114,
     "end": 120,
     "text": "which discusses the idea that many museum artefacts were stolen and should be given back.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 21,
     "start": 120,
     "end": 126,
     "text": "Here he speaks to BBC Radio 4 programme, Thinking Allowed, about two sides of the debate,",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 126,
     "end": 131,
     "text": "one which saw European culture as superior and another which didn't.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 131,
     "end": 135,
     "text": "These are the two great ideologies of the imperial age.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 135,
     "end": 139,
     "text": "The one is that all societies begin from a very rough base.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 139,
     "end": 143,
     "text": "You know, all our ancestors will hunt a gatherer as at one stage.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 143,
     "end": 148,
     "text": "And then they go through the stage of farming industry all this while they're getting smarter and smarter.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 148,
     "end": 153,
     "text": "Their brains are getting bigger and bigger, and they're moving from primitive magic to sophisticated religion,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 153,
     "end": 156,
     "text": "and maybe onto science, so it's onwards and upwards.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 156,
     "end": 161,
     "text": "That's the imperial idea, and we're going to help these other poor benign people up the lever with us.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 161,
     "end": 166,
     "text": "And opposed to this, there's this other 19th century ideology which says, no,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 166,
     "end": 170,
     "text": "this is an imperialist myth, we have our own culture.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 170,
     "end": 174,
     "text": "There are no better or worse cultures, there are just national cultures.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 174,
     "end": 180,
-    "text": "Imperialists believed that mankind progressed through stages, starting as hunter-gatherers,",
-    "speaker": null
+    "text": "Imperialists believed that mankind progressed through stages, starting as hunter-gatherers ",
+    "speaker": "hunter-gatherersup the ladderonwards and upwards"
   },
   {
+    "order": 34,
     "start": 180,
     "end": 186,
     "text": "people who lived before the invention of farming and survived by hunting and collecting food in the wild.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 186,
     "end": 192,
     "text": "According to this view, white European culture was best because it was the most advanced,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 192,
     "end": 199,
     "text": "so it was their duty to help local cultures up the ladder, meaning to advance or make progress.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 199,
     "end": 205,
     "text": "Adam Cooper uses the phrase onwards and upwards to describe a situation where things are improving,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 205,
     "end": 207,
     "text": "becoming better and better.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 207,
     "end": 214,
-    "text": "Of course, things didn’t get better for everyone, especially the people whose land and possessions were stolen. An opposing view argued that each culture is unique and should be valued and protected.",
-    "speaker": "Neil"
+    "text": "Of course, things didn't get better for everyone, especially the people whose land and possessions were stolen.",
+    "speaker": null
   },
   {
+    "order": 40,
     "start": 214,
     "end": 220,
     "text": "An opposing view argued that each culture is unique and should be valued and protected.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 220,
     "end": 228,
     "text": "The legacy of colonialism is now being publicly debated, but the question of returning stolen artifact remains complex.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 228,
     "end": 233,
     "text": "Firstly, since many of these treasures are hundreds of years old, who should they be returned to?",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 233,
     "end": 237,
     "text": "What's more, the history behind these objects is complicated.",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 44,
     "start": 237,
     "end": 245,
     "text": "In the case of the Ben and Bruns' for example, questions can be asked about the actions of local leaders as well as the European powers.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 245,
     "end": 250,
     "text": "So how can museums display their artifacts to reflect this complex history?",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 250,
     "end": 256,
     "text": "Here's Professor Cooper sharing his ideas with BBC Radio 4's thinking aloud.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 257,
     "end": 267,
     "text": "I want to see a lot more temporary exhibitions and the kinds of exhibitions that I would interested in are not about one particular tradition,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 267,
     "end": 270,
-    "text": "but about the relationships between different cultural traditions.",
-    "speaker": null
+    "text": " but about the relationships between different cultural traditions",
+    "speaker": "exhibitionsinterconnected"
   },
   {
+    "order": 49,
     "start": 270,
     "end": 280,
     "text": "Everything is interconnected. Of course, these connections are sometimes violent, sometimes oppressive, sometimes very difficult, sometimes very painful, but things are changing.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 281,
     "end": 285,
     "text": "An exhibition is a display showing a collection of artifacts.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 285,
     "end": 297,
     "text": "Adam Cooper wants exhibitions to tell truthful stories by showing the relationships between cultures and how events are interconnected or related to each other.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 297,
     "end": 302,
     "text": "And these stories must include all cultures going back almost to the dinosaurs.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 302,
     "end": 307,
-    "text": "And speaking of dinosaurs, Neil, it's time for you to reveal the answer to your question.",
-    "speaker": null
+    "text": "And speaking of dinosaurs, Neil, it’s time for you to reveal the answer to your question:",
+    "speaker": "Beth"
   },
   {
+    "order": 54,
     "start": 307,
     "end": 313,
     "text": "What was the name of the famous dinosaur which greeted visitors to London's Natural History Museum?",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 313,
     "end": 316,
     "text": "I said it was Dippy the Diplodicus.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 316,
     "end": 319,
     "text": "Which was the correct answer?",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 319,
     "end": 331,
     "text": "The 26-meter-long dinosaur was displayed from 1905 until 2017 when it was replaced by the skeleton of a female blue whale, promisingly named Hope.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 331,
     "end": 338,
     "text": "Okay, let's recap the vocabulary we've learned starting with Artifact, an object of historical significance.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 338,
     "end": 344,
     "text": "Hunter Gatherers were people who lived by hunting and collecting wild food rather than farming.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 344,
     "end": 348,
     "text": "If someone moves up the ladder, they advance or make progress.",
-    "speaker": "up the ladder"
+    "speaker": "Hunter-gatherers"
   },
   {
+    "order": 61,
     "start": 348,
     "end": 354,
     "text": "The phrase onwards and upwards describes a situation where things are getting better and better.",
     "speaker": "onwards and upwards"
   },
   {
+    "order": 62,
     "start": 354,
     "end": 359,
     "text": "An exhibition is a display of artifacts in a museum or paintings in an art gallery.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 359,
     "end": 366,
-    "text": "And finally, the adjective interconnected describes separate things which are connected or related to each other. Once again, our time is up. Join us again soon for more trending topics. Goodbye, everyone!",
+    "text": "And finally, the adjective interconnected describes separate things which are connected or related to each other.",
     "speaker": "interconnected"
   },
   {
+    "order": 64,
     "start": 366,
     "end": 372,
     "text": "Once again, our time is up. Join us again soon for more trending topics. Goodbye everyone.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 372,
     "end": 373,
     "text": "Bye!",
-    "speaker": "Neil"
+    "speaker": null
   }
 ]

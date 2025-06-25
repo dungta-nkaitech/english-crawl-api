@@ -1,572 +1,667 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.5,
     "text": "Hi, Neil from BBC Learning English here.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.5,
     "end": 9.56,
     "text": "Did you know that we are now offering a new weekly extra episode of 6 Minute English,",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 9.56,
     "end": 11.96,
     "text": "exclusively on our website?",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 11.96,
     "end": 17.24,
     "text": "So go to BBCLearningEnglish.com to find your favourite presenters on your favourite",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 17.24,
     "end": 18.559,
     "text": "programme.",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 5,
     "start": 18.559,
     "end": 24.039,
     "text": "The extra episodes are only available on our website, BBCLearningEnglish.com.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 24.039,
     "end": 25.199,
     "text": "See you there.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 25.199,
     "end": 32.2,
     "text": "This is a download from BBCLearningEnglish to find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 32.2,
     "end": 38.879,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 38.879,
     "end": 41.799,
-    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "text": "Hello. This is 6 Minute English from BBC Learning English.",
     "speaker": "Neil"
   },
   {
+    "order": 10,
     "start": 41.799,
     "end": 42.799,
     "text": "I'm Neil.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 42.799,
     "end": 44.799,
-    "text": "And I’m Georgina.",
-    "speaker": "Georgina"
+    "text": "And I'm Georgina.",
+    "speaker": null
   },
   {
+    "order": 12,
     "start": 44.799,
     "end": 46.759,
-    "text": "Can you swim, Georgina?",
+    "text": "Can you swim, Georgina",
     "speaker": "Neil"
   },
   {
+    "order": 13,
     "start": 46.759,
     "end": 47.759,
     "text": "I can, Neil.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 47.759,
     "end": 53.359,
     "text": "I learnt to swim as a child and now I enjoy swimming for exercise and to relax.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 53.359,
     "end": 58.24,
-    "text": "In the summer hundreds of keen swimmers, like Georgina, head off to swimming pools, lakes and beaches to take a dip – an informal idiom meaning ‘go for a swim’.",
-    "speaker": "take a dip"
+    "text": "In the summer hundreds of keen swimmers like Georgina head off to swimming pools, lakes",
+    "speaker": null
   },
   {
+    "order": 16,
     "start": 58.24,
     "end": 64.039,
     "text": "and beaches to take a dip and informal idiom meaning go for a swim.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 64.039,
     "end": 69.48,
-    "text": "Swimming has many health benefits and since ancient times has been used to promote strength and wellbeing.",
-    "speaker": "Georgina"
+    "text": "Swimming has many health benefits and since ancient times has been used to promote strength",
+    "speaker": null
   },
   {
+    "order": 18,
     "start": 69.48,
     "end": 71.48,
     "text": "and well-being.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 71.48,
     "end": 76.319,
     "text": "But swimming is not just about exercise, there's far more to it beneath the surface as we'll",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 76.319,
     "end": 80.359,
     "text": "be finding out in this programme on the history of swimming.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 80.359,
     "end": 85.12,
     "text": "Although evidence suggests that ancient Mediterranean people dived eagerly into temple",
-    "speaker": null
+    "speaker": "swum against the tide"
   },
   {
+    "order": 22,
     "start": 85.12,
     "end": 90.64,
     "text": "pleasure pools, lakes and the sea, other cultures have swam against the tide.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 90.64,
     "end": 96.56,
     "text": "Another swimming idiom there, Neil, meaning not to follow what everyone else is doing.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 96.56,
     "end": 100.039,
     "text": "Someone who did enjoy swimming was the poet Lord Byron.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 100.039,
     "end": 105.359,
     "text": "He wrote poems popularising the sport and in 1810 swam the helispont, a stretch of",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 105.359,
     "end": 108.159,
     "text": "water separating Europe from Asia.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 27,
     "start": 108.159,
     "end": 114,
     "text": "But in which modern country can the helispont be found, that's my quiz question Georgina.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 114,
     "end": 119.599,
     "text": "Is it A, Greece, B, Cyprus or C, Turkey?",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 29,
     "start": 119.599,
     "end": 124.599,
-    "text": "I think Lord Byron visited Istanbul, so I’ll say c) Turkey.",
-    "speaker": "Georgina"
+    "text": "I think Lord Byron visited Istanbul so I'll say C, Turkey.",
+    "speaker": "Neil"
   },
   {
+    "order": 30,
     "start": 124.599,
     "end": 129.039,
     "text": "Okay, we'll find out the answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 129.039,
     "end": 133.56,
-    "text": "OK, we’ll find out the answer at the end of the programme. For all its good points, swimming seems to have lost its appeal in Europe after the decline of the Roman Empire.",
+    "text": "For all its good points, swimming seems to have lost its appeal in Europe after the decline",
     "speaker": "Neil"
   },
   {
+    "order": 32,
     "start": 133.56,
     "end": 135.439,
     "text": "of the Roman Empire.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 135.439,
     "end": 140.439,
-    "text": "According to historian and swimming enthusiast, Professor Kevin Dawson, the rise of Christian beliefs discouraged swimming, as he explains here to BBC World Service programme, The Forum:",
-    "speaker": "Georgina"
+    "text": "According to historian and swimming enthusiast Professor Kevin Dawson, the rise of Christian",
+    "speaker": null
   },
   {
+    "order": 34,
     "start": 140.439,
     "end": 148.359,
     "text": "beliefs discouraged swimming as he explains here to BBC World Service programme The Forum.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 148.359,
     "end": 155.199,
-    "text": "You have some beliefs that water is this unsafe space, unnatural space for human beings.",
-    "speaker": null
+    "text": "You have some beliefs that water is this unsafe space, unnatural space for human beings…",
+    "speaker": "immodestnude immodest"
   },
   {
+    "order": 36,
     "start": 155.199,
     "end": 161.4,
     "text": "It's a perpetuation of the chaos that existed before God created land or that water is a mechanism",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 161.4,
     "end": 167.84,
     "text": "for punishment like the Great Flood Story or Pharaoh's army being destroyed in the Red Sea.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 167.84,
     "end": 170.48,
     "text": "But then there's also beliefs that swimming is a modest.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 170.48,
     "end": 175.64,
     "text": "I mean most people at the time swam nude and so church officials discourage swimming",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 175.64,
     "end": 180.84,
     "text": "because they felt that it led to in modest behaviour.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 180.84,
     "end": 186.879,
-    "text": "As well as being considered unsafe or chaotic, swimming was seen as immodest – shocking because it shows too much of the body.",
-    "speaker": "immodest"
+    "text": "As well as being considered unsafe or chaotic, swimming was seen as immodest, shocking because",
+    "speaker": null
   },
   {
+    "order": 42,
     "start": 186.879,
     "end": 189.159,
     "text": "it shows too much of the body.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 189.199,
     "end": 195.199,
-    "text": "This was because most people at the time swam nude – naked, without clothes.",
+    "text": "This was because most people at the time swam nude, naked without clothes.",
     "speaker": "nude"
   },
   {
+    "order": 44,
     "start": 195.199,
     "end": 200.8,
     "text": "Another place for the long history of swimming is the remote Maldives Islands in the Indian Ocean.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 200.8,
     "end": 206.759,
     "text": "In the Maldives, access to shallow, warm sea water lakes, cordola goons makes it an unbeatable",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 206.759,
     "end": 208.8,
     "text": "place for swimming.",
+    "speaker": "Georgina"
+  },
+  {
+    "order": 47,
+    "start": 208.8,
+    "end": 214,
+    "text": "But even on a tropical island, things haven't always gone swimmingly, as diver and Maldives",
     "speaker": null
   },
   {
-    "start": 208.8,
-    "end": 214,
-    "text": "But even on a tropical island, things haven’t always gone swimmingly as diver and Maldives resident, Mikael Rosen, told BBC World Service programme, The Forum:",
-    "speaker": "Neil"
-  },
-  {
+    "order": 48,
     "start": 214,
     "end": 219.12,
     "text": "resident Mick Eil Rosen told BBC World Service programme The Forum.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 219.12,
     "end": 223.2,
     "text": "This and for the reason Mikhail Gibbs for the change in people's attitudes to swimming",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 223.2,
     "end": 224.2,
-    "text": "in the Maldives.",
-    "speaker": null
+    "text": " in the Maldives",
+    "speaker": "Georgina"
   },
   {
+    "order": 51,
     "start": 226.4,
     "end": 231.599,
     "text": "No citizen of the Maldives has half a mile to a lukewarm lagoon.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 231.599,
     "end": 240.28,
     "text": "Given that they could be world eating in swimming, but in the 1960s, the government recruited",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 240.28,
     "end": 243.84,
     "text": "a lot of teachers from India, Sri Lanka.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 243.84,
     "end": 251.159,
     "text": "They didn't know anything about the water culture and the notice that the young students",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 251.159,
     "end": 255.28,
     "text": "playing hooky, they were in the lagoons.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 255.28,
     "end": 258.72,
     "text": "And swimming soon got frowned upon.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 258.72,
     "end": 266.439,
     "text": "But now the government and the local organisations, they tried to reclaim swimming.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 268.639,
     "end": 270.92,
     "text": "Did you hear the reason Mikhail Gibbs now?",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 270.92,
     "end": 276.28,
     "text": "Yes, he said that young students were playing hooky to go swimming in the lagoons.",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 60,
     "start": 276.28,
     "end": 282,
     "text": "Play hooky is an informal way of saying stay away from school without permission.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 282,
     "end": 287.36,
-    "text": "Right, and that meant swimming quickly got frowned upon, or disapproved of.",
+    "text": "Right, and that meant swimming quickly got frowned upon, or disapproved of",
     "speaker": "frowned upon"
   },
   {
+    "order": 62,
     "start": 287.36,
     "end": 292.12,
-    "text": "It seems a bit unfair since there was already a strong culture of swimming in the Maldives which the arriving teachers didn’t fully appreciate.",
-    "speaker": "Neil"
+    "text": "It seems a bit unfair since there was already a strong culture of swimming in the Maldives,",
+    "speaker": null
   },
   {
+    "order": 63,
     "start": 292.12,
     "end": 295.6,
     "text": "which the arriving teachers didn't fully appreciate.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 295.6,
     "end": 297.879,
     "text": "Well, I know which I'd rather do.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 297.879,
     "end": 301.76,
-    "text": "Well, I know which I’d rather do – sit in a classroom or swim in a warm tropical lagoon!",
-    "speaker": "Georgina"
+    "text": "Sit in a classroom or swim in a warm tropical lagoon.",
+    "speaker": null
   },
   {
+    "order": 66,
     "start": 301.76,
     "end": 302.76,
     "text": "Swimming, right?",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 302.76,
     "end": 305.6,
-    "text": "Swimming, right? But then you would never have learned about Lord Byron…",
-    "speaker": "Neil"
+    "text": "But then you would never have learned about Lord Byron.",
+    "speaker": null
   },
   {
+    "order": 68,
     "start": 305.6,
     "end": 310.92,
     "text": "Yes, in your quiz question you asked me about Lord Byron swimming the Hellerspont, a stretch",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 310.92,
     "end": 313.84,
     "text": "of water separating Europe from Asia.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 313.84,
     "end": 317.28,
     "text": "I asked you in which country the Hellerspont can be found.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 317.28,
     "end": 321.439,
     "text": "Is it A, Greece, B, Cyprus or C, Turkey?",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 321.439,
     "end": 323.28,
     "text": "What did you say?",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 323.279,
     "end": 325.079,
-    "text": "I said c) Turkey. Was I right?",
-    "speaker": "Georgina"
+    "text": "I said C, Turkey.",
+    "speaker": null
   },
   {
+    "order": 74,
     "start": 325.079,
     "end": 326.079,
     "text": "Was I right?",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 326.079,
     "end": 331.639,
     "text": "Yes, you were Georgina, the Hellerspont, also known as the Straits of Dardanelles, is a six",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 331.639,
     "end": 334.559,
     "text": "kilometres wide stretch of water in Turkey.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 334.559,
     "end": 340.279,
-    "text": "Let’s recap the vocabulary from this programme on swimming, which some people informally call taking a dip.",
-    "speaker": "taking a dip."
+    "text": "Let's recap the vocabulary from this programme on swimming, which some people informally call",
+    "speaker": "Neil"
   },
   {
+    "order": 78,
     "start": 340.279,
     "end": 342.279,
     "text": "taking a dip.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 342.279,
     "end": 347.199,
     "text": "Someone who swims against the tide refuses to do what everyone else is doing.",
     "speaker": "swims against the tide"
   },
   {
+    "order": 80,
     "start": 347.199,
     "end": 352.279,
-    "text": "In the past, swimming was considered immodest - shocking because it showed too much of the body.",
-    "speaker": "immodest -"
+    "text": "In the past, swimming was considered immodest, shocking because it showed too much of the",
+    "speaker": null
   },
   {
+    "order": 81,
     "start": 352.279,
     "end": 353.279,
     "text": "body.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 353.279,
     "end": 358,
     "text": "Another word for naked or not wearing any clothes is nude.",
     "speaker": "nude."
   },
   {
+    "order": 83,
     "start": 358,
     "end": 362.439,
     "text": "Children who play hooky stay away from school without permission.",
-    "speaker": "play hooky"
+    "speaker": null
   },
   {
+    "order": 84,
     "start": 362.439,
     "end": 366.759,
-    "text": "And finally, if something is 'frowned upon' it’s disapproved of.",
+    "text": "And finally if something is frowned upon, it's disapproved of.",
     "speaker": "frowned upon'"
   },
   {
+    "order": 85,
     "start": 366.759,
     "end": 370.839,
     "text": "That's all for our dive into the deep end of the vocabulary of swimming.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 370.839,
     "end": 375.359,
-    "text": "That’s all for our dive into the deep end of the vocabulary of swimming. As we’ve discovered, there’s plenty of idioms and expressions relating to swimming and water!",
-    "speaker": "Georgina"
+    "text": "As we've discovered, there's plenty of idioms and expressions relating to swimming and",
+    "speaker": null
   },
   {
+    "order": 87,
     "start": 375.359,
     "end": 376.359,
     "text": "water.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 376.359,
     "end": 379.799,
-    "text": "And check us out on Facebook, Twitter, and Instagram.",
+    "text": "And check us out on Facebook, Twitter, and Instagram",
     "speaker": "Neil"
   },
   {
+    "order": 89,
     "start": 379.8,
     "end": 384.439,
     "text": "Don't forget we have an app too, which you can download for free from the app stores.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 384.439,
     "end": 387.56,
     "text": "We help you learn English on the move.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 387.56,
     "end": 392.04,
     "text": "Grammar, vocabulary and interesting topics, we have them all.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 392.04,
     "end": 394.24,
     "text": "Visit our website, get the app.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 394.24,
     "end": 395.24,
     "text": "Bye for now!",
     "speaker": "Neil"
   },
   {
+    "order": 94,
     "start": 395.24,
     "end": 396.24,
-    "text": "Goodbye!",
-    "speaker": "Georgina"
+    "text": "Goodbye.",
+    "speaker": null
   }
 ]

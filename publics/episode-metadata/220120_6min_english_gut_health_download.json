@@ -7,8 +7,28 @@
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/220120_6min_english_gut_health.pdf",
   "vocabItems": [
     {
-      "word": "gut (informal)",
-      "definition": "intestines; long tube inside the body which starts below the stomach and helps digest food"
+      "word": "gut",
+      "definition": "(informal)intestines; long tube inside the body which starts below the stomach and helps digest food"
+    },
+    {
+      "word": "microbes",
+      "definition": "tiny, microscopic organisms living inside the human body"
+    },
+    {
+      "word": "calorie",
+      "definition": "unit measuring the amount of energy that food provides"
+    },
+    {
+      "word": "flimsy",
+      "definition": "weak and difficult to believe; not convincing"
+    },
+    {
+      "word": "skinny",
+      "definition": "very thin"
+    },
+    {
+      "word": "stick out of the crowd",
+      "definition": "be very easy to notice, in a positive sense"
     }
   ],
   "quiz": null

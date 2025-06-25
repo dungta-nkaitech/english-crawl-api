@@ -1,371 +1,433 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 10.88,
     "text": "6Nate English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 12.88,
     "end": 16.879,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 16.879,
     "end": 20.48,
-    "text": "Are you a saver or a spender, Sam?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 20.48,
-    "end": 27.519,
-    "text": "Well, I’m trying to limit my spending right now because I’m saving up for a deposit to buy a house.",
-    "speaker": "Sam"
-  },
-  {
-    "start": 27.599,
-    "end": 32.96,
-    "text": "Saving money is not always easy as we'll find out in today's programme, which is all about",
+    "text": "And I'm Sam. Are you a saver or a spender, Sam?",
     "speaker": null
   },
   {
+    "order": 5,
+    "start": 20.48,
+    "end": 27.519,
+    "text": "Well, I'm trying to limit my spending right now because I'm saving up for a deposit to buy a house.",
+    "speaker": "Neil"
+  },
+  {
+    "order": 6,
+    "start": 27.599,
+    "end": 32.96,
+    "text": "Saving money is not always easy as we'll find out in today's programme, which is all about",
+    "speaker": "Neil"
+  },
+  {
+    "order": 7,
     "start": 32.96,
     "end": 39.92,
     "text": "thrift. Thrift is not a simple idea to define. It's to do with living a simple life free from",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 39.92,
     "end": 46.719,
     "text": "the need to constantly buy the latest products. Today's consumer culture encourages us to spend,",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 46.719,
     "end": 52.879,
     "text": "spend, spend, spend, but it hasn't always been that way. The Victorians, for example, told people",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 52.88,
     "end": 60.48,
     "text": "to save up for a rainy day, meaning to keep some money back in case of unforeseen emergencies.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 61.12,
     "end": 65.359,
-    "text": "But before we discover more about that, it's time for today's quiz question.",
-    "speaker": null
+    "text": "But before we discover more about that, it’s time for today’s quiz question.",
+    "speaker": "Neil"
   },
   {
+    "order": 12,
     "start": 65.92,
     "end": 69.84,
     "text": "If you're trying to save money, you probably know how hard it can be.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 69.84,
     "end": 75.92,
     "text": "So my question is, what percentage of people in the UK do you think have less than a thousand",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 76.079,
     "end": 82.32,
     "text": "pounds in savings? Is it A, 5%, B, 15% or C, 30%.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 83.04,
     "end": 86.799,
-    "text": "Well, if I’m anything to go by I’d say c) 30%.",
-    "speaker": "Sam"
+    "text": "%? Well, if I’m anything to go by I’d say c) 30",
+    "speaker": "Neil"
   },
   {
+    "order": 16,
     "start": 87.599,
     "end": 90.719,
     "text": "Okay, well, we'll find the correct answer out later.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 91.439,
     "end": 97.76,
     "text": "I mentioned before that thrift is a difficult idea to define. So here's Alison Hume, a lecturer at",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 97.76,
     "end": 103.76,
     "text": "the University of Northampton, explaining more to BBC Radio 4's programme Thinking Allowed.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 19,
     "start": 104.48,
     "end": 110.08,
     "text": "Well, there are two dictionary definitions of thrift. The older of the two comes from the word",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 110.08,
     "end": 115.28,
     "text": "thrive, etymologically, and describes thrift as the ability to live well and to flourish. So it's",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 115.28,
     "end": 119.84,
     "text": "that sense of human flourishing. The more recent definition is the one we're probably more familiar",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 119.84,
     "end": 125.76,
     "text": "with, which is about frugality. All of that said, it's been used historically, of course, by various",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 125.76,
     "end": 131.28,
     "text": "people in various moments, in various different places, in very different ways. And they've often had",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 131.28,
     "end": 138.64,
     "text": "a social or religious agenda. It seems the oldest definition of thrift has nothing to do with",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 138.64,
     "end": 146.4,
-    "text": "It seems the oldest definition of ‘thrift’ has nothing to do with saving money and is connected to the verbs ‘thrive’ and ‘flourish’ -  meaning to grow or develop successfully.",
+    "text": "saving money and is connected to the verbs thrive and flourish, meaning to grow or develop successfully.",
     "speaker": "flourish"
   },
   {
+    "order": 26,
     "start": 146.4,
     "end": 153.92,
     "text": "It was only later with the Puritans, 16th century English Christians with a reputation for strict",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 153.92,
     "end": 160.719,
     "text": "discipline, that the meaning of thrift changed and became associated with frugality,",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 160.719,
     "end": 167.36,
     "text": "being careful not to spend too much money or eat too much food. The Puritans believe that being",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 167.36,
     "end": 173.36,
-    "text": "The Puritans believed that being frugal was a religious virtue and that people ought to save money in order to give to others in need.",
+    "text": "frugal was a religious virtue and that people ought to save money in order to give to others in need.",
     "speaker": "Neil"
   },
   {
+    "order": 30,
     "start": 173.36,
     "end": 179.599,
-    "text": "Later on the meaning of ‘thrift’ changed again. During the Victorian era, it was connected to the idea of managing your own money in order to be a responsible citizen.",
-    "speaker": "Sam"
+    "text": "Later on, the meaning of thrift changed again. During the Victorian era, it was connected to the",
+    "speaker": null
   },
   {
+    "order": 31,
     "start": 179.599,
     "end": 186.319,
     "text": "idea of managing your own money in order to be a responsible citizen. Throughout history, then,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 186.319,
     "end": 191.28,
     "text": "there have been different versions of thrift. And this may be because different religions or",
-    "speaker": null
+    "speaker": "agendaagenda"
   },
   {
+    "order": 33,
     "start": 191.28,
     "end": 198.4,
     "text": "social groups had their own agenda, a specific aim or reason for a particular group to do something.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 198.4,
     "end": 204.56,
     "text": "For example, the Victorian definition of thrift was based on a social agenda about being a respectable",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 204.56,
     "end": 211.199,
     "text": "member of society. Ideas about frugality and thrift changed again during the Second World War,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 211.199,
     "end": 217.439,
-    "text": "Ideas about frugality and thrift changed again during the Second World War when the public was encouraged to avoid waste so that every material resource could go into the war effort.",
-    "speaker": "Sam"
+    "text": "when the public was encouraged to avoid waste so that every material resource could go into the war",
+    "speaker": null
   },
   {
+    "order": 37,
     "start": 217.439,
     "end": 223.359,
     "text": "effort. And in the post-war period, it changed again as people's wealth and standard of living",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 223.359,
     "end": 229.199,
     "text": "increased. Here's Alison Hume again. It's the idea that once people had enough to meet their",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 229.199,
     "end": 235.359,
     "text": "kind of basic needs, there was this kind of moral slide into consumerism. It's not a view that I",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 40,
     "start": 235.359,
     "end": 240.079,
     "text": "subscribe to in a simplistic sense myself. I think there's a very fine line to tready. There's no",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 240.08,
     "end": 243.76,
     "text": "point denying that certainly in the developed world there's been a rise in consumer capitalism,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 243.76,
     "end": 250.48,
     "text": "that's just a truism. But thrift hasn't declined. In modern times, people's motivation to save",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 250.48,
     "end": 256.879,
     "text": "up and be thrifty declined once they had enough to meet their basic needs. The basic necessities",
-    "speaker": null
+    "speaker": "basic needs"
   },
   {
+    "order": 44,
     "start": 256.879,
     "end": 263.759,
     "text": "needed to survive, like food, clothes and shelter and nothing extra. Alison mentions that once these",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 263.759,
     "end": 271.279,
     "text": "basic needs were satisfied, people moved away from thrift into consumerism. The desire to buy",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 271.279,
     "end": 278.399,
     "text": "luxury products, which were not absolutely necessary. According to some, this created a moral",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 278.399,
     "end": 286.959,
     "text": "slide, a decrease in the standards of behaving in good, fair and honest ways. The rise in consumer",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 286.959,
     "end": 292.639,
-    "text": "The rise in consumer capitalism we have seen around the world is an example of a truism - something that is so obviously true it is not worth repeating.",
+    "text": "capitalism we have seen around the world is an example of a truism, something that is so obviously",
     "speaker": "truism"
   },
   {
+    "order": 49,
     "start": 292.639,
     "end": 298,
     "text": "true. It's not worth repeating. What is worth repeating is the quiz question, though, Neil.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 298,
     "end": 304.159,
     "text": "Yes, I asked you how many British people had savings of under a thousand pounds? And I said,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 304.159,
     "end": 312.079,
-    "text": "So I guess I’m not such a bad saver after all!",
-    "speaker": "Sam"
+    "text": "see, 30%. In fact, Sam, it's B, 15%. No, so I guess I'm not such a bad saver after all.",
+    "speaker": null
   },
   {
+    "order": 52,
     "start": 313.039,
     "end": 317.439,
     "text": "Okay, well, today we've been talking about the changing meanings of thrift,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 317.439,
     "end": 322.639,
-    "text": "OK. Well, today we’ve been talking about the changing meanings of ‘thrift’, an idea connected to frugality - being careful not to spend too much money.",
-    "speaker": "frugality"
+    "text": "an idea connected to frugality. Being careful not to spend too much money.",
+    "speaker": "Sam"
   },
   {
+    "order": 54,
     "start": 322.639,
     "end": 328.24,
     "text": "The original meaning of thrift was too flourish, grow or develop successfully,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 328.24,
     "end": 333.92,
     "text": "but that definition changed as different religious groups, like the Puritans, promoted their own",
-    "speaker": null
+    "speaker": "flourish agenda"
   },
   {
+    "order": 56,
     "start": 333.92,
     "end": 340.959,
     "text": "agenda. Aim or reason for a particular group to do something. In recent times, people's ability to",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 340.959,
     "end": 346.959,
     "text": "meet their basic needs, the necessities for survival, like food and shelter, have reduced the",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 346.959,
     "end": 353.519,
     "text": "importance of thrift, which some believe has created a moral slide, a reduction in standards of",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 353.519,
     "end": 360,
     "text": "moral behaviour. And the associated rise of consumer capitalism is an example of a truism,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 360.56,
     "end": 366.399,
     "text": "something that is obviously true and generally accepted by all. That's all for now. Join us again",
-    "speaker": null
+    "speaker": "truism"
   },
   {
+    "order": 61,
     "start": 366.399,
     "end": 370.719,
     "text": "next time for more topical discussion and vocabulary by for now. Bye-bye.",

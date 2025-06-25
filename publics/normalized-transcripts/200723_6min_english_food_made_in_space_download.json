@@ -1,419 +1,489 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.52,
     "text": "This is a download from BBC Learning English. To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 12.48,
     "end": 16.24,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 2,
     "start": 16.24,
     "end": 17.44,
-    "text": "And I’m Georgina.",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 17.44,
-    "end": 21.519,
-    "text": "Last November, NASA launched a very unusual home delivery service,",
+    "text": "And I'm Georgina.",
     "speaker": null
   },
   {
+    "order": 3,
+    "start": 17.44,
+    "end": 21.519,
+    "text": "Last November Nasa launched a very unusual home delivery service –",
+    "speaker": "Neil"
+  },
+  {
+    "order": 4,
     "start": 21.519,
     "end": 27.039,
     "text": "a rocket carrying four tons of supplies to the ISS, the International Space Station.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 27.039,
     "end": 33.759,
     "text": "Among the scientific equipment were 12 bottles of red wine from the famous Bordeaux region of France.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 33.759,
     "end": 36.64,
     "text": "The astronauts might have wanted a glass of wine with dinner,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 36.64,
     "end": 43.2,
     "text": "but the real purpose of the bottles was to explore the possibility of producing food and drink in space,",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 43.2,
     "end": 46.239,
     "text": "not for astronauts, but for people back on Earth.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 46.239,
     "end": 51.519,
-    "text": "In today’s programme we’ll be finding out how growing plants in space can develop crops which are more productive and more resistant to climate change here on Earth.",
-    "speaker": "Georgina"
+    "text": "In today's programme, we'll be finding out how growing plants in space can develop crops,",
+    "speaker": null
   },
   {
+    "order": 10,
     "start": 51.519,
     "end": 55.759,
     "text": "which are more productive and more resistant to climate change here on Earth.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 55.759,
     "end": 60.479,
-    "text": "And we’ll hear how plants can grow in environments with little or no natural light. But first, today’s quiz question: what was the first food grown in space? Was it:",
+    "text": "And we’ll hear how plants can grow in environments with little or no natural light.",
     "speaker": "Neil"
   },
   {
+    "order": 12,
     "start": 60.479,
     "end": 65.12,
     "text": "But first today's quiz question, what was the first food grown in space?",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 65.12,
     "end": 69.28,
     "text": "Was it A, potatoes, B, lettuce or sea tomatoes?",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 69.28,
     "end": 75.28,
     "text": "Mmm, well, in the film The Martian, a stranded astronaut grows potatoes on Mars.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 75.28,
     "end": 78.64,
     "text": "I know it's only a film, but I'll say A, potatoes.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 16,
     "start": 78.64,
     "end": 81.2,
     "text": "Okay, we'll find out the answer later.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 81.28,
     "end": 85.92,
     "text": "Now, you might be wondering how it's possible to grow plants without natural light.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 85.92,
     "end": 89.68,
     "text": "British company Vertical Future has been working on this problem",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 89.68,
     "end": 93.359,
     "text": "by developing indoor farming methods in partnership with NASA.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 94,
     "end": 100.64,
-    "text": "Here’s their Head of Research, Jen Bromley, explaining the process to BBC World Service programme, The Food Chain.",
-    "speaker": "Georgina"
+    "text": "Here's their head of research, Jen Bromley, explaining the process to BBC World Service programme, The Food Chain.",
+    "speaker": null
   },
   {
+    "order": 21,
     "start": 102.879,
     "end": 108.24,
     "text": "Basically, we use LED lighting, and we use LED lights that are tuned to specific wavelengths.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 108.239,
     "end": 112.159,
     "text": "So if you imagine what the rainbow looks like, the reason a plant looks green",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 112.159,
     "end": 115.919,
     "text": "is because it's not using all the green light, it actually reflects a lot of that back.",
-    "speaker": null
+    "speaker": "LED lightswavelength. photon"
   },
   {
+    "order": 24,
     "start": 115.919,
     "end": 120.959,
     "text": "So the reason why it looks pink in here is because we're actually only using red light and blue light",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 120.959,
     "end": 124.079,
     "text": "to grade the plants. And that essentially tailors the light diet,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 124.079,
     "end": 128.56,
     "text": "so that the plants look kind of black when you look at them, because they're not reflecting any light,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 128.56,
     "end": 132.479,
     "text": "they're being super efficient. They're using up every photon that hits them.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 132.959,
     "end": 139.359,
     "text": "The lack of natural light in space means that plants are grown using LED lights.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 139.359,
     "end": 147.359,
-    "text": "The lack of natural light in space means that plants are grown using LED lights – LED is an abbreviation of ‘light emitting diode’ -  an electronic device that lights up when electricity is passed through it.",
-    "speaker": "LED lights"
+    "text": "LED is an abbreviation of light emitting diode, an electronic device that lights up when electricity is passed through it.",
+    "speaker": null
   },
   {
+    "order": 30,
     "start": 147.359,
     "end": 153.359,
     "text": "On Earth, plants look green because they reflect back any light traveling at a certain wavelength.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 153.359,
     "end": 159.839,
     "text": "The distance between two waves of light, which makes things appear to us in the various colours of the rainbow.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 160.8,
     "end": 166.8,
-    "text": "But when scientists control the wavelengths being fed, plants are able to absorb every photon – particle of light energy, making them appear black.",
-    "speaker": "photon"
+    "text": "But when scientists control the wavelengths being fed, plants are able to absorb every photon,",
+    "speaker": "wavelength"
   },
   {
+    "order": 33,
     "start": 166.8,
     "end": 169.84,
     "text": "particle of light energy, making them appear black.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 170.56,
     "end": 175.36,
     "text": "Each particle of light that hits the leaves is absorbed and through photosynthesis",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 35,
     "start": 175.36,
     "end": 181.28,
     "text": "is converted into plant food. NASA found that different colour combinations or light",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 181.28,
     "end": 185.759,
     "text": "recipes can change a plant's shape, size and even flavour.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 186.399,
     "end": 190.56,
     "text": "But the lack of natural light isn't the biggest obstacle to growing food in space.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 191.439,
     "end": 196.799,
     "text": "Here's Joy Amassa, Chief Plant Scientist at the Kennedy Space Centre in Florida to explain.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 198.639,
     "end": 205.359,
-    "text": "Microgravity is really challenging, but plants are amazing. They can adapt to so many different",
-    "speaker": null
+    "text": "Microgravity is really challenging but plants are amazing! They can adapt to so many different ",
+    "speaker": "Microgravityplasticity genes"
   },
   {
+    "order": 40,
     "start": 205.359,
     "end": 210.879,
     "text": "environments, and we call this plasticity, because they can turn on or off their genes to really",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 210.879,
     "end": 215.759,
     "text": "adapt to all sorts of conditions, and that's why you see plants growing in different areas on",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 215.759,
     "end": 220.56,
     "text": "Earth, the same type of plant may look very different because it's adapting to the environment in",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 220.56,
     "end": 228.4,
     "text": "that specific location. On Earth, plants use gravity to position themselves, shoots grow up,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 228.4,
     "end": 234.56,
     "text": "roots grow down, but this doesn't apply in space because of microgravity. The weaker pull of",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 234.56,
     "end": 240.639,
     "text": "gravity, making things float and seem weightless. Plants can only survive in these conditions,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 240.639,
     "end": 246.319,
     "text": "due to their plasticity, the ability of living organisms to adapt and cope with changes in",
-    "speaker": null
+    "speaker": "plasticity –"
   },
   {
+    "order": 47,
     "start": 246.319,
     "end": 252.159,
     "text": "the environment by changing their biological structure. Plants adapt themselves to being in space",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 252.159,
     "end": 258.719,
-    "text": "Plants adapt themselves to being in space by manipulating their genes - chemicals and DNA in the cells of plants and animals which control their development and behaviour.",
-    "speaker": "genes"
+    "text": "by manipulating their genes. Chemicals and DNA in the cells of plants and animals which control",
+    "speaker": null
   },
   {
+    "order": 49,
     "start": 258.719,
     "end": 265.199,
     "text": "their development and behaviour. In the low-gravity atmosphere of space, plants become stressed,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 265.199,
     "end": 270.8,
     "text": "but they adapt genetically. And as a result, they're stronger and more resilient to other",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 51,
     "start": 270.8,
     "end": 276.24,
     "text": "less-dressful events when they return home to Earth. Like those bottles of red wine orbiting",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 276.24,
     "end": 282.319,
-    "text": "Earth as we speak, the effects of microgravity on the wine's organic composition will be studied",
-    "speaker": null
+    "text": "Earth as we speak. The effects of microgravity on the wine’s organic composition will be studied",
+    "speaker": "Neil"
   },
   {
+    "order": 53,
     "start": 282.319,
     "end": 286.56,
     "text": "and could hopefully offer solutions for growing food in Earth's changing climate.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 287.439,
     "end": 291.68,
-    "text": "So, Neil, if it wasn’t red grapes, what was the first food grown in space?",
-    "speaker": "Georgina"
+    "text": "So Neil, if it wasn't red grapes, what was the first food grown in space?",
+    "speaker": null
   },
   {
+    "order": 55,
     "start": 292.4,
     "end": 296.959,
-    "text": "Ah yes, in today’s quiz question I asked what the first plant grown in space was.",
+    "text": "Ah yes, in today’s quiz question I asked what the first plant grown in space was. ",
     "speaker": "Neil"
   },
   {
+    "order": 56,
     "start": 297.6,
     "end": 305.92,
     "text": "I said A potatoes. But in fact it was. B, lettuce grown over 15 months on the ISS,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 305.92,
     "end": 309.199,
     "text": "and eaten in 15 minutes in the first ever space salad.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 309.68,
     "end": 315.519,
-    "text": "Today we’ve been discussing the possibilities of growing plants in space using LED lights – devices that use electricity to produce light.",
-    "speaker": "LED lights"
+    "text": "Today we've been discussing the possibilities of growing plants in space using LED lights,",
+    "speaker": "Neil"
   },
   {
+    "order": 59,
     "start": 315.519,
     "end": 318.72,
     "text": "devices that use electricity to produce light.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 319.52,
     "end": 324.8,
     "text": "The energy needed for plants to grow is contained in photons or light particles traveling at",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 324.8,
     "end": 329.6,
     "text": "different wavelengths. Distances between light waves which make things look different colors.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 330.24,
     "end": 336.16,
     "text": "Plants have evolved over millennia using the strong gravity on Earth, but this changes in space",
-    "speaker": null
+    "speaker": "photonswavelengths"
   },
   {
+    "order": 63,
     "start": 336.16,
     "end": 342.88,
     "text": "because of microgravity. The weaker gravitational pull, making things in space float and seem",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 343.519,
     "end": 348.959,
     "text": "to be a bit more weightless. Luckily plants use their genes, the chemicals in DNA responsible for",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 348.959,
     "end": 354.639,
-    "text": "Luckily plants use their genes – the chemicals in DNA responsible for growth - to adapt to new environments by changing their biological structure –  a process known as plasticity.",
+    "text": "growth, to adapt to new environments by changing their biological structure, a process known as",
     "speaker": "genesplasticity"
   },
   {
+    "order": 66,
     "start": 354.639,
     "end": 360.159,
     "text": "plasticity. All of which makes it possible for astronauts to enjoy a glass of wine and green",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 360.159,
     "end": 365.279,
     "text": "salad in space. And genetically stronger plant specimens to study back on Earth.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 365.279,
     "end": 370.159,
-    "text": "That’s all for today but join us again soon at 6 Minute English. Bye for now!",
+    "text": "That’s all for today but join us again soon at 6 Minute English. Bye for now! Bye!",
     "speaker": "Georgina"
   },
   {
+    "order": 69,
     "start": 372.879,
     "end": 374.879,
     "text": "From the BBC.",

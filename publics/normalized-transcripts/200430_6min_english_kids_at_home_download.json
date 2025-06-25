@@ -1,599 +1,699 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6M8 English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.88,
     "text": "From BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.88,
     "end": 16.719,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 16.719,
     "end": 18.16,
-    "text": "And I’m Georgina.",
-    "speaker": "Georgina"
+    "text": "And I'm Georgina.",
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 18.16,
     "end": 21.44,
     "text": "Do you remember the school holidays when you were a kid, Georgina?",
     "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 21.44,
     "end": 25.44,
     "text": "Ah yes, I remember six whole weeks without school.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 25.44,
     "end": 29.039,
     "text": "I used to go to the seaside on holiday with my family.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 29.039,
     "end": 34.479,
     "text": "Sometimes to the coast in England, and sometimes abroad to France or Spain.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 34.479,
     "end": 37.84,
-    "text": "Yes, I remember my dad driving us down to the seaside,",
-    "speaker": null
+    "text": "Yes. I remember my dad driving us down to the seaside,",
+    "speaker": "Neil"
   },
   {
+    "order": 11,
     "start": 37.84,
     "end": 41.92,
     "text": "looking out of the car window and playing eye-spy with my sister.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 41.92,
     "end": 45.2,
     "text": "But with the outbreak of the coronavirus pandemic,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 45.2,
     "end": 50.48,
-    "text": "But with the outbreak of the coronavirus pandemic many children are having to take an extended and unplanned break from school.",
-    "speaker": "Georgina"
-  },
-  {
-    "start": 50.48,
-    "end": 53.759,
-    "text": "And with schools now shut for the foreseeable future,",
+    "text": "many children are having to take an extended and unplanned break from school.",
     "speaker": null
   },
   {
-    "start": 53.759,
-    "end": 58.399,
-    "text": "And with schools now shut for the foreseeable future, this is creating challenges - both for children who can no longer meet their friends to play outdoors…",
+    "order": 14,
+    "start": 50.48,
+    "end": 53.759,
+    "text": "And with schools now shut for the foreseeable future,",
     "speaker": "Neil"
   },
   {
+    "order": 15,
+    "start": 53.759,
+    "end": 58.399,
+    "text": "this is creating challenges, both for children who can no longer meet their friends",
+    "speaker": null
+  },
+  {
+    "order": 16,
     "start": 58.399,
     "end": 59.839,
     "text": "to play outdoors.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 59.839,
     "end": 64.159,
-    "text": "…and for parents who want to keep their children occupied and focused without spending hours watching TV or playing on mobile phones.",
-    "speaker": "Georgina"
+    "text": "And for parents who want to keep their children occupied and focused",
+    "speaker": null
   },
   {
+    "order": 18,
     "start": 64.159,
     "end": 68.879,
     "text": "without spending hours watching TV or playing on mobile phones.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 68.879,
     "end": 72.56,
-    "text": "In this programme, we'll be discussing some advice for parents trying to keep",
-    "speaker": null
+    "text": "In this programme, we’ll be discussing some advice for parents trying to keep",
+    "speaker": "Neil"
   },
   {
+    "order": 20,
     "start": 72.56,
     "end": 77.599,
     "text": "their children educated and entertained at home in these unusual times.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 77.599,
     "end": 79.2,
     "text": "But first, today's quiz question.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 80,
     "end": 85.439,
     "text": "Under normal circumstances, which country has the longest school summer holidays?",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 85.759,
     "end": 87.439,
-    "text": "A) Australia",
-    "speaker": "Neil"
-  },
-  {
-    "start": 87.439,
-    "end": 88.879,
-    "text": "B) Argentina,  or",
-    "speaker": "Neil"
-  },
-  {
-    "start": 88.879,
-    "end": 90.64,
-    "text": "C) Italy?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 90.64,
-    "end": 91.84,
-    "text": "Mmm.",
+    "text": "Is it A, Australia?",
     "speaker": null
   },
   {
+    "order": 24,
+    "start": 87.439,
+    "end": 88.879,
+    "text": "B) Argentina,",
+    "speaker": "Neil"
+  },
+  {
+    "order": 25,
+    "start": 88.879,
+    "end": 90.64,
+    "text": "Or C, Italy?",
+    "speaker": null
+  },
+  {
+    "order": 26,
+    "start": 90.64,
+    "end": 91.84,
+    "text": "mmm,",
+    "speaker": "Georgina"
+  },
+  {
+    "order": 27,
     "start": 91.84,
     "end": 95.12,
     "text": "They have really hot summers in Australia, right?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 95.12,
     "end": 98.159,
     "text": "I think maybe they also have long holidays,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 98.159,
     "end": 100.799,
     "text": "so I'll say A, Australia.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 100.799,
     "end": 104.319,
     "text": "Okay, Georgina, we'll find out later whether you were right.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 104.319,
     "end": 109.359,
     "text": "Of course, what's happening right now is very different from normal school holidays.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 109.359,
     "end": 113.759,
     "text": "Parents and children may be living together under lockdown for weeks on end,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 113.76,
     "end": 115.2,
     "text": "and this can be stressful.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 115.2,
     "end": 118.16,
     "text": "As BBC Radio 4's You and Yours discovered,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 118.16,
     "end": 121.359,
     "text": "when they spoke to parenting expert Elizabeth O'Shea.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 122.48,
     "end": 125.52,
     "text": "The most important thing is to see this as an opportunity.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 125.52,
     "end": 128.08,
-    "text": "It's unprecedented what's going on,",
-    "speaker": null
+    "text": " It’s unprecedented what’s going on",
+    "speaker": "unprecedentedcoping skills"
   },
   {
+    "order": 38,
     "start": 128.08,
     "end": 131.84,
     "text": "but you may have a chance to have two or more weeks with your children,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 131.84,
     "end": 135.36,
     "text": "and if you can change gratitude towards that,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 135.36,
     "end": 140.56,
     "text": "you can actually enjoy this time and teach your children amazing coping skills",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 140.56,
     "end": 142.879,
     "text": "for dealing with difficulties in the future.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 144.079,
     "end": 147.039,
     "text": "Elizabeth thinks that having a positive attitude",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 147.039,
     "end": 153.28,
     "text": "by seeing the lockdown as an opportunity will help in this unprecedented situation,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 153.28,
     "end": 156.159,
     "text": "a situation which has never happened before.",
-    "speaker": null
+    "speaker": "Georgina"
   },
   {
+    "order": 45,
     "start": 156.719,
     "end": 161.759,
     "text": "Adults of full of life experience and parents can teach their children things",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 161.759,
     "end": 163.439,
-    "text": "they wouldn't get to learn at school.",
-    "speaker": null
+    "text": "they wouldn’t get to learn at school.",
+    "speaker": "Neil"
   },
   {
+    "order": 47,
     "start": 164,
     "end": 169.039,
     "text": "Being able to spend time at home with your children can be a great opportunity to teach them",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 169.12,
     "end": 174.879,
     "text": "coping skills. Skills they can use to cope or deal with stressful situations.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 174.879,
     "end": 180.879,
     "text": "One of Elizabeth's main ideas is that parents shouldn't try to recreate a school classroom at home.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 181.519,
     "end": 185.599,
     "text": "Instead, it might be better to work with your children as a team",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 185.599,
     "end": 188,
     "text": "and decide together what you'd like to do.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 188.719,
     "end": 192.079,
     "text": "Here she is talking about keeping kids entertained at home.",
     "speaker": "Neil"
   },
   {
+    "order": 53,
     "start": 193.519,
     "end": 197.359,
     "text": "I would brainstorm ideas and then draw up timetables",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 197.44,
     "end": 199.12,
     "text": "of what you're going to do each day.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 199.12,
     "end": 203.68,
     "text": "Includes a nice chunk of time, normally after lunch for a bit of downtime,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 203.68,
     "end": 209.04,
     "text": "quiet reading or quiet play, but then the rest of the time, building activity.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 209.04,
     "end": 212.24,
     "text": "So playing with your children is wonderful.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 212.24,
     "end": 218,
     "text": "Ball games, board games, card games, word games, anything, doing a family disco,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 218,
     "end": 220.8,
     "text": "anything that is fun and entertaining for them.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 221.84,
     "end": 224.96,
-    "text": "If you lack ideas for what to do during the day,",
-    "speaker": null
-  },
-  {
-    "start": 224.96,
-    "end": 230.96,
-    "text": "If you lack ideas for what to do during the day, Elizabeth recommends brainstorming - talking to your children to produce ideas and suggestions for things to do.",
+    "text": "If you lack ideas for what to do during the day,",
     "speaker": "Neil"
   },
   {
+    "order": 61,
+    "start": 224.96,
+    "end": 230.96,
+    "text": "Elizabeth recommends brainstorming, talking to your children to produce ideas and suggestions",
+    "speaker": null
+  },
+  {
+    "order": 62,
     "start": 230.96,
     "end": 232.4,
     "text": "that things to do.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 232.4,
     "end": 237.2,
-    "text": "Of course, games and activities are fun ways of keeping children entertained and she suggests spending a chunk – or large part of time - on those.",
-    "speaker": "Georgina"
+    "text": "Of course, games and activities are fun ways of keeping children entertained",
+    "speaker": null
   },
   {
+    "order": 64,
     "start": 237.2,
     "end": 241.439,
     "text": "and she suggests spending a chunk or a large part of time on those.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 242.08,
     "end": 246,
-    "text": "But it's difficult to find the energy to keep playing games all day long.",
-    "speaker": null
+    "text": "But it’s difficult to find the energy to keep playing games all day long.",
+    "speaker": "Neil"
   },
   {
+    "order": 66,
     "start": 246,
     "end": 251.92,
     "text": "It's also important to timetable in downtime, time when you relax and do not do much,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 251.919,
     "end": 253.519,
     "text": "for example, quiet reading.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 254.239,
     "end": 258.479,
-    "text": "And if it all starts going wrong, here’s Elizabeth again with a final tip.",
-    "speaker": "Georgina"
+    "text": "And if it all starts going wrong, here's Elizabeth again with a final tip.",
+    "speaker": null
   },
   {
+    "order": 69,
     "start": 259.36,
     "end": 261.759,
     "text": "Pillow fights are also a great made-led off steam.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 262.719,
     "end": 266.719,
-    "text": "If the situation becomes stressful, then it's good to let off steam.",
-    "speaker": null
+    "text": " If the situation becomes stressful then it’s good to let off steam ",
+    "speaker": "let off stream"
   },
   {
+    "order": 71,
     "start": 266.719,
     "end": 271.199,
     "text": "Do something to get rid of strong feelings by expressing them without harming anyone.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 271.68,
     "end": 276.8,
     "text": "You could let off steam in many ways, anything from going for a run to having a pillow fight.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 276.8,
     "end": 280,
     "text": "I think I’m going to need a holiday to get over this lockdown.",
     "speaker": "Georgina"
   },
   {
+    "order": 74,
     "start": 280.24,
     "end": 285.439,
-    "text": "Which reminds me... it’s time to reveal the correct answer to this week’s quiz question. I asked you which country’s schools usually have the longest summer holidays.",
-    "speaker": "Neil"
+    "text": "Which reminds me, it's time to reveal the correct answer to this week's quiz question.",
+    "speaker": null
   },
   {
+    "order": 75,
     "start": 285.439,
     "end": 289.92,
     "text": "I asked you which countries schools usually have the longest summer holidays.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 290.56,
     "end": 292.639,
     "text": "I said a) Australia.",
     "speaker": "Georgina"
   },
   {
+    "order": 77,
     "start": 292.639,
     "end": 296.56,
     "text": "Good try, Georgina, but the correct answer was C, Italy.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 296.56,
     "end": 299.439,
     "text": "They have up to 13 weeks holiday in the summer.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 299.439,
     "end": 301.279,
     "text": "Imagine how much fun you could have.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 301.279,
     "end": 304.72,
-    "text": "Or how much English vocabulary you could learn!",
-    "speaker": "Georgina"
+    "text": "Or how much English vocabulary you could learn.",
+    "speaker": null
   },
   {
+    "order": 81,
     "start": 304.72,
     "end": 309.519,
-    "text": "Today we’ve been giving some tips to parents for surviving the coronavirus lockdown, an unprecedented situation – meaning a situation which has never happened before.",
-    "speaker": "Neil"
+    "text": "Today we've been giving some tips to parents for surviving the coronavirus lockdown.",
+    "speaker": null
   },
   {
+    "order": 82,
     "start": 309.599,
     "end": 314.159,
     "text": "An unprecedented situation, meaning a situation which has never happened before.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 314.799,
     "end": 321.279,
-    "text": "One parenting expert recommends keeping a positive attitude by focusing on the useful things",
-    "speaker": null
+    "text": "One parenting expert recommends keeping a positive attitude by focusing on the useful things",
+    "speaker": "Georgina"
   },
   {
+    "order": 84,
     "start": 321.279,
     "end": 327.759,
     "text": "parents can teach their children at home, like coping skills. Skills to cope with stressful situations",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 327.759,
     "end": 329.359,
     "text": "like being locked down.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 329.359,
     "end": 333.199,
     "text": "A good way to generate ideas for things to do is brainstorming,",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 333.199,
     "end": 338.719,
     "text": "talking with your children to come up with ideas and suggestions for fun learning activities.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 338.8,
     "end": 343.04,
     "text": "A large chunk or part of the day could be spent in fun ways,",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 343.04,
     "end": 346.56,
     "text": "like playing games or finding things out together on the internet.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 346.56,
     "end": 349.12,
-    "text": "But don’t forget to schedule in some downtime – quiet time to relax and do nothing.",
+    "text": "But don’t forget to schedule in some downtime ",
     "speaker": "Georgina"
   },
   {
+    "order": 91,
     "start": 349.12,
     "end": 351.68,
     "text": "quiet time to relax and do nothing.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 351.68,
     "end": 356,
     "text": "And when it all gets too much, find healthy ways to let off steam.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 356,
     "end": 360.88,
-    "text": "And when it all gets too much, find healthy ways to let off steam – get rid of strong emotions by doing something energetic, like going for a run....",
-    "speaker": "Neil"
-  },
-  {
-    "start": 360.88,
-    "end": 362.48,
-    "text": "Or having a pillow fight.",
+    "text": "Get rid of strong emotions by doing something energetic, like going for a run.",
     "speaker": null
   },
   {
-    "start": 363.12,
-    "end": 366.88,
-    "text": "…Or having a pillow fight! Come on, Neil, I always have a pillow handy, just in case!",
+    "order": 94,
+    "start": 360.88,
+    "end": 362.48,
+    "text": "…Or having a pillow fight",
     "speaker": "Georgina"
   },
   {
+    "order": 95,
+    "start": 363.12,
+    "end": 366.88,
+    "text": "Come on Neil, I always have a pillow handy, just in case.",
+    "speaker": null
+  },
+  {
+    "order": 96,
     "start": 367.12,
     "end": 370.24,
     "text": "Well, unfortunately we've run out of time.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 370.24,
     "end": 373.439,
     "text": "Search BBC Learning English for more language learning programs,",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 373.439,
     "end": 376.8,
     "text": "as well as English activities for your children during the lockdown.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 376.8,
     "end": 377.519,
     "text": "Bye for now.",

@@ -1,572 +1,667 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.6,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7.799,
     "end": 12,
     "text": "Hello, this is 6-Mute English from BBCLearningEnglish. I'm Phil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 12,
     "end": 13.2,
     "text": "And I'm Georgie.",
-    "speaker": "Georgie"
+    "speaker": "Phil"
   },
   {
+    "order": 3,
     "start": 13.2,
     "end": 17.519,
     "text": "If you're a swifty, that's a fan of pop star Taylor Swift.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 17.519,
     "end": 20.199,
     "text": "Her music rocks your world.",
-    "speaker": null
+    "speaker": "rocks your world"
   },
   {
+    "order": 5,
     "start": 20.199,
     "end": 23,
     "text": "I like that phrase rock your world, Phil.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 23,
     "end": 26.4,
-    "text": "I like that phrase, 'rock your world', Phil. It means that something makes your life enjoyable, right?",
-    "speaker": "rock your world'"
-  },
-  {
-    "start": 26.599,
-    "end": 29.599,
-    "text": "Well, yes, but actually no, Georgie.",
+    "text": "It means that something makes your life enjoyable, right?",
     "speaker": null
   },
   {
+    "order": 7,
+    "start": 26.599,
+    "end": 29.599,
+    "text": "Well, yes but actually no, Georgie. ",
+    "speaker": "Phil"
+  },
+  {
+    "order": 8,
     "start": 29.599,
     "end": 33.799,
     "text": "I mean, Taylor Swift literally rocks the world.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 33.799,
     "end": 39,
     "text": "At a recent concert in Edinburgh as part of Taylor Swift's Euras Tour,",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 39,
     "end": 43.399,
     "text": "her fans' energetic dancing literally moved the earth",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 43.399,
     "end": 47,
     "text": "with seismic activity usually associated with earthquakes",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 47,
     "end": 49.399,
     "text": "detected four miles away.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 49.399,
     "end": 51.399,
     "text": "Yes, it's hard to believe,",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 51.399,
     "end": 55.2,
     "text": "but in this programme we'll be hearing about the Swift Quake,",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 55.2,
     "end": 59,
     "text": "a powerful force like an earthquake coming not from nature,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 59,
     "end": 60.8,
     "text": "but from a pop concert.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 60.8,
     "end": 64.799,
     "text": "And as usual, we'll be learning some useful new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 64.799,
     "end": 69.4,
-    "text": "Great, but first I have a question for you, Georgie.",
-    "speaker": null
+    "text": "Great. But first I have a question for you, Georgie.",
+    "speaker": "Phil"
   },
   {
+    "order": 19,
     "start": 69.4,
     "end": 74.4,
     "text": "Actually, Taylor Swift's Edinburgh show wasn't the first music concert",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 74.4,
     "end": 76.6,
     "text": "to trigger seismic waves.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 76.6,
     "end": 81.6,
     "text": "In 1992, the band Madness caused two earthquakes",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 81.6,
     "end": 85,
     "text": "that saw local residents evacuated from their homes,",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 85,
     "end": 88.599,
     "text": "but at which London venue did the concert take place?",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 88.599,
     "end": 95.599,
     "text": "Was it A, Hyde Park, B, the Royal Albert Hall, or C, Finnsbury Park?",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 95.599,
     "end": 100.2,
-    "text": "I'll guess the concert was held at the Royal Albert Hall.",
-    "speaker": "Georgie"
+    "text": "Mmm, I'll guess the concert was held at the Royal Albert Hall.",
+    "speaker": null
   },
   {
+    "order": 26,
     "start": 100.2,
     "end": 104.599,
     "text": "Okay, Georgie, I'll reveal the correct answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 104.599,
     "end": 107,
     "text": "Following Taylor Swift's Edinburgh concert,",
-    "speaker": null
+    "speaker": "Georgie"
   },
   {
+    "order": 28,
     "start": 107,
     "end": 112,
     "text": "seismologist Emma Greenf and James Panton from Cardiff University",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 112,
     "end": 116.2,
     "text": "wanted to see if the same thing would happen at Taylor's concert in Cardiff.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 116.2,
     "end": 121.2,
     "text": "Size-mologists are scientists who study earthquakes and seismic waves.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 121.2,
     "end": 125.2,
     "text": "Emma and James set up their equipment to monitor and record ground motion",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 125.2,
     "end": 127.4,
     "text": "as the concert got started.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 127.4,
     "end": 130,
     "text": "As James explains here to Marnie Chesterton,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 130,
     "end": 134,
     "text": "presenter of BBC Radio 4 programme Inside Science.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 134,
     "end": 138.8,
-    "text": "Tell me about the peak on this graph that you're seeing, and what that actually corresponds to.",
+    "text": "Tell me about the peak on this graph that you're seeing, and what that actually corresponds to",
     "speaker": "peak"
   },
   {
+    "order": 36,
     "start": 138.8,
     "end": 141,
     "text": "In this top graph of the Red Wiggly line,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 141,
     "end": 145.8,
     "text": "we're looking at the ground velocity in essentially meters per second.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 145.8,
     "end": 148.8,
     "text": "So that's the velocity that the ground is vibrating up and down.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 148.8,
     "end": 151.199,
-    "text": "So, this is literally people stamping up and down.",
+    "text": "So, this is literally people stamping up and down",
     "speaker": "Marnie Chesterton"
   },
   {
+    "order": 40,
     "start": 151.199,
     "end": 156.199,
     "text": "Yes, so this is all of the energy combined from the 75,000 people in the stadium,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 156.199,
     "end": 159.199,
     "text": "jumping in unison and stamping in unison.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 159.199,
     "end": 168,
     "text": "James, the British Geological Survey recorded 23.4 nanometers of movement in Edinburgh.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 168,
     "end": 169.4,
     "text": "What does that actually mean?",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 169.4,
     "end": 175.2,
-    "text": "So, what that means is that they recorded the ground flexing up and down by a distance of 23 nanometres.",
-    "speaker": "flexing"
+    "text": "So what that means is that they recorded the ground flexing up and down",
+    "speaker": "Marnie Chesterton"
   },
   {
+    "order": 45,
     "start": 175.2,
     "end": 178.599,
     "text": "by a distance of 23 nanometers.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 178.599,
     "end": 183.599,
     "text": "James' equipment recorded seismic movement when Taylor Swift started to sing.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 183.599,
     "end": 188.4,
     "text": "Her hit song, Cruel Summer, created a peak, the highest point in the graph",
-    "speaker": null
+    "speaker": "peak -in unison,"
   },
   {
+    "order": 48,
     "start": 188.4,
     "end": 190.599,
     "text": "which James' machine was drawing.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 190.599,
     "end": 195,
     "text": "The peak was made by thousands of swiftees jumping up and down in unison,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 195,
     "end": 197.2,
     "text": "together and at the same time,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 197.199,
     "end": 200.199,
     "text": "creating something like a mini-earth quake.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 200.199,
     "end": 205.399,
     "text": "The seismologist measured a ground movement of 23 nanometers.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 205.399,
     "end": 208,
     "text": "That may not sound much, but remember,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 208,
     "end": 213,
     "text": "this is the earth itself actually flexing or bending without breaking.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 213,
     "end": 218.799,
-    "text": "So the ground is shaking, music is blasting, and thousands of fans are dancing.",
-    "speaker": null
+    "text": "So, the ground is shaking, music is blasting, and thousands of fans are dancing",
+    "speaker": "Georgie"
   },
   {
+    "order": 56,
     "start": 218.799,
     "end": 222.799,
     "text": "But does this qualify as an earthquake scientifically speaking?",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 222.8,
     "end": 228.6,
     "text": "Here's James Panton and Marnie Chasterton again for BBC Radio 4's Inside Science.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 228.6,
     "end": 233.8,
-    "text": "James, impressive as this is to see coming up on your seismograph, this is not the same league really as an earthquake.",
-    "speaker": "the same league"
+    "text": "James, impressive as this is to see coming up on your seismograph.",
+    "speaker": null
   },
   {
+    "order": 59,
     "start": 233.8,
     "end": 237.2,
     "text": "This is not the same leak really as an earthquake.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 237.2,
     "end": 238.6,
     "text": "No, definitely not.",
-    "speaker": null
+    "speaker": "comparable"
   },
   {
+    "order": 61,
     "start": 238.6,
     "end": 243.8,
     "text": "There have been some people who have tried to convert the energy output from concerts",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 243.8,
     "end": 248.8,
     "text": "into a local magnitude scale to make it comparable to an earthquake.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 248.8,
     "end": 254.6,
     "text": "And when that's happened, we find magnitude that a generally less than one.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 254.6,
     "end": 258.4,
     "text": "Sadly, the answer to Georgie's question is no.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 258.4,
     "end": 262.199,
     "text": "The Taylor Swift concert wasn't technically an earthquake.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 262.199,
     "end": 265.6,
     "text": "Marnie says the concert was not in the same league,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 265.6,
     "end": 270,
     "text": "an idiot meaning not nearly as good or important as something else.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 270,
     "end": 275.6,
     "text": "Yes, the energy created by the music sound waves and thousands of fans jumping",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 275.6,
     "end": 282.4,
     "text": "did move the earth, but not in a way that's comparable or similar to a real earthquake.",
-    "speaker": null
+    "speaker": "comparable"
   },
   {
+    "order": 70,
     "start": 282.4,
     "end": 286.2,
     "text": "By definition, an earthquake must break the earth's crust",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 286.2,
     "end": 291,
     "text": "and is caused by either the movement of tectonic plates or a volcano.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 291,
     "end": 294.2,
     "text": "Officially, Taylor Swift didn't cause an earthquake,",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 294.2,
     "end": 297,
     "text": "but for the Swifties, it probably felt like one.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 297,
     "end": 300,
     "text": "All of which brings us back to my question, Georgie.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 300,
     "end": 305.4,
     "text": "I asked you about another earth-shattering concert involving the British band Madness.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 305.399,
     "end": 309,
     "text": "But where in London did this show take place?",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 309,
     "end": 311.599,
     "text": "And I guessed it was at The Royal Albert Hall.",
     "speaker": "Georgie"
   },
   {
+    "order": 78,
     "start": 311.599,
     "end": 315,
     "text": "Which was the wrong answer I'm afraid Georgie,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 315,
     "end": 318.199,
     "text": "in fact, the concert happened in Finchbury Park.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 318.199,
     "end": 321.599,
     "text": "Okay, let's recap the vocabulary we've learnt in this programme,",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 321.599,
     "end": 324.199,
     "text": "starting with the phrase rock your world,",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 324.199,
     "end": 327.799,
     "text": "meaning that someone or something has a positive effect on you,",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 327.799,
     "end": 330,
     "text": "making your life enjoyable.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 330,
     "end": 333,
     "text": "A peak is the highest point of something.",
     "speaker": "peak"
   },
   {
+    "order": 85,
     "start": 333,
     "end": 338.6,
-    "text": "When things happen in unison, they happen together, at the same time.",
-    "speaker": "in unison"
+    "text": "When things happen in unison, they happen together at the same time.",
+    "speaker": null
   },
   {
+    "order": 86,
     "start": 338.6,
     "end": 341.8,
     "text": "To flex means to bend without breaking.",
     "speaker": "flex"
   },
   {
+    "order": 87,
     "start": 341.8,
     "end": 345.6,
-    "text": "If you say something is not in the same league as something else, you mean it's nowhere near as good or important.",
-    "speaker": "not in the same league"
+    "text": "If you say something is not in the same league as something else,",
+    "speaker": null
   },
   {
+    "order": 88,
     "start": 345.6,
     "end": 348.8,
     "text": "you mean it's no in here, it's good or important.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 348.8,
     "end": 355,
-    "text": "And finally, the adjective comparable means similar in size, amount or quality.",
-    "speaker": null
+    "text": "And finally, the adjective comparable means similar in size, amount, or quality",
+    "speaker": "comparable"
   },
   {
+    "order": 90,
     "start": 355,
     "end": 357.199,
     "text": "Once again, our six minutes are up,",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 357.199,
     "end": 362.199,
     "text": "but remember to join us again next time for more trending topics and useful vocabulary.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 362.199,
     "end": 364,
     "text": "Here at 6 Minute English.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 364,
     "end": 365,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 365,
     "end": 366,
-    "text": "Bye!",
-    "speaker": "Phil"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

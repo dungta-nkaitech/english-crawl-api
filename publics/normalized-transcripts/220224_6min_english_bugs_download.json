@@ -1,602 +1,702 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 11.439,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 13.679,
     "end": 17.6,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 17.6,
     "end": 18.64,
-    "text": "And I’m Sam.",
-    "speaker": "Sam"
+    "text": "And I'm Sam.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 18.64,
     "end": 20.559,
     "text": "Do you like trying new food?",
     "speaker": "Neil"
   },
   {
+    "order": 6,
     "start": 20.559,
     "end": 24,
     "text": "I do indeed. I love eating foods from around the world",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 24,
     "end": 28.48,
     "text": "and I especially like trying out restaurants that serve new kinds of food.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 28.48,
     "end": 29.6,
     "text": "Mmm, me too.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 29.6,
     "end": 32.48,
-    "text": "And I like food that is a mix of different styles,",
-    "speaker": null
+    "text": " and I like food that is a mix of different styles",
+    "speaker": "fusion"
   },
   {
+    "order": 10,
     "start": 32.48,
     "end": 34.64,
     "text": "sometimes called fusion food.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 34.64,
     "end": 39.359,
     "text": "But could I tempt you to some insect tapass or a tarantula donut?",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 39.359,
     "end": 40.88,
     "text": "Mmm, maybe not.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 40.88,
     "end": 45.519,
-    "text": "Maybe not – the idea of eating food made from bugs and creepy crawlies doesn’t appeal.",
-    "speaker": "Sam"
-  },
-  {
-    "start": 45.519,
-    "end": 48.24,
-    "text": "Well, maybe I can convince you in this programme",
+    "text": "The idea of eating food made from bugs and creepy crawlies doesn't appeal.",
     "speaker": null
   },
   {
+    "order": 14,
+    "start": 45.519,
+    "end": 48.24,
+    "text": "Well, maybe I can convince you in this programme",
+    "speaker": "Neil"
+  },
+  {
+    "order": 15,
     "start": 48.24,
     "end": 52.719,
     "text": "because that's what we're discussing and teaching you some vocabulary along the way.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 52.719,
     "end": 56.079,
     "text": "But first, I must serve you a question to answer.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 56.079,
     "end": 59.359,
     "text": "It's about food, but not made from bugs.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 59.359,
     "end": 64,
     "text": "Do you know what type of food is sometimes known as priest chokers?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 64,
     "end": 68.239,
     "text": "Is it a cheese, b, pasta or c potato?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 68.239,
     "end": 70.239,
-    "text": "I think I know this one, Neil. It’s pasta, isn’t it?",
-    "speaker": "Sam"
+    "text": "I think I know this one, Neil.",
+    "speaker": "Neil"
   },
   {
+    "order": 21,
     "start": 70.239,
     "end": 72,
     "text": "It's pasta, isn't it?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 72,
     "end": 74.4,
     "text": "Well, I'll give you the answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 74.4,
     "end": 77.28,
     "text": "But let's get back to food made from bugs,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 24,
     "start": 77.28,
     "end": 79.92,
     "text": "which is a growing trend in the Western world.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 79.92,
     "end": 82.48,
     "text": "Insects are an alternative source of food.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 82.56,
     "end": 85.6,
     "text": "And experts say they're filled with lots of good nutrients,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 85.6,
     "end": 88.159,
     "text": "including amino acids and protein.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 88.159,
     "end": 91.76,
     "text": "And eating them could help to fight world hunger and reduce pollution.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 92.48,
     "end": 98.719,
-    "text": "I’m not convinced yet, but I do know that the word for eating insects is ‘entomophagy’ and it’s something BBC World Service programme, The Food Chain, discussed.",
-    "speaker": "entomophagy"
+    "text": "I'm not convinced yet, but I do know that the word for eating insects is entomophagy.",
+    "speaker": null
   },
   {
+    "order": 30,
     "start": 98.719,
     "end": 103.359,
     "text": "And it's something BBC World Service programme The Food Chain discussed.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 103.359,
     "end": 107.6,
     "text": "The programme spoke to experts who think cooking with bugs is a great idea.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 32,
     "start": 107.6,
     "end": 109.84,
     "text": "One of them was Andy Holcroft,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 109.84,
     "end": 113.68,
     "text": "founding director of grub kitchen and bug farm foods.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 113.68,
     "end": 116.88,
     "text": "He explained the challenge of getting some people to eat bugs.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 118.24,
     "end": 122.48,
     "text": "In the Western culture, we have got a bit of an uphill, I'd say,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 122.48,
     "end": 125.92,
     "text": "struggle because preconceptions around eating insects",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 125.92,
     "end": 128.08,
     "text": "already ingrained in society.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 128.08,
     "end": 130.56,
     "text": "So we already think, before we've even tried them,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 130.56,
     "end": 132.4,
     "text": "they're going to taste disgusting or gross.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 133.039,
     "end": 135.599,
     "text": "So to actually get someone to put it in your mouth,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 135.599,
     "end": 139.52,
     "text": "the easiest way we find straightaway is to try maybe a cricket cookie.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 139.6,
     "end": 144.24,
     "text": "Or a chocolate chip cricket cookie, where you have, we're using cricket powder.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 144.24,
     "end": 146.88,
     "text": "So you don't actually see any insects whatsoever.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 146.88,
     "end": 150.24,
     "text": "You're getting the idea that you're eating them so people can deal with that a bit more than",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 150.24,
     "end": 151.6,
     "text": "actually seeing the whole insects.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 152.8,
     "end": 157.6,
-    "text": "Interestingly, it seems to be Western cultures that don't like eating insects.",
-    "speaker": null
+    "text": "Interestingly, it seems to be western cultures that don’t like eating insects ",
+    "speaker": "an uphill struggle"
   },
   {
+    "order": 47,
     "start": 157.6,
     "end": 162.08,
     "text": "Perhaps because it's thought to be wrong or just disgusting, even if it's not.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 162.64,
     "end": 166.48,
     "text": "As Andy says, people have preconceived ideas about it.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 166.479,
     "end": 171.359,
     "text": "To change these ideas is an uphill struggle or needs a lot of effort to achieve.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 171.84,
     "end": 177.039,
-    "text": "Yes, the negative attitude to eating bugs is ingrained into society,",
-    "speaker": null
+    "text": "Yes, the negative attitude to eating bugs is ingrained into society,",
+    "speaker": "ingrained"
   },
   {
+    "order": 51,
     "start": 177.039,
     "end": 181.679,
     "text": "meaning it is a long-lasting attitude that is difficult to change.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 181.679,
     "end": 189.12,
     "text": "But Andy and other chefs are trying to change that attitude by subtly introducing insects into food,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 189.12,
     "end": 192.159,
     "text": "such as his chocolate chip cricket cookies.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 192.879,
     "end": 194.399,
     "text": "This is just for starters.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 194.4,
     "end": 199.36,
-    "text": "This is just for starters! Other interesting and exotic dishes, where you do see the bugs you’re eating, are now being served.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 199.84,
-    "end": 204.48,
-    "text": "I'm still not convinced, but maybe chef Joseph Yoon can change my mind.",
+    "text": "Other interesting and exotic dishes where you do see the bugs you're eating are now being served.",
     "speaker": null
   },
   {
+    "order": 56,
+    "start": 199.84,
+    "end": 204.48,
+    "text": "I’m still not convinced but maybe chef Joseph Yoon can change my mind? ",
+    "speaker": "Sam"
+  },
+  {
+    "order": 57,
     "start": 205.2,
     "end": 208.159,
     "text": "He is a chef and an edible insect ambassador.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 208.64,
     "end": 214.159,
     "text": "He's also trying to persuade the squeamish people easily upset by something unpleasant",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 214.159,
     "end": 217.92,
     "text": "to overcome their fears of cricket, worms and spiders,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 217.92,
     "end": 222.4,
     "text": "and instead see them as a tasty alternative source of protein.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 222.4,
     "end": 225.76,
-    "text": "Here he is, speaking on the BBC’s Food Chain programme talking about changing people’s attitudes.",
-    "speaker": "Neil"
+    "text": "Here he is speaking on the BBC's Food Chain Program,",
+    "speaker": null
   },
   {
+    "order": 62,
     "start": 225.76,
     "end": 228.159,
     "text": "talking about changing people's attitudes.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 229.04,
     "end": 233.68,
     "text": "We approach our work with openness, with understanding and inclusivity.",
-    "speaker": null
+    "speaker": "viscerallysustainably"
   },
   {
+    "order": 64,
     "start": 233.68,
     "end": 235.28,
     "text": "When people approach me and they go like,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 235.28,
     "end": 238.24,
     "text": "oh, are they react very viscerally?",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 238.879,
     "end": 240.08,
     "text": "I don't get confrontational.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 240.08,
     "end": 242.64,
     "text": "I go like, I understand that you can feel that way.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 243.28,
     "end": 250.24,
     "text": "And what we need to do is start changing these perceptions from insects as being a pest that bites you",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 250.24,
     "end": 256.56,
     "text": "or they carry disease to edible insects, something that's sustainably farmed and harvested,",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 256.56,
     "end": 258.319,
     "text": "specifically for human consumption.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 259.68,
     "end": 262.72,
     "text": "So Joseph is passionate about edible insects,",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 262.72,
     "end": 268.319,
     "text": "but is understanding of people who don't like the idea and maybe show this viscerally,",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 268.319,
     "end": 272.8,
-    "text": "Viscerally describes having an emotional reaction rather than one based on fact or reason.",
-    "speaker": "Viscerally"
+    "text": "having an emotional reaction rather than one based on fact or reason.",
+    "speaker": "ingrained"
   },
   {
+    "order": 74,
     "start": 272.8,
     "end": 278.96,
     "text": "But Joseph wants to change these negative emotions by explaining the insects are farmed",
-    "speaker": null
+    "speaker": "sustainably"
   },
   {
+    "order": 75,
     "start": 278.959,
     "end": 285.199,
     "text": "purely for humans to eat and they are farmed sustainably in a way that can last for a long time",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 285.199,
     "end": 286.959,
-    "text": "and is good for the environment.",
-    "speaker": null
+    "text": " and is good for the environment",
+    "speaker": "sustainably"
   },
   {
+    "order": 77,
     "start": 286.959,
     "end": 290.399,
     "text": "I suppose we kill animals such as cows and sheep to eat,",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 290.399,
     "end": 292.719,
     "text": "so why not insects or spiders?",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 292.719,
     "end": 298.319,
     "text": "The debate about this continues, but there's no debate about the answer to today's questions, Sam.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 298.319,
     "end": 304.319,
     "text": "Earlier I asked you if you knew what type of food is sometimes known as priest choker.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 304.319,
     "end": 306.719,
     "text": "And I was sure it was pasta.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 306.72,
     "end": 308.24,
     "text": "For it is pasta.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 308.24,
     "end": 314.96,
     "text": "Strots are pretty, which means priest chokers in Italian is an elongated form of cavatelli pasta.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 314.96,
     "end": 320.24,
     "text": "Its name is thought to come from the greedy priests who are so enthralled by the pasta",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 320.24,
     "end": 322.8,
     "text": "that they eat too quickly and choke themselves.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 323.44,
     "end": 324.96,
     "text": "No bugs were involved though.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 87,
     "start": 324.96,
     "end": 329.12,
-    "text": "That’s good to know because we have been talking about entomophagy, a word for the practice of eating insects.",
+    "text": "That’s good to know because we have been talking about entomophagy,",
     "speaker": "entomophagy"
   },
   {
+    "order": 88,
     "start": 329.12,
     "end": 331.76,
     "text": "a word for the practice of eating insects.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 331.839,
     "end": 337.36,
-    "text": "Other vocabulary we mentioned included fusion, which means a mix of different styles. And the expression an uphill struggle means needs a lot of effort to achieve.",
-    "speaker": "fusionan uphill struggle"
+    "text": "Other vocabulary we mentioned included fusion, which means a mix of different styles,",
+    "speaker": null
   },
   {
+    "order": 90,
     "start": 337.36,
     "end": 342.48,
     "text": "and the expression an uphill struggle means needs a lot of effort to achieve.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 342.48,
     "end": 348.24,
-    "text": "Something that is ingrained is a long-lasting attitude that is difficult to change.",
-    "speaker": "ingrained"
+    "text": "Something that is ingrained is a long-lasting attitude that is difficult to change.",
+    "speaker": null
   },
   {
+    "order": 92,
     "start": 348.24,
     "end": 354,
     "text": "Visually describes having an emotional reaction rather than one based on fact or reason.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 354,
     "end": 359.599,
-    "text": "And, doing something sustainably is doing it in a way that can last for a long time and is good for the environment.",
-    "speaker": "sustainably"
+    "text": "And doing something sustainably is doing it in a way that can last for a long time",
+    "speaker": null
   },
   {
+    "order": 94,
     "start": 359.68,
     "end": 361.6,
     "text": "and is good for the environment.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 361.6,
     "end": 363.76,
     "text": "Well that's all for this 6 Minute English.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 363.76,
     "end": 368.72,
-    "text": "Well, that’s all for this 6 Minute English. If you’ve enjoyed it, join us again soon for more real-life stories and topical vocabulary here at 6 Minute English. Goodbye for now!",
-    "speaker": "Neil"
+    "text": "If you've enjoyed it, join us again soon for more real-life stories and topical vocabulary",
+    "speaker": null
   },
   {
+    "order": 97,
     "start": 368.72,
     "end": 370.08,
     "text": "here at 6 Minute English.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 370.08,
     "end": 371.04,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 371.04,
     "end": 372.24,
-    "text": "Bye!",
-    "speaker": "Sam"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

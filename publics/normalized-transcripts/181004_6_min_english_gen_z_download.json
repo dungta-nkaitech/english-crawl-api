@@ -1,674 +1,786 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.56,
     "text": "From BBC Learning English",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.519,
     "end": 16.48,
     "text": "Hello and welcome to 6 Minute English, I'm Neil",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 16.48,
     "end": 17.6,
     "text": "And I'm Rob.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 17.6,
-    "end": 18.48,
-    "text": "Rob.",
     "speaker": null
   },
   {
-    "start": 18.48,
-    "end": 20.24,
-    "text": "Rob, what generation are you?",
+    "order": 6,
+    "start": 17.6,
+    "end": 18.48,
+    "text": "Rob,",
     "speaker": "generation"
   },
   {
-    "start": 20.24,
-    "end": 23.039,
-    "text": "Well what are my choices?",
-    "speaker": "Rob"
+    "order": 7,
+    "start": 18.48,
+    "end": 20.24,
+    "text": "What generation are you?",
+    "speaker": null
   },
   {
+    "order": 8,
+    "start": 20.24,
+    "end": 23.039,
+    "text": "Oh well, what are my choices?",
+    "speaker": null
+  },
+  {
+    "order": 9,
     "start": 23.039,
     "end": 26.64,
     "text": "You can't choose what generation you are, it depends on when you were born.",
     "speaker": "generation"
   },
   {
+    "order": 10,
     "start": 27.28,
     "end": 30.32,
     "text": "Oh, okay then, what are the different generations?",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 30.32,
     "end": 36.96,
     "text": "Well, there are baby boomers who were born in between the 1940s and the early 60s.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 36.96,
     "end": 42.56,
     "text": "Then there was Generation X born between the mid 1960s and the early 1980s.",
-    "speaker": null
+    "speaker": "Generation Generation"
   },
   {
+    "order": 13,
     "start": 42.56,
     "end": 46.56,
     "text": "Then there's Generation Y, also known as Millennials.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 46.56,
     "end": 50.32,
     "text": "Born mid 1980s to late 1990s and...",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 51.679,
     "end": 56.32,
     "text": "Okay, let me guess, Generation Z, born in the late 90s or early",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 56.32,
     "end": 58.32,
     "text": "90s. You're very smart.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 58.32,
     "end": 60.24,
-    "text": "You're very smart. So, which one are you?",
+    "text": "So, which one are you?",
     "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 60.24,
     "end": 61.6,
     "text": "That would give away my age, wouldn't it?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 61.6,
     "end": 65.439,
     "text": "But, okay, I have to confess, I am Generation X.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 65.439,
     "end": 66.48,
     "text": "And what about you, Neil?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 66.48,
     "end": 68.159,
-    "text": "Yes, me too, Generation X.",
-    "speaker": null
+    "text": "Yes me too, Generation X. ",
+    "speaker": "Generation GenerationGenGen Z"
   },
   {
+    "order": 22,
     "start": 68.159,
     "end": 73.28,
     "text": "But today, we're going to focus on Generation Z, also known as Gen Z.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 73.84,
     "end": 78.879,
     "text": "What marks Gen Z in particular is that they are the social media generation.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 78.879,
     "end": 82.159,
     "text": "They have never known a time without social media.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 82.159,
     "end": 82.96,
-    "text": "Oh, poor them!",
-    "speaker": "Rob"
-  },
-  {
-    "start": 83.679,
-    "end": 84.959,
-    "text": "Well, that's one view.",
+    "text": "Oh, poor them.",
     "speaker": null
   },
   {
+    "order": 26,
+    "start": 83.679,
+    "end": 84.959,
+    "text": " well, that's one view",
+    "speaker": "Gen Z"
+  },
+  {
+    "order": 27,
     "start": 84.959,
     "end": 86.559,
     "text": "Other opinions are available.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 87.119,
     "end": 90.879,
     "text": "Before we look at Gen Z in more detail, a question though.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 90.879,
     "end": 95.759,
     "text": "No one can quite agree on who first used the term social media.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 95.759,
     "end": 98.719,
     "text": "But we do know from which decade it came.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 98.719,
     "end": 104.159,
     "text": "Was it A, the 1980s, B, the 1990s, C, the naughties?",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 104.159,
     "end": 107.359,
-    "text": "c)    the noughties, that is the first decade of the 21st Century.",
-    "speaker": "noughties"
+    "text": "That is the first decade of the 21st century.",
+    "speaker": "Gen Z"
   },
   {
+    "order": 33,
     "start": 107.359,
     "end": 108.799,
     "text": "Rob, what's your answer?",
     "speaker": "noughties"
   },
   {
+    "order": 34,
     "start": 108.799,
     "end": 112.799,
     "text": "Well, come on, it's quite a recent thing, so it's got to be C, the naughties.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 112.799,
     "end": 115.679,
     "text": "Well, we'll find out the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 116.319,
     "end": 121.12,
-    "text": "Now we're going to hear from Hiral Patel, who is an analyst for Barclays.",
-    "speaker": null
+    "text": ". Now we're going to hear from Hiral Patel who is an analyst for Barclays",
+    "speaker": "Generation"
   },
   {
+    "order": 37,
     "start": 121.12,
     "end": 124.64,
     "text": "She appeared on BBC Radio 4's You and Yours programme,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 124.64,
     "end": 129.039,
     "text": "and was asked whether there was much difference between Millennials and Generation Z.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 129.039,
     "end": 131.919,
     "text": "Does she think they are the same or different?",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 132.8,
     "end": 135.919,
     "text": "Most people view Generation Z as many millennials.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 135.919,
     "end": 139.039,
     "text": "And that's because there is an obsession with the word millennial.",
-    "speaker": null
+    "speaker": "savvynorm"
   },
   {
+    "order": 42,
     "start": 139.039,
     "end": 141.84,
     "text": "Our research shows that Gen Z are different,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 141.84,
     "end": 144.479,
     "text": "and that they have their own set of values and preferences,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 144.479,
     "end": 147.039,
     "text": "which consumer brands need a cater for.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 147.039,
     "end": 149.92,
     "text": "Our research found that Gen Z are techinate,",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 149.92,
     "end": 152.8,
     "text": "high-pre informed consumers, and extremely savvy.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 152.8,
     "end": 156.319,
     "text": "This hyper-connected world that we live in today is a new norm for them.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 156.96,
     "end": 161.68,
     "text": "So, Rob, does Hiral Patel think there's much difference between the two generations?",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 161.68,
     "end": 165.199,
     "text": "Yes, she does, but she comments that not everyone does.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 50,
     "start": 165.759,
     "end": 171.36,
     "text": "Millennial is a term that is used so frequently that many people think it refers to all young people.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 171.92,
     "end": 174.719,
     "text": "Gen Z, she says, are not mini-millennials.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 174.719,
     "end": 178,
     "text": "They are quite different and have their own values and preferences.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 178,
     "end": 183.599,
     "text": "And this is important for consumer brands, for companies who want to sell to this generation.",
-    "speaker": null
-  },
-  {
-    "start": 183.599,
-    "end": 189.68,
-    "text": "And this is important for consumer brands, for companies who want to sell to this generation. They need to cater for that generation, which means they need to provide goods that Gen Z want.",
     "speaker": "cater forGen Z"
   },
   {
+    "order": 54,
+    "start": 183.599,
+    "end": 189.68,
+    "text": "They need to cater for that generation, which means they need to provide goods that Gen Z want.",
+    "speaker": null
+  },
+  {
+    "order": 55,
     "start": 189.68,
     "end": 195.199,
     "text": "And she describes Gen Z as being techinate, hyper-informed consumers.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 195.199,
     "end": 197.36,
     "text": "It's a bit of a mouthful, but essentially,",
-    "speaker": null
+    "speaker": "savvy"
   },
   {
+    "order": 57,
     "start": 197.36,
     "end": 201.68,
     "text": "it means they are extremely comfortable with modern technology and social media.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 201.84,
     "end": 206,
     "text": "And as a result, have a lot of information about what's going on in the world.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 206,
     "end": 207.84,
     "text": "This makes them savvy.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 207.84,
     "end": 212.08,
-    "text": "And being savvy means being able to understand situations well and make clever decisions because of this knowledge.",
-    "speaker": "savvy"
+    "text": "And being savvy means being able to understand situations well",
+    "speaker": null
   },
   {
+    "order": 61,
     "start": 212.08,
     "end": 214.96,
     "text": "and make clever decisions because of this knowledge.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 214.96,
     "end": 219.2,
     "text": "Now, I think I'm pretty savvy when it comes to modern connected technology and media,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 219.2,
     "end": 221.68,
     "text": "but I didn't grow up with it. It's new.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 221.68,
     "end": 224.96,
     "text": "For Gen Z, this level of technology is what is normal.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 224.96,
     "end": 227.36,
     "text": "It's all around and always has been.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 227.36,
     "end": 230.4,
     "text": "It's then norm as Hiral Patel put it.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 230.48,
     "end": 231.28,
     "text": "Here she is again.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 232.08,
     "end": 235.12,
     "text": "Most people view generation Z as many millennials.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 235.12,
     "end": 238.319,
     "text": "And that's because there is an obsession with the word millennial.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 238.319,
     "end": 243.2,
     "text": "Our research shows that Gen Z are different and that they have their own set of values and",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 243.2,
     "end": 246.319,
     "text": "preferences which consumer brands need to cater for.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 246.319,
     "end": 249.2,
     "text": "Our research found that Gen Z are techinate,",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 249.2,
     "end": 252.08,
     "text": "hyper-informed consumers and extremely savvy.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 252.08,
     "end": 255.599,
     "text": "This hyper-connected world that we live in today is a new norm for them.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 256.48,
     "end": 258.879,
     "text": "Right, time to review this week's vocabulary,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 76,
     "start": 258.879,
     "end": 262.319,
     "text": "but first let's have an answer to that quiz.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 262.319,
     "end": 266.159,
     "text": "In what decade was the term social media first coined?",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 266.159,
     "end": 270.959,
     "text": "Was it A, the 1980s, B, the 1990s or C, the naughties?",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 270.959,
     "end": 272,
     "text": "What did you say, Rob?",
     "speaker": "noughties"
   },
   {
+    "order": 80,
     "start": 272,
     "end": 274.159,
     "text": "Yeah, well I said C, the naughties.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 274.159,
     "end": 274.959,
     "text": "You're wrong.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 82,
     "start": 274.959,
     "end": 278.159,
     "text": "Perhaps unsurprisingly, the 1990s is the answer.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 278.159,
     "end": 280.159,
     "text": "I'm sure most of you got that one correct.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 280.639,
     "end": 282.48,
     "text": "Right now, the vocabulary.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 282.48,
     "end": 285.519,
     "text": "Yes, this week we've been talking about generations.",
-    "speaker": null
+    "speaker": "generations"
   },
   {
+    "order": 86,
     "start": 285.599,
     "end": 290.399,
     "text": "This is a term used to describe people born in a particular period of time,",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 290.399,
     "end": 294.079,
     "text": "usually but not always a period of about 18 to 20 years.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 294.079,
     "end": 297.359,
     "text": "And we were focusing on generation Z or Gen Z,",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 297.359,
     "end": 299.839,
     "text": "which includes those born in the early naughties,",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 299.839,
     "end": 305.599,
     "text": "which is the first decade of the 21st century from 2000 to 2009.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 305.599,
     "end": 308.399,
     "text": "The next expression was 2k2 for.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 308.399,
     "end": 313.12,
-    "text": "This means to provide something that is needed or wanted for a particular group.",
-    "speaker": null
+    "text": " This means to provide something that is needed or wanted for a particular group",
+    "speaker": "to cater for cater for"
   },
   {
+    "order": 93,
     "start": 313.12,
     "end": 317.84,
     "text": "And if you're trying to sell something, you need to cater for your target market.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 317.84,
     "end": 321.84,
     "text": "And if your market is Gen Z, you need to be aware that they are tech-inate,",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 321.84,
     "end": 323.28,
     "text": "hyper-informed.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 323.28,
     "end": 327.04,
     "text": "They've grown up with connected technology and are very knowledgeable.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 327.04,
     "end": 329.84,
     "text": "And this makes them extremely savvy.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 329.84,
     "end": 332.639,
-    "text": "This adjective means smart and intelligent.",
-    "speaker": null
+    "text": " This adjective means smart and intelligent",
+    "speaker": "savvyGen ZnormGen Z"
   },
   {
+    "order": 99,
     "start": 332.639,
     "end": 337.04,
     "text": "In this context, it means they're able to make smart decisions about what to buy,",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 337.04,
     "end": 340,
     "text": "because they're connected to so many sources of information.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 340,
     "end": 344,
     "text": "And for Gen Z, this level of interaction and connectivity is the norm.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 344,
     "end": 346.959,
     "text": "It's what is normal, what is usual for them.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 346.959,
     "end": 351.92,
     "text": "So, where I struggle sometimes with modern life and technology, for Gen Z, it's easy.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 351.92,
     "end": 356.319,
-    "text": "Well, that may be true but I'm savvy enough to know that it's time to end the programme.",
-    "speaker": "savvy"
-  },
-  {
-    "start": 356.319,
-    "end": 360.319,
-    "text": "Do join us again next time, and remember you can find us on Instagram,",
+    "text": "Well, that may be true, but I'm savvy enough to know that it's time to end the program.",
     "speaker": null
   },
   {
+    "order": 105,
+    "start": 356.319,
+    "end": 360.319,
+    "text": "Do join us again next time and remember you can find us on Instagram, ",
+    "speaker": "savvy"
+  },
+  {
+    "order": 106,
     "start": 360.319,
     "end": 363.6,
     "text": "Facebook, Twitter, YouTube, and of course, our website,",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 363.6,
     "end": 367.68,
     "text": "bbclearningenglish.com, and let's not forget our app, Rob.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 367.68,
     "end": 369.199,
-    "text": "Download it now. It's free!",
-    "speaker": "Rob"
+    "text": "Download it now, it's free.",
+    "speaker": null
   },
   {
+    "order": 109,
     "start": 369.279,
     "end": 370.639,
-    "text": "Join us again next time. Goodbye.",
+    "text": "Join us again next time.",
     "speaker": "Neil"
   },
   {
+    "order": 110,
     "start": 370.639,
     "end": 371.439,
     "text": "Goodbye.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 371.439,
     "end": 372.639,
-    "text": "Bye!",
-    "speaker": "Rob"
+    "text": "Bye.",
+    "speaker": null
   }
 ]

@@ -1,515 +1,601 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.32,
     "text": "6Nate English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.32,
     "end": 11.279,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.48,
     "end": 15.12,
-    "text": "Hello, and welcome to 6 Minute English. I'm Neil.",
+    "text": "Hello, and welcome to 6 Minute English. I'm Neil",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 15.12,
     "end": 16.32,
     "text": "And I'm Rob.",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 16.32,
     "end": 18.32,
     "text": "Rob, do you like metal?",
     "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 18.32,
     "end": 21.519,
     "text": "Oh, that's an odd question. I've never really thought about it.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 21.519,
     "end": 25.679,
-    "text": "Er, that’s an odd question. I’ve never really thought about it. I mean, I use metal things every day – my toaster, my bike, the underground…",
-    "speaker": "Rob"
+    "text": "I mean, I use metal things every day. My toaster, my bike, the underground.",
+    "speaker": null
   },
   {
+    "order": 9,
     "start": 25.679,
     "end": 28.48,
     "text": "No, no, no. Not that kind of metal.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 28.48,
     "end": 29.679,
     "text": "This kind of metal.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 11,
     "start": 35.679,
     "end": 40.079,
     "text": "Oh, that's kind of metal. The musical genre, the type of music.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 40.079,
     "end": 43.12,
     "text": "Yes. And a particular death metal.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 43.12,
     "end": 47.519,
-    "text": "That fast, loud, aggressive sounding, guitar-based music style?",
-    "speaker": "Rob"
+    "text": "That fast, loud, aggressive sounding guitar-based music style.",
+    "speaker": "Neil"
   },
   {
+    "order": 14,
     "start": 47.519,
     "end": 48.96,
     "text": "Yep, that’s the one.",
     "speaker": "Neil"
   },
   {
+    "order": 15,
     "start": 48.96,
     "end": 53.12,
-    "text": "Nope. Not my cup of tea at all. What kind of person do you think I am?",
-    "speaker": "Rob"
-  },
-  {
-    "start": 53.12,
-    "end": 56.64,
-    "text": "Well, that's the point. The type of person who likes death metal",
+    "text": "Nope, not my cup of tea at all. What kind of person do you think I am?",
     "speaker": null
   },
   {
+    "order": 16,
+    "start": 53.12,
+    "end": 56.64,
+    "text": "Well, that’s the point. The type of person who likes death metal",
+    "speaker": "Neil"
+  },
+  {
+    "order": 17,
     "start": 56.64,
     "end": 59.52,
     "text": "may not be the kind of person you think they are.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 59.52,
     "end": 62.399,
     "text": "More on that shortly, but first, a quiz.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 62.399,
     "end": 66.48,
     "text": "The electric guitar is an essential element to death metal music",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 66.48,
     "end": 70.159,
     "text": "in which decade were the first electric guitars produced.",
-    "speaker": null
+    "speaker": "aestheticjoyfulempowered"
   },
   {
+    "order": 21,
     "start": 70.159,
     "end": 76.4,
     "text": "Was it A, the 1920s, B, the 1930s, or C, the 1940s?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 76.4,
     "end": 80.48,
-    "text": "I think quite early, so I’m going to say the 1920s.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 80.48,
-    "end": 83.04,
-    "text": "Well, we'll see if you're right later in the program.",
+    "text": "Ooh, I think quite early, so I'm going to say the 1920s.",
     "speaker": null
   },
   {
+    "order": 23,
+    "start": 80.48,
+    "end": 83.04,
+    "text": "Well, we'll see if you're right later in the program.",
+    "speaker": "Rob"
+  },
+  {
+    "order": 24,
     "start": 83.28,
     "end": 86.88,
     "text": "Does violent music give people violent thoughts?",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 86.88,
     "end": 89.44,
     "text": "Recent research claims to have found the answer.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 89.44,
     "end": 92.64,
     "text": "This is how the topic was introduced on BBC News.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 92.64,
     "end": 94.48,
     "text": "What was the conclusion?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 96.48,
     "end": 100.56,
     "text": "A psychological study of fans of death metal suggests that they are not",
-    "speaker": null
+    "speaker": "desensitisedgenrelyricscannibalismjoy"
   },
   {
+    "order": 29,
     "start": 100.56,
     "end": 104.32,
     "text": "desensitized of violence despite the genre's association with growling,",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 104.32,
     "end": 108.64,
     "text": "often graphically violent lyrics, including depictions of cannibalism.",
-    "speaker": null
+    "speaker": "lyricscannibalism,"
   },
   {
+    "order": 31,
     "start": 108.64,
     "end": 112.56,
     "text": "Researchers found that the main response of fans to the music they love was joy.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 112.799,
     "end": 117.68,
     "text": "Not violence, adding that most are very nice people who wouldn't dream of hurting anyone,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 117.68,
     "end": 119.12,
     "text": "let alone eating them.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 120.719,
     "end": 123.52,
-    "text": "So what conclusion did the researchers come to?",
-    "speaker": "Neil"
+    "text": "So, what conclusion did the researchers come to?",
+    "speaker": null
   },
   {
+    "order": 35,
     "start": 124.32,
     "end": 129.199,
-    "text": "Well, they found that the response to the music was joy, not anger or violence. It made people happy.",
+    "text": "Well, they found that the response to the music was joy, not anger or violence.",
     "speaker": "joy"
   },
   {
+    "order": 36,
     "start": 129.199,
     "end": 130.56,
     "text": "It made people happy.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 130.56,
     "end": 133.759,
     "text": "There was a fear that listening to music with violent lyrics,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 133.759,
     "end": 138.48,
     "text": "which means violent words, would make people desensitized to violence.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 138.48,
     "end": 142.24,
     "text": "If you're desensitized to something, you don't see it as unusual or",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 142.24,
     "end": 144.08,
     "text": "unacceptable. It doesn't bother you.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 144.08,
     "end": 149.6,
     "text": "The newsreader also said that the lyrics of death metal include topics such as cannibalism,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 149.6,
     "end": 152,
     "text": "which is the practice of eating human flesh.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 153.04,
     "end": 157.76,
     "text": "Listening to someone singing about eating people apparently didn't make them feel like",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 157.76,
     "end": 158.96,
     "text": "snacking on their neighbours.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 159.68,
     "end": 160.96,
     "text": "Let's hear the introduction again.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 162.879,
     "end": 166.879,
     "text": "A psychological study of fans of death metal suggests that they are not",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 166.879,
     "end": 171.04,
     "text": "desensitized of violence despite the genre's association with growling,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 171.039,
     "end": 175.28,
     "text": "often graphically violent lyrics, including depictions of cannibalism.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 175.28,
     "end": 179.039,
     "text": "Researchers found that the main response of fans to the music they love was joy,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 179.039,
     "end": 183.919,
     "text": "not violence, adding that most are very nice people who wouldn't dream of hurting anyone,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 183.919,
     "end": 185.28,
     "text": "let alone eating them.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 186.959,
     "end": 191.919,
-    "text": "Professor Bill Thompson from Macquarie University in Sydney conducted this research. What does he say people don’t feel when listening to this kind of music?",
+    "text": "Professor Bill Thompson from Macquarie University in Sydney conducted this research.",
     "speaker": "Neil"
   },
   {
+    "order": 53,
     "start": 191.919,
     "end": 195.919,
     "text": "What does he say people don't feel when listening to this kind of music?",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 196.079,
     "end": 203.359,
     "text": "Most fans are not angry, most are actually musically trained people who really get a lot of",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 203.359,
     "end": 208.239,
     "text": "empowerment and aesthetic interest out of the music. They feel joyful, they feel transcendent,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 208.239,
     "end": 211.439,
     "text": "they feel empowered, but what they don't feel is angry.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 213.279,
     "end": 220.239,
-    "text": "What don't people feel? They don't feel angry. What they do feel is joyful, the adjective from joy.",
-    "speaker": null
+    "text": "What don’t people feel? They don’t feel angry! What they do feel is joyful, the adjective from joy.",
+    "speaker": "Neil"
   },
   {
+    "order": 58,
     "start": 220.239,
     "end": 225.519,
     "text": "They feel happy. Something else they feel is empowered. This is a feeling of being in",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 225.52,
     "end": 229.28,
     "text": "control of your life that you can make and follow your own decisions.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 229.28,
     "end": 235.12,
     "text": "Music is certainly a powerful art form. Professor Thompson also said that fans have an aesthetic",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 235.12,
     "end": 241.12,
-    "text": "Music is certainly a powerful art form. Professor Thompson also said that fans have an aesthetic interest in it. This means that they appreciate it as an art form. Let’s hear Professor Thompson again.",
-    "speaker": "aesthetic"
+    "text": "interest in it. This means that they appreciate it as an art form. Let's hear Professor Thompson again.",
+    "speaker": null
   },
   {
+    "order": 62,
     "start": 243.36,
     "end": 248.719,
     "text": "Most fans are not angry, most are actually musically trained people who really get a lot of",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 248.719,
     "end": 253.6,
     "text": "empowerment and aesthetic interest out of the music. They feel joyful, they feel transcendent,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 253.599,
     "end": 256.719,
     "text": "they feel empowered, but what they don't feel is angry.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 258.48,
     "end": 263.279,
-    "text": "Time to review our vocabulary, but first, let’s have the answer to the quiz question. In which decade were the first electric guitars produced? Was it:",
-    "speaker": "Neil"
+    "text": "Time to review our vocabulary. But first, let's have the answer to the quiz question,",
+    "speaker": null
   },
   {
+    "order": 66,
     "start": 263.279,
     "end": 271.199,
     "text": "in which decade were the first electric guitars produced? Was it A, the 1920s, B, the 1930s,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 271.199,
     "end": 278.319,
     "text": "or C, the 1940s? What did you think Rob? I took a guess at the 1920s. Well, electric guitars were",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 278.319,
     "end": 283.599,
     "text": "early, but not quite that early. I'm afraid the first ones were produced in the 1930s.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 69,
     "start": 283.599,
     "end": 288.959,
     "text": "So, well done, if, unlike Rob, you got that correct. Now onto the vocabulary.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 288.959,
     "end": 294.959,
-    "text": "Yes, we had a few words connected with music. We had genre for a style of music and also lyrics for the words of a song.",
+    "text": "Yes, we had a few words connected with music. We had genre for a style of music and also lyrics",
     "speaker": "genre lyrics"
   },
   {
+    "order": 71,
     "start": 294.959,
     "end": 300.159,
     "text": "for the words of a song. Some of the lyrics of death metal songs are about eating people,",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 300.159,
     "end": 306.079,
     "text": "which is called cannibalism. Cannibalism is a form of extreme violence, and there was some concern",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 306.079,
     "end": 312.639,
-    "text": "Cannibalism is a form of extreme violence and there was some concern that people exposed to such violent lyrics in songs might become desensitised to actual violence.",
+    "text": "that people exposed to such violent lyrics in songs might become desensitised to actual violence.",
     "speaker": "Cannibalismlyricsdesensitised"
   },
   {
+    "order": 74,
     "start": 312.639,
     "end": 316.56,
     "text": "This means that they would accept violence as normal and not be worried by it.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 316.56,
     "end": 320.879,
     "text": "However, the research show that this doesn't happen and fans actually feel joy,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 320.879,
     "end": 326.24,
     "text": "which is another way of saying happiness. The research also suggested that fans have an",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 326.24,
     "end": 331.36,
-    "text": "The research also suggested that fans have an artistic appreciation of death metal, described as an aesthetic interest.",
+    "text": "artistic appreciation of death metal, described as an aesthetic interest",
     "speaker": "aesthetic"
   },
   {
+    "order": 78,
     "start": 331.36,
     "end": 337.36,
     "text": "The final word was for a feeling that fans might get after listening to the music, empowered.",
-    "speaker": "empowered"
+    "speaker": null
   },
   {
+    "order": 79,
     "start": 337.36,
     "end": 341.199,
     "text": "Someone who is empowered is in control of their own life and decisions.",
     "speaker": "empowered"
   },
   {
+    "order": 80,
     "start": 341.759,
     "end": 346.08,
     "text": "And I feel empowered to bring this edition of 6 Minute English to a close.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 346.08,
     "end": 350.96,
     "text": "We look forward to your company next time. Until then, you can find us in all the usual places",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 350.96,
     "end": 356.72,
     "text": "on social media. That's Facebook, Twitter, Instagram and YouTube. And there's our website.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 356.72,
     "end": 360.96,
     "text": "And of course, we have a free app which you can find in the app stores.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 360.96,
     "end": 365.68,
     "text": "You'll be able to listen to 6 Minute English on the move. You just walk and we talk.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 366.4,
     "end": 370.24,
     "text": "Just search for BBC Learning English. Bye for now. Goodbye.",

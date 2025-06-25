@@ -1,371 +1,433 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7.679,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7.679,
     "end": 13.599,
     "text": "Hello and welcome to 6 Minute English from BBC Learning English. I'm Beth.",
     "speaker": "Beth"
   },
   {
+    "order": 2,
     "start": 13.599,
     "end": 18.879,
-    "text": "And I'm Neil. Don't forget that you can find a transcript and a quiz for this episode on our website, bbclearningenglish.com.",
-    "speaker": "Neil"
+    "text": "And I'm Neil. Don't forget that you can find a transcript and a quiz for this episode on our website",
+    "speaker": null
   },
   {
+    "order": 3,
     "start": 18.879,
     "end": 25.679,
     "text": "BBCLearningEnglish.com. Now, today Neil, we're talking all about solving crime.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 25.679,
     "end": 27.92,
     "text": "Do you think you'd be a good detective?",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 5,
     "start": 27.92,
     "end": 33.52,
     "text": "Actually, no, Beth, I think. My brain's not very good with details.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 33.52,
     "end": 39.439,
     "text": "Today we'll be talking about how artificial intelligence might help detectives and the police",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 39.439,
     "end": 45.84,
     "text": "investigate crimes. But first, I have a question for you, Beth. In the UK, lots of people enjoy",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 45.84,
     "end": 52,
     "text": "watching fictional detectives on TV. These programs are called murder mysteries and tell the story",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 52,
     "end": 58.799,
     "text": "of a detective solving a crime. In 2020, a magazine called The Radio Times asked readers",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 58.799,
     "end": 65.92,
     "text": "who their favourite TV detective was. So, who do you think was the most popular? Was it A, Sherlock",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 65.92,
     "end": 73.84,
     "text": "Holmes, B, Aircule Poirot or C, Miss Marple? Surely it's Sherlock Holmes. Well, you sound",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 73.84,
     "end": 80.319,
     "text": "very sure, but I will reveal the answer at the end of the program. Now, when the police are investigating",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 80.319,
     "end": 86.079,
     "text": "crimes in the real world, their techniques are often quite different from what we see on television.",
-    "speaker": null
-  },
-  {
-    "start": 86.079,
-    "end": 92.239,
-    "text": "Yes. Solving crimes involves collecting and reviewing lots of evidence, like DNA, fingerprints, or CCTV.",
     "speaker": "Beth"
   },
   {
+    "order": 14,
+    "start": 86.079,
+    "end": 92.239,
+    "text": "Yes. Solving crimes involves collecting and reviewing lots of evidence, like DNA,",
+    "speaker": "Beth"
+  },
+  {
+    "order": 15,
     "start": 92.239,
     "end": 100.799,
     "text": "fingerprints or CCTV. All of this work takes a lot of time, so can AI help police speed up the work",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 100.799,
     "end": 106.639,
     "text": "and even solve crimes? That's the question listener Alistair had for the BBC Radio 4 program,",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 106.719,
     "end": 111.76,
     "text": "The Artificial Human, and host Alex Krotowski wanted to know more.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 112.64,
     "end": 116.96,
     "text": "So, Alistair, why are you asking this question? Tell us a little bit about yourself and where",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 116.96,
     "end": 122.96,
     "text": "you're coming from. So, my name is Alistair and I'm a serving police officer. My background is",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 122.96,
     "end": 128.639,
-    "text": "So, my name's Alastair and I'm a serving police officer. My background is with investigation. I'm looking at artificial intelligence and thinking, \"What can it do for me?\"",
-    "speaker": "backgroundWhat can it do for me"
+    "text": "with investigation. I'm looking at artificial intelligence and thinking, what can it do for me?",
+    "speaker": "where you're coming from"
   },
   {
+    "order": 21,
     "start": 129.439,
     "end": 136.24,
     "text": "Alex asks Alistair to explain where he's coming from. This means explain his perspective or point",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 136.24,
     "end": 142.4,
     "text": "of view. In informal English, we'll often ask someone, do you get where I'm coming from?",
-    "speaker": null
+    "speaker": "where he's coming fromwhere I'm coming from"
   },
   {
+    "order": 23,
     "start": 142.4,
     "end": 146.08,
     "text": "And we're asking whether they understand our opinion or perspective.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 146.64,
     "end": 152.159,
     "text": "Alistair explains that he's interested in how artificial intelligence could help solve crimes,",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 152.159,
     "end": 157.439,
     "text": "because he's a police officer with a background in investigations. If you have a background in",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 157.439,
     "end": 163.28,
     "text": "something, it means most of your previous work or experience was related to something. For example,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 163.28,
     "end": 169.52,
     "text": "I work as a producer at BBC Learning English Now Making Programs, but my background is in",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 169.52,
     "end": 176.479,
     "text": "classroom teaching. Alistair talks about using artificial intelligence for training and asks,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 176.479,
     "end": 182.719,
-    "text": "Alastair talks about using artificial intelligence for training and asks, \"What can it do for me?\" This means, \"How can artificial intelligence help or improve something?\"",
+    "text": "what can it do for me? This means how can artificial intelligence help or improve something?",
     "speaker": "What can it do for me"
   },
   {
+    "order": 30,
     "start": 182.719,
     "end": 188.08,
     "text": "When a crime happens, police officers have to collect and review a lot of information to find",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 188.16,
     "end": 193.28,
     "text": "evidence. When you have a lot of information to review, it can be difficult to know what's",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 193.28,
     "end": 199.68,
     "text": "important and find patterns which might be relevant to the crime. But Professor Roof Morgan,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 199.68,
     "end": 206.32,
-    "text": "But Professor Ruth Morgan, an expert in crime and forensic science, thinks AI could help speed up police work, as she told BBC Radio 4's The Artificial Human.",
+    "text": " an expert in crime and forensic science, thinks AI could help speed up police work",
     "speaker": "Beth"
   },
   {
+    "order": 34,
     "start": 206.32,
     "end": 212.8,
     "text": "as she told BBC Radio 4's The Artificial Human. I think we're seeing a renaissance in the pattern",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 212.8,
     "end": 217.6,
     "text": "recognition forms of evidence, so finger marks, footwear marks. There's been lots of challenges with",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 217.599,
     "end": 221.759,
     "text": "those forms of evidence over the last 10 years, probably go a little bit out of favour. And yet,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 221.759,
     "end": 226.159,
     "text": "what we're beginning to see now with AI is that you can take a photo of a mark with your phone,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 226.799,
     "end": 230.24,
     "text": "compare that mark to the database and get real time insight.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 231.039,
     "end": 236.319,
     "text": "Roof says there's a renaissance in looking at patterns in evidence, such as finger marks or",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 236.319,
     "end": 242.719,
-    "text": "footwear marks. Renaissance means new interest or activity in a particular topic or area.",
-    "speaker": null
+    "text": " footwear marks. Renaissance means new interest or activity in a particular topic or area",
+    "speaker": "renaissanceRenaissance"
   },
   {
+    "order": 41,
     "start": 242.719,
     "end": 248.24,
     "text": "This kind of evidence went a little bit out of favour over recent years because of the",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 248.24,
     "end": 255.039,
     "text": "excitement around DNA evidence. If something is out of favour, it's less popular or appealing.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 255.039,
     "end": 261.759,
     "text": "But AI could mean that patterns in finger marks or footwear marks are useful in solving crimes again.",
-    "speaker": null
+    "speaker": "real-timereal-time"
   },
   {
+    "order": 44,
     "start": 262.399,
     "end": 268,
     "text": "This is because AI can be used to compare a picture of a mark with a database of pictures from",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 268,
     "end": 274.72,
     "text": "other crimes and get real time insight. The adjective real time means the information is presented",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 274.72,
     "end": 281.839,
     "text": "at the same time that it's happening. Yes, AI can compare lots of information very quickly,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 281.839,
     "end": 287.279,
-    "text": "Yes, AI can compare lots of information very quickly, which makes finding patterns in evidence much easier and more reliable.",
-    "speaker": "Beth"
+    "text": "which makes finding patterns in evidence much easier and more reliable.",
+    "speaker": null
   },
   {
+    "order": 48,
     "start": 287.279,
     "end": 292.48,
-    "text": "There are some problems with using AI to solve crimes though.",
+    "text": "There are some problems with using AI to solve crimes though. To find these patterns, ",
     "speaker": "Neil"
   },
   {
+    "order": 49,
     "start": 292.48,
     "end": 297.759,
     "text": "lots of private information would need to be collected. And police usually have to give",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 297.759,
     "end": 303.12,
     "text": "clear reasons why they need access to certain information in their investigations.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 303.84,
     "end": 308.72,
     "text": "It's unlikely an AI-powered robot would ever replace a detective anytime soon!",
     "speaker": "Neil"
   },
   {
+    "order": 52,
     "start": 309.28,
     "end": 315.52,
-    "text": "Yes, and that reminds me of your question, Neil. I said that Sherlock Holmes was maybe the most popular detective. Was I right?",
-    "speaker": "Beth"
+    "text": "Yes, and that reminds me of your question, Neil. I said that Sherlock Holmes was maybe the most",
+    "speaker": null
   },
   {
+    "order": 53,
     "start": 315.52,
     "end": 321.92,
     "text": "popular detective. Was I right? You were absolutely right. And I think people should try the quiz",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 321.92,
     "end": 327.28,
-    "text": "on our website to find out how much they know as well. It's at BBCLearningEnglish.com.",
-    "speaker": null
+    "text": " on our website to find out how much they know as well. It's at bbclearningenglish.com",
+    "speaker": "where you're coming from"
   },
   {
+    "order": 55,
     "start": 327.28,
     "end": 332.72,
     "text": "Okay, let's recap the vocabulary we've learned starting with the expression where you're coming from,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 332.72,
     "end": 338,
     "text": "which means you're opinion or perspective on something. Your background is the area that you have",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 338,
     "end": 344.4,
     "text": "the most work experience in. The question, what can this do for me? Means how can this help or",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 344.4,
     "end": 350.4,
-    "text": "Renaissance means new interest or activity in something",
-    "speaker": "Renaissance"
-  },
-  {
-    "start": 350.399,
-    "end": 356.56,
-    "text": "favour, it has become less popular or appealing. And the adjective real-time means information is",
+    "text": "improve things? Renaissance means new interest or activity in something. If something is out of",
     "speaker": null
   },
   {
+    "order": 59,
+    "start": 350.399,
+    "end": 356.56,
+    "text": "favour, it has become less popular or appealing. And the adjective real-time means information is",
+    "speaker": "out of favour"
+  },
+  {
+    "order": 60,
     "start": 356.56,
     "end": 362.079,
     "text": "presented as it is happening. Once again, our six minutes are up. Head to our website to find more",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 362.079,
     "end": 367.12,
     "text": "episodes of six minute English at BBCLearningEnglish.com. Bye for now. Bye.",

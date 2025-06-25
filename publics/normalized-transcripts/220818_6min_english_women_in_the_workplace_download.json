@@ -1,839 +1,979 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 14.12,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 14.12,
     "end": 17.28,
-    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "text": "Hello. This is 6 Minute English from BBC Learning English.",
     "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 17.28,
     "end": 17.96,
     "text": "I'm Neil.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 17.96,
     "end": 18.96,
-    "text": "And I’m Sam.",
-    "speaker": "Sam"
-  },
-  {
-    "start": 18.96,
-    "end": 22.679,
-    "text": "Sam, does this situation sound familiar?",
+    "text": "And I'm Sam.",
     "speaker": null
   },
   {
+    "order": 6,
+    "start": 18.96,
+    "end": 22.679,
+    "text": "Sam, does this situation sound familiar?",
+    "speaker": "Neil"
+  },
+  {
+    "order": 7,
     "start": 22.679,
     "end": 24.76,
     "text": "It's a colleague's birthday next week.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 24.76,
     "end": 27.839,
     "text": "A male boss says to a female employee,",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 27.839,
     "end": 29.759,
     "text": "you're great at organizing things,",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 29.759,
     "end": 33.2,
     "text": "would you buy a card and get everyone in the office to sign it?",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 33.2,
     "end": 35.48,
     "text": "Oh, and we'll need to order a cake too.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 35.48,
     "end": 36.799,
     "text": "Thanks, you're amazing.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 36.799,
     "end": 39.119,
     "text": "Yes, I have seen that.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 39.119,
     "end": 42.48,
     "text": "A male boss asks a woman to do all the jobs",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 42.48,
     "end": 44.2,
     "text": "that keep the office running,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 44.2,
     "end": 46.359,
     "text": "but do nothing to advance her career",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 46.359,
     "end": 49.079,
     "text": "or improve her chances of promotion.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 49.079,
     "end": 51.439,
     "text": "That's when someone moves up into a higher,",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 51.439,
     "end": 53.56,
     "text": "better paid position in a company.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 53.56,
     "end": 55.48,
     "text": "Sadly, this happens a lot.",
-    "speaker": null
+    "speaker": "glass ceiling."
   },
   {
+    "order": 21,
     "start": 55.48,
     "end": 57.4,
     "text": "In many workplaces around the world,",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 57.399,
     "end": 60.119,
     "text": "it's the men who are considered born leaders",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 60.119,
     "end": 62.799,
     "text": "and promoted up the corporate career ladder,",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 62.799,
     "end": 66.12,
     "text": "while the women are given less important roles.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 66.12,
     "end": 68.959,
     "text": "Even today, many working women find themselves",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 68.959,
     "end": 70.599,
     "text": "at a point in their career",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 70.599,
     "end": 72.959,
     "text": "beyond which they cannot progress.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 72.959,
     "end": 74.84,
     "text": "An invisible barrier to succeed",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 74.84,
     "end": 77.2,
     "text": "referred to as the glass ceiling.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 77.2,
     "end": 81.2,
     "text": "This in this programme will be meeting the members of the No Club,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 81.2,
     "end": 82.599,
     "text": "a group of women saying,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 82.599,
     "end": 84.319,
     "text": "no, to the glass ceiling,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 84.319,
     "end": 87.599,
     "text": "by publicly questioning the kinds of jobs men and women",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 87.599,
     "end": 89.839,
     "text": "are asked to do in the workplace.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 89.839,
     "end": 93.439,
     "text": "And of course, we'll be learning some useful new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 93.439,
     "end": 96.079,
     "text": "But first, I have a question for you, Sam.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 37,
     "start": 96.079,
     "end": 97.519,
     "text": "Despite the glass ceiling,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 97.519,
     "end": 99.599,
     "text": "women do make it to the top jobs",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 99.599,
     "end": 101.799,
     "text": "in many areas of work and business,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 101.799,
     "end": 105.199,
     "text": "even in the male-dominated world of politics.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 105.199,
     "end": 109.56,
     "text": "So, who was the first woman to become British Prime Minister?",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 109.56,
     "end": 111.439,
-    "text": "a) Theresa May?",
-    "speaker": "Neil"
+    "text": "Was it A, Theresa May,",
+    "speaker": null
   },
   {
+    "order": 43,
     "start": 111.439,
     "end": 115,
     "text": "B, Nicholas Sturgeon, or C, Margaret Thachar?",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 115,
     "end": 117.399,
     "text": "Hmm, I know the answer to this one, Neil.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 117.399,
     "end": 119.399,
     "text": "It's C, Margaret Thachar.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 119.399,
     "end": 122.799,
     "text": "OK, well, we'll find out later if you're right.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 47,
     "start": 122.799,
     "end": 126.4,
     "text": "Professor Lee's Vestelund is one of the four academics",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 126.4,
     "end": 128.56,
     "text": "who co-wrote the No Club,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 128.56,
     "end": 132.039,
     "text": "a book discussing how females disproportionately",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 132.039,
     "end": 136.039,
     "text": "take on the unimportant, less visible tasks at work.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 136.039,
     "end": 140.12,
     "text": "Professor Vestelund calls these non-promotable tasks,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 140.12,
     "end": 142,
     "text": "jobs like taking notes,",
-    "speaker": null
+    "speaker": "non-promotable tasks"
   },
   {
+    "order": 53,
     "start": 142,
     "end": 145.319,
     "text": "organizing social events or sharing meetings,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 145.319,
     "end": 147.28,
     "text": "jobs that take time and effort,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 147.28,
     "end": 150.12,
     "text": "but do little to increase company profits,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 150.12,
     "end": 152.08,
     "text": "or to boost your career.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 152.08,
     "end": 155.8,
     "text": "Research shows that most of these tasks are done by women.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 155.8,
     "end": 157.2,
     "text": "Here's Lee's Vestelund,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 157.2,
     "end": 161.879,
     "text": "explaining more to BBC World Service Programme, business daily.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 161.879,
     "end": 164.719,
     "text": "We've been noticing gender differences in wages,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 164.719,
     "end": 167.159,
     "text": "in advance management, in negotiation,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 167.159,
     "end": 170.12,
     "text": "burnout for women is much greater than it is for men.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 170.12,
     "end": 172.879,
     "text": "They're just satisfaction with their work is much greater.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 172.879,
     "end": 176.359,
     "text": "And we've been trying to sort of address all these objectives",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 176.359,
     "end": 179.599,
     "text": "with lots of different methods and techniques,",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 179.599,
     "end": 182.599,
     "text": "and what is interesting about the non-promotable work",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 182.599,
     "end": 185.56,
     "text": "is that it's sort of in a very structural sense",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 185.56,
     "end": 189.12,
     "text": "contributes to all of those differences.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 189.12,
     "end": 193.24,
     "text": "Professor Vestelund lists some workplace gender imbalances,",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 193.24,
     "end": 196.28,
     "text": "including job dissatisfaction and burnout.",
-    "speaker": null
+    "speaker": "burn-out"
   },
   {
+    "order": 71,
     "start": 196.28,
     "end": 200.36,
     "text": "That's tiredness and exhaustion caused by working too hard.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 200.36,
     "end": 205,
     "text": "Many of these issues are made worse by non-promotable tasks.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 205,
     "end": 206.92,
     "text": "Natalie Quail agrees.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 206.92,
     "end": 210.639,
     "text": "Natalie started her successful dental cosmetics company,",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 210.639,
     "end": 213.96,
     "text": "Smile Time, after winning a business competition",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 213.96,
     "end": 216.599,
     "text": "on the TV show, Dragon's Den.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 216.599,
     "end": 219.599,
     "text": "Here she tells BBC World Services Business Daily",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 219.599,
     "end": 222.319,
     "text": "about her experience of being asked to take on",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 222.319,
     "end": 224.96,
     "text": "non-promotable tasks in her work",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 224.96,
     "end": 227.599,
-    "text": "as a trainee solicitor.",
-    "speaker": null
+    "text": "As a trainee solicitor ",
+    "speaker": "multitaskingjuggling"
   },
   {
+    "order": 81,
     "start": 227.599,
     "end": 229.28,
     "text": "As a trainee solicitor,",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 229.28,
     "end": 232.24,
     "text": "pretty much every task that you take on",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 232.24,
     "end": 234.12,
     "text": "is a non-promotable task.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 234.12,
     "end": 236.319,
     "text": "Note-taking gets one of them in meetings",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 236.319,
     "end": 237.24,
     "text": "where you're kind of told,",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 237.24,
     "end": 239.48,
     "text": "like, you can't really speak or say anything.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 239.48,
     "end": 243.64,
     "text": "I was tasked with being their team party organizer,",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 243.64,
     "end": 244.64,
     "text": "so that was my role.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 244.64,
     "end": 247.36,
     "text": "It does definitely occur that the women and the team,",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 247.36,
     "end": 249.56,
     "text": "the level of multitasking they're doing",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 249.56,
     "end": 252.96,
     "text": "is just far outstrips the men in a lot of cases,",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 252.96,
     "end": 253.76,
     "text": "for example, you know,",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 253.759,
     "end": 256.079,
     "text": "a lot of women in the team would also be juggling,",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 256.079,
     "end": 258.759,
     "text": "having kids at home, being a working mom.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 258.759,
     "end": 263.12,
     "text": "Natalie found herself doing non-promotable tasks.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 263.12,
     "end": 265.199,
     "text": "She thinks many women in the workplace",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 265.199,
     "end": 267.759,
     "text": "are expected to be good at multitasking,",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 267.759,
     "end": 270.199,
     "text": "doing more than one thing at the same time.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 270.199,
     "end": 272.639,
     "text": "For working moms who are raising a family,",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 272.639,
     "end": 275,
-    "text": "as well as developing careers at work,",
-    "speaker": null
+    "text": " as well as developing careers at work",
+    "speaker": "juggling"
   },
   {
+    "order": 101,
     "start": 275,
     "end": 277.24,
     "text": "this involves some juggling,",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 277.24,
     "end": 278.639,
     "text": "trying to manage your life",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 278.639,
     "end": 281.079,
     "text": "when you're involved in many different activities,",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 281.079,
     "end": 282.8,
     "text": "which all demand your time.",
-    "speaker": null
+    "speaker": "Multitasking"
   },
   {
+    "order": 105,
     "start": 282.96,
     "end": 286.92,
     "text": "In the 40 years since the term glass ceiling was invented,",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 286.92,
     "end": 290.079,
     "text": "it seems not much has changed for working women.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 290.079,
     "end": 291.4,
     "text": "But there is some good news.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 291.4,
     "end": 294.04,
     "text": "The number of female managers and women working",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 294.04,
     "end": 296.8,
     "text": "in jobs traditionally seen as male",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 296.8,
     "end": 298.68,
     "text": "has increased dramatically.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 298.68,
     "end": 300.92,
     "text": "And those companies where getting promotion",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 300.92,
     "end": 303.16,
     "text": "is based on ability, not gender,",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 303.16,
     "end": 307.12,
     "text": "have benefited from talented, hardworking female leaders.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 307.12,
     "end": 309.4,
     "text": "And speaking of female leaders, Neil,",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 115,
     "start": 309.4,
     "end": 311.8,
     "text": "what was the answer to your question?",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 311.8,
     "end": 315.68,
     "text": "You asked me who was the first female British Prime Minister,",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 315.68,
     "end": 318.52,
     "text": "and I said, Margaret Thatcher, was I right.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 318.52,
     "end": 321.759,
     "text": "You were right. Mrs. Thatcher nicknamed the Iron Lady,",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 321.759,
     "end": 324.68,
     "text": "became Prime Minister in May 1979.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 324.68,
     "end": 327.6,
     "text": "The first woman to break the political glass ceiling",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 327.6,
     "end": 331.84,
     "text": "in the UK, an invisible barrier to advancing in your career.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 331.84,
     "end": 334.759,
-    "text": "OK, let's recap the other vocabulary we've learnt,",
-    "speaker": null
+    "text": "OK, let’s recap the other vocabulary we’ve learnt,",
+    "speaker": "promotion"
   },
   {
+    "order": 123,
     "start": 334.759,
     "end": 336.84,
     "text": "starting with promotion,",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 336.84,
     "end": 339.879,
     "text": "moving up into a higher, more important position",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 339.879,
     "end": 341,
     "text": "in your company.",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 341,
     "end": 344,
     "text": "The term non-promotable tasks describes",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 344,
     "end": 347.199,
     "text": "those unimportant jobs which help your organisation",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 347.199,
     "end": 349.48,
     "text": "that do nothing to advance your career.",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 349.48,
     "end": 351.56,
     "text": "They are often given to women.",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 351.56,
     "end": 355.24,
-    "text": "If you have burn-out, you’re exhausted from working too hard.",
-    "speaker": "burn-out"
+    "text": "If you have burnout, you're exhausted from working too hard.",
+    "speaker": null
   },
   {
+    "order": 131,
     "start": 355.24,
     "end": 358.24,
-    "text": "Multitasking is the ability to do several things at the same time.",
-    "speaker": "Multitasking"
+    "text": "Multi-tasking is the ability to do several things",
+    "speaker": null
   },
   {
+    "order": 132,
     "start": 358.24,
     "end": 359.6,
     "text": "at the same time.",
     "speaker": null
   },
   {
+    "order": 133,
     "start": 359.6,
     "end": 362.16,
     "text": "And finally, juggling involves managing",
     "speaker": null
   },
   {
+    "order": 134,
     "start": 362.16,
     "end": 365.72,
     "text": "many different activities which all demand your time.",
     "speaker": null
   },
   {
+    "order": 135,
     "start": 365.72,
     "end": 368.04,
     "text": "We've managed our time pretty well so far,",
     "speaker": null
   },
   {
+    "order": 136,
     "start": 368.04,
     "end": 370.36,
     "text": "but now our six minutes are up.",
     "speaker": null
   },
   {
+    "order": 137,
     "start": 370.36,
     "end": 371.12,
     "text": "Bye for now.",
     "speaker": null
   },
   {
+    "order": 138,
     "start": 371.12,
     "end": 372.64,
-    "text": "Bye!",
-    "speaker": "Neil"
+    "text": "Bye.",
+    "speaker": null
   },
   {
+    "order": 139,
     "start": 372.64,
     "end": 375.52,
     "text": "Six new English from the BBC.",

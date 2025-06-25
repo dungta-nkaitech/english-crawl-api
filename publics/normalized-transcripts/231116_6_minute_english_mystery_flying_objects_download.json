@@ -1,521 +1,608 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 5.679,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 5.679,
     "end": 11.2,
-    "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
+    "text": "Hello. This is 6 Minute English from BBC Learning English.",
     "speaker": "Neil"
   },
   {
+    "order": 2,
     "start": 11.2,
     "end": 12.2,
     "text": "I'm Neil.",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 12.2,
     "end": 13.2,
-    "text": "And I’m Beth.",
-    "speaker": "Beth"
-  },
-  {
-    "start": 13.2,
-    "end": 20.359,
-    "text": "Now you might know them as aliens, UFOs, little green men or even UAPs.",
+    "text": "And I'm Beth.",
     "speaker": null
   },
   {
+    "order": 4,
+    "start": 13.2,
+    "end": 20.359,
+    "text": "Now, you might know them as aliens, UFOs, little green men or even UAPs",
+    "speaker": "UAPsUAP"
+  },
+  {
+    "order": 5,
     "start": 20.359,
     "end": 25.24,
     "text": "UAP stands for Unidentified Anomalous Phenomena.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 25.239,
     "end": 32.399,
     "text": "And it's the word scientists now used to describe mysterious things not from this world.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 32.399,
     "end": 38.359,
     "text": "So, Beth, how would you feel if you looked up and saw strange objects glowing and twisting",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 38.359,
     "end": 39.759,
     "text": "through the sky?",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 39.759,
     "end": 40.759,
     "text": "Wow.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 40.759,
     "end": 43.039,
     "text": "Well, I might stare for a bit.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 43.039,
     "end": 46.079,
     "text": "I don't know if I'd believe what I was seeing.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 46.079,
     "end": 48.439,
     "text": "And I guess I'd be a bit scared.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 48.439,
     "end": 54.28,
     "text": "Well, that situation is exactly what Navy pilots caught on their fighter jet cameras",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 14,
     "start": 54.28,
     "end": 57.88,
     "text": "on a training flight in 2004.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 57.88,
     "end": 63.439,
     "text": "They recorded mysterious, oval objects flying at 24,000 metres.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 63.439,
     "end": 69.599,
     "text": "The footage is known as the Tick-Tack videos and they have had millions of views on YouTube.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 69.599,
     "end": 75.4,
     "text": "Now these videos are being reviewed by US Congress to try to understand what these objects",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 75.4,
     "end": 76.4,
     "text": "were.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 19,
     "start": 76.4,
     "end": 78.28,
     "text": "Were they flying sources?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 78.28,
     "end": 81.799,
     "text": "The disc-shaped craft flown by aliens?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 81.799,
     "end": 84.759,
     "text": "Before, is there a more rational explanation?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 84.759,
     "end": 89.519,
     "text": "In this programme, we'll be discussing whether we are alone in the universe.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 89.519,
     "end": 93.28,
     "text": "And as usual, we'll be learning some useful new vocabulary as well.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 93.28,
     "end": 96.679,
     "text": "But first I have a question for you, Beth.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 25,
     "start": 96.679,
     "end": 102.519,
     "text": "Thousands of UFO sightings are recorded every year, but which country has had the highest",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 102.519,
     "end": 108.719,
     "text": "number of reported sightings since records began, according to the National UFO Reporting",
-    "speaker": null
+    "speaker": "extraterrestrialExtra-terrestrial"
   },
   {
+    "order": 27,
     "start": 108.719,
     "end": 110.039,
     "text": "Centre?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 110.04,
     "end": 116.56,
     "text": "Is it A, the USA, B, Canada or C, China?",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 116.56,
     "end": 118.719,
     "text": "Hmm, I think it must be the USA.",
-    "speaker": "Beth"
+    "speaker": "Neil"
   },
   {
+    "order": 30,
     "start": 118.719,
     "end": 123.28,
     "text": "Okay, Beth, I'll reveal the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 123.28,
     "end": 128.64,
     "text": "Now while astronomers are scientists who study questions concerning things outside of",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 128.64,
     "end": 133.48,
     "text": "Earth, they often avoid investigating supposed aliens.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 133.48,
     "end": 138.84,
     "text": "Adam Frank, professor of astrophysics at the University of Rochester, explains why the",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 138.84,
     "end": 145.24,
     "text": "footage in the Tic-Tac videos can't give any definitive answers of alien life to BBC",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 145.24,
     "end": 147.68,
     "text": "World Service programme, the inquiry.",
-    "speaker": null
+    "speaker": "get a  handle onget a handle on"
   },
   {
+    "order": 36,
     "start": 147.68,
     "end": 150.52,
     "text": "I don't think the pilots are lying.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 150.52,
     "end": 154.12,
     "text": "You know, I think the pilots are being honest and have a lot of integrity about what they",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 154.12,
     "end": 155.159,
     "text": "say they're seeing.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 155.159,
     "end": 156.719,
     "text": "They're not saying they're aliens.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 156.719,
     "end": 160.599,
     "text": "They're saying they behaved in ways that no jet could behave.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 160.599,
     "end": 165.599,
     "text": "But you know, again, personal testimony, you can't do any science with that.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 165.599,
     "end": 169.759,
     "text": "So what may happen now is we're going to begin to get us some scientific study of this",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 169.759,
     "end": 172.519,
     "text": "and we'll try and get a better handle on it.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 172.519,
     "end": 178.719,
     "text": "Adam says the pilots have integrity and now meaning to have honesty and moral principles.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 178.719,
     "end": 183.199,
     "text": "However, what they saw is based on personal testimony.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 183.199,
     "end": 189.519,
     "text": "A personal testimony is a story or statement of evidence supported only by a person and",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 189.519,
     "end": 194.4,
     "text": "what they saw, rather than any external evidence or hard facts.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 194.4,
     "end": 199.76,
     "text": "To find out more about exactly what the pilots saw, scientific studies are being carried",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 199.76,
     "end": 203.48,
     "text": "out to try and get a better handle on the situation.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 203.48,
     "end": 208.879,
     "text": "If you get a handle on something, you understand it and are then able to deal with it.",
-    "speaker": "get a handle on"
+    "speaker": "personal testimony"
   },
   {
+    "order": 51,
     "start": 208.879,
     "end": 213.84,
     "text": "Taking a more scientific approach to what the pilots saw, the Tic-Tac videos were examined",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 213.84,
     "end": 216.96,
     "text": "by a panel put together by NASA.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 216.96,
     "end": 223.159,
     "text": "Here's Adam again discussing the findings on BBC World Service programme, the inquiry.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 223.159,
     "end": 229.879,
     "text": "At the NASA panel, one of the scientists showed a simple analysis of the video that shows",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 229.879,
     "end": 234.719,
     "text": "the object traveling seemingly at high speed over the ocean.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 234.719,
     "end": 238.24,
     "text": "And what the NASA scientist showed was that with a simple analysis, you could show that",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 238.24,
     "end": 240.68,
     "text": "that was moving at 40 miles an hour.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 240.68,
     "end": 244.479,
     "text": "So certainly nothing very extra terrestrial about that.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 244.479,
     "end": 249.24,
     "text": "The scientists found that although it looks like the object was traveling very fast, it",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 249.24,
     "end": 256.6,
     "text": "was only moving at 40 miles an hour, which Adam says is not very extra terrestrial.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 256.6,
     "end": 263.48,
     "text": "Extra terrestrial means from outside earth and is another word often used to describe aliens.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 263.48,
     "end": 269.4,
     "text": "So it seems that for now, scientists will need to find much more proof to know exactly",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 269.4,
     "end": 272.28,
     "text": "whether we're alone in the universe or not.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 272.28,
     "end": 276.56,
     "text": "OK, Beth, I think it's time I revealed the answer to my question.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 276.56,
     "end": 282.28,
     "text": "I asked you which country has had the highest number of reported sightings since records",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 282.28,
     "end": 286.6,
     "text": "began according to the National UFO Reporting Centre.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 286.6,
     "end": 288.399,
     "text": "And I guessed the USA…",
     "speaker": "Beth"
   },
   {
+    "order": 68,
     "start": 288.399,
     "end": 289.6,
     "text": "Which was.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 289.6,
     "end": 291.439,
     "text": "The correct answer.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 291.439,
     "end": 300.04,
     "text": "There have been over 100,000 reported sightings and encounters with UFOs in the USA since 1947.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 300.04,
     "end": 305.72,
     "text": "OK, let's recap the vocabulary we've learned from this programme, starting with UAP,",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 305.72,
     "end": 312.4,
     "text": "an acronym that stands for Unidentified Anomalous Phenomena and is another word meaning",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 312.4,
     "end": 314.24,
     "text": "Alien or UFO.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 314.24,
     "end": 320.2,
     "text": "A flying saucer is a disc-shaped craft supposedly flown by aliens.",
     "speaker": "flying saucer"
   },
   {
+    "order": 75,
     "start": 320.2,
     "end": 325.2,
     "text": "Integrity means being honest in what you say and having moral principles.",
-    "speaker": "Integrity"
+    "speaker": null
   },
   {
+    "order": 76,
     "start": 325.2,
     "end": 331,
-    "text": "A personal testimony is a story or statement of evidence supported by a person and what they saw, rather than external evidence or hard facts.",
-    "speaker": "personal testimony"
+    "text": "A personal testimony is a story or statement of evidence supported by a person and what",
+    "speaker": null
   },
   {
+    "order": 77,
     "start": 331,
     "end": 335.44,
     "text": "they saw rather than external evidence or hard facts.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 335.439,
     "end": 340.48,
     "text": "If you get a handle on something, you understand it and are able to deal with it.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 340.48,
     "end": 346.319,
     "text": "And finally, extra-terrestrial means from outside Earth and is another word often used to describe",
-    "speaker": null
+    "speaker": "extra-terrestrial"
   },
   {
+    "order": 80,
     "start": 346.319,
     "end": 347.319,
     "text": "aliens.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 347.319,
     "end": 349.56,
     "text": "Once again, our six minutes are up.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 349.56,
     "end": 353.92,
     "text": "Join us again soon for more useful vocabulary here at 6 Minute English.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 353.92,
     "end": 354.92,
     "text": "Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 354.92,
     "end": 356.56,
-    "text": "Bye!",
-    "speaker": "Neil"
+    "text": "Bye.",
+    "speaker": null
   },
   {
+    "order": 85,
     "start": 356.56,
     "end": 362.8,
     "text": "If you like six-minute English, why not try our NewsReview podcast where you can learn vocabulary",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 362.8,
     "end": 371.079,
     "text": "from the latest news headlines?",

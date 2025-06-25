@@ -1,362 +1,422 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7.679,
     "text": "6-Mute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7.679,
     "end": 11.919,
     "text": "Hello, this is 6-Minute English from BBC Learning English. I'm Neil.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 11.919,
     "end": 13.439,
     "text": "And I'm Beth.",
-    "speaker": "Beth"
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 13.439,
     "end": 17.76,
     "text": "Nowadays, it's popular to find out more about your family history",
-    "speaker": null
+    "speaker": "family tree"
   },
   {
+    "order": 4,
     "start": 17.76,
     "end": 23.039,
     "text": "by tracing your family tree, a diagram that shows all the members of a family",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 23.039,
     "end": 28.32,
     "text": "over a long period of time. What do you know about your family history, Beth?",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 28.32,
     "end": 35.439,
     "text": "Well, my mum actually did our family tree. She found a lot of ancestors had emigrated to",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 35.439,
     "end": 40.56,
     "text": "the United States, but yeah, I don't know much more than that. What about you?",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 40.56,
     "end": 48.4,
-    "text": "Well, I'm lucky to have an unusual surname, so it's quite easy to trace my ancestors and somebody in my family has gone back to 1700 and found somebody with my name.",
+    "text": "Well, I'm lucky to have an unusual surname, so it's quite easy to trace my ancestors ",
     "speaker": "Neil"
   },
   {
+    "order": 9,
     "start": 48.4,
     "end": 55.039,
     "text": "and somebody in my family has gone back to 1700 and found somebody with my name.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 55.039,
     "end": 60.399,
     "text": "Wow, that's amazing. Well, the internet has made it easier to find the historical records",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 60.399,
     "end": 66.4,
     "text": "needed to research your ancestry, the origins of your family. But what if you want to find out",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 66.4,
     "end": 72.4,
     "text": "about a time before historical records began? Luckily, some companies now offer to trace your",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 72.4,
     "end": 79.84,
     "text": "ancestry using DNA. DNA is the cellular information that's passed down from parents to children,",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 79.84,
     "end": 87.04,
     "text": "telling the body how to create life. Listener Chris from the UK recently took a DNA ancestry test.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 15,
     "start": 87.68,
     "end": 94.64,
     "text": "When the test returns some unexpected results, Chris called BBC Radio 4 program sliced bread,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 94.64,
     "end": 101.92,
     "text": "wondering how accurate they really were. Not so long ago, I sent off a home DNA testing kit,",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 102.48,
     "end": 108.48,
     "text": "and the results that came back were broadly in line with expectations, but they had some",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 108.56,
     "end": 114.079,
     "text": "little glitches in there, which made me think, is this accurate, or is it, to be taken with a pinch",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 114.079,
     "end": 119.76,
     "text": "of salt? Chris wondered whether his results were accurate, or whether to take them with a pinch of",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 119.76,
     "end": 126.8,
     "text": "salt, an idiom meaning to doubt something is completely true. So in this program, we'll discuss how",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 126.8,
     "end": 133.84,
     "text": "accurate DNA ancestry tracing is, and as usual, we'll learn some useful new words and phrases,",
-    "speaker": null
+    "speaker": "take them with a pinch of salt"
   },
   {
+    "order": 22,
     "start": 133.84,
     "end": 140.64,
     "text": "and remember you can find all the vocabulary for this program on our website, BBCLearningEnglish.com.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 140.64,
     "end": 147.439,
     "text": "First though, I have a question for you Beth. One reason to be cautious about DNA ancestry tests",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 147.439,
     "end": 154.24,
     "text": "is that humans are very similar to each other. Most of your DNA is identical with every other person",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 154.24,
     "end": 160.159,
     "text": "on Earth, and it's only the tiny amount of difference that accounts for all genetic variations",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 160.4,
     "end": 169.759,
     "text": "between humans. So, exactly how much DNA do humans share with each other? Is it a 79.9%",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 170.56,
     "end": 178.56,
-    "text": "I am going to guess 99.9%.",
-    "speaker": "Beth"
+    "text": "b 89.9% or c 99.9%? I am going to guess 99.9%",
+    "speaker": null
   },
   {
+    "order": 28,
     "start": 179.12,
     "end": 182.159,
     "text": "Okay, well we'll find out the answer later in the program.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 183.199,
     "end": 188.479,
     "text": "Another problem for research based on DNA is agreeing on the meaning of words like",
-    "speaker": null
+    "speaker": "Beth"
   },
   {
+    "order": 30,
     "start": 188.479,
     "end": 194.959,
     "text": "ancestry and ethnicity. Here, genealogist Louise Bulldog explains the difference between",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 194.959,
     "end": 201.599,
     "text": "these words to BBC Radio 4 program sliced bread. So ancestry is really about people, it's about",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 201.599,
     "end": 208.399,
     "text": "your actual four bears, your ethnicity, we would probably think of in geographical terms, maybe",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 208.399,
     "end": 216,
     "text": "which continent or which region your people came from. Like ancestors, the term four bears means",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 216.4,
     "end": 222.479,
     "text": "actual people, the relatives in your family from a long time ago. But Louise is more interested in",
-    "speaker": null
+    "speaker": "forebearsethnicity'"
   },
   {
+    "order": 35,
     "start": 222.479,
     "end": 228.4,
     "text": "the term ethnicity, the shared culture, language and traditions of a group of people,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 228.4,
     "end": 233.68,
     "text": "and this is closely connected to a geographical location. And it's this question of geography,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 233.68,
     "end": 240.479,
     "text": "which interested BBC presenter Greg Futt. Greg sent DNA samples to two different companies.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 240.479,
     "end": 245.12,
     "text": "The results from the first company matched what he already knew about his family,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 39,
     "start": 245.2,
     "end": 250.64,
     "text": "that the past five generations came from England. But listen to what happens when Louise Bulldog",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 250.64,
     "end": 257.36,
     "text": "revealed the results of Greg's second DNA test on his BBC Radio 4 show sliced bread.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 257.36,
     "end": 261.519,
     "text": "It's going to blow your mind. Okay. Can I tell you what you're looking at?",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 261.519,
     "end": 270.079,
     "text": "Yes, please do. It says that you are first of all 66% north and west Europe, but explicitly that",
-    "speaker": null
+    "speaker": "Greg Foot"
   },
   {
+    "order": 43,
     "start": 270.079,
     "end": 274.719,
     "text": "doesn't refer to the United Kingdom. Okay, so why is geographical area?",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 274.719,
     "end": 281.759,
-    "text": "27.5% Irish, Scottish and Welsh, but again, explicitly not English.",
-    "speaker": "Louise Baldock"
+    "text": "27.5% Irish, Scottish and Welsh, but again explicitly not English.",
+    "speaker": "Greg Foot"
   },
   {
+    "order": 45,
     "start": 282.24,
     "end": 289.199,
-    "text": "The second company's DNA test blows Greg's mind – it makes him very excited and surprised. There's no evidence of his ancestors being English at all!",
+    "text": "The second company's DNA test blows Greg's mind – it makes him very excited and surprised",
     "speaker": "blows  mind"
   },
   {
+    "order": 46,
     "start": 289.199,
     "end": 293.519,
     "text": "There's no evidence of his ancestors being English at all.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 293.519,
     "end": 299.36,
     "text": "Actually, companies compare DNA with other samples in their database. And since companies use",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 299.36,
     "end": 304.08,
     "text": "different databases, it's not too surprising that Greg's results were so different.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 304.08,
     "end": 309.84,
-    "text": "Speaking of which, what was the answer to your question, Neil?",
-    "speaker": "Beth"
-  },
-  {
-    "start": 309.84,
-    "end": 317.36,
-    "text": "I asked you what percentage of human DNA is shared by everyone, and what was your answer, Beth?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 317.36,
-    "end": 324.08,
-    "text": "I said 99.9%. Well, you must be very clever because the answer is correct. Well done.",
+    "text": "Unlike his actual DNA. Speaking of which, what was the answer to your question, Neil?",
     "speaker": null
   },
   {
+    "order": 50,
+    "start": 309.84,
+    "end": 317.36,
+    "text": "I asked you what percentage of human DNA is shared by everyone? And what was your answer, Beth?",
+    "speaker": "Beth"
+  },
+  {
+    "order": 51,
+    "start": 317.36,
+    "end": 324.08,
+    "text": "I said 99.9%. Well, you must be very clever, because the answer is correct. Well done",
+    "speaker": "Beth"
+  },
+  {
+    "order": 52,
     "start": 324.639,
     "end": 330.56,
     "text": "Right, let's recap the vocabulary we've learned starting with family tree, a diagram showing all",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 330.56,
     "end": 336.639,
     "text": "the members of a family. Ancestry refers to the origins of a family. If you take something with a",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 336.639,
     "end": 342.959,
     "text": "pinch of salt, you don't believe it's completely true. Four bears are relatives who lived in the past.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 342.959,
     "end": 348.879,
-    "text": "Ethnicity means the social, cultural and linguistic characteristics shared by a group of people.",
-    "speaker": "Ethnicity"
+    "text": " Ethnicity means the social, cultural and linguistic characteristics shared by a group of people",
+    "speaker": "Forebears"
   },
   {
+    "order": 56,
     "start": 348.879,
     "end": 354.159,
     "text": "And finally, if something blows your mind, it makes you excited or surprised.",
-    "speaker": null
+    "speaker": "blows your mind"
   },
   {
+    "order": 57,
     "start": 354.159,
     "end": 360,
     "text": "Once again, our six minutes are up. But why not head over to the BBC Learning English website",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 360,
     "end": 365.12,
     "text": "where you'll find a worksheet and quiz, especially for this programme. See you there soon.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 365.12,
     "end": 365.6,
-    "text": "Goodbye!",
-    "speaker": "Neil"
+    "text": "Goodbye.",
+    "speaker": null
   }
 ]

@@ -1,656 +1,765 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 13.519,
     "end": 17.6,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Rob.",
     "speaker": "Rob"
   },
   {
+    "order": 3,
     "start": 17.6,
     "end": 18.64,
-    "text": "And I’m Sam.",
-    "speaker": "Sam"
-  },
-  {
-    "start": 18.64,
-    "end": 21.6,
-    "text": "As awful as the coronavirus pandemic has been,",
+    "text": "And I'm Sam.",
     "speaker": null
   },
   {
+    "order": 4,
+    "start": 18.64,
+    "end": 21.6,
+    "text": "As awful as the coronavirus pandemic has been,",
+    "speaker": "Rob"
+  },
+  {
+    "order": 5,
     "start": 21.6,
     "end": 25.839,
     "text": "it's also highlighted the compassionate side of human nature.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 25.839,
     "end": 28.24,
     "text": "Doctors and nurses helping the sick.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 28.239,
     "end": 33.759,
-    "text": "Yes, and people helping out elderly relatives and neighbours, raising money for charity or wearing a face mask to keep others safe.",
-    "speaker": "Sam"
+    "text": "Yes, and people helping out elderly relatives and neighbours raising money for charity",
+    "speaker": null
   },
   {
+    "order": 8,
     "start": 33.759,
     "end": 36.799,
     "text": "or wearing a face mask to keep others safe.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 36.799,
     "end": 40.719,
-    "text": "But the pandemic has also highlighted a more worrying issue called ‘compassion fatigue’. Have you heard of that, Sam?",
+    "text": "But the pandemic has also highlighted a more worrying issue ",
     "speaker": "compassion fatigue’"
   },
   {
+    "order": 10,
     "start": 40.719,
     "end": 44.399,
     "text": "called compassion fatigue. Have you heard of that, Sam?",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 44.399,
     "end": 49.28,
     "text": "Yes, I think compassion fatigue is a kind of emotional exhaustion,",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 49.28,
     "end": 55.039,
-    "text": "Yes, I think compassion fatigue is a kind of emotional exhaustion which reduces your ability to empathise or feel compassion for others.",
-    "speaker": "compassion fatigue"
+    "text": "which reduces your ability to empathise or feel compassion for others.",
+    "speaker": null
   },
   {
+    "order": 13,
     "start": 55.039,
     "end": 61.679,
-    "text": "Yes, exactly, Sam. Compassion fatigue has long been a problem for people working in medical professions and is the topic of this programme.",
+    "text": "Yes, exactly, Sam. Compassion fatigue has long been a problem for people working in medical professions ",
     "speaker": "Rob"
   },
   {
+    "order": 14,
     "start": 61.679,
     "end": 63.92,
     "text": "and it's the topic of this programme.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 63.92,
     "end": 70.879,
-    "text": "We’ll be hearing how the suffering and unhappiness we see on the TV news can increase feelings of helplessness.",
-    "speaker": "Sam"
-  },
-  {
-    "start": 70.879,
-    "end": 74.079,
-    "text": "But first, let me ask you my quiz question, Sam.",
+    "text": "We'll be hearing how the suffering and unhappiness we see on the TV news can increase feelings of helplessness.",
     "speaker": null
   },
   {
+    "order": 16,
+    "start": 70.879,
+    "end": 74.079,
+    "text": "But first, let me ask you my quiz question, Sam.",
+    "speaker": "Rob"
+  },
+  {
+    "order": 17,
     "start": 74.079,
     "end": 78.4,
     "text": "Humanitarian workers see human suffering on a daily basis,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 78.4,
     "end": 82.4,
     "text": "and can easily fall victim to compassion fatigue.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 82.4,
     "end": 88.96,
     "text": "Founded in 1971, Medisson som frontier is one of the biggest humanitarian organisations.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 88.96,
     "end": 92.96,
     "text": "But what does Medisson som frontier mean?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 92.96,
     "end": 96.08,
-    "text": "a) Medicine to the frontline,",
-    "speaker": "Rob"
+    "text": "Is it a medicine to the frontline?",
+    "speaker": null
   },
   {
+    "order": 22,
     "start": 96.08,
     "end": 100.8,
-    "text": "b) Doctors without borders,   or",
+    "text": "B doctors without borders or C medicine first?",
     "speaker": "Rob"
   },
   {
+    "order": 23,
     "start": 100.8,
     "end": 106.56,
     "text": "Hmm, I remember newspapers calling it MSF and using its English name,",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 106.56,
     "end": 110.64,
     "text": "which I think was B doctors without borders.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 25,
     "start": 110.719,
     "end": 113.76,
     "text": "Okay, Sam will find out the answer later on.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 113.76,
     "end": 118.719,
     "text": "Compassion fatigue centers on the idea that we can feel too much empathy,",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 118.719,
     "end": 122,
     "text": "and that feeling can lead to emotional burnout.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 122,
     "end": 124.96,
     "text": "According to psychologist Margaret Heffinen,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 124.96,
     "end": 128.639,
     "text": "caring and fatigue are closely connected.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 30,
     "start": 128.639,
     "end": 132.56,
     "text": "Caring for others means taking on someone's pain yourself,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 132.56,
     "end": 135.92,
     "text": "and this can have unhealthy consequences for the carer.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 136,
     "end": 139.679,
     "text": "Well, here's Margaret Heffinen talking to BBC World Services,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 139.679,
     "end": 141.759,
     "text": "the documentary podcast.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 34,
     "start": 141.759,
     "end": 146.56,
     "text": "See if you can hear the effects of compassion fatigue she mentions.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 146.56,
     "end": 149.439,
     "text": "As you find people spending more and more time online,",
-    "speaker": null
+    "speaker": "numblearned helplessness"
   },
   {
+    "order": 36,
     "start": 149.439,
     "end": 152.079,
     "text": "reading more and more and more depressing news,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 152.079,
     "end": 153.679,
     "text": "and they become more and more numb,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 153.679,
     "end": 156.079,
     "text": "they also become more and more addicted to it.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 156.079,
     "end": 159.359,
     "text": "And this develops a kind of state of mind",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 159.359,
     "end": 162.799,
     "text": "that is a kind of, it's a form of learned helplessness,",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 162.799,
     "end": 165.439,
     "text": "right, because I'm consuming something that's upsetting me.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 165.439,
     "end": 167.919,
     "text": "But I cannot do anything about it.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 168.879,
     "end": 172.24,
     "text": "Margaret Heffinen mentions that spending too much time",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 172.24,
     "end": 176.4,
     "text": "reading, depressing online news can leave us feeling numb,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 176.4,
     "end": 179.12,
     "text": "unable to feel any emotions,",
-    "speaker": null
+    "speaker": "compassion fatigue -"
   },
   {
+    "order": 46,
     "start": 179.12,
     "end": 183.12,
     "text": "or think clearly because we're so upset or afraid.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 183.12,
     "end": 186.8,
     "text": "The news exposes us to human suffering around the world,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 186.8,
     "end": 188.8,
     "text": "which we feel powerless to help.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 189.439,
     "end": 191.919,
     "text": "This can lead to something which in psychology",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 191.919,
     "end": 194.4,
     "text": "is called learned helplessness,",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 194.48,
     "end": 197.599,
     "text": "giving up trying to feel better because your previous attempts",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 197.599,
     "end": 198.879,
     "text": "have not worked.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 198.879,
     "end": 201.84,
     "text": "This is all incredibly depressing, Rob.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 201.84,
     "end": 205.68,
-    "text": "This is all incredibly depressing, Rob! It sounds like we have limited amounts of compassion.",
-    "speaker": "Sam"
+    "text": "It sounds like we have limited amounts of compassion.",
+    "speaker": null
   },
   {
+    "order": 55,
     "start": 205.68,
     "end": 208.879,
     "text": "Well, there are more positive ways of looking at it, Sam.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 208.879,
     "end": 212.4,
     "text": "Here's an alternative view from Tom Rivett-Karnack,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 212.4,
     "end": 216,
     "text": "speaking with BBC World Services, the documentary podcast.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 217.04,
     "end": 219.84,
-    "text": "I understand why you're saying that it's finite,",
-    "speaker": null
+    "text": "I understand why you’re saying that it’s finite ",
+    "speaker": "finite headwindsnews cycle"
   },
   {
+    "order": 59,
     "start": 219.84,
     "end": 221.759,
     "text": "but I also think compassion is a habit.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 222.399,
     "end": 224.799,
     "text": "So dwelling with that, developing that habit,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 225.359,
     "end": 227.359,
     "text": "yes, there are a lot of headwinds to that,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 227.359,
     "end": 230.799,
     "text": "and the rapid acceleration of the news cycle,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 230.799,
     "end": 234,
     "text": "the focus on the next problem so quickly,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 234.56,
     "end": 238,
     "text": "draws our attention away from developing those deeper habits",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 238,
     "end": 241.039,
     "text": "as humanity that gives us that courage and that strength",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 241.039,
     "end": 242.879,
     "text": "to make these big transformations.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 244.079,
     "end": 247.84,
     "text": "Like Margaret Heffinen, Tim Rivett-Karnack believes",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 247.84,
     "end": 250.56,
     "text": "the news media is part of the problem.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 250.64,
     "end": 255.52,
-    "text": "Online newspapers and social media speed up the news cycle,",
-    "speaker": null
+    "text": "Online newspapers and social media, speed up the news cycle",
+    "speaker": "news cycle"
   },
   {
+    "order": 70,
     "start": 255.52,
     "end": 258.399,
     "text": "the reporting of a particular news story",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 258.399,
     "end": 260.879,
     "text": "from the first instance to the last.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 260.879,
     "end": 264.56,
-    "text": "As a result, we are constantly worrying about the next problem - and this can easily lead to emotional fatigue.",
-    "speaker": "Sam"
+    "text": "As a result, we are constantly worrying about the next problem,",
+    "speaker": null
   },
   {
+    "order": 73,
     "start": 264.56,
     "end": 267.439,
     "text": "and this can easily lead to emotional fatigue.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 268.079,
     "end": 271.759,
     "text": "Tom emphasizes compassion as a habit to be developed",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 271.759,
     "end": 275.84,
-    "text": "Tom emphasises compassion as a habit to be developed, instead of something finite – limited or having a fixed size.",
+    "text": "instead of something finite, limited or having a fixed size.",
     "speaker": "finite"
   },
   {
+    "order": 76,
     "start": 275.84,
     "end": 279.36,
     "text": "But such compassionate habits can be difficult to cultivate",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 279.36,
     "end": 281.52,
     "text": "because they face many headwinds,",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 282.24,
     "end": 284.96,
     "text": "forces blowing in the opposite direction",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 284.96,
     "end": 287.199,
     "text": "which stop you moving forward.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 288,
     "end": 291.199,
-    "text": "Headwinds such as the rapid news cycle,",
-    "speaker": null
+    "text": "Headwinds such as the rapid news cycle ",
+    "speaker": "Rob"
   },
   {
+    "order": 81,
     "start": 291.199,
     "end": 294.56,
     "text": "which distracts us from developing compassion and courage.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 295.52,
     "end": 298.56,
     "text": "Maybe the answer is to help in whatever ways we can",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 298.56,
     "end": 300.639,
     "text": "without becoming hard-hearted,",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 300.639,
     "end": 302.24,
     "text": "like the volunteers of MSF.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 303.04,
     "end": 304.72,
     "text": "Yes, your quiz question, Rob.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 305.28,
     "end": 307.52,
     "text": "You asked what the French name",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 307.599,
     "end": 310.159,
     "text": "Medicines of Frontier means in English,",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 310.159,
     "end": 311.68,
     "text": "and I said B,",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 311.68,
     "end": 313.359,
     "text": "Doctors Without Borders.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 313.359,
     "end": 316.159,
     "text": "Which was the correct answer, well done.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 316.799,
     "end": 320.479,
     "text": "Doctors without borders offer volunteer medical assistance",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 320.479,
     "end": 322.799,
     "text": "in the world's worst conflict zones.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 322.799,
     "end": 325.199,
     "text": "Okay, Rob, let's recap the vocabulary",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 325.199,
     "end": 330.079,
     "text": "starting with compassion fatigue, emotional exhaustion",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 330.079,
     "end": 333.039,
     "text": "which reduces your feelings of compassion.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 333.039,
     "end": 334.479,
     "text": "This can leave you numb,",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 334.48,
     "end": 338.319,
-    "text": "This can leave you numb - unable to feel any emotions because you are so shocked or scared.",
-    "speaker": "numb -"
-  },
-  {
-    "start": 339.12,
-    "end": 342.72,
-    "text": "Learned helplessness is a psychological term",
+    "text": "unable to feel any emotions because you are so shocked or scared.",
     "speaker": null
   },
   {
+    "order": 98,
+    "start": 339.12,
+    "end": 342.72,
+    "text": "Learned helplessness is a psychological term",
+    "speaker": "Learned helplessness"
+  },
+  {
+    "order": 99,
     "start": 342.72,
     "end": 345.759,
     "text": "for when someone stops trying to feel better",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 345.759,
     "end": 348.08,
     "text": "because the previous attempts have failed.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 348.72,
     "end": 351.92,
-    "text": "Some people believe that compassion is finite - limited or having a fixed size.",
-    "speaker": "finite -"
+    "text": "Some people believe that compassion is finite,",
+    "speaker": null
   },
   {
+    "order": 102,
     "start": 351.92,
     "end": 353.759,
     "text": "limited or having a fixed size.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 354.319,
     "end": 357.52,
-    "text": "And it can be disturbed by the news cycle,",
-    "speaker": null
+    "text": "And it can be disturbed by the news cycle ",
+    "speaker": "news cycle"
   },
   {
+    "order": 104,
     "start": 357.52,
     "end": 361.12,
     "text": "the round of media reports and reactions to a new story.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 361.12,
     "end": 364.08,
-    "text": "Which can be a headwind or opposing force, which stops us caring for others.",
-    "speaker": "headwind"
+    "text": "Which can be a headwind or opposing force",
+    "speaker": null
   },
   {
+    "order": 106,
     "start": 364.079,
     "end": 365.759,
     "text": "which stops us caring for others.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 366.319,
     "end": 369.279,
     "text": "And that's it for this edition of Six Minute English.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 369.279,
     "end": 370.319,
-    "text": "Bye for now!",
+    "text": "Bye for now! Bye!",
     "speaker": "Rob"
   }
 ]

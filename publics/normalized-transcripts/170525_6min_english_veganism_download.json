@@ -1,689 +1,804 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 8.24,
     "text": "6MuteEnglish",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.88,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.32,
     "end": 14.24,
-    "text": "Hello and welcome to 6 Minute English,",
+    "text": "Hello and welcome to 6 Minute English ",
+    "speaker": "Neil"
+  },
+  {
+    "order": 5,
+    "start": 14.24,
+    "end": 18.64,
+    "text": "the programme where we bring you an interesting topic and six items of vocabulary.",
     "speaker": null
   },
   {
-    "start": 14.24,
-    "end": 18.64,
-    "text": "Hello and welcome to 6 Minute English – the programme where we bring you an interesting topic and six items of vocabulary. I'm Neil.",
-    "speaker": "Neil"
-  },
-  {
+    "order": 6,
     "start": 18.64,
     "end": 20.4,
-    "text": "And I'm Catherine.",
-    "speaker": "Catherine"
+    "text": "I'm Neil. And I'm Catherine.",
+    "speaker": null
   },
   {
+    "order": 7,
     "start": 20.4,
     "end": 23.92,
-    "text": "Now, if you want to fight climate change – what can you do?",
+    "text": "Now, if you want to fight climate change – what can you do",
     "speaker": "Neil"
   },
   {
+    "order": 8,
     "start": 23.92,
     "end": 27.12,
-    "text": "Well, you can use less electricity…",
-    "speaker": "Catherine"
+    "text": "Well, you can use less electricity or stop driving.",
+    "speaker": null
   },
   {
+    "order": 9,
     "start": 27.199,
     "end": 33.039,
-    "text": "But scientists believe there's another behaviour which has an even bigger impact on the planet, and that is what you eat.",
-    "speaker": "Catherine"
+    "text": " But scientists believe there's another behaviour which has an even bigger impact on the planet",
+    "speaker": "Neil"
   },
   {
+    "order": 10,
     "start": 33.039,
     "end": 35.12,
     "text": "and that is what you eat.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 35.84,
     "end": 37.76,
     "text": "We're talking about meat here.",
-    "speaker": null
+    "speaker": "emissions"
   },
   {
+    "order": 12,
     "start": 37.76,
     "end": 41.039,
     "text": "If people cut out meat and animal products from their diets,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 41.039,
     "end": 44.159,
     "text": "harmful emissions could be reduced by 70%.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 44.159,
     "end": 46.96,
     "text": "That's according to research from Oxford University.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 46.96,
     "end": 51.92,
-    "text": "Now emissions are the gases produced by an activity or living thing – so we could talk about factory emissions or farming emissions.",
-    "speaker": "emissionsemissionsemissions"
+    "text": "Now, emissions are the gases produced by an activity or living thing.",
+    "speaker": null
   },
   {
+    "order": 16,
     "start": 51.92,
     "end": 56.64,
     "text": "So we could talk about factory emissions or farming emissions.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 56.64,
     "end": 61.2,
-    "text": "And if you eat no meat or animal products, you're what we call vegan.",
-    "speaker": null
+    "text": "And if you eat no meat or animal products you're what we call 'vegan'",
+    "speaker": "Neil"
   },
   {
+    "order": 18,
     "start": 61.2,
     "end": 63.92,
     "text": "More and more people around the world are going vegan.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 63.92,
     "end": 67.2,
     "text": "And today's question, which of these celebrities is vegan?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 67.76,
     "end": 72.719,
     "text": "Is it A, Brad Pitt, B, Jennifer Lopez or C, Miley Cyrus?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 72.719,
     "end": 78.079,
     "text": "Hmm, and I'm going to go for C, Miley Cyrus.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 78.799,
     "end": 80.719,
     "text": "Well, we'll find out at the end of the programme.",
-    "speaker": null
+    "speaker": "Catherine"
   },
   {
+    "order": 23,
     "start": 80.719,
     "end": 84.56,
     "text": "Now, before we go much further, why don't we find out a bit more",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 84.56,
     "end": 87.28,
     "text": "about exactly what it means to be a vegan?",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 87.28,
     "end": 91.12,
     "text": "Here's Tom Kuno from the Vegan Society in the UK.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 92.56,
     "end": 97.84,
     "text": "Veganism is a way of living, which excludes as far as possible and practicable",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 97.84,
     "end": 101.04,
     "text": "all forms of exploitation and cruelty to animals.",
-    "speaker": null
+    "speaker": "INSERT"
   },
   {
+    "order": 28,
     "start": 101.04,
     "end": 104.56,
     "text": "So that's for food, clothing or any other purpose.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 104.56,
     "end": 108.64,
     "text": "So we just don't want to use or abuse animals.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 108.64,
     "end": 112.56,
     "text": "And we feel like that, you know, there are plenty of alternatives in this day and age.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 112.799,
     "end": 114.799,
     "text": "It's never been easier to be vegan.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 115.68,
     "end": 119.2,
     "text": "Of course, he says that avoiding cruelty to animals is what it's all about,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 33,
     "start": 119.2,
     "end": 121.359,
     "text": "but that doesn't just mean food.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 121.359,
     "end": 125.12,
     "text": "If you're a true vegan, then clothing from animals is also out.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 125.12,
     "end": 126.4,
     "text": "No more leather shoes.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 126.4,
     "end": 127.2,
     "text": "Hmm.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 127.2,
     "end": 131.199,
-    "text": "But he feels that it's easier than ever before to become vegan – and uses a nice phrase: \"in this day and age\".",
-    "speaker": "in this day and age"
+    "text": "But he feels that it's easier than ever before to become vegan.",
+    "speaker": null
   },
   {
+    "order": 38,
     "start": 131.199,
     "end": 135.439,
     "text": "And he uses a nice phrase in this day and age.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 135.439,
     "end": 138.4,
     "text": "Yes, it means these days or in the present time,",
-    "speaker": null
-  },
-  {
-    "start": 138.4,
-    "end": 142.4,
-    "text": "Yes. It means 'these days', or 'in the present time' – and is often used to highlight a contrast with a previous time.",
     "speaker": "Neil"
   },
   {
+    "order": 40,
+    "start": 138.4,
+    "end": 142.4,
+    "text": "and is often used to highlight a contrast with a previous time.",
+    "speaker": null
+  },
+  {
+    "order": 41,
     "start": 142.48,
     "end": 146.319,
     "text": "So many people go vegan for ethical reasons.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 146.319,
     "end": 148.4,
     "text": "Now, ethical is a useful word.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 148.4,
     "end": 151.36,
     "text": "It means relating to moral beliefs.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 151.36,
     "end": 154.48,
     "text": "So if you become vegan for ethical reasons,",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 154.48,
     "end": 159.28,
     "text": "you do it because you think it's wrong to eat or use animal products.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 159.28,
     "end": 162.48,
     "text": "Others go vegan because of environmental considerations,",
-    "speaker": null
+    "speaker": "livestockveganism"
   },
   {
+    "order": 47,
     "start": 162.48,
     "end": 164,
     "text": "as we looked at earlier.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 164,
     "end": 167.28,
     "text": "Rearing livestock, that means animals like cows and pigs,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 167.28,
     "end": 169.92,
     "text": "produces a lot of harmful methane gas.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 170.559,
     "end": 175.599,
     "text": "Now, let's just say the animals themselves produce a lot of it from their bodies.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 175.599,
     "end": 178.239,
     "text": "The other major reason to choose veganism.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 178.239,
     "end": 181.839,
     "text": "Veganism, now that's the noun for a vegan diet,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 181.839,
     "end": 183.839,
     "text": "is because they believe it's healthier.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 183.839,
     "end": 186.959,
     "text": "In the research from Oxford University we mentioned earlier,",
+    "speaker": "Neil"
+  },
+  {
+    "order": 55,
+    "start": 186.959,
+    "end": 192.799,
+    "text": "scientists found that 8 million deaths per year could be avoided if the world went vegan.",
     "speaker": null
   },
   {
-    "start": 186.959,
-    "end": 192.799,
-    "text": "In the research from Oxford University we mentioned earlier, scientists found that 8 million deaths per year could be avoided if the world went vegan.",
-    "speaker": "Catherine"
-  },
-  {
+    "order": 56,
     "start": 192.799,
     "end": 194.479,
     "text": "Now, that's human deaths.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 57,
     "start": 194.479,
     "end": 198.639,
     "text": "They claim that half of this figure would be because we no longer eat red meat,",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 198.639,
     "end": 202.639,
     "text": "and the other half would be due to eating more healthy fruit and vegetables,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 202.639,
     "end": 205.039,
     "text": "as well as fewer people being overweight.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 205.039,
     "end": 208.399,
     "text": "And they say that this would have an economic impact too.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 208.399,
     "end": 212.479,
     "text": "They suggest that up to a thousand billion dollars a year would be saved",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 212.479,
     "end": 217.519,
     "text": "due to reduced healthcare costs and increased productivity at work,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 217.519,
     "end": 219.439,
     "text": "because fewer people would get sick.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 219.439,
     "end": 223.199,
     "text": "So if it's also simple, why don't we all go vegan tomorrow?",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 223.199,
     "end": 226.639,
     "text": "Well, meaty thing is an important part of most cultures.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 226.639,
     "end": 228.239,
     "text": "Not everyone wants to change.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 67,
     "start": 228.32,
     "end": 232.159,
     "text": "And millions of people worldwide raise livestock for a living.",
     "speaker": "livestock"
   },
   {
+    "order": 68,
     "start": 232.159,
     "end": 234.159,
     "text": "So these jobs would disappear.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 234.159,
     "end": 237.92,
     "text": "Now, with up to a third of the planet estimated to be arid,",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 237.92,
     "end": 241.36,
     "text": "which means dry and unable to support crops,",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 241.36,
     "end": 244.4,
     "text": "people living in these regions rely on livestock.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 244.4,
     "end": 248.24,
     "text": "So people, for example, like the burbers in the Sahara region.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 248.24,
     "end": 251.6,
     "text": "Without animal farming, they'd be forced to abandon traditional,",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 251.6,
     "end": 252.96,
-    "text": "nomadic lifestyles.",
-    "speaker": null
+    "text": "nomadic lifestyles ",
+    "speaker": "Neil"
   },
   {
+    "order": 75,
     "start": 252.96,
     "end": 256.56,
     "text": "That's where they move from place to place and settle in cities.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 256.639,
     "end": 260.72,
     "text": "And for many people, well, they're just like eating meat and dairy.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 260.72,
     "end": 265.12,
     "text": "We asked you about well-known vegans: which of these is vegan?",
     "speaker": "Neil"
   },
   {
+    "order": 78,
     "start": 265.839,
     "end": 269.519,
     "text": "Brad Pitt, Jennifer Lopez, or Miley Cyrus?",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 269.519,
     "end": 271.04,
     "text": "And I said it was Miley Cyrus.",
-    "speaker": "Catherine"
+    "speaker": "Neil"
   },
   {
+    "order": 80,
     "start": 271.84,
     "end": 274.079,
     "text": "Well, you're kind of half-right, Catherine.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 274.079,
     "end": 277.68,
     "text": "In fact, both Brad Pitt and Miley Cyrus are vegan.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 82,
     "start": 277.68,
     "end": 281.84,
     "text": "Jennifer Lopez used to be, but has since started eating meat again, apparently.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 281.84,
     "end": 286.079,
     "text": "Now, why don't we wrap it by looking at today's vocabulary one more time?",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 286.079,
     "end": 287.599,
-    "text": "Well, we started with emissions.",
-    "speaker": null
+    "text": "Well – we started with emissions",
+    "speaker": "emissionsemissions"
   },
   {
+    "order": 85,
     "start": 287.599,
     "end": 291.279,
     "text": "Gases produced by something or an activity, such as digestion.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 292,
     "end": 296,
     "text": "Livestock emissions, for example, are gases produced by animals.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 296,
     "end": 300.159,
     "text": "We can also add a word that describes the kind of emissions,",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 300.159,
     "end": 304.399,
     "text": "like methane emissions or greenhouse gas emissions.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 304.959,
     "end": 308.639,
-    "text": "Next up we had in this day and age – which means 'these days'.",
+    "text": "Next up we had in this day and age – which means 'these days",
     "speaker": "in this day and age"
   },
   {
+    "order": 90,
     "start": 308.639,
     "end": 312.799,
     "text": "I still can't believe you don't have a smartphone in this day and age, Neil.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 312.879,
     "end": 316.48,
     "text": "Well, maybe I just object to smartphones for ethical reasons!",
     "speaker": "ethical"
   },
   {
+    "order": 92,
     "start": 316.48,
     "end": 318.8,
     "text": "So you've got moral objections to smartphones?",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 318.8,
     "end": 322.48,
     "text": "Yeah, for me, it's important to understand the condition of the workers in the factory",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 322.48,
     "end": 323.92,
     "text": "where the smartphone is made.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 95,
     "start": 323.92,
     "end": 324.879,
     "text": "That's fair enough, then.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 324.879,
     "end": 328.56,
-    "text": "That's fair enough then. But, Neil, you haven't become vegan yet for ethical reasons, have you?",
-    "speaker": "ethical"
-  },
-  {
-    "start": 329.04,
-    "end": 329.84,
-    "text": "You've got me there.",
+    "text": "But, Neil, you haven't become vegan yet for ethical reasons, have you?",
     "speaker": null
   },
   {
-    "start": 329.84,
-    "end": 333.92,
-    "text": "You've got me there – I admire veganism but I still like cheese too much to do it! Veganism is the noun.",
+    "order": 97,
+    "start": 329.04,
+    "end": 329.84,
+    "text": "You've got me there ",
     "speaker": "veganismVeganism"
   },
   {
+    "order": 98,
+    "start": 329.84,
+    "end": 333.92,
+    "text": "I admire veganism, but I still like cheese too much to do it.",
+    "speaker": null
+  },
+  {
+    "order": 99,
     "start": 334.48,
     "end": 335.92,
     "text": "Veganism is the noun.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 335.92,
     "end": 336.879,
     "text": "That's right.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 336.879,
     "end": 338.48,
     "text": "So two more words to go.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 338.48,
     "end": 340.879,
     "text": "We have arid and livestock.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 341.439,
     "end": 346.959,
-    "text": "That's right. So two more words to go – we have arid and livestock. Arid describes land that is too dry to support many crops or plants.",
-    "speaker": "aridlivestockArid"
-  },
-  {
-    "start": 346.959,
-    "end": 350.079,
-    "text": "But arid regions can sometimes support livestock.",
+    "text": "Arid describes land that is too dry to support many crops or plants.",
     "speaker": null
   },
   {
+    "order": 104,
+    "start": 346.959,
+    "end": 350.079,
+    "text": "But arid regions can sometimes support livestock ",
+    "speaker": "aridlivestocklivestock"
+  },
+  {
+    "order": 105,
     "start": 350.079,
     "end": 352.079,
     "text": "Livestock means farm animals.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 352.079,
     "end": 355.519,
     "text": "If you think of the stock as being the assets of a business,",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 355.519,
     "end": 358.319,
     "text": "then animals are living or livestock.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 358.319,
     "end": 361.439,
     "text": "And that brings us to the end of today's programme.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 361.439,
     "end": 366.319,
     "text": "Join us on our Facebook, Twitter, Instagram and YouTube pages for lots more.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 366.319,
     "end": 368.56,
     "text": "Let us know what you think of veganism.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 369.439,
     "end": 370,
     "text": "Bye for now.",
     "speaker": "Neil"
   },
   {
+    "order": 112,
     "start": 370,
     "end": 370.48,
-    "text": "Bye!",
-    "speaker": "Catherine"
+    "text": "Bye.",
+    "speaker": null
   },
   {
+    "order": 113,
     "start": 371.519,
     "end": 373.199,
     "text": "Six-Mate English.",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 373.199,
     "end": 375.519,
     "text": "From BBC Learning English.",

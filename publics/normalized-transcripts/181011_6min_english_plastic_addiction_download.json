@@ -1,683 +1,797 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6Nate English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.88,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 11.679,
     "end": 14.32,
-    "text": "Hello, and welcome to 6 Minute English. I'm Neil.",
+    "text": "Hello, and welcome to 6 Minute English. I'm Neil",
     "speaker": "Neil"
   },
   {
+    "order": 5,
     "start": 14.32,
     "end": 15.519,
     "text": "And hello, I'm Rob.",
-    "speaker": "Rob"
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 15.519,
     "end": 17.92,
     "text": "Today we're talking about plastic.",
     "speaker": "Neil"
   },
   {
+    "order": 7,
     "start": 17.92,
     "end": 23.28,
     "text": "Yes, it's our addiction to plastic that's of concern because this material doesn't decay very quickly.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 23.28,
     "end": 26.719,
     "text": "So once we've used it, it hangs around for a very long time.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 26.719,
     "end": 33.039,
     "text": "It is a problem and decay, by the way, describes the natural process of something being destroyed",
-    "speaker": null
+    "speaker": "decay"
   },
   {
+    "order": 10,
     "start": 33.039,
     "end": 35.2,
     "text": "or breaking down into small particles.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 11,
     "start": 35.759,
     "end": 39.92,
     "text": "We hear so much about the consequences of having too much waste plastic around, don't we?",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 39.92,
     "end": 42.32,
     "text": "Indeed, not only does it cause a mess,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 42.32,
     "end": 47.84,
     "text": "wildlife, particularly marine animals, are at risk when they become entangled in plastic waste,",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 47.84,
     "end": 49.12,
     "text": "or ingest it.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 49.12,
     "end": 53.679,
     "text": "It's an issue that needs tackling or dealing with, and that's what we'll be discussing today,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 53.759,
     "end": 57.28,
     "text": "and finding out what could be done to solve this plastic crisis.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 57.28,
     "end": 61.84,
     "text": "Okay, first let's challenge you to answer a question about plastic, Rob.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 61.84,
     "end": 66.719,
     "text": "The first synthetic plastic that's plastic made entirely from man-made materials",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 19,
     "start": 66.719,
     "end": 69.12,
     "text": "was created over a hundred years ago.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 69.12,
     "end": 71.599,
     "text": "Do you know what its brand name was?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 71.599,
     "end": 76.64,
     "text": "Was it A, Baker Light, B, Lucite, or C for Miker?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 76.64,
     "end": 80.159,
     "text": "I'm no expert, so I'll say C for Miker.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 80.159,
     "end": 83.28,
     "text": "Well, we'll reveal the answer at the end of the programme.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 24,
     "start": 83.28,
     "end": 85.519,
     "text": "Now let's talk more about plastic.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 85.519,
     "end": 91.439,
-    "text": "Well, we'll reveal the answer at the end of the programme. Now let's talk more about plastic. This man-made substance is everywhere - from clothing to crisp packets, and bottles to buckets.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 91.439,
-    "end": 94.64,
-    "text": "But the problem is that most of it isn't biodegradable.",
+    "text": "This man-made substance is everywhere, from clothing to crisp packets and bottles to buckets.",
     "speaker": null
   },
   {
+    "order": 26,
+    "start": 91.439,
+    "end": 94.64,
+    "text": "But the problem is that most of it isn't biodegradable ",
+    "speaker": "biodegradable"
+  },
+  {
+    "order": 27,
     "start": 94.64,
     "end": 99.04,
     "text": "That's a word that describes something that can decay naturally without harming anything.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 99.04,
     "end": 102.799,
     "text": "Each year, 400 million tons of plastic is produced,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 102.799,
     "end": 105.52,
     "text": "and 40% of that is single use.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 105.52,
     "end": 107.599,
     "text": "So why don't we stop using it?",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 107.599,
     "end": 112.64,
     "text": "It's not that easy, Rob, and it's something Lucy Siegel, a BBC reporter and author,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 112.64,
     "end": 113.92,
     "text": "has been talking about.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 113.92,
     "end": 119.12,
     "text": "She was speaking in a discussion on the costing the Earth programme on BBC Radio 4",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 119.12,
     "end": 122,
     "text": "and explained the issue we have with quitting plastic,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 122,
     "end": 124.239,
     "text": "but also how our attitude is changing.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 125.12,
     "end": 129.439,
-    "text": "We have this weird psychological attachment to this material that's been around,",
-    "speaker": null
+    "text": "We have this weird psychological attachment to this material that's been around ",
+    "speaker": "psychological attachmentpsychological dissonanceactivism"
   },
   {
+    "order": 37,
     "start": 129.439,
     "end": 130.8,
     "text": "and it's like a push and pull.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 130.8,
     "end": 133.439,
     "text": "At the one time, we're so horrified by what we're seeing,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 133.439,
     "end": 136.24,
     "text": "the whales dying, the oceans vomiting plastic,",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 136.24,
     "end": 137.759,
     "text": "beaming in from all over the world.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 137.759,
     "end": 140.96,
     "text": "And at the same time, we're being told we can't live without it.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 140.96,
     "end": 143.76,
     "text": "So that creates a sort of psychological dissonance,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 143.76,
     "end": 146.48,
     "text": "which I think is the barrier to behavioural change.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 146.48,
     "end": 150.56,
     "text": "But I'm finding now awareness is peaked, and now it's going over into activism.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 151.68,
     "end": 154.08,
     "text": "She mentioned the word psychological.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 154.08,
     "end": 156.96,
     "text": "That's something that affects or involves our mind.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 156.96,
     "end": 160.719,
     "text": "So here, psychological attachment means that in our mind,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 160.719,
     "end": 162.719,
     "text": "we feel we have to use plastic.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 162.719,
     "end": 163.6,
     "text": "We're addicted.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 163.6,
     "end": 168.24,
-    "text": "But we also see the negative impact of plastic, like whales dying.",
-    "speaker": null
+    "text": "But we also see the negative impact of plastic – like whales dying",
+    "speaker": "dissonance"
   },
   {
+    "order": 51,
     "start": 168.32,
     "end": 171.6,
     "text": "And in our mind, we're also thinking we must stop.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 171.6,
     "end": 175.68,
     "text": "This is created what Lucy says is a psychological dissonance.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 175.68,
     "end": 179.52,
     "text": "Dissonance means a disagreement between two opposing ideas.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 179.52,
     "end": 182.8,
     "text": "So we're having an argument in our head about the right thing to do.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 182.8,
     "end": 186.4,
     "text": "This is the push and pull of thoughts she referred to.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 186.4,
     "end": 191.68,
     "text": "And this dissonance has been the barrier to us trying to solve the plastic issue.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 191.68,
     "end": 194.16,
     "text": "But now we're starting to do something about it.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 194.16,
     "end": 197.04,
     "text": "We're taking action to reduce our plastic waste.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 197.039,
     "end": 199.039,
     "text": "We're turning to activism.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 199.039,
     "end": 201.28,
     "text": "That's taking action to change something.",
-    "speaker": null
+    "speaker": "dissonance"
   },
   {
+    "order": 61,
     "start": 201.28,
     "end": 203.599,
     "text": "It could be social or political change,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 203.599,
     "end": 205.919,
     "text": "or a change in our behaviour or attitude.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 205.919,
     "end": 207.68,
     "text": "Of course, there's been a big push.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 207.68,
     "end": 211.28,
-    "text": "Of course there has been a big push – that means people have been strongly encouraged – to recycle.",
+    "text": "That means people have been strongly encouraged to recycle.",
     "speaker": "abig push"
   },
   {
+    "order": 65,
     "start": 211.28,
     "end": 215.519,
     "text": "Maybe in an ideal world, the best thing to do is go plastic free.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 215.519,
     "end": 217.12,
     "text": "But that isn't easy, is it?",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 217.12,
     "end": 217.919,
-    "text": "No, it isn't.",
-    "speaker": null
+    "text": "No, it isn't,",
+    "speaker": "Neil"
   },
   {
+    "order": 68,
     "start": 217.919,
     "end": 220.319,
     "text": "And it's something Lucy Siegel spoke about.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 220.319,
     "end": 224.319,
     "text": "Getting rid of plastic in our lives is a gradual process.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 224.4,
     "end": 227.359,
     "text": "But where does she think we can make the biggest difference?",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 228.479,
     "end": 233.039,
     "text": "I really think that to concentrate on stopping the flow of plastics into your life",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 233.039,
     "end": 238.4,
     "text": "is easier and more effective in the long term than trying to go plastic free from the outset.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 238.4,
     "end": 242,
     "text": "We are in the UK a supermarket culture.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 242,
     "end": 246.159,
     "text": "So a lot of the tips and tricks to decreasing the flow of plastic",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 246.159,
     "end": 248.4,
     "text": "are getting round supermarket culture.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 249.439,
     "end": 253.199,
     "text": "She says we have a supermarket culture in the UK.",
-    "speaker": null
+    "speaker": "culture"
   },
   {
+    "order": 77,
     "start": 253.199,
     "end": 257.279,
     "text": "Culture here describes a way of life for a way that we generally behave.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 257.279,
     "end": 261.12,
     "text": "And in terms of food shopping, we tend to do that in supermarkets.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 261.12,
     "end": 263.759,
     "text": "So for example, customers can make a big difference",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 263.759,
     "end": 268.159,
     "text": "by putting pressure on supermarkets to use less plastic packaging.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 268.159,
     "end": 271.279,
     "text": "It does seem that the future of plastic is in our hands.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 271.279,
     "end": 274.399,
     "text": "We need to be more careful about how and when we use it",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 274.399,
     "end": 278.079,
     "text": "and use our collective power to force change if it's needed.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 278.079,
     "end": 281.759,
-    "text": "But there's no doubt plastic is useful for many things.",
-    "speaker": null
+    "text": "But there's no doubt plastic is useful for many things ",
+    "speaker": "Rob"
   },
   {
+    "order": 85,
     "start": 281.759,
     "end": 284.8,
     "text": "So it will be a long time before it disappears all together.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 285.439,
     "end": 290,
-    "text": "And earlier I asked you what was the name of the first synthetic plastic, invented over a 100 years ago. Was it…",
-    "speaker": "Neil"
+    "text": "And earlier I asked you what was the name of the first synthetic plastic",
+    "speaker": null
   },
   {
+    "order": 87,
     "start": 290,
     "end": 292,
     "text": "invented over a hundred years ago.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 292,
     "end": 296.48,
     "text": "Was it a bakerlight, b lucite or c for mica?",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 296.48,
     "end": 299.199,
     "text": "And I said c for mica, was I right?",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 299.199,
     "end": 304.399,
     "text": "For mica is a type of hard plastic used for covering tables and working areas and kitchens.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 304.399,
     "end": 307.439,
     "text": "But it's not the oldest type. That was bakerlight.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 307.439,
     "end": 310.319,
     "text": "I may have got that wrong, but hopefully I'll have more success",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 310.48,
     "end": 312.48,
     "text": "recapping some of today's vocabulary.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 312.48,
     "end": 316.719,
     "text": "Starting with decay, which describes the natural process of something",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 316.719,
     "end": 319.92,
     "text": "being destroyed or breaking down into small particles,",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 319.92,
     "end": 322.079,
     "text": "which plastic takes a long time to do.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 322.079,
     "end": 324.159,
-    "text": "Next we had biodegradable.",
-    "speaker": null
-  },
-  {
-    "start": 324.159,
-    "end": 328.959,
-    "text": "Next we had biodegradable – that's a word to describe something that can decay naturally without harming anything.",
+    "text": "Next we had biodegradable ",
     "speaker": "biodegradable"
   },
   {
+    "order": 98,
+    "start": 324.159,
+    "end": 328.959,
+    "text": "That's a word to describe something that can decay naturally without harming anything.",
+    "speaker": null
+  },
+  {
+    "order": 99,
     "start": 328.959,
     "end": 330.56,
     "text": "Then we had psychological.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 330.56,
     "end": 333.199,
-    "text": "Then we had psychological – that's something that affects or involves your mind.",
-    "speaker": "psychological"
+    "text": "That's something that affects or involves your mind.",
+    "speaker": null
   },
   {
+    "order": 101,
     "start": 333.199,
     "end": 338.159,
-    "text": "Next up, we had dissonance, which describes a disagreement between two opposing ideas.",
-    "speaker": "dissonance"
+    "text": "Next up we had dissonance, which describes a disagreement between two opposing ideas.",
+    "speaker": null
   },
   {
+    "order": 102,
     "start": 338.16,
     "end": 339.84,
     "text": "And then we mentioned activism.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 339.84,
     "end": 342.24,
     "text": "That's taking action to change something.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 342.24,
     "end": 347.12,
     "text": "We also mentioned the phrase a big push, which means people are strongly encouraged or persuaded",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 347.12,
     "end": 349.28,
     "text": "to do something, usually by force.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 349.28,
     "end": 351.44,
     "text": "And finally we had culture.",
-    "speaker": null
-  },
-  {
-    "start": 351.44,
-    "end": 357.12,
-    "text": "And finally we had culture. In our context of supermarket culture, it describes a way of life – or a way that we generally behave.",
     "speaker": "culturesupermarket culture"
   },
   {
+    "order": 107,
+    "start": 351.44,
+    "end": 357.12,
+    "text": "In our context of supermarket culture, it describes a way of life or a way that we generally behave.",
+    "speaker": null
+  },
+  {
+    "order": 108,
     "start": 357.12,
     "end": 358.08,
     "text": "Thanks Neil.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 358.08,
     "end": 362,
     "text": "Now remember you can find more learning English programs and materials",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 362,
     "end": 365.04,
     "text": "on our website at BBCLearningEnglish.com.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 365.04,
     "end": 368.56,
     "text": "That's it for now but please join us next time for six minute English.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 368.56,
     "end": 369.04,
     "text": "Goodbye.",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 113,
     "start": 369.04,
     "end": 369.76,
     "text": "Goodbye.",

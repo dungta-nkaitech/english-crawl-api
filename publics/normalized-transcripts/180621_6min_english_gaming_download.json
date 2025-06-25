@@ -1,638 +1,744 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 11.519,
     "text": "6 Minute English from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 12.56,
     "end": 15.439,
     "text": "Hello and welcome to 6 Minute English. I'm Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 15.439,
     "end": 16.96,
-    "text": "Hello. I'm Catherine.",
-    "speaker": "Catherine"
+    "text": "Hello, I'm Catherine.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 16.96,
     "end": 20.96,
     "text": "And if I say to you, Catherine, Fortnite, what do you think of?",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 20.96,
     "end": 24.4,
     "text": "Well, that's easy, Neil. A Fortnite is a period of two weeks.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 25.119,
     "end": 33.039,
     "text": "Well, Fortnite, spelt F-O-R-T-N-I-G-H-T, is indeed a period of two weeks.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 33.039,
     "end": 40.959,
     "text": "But Fortnite, spelt F-O-R-T-N-I-T-E, is an online computer game that has become",
-    "speaker": null
+    "speaker": "fortnight"
   },
   {
+    "order": 9,
     "start": 40.959,
     "end": 44.48,
     "text": "incredibly popular in a very short period of time.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 44.48,
     "end": 48.399,
-    "text": "As well as popular, it's also very competitive.",
-    "speaker": null
+    "text": "As well as popular, it’s also very competitive.",
+    "speaker": "Catherine"
   },
   {
+    "order": 11,
     "start": 48.399,
     "end": 51.84,
     "text": "And you're soon going to be able to make big money playing it,",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 51.84,
     "end": 55.92,
     "text": "and you can even hire people to be your Fortnite coach.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 55.92,
     "end": 60.64,
     "text": "Well, before we hear a little more about this topic, it's time for our quiz.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 61.28,
     "end": 64.48,
     "text": "These days, we play computer games on our phones.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 64.48,
     "end": 66.48,
     "text": "We can hold them in our hands.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 66.48,
     "end": 71.68,
     "text": "In 1950, Bertie the Brain was the name of one of the very first computer games.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 71.68,
     "end": 75.76,
     "text": "It played a simple game of knots and crosses, also called Tic-Tac-Toe.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 75.76,
     "end": 78.64,
     "text": "But how tall was this computer?",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 78.64,
     "end": 80.56,
     "text": "Was it A, 1 meter tall?",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 81.519,
     "end": 83.6,
     "text": "B, about 4 meters tall?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 84.48,
     "end": 86.48,
     "text": "Or C, about 10 meters tall?",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 88.079,
     "end": 91.6,
     "text": "Well, if it was a 1950s, computers were huge.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 91.6,
     "end": 94.24,
     "text": "So I'm going to go for 10 meters.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 94.24,
     "end": 97.52,
     "text": "Okay, well, we'll find out if you're right at the end of the program.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 98.24,
     "end": 102.079,
     "text": "Esports or computer games competitions are now a thing.",
-    "speaker": null
+    "speaker": "Catherine"
   },
   {
+    "order": 26,
     "start": 102.4,
     "end": 107.439,
     "text": "In some markets, they are huge and they are even discussing including them in the Olympic games.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 108.079,
     "end": 112.879,
     "text": "Kyle Jackson is a 13 year old gamer who's been asked to join a team.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 112.879,
     "end": 115.679,
     "text": "How long does he say he's been playing video games?",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 116.48,
     "end": 119.039,
     "text": "Play video games all my life, basically.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 119.039,
     "end": 122.719,
     "text": "I started playing competitively when I was around 9 or 10.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 122.719,
     "end": 127.12,
     "text": "I got into Halo, Call of Duty, games like that.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 127.12,
     "end": 133.919,
     "text": "And I just, I realised that I could probably go to a pro level if I keep playing at the level I am.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 134.879,
     "end": 138.639,
     "text": "He said that he's been playing computer games all his life.",
-    "speaker": null
+    "speaker": "competitivelygot intoprofessional"
   },
   {
+    "order": 34,
     "start": 138.639,
     "end": 141.599,
     "text": "Now that might be a little exaggeration,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 141.599,
     "end": 144.879,
     "text": "but he's probably been playing them ever since he can remember.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 145.439,
     "end": 148.959,
     "text": "When he was 9 or 10, he started playing competitively,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 148.959,
     "end": 152.959,
     "text": "which means he started playing in competitions against other people.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 152.959,
     "end": 156.56,
     "text": "He talks about a number of games that he got into.",
-    "speaker": null
+    "speaker": "got intointoget into"
   },
   {
+    "order": 39,
     "start": 156.56,
     "end": 157.919,
     "text": "This is a good expression.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 157.919,
     "end": 161.199,
     "text": "If you're into something, you are very interested in it.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 161.199,
     "end": 162.719,
     "text": "And to get into something,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 162.719,
     "end": 166.719,
     "text": "describes the process of becoming interested in that thing.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 166.719,
     "end": 169.28,
     "text": "In Kyle's case, it was computer games,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 169.28,
     "end": 173.759,
     "text": "and he got so good that he's thinking about playing at a professional level.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 174.56,
     "end": 179.759,
     "text": "Doing something as a professional means that it's more than a hobby or pastime.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 179.759,
     "end": 184,
     "text": "It's something someone pays you to do because you're really good at it.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 184.639,
     "end": 190.879,
-    "text": "George Yao is a former gaming champion who is now director of media of team secret.",
-    "speaker": null
+    "text": "George Yao is a former gaming champion who is now Director of Media of Team Secret.",
+    "speaker": "Neil"
   },
   {
+    "order": 48,
     "start": 190.879,
     "end": 193.759,
     "text": "Team secret are like a regular sports team.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 193.759,
     "end": 198.24,
     "text": "They have a group of players who play matches and competitions against other teams,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 198.24,
     "end": 200.639,
     "text": "except these are not regular sports.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 200.639,
     "end": 204,
     "text": "These are e-sports and they are big business.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 204,
     "end": 204.96,
     "text": "Here's George Yao.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 205.919,
     "end": 207.919,
     "text": "It's becoming a multi-billion dollar industry.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 208.879,
     "end": 213.519,
     "text": "Just games, production of games, publishing of games, and the esports scene.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 213.519,
     "end": 215.439,
     "text": "So it's not just one thing now.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 215.439,
     "end": 217.039,
     "text": "It's a whole industry.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 218,
     "end": 223.599,
     "text": "So George Yao says that online gaming is becoming a multi-billion dollar industry.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 224.159,
     "end": 228.56,
     "text": "We usually think of industry as factories and manufacturing,",
-    "speaker": null
+    "speaker": "industryindustry"
   },
   {
+    "order": 59,
     "start": 228.56,
     "end": 231.519,
     "text": "but it can also apply to other areas as well",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 231.519,
     "end": 236.399,
     "text": "that involve a lot of different elements that come together to make a business.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 236.399,
     "end": 240.959,
     "text": "Different elements that he mentions as part of this industry are creating games,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 240.959,
     "end": 243.919,
     "text": "publishing games, and the esports scene.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 243.919,
     "end": 247.039,
     "text": "The word scene here refers to the world of esports,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 247.039,
     "end": 249.679,
     "text": "the events, the competitions, and the players,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 249.679,
     "end": 252.159,
     "text": "and many people want to be part of that scene.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 253.039,
     "end": 255.679,
     "text": "Right now, let's get the answer to our quiz question",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 255.679,
     "end": 259.039,
     "text": "about the size of that 1950s computer game.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 259.039,
     "end": 264.159,
     "text": "Was it A, one meter tall, B, four meters tall, or C, 10 meters tall?",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 264.159,
     "end": 265.199,
     "text": "What did you say, Catherine?",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 265.199,
     "end": 266.719,
     "text": "I went for 10 meters, Neil.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 266.719,
     "end": 269.759,
     "text": "Well, unfortunately, it was four meters.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 270.48,
     "end": 273.279,
     "text": "Still quite big, though. Imagine you couldn't get one of those in your pocket.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 273.839,
     "end": 275.039,
     "text": "Rather not.",
-    "speaker": null
+    "speaker": "Catherine"
   },
   {
+    "order": 74,
     "start": 275.039,
     "end": 277.679,
-    "text": "I'd rather not! But I would like to review today's vocabulary.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 277.679,
-    "end": 282.559,
-    "text": "We started off with the word for a period of two weeks, a fortnight.",
+    "text": "But I would like to review today's vocabulary.",
     "speaker": null
   },
   {
+    "order": 75,
+    "start": 277.679,
+    "end": 282.559,
+    "text": "We started off with the word for a period of two weeks - a fortnight",
+    "speaker": "fortnight"
+  },
+  {
+    "order": 76,
     "start": 282.559,
     "end": 284.319,
     "text": "But with a different spelling,",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 284.319,
     "end": 287.919,
     "text": "fortnight is also a very popular video game.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 287.919,
     "end": 290.399,
     "text": "Multi-player video game competitions,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 290.399,
     "end": 294.159,
     "text": "which people pay to go and watch are known as esports.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 294.159,
     "end": 297.759,
     "text": "Playing against other people is playing competitively.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 297.759,
     "end": 301.039,
     "text": "Do you like to play multi-player video games, Catherine?",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 301.04,
     "end": 304.16,
-    "text": "I've never really got into them, even though I've tried one or two.",
-    "speaker": null
+    "text": "I've never really got into them even though I've tried one or two. ",
+    "speaker": "got intoto get into"
   },
   {
+    "order": 83,
     "start": 304.8,
     "end": 308.96,
     "text": "And that was one of our other expressions to get into something,",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 308.96,
     "end": 311.52,
     "text": "to become really interested in something.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 311.52,
     "end": 313.6,
     "text": "Same here. I enjoy playing a little bit,",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 313.6,
     "end": 315.52,
     "text": "but I could never be a professional.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 315.52,
     "end": 317.52,
     "text": "I couldn't get paid to do it as a job.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 317.52,
     "end": 320.879,
-    "text": "Of course not. You're already a professional, broadcaster, Neil.",
-    "speaker": null
+    "text": "Of course not, you’re already a professional broadcaster, Neil. ",
+    "speaker": "professionalindustryindustry industryindustry"
   },
   {
+    "order": 89,
     "start": 321.6,
     "end": 324.72,
     "text": "An area of business that's made up of different parts",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 324.72,
     "end": 326.72,
     "text": "can be described as an industry.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 327.2,
     "end": 331.6,
     "text": "The video game industry is a multi-billion dollar business.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 331.6,
     "end": 334.16,
     "text": "And we also talk about, for example,",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 334.16,
     "end": 337.36,
     "text": "the fashion industry and the movie industry.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 337.36,
     "end": 339.84,
     "text": "And finally, there was the word scene.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 339.84,
     "end": 344.32,
-    "text": "And finally there was the word scene. This noun is used to describe the world of a particular activity.",
-    "speaker": "scene"
-  },
-  {
-    "start": 344.32,
-    "end": 349.52,
-    "text": "So the esport scene, for example, is the world of esports.",
+    "text": "This noun is used to describe the world of a particular activity.",
     "speaker": null
   },
   {
+    "order": 96,
+    "start": 344.32,
+    "end": 349.52,
+    "text": "So the eSport scene, for example, is the world of eSports.",
+    "speaker": "eSportsceneeSportsscene"
+  },
+  {
+    "order": 97,
     "start": 349.52,
     "end": 353.36,
     "text": "The games, the teams, the competition, the audiences,",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 353.36,
     "end": 356,
     "text": "it's all part of this scene.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 356,
     "end": 359.36,
     "text": "Well, that's all from the six-minute English scene today.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 359.36,
     "end": 361.36,
     "text": "Do join us again, but if you can't wait,",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 361.36,
     "end": 364.639,
     "text": "you can find us on Facebook, Twitter, Instagram, and YouTube.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 364.639,
     "end": 366.399,
     "text": "And of course, on our website,",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 366.399,
     "end": 368.72,
     "text": "BBCLearningEnglish.com.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 368.72,
     "end": 370.16,
     "text": "Thanks for joining us and goodbye.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 370.16,
     "end": 370.959,
-    "text": "Goodbye!",
-    "speaker": "Catherine"
+    "text": "Goodbye.",
+    "speaker": null
   }
 ]

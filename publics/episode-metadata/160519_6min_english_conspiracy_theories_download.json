@@ -7,8 +7,44 @@
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/160519_6min_english_conspiracy_theories.pdf",
   "vocabItems": [
     {
-      "word": "to fake something",
-      "definition": "to make something that isn't true appear to be real"
+      "word": "to fakesomething",
+      "definition": "to fake something to make something that isn't true appear to be real"
+    },
+    {
+      "word": "gullible",
+      "definition": "a gullible person is easily persuaded to believe something"
+    },
+    {
+      "word": "conspiracy theory",
+      "definition": "a belief that a particular group or organization is responsible for a situation or event through secret planning"
+    },
+    {
+      "word": "susceptible",
+      "definition": "likely to be influenced by"
+    },
+    {
+      "word": "cover-up",
+      "definition": "attempt to prevent the public from discovering information about something important"
+    },
+    {
+      "word": "trait",
+      "definition": "quality"
+    },
+    {
+      "word": "paranoia",
+      "definition": "strong and unreasonable feeling that other people don't like you or want to harm you"
+    },
+    {
+      "word": "off the beaten track",
+      "definition": "unusual; not done by many other people"
+    },
+    {
+      "word": "paranormal",
+      "definition": "strange things that can't be explained by science, for example, ghosts"
+    },
+    {
+      "word": "unsubstantiated",
+      "definition": "not supported by evidence"
     }
   ],
   "quiz": null

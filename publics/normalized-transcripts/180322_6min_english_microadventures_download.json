@@ -1,866 +1,1010 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.279,
     "text": "6-Mate English.",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.279,
     "end": 10.72,
     "text": "From BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.439,
     "end": 16.28,
-    "text": "Hello, I'm Rob and welcome to 6 Minute English.",
-    "speaker": null
+    "text": "Hello I'm Rob and welcome to 6 Minute English– ",
+    "speaker": "Rob"
   },
   {
+    "order": 5,
     "start": 16.28,
     "end": 18.359,
     "text": "The show that brings you an interesting topic",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 18.359,
     "end": 20.16,
     "text": "and authentic listening practice.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 20.16,
     "end": 23.6,
-    "text": "...and don't forget vocabulary to help you improve your language skills. I'm Neil by the way and today we're off on an adventure.",
-    "speaker": "Neil"
+    "text": "And don't forget vocabulary to help you improve your language skills.",
+    "speaker": null
   },
   {
+    "order": 8,
     "start": 23.6,
     "end": 24.76,
     "text": "I'm Neil, by the way.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 24.76,
     "end": 27.199,
     "text": "And today, we're off on an adventure.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 27.199,
     "end": 29.4,
     "text": "Yes, but not a very big adventure, Neil,",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 29.399,
     "end": 31.919,
     "text": "it's just a mini or microadventure.",
-    "speaker": null
+    "speaker": "wanderlust"
   },
   {
+    "order": 12,
     "start": 31.919,
     "end": 34.799,
     "text": "But if you have wanderlust, a strong desire to travel,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 34.799,
     "end": 36.399,
     "text": "I think it may appeal.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 36.399,
     "end": 39.039,
     "text": "It will appeal to you, Rob, because you love to travel.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 39.039,
     "end": 41.399,
     "text": "Have a new circumnavigated globe.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 41.399,
     "end": 43.839,
     "text": "I mean, gone all the way around the world.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 43.839,
     "end": 46.64,
     "text": "Well, almost, Neil, but today's mini adventure",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 46.64,
     "end": 49.399,
     "text": "doesn't involve traveling too far from home.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 49.399,
     "end": 51.439,
     "text": "We'll explore the topic more in a moment,",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 20,
     "start": 51.439,
     "end": 54.359,
     "text": "but not before we've set today's quiz question.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 54.359,
     "end": 57.48,
     "text": "So, Neil, do you know how far it is around the world",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 57.48,
     "end": 58.879,
     "text": "measured at the equator?",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 23,
     "start": 58.92,
     "end": 61.04,
     "text": "In other words, the circumference.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 61.04,
     "end": 64.56,
     "text": "Is it approximately a 30,000 kilometers,",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 64.56,
     "end": 68.84,
     "text": "be 40,000 kilometers or see 50,000 kilometers?",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 68.84,
     "end": 71.92,
-    "text": "Well, I haven't walked it but I know it's a long way – so I'll go for c) 50,000 km.",
-    "speaker": "Neil"
+    "text": "Well, I haven't walked it, but I know it's a long way,",
+    "speaker": "Rob"
   },
   {
+    "order": 27,
     "start": 71.92,
     "end": 75.04,
     "text": "so I'll go for see 50,000 kilometers.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 75.04,
     "end": 76.84,
     "text": "Right. I shall keep you in suspense",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 76.84,
     "end": 79.32,
     "text": "and tell you the answer at the end of the programme.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 30,
     "start": 79.32,
     "end": 82.32,
     "text": "Now, our topic for discussion today won't be travelling so far.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 82.32,
     "end": 84.84,
     "text": "It's about a new trend for small adventures.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 84.84,
     "end": 87.879,
     "text": "What you mean are shorter breaks, closer to home.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 87.879,
     "end": 89.679,
     "text": "They're less expensive, of course,",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 89.679,
     "end": 92.479,
     "text": "but also instill a sense of adventure.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 92.479,
     "end": 94.599,
     "text": "That's the feeling of doing a new, exciting,",
-    "speaker": null
+    "speaker": "wanderlust"
   },
   {
+    "order": 36,
     "start": 94.599,
     "end": 96.879,
     "text": "and sometimes dangerous activity.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 96.879,
     "end": 99.56,
     "text": "Well, adventurer Alistair Humphries has coined the phrase",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 99.56,
     "end": 102.159,
     "text": "microadventures to describe this.",
-    "speaker": null
+    "speaker": "To coin"
   },
   {
+    "order": 39,
     "start": 102.159,
     "end": 104.679,
     "text": "To coin here means to use a word or phrase",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 104.679,
     "end": 106.199,
     "text": "that no one has used before.",
-    "speaker": null
+    "speaker": "coined"
   },
   {
+    "order": 41,
     "start": 106.199,
     "end": 108.959,
     "text": "Now, he's someone who goes on big trips and expeditions",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 108.959,
     "end": 110.719,
     "text": "to the four corners of the globe",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 110.719,
     "end": 113.159,
     "text": "and writes books about his adventures,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 113.159,
     "end": 117.159,
     "text": "but he wanted to prove you don't have to go far to find adventure.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 117.2,
     "end": 118.359,
-    "text": "Let's hear from him now,",
-    "speaker": null
+    "text": "Let's hear from him now ",
+    "speaker": "Rob"
   },
   {
+    "order": 46,
     "start": 118.359,
     "end": 121.599,
     "text": "speaking on BBC Radio 4's You and Yours programme",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 121.599,
     "end": 123.039,
     "text": "about what he did.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 123.039,
     "end": 126.28,
     "text": "How do he describe his first microadventure?",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 126.28,
     "end": 128.24,
     "text": "I'd been doing big adventures for years,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 128.24,
     "end": 131.039,
     "text": "and I had this hunch that you didn't need to go to the end",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 131.039,
     "end": 133.96,
     "text": "of the world to have some sort of adventure.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 133.96,
     "end": 135.8,
     "text": "You didn't need to be in beautiful Patagonia",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 135.8,
     "end": 137.479,
     "text": "to have the spirit of adventure.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 137.479,
     "end": 140.079,
     "text": "So I decided to try and prove my theory",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 140.079,
     "end": 143.159,
     "text": "by doing the most boring, ugly adventure I could think of,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 143.159,
     "end": 147.56,
     "text": "and I came up with the idea of walking a lap of the M25",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 147.56,
     "end": 149.439,
     "text": "in the snow in January.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 149.439,
     "end": 152.599,
     "text": "And time and again, as I walked around the M25,",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 152.599,
     "end": 154.4,
     "text": "I just kept thinking to myself,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 154.4,
     "end": 156.759,
     "text": "this experience is exactly the same",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 156.759,
     "end": 159.68,
     "text": "as the four years I spent cycling around the world.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 159.68,
     "end": 161.56,
     "text": "Smaller, of course, a bit silly,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 161.56,
     "end": 163.639,
     "text": "but definitely felt like an adventure.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 163.639,
     "end": 165.84,
     "text": "And that's when I really started to come up",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 165.84,
     "end": 168,
     "text": "with the idea of microadventures.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 168,
     "end": 172.4,
     "text": "So a microadventure is a boring, ugly adventure?",
     "speaker": "Neil"
   },
   {
+    "order": 67,
     "start": 172.4,
     "end": 173.24,
     "text": "no Neil.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 173.24,
     "end": 176.159,
     "text": "It may not be glamorous, but it is an adventure.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 176.159,
     "end": 178.56,
     "text": "He walked around the London Orbital Motorway,",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 178.56,
     "end": 181.48,
     "text": "called the M25, to prove his hunch",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 181.48,
     "end": 184.24,
     "text": "that you don't need to go far to find adventure.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 184.24,
     "end": 186.64,
     "text": "A hunch is an idea you have based on feelings,",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 186.64,
     "end": 187.8,
     "text": "but there's no proof.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 187.8,
     "end": 189.56,
-    "text": "Well, his hunch was right,",
-    "speaker": null
-  },
-  {
-    "start": 189.56,
-    "end": 193.04,
-    "text": "Well his hunch was right. But walking alongside a motorway isn't my idea of adventure.",
+    "text": "Well his hunch was right. ",
     "speaker": "Neil"
   },
   {
+    "order": 75,
+    "start": 189.56,
+    "end": 193.04,
+    "text": "but walking alongside a motorway isn't my idea of adventure.",
+    "speaker": null
+  },
+  {
+    "order": 76,
     "start": 193.04,
     "end": 194.319,
     "text": "No, it doesn't have to be Neil.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 194.319,
     "end": 197.08,
     "text": "Just getting out on your bike and exploring somewhere",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 197.08,
     "end": 200.96,
     "text": "in your locality that you haven't visited before is an adventure.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 200.96,
     "end": 201.96,
     "text": "What about camping?",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 201.96,
     "end": 204.56,
-    "text": "I do like to camp out.",
-    "speaker": null
+    "text": " I do like to camp out",
+    "speaker": "Neil"
   },
   {
+    "order": 81,
     "start": 204.56,
     "end": 208.48,
     "text": "Now that's a phrasal verb to mean sleep outside in a tent.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 208.48,
     "end": 211.76,
     "text": "You can be so close to nature and breathe in the fresh air.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 211.76,
     "end": 212.439,
     "text": "Ah, yes.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 212.439,
     "end": 215.719,
     "text": "And you don't need to go far for a camping adventure",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 215.719,
     "end": 219.159,
     "text": "and being out at night really adds to the sense of adventure.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 219.159,
     "end": 220.92,
     "text": "That's what Alistair Humphries believes.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 220.92,
     "end": 223.08,
-    "text": "We humans are so boring these days,",
-    "speaker": null
+    "text": "We humans are so boring these days ",
+    "speaker": "Alastair Humphreys, adventurer"
   },
   {
+    "order": 88,
     "start": 223.08,
     "end": 226.28,
     "text": "we so rarely spend time out in the darkness",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 226.28,
     "end": 231.24,
     "text": "to see the stars and to see how the world feels different by night.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 231.28,
     "end": 232.52,
     "text": "I get a little bit nervous still.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 232.52,
     "end": 236.08,
     "text": "I still imagine ghosts, but that's part of the charm",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 236.08,
     "end": 238.08,
     "text": "of making the little frisson of adventure.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 238.08,
     "end": 239.6,
     "text": "And then in the morning the sun comes up,",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 239.6,
     "end": 241.719,
     "text": "the birds sing, jump in a river,",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 241.719,
     "end": 244.439,
     "text": "back on the bus, back to your desk for nine o'clock.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 244.439,
     "end": 247.52,
     "text": "Seeing how the world feels at night is a nice idea.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 247.52,
     "end": 249.8,
     "text": "Getting a bit nervous, anxious maybe,",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 249.8,
     "end": 252,
     "text": "is part of the pleasure or enjoyment",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 252,
     "end": 253.76,
     "text": "what Alistair calls charm.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 253.76,
     "end": 254.52,
-    "text": "I agree.",
-    "speaker": null
+    "text": "I agree ",
+    "speaker": "Neil"
   },
   {
+    "order": 101,
     "start": 254.52,
     "end": 256.68,
     "text": "And he used another word frisson,",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 256.68,
     "end": 260.079,
-    "text": "I agree – and he used another word 'frisson' meaning a sudden, strong feeling of excitement, or fear.",
-    "speaker": "Neil"
+    "text": "meaning a sudden strong feeling of excitement or fear.",
+    "speaker": null
   },
   {
+    "order": 103,
     "start": 260.079,
     "end": 263.399,
     "text": "My biggest fear will be returning to my desk for nine o'clock.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 263.399,
     "end": 265.56,
     "text": "But Alistair is right, there is an adventure",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 265.56,
     "end": 267.079,
     "text": "to be had on your doorstep.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 267.079,
     "end": 268.759,
     "text": "That means close to where you live.",
-    "speaker": null
+    "speaker": "charm"
   },
   {
+    "order": 107,
     "start": 268.759,
     "end": 270.319,
     "text": "But only a small adventure Rob,",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 270.319,
     "end": 272.919,
     "text": "unlike an adventure around the circumference of the Earth.",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 272.919,
     "end": 274.919,
     "text": "Ah yes, that was my question earlier.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 274.919,
     "end": 277.919,
     "text": "How far is it around the world measured at the equator?",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 277.919,
     "end": 280.039,
     "text": "In other words, the circumference.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 280.039,
     "end": 283.319,
     "text": "Is it approximately a 30,000 kilometers,",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 283.319,
     "end": 287.439,
     "text": "B 40,000 kilometers or C 50,000 kilometers?",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 287.439,
     "end": 289.919,
     "text": "And I says C 50,000 kilometers.",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 289.92,
     "end": 291.8,
     "text": "Sorry Neil, too far.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 116,
     "start": 291.8,
     "end": 297.6,
     "text": "The Earth's circumference has been calculated to be 40,000 and 75 kilometers.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 297.6,
     "end": 300.6,
     "text": "To travel that distance would be a major adventure.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 300.6,
     "end": 305,
     "text": "OK, I think we should remind ourselves of some of the words and phrases we've discussed today.",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 305,
     "end": 308.72,
     "text": "Starting with wanderlust, a strong desire to travel.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 308.72,
     "end": 310.16,
     "text": "Rob has wanderlust.",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 310.16,
     "end": 311.639,
     "text": "He's never at home.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 311.639,
     "end": 314.56,
     "text": "That's because I have a sense of adventure.",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 314.56,
     "end": 316.84,
     "text": "That's the feeling of doing a new, exciting,",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 316.84,
     "end": 318.8,
     "text": "and sometimes dangerous activity.",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 318.8,
     "end": 324.16,
     "text": "Neil has no sense of adventure because he likes his holidays to be planned out with no surprises.",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 324.16,
     "end": 325.92,
     "text": "That's a little unfair, Rob.",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 325.92,
     "end": 327.84,
     "text": "I just like to be holiday happy.",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 327.84,
     "end": 329.879,
     "text": "That's a term I've just coined,",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 329.879,
     "end": 333.639,
     "text": "which means use the word or phrase that no one has used before.",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 333.639,
     "end": 340.12,
     "text": "You can also say to coin a phrase after using an expression that is well known and possibly used too much.",
     "speaker": null
   },
   {
+    "order": 131,
     "start": 340.12,
     "end": 341.639,
     "text": "Next we heard hunch.",
     "speaker": null
   },
   {
+    "order": 132,
     "start": 341.639,
     "end": 345.199,
     "text": "That's an idea you have based on feelings, but there's no proof.",
     "speaker": null
   },
   {
+    "order": 133,
     "start": 345.199,
     "end": 347.319,
     "text": "I have a hunch Neil wants to go to the pub.",
     "speaker": null
   },
   {
+    "order": 134,
     "start": 347.319,
     "end": 348.48,
     "text": "He's packing his bag.",
     "speaker": null
   },
   {
+    "order": 135,
     "start": 348.48,
     "end": 353.16,
     "text": "Your hunch is correct, Rob, but not before we recap our next word, charm.",
     "speaker": null
   },
   {
+    "order": 136,
     "start": 353.16,
     "end": 356.24,
     "text": "That's part of the pleasure or enjoyment of something.",
     "speaker": null
   },
   {
+    "order": 137,
     "start": 356.24,
     "end": 360.84,
     "text": "Part of the charm of going to the seaside is eating ice cream and walking down the pier.",
     "speaker": null
   },
   {
+    "order": 138,
     "start": 360.84,
     "end": 365.08,
     "text": "And finally, we heard on your doorstep, which means close to where you live.",
     "speaker": null
   },
   {
+    "order": 139,
     "start": 365.08,
     "end": 368.56,
     "text": "There's a pub right on your doorstep, so why don't you make the most of it?",
     "speaker": null
   },
   {
+    "order": 140,
     "start": 368.56,
     "end": 375.04,
     "text": "I intend to, Rob, but first let me remind you that you can learn English with us at BBCLearningEnglish.com.",
     "speaker": null
   },
   {
+    "order": 141,
     "start": 375.04,
     "end": 376.8,
     "text": "That's it for today's six minute English.",
     "speaker": null
   },
   {
+    "order": 142,
     "start": 376.8,
     "end": 378.48,
     "text": "We hope you enjoyed it. Bye for now.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 143,
     "start": 378.48,
     "end": 379.48,
-    "text": "Bye.",
-    "speaker": "Rob"
+    "text": "Bye-bye.",
+    "speaker": null
   }
 ]

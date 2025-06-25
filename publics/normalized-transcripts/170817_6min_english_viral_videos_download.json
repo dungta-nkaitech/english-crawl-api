@@ -1,830 +1,968 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 11.12,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.56,
     "end": 16.64,
-    "text": "Hello. I'm Neil. Welcome to 6 Minute English, where we like to share…",
-    "speaker": "Neil"
+    "text": "Hello, I'm Neil. Welcome to 6 Minute English, where we like to share.",
+    "speaker": null
   },
   {
+    "order": 5,
     "start": 16.64,
     "end": 18.96,
     "text": "Jokes, funny stories and cavities.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 18.96,
     "end": 23.28,
-    "text": "No, Rob – we like to share six useful items of vocabulary.",
-    "speaker": "Neil"
+    "text": "Er, no, Rob. We like to share six useful items of vocabulary.",
+    "speaker": null
   },
   {
+    "order": 7,
     "start": 23.28,
     "end": 24.64,
     "text": "Ah, yes, that too.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 24.64,
     "end": 27.76,
     "text": "But first, check out this meme on my phone, Neil.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 9,
     "start": 27.76,
     "end": 28.879,
     "text": "Grumpy cat.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 10,
     "start": 29.359,
     "end": 31.359,
     "text": "It's so cute. Shall I send it to you?",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 31.359,
     "end": 32.719,
-    "text": "No, please don't.",
-    "speaker": null
+    "text": "No, please don't!",
+    "speaker": "meme"
   },
   {
+    "order": 12,
     "start": 32.719,
     "end": 36.719,
     "text": "A meme is a picture or video with an amusing caption",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 36.719,
     "end": 39.679,
     "text": "that a lot of people share with each other online.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 14,
     "start": 39.679,
     "end": 41.92,
     "text": "Well, in this programme, we're talking about",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 41.92,
     "end": 44.239,
     "text": "why some online content goes viral.",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 44.239,
     "end": 45.12,
     "text": "And some doesn't.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 45.84,
     "end": 48.64,
     "text": "This cat is cute because it looks so grumpy,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 48.64,
     "end": 50.48,
     "text": "and that means bad tempered.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 50.48,
     "end": 53.92,
     "text": "An image, video or other piece of information goes viral",
-    "speaker": null
-  },
-  {
-    "start": 53.92,
-    "end": 57.759,
-    "text": "An image, video, or other piece of information goes viral when it gets passed on very quickly from person to person on the internet.",
     "speaker": "goesviral"
   },
   {
+    "order": 20,
+    "start": 53.92,
+    "end": 57.759,
+    "text": "when it gets passed on very quickly from person to person on the internet.",
+    "speaker": null
+  },
+  {
+    "order": 21,
     "start": 57.759,
     "end": 60.879,
     "text": "So first, let's start with our quiz question, Neil.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 60.879,
     "end": 65.599,
-    "text": "So first let's start with our quiz question, Neil. Can you tell me which was one of the first videos to go viral on the internet? Was it…",
-    "speaker": "Rob"
-  },
-  {
-    "start": 65.599,
-    "end": 68.48,
-    "text": "a) Charlie bit my finger,",
-    "speaker": "Rob"
-  },
-  {
-    "start": 68.48,
-    "end": 70.319,
-    "text": "b) Sneezing Panda or",
-    "speaker": "Rob"
-  },
-  {
-    "start": 70.319,
-    "end": 72.48,
-    "text": "c) Dancing Baby?",
-    "speaker": "Rob"
-  },
-  {
-    "start": 72.48,
-    "end": 75.359,
-    "text": "I'm going to guess sneezing panda,",
+    "text": "Can you tell me which was one of the first videos to go viral on the internet?",
     "speaker": null
   },
   {
-    "start": 75.359,
-    "end": 77.359,
-    "text": "I'm going to guess 'Sneezing Panda' – because I haven't seen any of those videos.",
+    "order": 23,
+    "start": 65.599,
+    "end": 68.48,
+    "text": "Was it a Charlie bit my finger?",
     "speaker": "Neil"
   },
   {
+    "order": 24,
+    "start": 68.48,
+    "end": 70.319,
+    "text": "B, sneezing panda?",
+    "speaker": "Rob"
+  },
+  {
+    "order": 25,
+    "start": 70.319,
+    "end": 72.48,
+    "text": "Or C, dancing baby?",
+    "speaker": null
+  },
+  {
+    "order": 26,
+    "start": 72.48,
+    "end": 75.359,
+    "text": "I'm going to guess sneezing panda,",
+    "speaker": "Rob"
+  },
+  {
+    "order": 27,
+    "start": 75.359,
+    "end": 77.359,
+    "text": "because I haven't seen any of those videos.",
+    "speaker": null
+  },
+  {
+    "order": 28,
     "start": 77.359,
     "end": 78.879,
     "text": "That's a ridiculous, Neil.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 78.879,
     "end": 80.479,
     "text": "Hope you've been living under a rock.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 80.479,
     "end": 84.159,
-    "text": "Look, I just don't find silly videos particularly cute – or funny.",
-    "speaker": "Neil"
+    "text": "Look, I just don't find silly videos, particularly cute.",
+    "speaker": "Rob"
   },
   {
+    "order": 31,
     "start": 84.159,
     "end": 84.879,
     "text": "Or funny.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 84.879,
     "end": 87.439,
     "text": "Okay, okay. No need to get grumpy about it.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 87.519,
     "end": 88.719,
     "text": "Let's move on.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 34,
     "start": 88.719,
     "end": 91.359,
     "text": "Why do so many people, Neil, excluded,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 91.359,
     "end": 93.679,
     "text": "enjoy sharing content online?",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 93.679,
     "end": 95.759,
     "text": "Let's listen to Dr. Jonah Berger,",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 95.759,
     "end": 98.719,
     "text": "marketing professor at the University of Pennsylvania,",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 98.719,
     "end": 101.84,
     "text": "and author of Contagias, Why Things Catch On,",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 101.84,
     "end": 104.239,
     "text": "talking about what motivates us to share.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 106.319,
     "end": 108.719,
     "text": "Humans are social animals.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 108.719,
     "end": 111.039,
     "text": "Sharing allows us to feel connected to others.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 111.039,
     "end": 114.4,
     "text": "We share emotions, which allow us to deepen the bonds we have",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 114.4,
     "end": 116.64,
     "text": "with our peers and with our friends.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 118.399,
     "end": 121.84,
     "text": "So it's all about being connected and deepening the bonds",
-    "speaker": null
+    "speaker": "peers"
   },
   {
+    "order": 45,
     "start": 121.84,
     "end": 124.319,
     "text": "between ourselves and our peers.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 124.319,
     "end": 127.439,
     "text": "Our peers are people the same age as ourselves,",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 127.439,
     "end": 130.079,
     "text": "who share the same social position in a group.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 48,
     "start": 130.079,
     "end": 132.719,
     "text": "And we particularly like to share content",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 132.719,
     "end": 134.8,
     "text": "that makes us feel emotional.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 134.8,
     "end": 137.52,
     "text": "Let's hear more from Dr. Jonah Berger about this.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 138.8,
     "end": 141.199,
     "text": "Higher-rowsal emotions include things like anger and anxiety,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 141.199,
     "end": 142.639,
     "text": "but also excitement and humor,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 142.639,
     "end": 144.639,
     "text": "lower-rowsal sadness and contentment,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 144.639,
     "end": 146.4,
     "text": "turns out those higher-rowsal emotions,",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 146.56,
     "end": 149.68,
     "text": "those emotions that fire us up and causes to take action,",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 149.68,
     "end": 150.879,
     "text": "also drive us to share.",
-    "speaker": null
+    "speaker": "Dr Jonah Berger, Marketing Professor at the University of Pennsylvania and author"
   },
   {
+    "order": 57,
     "start": 152.64,
     "end": 156.4,
     "text": "Arousal means to excite a particular feeling in somebody,",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 156.4,
     "end": 159.84,
     "text": "and emotions like anger and anxiety tend to cause",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 159.84,
     "end": 162.48,
     "text": "stronger feelings than sadness and contentment.",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 163.2,
     "end": 166.8,
     "text": "Right, high-rowsal emotions fire us up,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 166.8,
     "end": 169.68,
     "text": "and to fire someone up means to make someone excited",
-    "speaker": null
+    "speaker": "to fire someone up"
   },
   {
+    "order": 62,
     "start": 169.68,
     "end": 171.759,
     "text": "and enthusiastic about something.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 63,
     "start": 171.759,
     "end": 174.08,
     "text": "So when a video we see on the internet",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 174.08,
     "end": 177.52,
     "text": "makes us laugh or makes us excited or angry,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 177.52,
     "end": 179.52,
     "text": "then we're more likely to share it with others.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 179.52,
     "end": 182,
     "text": "And sharing that emotion with others",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 182,
     "end": 184.88,
     "text": "strengthens the connection or bond between us.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 185.52,
     "end": 188,
     "text": "That's what Dr. Berger's theory says anyway.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 188,
     "end": 192.24,
-    "text": "I'm surprised that sad things aren't passed on as much as, say, funny things.",
-    "speaker": "Rob"
+    "text": "I'm surprised that sad things aren't passed on as much as say funny things.",
+    "speaker": null
   },
   {
+    "order": 70,
     "start": 192.24,
     "end": 195.36,
     "text": "Well, how often do you share sad videos with your peers?",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 71,
     "start": 195.36,
     "end": 196.64,
     "text": "Ah, good point.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 196.64,
     "end": 199.439,
     "text": "I do tend to share content that makes me laugh",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 199.439,
     "end": 202,
     "text": "more than sad or angry stuff anyway.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 202.08,
     "end": 204.639,
     "text": "Like the grumpy cat meme, can I show it to you now?",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 204.639,
     "end": 204.96,
     "text": "No.",
     "speaker": "Neil"
   },
   {
+    "order": 76,
     "start": 205.759,
     "end": 207.599,
     "text": "Okay, I'll just show you the caption.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 207.599,
     "end": 210.8,
     "text": "It says, I've heard once, it was terrible.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 212.56,
     "end": 214.879,
     "text": "Yeah, right, hilarious, Rob.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 214.879,
     "end": 217.599,
     "text": "Now, can we have the answer to today's quiz question please,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 217.599,
     "end": 219.28,
     "text": "if you've finished amusing yourself?",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 219.28,
     "end": 220.319,
     "text": "Okay, okay.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 220.319,
     "end": 224.159,
     "text": "Which was one of the first videos to go viral on the internet?",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 224.159,
     "end": 226.8,
     "text": "Was it a Charlie bit my finger?",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 226.8,
     "end": 229.92,
     "text": "Be sneezing panda or see dancing baby?",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 230,
     "end": 231.919,
-    "text": "And I said 'Sneezing Panda'.",
+    "text": "And I said 'Sneezing Panda",
     "speaker": "Neil"
   },
   {
+    "order": 86,
     "start": 231.919,
     "end": 235.199,
     "text": "Oh, well, it was actually dancing baby.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 235.199,
     "end": 239.519,
     "text": "This three-dimensional animation of a baby dancing the cha-cha",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 239.519,
     "end": 243.439,
     "text": "was one of the first viral videos released in the late 1990s.",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 243.439,
     "end": 247.359,
     "text": "Another popular one was the hamster dance by Hampton the Hamster,",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 247.359,
     "end": 249.199,
     "text": "which appeared in 1997.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 249.199,
     "end": 251.279,
     "text": "Well, fascinating as all that sounds.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 251.279,
     "end": 253.919,
-    "text": "Well, fascinating as all that sounds, shall we look back at the words we learned today, Rob?",
-    "speaker": "Neil"
+    "text": "Shall we look back at the words we learned today, Rob?",
+    "speaker": null
   },
   {
+    "order": 93,
     "start": 253.919,
     "end": 254.719,
     "text": "Sure.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 254.719,
     "end": 259.599,
     "text": "The first item was meme, a picture or video with an amusing caption",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 259.6,
     "end": 262.08,
     "text": "that a lot of people share with each other online.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 262.08,
     "end": 266.48,
     "text": "For example, I tried to show Neil a hilarious meme about a grumpy cat.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 266.48,
     "end": 270.08,
     "text": "The word meme was actually invented by evolutionary biologist,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 98,
     "start": 270.08,
     "end": 271.84,
     "text": "Professor Richard Dawkins,",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 271.84,
     "end": 275.52,
     "text": "to represent an idea or concept that spreads in human culture",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 275.52,
     "end": 277.439,
     "text": "in a similar way to a gene.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 277.439,
     "end": 278.56,
     "text": "Hmm, fascinating.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 278.56,
     "end": 281.36,
     "text": "That sounds way too complicated, Neil.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 281.36,
     "end": 284.8,
     "text": "Let's move on to item number two, grumpy.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 284.8,
     "end": 288,
     "text": "I gave one example just now, but here's another one.",
     "speaker": null
   },
   {
+    "order": 105,
     "start": 288.079,
     "end": 290.48,
     "text": "He's the grumpiest man I've ever met.",
     "speaker": null
   },
   {
+    "order": 106,
     "start": 290.48,
     "end": 292.959,
     "text": "Oh, I hope you're not talking about me, Rob.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 292.959,
     "end": 294.879,
     "text": "Number three, to go viral.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 108,
     "start": 294.879,
     "end": 297.6,
     "text": "Means an image, video or other piece of information",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 297.6,
     "end": 301.439,
     "text": "that gets passed on very quickly from person to person on the internet.",
     "speaker": null
   },
   {
+    "order": 110,
     "start": 301.439,
     "end": 304.079,
     "text": "For example, what makes a video go viral?",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 304.079,
     "end": 305.68,
     "text": "Hmm, I don't know, Neil.",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 305.68,
     "end": 309.68,
-    "text": "I don't know, Neil – If I knew how to make a viral video, I'd be a rich man by now!",
-    "speaker": "Rob"
+    "text": "If I knew how to make a viral video, I'd be a rich man by now.",
+    "speaker": null
   },
   {
+    "order": 113,
     "start": 309.68,
     "end": 313.839,
     "text": "Before computers and the internet, we only talked about viral infections,",
     "speaker": null
   },
   {
+    "order": 114,
     "start": 313.839,
     "end": 314.48,
     "text": "didn't we?",
     "speaker": null
   },
   {
+    "order": 115,
     "start": 314.48,
     "end": 316.399,
     "text": "I've got a nasty viral infection,",
     "speaker": null
   },
   {
+    "order": 116,
     "start": 316.479,
     "end": 318.079,
     "text": "so I'm not coming into work today.",
     "speaker": null
   },
   {
+    "order": 117,
     "start": 318.079,
     "end": 319.12,
     "text": "Yeah, that's right.",
     "speaker": null
   },
   {
+    "order": 118,
     "start": 319.12,
     "end": 321.839,
     "text": "The connection is that both viral infections",
     "speaker": null
   },
   {
+    "order": 119,
     "start": 321.839,
     "end": 324.399,
     "text": "and viral memes spread quickly.",
     "speaker": null
   },
   {
+    "order": 120,
     "start": 324.399,
     "end": 328.56,
     "text": "Okay, number four, peers are people the same age as ourselves",
     "speaker": null
   },
   {
+    "order": 121,
     "start": 328.56,
     "end": 331.519,
     "text": "who share the same social position in a group.",
     "speaker": null
   },
   {
+    "order": 122,
     "start": 331.519,
     "end": 334.959,
     "text": "For example, teenagers often worry about looking silly",
     "speaker": null
   },
   {
+    "order": 123,
     "start": 334.959,
     "end": 336.159,
     "text": "in front of their peers.",
     "speaker": null
   },
   {
+    "order": 124,
     "start": 336.959,
     "end": 338.479,
     "text": "Next up, a rousal.",
     "speaker": null
   },
   {
+    "order": 125,
     "start": 338.479,
     "end": 341.439,
     "text": "That means to excite a particular feeling in somebody.",
     "speaker": null
   },
   {
+    "order": 126,
     "start": 341.439,
     "end": 344.399,
     "text": "We heard about high and lower rousal emotions.",
     "speaker": null
   },
   {
+    "order": 127,
     "start": 344.479,
     "end": 346.079,
     "text": "The verb is to arouse.",
     "speaker": null
   },
   {
+    "order": 128,
     "start": 346.079,
     "end": 350.399,
     "text": "For example, the debate aroused strong feelings on both sides.",
     "speaker": null
   },
   {
+    "order": 129,
     "start": 350.399,
     "end": 354.879,
     "text": "Okay, finally, to fire someone up means to make someone excited",
     "speaker": null
   },
   {
+    "order": 130,
     "start": 354.879,
     "end": 356.799,
     "text": "and enthusiastic about something.",
     "speaker": null
   },
   {
+    "order": 131,
     "start": 356.799,
     "end": 359.359,
     "text": "I'm really fired up about today's vocabulary.",
     "speaker": null
   },
   {
+    "order": 132,
     "start": 359.359,
     "end": 361.919,
-    "text": "Good to know, Rob, but it's time to go now.",
-    "speaker": null
-  },
-  {
-    "start": 361.919,
-    "end": 365.839,
-    "text": "Good to know, Rob. But it's time to go now, but please check out our Instagram, Twitter, Facebook and YouTube pages.",
+    "text": "Good to know, Rob. But it's time to go now,",
     "speaker": "Neil"
   },
   {
-    "start": 365.839,
-    "end": 366.319,
-    "text": "Bye-bye!",
-    "speaker": "Rob"
+    "order": 133,
+    "start": 361.919,
+    "end": 365.839,
+    "text": "But please check out our Instagram, Twitter, Facebook and YouTube pages.",
+    "speaker": null
   },
   {
+    "order": 134,
+    "start": 365.839,
+    "end": 366.319,
+    "text": "Bye-bye.",
+    "speaker": null
+  },
+  {
+    "order": 135,
     "start": 366.319,
     "end": 367.199,
     "text": "Goodbye!",
     "speaker": "Neil"
   },
   {
+    "order": 136,
     "start": 367.199,
     "end": 370.079,
-    "text": "Shall we watch that 'dancing baby' now, Neil?",
-    "speaker": "Rob"
+    "text": "Shall we watch that dancing baby now, Neil?",
+    "speaker": null
   },
   {
+    "order": 137,
     "start": 370.079,
     "end": 370.479,
     "text": "No.",
-    "speaker": "Neil"
+    "speaker": null
   }
 ]

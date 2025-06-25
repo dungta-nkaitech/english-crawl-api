@@ -1,689 +1,804 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.6,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.6,
     "end": 8.24,
     "text": "6Nate English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.88,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 12.08,
     "end": 15.439,
     "text": "Hello and welcome to 6 Minute English. I'm Sophie…",
     "speaker": "Sophie"
   },
   {
+    "order": 5,
     "start": 15.439,
     "end": 16.399,
     "text": "And I'm Neil.",
-    "speaker": "Neil"
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 16.399,
     "end": 18.08,
     "text": "How was your weekend, Neil?",
     "speaker": "Sophie"
   },
   {
+    "order": 7,
     "start": 18.08,
     "end": 20.64,
     "text": "Well, not great.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 20.64,
     "end": 22,
     "text": "I hadn't got anything planned,",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 22,
     "end": 24.48,
     "text": "so I didn't see anyone for two days.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 24.48,
     "end": 27.359,
     "text": "And to be honest, I felt very lonely.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 27.439,
     "end": 30.719,
     "text": "There was a real physical feeling in the pit of my stomach.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 30.719,
     "end": 35.039,
     "text": "Well, poor Neil, you do sound really down in the dumps,",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 35.039,
     "end": 36.32,
     "text": "and that means unhappy.",
-    "speaker": null
+    "speaker": "down in the dumpslonelinessisolated"
   },
   {
+    "order": 14,
     "start": 37.119,
     "end": 39.84,
     "text": "Well, the subject of today's show is loneliness.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 40.48,
     "end": 44.239,
     "text": "And loneliness is sometimes described as a social pain,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 44.239,
     "end": 46.879,
     "text": "a pain that tells us that we're isolated,",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 46.879,
     "end": 49.28,
     "text": "or lacking contact with others,",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 49.28,
     "end": 52.64,
     "text": "which motivates us to seek out companionship.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 52.64,
     "end": 56.48,
     "text": "I had no idea that feeling lonely had a biological explanation.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 56.479,
     "end": 59.839,
     "text": "How does being sociable help us as a species, then, Sophie?",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 59.839,
     "end": 62,
-    "text": "It's all about cooperation,",
-    "speaker": null
+    "text": "It's all about cooperation ",
+    "speaker": "cooperation"
   },
   {
+    "order": 22,
     "start": 62,
     "end": 64.799,
     "text": "or working together to get something done.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 64.799,
     "end": 67.039,
     "text": "For example, finding food.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 67.039,
     "end": 70.56,
     "text": "Oh, well, I suppose I cooperated with the Pizza Delivery guy",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 70.56,
     "end": 72.399,
     "text": "for a shared outcome.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 72.399,
     "end": 74.719,
     "text": "You paid him and he gave you the pizza?",
     "speaker": "Sophie"
   },
   {
+    "order": 27,
     "start": 74.719,
     "end": 75.519,
     "text": "Exactly.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 76.319,
     "end": 79.359,
     "text": "But it wasn't a socially enriching experience.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 79.359,
     "end": 80.719,
     "text": "That's the bad thing about London.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 80.719,
     "end": 83.199,
     "text": "You can feel lonely, even surrounded with people.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 83.84,
     "end": 85.759,
     "text": "It isn't easy to meet people you really like,",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 85.76,
     "end": 88.88,
     "text": "so often you might as well just be on your own.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 88.88,
     "end": 90.08,
     "text": "Good point.",
-    "speaker": null
+    "speaker": "Sophie"
   },
   {
+    "order": 34,
     "start": 90.08,
     "end": 93.52,
     "text": "And I have a question about cities and living alone, Neil,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 93.52,
     "end": 94.8,
     "text": "because it's on the rise.",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 95.52,
     "end": 99.84,
-    "text": "OK. I asked: which country has the highest proportion of people living on their own? Is it … a) the US, b) Japan or c) Sweden?",
-    "speaker": "Sophie"
+    "text": "Which country has the highest proportion of people living on their own?",
+    "speaker": "Neil"
   },
   {
+    "order": 37,
     "start": 99.84,
     "end": 104.64,
     "text": "Is it A, the US, B, Japan, or C, Sweden?",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 104.64,
     "end": 108.64,
-    "text": "Well, I'm going to guess b) Japan.",
-    "speaker": "Neil"
+    "text": "Oh, well, I'm going to guess B, Japan.",
+    "speaker": null
   },
   {
+    "order": 39,
     "start": 108.64,
     "end": 111.6,
     "text": "Okay, we'll see if you've got that right later on in the show.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 112.32,
     "end": 114.32,
     "text": "So, getting back to loneliness,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 41,
     "start": 115.039,
     "end": 117.679,
     "text": "the idea is that because it makes us feel bad,",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 117.679,
     "end": 120.399,
     "text": "it motivates us to go out and meet people.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 121.119,
     "end": 123.839,
     "text": "Some people are more likely to feel lonely than others,",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 123.839,
     "end": 126.559,
     "text": "because our genes play a role in this tendency.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 126.559,
     "end": 129.68,
-    "text": "I wonder if I inherited loneliness genes.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 130.239,
-    "end": 131.68,
-    "text": "I don't know, Neil.",
+    "text": "Hmm, I wonder if I inherited loneliness, genes.",
     "speaker": null
   },
   {
+    "order": 46,
+    "start": 130.239,
+    "end": 131.68,
+    "text": " I don't know, Neil",
+    "speaker": "Neil"
+  },
+  {
+    "order": 47,
     "start": 131.68,
     "end": 135.039,
     "text": "But while in some situations being lonely may be a good thing,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 135.039,
     "end": 137.439,
     "text": "because it encourages you to be sociable,",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 137.439,
     "end": 140.879,
     "text": "in other situations, it may be useful to tolerate,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 140.879,
     "end": 143.039,
     "text": "or put up with loneliness.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 143.759,
     "end": 146.319,
     "text": "Let's listen to Professor Dorit Bumsmer",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 146.319,
     "end": 149.759,
     "text": "at Vry University in Amsterdam talking about this.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 151.759,
     "end": 153.759,
     "text": "So, the intriguing question is,",
-    "speaker": null
+    "speaker": "Professor Dorret Boomsma, Department of Biological Psychology at the Vrije Universiteit Amsterdam"
   },
   {
+    "order": 54,
     "start": 153.759,
     "end": 158.239,
     "text": "why do genes that influence loneliness still exist?",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 158.239,
     "end": 164.719,
     "text": "And one explanation is that probably they do not only have negative effects",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 164.719,
     "end": 172.719,
     "text": "in some situations, it is an advantage to be able to tolerate high levels of loneliness",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 172.879,
     "end": 176.96,
     "text": "and that is why the genes are maintained in the population.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 178.879,
     "end": 182.719,
-    "text": "So, inheriting genes for loneliness might not be a bad thing. Why's that, Neil?",
-    "speaker": "Sophie"
+    "text": "So, inheriting genes for loneliness might not be a bad thing.",
+    "speaker": null
   },
   {
+    "order": 59,
     "start": 183.28,
     "end": 184.4,
     "text": "Why is that, Neil?",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 184.4,
     "end": 189.039,
     "text": "Because it means you can tolerate being alone for a long time without feeling bad.",
     "speaker": "Neil"
   },
   {
+    "order": 61,
     "start": 189.039,
     "end": 192.879,
     "text": "Well, that's an intriguing or very interesting idea.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 193.52,
     "end": 196.8,
     "text": "But it shows that you probably don't have those genes, Neil,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 196.8,
     "end": 198.879,
     "text": "because you did feel bad at the weekend.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 199.84,
     "end": 203.599,
     "text": "And actually, that was despite spending a lot of time on Facebook.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 203.599,
     "end": 205.199,
     "text": "And that's a form of social contact.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 66,
     "start": 205.84,
     "end": 210,
     "text": "But does all the tweeting, messaging, and chatting online that we do make us",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 210,
     "end": 213.68,
     "text": "lonelier because we're getting out less and meeting fewer people",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 213.68,
     "end": 216.8,
     "text": "or do virtual connections stop us from feeling lonely?",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 217.359,
     "end": 219.599,
     "text": "Those are intriguing questions.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 219.599,
     "end": 222.159,
     "text": "Let's listen to Professor Eric Klinenberg,",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 222.159,
     "end": 226.879,
     "text": "sociologist at New York University, and author of a book about living alone.",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 226.879,
     "end": 228,
     "text": "He talks about this.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 229.519,
     "end": 235.039,
     "text": "We just don't have great research showing that we are significantly more lonely",
-    "speaker": null
+    "speaker": "Eric Klinenberg, sociologist at New York University and author"
   },
   {
+    "order": 74,
     "start": 235.039,
     "end": 239.12,
     "text": "or isolated today than we were 10 or 20 or 30 years ago,",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 239.12,
     "end": 245.039,
     "text": "which means that critics who say that Facebook or the internet or whatever device",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 245.039,
     "end": 248.879,
     "text": "you carry with you is making you lonelier and more miserable.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 248.879,
     "end": 251.039,
     "text": "They just don't have that much evidence to back it up.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 252.079,
     "end": 256.8,
-    "text": "So there isn't enough evidence to back up – or support – the claim that social media is making us feel lonelier.",
-    "speaker": "back up"
+    "text": "So, there isn't enough evidence to back up or support the claim that social media",
+    "speaker": null
   },
   {
+    "order": 79,
     "start": 256.8,
     "end": 258.639,
     "text": "is making us feel lonelier.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 258.719,
     "end": 259.68,
     "text": "No, that isn't.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 260.399,
     "end": 264.959,
     "text": "Okay, now before I give you the answer to today's quiz question, Neil,",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 264.959,
     "end": 267.68,
     "text": "did you know that loneliness is contagious?",
-    "speaker": null
+    "speaker": "contagious"
   },
   {
+    "order": 83,
     "start": 267.68,
     "end": 271.039,
     "text": "Oh, you mean you can catch it from someone like a cold?",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 271.039,
     "end": 275.12,
     "text": "Yes. There are environmental factors involved in loneliness too.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 275.759,
     "end": 280.8,
     "text": "For example, if somebody you talk to every day is always unfriendly towards you,",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 281.439,
     "end": 286.639,
     "text": "this makes you statistically more likely to be negative in your interactions with somebody else.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 286.719,
     "end": 290.319,
     "text": "Well, let's try and stay friendly towards each other then Sophie.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 290.319,
     "end": 293.439,
-    "text": "Well, let's try and stay friendly towards each other, then, Sophie. You can start by telling me whether I got today's quiz question right!",
-    "speaker": "Neil"
+    "text": "You can start by telling me whether I got today's quiz question right.",
+    "speaker": null
   },
   {
+    "order": 89,
     "start": 294.159,
     "end": 300.319,
     "text": "Okay, I asked which country has the highest proportion of people living on their own?",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 300.319,
     "end": 301.759,
-    "text": "a) the US?",
-    "speaker": "Sophie"
+    "text": "Is it A, the US?",
+    "speaker": null
   },
   {
+    "order": 91,
     "start": 302.56,
     "end": 304.959,
-    "text": "Or c) Sweden?",
+    "text": "b) Japan? Or c) Sweden",
     "speaker": "Sophie"
   },
   {
+    "order": 92,
     "start": 304.959,
     "end": 306.959,
     "text": "And I said Japan.",
     "speaker": "Neil"
   },
   {
+    "order": 93,
     "start": 307.919,
     "end": 310.399,
     "text": "This is the wrong answer, I'm afraid.",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 311.279,
     "end": 313.279,
     "text": "It's actually C, Sweden.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 313.599,
     "end": 318.719,
     "text": "Nearly half of all Swedish households are single occupancy or for one person.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 319.439,
     "end": 323.439,
     "text": "Living alone in Sweden is arguably the norm because it's so easy.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 324,
     "end": 330.559,
     "text": "There are many affordable single occupancy apartments and young Swedes can expect to move into their own apartment",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 330.559,
     "end": 332.159,
     "text": "once they graduate high school.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 333.279,
     "end": 336.159,
     "text": "Okay, now let's hear the words we learn today again, Sophie.",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 336.159,
     "end": 336.959,
     "text": "Yes, okay.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 337.519,
     "end": 341.439,
     "text": "They are down in the dumps, loneliness,",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 341.68,
     "end": 343.6,
     "text": "isolated",
     "speaker": "Sophie"
   },
   {
+    "order": 103,
     "start": 344.56,
     "end": 345.519,
-    "text": "cooperation",
+    "text": "cooperation ",
     "speaker": "Sophie"
   },
   {
+    "order": 104,
     "start": 346.56,
     "end": 347.279,
-    "text": "tolerate",
-    "speaker": "Sophie"
+    "text": "tolerate,",
+    "speaker": null
   },
   {
+    "order": 105,
     "start": 348.16,
     "end": 348.959,
-    "text": "intriguing",
+    "text": "intriguing ",
     "speaker": "Sophie"
   },
   {
+    "order": 106,
     "start": 349.839,
     "end": 350.399,
     "text": "backup,",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 351.36,
     "end": 352.16,
-    "text": "contagious",
+    "text": "contagious ",
     "speaker": "Sophie"
   },
   {
+    "order": 108,
     "start": 353.12,
     "end": 354.399,
-    "text": "single occupancy",
-    "speaker": "Sophie"
-  },
-  {
-    "start": 354.959,
-    "end": 358.959,
-    "text": "Well, that's the end of this edition of 6 Minute English. Join us again soon.",
+    "text": "single occupancy.",
     "speaker": null
   },
   {
+    "order": 109,
+    "start": 354.959,
+    "end": 358.959,
+    "text": "Well, that's the end of this edition of 6 Minute English. Join us again soon!",
+    "speaker": "Neil"
+  },
+  {
+    "order": 110,
     "start": 358.959,
     "end": 360.639,
     "text": "Meanwhile, visit our website,",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 360.639,
     "end": 364.639,
     "text": "bbclearningenglish.com, where you'll find guides to grammar,",
     "speaker": null
   },
   {
+    "order": 112,
     "start": 364.639,
     "end": 369.36,
     "text": "exercises, videos and articles to read and improve your English. Bye.",
     "speaker": null
   },
   {
+    "order": 113,
     "start": 369.36,
     "end": 369.92,
-    "text": "Bye!",
-    "speaker": "Both"
+    "text": "Bye-bye.",
+    "speaker": null
   },
   {
+    "order": 114,
     "start": 371.439,
     "end": 374,
     "text": "6 Minute English from the BBC.",

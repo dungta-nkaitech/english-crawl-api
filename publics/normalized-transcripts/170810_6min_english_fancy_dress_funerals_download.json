@@ -1,674 +1,786 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6 Minute English",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.88,
     "text": "from BBCLearningEnglish.com",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 13.04,
     "end": 15.679,
     "text": "Hello, I'm Neil and welcome to 6 Minute English.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 15.679,
     "end": 20.16,
-    "text": "Hello, I'm Neil and welcome to 6 Minute English, where today we bring you a serious topic and six items of vocabulary.",
-    "speaker": "Neil"
+    "text": "Where today we bring you a serious topic and six items of vocabulary.",
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 20.16,
     "end": 21.44,
     "text": "And hello, I'm Rob.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 21.44,
     "end": 23.92,
     "text": "Now, here's a serious question for you, Neil.",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 23.92,
     "end": 27.839,
-    "text": "And hello, I'm Rob. Now, here's a serious question for you, Neil. Have you thought about what you'd like to happen when you die?",
-    "speaker": "Rob"
+    "text": "Have you thought about what you'd like to happen when you die?",
+    "speaker": null
   },
   {
+    "order": 9,
     "start": 28.8,
     "end": 30.559,
-    "text": "Interesting way to start the show, Rob… No, I haven't.",
+    "text": "Interesting way to start the show, Rob…",
     "speaker": "Neil"
   },
   {
+    "order": 10,
     "start": 31.359,
     "end": 32.479,
     "text": "No, I haven't.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 32.479,
     "end": 35.2,
     "text": "Well, nobody really likes to talk about death, do they?",
-    "speaker": "Rob"
-  },
-  {
-    "start": 35.2,
-    "end": 37.359,
-    "text": "Well, it isn't a fun topic.",
     "speaker": null
   },
   {
-    "start": 37.359,
-    "end": 39.359,
-    "text": "Well, it isn't a fun topic. So, can we talk about something else, please?",
+    "order": 12,
+    "start": 35.2,
+    "end": 37.359,
+    "text": "Well, it isn't a fun topic.",
     "speaker": "Neil"
   },
   {
+    "order": 13,
+    "start": 37.359,
+    "end": 39.359,
+    "text": "So can we talk about something else, please?",
+    "speaker": null
+  },
+  {
+    "order": 14,
     "start": 39.359,
     "end": 42.96,
     "text": "Afraid not, because today's topic is funerals.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 42.96,
     "end": 46.24,
-    "text": "Afraid not. Because today's topic is funerals – a funeral is a ceremony we hold for a dead person.",
-    "speaker": "funeral"
+    "text": "A funeral is a ceremony we hold for a dead person.",
+    "speaker": null
   },
   {
+    "order": 16,
     "start": 46.24,
     "end": 50,
-    "text": "And a ceremony is a formal event performed on special occasions – like a wedding or a graduation – or in this case, a funeral.",
+    "text": "And a ceremony is a formal event performed on special occasions ",
     "speaker": "ceremony"
   },
   {
+    "order": 17,
     "start": 50,
     "end": 53.84,
     "text": "like a wedding or a graduation, or in this case, a funeral.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 53.92,
     "end": 56,
     "text": "Okay, well, let's start with a quiz question.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 56,
     "end": 58.16,
     "text": "According to a UK survey,",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 58.16,
     "end": 62.88,
-    "text": "OK. Well, let's start with a quiz question. According to a UK survey, how many of us would like our funerals to be more of a party or celebration? Is it…",
-    "speaker": "Rob"
+    "text": "how many of us would like our funerals to be more of a party or celebration?",
+    "speaker": "Neil"
   },
   {
+    "order": 21,
     "start": 62.88,
     "end": 68.56,
     "text": "Is it a 5%, b 25% or c 50%.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 69.28,
     "end": 71.68,
     "text": "Well, I think it's 25%.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 23,
     "start": 71.68,
     "end": 76.8,
     "text": "I hadn't thought about it before, but I definitely prefer my funeral to be a celebration",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 76.8,
     "end": 80.8,
     "text": "with my favourite music playing and definitely nobody wearing black.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 80.799,
     "end": 84.64,
     "text": "Well, strangely enough, a friend of mine went to a funeral recently",
-    "speaker": null
-  },
-  {
-    "start": 84.64,
-    "end": 88.56,
-    "text": "Well, strangely enough, a friend of mine went to a funeral recently where the funeral director was dressed as Darth Vader from Star Wars!",
     "speaker": "Rob"
   },
   {
+    "order": 26,
+    "start": 84.64,
+    "end": 88.56,
+    "text": "where the funeral director was dressed as Darth Vader from Star Wars.",
+    "speaker": null
+  },
+  {
+    "order": 27,
     "start": 88.56,
     "end": 90.399,
     "text": "Hmm, that sounds wrong.",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 90.399,
     "end": 93.92,
     "text": "But I guess people are choosing to move away from the traditional funeral,",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 93.92,
     "end": 97.359,
     "text": "you know, in church, people dressed in black or very quiet.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 97.359,
     "end": 99.92,
-    "text": "Darth Vader does wear black, at least.",
-    "speaker": null
+    "text": "Darth Vader does wear black, at least!",
+    "speaker": "Rob"
   },
   {
+    "order": 31,
     "start": 99.92,
     "end": 103.28,
     "text": "Anyway, let's hear from Shoney Sullivan here in the UK",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 103.28,
     "end": 107.599,
     "text": "talking about the fancy dress funeral she and her sister organised for their mother.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 107.919,
     "end": 112.719,
-    "text": "Shonnie: It was quite unusual as we turned up in fancy dress.",
-    "speaker": "Shonnie"
+    "text": "It was quite unusual as we turned up in fancy dress.",
+    "speaker": null
   },
   {
+    "order": 34,
     "start": 112.719,
     "end": 118,
     "text": "Had your mum left any instructions about how she wanted her funeral to be?",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 118,
     "end": 122.56,
     "text": "Only that we don't cry and we're to have a party,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 122.56,
     "end": 125.84,
     "text": "just celebrate her life, be happy, don't be sad.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 125.84,
     "end": 127.599,
     "text": "I was a witch.",
-    "speaker": null
-  },
-  {
-    "start": 127.599,
-    "end": 128.799,
-    "text": "Interviewer: How did you look?",
     "speaker": "Interviewer"
   },
   {
+    "order": 38,
+    "start": 127.599,
+    "end": 128.799,
+    "text": " How did you look",
+    "speaker": "Interviewer"
+  },
+  {
+    "order": 39,
     "start": 128.799,
     "end": 132.879,
     "text": "Oh, it was just like a little black dress and I just had like a little fancy",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 133.039,
     "end": 138.4,
     "text": "witch hat on at the same time as my sister and we had a very close friend of the family come",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 138.4,
     "end": 142.319,
     "text": "as Beetlejuice, which was absolutely amazing.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 142.319,
     "end": 144.079,
     "text": "He really did go all out for that.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 145.12,
     "end": 148.799,
-    "text": "So, fancy dress, special clothes you wear to an event,",
-    "speaker": null
+    "text": "So fancy dress - special clothes you wear to an event ",
+    "speaker": "fancy dress costume"
   },
   {
+    "order": 44,
     "start": 148.799,
     "end": 152.079,
     "text": "to look like a famous person or character from a movie.",
-    "speaker": null
+    "speaker": "Rob"
   },
   {
+    "order": 45,
     "start": 152.079,
     "end": 157.439,
     "text": "Another word we use is costume, which is a set of clothes you wear to look like somebody else.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 158.159,
     "end": 161.84,
     "text": "Shoney and her sister chose a Halloween theme for the funeral and what",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 161.84,
     "end": 165.439,
     "text": "witches costumes, little black dresses with special hats.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 165.439,
     "end": 168.24,
-    "text": "A close family relative dressed as Beetlejuice.",
-    "speaker": null
+    "text": "A close family relative dressed as Beetlejuice ",
+    "speaker": "Rob"
   },
   {
+    "order": 49,
     "start": 169.039,
     "end": 172.8,
     "text": "Did he dress as a squashed in-sect Neil and I'm a bit confused here?",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 172.8,
     "end": 178,
     "text": "No, Rob. He dressed as Beetlejuice, the main character in a popular 1980s movie.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 178,
     "end": 182.24,
     "text": "Beetlejuice is a ghost who wears crazy clothes and has scary hair and makeup.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 183.12,
     "end": 187.439,
     "text": "I haven't seen the film, but what does Shoney mean when she says her relative went all out with his",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 187.439,
     "end": 188.319,
     "text": "costume?",
+    "speaker": "Rob"
+  },
+  {
+    "order": 54,
+    "start": 188.319,
+    "end": 192.799,
+    "text": "To go all out means to make a big effort, and this guy's costume involved not only",
     "speaker": null
   },
   {
-    "start": 188.319,
-    "end": 192.799,
-    "text": "To go all out means to make a big effort – and this guy's costume involved not only special clothes, but special hair and make up too.",
-    "speaker": "To go all out"
-  },
-  {
+    "order": 55,
     "start": 192.799,
     "end": 196,
     "text": "special clothes, but special hair and makeup too.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 196,
     "end": 199.28,
-    "text": "What do you mean, 'like me'?",
-    "speaker": "Neil"
+    "text": "Ah, like me. What do you mean like me?",
+    "speaker": null
   },
   {
+    "order": 57,
     "start": 199.28,
     "end": 204.4,
     "text": "Well, I go all out to get my clothes and hair just right for six minute English.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 204.4,
     "end": 210.159,
-    "text": "Yes, and, well... you look great, Rob. But unfortunately nobody sees us… do they?",
-    "speaker": "Neil"
-  },
-  {
-    "start": 210.159,
-    "end": 213.199,
-    "text": "Yes, good point. But it's important to make an effort.",
+    "text": "Yes, and well, you look great, Rob, but unfortunately nobody sees us do they?",
     "speaker": "Rob"
   },
   {
-    "start": 214,
-    "end": 218,
-    "text": "So have you had any thoughts about the sort of funeral you would like to have?",
-    "speaker": "Neil"
+    "order": 59,
+    "start": 210.159,
+    "end": 213.199,
+    "text": "Ah yes, good point. But it's important to make an effort.",
+    "speaker": null
   },
   {
+    "order": 60,
+    "start": 214,
+    "end": 218,
+    "text": "So, have you had any thoughts about the sort of funeral you would like to have?",
+    "speaker": "Rob"
+  },
+  {
+    "order": 61,
     "start": 218.56,
     "end": 221.599,
     "text": "Oh, yes, I like the thought of my friends and family,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 221.599,
     "end": 225.599,
     "text": "saying their final goodbyes to me on a beach with a beautiful sunset,",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 225.599,
     "end": 228.4,
     "text": "listening to Stay Away to Heaven by Led Zeppelin.",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 229.28,
     "end": 233.68,
     "text": "Okay, well, before you get too carried away with ideas for your own funeral,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 233.68,
     "end": 236.4,
     "text": "let's have the answer to today's quiz question.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 236.4,
     "end": 240.159,
-    "text": "Way to go, Neil! Number six – the phrasal verb 'to get carried away' – means to get very excited and lose control of your feelings!",
-    "speaker": "Rob"
+    "text": "To get carried away means to get very excited and lose control of your feelings.",
+    "speaker": "Neil"
   },
   {
+    "order": 67,
     "start": 240.799,
     "end": 244.4,
     "text": "Hmm, I never thought I would get excited about my own funeral.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 244.4,
     "end": 246.719,
     "text": "But anyway, yes, back to today's question,",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 246.719,
     "end": 251.04,
     "text": "how many of us would like our funerals to be more of a party or celebration?",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 251.04,
     "end": 256.56,
     "text": "Is it a 5%, b 25% or c 50%?",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 256.56,
     "end": 259.28,
     "text": "And I said 25%.",
     "speaker": "Neil"
   },
   {
+    "order": 72,
     "start": 259.28,
     "end": 261.68,
     "text": "No, it's actually 50%.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 261.68,
     "end": 266.079,
     "text": "The market research company ICN found that half of us here in the UK",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 266.079,
     "end": 269.68,
     "text": "would prefer something different to the traditional funeral.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 269.68,
     "end": 271.36,
     "text": "More than I expected.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 76,
     "start": 271.36,
     "end": 275.439,
     "text": "Okay, shall we look back at the words we have learned today?",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 275.439,
     "end": 277.6,
     "text": "Yep. First up, funeral.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 277.6,
     "end": 280.16,
     "text": "A ceremony we hold for a dead person.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 280.16,
     "end": 282.24,
     "text": "The plural is funerals.",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 282.24,
     "end": 285.36,
     "text": "Fancy dress funerals aren't everybody's cup of tea.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 285.36,
     "end": 287.36,
     "text": "The adjective is funereal.",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 287.36,
     "end": 289.36,
     "text": "Notice the stress on the second syllable.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 290,
     "end": 292.16,
     "text": "Who chose this funereal music?",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 292.16,
     "end": 294.48,
     "text": "Can we change it to something more cheerful?",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 294.48,
     "end": 297.92,
-    "text": "'Not my cup of tea' by the way, is something you don't enjoy doing.",
+    "text": "'Not my cup of tea' by the way, is something you don't enjoy doing",
     "speaker": "Neil"
   },
   {
+    "order": 86,
     "start": 298,
     "end": 302.56,
     "text": "Okay, ceremony, a formal event performed on special occasions.",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 302.56,
     "end": 305.199,
-    "text": "\"I didn't go to my sister's graduation ceremony.\"",
-    "speaker": "Neil"
+    "text": "I didn't go to my sister's graduation ceremony.",
+    "speaker": null
   },
   {
+    "order": 88,
     "start": 305.84,
     "end": 310.24,
-    "text": "\"In the UK, the opening of Parliament is a ceremonious occasion.\" Ceremonious is the adjective.",
-    "speaker": "Rob"
+    "text": "In the UK, the opening of Parliament is a ceremonious occasion.",
+    "speaker": null
   },
   {
+    "order": 89,
     "start": 310.24,
     "end": 312.64,
     "text": "Ceremonious is the adjective.",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 312.64,
     "end": 316.24,
     "text": "Number three, fancy dress is special clothing you wear to an event.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 316.24,
     "end": 320.319,
-    "text": "Number three – 'fancy dress' is special clothing you wear to an event – for example, to look like a famous person or character from a movie.",
-    "speaker": "Neil"
+    "text": "For example, to look like a famous person or character from a movie.",
+    "speaker": null
   },
   {
+    "order": 92,
     "start": 320.319,
     "end": 322.72,
-    "text": "\"I've been invited to a fancy dress party.\"",
+    "text": "\"I've been invited to a fancy dress party",
     "speaker": "Rob"
   },
   {
+    "order": 93,
     "start": 322.72,
     "end": 324.72,
     "text": "Oh, who are you going as, Rob?",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 324.72,
     "end": 325.68,
     "text": "It's a secret, Neil!",
     "speaker": "Rob"
   },
   {
+    "order": 95,
     "start": 326.4,
     "end": 328.319,
     "text": "Number four, costume.",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 328.319,
     "end": 331.36,
     "text": "A set of clothes you wear to look like somebody else.",
     "speaker": null
   },
   {
+    "order": 97,
     "start": 331.36,
     "end": 335.68,
     "text": "Rob is going to go to the fancy dress party in a superman costume.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 335.68,
     "end": 336.879,
     "text": "Ha, good guess.",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 336.879,
     "end": 341.04,
-    "text": "Good guess. Right. Number five – 'to go all out' means to make a big effort.",
-    "speaker": "Rob"
+    "text": "Right, number five, to go all out means to make a big effort.",
+    "speaker": null
   },
   {
+    "order": 100,
     "start": 341.04,
     "end": 343.759,
-    "text": "\"We went all out this year with our Christmas decorations – with a life-size flashing Santa Claus and sleigh.\"",
-    "speaker": "Neil"
+    "text": "We went all out this year with our Christmas decorations,",
+    "speaker": null
   },
   {
+    "order": 101,
     "start": 343.759,
     "end": 346.72,
     "text": "with our life-size flashing Santa Claus and sleigh.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 346.72,
     "end": 347.759,
     "text": "Now, way to go, Neil.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 348.399,
     "end": 355.12,
     "text": "Number six, the phrasal verb to get carried away means to get very excited and lose control of your feelings.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 355.12,
     "end": 358.319,
-    "text": "\"She got carried away and painted the whole house pink.\"",
+    "text": "\"She got carried away and painted the whole house pink",
     "speaker": "Neil"
   },
   {
+    "order": 105,
     "start": 358.319,
     "end": 359.759,
-    "text": "That must be Barbie's house…",
-    "speaker": "Rob"
+    "text": "That must be Barbie's house.",
+    "speaker": null
   },
   {
+    "order": 106,
     "start": 359.759,
     "end": 360.16,
     "text": "Yep.",
     "speaker": null
   },
   {
+    "order": 107,
     "start": 360.16,
     "end": 362.879,
     "text": "And fancy dresses definitely Barbies cup of tea.",
     "speaker": null
   },
   {
+    "order": 108,
     "start": 362.879,
     "end": 364.48,
     "text": "Okay, that's all for today,",
     "speaker": null
   },
   {
+    "order": 109,
     "start": 364.48,
     "end": 369.36,
-    "text": "Yup – and fancy dress is definitely Barbie's cup of tea! OK, that's all for today. But please remember to check out our Instagram, Twitter, Facebook and YouTube pages.",
+    "text": "but please remember to check out our Instagram, Twitter, Facebook and YouTube pages.",
     "speaker": "Neil"
   },
   {
+    "order": 110,
     "start": 369.36,
     "end": 370.399,
     "text": "Okay, bye-bye.",
     "speaker": null
   },
   {
+    "order": 111,
     "start": 370.399,
     "end": 371.04,
-    "text": "Goodbye!",
-    "speaker": "Neil"
+    "text": "Goodbye.",
+    "speaker": null
   }
 ]

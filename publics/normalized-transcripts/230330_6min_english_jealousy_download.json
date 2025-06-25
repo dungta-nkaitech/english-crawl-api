@@ -1,347 +1,405 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 7,
     "text": "This is a download from BBC Learning English. To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 7,
     "end": 19,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Sam.",
     "speaker": "Sam"
   },
   {
+    "order": 2,
     "start": 19,
     "end": 20,
-    "text": "And I’m Neil.",
-    "speaker": "Neil"
+    "text": "And I'm Neil.",
+    "speaker": null
   },
   {
+    "order": 3,
     "start": 20,
     "end": 27,
     "text": "Your friend Alicia phoned and left a message for you, Neil. She's sorry, but she has to cancel lunch today.",
     "speaker": null
   },
   {
+    "order": 4,
     "start": 27,
     "end": 29,
     "text": "I think she's going with Jenny instead.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 5,
     "start": 29,
     "end": 33,
     "text": "That's the third time this week they've had lunch together. They're best friends now.",
     "speaker": null
   },
   {
+    "order": 6,
     "start": 33,
     "end": 39,
     "text": "Hmm, sounds like Neil has a case of the green-eyed monster. In other words, jealousy.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 39,
     "end": 43,
     "text": "The fear that someone else may take something you think is yours.",
-    "speaker": null
+    "speaker": "the green-eyed monster"
   },
   {
+    "order": 8,
     "start": 43,
     "end": 47,
     "text": "Humans have struggled with jealousy for thousands of years.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 47,
     "end": 53,
     "text": "Jealousy damages friendships, destroys relationships, and can even become a motive for murder.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 53,
     "end": 61,
     "text": "In this programme, we'll discuss jealousy to find out what happens when the green-eyed monster raises its ugly head.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 61,
     "end": 65,
     "text": "And as usual, we'll be learning some useful new vocabulary.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 65,
     "end": 70,
     "text": "Meanwhile, my friend Alicia will be having lunch with Jenny instead of me.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 70,
     "end": 75,
     "text": "Oh, feeling jealous is no fun. Maybe this question will take your mind off it.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 75,
     "end": 82,
-    "text": "Feeling jealous is no fun. Maybe this question will take your mind off it. The expression ‘the green-eyed monster’ comes from a speech in one of William Shakespeare’s most famous plays, but which one? Is it:",
+    "text": "The expression the green-eyed monster comes from a speech in one of William Shakespeare's most famous plays.",
     "speaker": "Sam"
   },
   {
+    "order": 15,
     "start": 82,
     "end": 86,
     "text": "But which one? Is it a Romeo and Juliet?",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 86,
     "end": 89,
     "text": "B, Hamlet or C, or fellow?",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 89,
     "end": 92,
     "text": "I think the answer is a fellow.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 92,
     "end": 95,
     "text": "Okay, Neil. I'll reveal the answer later in the programme.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 95,
     "end": 100,
     "text": "For many people, feelings of jealousy occur in romantic relationships.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 20,
     "start": 100,
     "end": 109,
     "text": "Here, psychologist, Dr. Alex Milky, explains why to the BBC World Service programme, Crowd Science.",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 109,
     "end": 118,
-    "text": "So you have a friend, a significant other, your parents, and you have the feeling that this relationship is threatened by someone else,",
-    "speaker": null
+    "text": "So you have a friend, a significant other, your parents… and you have the feeling that this relationship is threatened by someone else ",
+    "speaker": "significant other flirting envy"
   },
   {
+    "order": 22,
     "start": 118,
     "end": 124,
     "text": "starting some form of relationship with them, starting a new friendship, flirting with them, and so on.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 124,
     "end": 131,
     "text": "Which is different from envy, for example, which is probably the emotion that gets you to act when someone has something you want,",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 131,
     "end": 136,
     "text": "and you have to somehow get that from them. That's when you feel envious.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 136,
     "end": 145,
     "text": "Jealousy can be a problem for husbands and wives, boyfriends and girlfriends, or anyone involved in a romantic relationship.",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 145,
     "end": 153,
     "text": "Dr. Milky uses the term significant other to describe any kind of romantic partner who you have a long-term relationship with.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 153,
     "end": 156,
     "text": "You might feel jealous if someone flirts with your partner.",
-    "speaker": null
-  },
-  {
-    "start": 156,
-    "end": 165,
-    "text": "You might feel jealous if someone flirts with your partner. Flirting is when you behave as if you are sexually attracted to someone but in a playful way rather than with serious intentions.",
     "speaker": "flirts Flirting"
   },
   {
+    "order": 28,
+    "start": 156,
+    "end": 165,
+    "text": "Flirting is when you behave as if you are sexually attracted to someone, but in a playful way, rather than with serious intentions.",
+    "speaker": null
+  },
+  {
+    "order": 29,
     "start": 165,
     "end": 170,
     "text": "Dr. Milky also notes the difference between two words people often confuse.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 170,
     "end": 176,
     "text": "Jealousy and a similar term envy, wanting what someone else has.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 176,
     "end": 186,
     "text": "You could be envious of someone's possessions like a new car. Their achievements like promotion at work, or a personal quality like being funny or good looking.",
     "speaker": null
   },
   {
+    "order": 32,
     "start": 186,
     "end": 193,
     "text": "So jealousy involves three people, you, your loved one, and someone else, whereas envy involves just two.",
-    "speaker": null
-  },
-  {
-    "start": 193,
-    "end": 202,
-    "text": "So, jealousy involves three people – you, your loved one, and someone else - whereas envy involves just two - you and the person who has something you want. But while these emotions are easy to define, they can be very difficult to manage.",
     "speaker": "Sam"
   },
   {
+    "order": 33,
+    "start": 193,
+    "end": 202,
+    "text": "You and the person who has something you want. But while these emotions are easy to define, they can be very difficult to manage.",
+    "speaker": null
+  },
+  {
+    "order": 34,
     "start": 202,
     "end": 211,
     "text": "Jealousy can lead to controlling behaviour, like checking your partner's text messages, or monitoring who they see, behaviour which damages relationships.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 211,
     "end": 222,
-    "text": "Jealousy can lead to controlling behaviour, like checking your partner’s text messages or monitoring who they see, behaviour which damages relationships. But unlike other psychological problems such as anxiety or obsessive-compulsive disorder, many do not feel brave enough to ask for help with their jealousy.",
-    "speaker": "Neil"
-  },
-  {
-    "start": 222,
-    "end": 226,
-    "text": "So what can people who struggle with jealousy do?",
+    "text": "But unlike other psychological problems such as anxiety or obsessive-compulsive disorder, many do not feel brave enough to ask for help with their jealousy.",
     "speaker": null
   },
   {
+    "order": 36,
+    "start": 222,
+    "end": 226,
+    "text": "So, what can people who struggle with jealousy do",
+    "speaker": "Sam"
+  },
+  {
+    "order": 37,
     "start": 226,
     "end": 236,
     "text": "That's the question Caroline Steele, presenter of BBC World Service Programme Crowdscience, asked clinical psychologist Dr. Johann Arlin.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 236,
     "end": 242,
-    "text": "If there was sort of an ideal future for people looking for help with their jealousy, what would it be like? Could there be a pill? Or would it be a specific therapy? Or what’s kind of a realistic ideal future?",
-    "speaker": "pill"
+    "text": "If there was sort of an ideal future for people looking for help with their jealousy, what would it be like?",
+    "speaker": null
   },
   {
+    "order": 39,
     "start": 242,
     "end": 248,
     "text": "Could there be a pill, or would it be a specific therapy, or what's kind of a realistic ideal future?",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 248,
     "end": 258,
     "text": "I believe that some kind of cognitive behavioural therapy, where you work with decreasing these monitoring and checking behaviours, like having a plan for how to do that, because that's not easy.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 258,
     "end": 266,
     "text": "And also at the same time, increasing activities or behaviours that harmonise with how you want to become.",
-    "speaker": null
+    "speaker": "cognitive behavioural therapy"
   },
   {
+    "order": 42,
     "start": 266,
     "end": 276,
     "text": "Unfortunately, Dr. Arlin says jealousy cannot be cured by taking a pill, medicine in the form of a small tablet that you swallow.",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 276,
     "end": 287,
-    "text": "Instead, he recommends cognitive behavioural therapy, or CBT for short, a therapy which helps people deal with their emotions by changing how they think about things. Instead of feeling jealous that your best friend is spending time with someone else, try feeling happy that she’s made a new friend.",
+    "text": "Instead, he recommends cognitive behavioural therapy, or CBT for short, a therapy which helps people deal with their emotions by changing how they think about things.",
     "speaker": "cognitive behavioural therapyCBT"
   },
   {
+    "order": 44,
     "start": 287,
     "end": 294,
     "text": "Instead of feeling jealous that your best friend is spending time with someone else, try feeling happy that she's made a new friend.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 294,
     "end": 300,
-    "text": "Good idea - plus I won’t have that horrid feeling of the green-eyed monster inside! Speaking of which, it’s time to reveal the answer to your question, Sam.",
-    "speaker": "Neil"
+    "text": "Good idea. Plus, I won't have that horrid feeling of the green-eyed monster inside.",
+    "speaker": null
   },
   {
+    "order": 46,
     "start": 300,
     "end": 304,
     "text": "Speaking of which, it's time to reveal the answer to your question, Sam.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 304,
     "end": 311,
     "text": "Ah, I asked which famous Shakespearean play first described jealousy as the green-eyed monster.",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 311,
     "end": 314,
     "text": "I said it was a fellow, so was I right?",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 314,
     "end": 324,
     "text": "A fellow was the correct answer. A fellow becomes so jealous that he murders his wife, Desdemona, before killing himself. If only he'd had some therapy.",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 325,
     "end": 331,
     "text": "Right, let's recap the vocabulary from this programme on the green-eyed monster, another name for jealousy.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 51,
     "start": 331,
     "end": 338,
-    "text": "A significant other is a wife, husband or other romantic partner who you are in a long-term relationship with.",
+    "text": "A significant other is a wife, husband or other romantic partner who you are in a long-term relationship with. ",
     "speaker": "significant other"
   },
   {
+    "order": 52,
     "start": 338,
     "end": 343,
     "text": "Flirting means playfully pretending you are sexually attracted to someone.",
-    "speaker": "Flirting"
+    "speaker": null
   },
   {
+    "order": 53,
     "start": 343,
     "end": 347,
     "text": "The emotion envy means wanting what someone else has.",
     "speaker": "envy"
   },
   {
+    "order": 54,
     "start": 347,
     "end": 351,
     "text": "A pill is medicine in the form of a small tablet which you swallow.",
-    "speaker": "pill"
+    "speaker": null
   },
   {
+    "order": 55,
     "start": 352,
     "end": 363,
-    "text": "And finally, cognitive behavioural therapy or CBT is a type of therapy where people are encouraged to change the way they think about their emotional and behavioural problems. Once again, our six minutes are up. Join us again soon for more emotional support as well as new and useful vocabulary here at 6 Minute English. Bye for now!",
+    "text": "And finally, cognitive behavioural therapy, or CBT, is a type of therapy where people are encouraged to change the way they think about their emotional and behavioural problems.",
     "speaker": "cognitive behavioural therapy  CBT"
   },
   {
+    "order": 56,
     "start": 363,
     "end": 372,
     "text": "Once again, our six minutes are up. Join us again soon for more emotional support, as well as new and useful vocabulary here at Six Minute English. Goodbye for now.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 372,
     "end": 373,
     "text": "Bye-bye.",

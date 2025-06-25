@@ -7,36 +7,8 @@
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/160211_6min_english_payments.pdf",
   "vocabItems": [
     {
-      "word": "behind the curve",
-      "definition": "not keeping up with current thinking or trends"
-    },
-    {
-      "word": "tap-and-go",
-      "definition": "wireless payment technology using credit and debit cards, or mobile phones"
-    },
-    {
-      "word": "antenna",
-      "definition": "equipment used for sending and receiving radio or TV signals"
-    },
-    {
-      "word": "ether",
-      "definition": "the air where electronic communication happens"
-    },
-    {
-      "word": "fraud",
-      "definition": "getting money by cheating people"
-    },
-    {
-      "word": "spending spree",
-      "definition": "doing a lot of shopping over a short period of time"
-    },
-    {
-      "word": "wearable tech",
-      "definition": "things you can wear which combine payment and security technology"
-    },
-    {
-      "word": "authenticate",
-      "definition": "(in general) prove something is true or genuine"
+      "word": "behind the curvetap-and-go antenna ether fraud spending spree wearable techauthenticate",
+      "definition": "behind the curvenot keeping up with current thinking or trendstap-and-go wireless payment technology using credit and debit cards, or mobile phonesantenna equipment used for sending and receiving radio or TV signalsether the air where electronic communication happensfraud getting money by cheating peoplespending spree doing a lot of shopping over a short period of timewearable techthings you can wear which combine payment and security technologyauthenticate(in general) prove something is true or genuine"
     }
   ],
   "quiz": null

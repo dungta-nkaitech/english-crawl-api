@@ -1,629 +1,734 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 13.519,
     "end": 17.16,
     "text": "Hello. This is 6 Minute English from BBC Learning English. I’m Neil.",
     "speaker": "Neil"
   },
   {
+    "order": 3,
     "start": 17.16,
     "end": 18.32,
-    "text": "And I’m Sam.",
-    "speaker": "Sam"
+    "text": "And I'm Sam.",
+    "speaker": null
   },
   {
+    "order": 4,
     "start": 18.32,
     "end": 22.12,
     "text": "Last weekend I was driving from London to Anglesian Wales",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 22.12,
     "end": 25.32,
     "text": "when I saw a road sign written in two languages.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 6,
     "start": 25.32,
     "end": 27.519,
     "text": "It said, welcome to Wales in English.",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 27.519,
     "end": 29.679,
     "text": "And below that, it said,",
     "speaker": null
   },
   {
+    "order": 8,
     "start": 29.679,
     "end": 32.119,
     "text": "Kroiso Gumri in Welsh.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 32.119,
     "end": 36.079,
     "text": "Yes, Welsh is spoken by many people in North Wales.",
     "speaker": null
   },
   {
+    "order": 10,
     "start": 36.079,
     "end": 37.84,
     "text": "It's the indigenous language.",
     "speaker": null
   },
   {
+    "order": 11,
     "start": 37.84,
     "end": 42.119,
     "text": "The language spoken by the people who originally lived in a place,",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 42.119,
     "end": 45.92,
     "text": "rather than by others, who moved there from somewhere else.",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 45.92,
     "end": 50.12,
-    "text": "Welsh is a good example of an indigenous language that has survived.",
-    "speaker": null
+    "text": "Welsh is a good example of an indigenous language that has survived.",
+    "speaker": "indigenous"
   },
   {
+    "order": 14,
     "start": 50.12,
     "end": 52.039,
     "text": "Some children speak Welsh in school",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 52.039,
     "end": 54.679,
     "text": "and the local government has encouraged its spread,",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 54.679,
     "end": 57.76,
     "text": "but not all indigenous languages have been so lucky",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 57.799,
     "end": 60.079,
     "text": "as we'll be finding out in this programme.",
     "speaker": null
   },
   {
+    "order": 18,
     "start": 60.079,
     "end": 63.519,
     "text": "Of course, languages are more than just words.",
     "speaker": null
   },
   {
+    "order": 19,
     "start": 63.519,
     "end": 67.679,
     "text": "They carry people's history, culture and identity.",
     "speaker": null
   },
   {
+    "order": 20,
     "start": 67.679,
     "end": 70.759,
     "text": "So when an indigenous language disappears,",
     "speaker": null
   },
   {
+    "order": 21,
     "start": 70.759,
     "end": 73.079,
     "text": "so too does the culture.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 73.079,
     "end": 75.68,
     "text": "Yes, the dominance of international languages,",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 23,
     "start": 75.68,
     "end": 79.879,
     "text": "including English, has endangered other less spoken languages.",
     "speaker": null
   },
   {
+    "order": 24,
     "start": 79.879,
     "end": 82.039,
     "text": "So here's my quiz question, Sam.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 82.039,
     "end": 86.479,
     "text": "Did you know that nearly 7,000 different languages are spoken around the world,",
     "speaker": null
   },
   {
+    "order": 26,
     "start": 86.52,
     "end": 88.96,
     "text": "but how many of them are indigenous?",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 88.96,
     "end": 93.719,
     "text": "Is it A, 3,000, B, 4,000 or C, 5,000?",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 93.719,
     "end": 98.4,
     "text": "Hmm, I'll say B, 4,000 languages.",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 98.4,
     "end": 102.24,
     "text": "Okay, Sam, we'll find out the answer at the end of the programme.",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 102.24,
     "end": 105.96,
     "text": "One indigenous language speaker is Michko Gabwyd Kwe.",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 105.96,
     "end": 110.64,
     "text": "She's from Canada or Turtle Island, as it's called by her tribe.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 32,
     "start": 110.64,
     "end": 114.159,
     "text": "She grew up speaking English instead of her native language,",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 114.159,
     "end": 119.159,
     "text": "Anishi Nabe Mowin, which she only learned later as an adult.",
     "speaker": null
   },
   {
+    "order": 34,
     "start": 119.159,
     "end": 123.439,
     "text": "Listen to Michko Gabwyd speaking with BBC World Service programme,",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 123.439,
     "end": 125.84,
     "text": "the conversation about how she felt learning",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 36,
     "start": 125.84,
     "end": 128.359,
     "text": "Anishi Nabe Mowin later in life.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 130.359,
     "end": 133.199,
     "text": "When I realised that the sounds that were coming out of my mouth",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 133.199,
     "end": 136.199,
     "text": "were the same sounds that had come out of my ancestors' mouth",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 136.199,
     "end": 141.28,
     "text": "thousands of years ago, I felt a deep sense of who I was",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 141.28,
     "end": 143.56,
     "text": "and what it means to be anishonabic.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 143.56,
     "end": 147.36,
     "text": "And it made me realise that my dream of learning this language",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 147.36,
     "end": 150.52,
     "text": "and passing it on to my children was now accessible,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 150.52,
     "end": 152.92,
     "text": "was now reachable, attainable.",
     "speaker": null
   },
   {
+    "order": 44,
     "start": 152.92,
     "end": 158.08,
     "text": "And after a couple of months, I was able to understand one full prayer",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 158.08,
     "end": 159.96,
     "text": "that was said at a ceremony feast.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 159.96,
     "end": 165.159,
     "text": "And the glee in me and the feeling of joy",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 165.159,
     "end": 169.4,
     "text": "of being able to understand something in my own language,",
     "speaker": null
   },
   {
+    "order": 48,
     "start": 169.4,
     "end": 172.48,
     "text": "it was the most profound sense of confidence.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 174.28,
     "end": 176.56,
     "text": "Learning to speak the language of her ancestors",
-    "speaker": null
+    "speaker": "glee"
   },
   {
+    "order": 50,
     "start": 176.56,
     "end": 182.159,
     "text": "gave Michko Gabwyd glee a feeling of happiness, pleasure or excitement.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 182.92,
     "end": 185.8,
     "text": "Although she didn't grow up speaking, Anishi Nabe Mowin,",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 185.8,
     "end": 188.64,
     "text": "she now wants to pass it on to her children.",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 188.64,
     "end": 191.24,
     "text": "To pass something on means to give it to someone,",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 191.24,
     "end": 194.36,
     "text": "usually in your family, who lives on after you die.",
     "speaker": null
   },
   {
+    "order": 55,
     "start": 195.319,
     "end": 197.84,
     "text": "Michko Gabwyd's decision to raise her children",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 197.84,
     "end": 201.68,
     "text": "speaking Anishina Bimoin turned out to be the right one,",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 201.68,
     "end": 205.68,
     "text": "as she explained to BBC World Service Program the conversation.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 207.36,
     "end": 210.759,
     "text": "There's lots of bumps in the road, but it's going very well.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 210.759,
     "end": 215.52,
     "text": "My daughter is turning four and she completely understands the language.",
-    "speaker": null
+    "speaker": "Sam"
   },
   {
+    "order": 60,
     "start": 215.52,
     "end": 220.08,
     "text": "Being put back into daycare, which she's only been there for maybe a month,",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 220.08,
     "end": 223.36,
     "text": "has really influenced her English.",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 223.36,
     "end": 225.599,
     "text": "So I noticed she's speaking a lot of English.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 225.639,
     "end": 228.239,
     "text": "And so that was a little bit rough for the family,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 228.239,
     "end": 232.319,
     "text": "being an immersion home where we only speak Nishina Bimoin in the home,",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 232.319,
     "end": 234.039,
     "text": "for there to be so much English.",
     "speaker": null
   },
   {
+    "order": 66,
     "start": 234.039,
     "end": 236.639,
     "text": "And only recently over the last week and a half,",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 236.639,
     "end": 240.359,
     "text": "have we really noticed her switch and her shift back into using the language?",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 241.759,
     "end": 245.719,
-    "text": "Bringing up her children to speak her indigenous language wasn't easy.",
-    "speaker": null
+    "text": "Bringing up her children to speak her indigenous language wasn’t easy ",
+    "speaker": "bumps in the road -"
   },
   {
+    "order": 69,
     "start": 245.719,
     "end": 248.879,
     "text": "And Michko Gabwyd said there were some bumps in the road,",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 248.879,
     "end": 253.439,
     "text": "small problems or delays that slowed down or stopped things from developing.",
     "speaker": null
   },
   {
+    "order": 71,
     "start": 253.439,
     "end": 257.36,
     "text": "To help her family spoke only Anishina Bimoin at home,",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 257.36,
     "end": 260.079,
     "text": "using a technique called immersion.",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 260.079,
     "end": 266.079,
     "text": "The process of learning a language or skill by using only that and nothing else.",
     "speaker": null
   },
   {
+    "order": 74,
     "start": 266.079,
     "end": 270.56,
     "text": "This meant that Michko Gabwyd's children spoke both English at school",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 270.56,
     "end": 273.199,
     "text": "and Anishina Bimoin at home.",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 273.199,
     "end": 276.319,
     "text": "She noticed how they changed between languages when speaking,",
-    "speaker": null
+    "speaker": "code-switching."
   },
   {
+    "order": 77,
     "start": 276.319,
     "end": 278.8,
     "text": "something known as code switching.",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 278.8,
     "end": 283.12,
     "text": "Michko Gabwyd believes this not only helps her children's development,",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 283.12,
     "end": 286.399,
     "text": "but also gives them a sense of family history,",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 286.399,
     "end": 290,
     "text": "as well as preserving her traditional culture.",
     "speaker": null
   },
   {
+    "order": 81,
     "start": 290,
     "end": 294.24,
-    "text": "…a culture she hopes they will pass on to their children in turn.",
+    "text": "…a culture she hopes they will pass on to their children in turn",
     "speaker": "Neil"
   },
   {
+    "order": 82,
     "start": 294.24,
     "end": 298.399,
     "text": "So while indigenous cultures are threatened by big global languages,",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 298.399,
     "end": 301.84,
     "text": "there still hope that many will survive into the future.",
     "speaker": null
   },
   {
+    "order": 84,
     "start": 301.84,
     "end": 304.48,
     "text": "Which reminds me of your quiz question, Neil.",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 304.48,
     "end": 306.56,
     "text": "Was my answer right?",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 306.56,
     "end": 312.48,
     "text": "Ah yes, I asked Sam how many of the 7,000 languages spoken around the world are indigenous.",
     "speaker": "Neil"
   },
   {
+    "order": 87,
     "start": 312.48,
     "end": 316.16,
-    "text": "And I thought it was b) 4,000 languages.",
-    "speaker": "Sam"
-  },
-  {
-    "start": 316.16,
-    "end": 318.4,
-    "text": "Which was the correct answer.",
+    "text": "And I thought it was B, 4,000 languages.",
     "speaker": null
   },
   {
+    "order": 88,
+    "start": 316.16,
+    "end": 318.4,
+    "text": "Which was the correct answer!",
+    "speaker": "Neil"
+  },
+  {
+    "order": 89,
     "start": 318.4,
     "end": 321.84,
     "text": "And what's amazing is that although indigenous peoples make up",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 321.84,
     "end": 324.319,
     "text": "under 6% of the global population,",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 324.319,
     "end": 328,
     "text": "they speak more than 4,000 of the world's languages.",
     "speaker": null
   },
   {
+    "order": 92,
     "start": 328,
     "end": 333.439,
     "text": "Okay, Neil, let's recap the vocabulary from this program on Indigenous Languages.",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 333.439,
     "end": 337.52,
     "text": "Languages spoken by the people who originally lived in a place,",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 337.52,
     "end": 340.319,
     "text": "rather than others who came later.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 340.319,
     "end": 343.599,
     "text": "Glee is a feeling of happiness or excitement.",
     "speaker": "Glee"
   },
   {
+    "order": 96,
     "start": 343.599,
     "end": 346.719,
-    "text": "If you pass something on, you give it to someone, usually in your family, who lives on after you.",
-    "speaker": "pass something on,"
+    "text": "If you pass something on, you give it to someone,",
+    "speaker": null
   },
   {
+    "order": 97,
     "start": 346.719,
     "end": 350.719,
     "text": "usually in your family, who lives on after you.",
     "speaker": null
   },
   {
+    "order": 98,
     "start": 350.719,
     "end": 355.199,
     "text": "A bump in the road is a small problem or delay that slows things down.",
     "speaker": "bump in the road"
   },
   {
+    "order": 99,
     "start": 355.199,
     "end": 357.759,
     "text": "Immersion is a process of learning something,",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 357.759,
     "end": 359.759,
     "text": "like a language or a skill,",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 359.759,
     "end": 363.199,
     "text": "by using only that and nothing else.",
     "speaker": null
   },
   {
+    "order": 102,
     "start": 363.199,
     "end": 368.639,
     "text": "And finally, code switching is the ability to change between two or more languages when speaking.",
     "speaker": null
   },
   {
+    "order": 103,
     "start": 368.719,
     "end": 370.639,
     "text": "That's all for Mass. Bye for now.",
     "speaker": null
   },
   {
+    "order": 104,
     "start": 370.639,
     "end": 372.639,
     "text": "Bye-bye.",

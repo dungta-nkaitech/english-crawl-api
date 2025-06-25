@@ -5,6 +5,31 @@
   "thumbnailUrl": "https://ichef.bbc.co.uk/images/ic/640x360/p06zl56w.jpg",
   "audioUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/190131_6min_english_memory_download.mp3",
   "pdfUrl": "http://downloads.bbc.co.uk/learningenglish/features/6min/190131_6min_english_memory.pdf",
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "word": "memories",
+      "definition": "memoriesthings we remember from the past"
+    },
+    {
+      "word": "kinaesthetic",
+      "definition": "kinaestheticlearning by 'doing' and practicing something over and over again"
+    },
+    {
+      "word": "contextual",
+      "definition": "contextualseeing something in the situation where it usually exists"
+    },
+    {
+      "word": "encoding",
+      "definition": "encodingchanging information into a form that can be stored and later recalled"
+    },
+    {
+      "word": "intuitive sense",
+      "definition": "intuitive sensedoing something based on feelings rather than facts or proof"
+    },
+    {
+      "word": "Alzheimer’s (disease)",
+      "definition": "a disease affecting your brain that makes it difficult to remember things and gets worse as you get older"
+    }
+  ],
   "quiz": null
 }

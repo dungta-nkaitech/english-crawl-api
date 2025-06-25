@@ -1,623 +1,727 @@
 [
   {
+    "order": 0,
     "start": 0,
     "end": 3.12,
     "text": "This is a download from BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 1,
     "start": 3.12,
     "end": 5.679,
     "text": "To find out more, visit our website.",
     "speaker": null
   },
   {
+    "order": 2,
     "start": 5.679,
     "end": 8.24,
     "text": "6-Mete English",
     "speaker": null
   },
   {
+    "order": 3,
     "start": 8.24,
     "end": 10.56,
     "text": "From BBC Learning English",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 4,
     "start": 13.519,
     "end": 17.519,
     "text": "Hello, this is 6-minute English from BBC Learning English, I'm Neil.",
     "speaker": null
   },
   {
+    "order": 5,
     "start": 17.519,
     "end": 18.8,
-    "text": "And I’m Rob.",
-    "speaker": "Rob"
+    "text": "And I'm Rob.",
+    "speaker": null
   },
   {
+    "order": 6,
     "start": 18.8,
     "end": 23.92,
     "text": "Rob, I've been reading about ways to protect the environment and I've decided to eat less meat",
     "speaker": null
   },
   {
+    "order": 7,
     "start": 23.92,
     "end": 26.56,
     "text": "and maybe drive my car less, too.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 8,
     "start": 26.639,
     "end": 28.16,
     "text": "Well, good for you, Neil.",
     "speaker": null
   },
   {
+    "order": 9,
     "start": 28.16,
     "end": 31.839,
-    "text": "Good for you, Neil! And flying less can also help reduce air pollution.",
-    "speaker": "Rob"
-  },
-  {
-    "start": 32.479,
-    "end": 37.359,
-    "text": "Right, flying and driving less are two good ways to combat climate change",
+    "text": "And flying less can also help reduce air pollution.",
     "speaker": null
   },
   {
+    "order": 10,
+    "start": 32.479,
+    "end": 37.359,
+    "text": "Right. Flying and driving less are two good ways to combat climate change",
+    "speaker": "carbon footprint"
+  },
+  {
+    "order": 11,
     "start": 37.359,
     "end": 39.92,
     "text": "because they reduce your carbon footprint.",
     "speaker": null
   },
   {
+    "order": 12,
     "start": 39.92,
     "end": 44.32,
     "text": "That's the amount of carbon dioxide or CO2 released into the atmosphere",
     "speaker": null
   },
   {
+    "order": 13,
     "start": 44.32,
     "end": 46.96,
     "text": "as a result of your everyday activities.",
     "speaker": null
   },
   {
+    "order": 14,
     "start": 46.96,
     "end": 51.359,
     "text": "The idea of reducing carbon emissions is catching on in a music industry, too.",
     "speaker": null
   },
   {
+    "order": 15,
     "start": 52,
     "end": 55.12,
     "text": "Bands and artists who go on tour around the world",
     "speaker": null
   },
   {
+    "order": 16,
     "start": 55.119,
     "end": 57.759,
     "text": "generate large carbon footprints.",
     "speaker": null
   },
   {
+    "order": 17,
     "start": 57.759,
     "end": 61.919,
     "text": "So recently, some music groups, like Massive Attack and Green Day,",
-    "speaker": null
-  },
-  {
-    "start": 61.919,
-    "end": 67.039,
-    "text": "So recently some music groups like Massive Attack and Green Day started thinking about ways to reduce the impact their tours are having on the environment.",
     "speaker": "Neil"
   },
   {
-    "start": 67.84,
-    "end": 71.92,
-    "text": "Ha! Green Day – what a good name for a band trying to be environmentally friendly!",
-    "speaker": "Rob"
-  },
-  {
-    "start": 71.92,
-    "end": 77.359,
-    "text": "Today, we'll be finding out about bands and musicians who want to continue going on tour,",
+    "order": 18,
+    "start": 61.919,
+    "end": 67.039,
+    "text": "started thinking about ways to reduce the impact their tours are having on the environment.",
     "speaker": null
   },
   {
+    "order": 19,
+    "start": 67.84,
+    "end": 71.92,
+    "text": "Green Day, what a good name for a band trying to be environmentally friendly.",
+    "speaker": null
+  },
+  {
+    "order": 20,
+    "start": 71.92,
+    "end": 77.359,
+    "text": "Today, we'll be finding out about bands and musicians who want to continue going on tour,",
+    "speaker": "Neil"
+  },
+  {
+    "order": 21,
     "start": 77.359,
     "end": 81.2,
     "text": "but do it in ways which reduce their environmental impact.",
     "speaker": null
   },
   {
+    "order": 22,
     "start": 81.2,
     "end": 84.64,
     "text": "And of course, we'll be learning some related vocabulary on the way.",
     "speaker": null
   },
   {
+    "order": 23,
     "start": 85.439,
     "end": 91.12,
-    "text": "So, it seems like the days of rock and roll stars flying around the world in private jets may soon be a thing of the past.",
-    "speaker": "Rob"
+    "text": "So it seems like the days of rock and roll stars flying around the world in private jets",
+    "speaker": null
   },
   {
+    "order": 24,
     "start": 91.12,
     "end": 93.2,
     "text": "may soon be a thing of the past.",
     "speaker": null
   },
   {
+    "order": 25,
     "start": 93.2,
     "end": 94.16,
-    "text": "Indeed, Rob.",
-    "speaker": null
+    "text": "Indeed, Rob,",
+    "speaker": "Neil"
   },
   {
+    "order": 26,
     "start": 94.16,
     "end": 96.719,
     "text": "And that brings me neatly to my quiz question.",
     "speaker": null
   },
   {
+    "order": 27,
     "start": 97.28,
     "end": 101.04,
     "text": "One British band recently announced they would stop going on tour",
     "speaker": null
   },
   {
+    "order": 28,
     "start": 101.04,
     "end": 105.36,
     "text": "until they were 100% carbon neutral, but which band?",
     "speaker": null
   },
   {
+    "order": 29,
     "start": 105.36,
     "end": 111.92,
     "text": "Was it A, the 1975, B, the Rolling Stones or C, Cold Play?",
     "speaker": null
   },
   {
+    "order": 30,
     "start": 111.92,
     "end": 115.519,
     "text": "Well, Cold Play had a hit with their song, The Scientist,",
     "speaker": null
   },
   {
+    "order": 31,
     "start": 115.519,
     "end": 118.879,
     "text": "and we are talking about carbon dioxide and the climate.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 32,
     "start": 118.879,
     "end": 121.519,
     "text": "So I'll say C, Cold Play.",
     "speaker": null
   },
   {
+    "order": 33,
     "start": 121.519,
     "end": 124.56,
-    "text": "Good thinking, Rob. We'll find out the answer later.",
-    "speaker": null
+    "text": "Good thinking, Rob! We’ll find out the answer later.",
+    "speaker": "Neil"
   },
   {
+    "order": 34,
     "start": 124.56,
     "end": 129.039,
     "text": "But first, let's hear from another artist concerned about her carbon impact.",
     "speaker": null
   },
   {
+    "order": 35,
     "start": 129.039,
     "end": 134.879,
     "text": "Faye Milton is the drummer of the band Savages and co-founder of the Climate Pressure Group,",
     "speaker": null
   },
   {
+    "order": 36,
     "start": 134.879,
     "end": 137.199,
     "text": "Music Declare's Emergency.",
     "speaker": null
   },
   {
+    "order": 37,
     "start": 137.199,
     "end": 140.8,
     "text": "She spoke to BBC Radio 4's program, You and Yours.",
     "speaker": null
   },
   {
+    "order": 38,
     "start": 140.8,
     "end": 143.84,
     "text": "This year, I have actually turned down a tour.",
     "speaker": null
   },
   {
+    "order": 39,
     "start": 145.6,
     "end": 150.32,
     "text": "My income comes from touring, so it has put me in a bit of a precarious situation.",
     "speaker": null
   },
   {
+    "order": 40,
     "start": 150.32,
     "end": 152.4,
     "text": "But I actually feel quite good about it.",
     "speaker": null
   },
   {
+    "order": 41,
     "start": 152.4,
     "end": 154.719,
     "text": "It feels like the right thing to do in this moment.",
     "speaker": null
   },
   {
+    "order": 42,
     "start": 154.719,
     "end": 158.56,
     "text": "Even though Faye earns a living as a drummer by going on tour,",
     "speaker": null
   },
   {
+    "order": 43,
     "start": 158.56,
     "end": 163.92,
-    "text": "Even though Fay earns a living as a drummer by going on tour, she has started to turn them down  – meaning to reject or refuse the offer of touring.",
+    "text": "she has started to turn them down, meaning to reject or refuse the offer of touring.",
     "speaker": "turn  down"
   },
   {
+    "order": 44,
     "start": 163.92,
     "end": 169.76,
     "text": "Losing the income she usually gets from touring puts Faye in a precarious situation.",
     "speaker": null
   },
   {
+    "order": 45,
     "start": 169.84,
     "end": 172.799,
     "text": "A situation where things could become difficult.",
     "speaker": null
   },
   {
+    "order": 46,
     "start": 172.799,
     "end": 178.399,
     "text": "In this case, financially difficult, because she isn't making money from playing the drums.",
     "speaker": null
   },
   {
+    "order": 47,
     "start": 178.399,
     "end": 180.879,
-    "text": "But she still wants to do the right thing.",
-    "speaker": null
+    "text": "But she still wants to do the right thing ",
+    "speaker": "do the right thing"
   },
   {
+    "order": 48,
     "start": 180.879,
     "end": 185.199,
     "text": "In other words, do what is most fair, ethical and just.",
     "speaker": null
   },
   {
+    "order": 49,
     "start": 185.199,
     "end": 189.68,
     "text": "For Faye, fighting climate change is even more important than doing what she loves,",
     "speaker": null
   },
   {
+    "order": 50,
     "start": 189.68,
     "end": 191.599,
     "text": "going on tour with the band.",
     "speaker": null
   },
   {
+    "order": 51,
     "start": 191.599,
     "end": 196.239,
     "text": "Well, good for her. I'm not sure if I'd be so committed as Faye.",
     "speaker": null
   },
   {
+    "order": 52,
     "start": 196.32,
     "end": 198.64,
     "text": "But if bands stop touring altogether,",
     "speaker": null
   },
   {
+    "order": 53,
     "start": 198.64,
     "end": 203.28,
     "text": "fans wouldn't get to see gigs or live concerts and hear the music they love.",
     "speaker": null
   },
   {
+    "order": 54,
     "start": 203.92,
     "end": 208.719,
-    "text": "Well, that's an interesting point, because it might be possible for bands to carry on touring",
-    "speaker": null
+    "text": "Well, that’s an interesting point because it might be possible for bands to carry on touring ",
+    "speaker": "Neil"
   },
   {
+    "order": 55,
     "start": 208.719,
     "end": 212.32,
     "text": "and also reduce their environmental impact at the same time.",
     "speaker": null
   },
   {
+    "order": 56,
     "start": 213.28,
     "end": 216.719,
     "text": "Bristol band Massive Attack want to do exactly that.",
     "speaker": null
   },
   {
+    "order": 57,
     "start": 216.719,
     "end": 219.12,
     "text": "Their singer, Robert Dalnaya, explains.",
     "speaker": null
   },
   {
+    "order": 58,
     "start": 219.84,
     "end": 222.08,
     "text": "We're working with an electric bus company.",
     "speaker": null
   },
   {
+    "order": 59,
     "start": 222.08,
     "end": 223.92,
     "text": "We're going to look at all the energy being renewable,",
     "speaker": null
   },
   {
+    "order": 60,
     "start": 223.919,
     "end": 226.879,
     "text": "and obviously the power we can create will go back to the grid.",
     "speaker": null
   },
   {
+    "order": 61,
     "start": 226.879,
     "end": 230.159,
     "text": "So we're hoping that we can actually create legacy green infrastructure,",
     "speaker": null
   },
   {
+    "order": 62,
     "start": 230.159,
     "end": 231.839,
     "text": "which can then power future gigs.",
     "speaker": null
   },
   {
+    "order": 63,
     "start": 232.639,
     "end": 234.399,
     "text": "We plan to travel to Europe,",
     "speaker": null
   },
   {
+    "order": 64,
     "start": 234.399,
     "end": 237.439,
     "text": "a solely by train with the band, the crew and all the gear.",
     "speaker": null
   },
   {
+    "order": 65,
     "start": 238.239,
     "end": 243.759,
-    "text": "Swapping tour planes for trains and encouraging fans to travel to gigs by bus are two good ways to reduce the total carbon footprint of the concert.",
+    "text": "Swapping tour planes for trains and encouraging fans to travel to gigs by bus",
     "speaker": "Rob"
   },
   {
+    "order": 66,
     "start": 243.759,
     "end": 248.319,
     "text": "are two good ways to reduce the total carbon footprint of the concert.",
     "speaker": null
   },
   {
+    "order": 67,
     "start": 248.319,
     "end": 252.079,
     "text": "And by using renewable energy, the gig can create power.",
     "speaker": null
   },
   {
+    "order": 68,
     "start": 252.08,
     "end": 257.199,
     "text": "This can then be put back into the national grid, called the grid for short.",
     "speaker": null
   },
   {
+    "order": 69,
     "start": 257.199,
     "end": 260.48,
     "text": "That's the network supplying electrical power across a country.",
     "speaker": null
   },
   {
+    "order": 70,
     "start": 261.439,
     "end": 265.68,
-    "text": "Well, Massive Attack are certainly ticking all the green boxes, Neil.",
-    "speaker": null
+    "text": "Well, Massive Attack are certainly ticking all the green boxes, Neil,",
+    "speaker": "Rob"
   },
   {
+    "order": 71,
     "start": 265.68,
     "end": 267.759,
     "text": "But who else is doing a good job?",
     "speaker": null
   },
   {
+    "order": 72,
     "start": 267.759,
     "end": 269.759,
     "text": "Remember your quiz question earlier?",
     "speaker": null
   },
   {
+    "order": 73,
     "start": 269.759,
     "end": 273.6,
-    "text": "Ah, yes. I asked which band has decided to stop touring until their tours were carbon neutral and you said?",
-    "speaker": "Neil"
+    "text": "Ah, yes. I asked which band has decided to stop touring,",
+    "speaker": null
   },
   {
+    "order": 74,
     "start": 273.6,
     "end": 275.84,
     "text": "until their tours were carbon neutral.",
     "speaker": null
   },
   {
+    "order": 75,
     "start": 275.84,
     "end": 276.639,
     "text": "And you said,",
     "speaker": null
   },
   {
+    "order": 76,
     "start": 276.639,
     "end": 278.8,
     "text": "I said, see cold play.",
     "speaker": null
   },
   {
+    "order": 77,
     "start": 278.8,
     "end": 281.28,
     "text": "And you were right. Are you a cold play fan, Rob?",
     "speaker": null
   },
   {
+    "order": 78,
     "start": 281.759,
     "end": 285.359,
     "text": "Just remember to leave your car at home the next time you go to one of their gigs.",
     "speaker": null
   },
   {
+    "order": 79,
     "start": 286.079,
     "end": 290.639,
     "text": "Right. Okay. Well, today we've been looking at some of the ways music bands and artists",
     "speaker": null
   },
   {
+    "order": 80,
     "start": 290.639,
     "end": 292.959,
     "text": "are trying to fight climate change.",
-    "speaker": null
+    "speaker": "Neil"
   },
   {
+    "order": 81,
     "start": 292.959,
     "end": 295.439,
     "text": "They want to reduce their carbon footprint,",
     "speaker": null
   },
   {
+    "order": 82,
     "start": 295.439,
     "end": 297.839,
     "text": "the amount of carbon they release into the air.",
     "speaker": null
   },
   {
+    "order": 83,
     "start": 297.839,
     "end": 303.119,
     "text": "Some musicians are starting to turn down or refuse long world tour dates",
-    "speaker": null
+    "speaker": "turn downgigs"
   },
   {
+    "order": 84,
     "start": 303.119,
     "end": 308,
     "text": "because flying from country to country, playing gigs or live musical concerts,",
     "speaker": null
   },
   {
+    "order": 85,
     "start": 308,
     "end": 310.399,
     "text": "generates so much carbon dioxide.",
     "speaker": null
   },
   {
+    "order": 86,
     "start": 310.479,
     "end": 314.079,
     "text": "Bands like savages, green day and massive attack",
     "speaker": null
   },
   {
+    "order": 87,
     "start": 314.079,
     "end": 315.759,
     "text": "are trying to do the right thing.",
     "speaker": null
   },
   {
+    "order": 88,
     "start": 316.56,
     "end": 319.519,
     "text": "Taking the most fair and ethical course of action,",
     "speaker": null
   },
   {
+    "order": 89,
     "start": 319.519,
     "end": 321.519,
     "text": "even though for some artists,",
     "speaker": null
   },
   {
+    "order": 90,
     "start": 321.519,
     "end": 327.12,
     "text": "the income lost from not touring puts them in a precarious or difficult situation.",
     "speaker": null
   },
   {
+    "order": 91,
     "start": 327.12,
     "end": 328.639,
     "text": "But when they get it right,",
-    "speaker": null
+    "speaker": "he national grid"
   },
   {
+    "order": 92,
     "start": 328.639,
     "end": 331.919,
     "text": "bands can be carbon neutral or even generate power,",
     "speaker": null
   },
   {
+    "order": 93,
     "start": 331.919,
     "end": 334.639,
     "text": "which can be put back into the national grid,",
     "speaker": null
   },
   {
+    "order": 94,
     "start": 334.639,
     "end": 338.079,
     "text": "the network supplying electrical power across a country.",
     "speaker": null
   },
   {
+    "order": 95,
     "start": 338.159,
     "end": 342.24,
     "text": "All of which means we can keep on rocking into the next century",
     "speaker": null
   },
   {
+    "order": 96,
     "start": 342.24,
     "end": 346.159,
-    "text": "All of which means we can ‘keep on rocking’ into the next century without increasing carbon emissions and adding to climate change.",
-    "speaker": "Rob"
+    "text": "without increasing carbon emissions and adding to climate change.",
+    "speaker": null
   },
   {
+    "order": 97,
     "start": 346.159,
     "end": 349.919,
-    "text": "So, Rob, you could say you were ‘born to run’… on renewable energy!",
+    "text": "So Rob, you could say you were born to run on renewable energy.",
     "speaker": "Neil"
   },
   {
+    "order": 98,
     "start": 351.279,
     "end": 354,
     "text": "Very funny, Neil. Well, that's all for today,",
     "speaker": null
   },
   {
+    "order": 99,
     "start": 354,
     "end": 357.68,
     "text": "but remember to join us again soon for more topical discussions",
     "speaker": null
   },
   {
+    "order": 100,
     "start": 357.68,
     "end": 362.719,
     "text": "and vocabulary from six minute English here at BBC Learning English.",
     "speaker": null
   },
   {
+    "order": 101,
     "start": 362.719,
     "end": 364.399,
     "text": "Thanks for listening and bye!",
     "speaker": "Neil"
   },
   {
+    "order": 102,
     "start": 364.399,
     "end": 364.879,
-    "text": "Bye.",
-    "speaker": "Rob"
+    "text": "Bye-bye.",
+    "speaker": null
   },
   {
+    "order": 103,
     "start": 368.079,
     "end": 370.319,
     "text": "From BBC Learning English.",
